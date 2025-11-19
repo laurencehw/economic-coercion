@@ -1,0 +1,8 @@
+Technology_Node,TSMC,Samsung,Intel,SMIC,Others
+3nm,100,0,0,0,0
+5nm,90,10,0,0,0
+7nm,70,25,0,5,0
+10nm,55,30,10,0,5
+14nm,35,20,15,10,20
+28nm,30,15,5,15,35
+65nm_and_larger,15,10,5,20,50

@@ -1,9 +1,11 @@
 # Large data files
-*.csv
 *.xlsx
 *.xls
 data/raw/*
 !data/raw/.gitkeep
+
+# Allow source data (small CSVs for visualizations)
+!data/sources/*.csv
 
 # Large PDFs (keep small reference docs)
 *.pdf
