@@ -1,0 +1,41 @@
+# Large data files
+*.csv
+*.xlsx
+*.xls
+data/raw/*
+!data/raw/.gitkeep
+
+# Large PDFs (keep small reference docs)
+*.pdf
+!references/key_documents/*.pdf
+
+# Google Drive files
+*.gdoc
+*.gsheet
+*.gslides
+
+# Windows shortcuts
+*.lnk
+
+# Temporary files
+*.tmp
+*.bak
+*~
+.DS_Store
+Thumbs.db
+
+# Build outputs
+/build
+/dist
+*.aux
+*.log
+*.out
+*.toc
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+
+# But keep folder structure
+!.gitkeep
