@@ -2,6 +2,8 @@
 
 % Font and encoding
 \usepackage{fontspec}
+\usepackage{xeCJK}
+\setCJKmainfont{Microsoft YaHei}
 \setmainfont{Times New Roman}
 \setsansfont{Arial}
 \setmonofont{Courier New}

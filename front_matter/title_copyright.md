@@ -8,7 +8,7 @@ date: "November 2025"
 
 \newpage
 
-# Copyright and Publication Information
+# Copyright and Publication Information {-}
 
 **Economic Coercion in the 21st Century: Tools, Strategies, and Great Power Competition**
 

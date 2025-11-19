@@ -1,4 +1,4 @@
-# Chapter 1: Foundations of Economic Statecraft in the 21st Century
+# Foundations of Economic Statecraft in the 21st Century
 
 ## Executive Summary
 
@@ -20,9 +20,9 @@ The stakes are high. How the United States and China manage their economic inter
 
 ---
 
-## Section 1: Introduction - The Return of Economic Statecraft
+## Introduction - The Return of Economic Statecraft
 
-### 1.1 Opening Vignette: The October 2022 Semiconductor Controls
+### Opening Vignette: The October 2022 Semiconductor Controls
 
 The meeting was classified, the implications global. In early October 2022, senior officials from the Departments of Commerce, State, Defense, and the National Security Council gathered to finalize the most aggressive peacetime export controls the United States had ever imposed. Their target: China's advanced semiconductor industry and, by extension, its ambitions in artificial intelligence, supercomputing, and military modernization.
 
@@ -34,7 +34,7 @@ China's response revealed how deeply these measures struck. State media denounce
 
 This episode crystallizes the central dynamic of contemporary great power competition. The United States and China are locked in a struggle over the commanding heights of 21st-century technology, and economic tools have become the primary instruments of that struggle. Neither side launched missiles or moved troops. Instead, they manipulated supply chain dependencies, restricted access to critical inputs, and used regulatory authority to reshape patterns of global commerce. This is economic statecraft in the modern era.
 
-### 1.2 The Paradox of Interdependence
+### The Paradox of Interdependence
 
 For decades, economic interdependence was assumed to be a pacifying force. The logic was straightforward: countries that trade extensively have shared interests in stability, mutual prosperity, and maintaining open markets. War becomes irrational when it disrupts profitable exchange. This "capitalist peace" thesis underpinned much of post-Cold War Western strategy, particularly toward China. Integrating China into global institutions and supply chains would not only enrich all parties but also make conflict prohibitively costly.
 
@@ -48,7 +48,7 @@ The result is a fundamental tension. Economic integration does constrain: sancti
 
 This paradox generates strategic dilemmas. How much economic integration is optimal when potential adversaries are involved? Should states prioritize economic efficiency or strategic autonomy? Can chokepoint dependencies be maintained without provoking retaliation or accelerating rivals' efforts at self-sufficiency? These questions have no easy answers, but understanding the dual nature of interdependence is essential for navigating them.
 
-### 1.3 Why Now? Four Structural Drivers
+### Why Now? Four Structural Drivers
 
 Economic coercion is not new. Imperial Britain used trade restrictions and naval blockades. The United States orchestrated Cold War export controls through CoCom. Economic sanctions have long been a staple of foreign policy. Yet the current era is distinctive in the intensity, sophistication, and centrality of economic statecraft. Four structural factors explain why.
 
@@ -66,11 +66,11 @@ The remainder of this chapter builds on this foundation. We first define key con
 
 ---
 
-## Section 2: Defining Key Concepts
+## Defining Key Concepts
 
 Precision matters. The terms "geoeconomics," "economic statecraft," "weaponized interdependence," and "economic coercion" are often used interchangeably in policy debates, but they describe distinct—though related—phenomena. Clear definitions enable clearer thinking about when, why, and how states use economic power for strategic purposes.
 
-### 2.1 Geoeconomics
+### Geoeconomics
 
 **Geoeconomics** refers to the use of economic instruments to produce geopolitical outcomes. The term was coined by Edward Luttwak in the early 1990s to describe how states compete for power and influence through economic means in an era when military competition among major powers had become prohibitively risky. Where geopolitics is about the relationship between geography, power, and strategy, geoeconomics applies that logic to economic domains: trade, investment, finance, technology, and resources.
 
@@ -82,7 +82,7 @@ Geoeconomics is not inherently adversarial. States can use economic tools to bui
 
 The shift toward geoeconomic competition reflects structural changes in the international system. During the Cold War, the economic and security spheres were substantially decoupled: the West traded internally, the Communist bloc did likewise, and military competition dominated superpower relations. Today, the United States and China are deeply economically integrated while simultaneously engaged in strategic competition. This creates demand for geoeconomic tools—economic measures that can advance security objectives without triggering military escalation.
 
-### 2.2 Economic Statecraft
+### Economic Statecraft
 
 **Economic statecraft** is the subset of geoeconomics focused on deliberate government policies using economic tools to achieve foreign policy objectives. Where geoeconomics describes a broad strategic domain, economic statecraft refers to specific policy instruments and their application.
 
@@ -94,7 +94,7 @@ Effectiveness varies dramatically across contexts. Economic statecraft succeeds 
 
 Economic statecraft also generates second-order effects that can undermine long-term effectiveness. Overuse of financial sanctions may accelerate efforts to create alternatives to dollar-denominated finance—China's Cross-Border Interbank Payment System (CIPS) and discussions of central bank digital currencies partly reflect this dynamic. Aggressive use of export controls may spur targeted countries to invest heavily in indigenous alternatives, eventually reducing the sanctioner's leverage—as China is now doing in semiconductors following U.S. restrictions.
 
-### 2.3 Weaponized Interdependence
+### Weaponized Interdependence
 
 **Weaponized interdependence** describes the structural condition in which asymmetric network positions in globalized economic systems can be exploited for strategic advantage. This concept, developed by Henry Farrell and Abraham Newman, explains how economic integration—long assumed to promote peace—can actually enable new forms of coercion.
 
@@ -108,7 +108,7 @@ Weaponized interdependence differs from traditional economic warfare. It does no
 
 This creates distinctive strategic dynamics. States seek to maximize their hub positions while reducing dependence on rivals' hubs—hence China's emphasis on semiconductor self-sufficiency and development of alternative payment systems, and American efforts to secure rare earth supply chains and reduce reliance on Chinese manufacturing for critical goods. The result is partial decoupling: selective disengagement from specific vulnerable dependencies while maintaining broader economic integration where both sides benefit and neither sees critical security risks.
 
-### 2.4 Economic Coercion
+### Economic Coercion
 
 **Economic coercion** is the use of economic measures to compel changes in another actor's behavior through the threat or infliction of economic costs. It is the most adversarial form of economic statecraft, aimed at forcing targets to do something (compellence), stop doing something (deterrence), or constraining their capabilities (containment).
 
@@ -126,11 +126,11 @@ Understanding these distinctions—between geoeconomics as strategic domain, eco
 
 ---
 
-## Section 3: The US-China Strategic Competition
+## The US-China Strategic Competition
 
 The US-China relationship is the central axis of contemporary geoeconomic competition. No other bilateral relationship involves comparable economic interdependence combined with strategic rivalry. Understanding how these two powers reached this point—and how each conceptualizes the competition—is essential for analyzing specific instances of economic coercion.
 
-### 3.1 The Arc of US-China Economic Relations
+### The Arc of US-China Economic Relations
 
 The trajectory from partnership to competition unfolded over four decades in three distinct phases.
 
@@ -141,6 +141,8 @@ The normalization of US-China relations in 1979 opened an era of deepening econo
 American policymakers embraced a theory of transformative engagement: integrating China into the global economy and international institutions would not only create prosperity but would also promote political liberalization and responsible international behavior. As President Clinton argued in 2000 when advocating for China's WTO accession, "by joining the WTO, China is not simply agreeing to import more of our products; it is agreeing to import one of democracy's most cherished values: economic freedom... When individuals have the power... to realize their dreams, they will demand a greater say."
 
 China's accession to the World Trade Organization in 2001 accelerated integration dramatically. Trade between the US and China grew from $116 billion in 2000 to over $560 billion by 2008. American companies invested heavily in Chinese manufacturing, taking advantage of low labor costs and increasingly sophisticated supply chains. China became "the world's factory," integral to global production networks for electronics, apparel, machinery, and countless other goods. The relationship appeared to validate the liberal assumption that economic interdependence promotes cooperation.
+
+![US-China Trade Volume and Key Events (2000-2024)](figures/figure_1_2_us_china_trade.png)
 
 But integration also created structural dependencies and distributional consequences that would later fuel tensions. American manufacturing employment declined sharply—research by Autor, Dorn, and Hanson estimated that competition from Chinese imports eliminated 2.4 million U.S. jobs between 1999 and 2011. China accumulated massive foreign exchange reserves ($2 trillion by 2008) and became the largest foreign holder of U.S. Treasury securities, creating mutual financial dependencies. Technology transfer—sometimes voluntary through joint ventures, sometimes coerced through requirements for market access, sometimes illicit through cyber espionage—accelerated China's industrial upgrading.
 
@@ -164,6 +166,8 @@ The Trump administration's arrival in 2017 marked a decisive shift from engageme
 
 Economic statecraft became the primary domain of competition. The Trump administration imposed sweeping tariffs on Chinese goods (eventually covering roughly $370 billion in imports), justified partly on trade grounds (reducing the bilateral deficit) but increasingly on strategic grounds (protecting American technology, reducing dependencies). China retaliated with tariffs on American agricultural products and industrial goods. The "trade war" of 2018-2019 demonstrated both sides' willingness to impose substantial economic costs in pursuit of strategic objectives.
 
+![Timeline of Economic Coercion Events](figures/figure_1_4_timeline.png)
+
 But tariffs were only the most visible component. More consequentially, the U.S. began systematically restricting Chinese access to advanced technology. The 2018 Export Control Reform Act (ECRA) and Foreign Investment Risk Review Modernization Act (FIRRMA) expanded authority to control technology exports and screen foreign investment. Commerce Department's Bureau of Industry and Security added Chinese firms to the Entity List, blocking access to American technology: Huawei and ZTE in 2018-2019, advanced semiconductor firms SMIC and YMTC in 2020-2022. The October 2022 semiconductor controls, discussed earlier, represented the culmination of this approach—comprehensive effort to prevent China from accessing chokepoint technologies for advanced computing.
 
 The Biden administration maintained and expanded this technology competition despite relaxing some tariffs. The 2022 CHIPS and Science Act provided $52 billion for domestic semiconductor manufacturing and research, with explicit prohibitions on recipients expanding advanced semiconductor production in China. The 2022 Inflation Reduction Act included substantial subsidies for electric vehicle and battery production, with requirements limiting Chinese content to qualify for benefits. Export controls expanded to cover quantum computing, advanced AI chips, and biotech equipment. The framework shifted from simply restricting China to proactively building American and allied advantages in strategic technologies—what National Security Advisor Jake Sullivan called "running faster" while maintaining "as large a lead as possible."
@@ -172,7 +176,7 @@ China responded with its own measures. Beijing accelerated implementation of its
 
 The result is a partial decoupling: selective disengagement from specific dependencies deemed strategically risky, while maintaining broader economic integration where both sides benefit. Total bilateral trade actually increased to over $750 billion by 2022 despite tensions. But the composition is changing—trade in advanced technology products declining, scrutiny of investment intensifying, and both sides building redundancy in critical supply chains.
 
-### 3.2 China's Economic Power and Strategic Objectives
+### China's Economic Power and Strategic Objectives
 
 China brings formidable economic capabilities to this competition. It is the world's second-largest economy ($18 trillion GDP in 2023), largest trading nation ($6 trillion in goods trade annually), largest manufacturer (28% of global manufacturing output), and increasingly a technology frontier state. This economic scale creates multiple sources of leverage.
 
@@ -186,7 +190,7 @@ China brings formidable economic capabilities to this competition. It is the wor
 
 China's strategic objectives in economic statecraft center on three imperatives. First, **national rejuvenation** (中华民族伟大复兴, Zhōnghuá mínzú wěidà fùxīng)—Xi Jinping's defining goal of restoring China to great power status by the centenary of the People's Republic in 2049. This requires sustained economic growth, technological advancement, and freedom from external constraints. Second, **technology self-sufficiency** (科技自立自强, kējì zìlì zìqiáng)—reducing dependence on Western technology in strategic domains to prevent chokepoint vulnerability. The semiconductor push exemplifies this priority. Third, **resistance to containment**—preventing the formation of a Western coalition that could constrain Chinese development, much as CoCom constrained Soviet technological advancement during the Cold War. Economic statecraft serves all three objectives: building capabilities, reducing vulnerabilities, and contesting U.S. efforts at technological restriction.
 
-### 3.3 The US Position and Strategic Objectives
+### The US Position and Strategic Objectives
 
 The United States brings different but complementary sources of economic power. While no longer the dominant manufacturer, the U.S. maintains critical chokepoints in advanced technology supply chains, global finance, and institutional rule-making.
 
@@ -204,7 +208,7 @@ But American strategy faces distinctive constraints. **Commercial interests** of
 
 The resulting U.S. approach is asymmetric restriction: comprehensive controls on chokepoint technologies critical for advanced computing and AI, combined with continued economic engagement in less sensitive domains. This attempts to slow Chinese advancement in strategic technologies while avoiding complete decoupling that would impose prohibitive costs on American firms and consumers.
 
-### 3.4 The Logic of Economic Competition
+### The Logic of Economic Competition
 
 The US-China economic competition differs from Cold War precedent in several crucial ways. First, it occurs within deep interdependence rather than separate economic blocs. This creates mutual vulnerabilities and domestic constituencies opposing decoupling. Second, it centers on technology and innovation rather than ideology. The competition is about who masters AI, quantum computing, and biotechnology—domains with both commercial and military applications. Third, it involves a broader toolkit than traditional sanctions. Export controls, investment screening, standard-setting, talent restrictions, development finance, and regulatory investigations all serve strategic purposes.
 
@@ -214,95 +218,13 @@ The next sections examine how analysts can systematically assess economic coerci
 
 ---
 
-## Perspective Box: Chinese Views on Economic Statecraft
-
-Effective strategy requires understanding how adversaries perceive threats, opportunities, and constraints. This perspective box presents Chinese viewpoints on economic statecraft—not to endorse them, but to explain how historical experience and strategic culture shape Beijing's approach to economic coercion. Understanding this logic is essential for anticipating Chinese responses and designing effective policies.
-
-### Historical Context: Three Formative Experiences
-
-Chinese perspectives on economic statecraft are inseparable from three historical experiences that shape elite and popular consciousness.
-
-**The Century of Humiliation (百年国耻, bǎinián guóchǐ, 1839-1949).** From the First Opium War through Japanese occupation and civil war, China experienced foreign invasion, unequal treaties, territorial losses, and economic exploitation. Western powers and Japan used superior military and economic power to extract concessions, impose trade terms favorable to foreign interests, and carve China into spheres of influence. The Opium Wars specifically involved Britain using military force to compel China to accept opium imports—weaponized trade in its most literal form.
-
-This period is not ancient history in Chinese political discourse. It is actively invoked to explain why sovereignty and non-interference are paramount, why China must never again be weak enough to be exploited, and why foreign pressure—even through ostensibly "economic" means—represents attempted domination. When American officials frame export controls as defensive measures to protect national security, many Chinese hear echoes of 19th-century justifications for imposing unequal terms on a weaker China.
-
-**Cold War Isolation and Technology Denial (1949-1979).** After the Communist victory in 1949, Western powers—led by the United States—imposed comprehensive economic restrictions and technology denial on the People's Republic. China was excluded from the Bretton Woods institutions (IMF, World Bank), faced embargoes on strategic goods through CoCom and the China Committee (CHINCOM), and had minimal access to Western technology and capital. The Soviet Union provided some technology and assistance until the Sino-Soviet split in 1960, after which China faced isolation from both major blocs.
-
-This experience taught that adversaries will use technology denial to constrain China's development, that self-reliance (自力更生, zìlì gēngshēng) is necessary because external supply cannot be trusted, and that breaking through such containment requires sustained effort and sacrifice. China's development of nuclear weapons despite isolation—the "Two Bombs, One Satellite" (两弹一星, liǎng dàn yī xīng) program—is celebrated as proving that determined effort can overcome foreign restrictions.
-
-**The Reform Era's Double-Bind (1979-Present).** Deng Xiaoping's opening brought access to Western capital, technology, and markets—enabling extraordinary growth. But it also created new dependencies and vulnerabilities. China became reliant on imported semiconductors, advanced machinery, and critical technologies. Economic integration created leverage that trading partners could exploit: Japan's 2010 rare earth restrictions following the fishing captain incident, the EU's anti-dumping actions, and more recently American semiconductor controls all demonstrated that economic partners could become economic coercers when interests diverged.
-
-This experience reinforces that integration brings growth but also vulnerability, that dependence on foreign technology in strategic domains is dangerous, and that China must achieve self-sufficiency in critical technologies to ensure sovereignty. The current drive for semiconductor independence reflects lessons learned from this period: economic interdependence does not guarantee benign treatment.
-
-### Strategic Logic and Threat Perception
-
-From these experiences, Chinese strategists derive several core propositions about economic statecraft that differ from Western liberal assumptions.
-
-**Economic coercion is a tool of the strong against the weak.** In the Chinese reading of history, economic statecraft has primarily been used by powerful states to dominate weaker ones: Opium Wars, unequal treaties, CoCom/CHINCOM, contemporary sanctions on countries that cannot effectively resist. The liberal narrative that sanctions promote human rights or enforce international norms is viewed skeptically as post-hoc rationalization for coercion that serves the interests of sanctioning powers. When the United States imposes sanctions on China, many Chinese analysts see not protection of liberal values but attempted constraint of a rising power by an incumbent seeking to maintain dominance.
-
-**Technology denial aims to maintain hierarchy.** Chinese analysts view Western technology restrictions—from CoCom to contemporary semiconductor controls—as efforts to preserve technological superiority and economic hierarchy, not primarily as defensive national security measures. The logic is straightforward: if China achieves parity in advanced semiconductors, AI, and other strategic technologies, American military and economic advantages erode. Export controls are therefore seen as offensive measures to maintain U.S. primacy, not defensive actions to protect against Chinese aggression. This framing makes compliance appear as acceptance of permanent subordination—politically impossible for a rising power with China's history and aspirations.
-
-**Self-reliance is both necessity and virtue.** Given that foreign suppliers cannot be trusted (they impose restrictions when strategic interests dictate), China must achieve self-sufficiency in critical technologies and resources. This is framed not merely as strategic necessity but as moral imperative: self-reliance (自力更生) means refusing to accept dependence and vulnerability. Massive investments in domestic semiconductor capacity, rare earth processing, and alternative payment systems reflect this logic. The economic inefficiency of duplicating capacity is accepted as the price of sovereignty.
-
-**Reciprocity and retaliation are legitimate.** If other countries use economic measures coercively against China, Beijing has both right and obligation to respond in kind. China's Anti-Foreign Sanctions Law (2021) explicitly authorizes countermeasures against entities implementing foreign sanctions. Export controls on gallium and germanium following U.S. semiconductor restrictions are framed as appropriate reciprocity, not aggressive escalation. The unstated logic is that only by demonstrating capacity and willingness to impose costs can China deter further restrictions—appeasement invites greater pressure.
-
-### Official Position and Policy Responses
-
-Chinese official discourse emphasizes several themes that justify economic statecraft while criticizing its use by others.
-
-**Non-interference and sovereignty.** Official statements consistently invoke the principle of non-interference in internal affairs and respect for sovereignty. Economic coercion that aims to change target countries' domestic policies (human rights sanctions, democracy promotion) is condemned as violation of sovereignty. At the same time, China reserves the right to use economic measures to protect core interests—the distinction being that China's actions defend sovereignty while Western sanctions violate it.
-
-**Mutual benefit and win-win cooperation (互利共赢, hùlì gòngyíng).** China frames its economic statecraft—Belt and Road financing, technology cooperation, trade relationships—as promoting mutual benefit, contrasting with zero-sum Western approaches. This narrative positions China as offering development opportunities while the West imposes restrictions and conditions. The reality is more complex (BRI projects involve strategic calculations and create dependencies), but the framing serves political purposes domestically and internationally.
-
-**Opposition to hegemonism and bullying.** Chinese leaders consistently criticize what they term "hegemonism" (霸权主义, bàquán zhǔyì) and "economic bullying" (经济霸凌, jīngjì bàlíng)—using economic dominance to coerce others. U.S. sanctions and export controls are prime examples in this discourse. Xi Jinping's speeches regularly warn against "unilateralism and protectionism" and advocate for "true multilateralism" that respects all countries' interests, positioning China as defender of smaller states against superpower coercion.
-
-**Key policy responses** reflect these strategic perspectives:
-
-- **Dual Circulation Strategy (双循环, shuāng xúnhuán):** Emphasizes domestic consumption and innovation to reduce dependence on foreign markets and technology while maintaining international economic engagement. Internal circulation (domestic) provides resilience; external circulation (international) provides growth and resources.
-
-- **Technology Self-Sufficiency (科技自立自强, kējì zìlì zìqiáng):** Massive state investment in semiconductors, advanced materials, aerospace, AI, and other strategic technologies to eliminate chokepoint vulnerabilities. The "Big Fund" for semiconductors exceeds $100 billion in capital commitments.
-
-- **Unreliable Entity List (不可靠实体清单, bù kěkào shítǐ qīngdān):** Mechanism to sanction foreign entities that damage Chinese firms' interests, refuse to supply based on political grounds, or implement discriminatory restrictions. Provides tool for retaliation and deterrence.
-
-- **Export Control Law (2020):** Establishes legal framework for controlling exports of dual-use items, critical technologies, and other goods for national security. Enables reciprocal restrictions when China holds chokepoint leverage (rare earths, critical minerals, pharmaceutical ingredients).
-
-- **Anti-Foreign Sanctions Law (2021):** Authorizes countermeasures against entities and individuals implementing foreign sanctions, including blocking property, prohibiting transactions, and denying visas. Creates legal basis for economic retaliation.
-
-### Key Chinese Strategic Concepts
-
-Several concepts that do not translate directly into English are central to Chinese strategic thinking on economic statecraft.
-
-**Comprehensive National Power (综合国力, zōnghé guólì).** This concept integrates economic capacity, technological sophistication, military strength, cultural influence, and political cohesion into a holistic measure of national power. Economic statecraft serves the goal of increasing comprehensive national power—not just GDP growth, but technological autonomy, resource security, and systemic influence. This explains why China accepts economic inefficiency (overcapacity in strategic industries, duplication of semiconductor capacity) in service of strategic objectives: comprehensive national power includes the capacity to withstand pressure and project influence, not just maximize economic output.
-
-**Chokepoint (卡脖子, qiǎ bózi, literally "strangling the neck").** This vivid term describes critical dependencies on foreign technology or resources that adversaries can exploit. Semiconductors are the archetypal "chokepoint" technology—China imports over $400 billion in chips annually and cannot produce cutting-edge chips domestically. Eliminating chokepoints through indigenous innovation is a central strategic priority. The term's visceral imagery—being strangled—conveys the perceived threat from technological dependence.
-
-**Unreliable Entities (不可靠实体, bù kěkào shítǐ).** Foreign firms or governments that weaponize economic relationships, refuse to supply goods for political reasons, or discriminate against Chinese entities. The concept justifies retaliation: if you prove "unreliable" by politicizing economic ties, China will exclude you from its market or restrict your access to critical Chinese-supplied inputs.
-
-**Core Interests (核心利益, héxīn lìyì).** Issues on which China will not compromise and will use all available tools—including economic coercion—to defend. Traditionally includes sovereignty over Taiwan, Tibet, and Xinjiang, as well as the Communist Party's political monopoly. Increasingly extends to technology autonomy and freedom from external constraints on development. Signals to adversaries which issues might trigger serious escalation.
-
-### Implications for US/Western Strategy
-
-Understanding Chinese perspectives does not mean accepting their validity, but it does inform more effective policy.
-
-**Export controls are seen as containment.** However U.S. policymakers frame semiconductor restrictions, Beijing interprets them as strategic containment similar to CoCom—efforts to maintain American technological superiority and prevent China from achieving great power status. This means compliance is unlikely; instead, expect massive Chinese investment in overcoming restrictions through indigenous innovation, however economically inefficient.
-
-**Economic dependencies cut both ways.** China increasingly recognizes its own chokepoint leverage in rare earths, battery materials, pharmaceutical ingredients, and manufacturing capacity for critical goods. Expect Beijing to develop these capabilities systematically, both as deterrent against Western restrictions and as potential coercive tools. The gallium/germanium export controls following U.S. semiconductor measures preview this approach.
-
-**Retaliation is predictable and intentional.** Chinese countermeasures to economic coercion serve multiple purposes: imposing costs to deter future restrictions, signaling resolve, demonstrating to domestic audiences that China does not accept pressure passively, and testing adversaries' pain tolerance. Policymakers should anticipate proportional retaliation and plan accordingly.
-
-**Off-ramps require face-saving.** Chinese political culture places high value on avoiding public humiliation. Economic coercion that appears designed to force China into embarrassing concessions or public backdowns is likely to fail regardless of economic costs. Effective inducements provide ways to change policy while maintaining dignity—framing as mutual adjustment rather than unilateral surrender.
-
-**Long time horizons shape Chinese strategy.** China plans in decades, not electoral cycles. Short-term economic pain from restrictions is acceptable if long-term trajectory points toward technology autonomy and great power status. Western policymakers often expect economic costs to produce rapid policy changes; Chinese planning horizons make this less likely.
-
-Recognizing these perspectives does not mean validating Chinese historical narratives or accepting Chinese positions on Taiwan, human rights, or economic practices. It means understanding the strategic logic that shapes Beijing's responses to economic statecraft—logic rooted in historical experience, articulated through specific concepts, and embedded in institutional frameworks. Effective policy must account for this logic rather than assuming Chinese decision-makers share Western liberal assumptions about interdependence, norms, and the purposes of economic engagement.
-
----
-
-## Section 4: Conceptual Framework for Analyzing Economic Coercion
+## Conceptual Framework for Analyzing Economic Coercion
 
 Having defined key concepts and examined the US-China strategic context, we now need analytical tools for systematically assessing specific instances of economic coercion. This framework, applied throughout subsequent chapters, organizes analysis across four dimensions: **domain**, **target**, **objective**, and **intensity**.
 
-### 4.1 Four Dimensions of Economic Coercion
+![Conceptual Framework of Economic Coercion](figures/figure_1_1_framework.png)
+
+### Four Dimensions of Economic Coercion
 
 **Domain** identifies the economic sphere in which coercion operates. Different domains offer different leverage and face different constraints.
 
@@ -356,7 +278,7 @@ Policymakers often pursue multiple objectives simultaneously, creating potential
 
 Intensity choices involve trade-offs between effectiveness (higher intensity imposes more costs) and sustainability (higher intensity generates more domestic opposition, allied defection, and target adaptation). Escalation dynamics matter: starting with Level 4 measures leaves no room for escalation if initial pressure fails, but incrementalism (Level 1→2→3) allows targets to adapt and may signal lack of resolve.
 
-### 4.2 Effectiveness Criteria
+### Effectiveness Criteria
 
 Assessing whether economic coercion succeeds requires clear criteria. We evaluate across five dimensions:
 
@@ -372,7 +294,7 @@ Assessing whether economic coercion succeeds requires clear criteria. We evaluat
 
 Success is contingent and multi-dimensional. Sanctions might impose costs (criterion 3) without changing behavior (criterion 1). They might achieve short-term compliance but prove unsustainable (criterion 4), leading to eventual failure. Or they might successfully degrade capabilities (criterion 2) while generating humanitarian costs (criterion 5) that undermine political support.
 
-### 4.3 Strategic Considerations
+### Strategic Considerations
 
 Beyond the mechanics of economic coercion, several strategic factors shape effectiveness:
 
@@ -390,7 +312,7 @@ This conceptual framework—analyzing domain, target, objective, and intensity w
 
 ---
 
-## Section 5: Roadmap for the Book
+## Roadmap for the Book
 
 This book examines economic coercion in the context of US-China strategic competition through ten chapters organized into five parts. Each chapter applies the conceptual framework developed above, includes government tools boxes explaining specific authorities, presents Chinese and other relevant perspectives, analyzes case studies, and provides tabletop exercises for active learning.
 
@@ -957,6 +879,3 @@ When searching databases and academic literature, use these terms strategically:
 ---
 
 **End of Chapter 1**
-
----
-
