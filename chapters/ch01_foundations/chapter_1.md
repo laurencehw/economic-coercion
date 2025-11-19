@@ -667,3 +667,296 @@ This flexibility enables rapid response to threats and crises. But it also means
 
 ---
 
+## Case Study 1: CoCom and Cold War Technology Denial (1949-1994)
+
+The Coordinating Committee for Multilateral Export Controls (CoCom) represents the most sustained and comprehensive effort at technology denial in modern history. Established in 1949 and operating until 1994, CoCom coordinated Western restrictions on technology exports to the Soviet Union and Communist bloc. Analyzing CoCom through our conceptual framework reveals both the potential and limitations of technology-based economic coercion.
+
+### Background and Structure
+
+CoCom was created informally in 1949 (never codified by treaty) by the United States, United Kingdom, France, Italy, Netherlands, Belgium, and Luxembourg, later expanding to include all NATO members (except Iceland) plus Japan and Australia—17 members at peak. The committee maintained three control lists: munitions, atomic energy, and industrial/commercial items with potential military applications. Member countries agreed to deny export licenses for listed items to Soviet Union, Eastern European communist states, China (until 1980s), North Korea, Vietnam, Cambodia, and Laos.
+
+The organizational structure was deliberately informal: consensus decision-making, no enforcement mechanism, voluntary compliance by members. The U.S. provided most intelligence on Soviet technology gaps and applied diplomatic pressure for strict controls, while European members and Japan often preferred looser restrictions to maintain commercial opportunities.
+
+### Analysis Using Four Dimensions
+
+**Domain: Technology and Trade.** CoCom operated primarily through export controls on dual-use technologies—items with both civilian and military applications. Controls targeted computers, telecommunications equipment, machine tools, advanced materials, semiconductors, and manufacturing equipment. The logic was denial: preventing the Soviet Union from accessing technologies that would enhance military capabilities or economic efficiency.
+
+**Target: State and Sectoral.** CoCom targeted entire Communist bloc states, with particularly strict controls on Soviet Union and tightest restrictions on military and defense-industrial sectors. Unlike modern entity-specific lists, CoCom used comprehensive destination-based controls—the location of the end-user, not their specific identity, determined restrictions.
+
+**Objective: Containment.** The primary goal was capability degradation—slowing Soviet technological advancement and military modernization rather than compelling specific policy changes. Success meant widening the technology gap between West and East, not changing Soviet domestic or foreign policies. This was long-term strategic competition, not crisis-specific coercion.
+
+**Intensity: Level 3-4 (Sectoral to Comprehensive Technology Restrictions).** CoCom maintained comprehensive technology controls for 45 years, covering thousands of items and technologies. Restrictions were severe in strategic sectors (supercomputers, telecommunications, advanced manufacturing) while allowing some commercial trade in non-strategic goods.
+
+### Effectiveness Assessment
+
+**Capability Degradation: Partial Success.** CoCom demonstrably slowed Soviet technological development in several domains. Soviet computers lagged Western counterparts by 5-10 years throughout the Cold War. Manufacturing efficiency suffered from lack of access to advanced machine tools and automation. Telecommunications infrastructure remained primitive compared to the West. Soviet engineers frequently reverse-engineered Western technology or attempted to acquire it through espionage, confirming that indigenous development was inadequate.
+
+However, the Soviet Union achieved technological parity or superiority in specific military domains despite CoCom: nuclear weapons, certain missile technologies, space systems. Where military-technological competition was most intense, the Soviets concentrated resources to overcome restrictions.
+
+**Target Compliance: Not Applicable.** CoCom never sought specific Soviet behavioral changes that could be assessed as "compliance." The objective was degradation, not compellence or deterrence.
+
+**Cost Imposition: Significant.** Soviet Union devoted enormous resources to reverse engineering, technology espionage, and inefficient indigenous development. The KGB's Directorate T employed thousands to steal Western technology. Soviet R&D budgets were skewed toward overcoming technology gaps rather than frontier innovation. These were opportunity costs—resources that could have gone to other priorities.
+
+**Sustainability: Mixed.** CoCom lasted 45 years but faced persistent strains. Allied coordination was challenging: European members and Japan frequently sought to loosen controls for commercial reasons. The U.S. imposed extraterritorial sanctions on allies who violated CoCom restrictions (1982 Siberian gas pipeline conflict nearly broke NATO unity). Black market smuggling and third-country transshipment undermined controls. As the technology gap widened and Communist economies struggled in the 1980s, maintaining political will for strict controls became easier.
+
+**Collateral Damage: Moderate.** Western firms lost Soviet sales (though this market was modest). More significantly, intra-alliance tensions over control levels created diplomatic friction. The 1982 pipeline crisis, when the U.S. attempted to block European companies from providing equipment for Soviet natural gas pipelines, caused severe transatlantic tensions.
+
+### Key Lessons for Contemporary Policy
+
+**1. Long-term technology denial is feasible when:
+** - Alliance controls critical chokepoints (CoCom members produced virtually all advanced technology)
+- Target lacks alternative suppliers or indigenous capabilities
+- Political will sustained through clear ideological/security threat perception
+- Objectives are capability degradation rather than behavioral change
+
+**2. Technology denial faces structural limits:**
+- Determined adversaries will substitute indigenous development for imports
+- Controls are most effective on cutting-edge technologies; targets catch up on mature technologies
+- Espionage and smuggling provide workarounds, requiring constant adaptation of controls
+- Allied coordination requires managing divergent commercial interests
+
+**3. The CoCom experience differs from contemporary US-China competition in critical ways:**
+- **Separate Economic Blocs:** Cold War had minimal East-West economic integration; US-China have deep interdependence creating much higher costs for decoupling
+- **Allied Unity:** Anti-Communist consensus stronger than current anti-China alignment; European/Asian allies have different threat perceptions and China dependencies
+- **Technology Landscape:** Cold War technology (machine tools, mainframes) was more concentrated in Western hands; contemporary technologies (AI, biotech) more globally distributed
+- **Target Capabilities:** Soviet indigenous innovation was weaker than China's; Beijing invests massively and has demonstrated capacity for rapid technological advancement in multiple domains
+
+**4. Effectiveness of technology denial depends critically on chokepoint durability:**
+If CoCom controls on semiconductors in 1970s-1980s slowed Soviet computing, contemporary semiconductor controls on China face similar logic—but China's greater resources, larger market, and government commitment suggest faster indigenous substitution than USSR achieved.
+
+### Conclusion
+
+CoCom represents a "successful" case of economic coercion in narrow capability-degradation terms: it measurably slowed Soviet technological development and military modernization. But success was contingent on specific conditions (allied chokepoint control, weak Soviet innovation capacity, ideological cohesion) that may not fully apply to contemporary US-China competition. The 45-year duration also highlights that technology denial is a marathon, not a sprint—effects accumulate over decades, not months.
+
+---
+
+## Case Study 2: SWIFT Exclusion of Russia (2022)
+
+The February 2022 exclusion of major Russian banks from the SWIFT payment messaging system, coordinated among Western allies following Russia's invasion of Ukraine, represents one of the most dramatic deployments of financial weaponized interdependence in history. Analyzing this case reveals both the devastating immediate impact and emerging limitations of financial coercion.
+
+### Background: SWIFT and Financial Infrastructure
+
+The Society for Worldwide Interbank Financial Telecommunication (SWIFT) is a messaging network that enables banks to communicate about international transactions. Based in Belgium and operating under European law, SWIFT connects over 11,000 financial institutions in 200+ countries. While SWIFT doesn't transfer funds (it passes messages about payments), exclusion makes international transactions extremely difficult because banks can't securely communicate payment instructions.
+
+Prior to 2022, SWIFT had been used as coercive tool only sparingly: Iranian banks were excluded 2012-2016 and again after 2018. Russian exclusion had been discussed after the 2014 Crimea annexation but European resistance prevented implementation. The Biden administration and European allies prepared SWIFT exclusion as a "nuclear option" for Russian aggression, but many analysts doubted political will would exist to deploy it given economic costs.
+
+### The February 2022 Response
+
+On February 24, 2022, Russia launched full-scale invasion of Ukraine. Within days, the U.S., EU, UK, and other allies coordinated an unprecedented sanctions package. On February 26, they announced exclusion of selected Russian banks from SWIFT, implemented by March 12. Initial exclusions targeted seven major banks (Sberbank, VTB, Bank Otkritie, Novikombank, Promsvyazbank, Bank Rossiya, Sovcombank) holding roughly 70% of Russian banking assets. Notably, banks handling energy payments (Gazprombank) were initially exempted to allow European natural gas purchases.
+
+Simultaneously, allies imposed:
+- Asset freezes on Russian Central Bank's foreign currency reserves (~$300 billion of Russia's ~$640 billion reserves)
+- Export controls on advanced technology and dual-use items
+- Bans on new investment in Russia
+- Sectoral sanctions on energy, defense, and other strategic industries
+- Individual sanctions on Putin, oligarchs, and senior officials
+
+### Analysis Using Four Dimensions
+
+**Domain: Finance.** SWIFT exclusion operates in the financial domain, targeting Russia's ability to conduct dollar-denominated and euro-denominated international transactions. Combined with central bank reserve freezes, this created comprehensive financial isolation unprecedented for a G20 economy.
+
+**Target: Sectoral and Entity-level.** Sanctions targeted Russian banking sector specifically, with selective exclusion of major banks while exempting energy-transaction banks. This surgical targeting aimed to maximize pain while managing European gas dependency. Simultaneously, individual sanctions on oligarchs added elite-targeting component.
+
+**Objective: Mixed - Punishment, Deterrence, and Signaling.** The measures pursued multiple objectives:
+- **Punishment:** Impose massive costs on Russian economy to pressure policy reversal (withdrawal from Ukraine)
+- **Deterrence:** Signal that aggression triggers severe consequences, deterring future Russian actions and other potential aggressors (China regarding Taiwan)
+- **Signaling:** Demonstrate Western unity and resolve to domestic audiences, Ukraine, and global observers
+
+**Intensity: Level 4 (Comprehensive Financial Sanctions).** SWIFT exclusion combined with central bank asset freezes represents near-maximum financial pressure short of complete embargo. Comparable only to Iran, North Korea sanctions in severity.
+
+### Effectiveness Assessment
+
+**Cost Imposition: Severe Immediate Impact.** Russian economy contracted ~2.1% in 2022, ruble initially collapsed (40% decline), stock market closed for weeks, inflation spiked to ~17%, capital flight accelerated, foreign investment ceased. Russia was effectively cut off from Western financial system and technology imports. The psychological shock was immense—this level of financial isolation had never been imposed on a major economy.
+
+**Target Compliance: Failed.** Russia did not withdraw from Ukraine, end the war, or change fundamental policy. If the objective was compelling Russian withdrawal, sanctions failed. Some analysts argue sanctions prevented escalation (use of WMDs, attacks on NATO supply lines), but this is impossible to verify.
+
+**Capability Degradation: Moderate.** Sanctions degraded Russian military capabilities over time by restricting access to advanced semiconductors, precision components, and manufacturing equipment. Russian defense industry faced parts shortages. But degradation was gradual—sufficient existing stockpiles meant sanctions didn't immediately cripple military operations.
+
+**Sustainability: Uncertain.** Initial Western unity was remarkable. But sustainability faces challenges:
+- **European Energy Dependence:** Initial exemptions for energy banks undermined effectiveness; Europe's need for Russian gas created enforcement gap. As Europe diversified energy sources through 2022-2023, this constraint eased, allowing tighter restrictions.
+- **Sanctions Evasion:** Russia developed workarounds—bilateral trade in rubles/yuan with China and India, smuggling of sanctioned goods through third countries (Kazakhstan, Turkey, UAE), cryptocurrency for some transactions.
+- **Domestic Costs:** Higher energy prices in Europe, lost Russian market for Western firms, inflation from supply chain disruptions.
+- **Target Adaptation:** Russia restructured financial flows, accelerated yuan internationalization, developed alternative payment systems. By 2023, Russian economy showed resilience—GDP growth resumed, budget stabilized through high energy prices and import substitution.
+
+**Collateral Damage: Significant.** European energy costs spiked, contributing to inflation and economic slowdown. Humanitarian concerns in Russia (civilians hurt by economic contraction, medical supply shortages). Broader concerns that demonstrating financial weaponization accelerates global de-dollarization and development of alternative payment systems.
+
+### Key Lessons
+
+**1. Financial coercion can impose severe immediate costs.** SWIFT exclusion + central bank asset freezes created shock to Russian economy unprecedented for a major power. The infrastructure for financial coercion exists and can be deployed rapidly when political will aligns.
+
+**2. Allied coordination is critical but fragile.** European agreement to impose SWIFT exclusion was remarkable given energy dependencies. But maintaining unity over time is challenging when costs differ across allies. Energy exemptions showed limits—economic interdependence constrains even highly motivated coercers.
+
+**3. Targets adapt, reducing long-term effectiveness.** Russia's economic resilience by 2023—resumed growth, stable budget, functioning trade with non-Western partners—demonstrates that determined targets with sufficient resources can adapt to financial isolation. Bilateral trade in non-dollar currencies, third-country transshipment, and domestic substitution reduce sanctions bite over time.
+
+**4. Deterrence value uncertain.** Whether Russia sanctions deter future aggression (e.g., China regarding Taiwan) is unknowable. China observed that (a) Western financial coercion is devastating, suggesting need to accelerate de-dollarization and alternative systems development, but also (b) large economies can survive financial isolation if willing to accept costs, suggesting aggression is not automatically deterred by sanctions threats.
+
+**5. Financial weaponization has strategic costs.** Demonstrating willingness to freeze central bank reserves and exclude major economies from SWIFT accelerates efforts to create alternatives. China's CIPS (Cross-Border Interbank Payment System), digital yuan development, and bilateral currency arrangements with Russia and others partly respond to perceived risks of dollar weaponization. Overuse of financial sanctions may erode their long-term effectiveness.
+
+**6. Effectiveness depends on objectives.** If success means Russian withdrawal from Ukraine, sanctions failed. If success means imposing costs that weaken Russia's long-term military and economic power, degrading defense capabilities, and demonstrating Western resolve, then sanctions partially succeeded. Clarity about achievable objectives is essential for assessing coercion effectiveness.
+
+### Implications for US-China Competition
+
+The Russia case has direct relevance for Taiwan contingency planning. If China moved against Taiwan, would similar financial measures work?
+
+**Arguments for Effectiveness:**
+- China far more integrated into global financial system than Russia
+- Chinese holdings of dollar assets (~$3 trillion in foreign reserves, extensive private holdings) vulnerable to freezes
+- SWIFT exclusion would devastate Chinese international trade
+- Chinese economy more dependent on exports, imports, and foreign technology than Russia
+
+**Arguments for Limitations:**
+- US-China economic interdependence vastly exceeds US-Russia—bilateral trade ~$750 billion vs. ~$30 billion with Russia. Decoupling costs would be catastrophic for both sides.
+- China has prepared financial alternatives (CIPS, digital yuan, bilateral arrangements) more systematically than Russia
+- China is critical node in global supply chains—sanctioning China disrupts global economy more than sanctioning Russia
+- Allied coordination harder—Japan, South Korea, EU face much greater China dependencies than Russia dependencies
+- China's authoritarian system and nationalist legitimacy may allow Beijing to sustain costs better than democratic pressure on Western governments
+
+The Russia experience suggests that financial weaponization can impose severe costs but may not compel policy changes from determined adversaries, especially when targets can trade with non-sanctioning partners and adapt financial systems over time.
+
+---
+
+## Data Sources and Further Research
+
+Understanding economic coercion requires access to reliable data on sanctions, trade flows, technology transfers, and financial transactions. This section provides a curated guide to essential data sources and research tools.
+
+### Official Government Sources
+
+**United States:**
+- **OFAC Sanctions Lists:** https://ofac.treasury.gov/specially-designated-nationals-and-blocked-persons-list-sdn-human-readable-lists - Comprehensive SDN list updated daily, searchable database of sanctioned individuals and entities
+- **Bureau of Industry and Security (BIS) Entity List:** https://www.bis.doc.gov/index.php/policy-guidance/lists-of-parties-of-concern/entity-list - Companies restricted from receiving U.S. exports due to national security concerns
+- **Federal Register:** https://www.federalregister.gov - Executive orders declaring national emergencies, sanctions program regulations
+- **Congressional Research Service:** https://crsreports.congress.gov - Authoritative reports on sanctions programs, export controls, economic statecraft
+- **USTR (Trade Representative):** https://ustr.gov - Section 301 investigations, tariff actions, trade agreements
+
+**European Union:**
+- **EU Sanctions Map:** https://www.sanctionsmap.eu - Interactive database of EU restrictive measures by country and entity
+- **Official Journal of the EU:** https://eur-lex.europa.eu - Legal basis for EU sanctions and regulations
+
+**China:**
+- **Ministry of Commerce:** http://english.mofcom.gov.cn - Official statements on trade disputes, export controls, and counter-sanctions
+- **Unreliable Entity List:** Announced entities subject to Chinese sanctions (no comprehensive public database; must track through official announcements)
+
+### International Organizations
+
+- **WTO Trade Monitoring Database:** https://tmdb.wto.org - Tracks trade restrictions, tariffs, and trade remedy investigations globally
+- **IMF Data:** https://data.imf.org - Balance of payments, foreign exchange reserves, economic indicators for assessing sanctions impact
+- **World Bank Data:** https://data.worldbank.org - Trade flows, GDP data, development indicators
+- **UN Security Council Sanctions:** https://www.un.org/securitycouncil/sanctions/information - Comprehensive data on UN-mandated sanctions programs
+
+### Think Tanks and Research Organizations
+
+**Sanctions Tracking:**
+- **Atlantic Council SanctionsTracker:** https://www.atlanticcouncil.org/programs/geoeconomics-center/sanctions/ - Timeline and analysis of major sanctions programs
+- **Center for a New American Security (CNAS):** https://www.cnas.org - Research on economic statecraft and geoeconomics
+- **Carnegie Endowment for International Peace:** https://carnegieendowment.org - Analysis of US-China competition, technology policy
+
+**Trade and Technology:**
+- **Peterson Institute for International Economics (PIIE):** https://www.piie.com - Trade policy analysis, sanctions effectiveness research
+- **Center for Strategic and International Studies (CSIS):** https://www.csis.org - Technology competition, supply chain security, economic statecraft
+- **Observatory of Economic Complexity (OEC):** https://oec.world - Visualizations of global trade flows, dependencies
+
+**China-Focused:**
+- **China Power (CSIS):** https://chinapower.csis.org - Data-driven analysis of Chinese economic and military capabilities
+- **MacroPolo (Paulson Institute):** https://macropolo.org - Chinese technology policy, industrial policy, economic data
+- **Rhodium Group:** https://rhg.com - Chinese investment flows, technology transfers, economic analysis
+
+### Academic and Legal Resources
+
+**Journals:**
+- *International Security* - Leading journal for security studies, often covers economic statecraft
+- *The Washington Quarterly* - Policy-oriented analysis of great power competition
+- *Journal of Economic Perspectives* - Economic analysis of sanctions and trade policy
+- *Lawfare Blog:* https://www.lawfareblog.com - Legal analysis of sanctions, export controls, emergency powers
+
+**Databases:**
+- **Global Sanctions Database (Felbermayr et al.):** https://www.globalsanctionsdatabase.com - Comprehensive academic database of sanctions episodes 1950-present
+- **SIPRI Arms Embargoes Database:** https://www.sipri.org/databases/embargoes - Track arms embargoes and military-related sanctions
+- **Trade Data from UN Comtrade:** https://comtrade.un.org - Detailed bilateral trade data by product category
+
+### Supply Chain and Technology Tracking
+
+- **TechInsights:** https://www.techinsights.com - Semiconductor supply chain analysis, technology teardowns
+- **Semiconductor Industry Association (SIA):** https://www.semiconductors.org - Industry data on chip production, trade, technology trends
+- **International Energy Agency (IEA):** https://www.iea.org - Energy trade flows, strategic petroleum reserves, critical minerals
+
+### News and Analysis
+
+- **Financial Times:** China economy coverage, sanctions analysis, technology policy
+- **Wall Street Journal:** Trade policy, US-China competition, corporate impacts of sanctions
+- **Bloomberg:** Real-time sanctions announcements, trade data, financial market impacts
+- **South China Morning Post:** English-language coverage of Chinese perspectives and policies
+- **The Diplomat:** Asia-Pacific focus, Chinese foreign policy analysis
+
+### Primary Source Collections
+
+**Chinese Official Sources (for understanding Beijing's perspectives):**
+- **Xinhua News Agency:** http://www.xinhuanet.com/english - Official Chinese government news
+- **People's Daily:** http://en.people.cn - Communist Party newspaper, reflects official positions
+- **Ministry of Foreign Affairs:** https://www.fmprc.gov.cn/eng - Official statements on foreign policy, responses to sanctions
+- **Xi Jinping speeches:** Available through official Chinese government websites and academic databases
+
+### Tools for Monitoring
+
+- **OFAC Email Updates:** Subscribe at https://ofac.treasury.gov to receive immediate notifications of sanctions actions
+- **Federal Register Daily Updates:** Email alerts for new Executive Orders and regulations
+- **Google Scholar Alerts:** Set up keyword alerts for academic research on "economic sanctions," "export controls," "economic coercion"
+- **Twitter/X:** Follow @TreasurySpox (Treasury), @BISgov (Commerce/BIS), official accounts of relevant think tanks
+
+### Key Terms for Research
+
+When searching databases and academic literature, use these terms strategically:
+- Economic sanctions, financial sanctions, secondary sanctions
+- Export controls, technology denial, dual-use controls
+- Economic coercion, economic statecraft, geoeconomics
+- Weaponized interdependence, chokepoint politics
+- IEEPA, OFAC, Entity List, SDN list
+- SWIFT exclusion, correspondent banking, dollar weaponization
+- US-China competition, technology competition, semiconductor policy
+- Rare earth elements, critical minerals, supply chain security
+
+---
+
+## References and Further Reading
+
+### Foundational Texts
+
+- Baldwin, David A. (2020). *Economic Statecraft: New Edition*. Princeton University Press. [Classic text on economic instruments of foreign policy]
+- Farrell, Henry and Abraham L. Newman (2019). "Weaponized Interdependence: How Global Economic Networks Shape State Coercion." *International Security* 44:1, 42-79. [Seminal article on chokepoint effects]
+- Drezner, Daniel W. (2021). *The Uses and Abuses of Weaponized Interdependence*. Brookings Institution Press. [Comprehensive analysis of network-based coercion]
+
+### US-China Competition
+
+- Blackwill, Robert D. and Jennifer M. Harris (2016). *War by Other Means: Geoeconomics and Statecraft*. Harvard University Press. [Strategic framework for economic competition]
+- Economy, Elizabeth C. (2018). *The Third Revolution: Xi Jinping and the New Chinese State*. Oxford University Press. [Chinese domestic politics and foreign policy]
+- Brands, Hal and Michael Beckley (2022). *Danger Zone: The Coming Conflict with China*. PublicAffairs. [Arguments for intensifying competition]
+
+### Sanctions and Financial Statecraft
+
+- Zarate, Juan C. (2013). *Treasury's War: The Unleashing of a New Era of Financial Warfare*. PublicAffairs. [Insider account of financial sanctions development]
+- Nephew, Richard (2018). *The Art of Sanctions: A View from the Field*. Columbia University Press. [Practitioner guide to sanctions design]
+- Mulder, Nicholas (2022). *The Economic Weapon: The Rise of Sanctions as a Tool of Modern War*. Yale University Press. [Historical analysis from WWI to present]
+
+### Technology and Supply Chains
+
+- Miller, Chris (2022). *Chip War: The Fight for the World's Most Critical Technology*. Scribner. [Semiconductor geopolitics and U.S.-China competition]
+- Farrell, Henry and Abraham L. Newman (2023). *Underground Empire: How America Weaponized the World Economy*. Henry Holt. [Technology infrastructure and financial networks]
+- Kennedy, Scott and Sujai Shivakumar (2022). *China's Digital Silk Road: Strategic Technological Competition and Exporting Political Illiberalism*. CSIS.
+
+### Chinese Perspectives (English translations and analyses)
+
+- Yan Xuetong (2019). *Leadership and the Rise of Great Powers*. Princeton University Press. [Leading Chinese IR scholar on great power competition]
+- Wang, Jisi (2011). "China's Search for a Grand Strategy." *Foreign Affairs*. [Influential Chinese scholar on strategy]
+- Rush Doshi (2021). *The Long Game: China's Grand Strategy to Displace American Order*. Oxford University Press. [Analysis of Chinese strategic documents and thinking]
+
+### Case Studies
+
+- Mastanduno, Michael (1992). *Economic Containment: CoCom and the Politics of East-West Trade*. Cornell University Press. [Definitive history of CoCom]
+- Nephew, Richard et al. (2018). *The Iran Nuclear Archive: Impressions and Implications*. Columbia SIPA. [Iran sanctions case study]
+- Bergsten, C. Fred and Joseph Gagnon (2017). *Currency Conflict and Trade Policy: A New Strategy for the United States*. PIIE. [Economic instruments and China]
+
+---
+
+**End of Chapter 1**
+
+---
+
