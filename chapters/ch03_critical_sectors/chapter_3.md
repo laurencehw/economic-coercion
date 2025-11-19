@@ -28,9 +28,9 @@ The stakes are profound. Resource control has shaped geopolitics throughout hist
 
 ---
 
-## Section 1: Food Security and Agricultural Dependencies
+## Food Security and Agricultural Dependencies
 
-### 1.1 The Centrality of Food to National Security
+### The Centrality of Food to National Security
 
 Food occupies a unique position in the hierarchy of strategic resources. Unlike semiconductors, rare earths, or even energy, food is a daily necessity without substitutes or alternatives. A country can survive semiconductor shortages, painful though they may be economically. It can ration energy, switching from gas to coal or implementing conservation. But it cannot substitute for food—people must eat, and societies where people cannot eat collapse into chaos, mass migration, or revolution. This existential quality makes food security central to regime stability and makes food leverage particularly potent in coercive strategies.
 
@@ -40,9 +40,7 @@ Contemporary food systems have globalized dramatically since the 1970s, with int
 
 This import dependence creates strategic vulnerabilities when suppliers restrict exports, prices spike, or logistics disruptions constrain supply. The 2007-2008 global food crisis demonstrated these dynamics: rising grain prices triggered export restrictions by major suppliers (India, Vietnam, Russia, Argentina), exacerbating shortages and causing riots in Egypt, Haiti, and numerous other countries. The Arab Spring uprisings of 2011 followed wheat price spikes partly attributable to Russian export bans after drought. The COVID-19 pandemic saw multiple countries impose agricultural export restrictions, raising fears of cascading protectionism. And Russia's 2022 invasion of Ukraine, both major wheat exporters, triggered global grain shortages that pushed Egypt, Lebanon, Tunisia, and other import-dependent nations toward economic crisis.
 
-### 1.2 Grain Trade Chokepoints and Export Concentration
-
-**[FIGURE 3.1: Global Grain Production and Export Chokepoints - world map with trade flow arrows]**
+### Grain Trade Chokepoints and Export Concentration
 
 Global grain trade exhibits concentration that creates strategic chokepoints. Wheat, the most globally traded staple crop, comes overwhelmingly from a handful of exporters. Russia and Ukraine together account for approximately 30% of global wheat exports, supplying Egypt (the world's largest wheat importer, sourcing 80%+ from the Black Sea region), Turkey, Lebanon, Libya, Yemen, Bangladesh, and numerous others. The United States exports roughly 15% of global wheat, primarily to Japan, Philippines, Mexico, and Central American nations. Canada, France, Australia, and Argentina round out the top exporters—six countries control roughly 70-75% of global wheat trade.
 
@@ -58,13 +56,9 @@ Second, **geopolitical crises disrupting major exporters cascade globally**. Rus
 
 Third, **export restrictions by major suppliers can weaponize dependencies**. During shortages or crises, grain exporters frequently restrict exports to secure domestic supply and control prices—rational from the exporter's perspective but devastating for importers. The 2007-2008 food crisis saw 20+ countries impose agricultural export restrictions. Russia banned wheat exports in 2010-2011 following drought. India periodically restricts rice and wheat exports when domestic prices rise. These restrictions, often implemented suddenly and without warning, leave importers unable to secure supply at any price, triggering panic buying, hoarding, and political instability.
 
-### 1.3 Food Import Dependencies: Middle East and North Africa
+### Food Import Dependencies: Middle East and North Africa
 
-Certain regions exhibit structural import dependence that creates acute vulnerabilities. The Middle East and North Africa (MENA) region provides the clearest example of how food dependencies translate into strategic vulnerabilities and shape political stability.
-
-**[FIGURE 3.7: Food Import Dependencies - MENA Region heatmap showing wheat/rice imports as % of consumption]**
-
-Egypt, with 105 million people and limited arable land constrained by the Nile River and deserts, imports approximately 60-70% of wheat consumption and is the world's largest wheat importer by volume. Subsidized bread (baladi) is central to Egyptian social stability—previous attempts to reduce bread subsidies triggered riots, and the government spends $2-3 billion annually subsidizing bread. During the 2007-2008 food crisis, wheat prices spiked, subsidy costs ballooned, and bread shortages sparked protests that foreshadowed the 2011 Arab Spring. The 2022 Ukraine crisis again threatened wheat supply, forcing Egypt to negotiate desperately for alternative sources from India, Australia, and others—at higher prices that strained foreign reserves and government budgets.
+Certain regions exhibit structural import dependence and limited arable land constrained by the Nile River and deserts, imports approximately 60-70% of wheat consumption and is the world's largest wheat importer by volume. Subsidized bread (baladi) is central to Egyptian social stability—previous attempts to reduce bread subsidies triggered riots, and the government spends $2-3 billion annually subsidizing bread. During the 2007-2008 food crisis, wheat prices spiked, subsidy costs ballooned, and bread shortages sparked protests that foreshadowed the 2011 Arab Spring. The 2022 Ukraine crisis again threatened wheat supply, forcing Egypt to negotiate desperately for alternative sources from India, Australia, and others—at higher prices that strained foreign reserves and government budgets.
 
 Saudi Arabia and United Arab Emirates, oil-rich but agriculturally constrained by desert climates, import 80-90% of food. Both countries attempted agricultural self-sufficiency in the 1980s-1990s, growing wheat in the desert through massive irrigation drawing down fossil aquifers. The policies proved economically and environmentally unsustainable (Saudi Arabia was depleting aquifers at rates that would exhaust them within decades), and both shifted strategies toward securing food through imports and foreign agricultural investments. Saudi Arabia and UAE now invest heavily in African and Asian agricultural land, ensuring access to foreign production—a modern form of resource imperialism that grants leverage without formal control.
 
@@ -78,7 +72,7 @@ Second, **exporters can leverage food dependencies for political concessions or 
 
 Third, **food import dependence constrains foreign policy autonomy**. Countries dependent on food imports cannot easily antagonize major exporters, limiting diplomatic flexibility. This creates leverage for exporters: Russia's provision of wheat to Middle Eastern and African nations generates political goodwill and constrains criticism of Russian actions in Ukraine or elsewhere. China's growing role as agricultural exporter and investor gives Beijing influence in countries traditionally aligned with the West.
 
-### 1.4 Fertilizers, Agricultural Inputs, and Supply Chain Dependencies
+### Fertilizers, Agricultural Inputs, and Supply Chain Dependencies
 
 Food security depends not only on finished grain but also on agricultural inputs—fertilizers, pesticides, seeds, machinery—without which production collapses. These inputs exhibit their own concentration and dependencies that create supply chain vulnerabilities.
 
@@ -102,9 +96,9 @@ The broader lesson is that **food security depends on complex supply chains exte
 
 ---
 
-## Section 2: Energy Security - Oil, Gas, and the Geopolitics of Transition
+## Energy Security - Oil, Gas, and the Geopolitics of Transition
 
-### 2.1 Energy as the Lifeblood of Modern Economies
+### Energy as the Lifeblood of Modern Economies
 
 If food is essential for human survival, energy is essential for economic activity. Modern economies run on energy: electricity powers factories, data centers, hospitals, and homes; transportation depends on liquid fuels for cars, trucks, ships, and planes; heating and cooling require gas, electricity, or oil; and industrial processes from steel to chemicals to cement are energy-intensive. Unlike food, where substitution is impossible, energy offers some fuel-switching flexibility (coal to gas, oil to electricity, nuclear to renewables). But this flexibility is limited, expensive, and time-consuming—switching requires building new infrastructure, and some applications (aviation, heavy trucking, steel) currently lack economically viable alternatives to fossil fuels.
 
@@ -112,9 +106,7 @@ Energy dependence has shaped geopolitics for over a century. World War I and II 
 
 Today's energy geopolitics remains dominated by oil and gas but is complicated by two dynamics: the shale revolution that transformed the United States from major importer to net exporter, and the energy transition toward renewables that creates new dependencies while potentially reducing fossil fuel leverage. Understanding contemporary energy security requires examining both traditional fossil fuel dependencies and emerging vulnerabilities in the transition to low-carbon energy.
 
-### 2.2 Oil: Declining but Still Dominant
-
-**[FIGURE 3.5: Global Oil Production by Country (Top 15) - bar chart with trend arrows]**
+### Oil: Declining but Still Dominant
 
 Petroleum remains the world's largest energy source, accounting for roughly 30-32% of primary energy consumption and dominating transportation with 90%+ market share. Global oil production reaches approximately 100 million barrels per day (mb/d), with supply distributed across multiple regions but exhibiting significant concentration among major producers.
 
@@ -126,8 +118,6 @@ Oil trade flows reveal critical dependencies. Europe imports approximately 90% o
 
 **Maritime chokepoints** amplify vulnerability. Most oil trade occurs via tanker through a handful of narrow straits that could be blockaded or disrupted.
 
-**[FIGURE 3.4: Maritime Chokepoints for Energy Transit - world map with straits marked and percentages]**
-
 - **Strait of Hormuz** (between Persian Gulf and Gulf of Oman): Approximately 21% of global oil consumption transits this 21-mile-wide passage. Closure would immediately remove 21 million barrels per day from global markets, more than doubling oil prices and potentially triggering global recession. Iran has repeatedly threatened closure if attacked, demonstrating the strait's strategic leverage. U.S. military presence in the Gulf aims partly to secure this chokepoint against Iranian action.
 
 - **Strait of Malacca** (between Malaysia, Indonesia, and Singapore): Approximately 16 mb/d transits this strait, primarily supplying East Asian consumers (China, Japan, South Korea). While alternative routes exist (Sunda Strait, Lombok Strait), they add days to transit and lack the infrastructure and depth for largest tankers. China's growing navy and "String of Pearls" strategy of ports along the Indian Ocean reflect partly concern about dependence on this chokepoint—American or Indian naval power could potentially disrupt Chinese oil imports in conflict scenarios.
@@ -138,11 +128,9 @@ Oil trade flows reveal critical dependencies. Europe imports approximately 90% o
 
 These chokepoints create strategic leverage for countries that can threaten closure (Iran over Hormuz, Yemen/Houthis over Bab el-Mandeb) and for naval powers that can secure or blockade them (United States, potentially China or India). They also shape energy policy: Japan's almost total dependence on oil transiting Malacca drives Japanese interest in Middle Eastern stability and U.S.-Japan security cooperation. China's anxiety about "Malacca Dilemma" motivates land-based alternatives (pipelines from Russia and Central Asia), naval expansion to protect sea lanes, and strategic petroleum reserves to buffer disruptions.
 
-### 2.3 Natural Gas: The Russia-Europe Entanglement
+### Natural Gas: The Russia-Europe Entanglement
 
 Natural gas differs from oil in ways that amplify dependencies and geopolitical leverage. Gas is more difficult to transport than oil: pipelines are capital-intensive infrastructure that lock in supplier-consumer relationships for decades, and liquefied natural gas (LNG)—the alternative to pipelines—requires expensive liquefaction facilities, specialized LNG tankers, and regasification terminals. These constraints mean gas markets are regionally segmented (Europe, Asia, North America operate as distinct markets with limited integration), and switching suppliers is far harder than for oil.
-
-**[FIGURE 3.3: Russian Natural Gas Exports to Europe (Pre-2022) - Sankey flow diagram with pipeline routes and volumes]**
 
 Europe's dependence on Russian gas developed over decades and became a defining vulnerability. Russia supplied approximately 40% of European Union gas imports pre-2022, with shares varying dramatically by country: Germany 55%, Italy 40%, Austria 80%, Poland 40%, Hungary 85%, Czech Republic 85%, Bulgaria 90%, Finland 100%, and numerous Eastern European nations 100%. This dependence reflected geography (Russia's vast gas reserves conveniently located near European markets), economics (Russian pipeline gas was cheaper than LNG alternatives), and policy choices (Germany's Energiewende prioritized renewables while phasing out nuclear and coal, requiring gas as "bridge fuel").
 
@@ -160,7 +148,7 @@ Multiple pipelines carried Russian gas to Europe:
 
 This infrastructure created asymmetric interdependence. Europe depended on Russian gas for heating, power generation, and industrial processes (especially German chemical industry). Russia depended on European gas revenue, which accounted for $150-200 billion annually and funded roughly 30-40% of Russian federal budget. Conventional wisdom held that mutual dependence ensured supply stability—neither side could afford disruption. Russia's 2022 invasion of Ukraine shattered this assumption.
 
-### 2.4 The 2022 European Gas Crisis: Weaponized Dependence
+### The 2022 European Gas Crisis: Weaponized Dependence
 
 Russia's February 2022 invasion triggered European economic sanctions targeting Russian energy exports. Yet Europe's gas dependence complicated sanctions: immediate cutoff would inflict severe European economic pain (estimates suggested 5-10% GDP losses if gas disappeared suddenly), empowering Moscow rather than constraining it. European strategy thus involved phased reduction: immediate ban on Russian coal (easier to replace), six-month phase-in for oil embargoes, and continued but reduced gas imports while scrambling for alternatives.
 
@@ -182,9 +170,9 @@ The winter of 2022-2023 was Europe's moment of maximum vulnerability. Russian ga
 
 **Long-term restructuring** followed. Germany announced 13+ new LNG terminals and diversification of supply. Eastern European nations accelerated connections to non-Russian sources. The European Union's REPowerEU plan targeted rapid renewable deployment, efficiency improvements, and hydrogen development to eliminate Russian fossil fuel imports by 2027. Whether Europe maintains political will to sustain these investments, and whether the transition proves economically sustainable, remains uncertain. But the crisis destroyed the assumption that economic interdependence prevents weaponization—Russia demonstrated willingness to sacrifice gas revenue for geopolitical gains, and Europe learned that energy dependencies constrain foreign policy autonomy.
 
-### 2.5 Energy Transition: Trading Old Dependencies for New
+### Energy Transition: Trading Old Dependencies for New
 
-**[FIGURE 3.6: Renewable Energy Manufacturing - China's Share - clustered bar chart]**
+![Renewable Energy Manufacturing - China's Share](figures/figure_3_6_renewable_manufacturing.png)
 
 The global energy transition away from fossil fuels toward renewable energy and electrification creates new resource dependencies that may prove as consequential as oil and gas. Solar panels, wind turbines, and batteries require minerals, manufacturing, and supply chains that exhibit their own chokepoints—many concentrated in China. Escaping dependence on Middle Eastern oil risks creating dependence on Chinese critical minerals processing and clean energy manufacturing.
 
@@ -204,11 +192,11 @@ The energy transition thus presents difficult tradeoffs. Pursuing climate goals 
 
 ---
 
-## Section 3: Strategic Resources and Economic Leverage
+## Strategic Resources and Economic Leverage
 
 Beyond food and energy, numerous other resources exhibit concentration, essentiality, or scarcity characteristics that create leverage for possessor nations. This section examines water, phosphates for fertilizer, and resource control more broadly as tools of economic statecraft.
 
-### 3.1 Water: The Ultimate Existential Resource
+### Water: The Ultimate Existential Resource
 
 Water scarcity increasingly shapes geopolitics, particularly in arid regions where rivers cross borders and aquifers are shared. Unlike oil or rare earths, water has no substitutes and cannot be synthesized—societies require minimum quantities for drinking, agriculture, and industry. This existentiality makes water conflicts especially intractable and water leverage extraordinarily potent.
 
@@ -222,7 +210,7 @@ Beyond the Middle East, India and Pakistan dispute Indus River waters, with the 
 
 Water scarcity will intensify with climate change. The Middle East and North Africa face declining precipitation, rising temperatures increasing evaporation, and growing populations. Competition for scarce water will likely increase, with upstream controllers holding leverage and downstream dependents facing security threats. Unlike energy, where alternatives and efficiency can reduce demand, water requirements are largely fixed—societies need minimum quantities regardless of price or availability. This makes water dependencies particularly dangerous and water conflicts particularly difficult to resolve peacefully.
 
-### 3.2 Phosphates and Fertilizer Geopolitics
+### Phosphates and Fertilizer Geopolitics
 
 Phosphorus, essential for plant growth and agricultural production, comes from phosphate rock—a finite, geographically concentrated resource without synthetic substitutes. Unlike nitrogen (abundant in the atmosphere and synthesized via Haber-Bosch process), phosphorus must be mined. Global phosphate rock reserves are highly concentrated: Morocco controls approximately 70% of known reserves, with substantial deposits also in China, Algeria, Syria, Russia, and smaller amounts elsewhere.
 
@@ -232,7 +220,7 @@ China's phosphate policy illustrates resource nationalism. Despite substantial r
 
 The broader pattern across fertilizers—nitrogen, phosphate, potash—is increasing resource nationalism and potential for weaponization. The 2021-2022 fertilizer crisis demonstrated how geopolitics (Russian/Belarusian potash sanctions), energy prices (natural gas for ammonia synthesis), and export restrictions (Chinese phosphate, Indian bans during domestic shortages) can combine to create global shortages. Countries dependent on fertilizer imports face agricultural production risks that threaten food security, economic stability, and political legitimacy.
 
-### 3.3 Rare Earths Revisited: From Chokepoint to Weapon
+### Rare Earths Revisited: From Chokepoint to Weapon
 
 Chapter 2 examined rare earth supply chains in detail, but rare earths deserve additional attention in the context of resource leverage and export restrictions. China's 85% share of rare earth processing creates a chokepoint, but the 2010 crisis demonstrated China's willingness to weaponize this position for political objectives.
 
@@ -246,9 +234,9 @@ China's 2023 restrictions on gallium, germanium, and graphite exports (discussed
 
 ---
 
-## Section 4: Resource Nationalism and Export Restrictions
+## Resource Nationalism and Export Restrictions
 
-### 4.1 The Rise of Resource Nationalism
+### The Rise of Resource Nationalism
 
 Resource nationalism—policies prioritizing domestic control and use of natural resources over foreign access or market efficiency—is proliferating globally. Governments increasingly view resources as strategic assets to be leveraged for economic development, geopolitical influence, and national security rather than as commodities to be traded freely in global markets.
 
@@ -262,7 +250,7 @@ Fourth, **competition for strategic resources needed for domestic energy transit
 
 Fifth, **geopolitical competition between the United States and China incentivizes leveraging any available source of influence**. China's Belt and Road Initiative investments in African and Latin American mines partly aim to secure resource access. Western governments increasingly view resource dependencies on China as security threats requiring mitigation. This competition pushes resource-rich countries to bargain with both sides, extracting maximum benefits while maintaining flexibility.
 
-### 4.2 Export Restrictions as Policy Tools
+### Export Restrictions as Policy Tools
 
 Resource-rich nations employ multiple mechanisms to restrict exports or capture leverage. Understanding these tools is essential for analyzing resource coercion.
 
@@ -280,7 +268,7 @@ Resource-rich nations employ multiple mechanisms to restrict exports or capture 
 
 **Informal pressure on companies** allows governments to implement restrictions while denying official policy. China's 2010 rare earth restrictions to Japan operated partly through customs "inspections" and informal guidance to exporters rather than published regulations. This provides plausible deniability and flexibility while achieving coercive objectives.
 
-### 4.3 Economic and Strategic Tradeoffs
+### Economic and Strategic Tradeoffs
 
 Resource nationalism involves tradeoffs that limit its effectiveness and create vulnerabilities for practicing nations.
 

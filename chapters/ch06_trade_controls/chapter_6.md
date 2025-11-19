@@ -26,11 +26,11 @@ By chapter's end, readers will understand:
 
 ---
 
-## Section 1: Tariffs and Trade Wars
+## Tariffs and Trade Wars
 
 Tariffs—taxes on imported goods—represent the oldest form of trade policy, predating modern states. Yet their function has transformed dramatically. Through the 19th century, tariffs primarily generated government revenue (comprising 80-95% of U.S. federal revenue until the income tax). In the early 20th century, they protected infant industries from foreign competition. Today, tariffs increasingly serve as coercive instruments targeting specific countries to compel policy changes or degrade adversary capabilities. This section examines modern tariff mechanisms, their evolution into tools of economic statecraft, and effectiveness in achieving strategic objectives.
 
-### 1.1 Legal Authorities for U.S. Tariffs
+### Legal Authorities for U.S. Tariffs
 
 The United States employs multiple statutory authorities to impose tariffs, each with distinct procedural requirements and substantive standards:
 
@@ -59,7 +59,9 @@ Section 301 requires USTR investigation (initiated by petition or self-initiated
 
 **Section 201 of the Trade Act of 1974** (19 U.S.C. § 2251) provides "safeguard" relief for domestic industries seriously injured by imports, regardless of whether foreign practices are unfair. The International Trade Commission investigates injury claims and recommends remedies; the President decides whether to impose restrictions. Recent applications include solar panel tariffs (2018, later mostly removed) and washing machine tariffs (2018-2023). Section 201 applies on a most-favored-nation basis (affecting all countries), unlike the country-specific targeting possible under Section 232 or 301.
 
-### 1.2 The U.S.-China Trade War: Escalation and Impacts
+### The U.S.-China Trade War: Escalation and Impacts
+
+![U.S.-China Tariff Rates and Trade Flows (2018-2024)](figures/figure_6_1_us_china_tariffs.png)
 
 The 2018-2024 U.S.-China trade war illustrates modern tariff-based coercion dynamics. What began as targeted technology-sector tariffs escalated through tit-for-tat retaliation into economy-wide restrictions affecting consumer goods, agricultural products, and industrial inputs.
 
@@ -108,7 +110,7 @@ The Biden administration conducted a Section 301 tariff review in 2021-2022, ult
 
 As of 2024, U.S. tariffs affect $360 billion in Chinese imports (average effective rate 19.3%); Chinese retaliatory tariffs affect $180 billion in U.S. exports (average 20.7%). Both countries granted some exclusions and exemptions, particularly for products lacking domestic alternatives.
 
-### 1.3 Economic Impacts of the Trade War
+### Economic Impacts of the Trade War
 
 Assessing trade war impacts requires distinguishing direct effects (tariff incidence) from indirect effects (supply chain reconfiguration, uncertainty).
 
@@ -150,7 +152,7 @@ Beyond static trade impacts, tariffs accelerated supply chain reconfiguration:
 - **China**: Estimates suggest 0.5-0.8% GDP reduction. However, China's simultaneous growth slowdown from debt deleveraging and COVID-19 makes trade war effects difficult to isolate.
 - **Global**: IMF (2019) estimated trade war could reduce global GDP by 0.8% by 2020 through trade disruptions, uncertainty, and financial market impacts.
 
-### 1.4 Political Economy of Tariff-Based Coercion
+### Political Economy of Tariff-Based Coercion
 
 Why do governments impose tariffs despite economic costs? Political economy factors:
 
@@ -174,7 +176,7 @@ Trade wars realign political coalitions. In the U.S.:
 
 Politically, concentrated manufacturing interests in swing states outweighed diffuse consumer interests and geographically concentrated agricultural interests, enabling tariff persistence.
 
-### 1.5 Strategic Effectiveness of Tariff-Based Coercion
+### Strategic Effectiveness of Tariff-Based Coercion
 
 Applying our four-dimension framework:
 
@@ -204,11 +206,11 @@ Applying our four-dimension framework:
 
 ---
 
-## Section 2: Export Control Regimes
+## Export Control Regimes
 
 While tariffs tax imports, export controls restrict exports—prohibiting or conditioning sales of specific goods, software, or technology to specific destinations. Export controls serve national security objectives: preventing adversaries from acquiring military capabilities, dual-use technologies (with both civilian and military applications), or technologies that could strengthen strategic competitors. Unlike tariffs' broad economic impacts, export controls surgically target specific technologies and recipients, making them precision instruments of technological competition.
 
-### 2.1 Multilateral Export Control Regimes
+### Multilateral Export Control Regimes
 
 After World War II, Western states recognized unilateral export controls could be circumvented through third countries. This drove formation of multilateral regimes coordinating members' national controls:
 
@@ -281,9 +283,11 @@ AG faces fundamental challenge: Most controlled chemicals and equipment have leg
 
 5. **Update lag**: Control lists update slowly (annual at best) while technology evolves rapidly. Emerging technologies (AI, quantum, synthetic biology) lack agreed definitions and control parameters.
 
-### 2.2 U.S. Unilateral Export Controls: The Export Administration Regulations
+### U.S. Unilateral Export Controls: The Export Administration Regulations
 
 The United States maintains the world's most extensive unilateral export control system, codified in the **Export Administration Regulations (EAR)**, 15 C.F.R. Part 730 et seq. The Commerce Department's Bureau of Industry and Security (BIS) administers EAR based on statutory authority from the **Export Control Reform Act of 2018** (ECRA), 50 U.S.C. § 4801 et seq.
+
+![Entity List Additions by Administration](figures/figure_6_3_entity_list_additions.png)
 
 **Scope of EAR Jurisdiction**
 
@@ -363,7 +367,7 @@ ECRA codified and strengthened export controls, adding focus on "emerging and fo
 
 ECRA directed Commerce to establish controls for these technologies in coordination with Defense, State, and Energy departments. Implementation proceeded slowly due to definitional challenges and industry opposition. As of 2024, controls established for some categories (quantum, certain AI chips, some additive manufacturing) but many emerging technologies lack clear controls.
 
-### 2.3 Technology-Specific Controls: Semiconductor Case Study
+### Technology-Specific Controls: Semiconductor Case Study
 
 Semiconductor export controls illustrate modern technology competition dynamics. Advanced semiconductors enable AI, quantum computing, autonomous weapons, and supercomputers—dual-use technologies with both commercial value and military applications. Three generations of controls show evolving approaches:
 
@@ -416,7 +420,7 @@ October 2023 updates tightened controls, expanding:
 - South Korean chipmakers (Samsung, SK Hynix) face competitiveness issues: Their China fabs frozen at mature nodes while Chinese competitors face same constraints, but Korean firms cannot amortize equipment costs
 - Global supply chains fragmented: Chinese market served by Chinese-made mature chips; Western market by TSMC/Samsung advanced chips; efficiency losses from dual infrastructure
 
-### 2.4 Lessons from Cold War Export Controls: CoCom
+### Lessons from Cold War Export Controls: CoCom
 
 Historical context illuminates current challenges. The Coordinating Committee for Multilateral Export Controls (CoCom, 1949-1994) coordinated Western export controls denying Soviet bloc access to advanced technologies.
 
@@ -455,11 +459,11 @@ Soviet case offers mixed lessons:
 
 ---
 
-## Section 3: Multilateral Versus Unilateral Approaches
+## Multilateral Versus Unilateral Approaches
 
 Export controls face a fundamental dilemma: Unilateral measures risk competitive disadvantage as firms lose sales to foreign competitors unburdened by restrictions, while multilateral coordination requires compromises that may dilute effectiveness. This section examines the trade-offs, exploring when unilateral action succeeds despite commercial costs and when multilateral coordination proves essential.
 
-### 3.1 The Case for Multilateral Coordination
+### The Case for Multilateral Coordination
 
 **Market Coverage and Effectiveness**
 
@@ -491,7 +495,7 @@ Multilateral action carries greater political weight than unilateral measures. W
 - **Creates stigma**: Targets face reputational costs when multiple advanced democracies deny access
 - **Establishes norms**: Repeated multilateral denials for specific end-uses (e.g., surveillance technologies for human rights abuses) strengthen nonproliferation norms
 
-### 3.2 Challenges to Multilateral Coordination
+### Challenges to Multilateral Coordination
 
 Despite theoretical advantages, achieving and maintaining multilateral coordination faces severe obstacles:
 
@@ -535,7 +539,7 @@ Even with formal agreement, enforcement varies:
 
 These gaps enable circumvention: Goods exported legally to intermediary countries are re-exported illegally to restricted end-users.
 
-### 3.3 When Unilateral Action Works
+### When Unilateral Action Works
 
 Despite challenges, unilateral export controls can succeed when specific conditions obtain:
 
@@ -573,7 +577,7 @@ Multilateral coordination is slow. When rapid action necessary to prevent immine
 
 After crisis passes, unilateral measures can be multilateralized through subsequent negotiations.
 
-### 3.4 Hybrid Approaches: Coalitions of the Willing
+### Hybrid Approaches: Coalitions of the Willing
 
 Recent U.S. strategy increasingly employs "coalitions of the willing"—not full multilateral regimes but informal coordination among key players:
 
@@ -607,7 +611,7 @@ Even coalitions face coordination challenges:
 - **Transshipment**: Singapore, Malaysia, UAE, Mexico enable re-export to China; coalition members lack extraterritorial enforcement in third countries
 - **Technology evolution**: As Chinese firms move toward indigenous alternatives (RISC-V, domestic EDA, domestic equipment), coalition controls become less effective
 
-### 3.5 China's Retaliation: Counter-Controls and Unreliable Entity List
+### China's Retaliation: Counter-Controls and Unreliable Entity List
 
 Chinese counter-coercion illustrates retaliation dynamics:
 
@@ -652,11 +656,11 @@ However, near-term disruptions real: Gallium/germanium restrictions caused 6-12 
 
 ---
 
-## Section 4: WTO Compliance and the Erosion of the Trading System
+## WTO Compliance and the Erosion of the Trading System
 
 The World Trade Organization embodies post-1945 liberal international economic order: rules-based system constraining states' unilateral trade restrictions. Yet U.S.-China strategic competition increasingly operates outside or in explicit violation of WTO commitments. This section examines how national security exceptions, dispute resolution dysfunction, and great power prerogatives undermine multilateral trade law.
 
-### 4.1 WTO Rules on Trade Restrictions
+### WTO Rules on Trade Restrictions
 
 **General Prohibition on Quantitative Restrictions**
 
@@ -683,7 +687,7 @@ GATT Article XX permits restrictions "necessary to protect public morals," "prot
 
 However, Article XX requires restrictions be "not applied in a manner which would constitute... arbitrary or unjustifiable discrimination" and "not a disguised restriction on international trade." Proving necessity and non-discrimination proves difficult; many measures struck down.
 
-### 4.2 Dispute Resolution Breakdown
+### Dispute Resolution Breakdown
 
 **The Appellate Body Crisis**
 
@@ -709,7 +713,7 @@ EU, China, Canada, and 25+ other members created alternative arbitration mechani
 - Limited to disputes among MPIA members
 - Lacks legitimacy and enforcement power of formal Appellate Body
 
-### 4.3 Major Trade Disputes and Weak Enforcement
+### Major Trade Disputes and Weak Enforcement
 
 **U.S. Section 232 Tariffs (Steel and Aluminum)**
 
@@ -754,7 +758,7 @@ However, enforcement limited:
 - Technology transfer requirements operate informally ("voluntary" agreements)
 - U.S./EU increasingly bypass WTO, using unilateral measures instead
 
-### 4.4 The Political Economy of WTO Erosion
+### The Political Economy of WTO Erosion
 
 Why did states previously respecting WTO rules abandon constraints?
 
@@ -793,7 +797,7 @@ In strategic competition, states prioritize relative gains over absolute gains. 
 
 Both sides increasingly view trade through security lens, incompatible with WTO's commercial framework.
 
-### 4.5 Future of the Multilateral Trading System
+### Future of the Multilateral Trading System
 
 **Three Scenarios**:
 

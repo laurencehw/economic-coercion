@@ -29,11 +29,13 @@ Future economic statecraft will operate in environment shaped by decisions made 
 
 ---
 
-## Section 1: De-Dollarization and the Future of Financial Architecture
+## De-Dollarization and the Future of Financial Architecture
 
 The U.S. dollar's role as global reserve currency and dominant medium of exchange provides "exorbitant privilege": Americans borrow cheaply (foreign demand for dollar assets lowers U.S. interest rates), purchase imports through dollars printed domestically, and wield financial sanctions excluding adversaries from dollar-denominated systems. This privilege depends on network effects (more users increase utility), path dependency (existing dollar infrastructure creates inertia), and confidence (dollar perceived as safe store of value). Yet dollar weaponization through financial sanctions, combined with emerging alternatives, creates de-dollarization pressures that could fundamentally reshape global financial architecture by 2035-2050.
 
-### 1.1 Dollar Privilege and Its Vulnerabilities
+### Dollar Privilege and Its Vulnerabilities
+
+![Projected Dollar Share of Global Reserves (Scenarios 2024-2050)](figures/figure_10_1_dollar_reserves.png)
 
 **Current Dollar Dominance**
 
@@ -75,7 +77,7 @@ U.S.-China competition creates incentives for dollar alternatives:
 - BRICS exploring common currency or settlement mechanisms
 - Local currency settlements (yuan-ruble, yuan-real) bypass dollars
 
-### 1.2 De-Dollarization Trajectories
+### De-Dollarization Trajectories
 
 **Pathway 1: Gradual Erosion (Baseline Scenario)**
 
@@ -128,7 +130,7 @@ Baseline expectation combines slow structural decline with crisis-driven jumps. 
 - Euro: 20-25% (vs. ~20% today)
 - Other (gold, SDRs, digital currencies): 15-20%
 
-### 1.3 Implications for Financial Sanctions
+### Implications for Financial Sanctions
 
 De-dollarization doesn't eliminate U.S. financial sanctions power but constrains it:
 
@@ -148,11 +150,11 @@ De-dollarization doesn't eliminate U.S. financial sanctions power but constrains
 
 ---
 
-## Section 2: Climate, Resources, and the Security Nexus
+## Climate, Resources, and the Security Nexus
 
 Climate change fundamentally reshapes economic coercion landscape through multiple mechanisms: altering resource availability and geographic distribution, creating new dependencies (critical minerals for clean energy), generating humanitarian crises exploitable for coercive purposes, and changing strategic calculations about long-term competition. Economic statecraft in 2035-2050 will increasingly intersect with climate adaptation, resource scarcity, and energy transitions.
 
-### 2.1 Critical Minerals and Clean Energy Dependencies
+### Critical Minerals and Clean Energy Dependencies
 
 **The Green Transition's Material Requirements**
 
@@ -199,7 +201,7 @@ Transitioning from fossil fuels to renewables shifts dependencies from oil/gas t
 - **Strategic reserves**: Stockpiling critical minerals as strategic resources
 - **Friend-shoring**: Developing supply chains through allied countries (Australia, Canada, Chile, Peru)
 
-### 2.2 Water Scarcity and Agricultural Leverage
+### Water Scarcity and Agricultural Leverage
 
 **Projected Water Stress**
 
@@ -228,7 +230,7 @@ Water scarcity concentrates agricultural production in water-rich regions, creat
 
 **Coercive potential**: Grain exporters can restrict sales (Russia 2022 grain deal, U.S. 1980 grain embargo precedent) imposing costs on import-dependent countries.
 
-### 2.3 Climate-Driven Migration and Hybrid Coercion
+### Climate-Driven Migration and Hybrid Coercion
 
 **Climate Migration Projections**
 
@@ -259,7 +261,7 @@ Climate migration creates coercive opportunities:
 
 ---
 
-## Section 3: Emerging Technologies and Strategic Competition
+## Emerging Technologies and Strategic Competition
 
 Artificial intelligence, quantum computing, biotechnology, and space systems represent future technological frontiers where strategic competition will intensify. Unlike historical technology races (nuclear weapons, semiconductors) with relatively clear milestones and state-dominated development, emerging technologies feature:
 - **Diffuse development**: Private firms, universities, startups alongside government programs
@@ -269,7 +271,9 @@ Artificial intelligence, quantum computing, biotechnology, and space systems rep
 
 Economic coercion tools must adapt to control these technologies' strategic diffusion.
 
-### 3.1 Artificial Intelligence: The Defining Technology Competition
+### Artificial Intelligence: The Defining Technology Competition
+
+![AI Development Indicators: U.S. vs China](figures/figure_10_3_ai_indicators.png)
 
 **AI Strategic Significance**
 
@@ -343,7 +347,7 @@ Chinese state investment, large domestic market, talent development enable catch
 
 Regulatory divergence, data localization, incompatible standards create separate AI ecosystems. Chinese AI dominates authoritarian markets (surveillance, censorship, state control). Western AI leads democracies (open systems, privacy-preserving, ethical AI). Global South countries choose between models, creating bifurcated technology spheres.
 
-### 3.2 Quantum Computing: Uncertain Timelines, Transformative Potential
+### Quantum Computing: Uncertain Timelines, Transformative Potential
 
 **Quantum Computing Promise**
 
@@ -377,7 +381,7 @@ Quantum technology diffuses globally:
 
 Controlling quantum technology harder than semiconductors due to diffusion, but U.S. restricts quantum computing exports to China, monitors research collaborations.
 
-### 3.3 Biotechnology and Synthetic Biology
+### Biotechnology and Synthetic Biology
 
 **Biotech Strategic Dimensions**
 
@@ -408,7 +412,7 @@ Chapter 8 BIOSECURE Act analysis (WuXi, BGI) demonstrated emerging biotech compe
 
 **Export controls and talent restrictions**: BIOSECURE Act model expanding—restricting collaborations, limiting talent flows, controlling biological materials/reagents trade.
 
-### 3.4 Space Systems: The High Frontier
+### Space Systems: The High Frontier
 
 **Space as Strategic Domain**
 
@@ -437,11 +441,11 @@ Space systems provide:
 
 ---
 
-## Section 4: Alliance Evolution and Institutional Competition
+## Alliance Evolution and Institutional Competition
 
 Future economic coercion effectiveness depends critically on alliance structures and institutional alignments. Western-led order (G7, NATO, IMF/World Bank, WTO) faces challenges from alternative coalitions (BRICS+, SCO, regional frameworks) and neutral Global South countries avoiding alignment. Economic statecraft's future operates within this evolving geopolitical landscape.
 
-### 4.1 Western Coordination: Strengths and Strains
+### Western Coordination: Strengths and Strains
 
 **G7 and Transatlantic Partnership**
 
@@ -471,7 +475,7 @@ U.S., Canada, UK, France, Germany, Italy, Japan coordinate economic policies thr
 
 **Sustainability**: Western coordination likely persists but faces periodic crises requiring diplomatic repair. Effectiveness depends on managing frictions, demonstrating value to skeptical publics, and adapting to shifting global power.
 
-### 4.2 Alternative Coalitions: BRICS+ and the Global South
+### Alternative Coalitions: BRICS+ and the Global South
 
 **BRICS Expansion (2024+)**
 
@@ -505,7 +509,7 @@ Original BRICS (Brazil, Russia, India, China, South Africa) expanded 2024 to inc
 - Building institutional capacity beyond rhetoric
 - Offering tangible benefits to members (cheaper finance, favorable trade terms, diplomatic support)
 
-### 4.3 Global South: Non-Alignment 2.0
+### Global South: Non-Alignment 2.0
 
 **Re-emergence of Non-Alignment**
 
@@ -540,7 +544,7 @@ Cold War non-aligned movement resurrected as Global South countries resist press
 
 ---
 
-## Section 5: Scenario Analysis 2035-2050
+## Scenario Analysis 2035-2050
 
 Projecting 25 years into an uncertain future requires scenario analysis: developing multiple plausible futures based on critical uncertainties, assessing implications, and identifying robust strategies effective across scenarios. Two critical uncertainties shape future economic statecraft:
 

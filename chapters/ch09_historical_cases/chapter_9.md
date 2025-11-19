@@ -24,11 +24,11 @@ Historical cases teach that economic coercion is neither impotent nor omnipotent
 
 ---
 
-## Section 1: U.S.-Soviet Economic Competition
+## U.S.-Soviet Economic Competition
 
 For four decades (1949-1991), the United States and Soviet Union competed economically as well as militarily and ideologically. Unlike contemporary U.S.-China competition where deep economic integration creates mutual dependence, the U.S.-Soviet relationship featured limited trade and minimal financial ties. This facilitated Western economic restrictions—less trade to restrict meant lower costs—but also reduced leverage: autarkic Soviet economy was less vulnerable to external pressure than market-integrated economies. U.S. economic strategy employed multiple instruments: multilateral technology denial through CoCom, selective trade restrictions (grain embargo), pipeline sanctions targeting Soviet hard currency earnings, and financial isolation. Effectiveness varied dramatically across these instruments.
 
-### 1.1 CoCom: Multilateral Technology Denial (1949-1994)
+### CoCom: Multilateral Technology Denial (1949-1994)
 
 **Origins and Structure**
 
@@ -76,7 +76,9 @@ CoCom achieved substantial success in limiting Soviet access to strategic techno
 
 Despite limitations, scholarly consensus holds CoCom meaningfully degraded Soviet military capabilities. The Soviet collapse (1991) ended the Cold War rationale; CoCom dissolved (1994), replaced by less restrictive Wassenaar Arrangement.
 
-### 1.2 Grain Embargo (1980): Unilateral Failure
+### Grain Embargo (1980): Unilateral Failure
+
+![Soviet Grain Imports by Source Country (1975-1985)](figures/figure_9_1_soviet_grain.png)
 
 **Background and Implementation**
 
@@ -121,7 +123,7 @@ The grain embargo illustrated critical limitations of unilateral trade sanctions
 3. **Domestic costs**: Export restrictions hurt domestic producers, creating political pressure for reversal
 4. **Limited leverage**: Even dominant market position (U.S. controlled 50% of global grain exports) provides insufficient leverage if alternatives exist
 
-### 1.3 Siberian Pipeline Sanctions (1981-1982): Extraterritorial Overreach
+### Siberian Pipeline Sanctions (1981-1982): Extraterritorial Overreach
 
 **Background**
 
@@ -166,7 +168,7 @@ The pipeline sanctions demonstrated:
 3. **Energy interdependence trade-offs**: European energy dependence on Russia (created partly by Siberian pipeline) would later enable Russian leverage (2022) but also constrained European responses
 4. **Long-term ineffectiveness**: Pipeline operated for decades, generating revenue for Soviet Union and successor Russian Federation, demonstrating sanctions' failure to prevent strategic outcome
 
-### 1.4 Synthesis: U.S.-Soviet Economic Competition Lessons
+### Synthesis: U.S.-Soviet Economic Competition Lessons
 
 **Successes**: CoCom technology restrictions, sustained over four decades with allied coordination, degraded Soviet military capabilities and imposed persistent costs on Soviet R&D and manufacturing.
 
@@ -180,11 +182,11 @@ The pipeline sanctions demonstrated:
 
 ---
 
-## Section 2: Anti-Apartheid Sanctions on South Africa
+## Anti-Apartheid Sanctions on South Africa
 
 International sanctions against South Africa's apartheid regime (1960s-1990s) represent one of history's most comprehensive sanctions campaigns and one of the few cases where economic coercion demonstrably contributed to fundamental regime change. Yet the case also illustrates complexity: sanctions operated alongside internal resistance, international isolation, security pressures, and normative evolution. Disentangling sanctions' specific causal impact from these parallel factors challenges simple narratives about sanctions' effectiveness.
 
-### 2.1 Apartheid System and International Response
+### Apartheid System and International Response
 
 **Apartheid Foundations**
 
@@ -206,7 +208,7 @@ From the 1960s, international opposition intensified:
 - **Moral repugnance**: Apartheid's explicit racism offended post-WWII human rights norms, decolonization momentum
 - **Cold War complications**: U.S. and Western allies initially resisted comprehensive sanctions, viewing South Africa as anti-communist bulwark; Soviet Union and non-aligned movement championed sanctions
 
-### 2.2 Evolution of Sanctions (1960s-1980s)
+### Evolution of Sanctions (1960s-1980s)
 
 **Early Measures (1960s-1970s)**
 
@@ -237,7 +239,7 @@ Township uprisings (1984-1986), Sharpeville massacre anniversary protests, and i
 
 **Disinvestment campaign**: Universities, pension funds, municipalities divested South African holdings, pressuring corporations to withdraw. By 1989, 200+ U.S. companies had exited South Africa.
 
-### 2.3 Economic Impact on South Africa
+### Economic Impact on South Africa
 
 Quantifying sanctions' economic effects is difficult due to:
 - Simultaneous domestic unrest reducing investment independently
@@ -258,7 +260,7 @@ Quantifying sanctions' economic effects is difficult due to:
 
 **Psychological impact**: International isolation, economic pressure, capital flight conveyed message to white elite that apartheid was unsustainable, costs outweighed benefits.
 
-### 2.4 Internal Resistance and Combined Pressure
+### Internal Resistance and Combined Pressure
 
 Sanctions operated alongside powerful domestic and regional pressures:
 
@@ -278,7 +280,7 @@ Sanctions operated alongside powerful domestic and regional pressures:
 - **Afrikaner intellectuals**: Questioned apartheid morality and viability
 - **National Party pragmatists**: F.W. de Klerk faction concluded negotiated transition preferable to violent collapse
 
-### 2.5 Sanctions' Causal Role
+### Sanctions' Causal Role
 
 Did sanctions cause apartheid's end, or merely coincide with collapse driven by other factors?
 
@@ -300,7 +302,7 @@ Did sanctions cause apartheid's end, or merely coincide with collapse driven by 
 - Psychological/normative effects on white elite possibly as important as material economic costs
 - Domestic resistance created conditions where sanctions could matter; absent internal upheaval, external sanctions alone likely insufficient
 
-### 2.6 Lessons from South Africa Case
+### Lessons from South Africa Case
 
 1. **Comprehensive sanctions require sustained coordination**: Anti-apartheid sanctions took decades to develop, required overcoming Cold War divisions, and succeeded partly due to rare normative consensus (apartheid's explicit racism)
 
@@ -314,11 +316,11 @@ Did sanctions cause apartheid's end, or merely coincide with collapse driven by 
 
 ---
 
-## Section 3: Historical Comparisons - Patterns Across Eras
+## Historical Comparisons - Patterns Across Eras
 
 Economic coercion long predates the 20th century. Examining earlier cases reveals enduring patterns: states have always weaponized trade and finance when feasible, effectiveness depends on target vulnerabilities and circumvention opportunities, and unintended consequences frequently undermine original objectives.
 
-### 3.1 Napoleon's Continental System (1806-1814)
+### Napoleon's Continental System (1806-1814)
 
 **Background and Objectives**
 
@@ -354,7 +356,7 @@ The Continental System largely failed:
 3. **Blowback**: Economic pain to European allies generated resentment, undermining Napoleon's coalition
 4. **Target resilience**: Economically diverse, globally connected Britain proved more resilient than Napoleon anticipated
 
-### 3.2 British Trade Restrictions on American Colonies and Early Republic
+### British Trade Restrictions on American Colonies and Early Republic
 
 **Pre-Revolution Navigation Acts**
 
@@ -380,7 +382,7 @@ American responses included:
 - Unilateral export embargoes (Jefferson's 1807 Embargo) harmed imposing country more than targets
 - Economic disputes intertwined with sovereignty, maritime rights, and national identity
 
-### 3.3 Patterns Across Historical Cases
+### Patterns Across Historical Cases
 
 Examining cases from Napoleon to present reveals recurring patterns:
 
@@ -400,11 +402,11 @@ Examining cases from Napoleon to present reveals recurring patterns:
 
 ---
 
-## Section 4: Success and Failure Patterns - Cross-Case Analysis
+## Success and Failure Patterns - Cross-Case Analysis
 
 Examining diverse historical cases reveals conditions distinguishing successful from failed economic coercion. No single factor guarantees success, but certain combinations of conditions improve effectiveness dramatically. This section synthesizes patterns across cases, developing framework for assessing contemporary sanctions prospects.
 
-### 4.1 When Sanctions Succeed: Necessary Conditions
+### When Sanctions Succeed: Necessary Conditions
 
 **Condition 1: Comprehensive Multilateral Coordination**
 
@@ -469,7 +471,7 @@ Sanctions succeed more often with limited objectives than maximalist goals:
 
 Expecting economic sanctions to achieve regime change or fundamental policy reversals often produces disappointment. More realistic objective framing—degrading capabilities, raising costs, demonstrating resolve—better matches achievable outcomes.
 
-### 4.2 When Sanctions Fail: Common Pathologies
+### When Sanctions Fail: Common Pathologies
 
 **Pathology 1: "Symbolic Sanctions" (Political Theater)**
 
@@ -526,9 +528,11 @@ Governments sometimes impose sanctions to appear active while avoiding difficult
 
 **Escalation lock-in**: Once imposed, sanctions difficult to lift without visible target concessions (even if sanctions aren't working), creating policy inertia.
 
-### 4.3 Comparative Success Rates and Measurement Challenges
+### Comparative Success Rates and Measurement Challenges
 
 **Quantitative studies** (Hufbauer et al. 2007; Morgan et al. 2009; Biersteker et al. 2016) estimate sanctions success rates at 20-40%, depending on success definition and case selection.
+
+![Sanctions Success Rates by Objective and Era](figures/figure_9_3_sanctions_success.png)
 
 **Measurement challenges**:
 
@@ -542,7 +546,7 @@ Governments sometimes impose sanctions to appear active while avoiding difficult
 
 **Success definition ambiguity**: Different analysts define "success" differently: target full compliance, partial concessions, cost imposition, signaling resolve. Studies using different definitions produce different success rates.
 
-### 4.4 Lessons for Contemporary Policy
+### Lessons for Contemporary Policy
 
 **1. Adjust expectations**: Expecting sanctions to rapidly compel major adversaries (Russia, China, Iran) to reverse course ignores historical patterns. Sanctions work slowly, partially, when combined with other pressures.
 

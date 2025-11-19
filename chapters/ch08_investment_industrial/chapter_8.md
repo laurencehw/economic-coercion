@@ -26,13 +26,13 @@ This chapter's themes—investment screening as economic weapon, industrial poli
 
 ---
 
-## Section 1: Investment Screening - From Passive Review to Active Coercion
+## Investment Screening - From Passive Review to Active Coercion
 
 Investment screening—government review of foreign acquisitions and investments for national security implications—has existed for decades in most advanced economies. The United States established the Committee on Foreign Investment in the United States (CFIUS) in 1975, primarily to monitor OPEC petrodollar investments following the oil crises. For most of its history, CFIUS operated as a relatively obscure interagency process: companies voluntarily notified proposed foreign acquisitions, government agencies reviewed for narrow security concerns (protecting classified information, preventing foreign control of defense contractors), and most transactions received approval, sometimes with mitigation measures. Rejections and forced divestments were rare. This passive, procedural approach reflected an era when foreign investment was generally welcomed as beneficial capital inflow, and national security concerns centered on traditional military threats.
 
 The 2018 Foreign Investment Risk Review Modernization Act (FIRRMA) fundamentally transformed this landscape, expanding CFIUS jurisdiction, mandating reviews of previously exempt transactions, and explicitly targeting Chinese investments in emerging technologies. Post-FIRRMA investment screening represents not passive review but active economic coercion: deliberately blocking Chinese capital from accessing American technology, even when transactions pose only speculative, long-term security risks rather than immediate threats. This section examines CFIUS evolution, FIRRMA's mechanisms, allied investment screening coordination, and effectiveness in achieving decoupling objectives.
 
-### 1.1 CFIUS Evolution: From OPEC to China
+### CFIUS Evolution: From OPEC to China
 
 **Historical Origins and Traditional Approach (1975-2016)**
 
@@ -62,7 +62,7 @@ Several developments triggered policy reassessment of Chinese investment:
 
 By 2016-2017, bipartisan consensus emerged that existing CFIUS authorities were insufficient to address Chinese strategic investment targeting American technology leadership. This consensus culminated in FIRRMA, the most significant expansion of U.S. investment screening since Exon-Florio.
 
-### 1.2 FIRRMA 2018: Expanding the Net
+### FIRRMA 2018: Expanding the Net
 
 The Foreign Investment Risk Review Modernization Act (FIRRMA), enacted August 13, 2018, dramatically expanded CFIUS jurisdiction, introduced mandatory filing requirements, and explicitly targeted emerging and foundational technologies. Key provisions transformed investment screening from passive review to active technology protection:
 
@@ -117,7 +117,9 @@ FIRRMA authorized increased CFIUS staffing and funding (from ~20 full-time emplo
 - Total possible timeline: 105 days (previously 90 days)
 - Extensions possible by mutual agreement
 
-### 1.3 Impact on Chinese Investment: Near-Total Collapse
+### Impact on Chinese Investment: Near-Total Collapse
+
+![Chinese FDI in U.S. and Europe (2008-2024)](figures/figure_8_2_chinese_fdi.png)
 
 FIRRMA's impact on Chinese investment was immediate and severe. Chinese direct investment in the United States:
 
@@ -157,7 +159,7 @@ Beyond blocking prospective deals, CFIUS gained aggressive enforcement of existi
 - **StayNTouch**: Chinese acquirer required to divest hotel management software accessing guest data
 - **Multiple smaller divestitures**: CFIUS identified and unwound dozens of unreported transactions closed before FIRRMA, forcing retroactive review and divestment.
 
-### 1.4 Allied Investment Screening: Coordination and Divergence
+### Allied Investment Screening: Coordination and Divergence
 
 The United States is not alone in expanding investment screening. European Union member states, United Kingdom, Australia, Japan, and other allies have implemented or strengthened foreign investment review mechanisms, driven by similar concerns about Chinese technology acquisition and critical infrastructure control. However, allied approaches reflect differing balances between economic openness and security protection, creating coordination challenges.
 
@@ -240,7 +242,7 @@ Allied investment screening coordination faces persistent obstacles:
 
 The U.S.-EU Trade and Technology Council (TTC), Quadrilateral Security Dialogue (Quad: U.S., Japan, India, Australia), and G7 coordination mechanisms attempt to harmonize investment screening, but progress remains incremental.
 
-### 1.5 Effectiveness Assessment
+### Effectiveness Assessment
 
 Evaluating investment screening's effectiveness as economic coercion instrument requires applying the five criteria established in Chapter 1:
 
@@ -305,11 +307,11 @@ Investment screening has proven remarkably effective in achieving its primary ob
 
 ---
 
-## Section 2: Industrial Policy Competition - The Return of the State
+## Industrial Policy Competition - The Return of the State
 
 For nearly four decades, Western economic policy embraced market-driven allocation of resources, viewing government industrial policy—directed subsidies, mandates, and preferences for specific industries—as inefficient distortions that reduce competitiveness. The Washington Consensus held that governments should establish rule of law, protect property rights, maintain macroeconomic stability, and otherwise let markets determine winners and losers. China's spectacular rise through aggressive industrial policy challenged this orthodoxy. Now, facing strategic competition and supply chain vulnerabilities exposed by the pandemic and geopolitical tensions, the United States and Europe have embraced industrial policy on unprecedented scale, directly competing with China's state-directed model. This section examines contemporary industrial policy competition, comparing U.S. and Chinese approaches, assessing early results, and evaluating prospects for success.
 
-### 2.1 U.S. Industrial Policy: CHIPS, IRA, and Infrastructure
+### U.S. Industrial Policy: CHIPS, IRA, and Infrastructure
 
 **CHIPS and Science Act (August 2022)**
 
@@ -361,7 +363,7 @@ $1.2 trillion infrastructure bill includes industrial policy elements:
 
 **Total U.S. Industrial Policy Commitment: ~$500 billion** across these three acts, representing fundamental shift from market-driven allocation to strategic state intervention.
 
-### 2.2 China's State-Directed Model: Made in China 2025 and Beyond
+### China's State-Directed Model: Made in China 2025 and Beyond
 
 China has pursued aggressive industrial policy for decades, viewing state-directed development as essential for technological catch-up, economic security, and great power status. Current initiatives represent continuation and acceleration of long-standing approach.
 
@@ -409,7 +411,9 @@ China's National Integrated Circuit Industry Investment Fund (the "Big Fund") ex
 - **Market share**: China's share of global semiconductor production capacity rose from 12% (2015) to 24% (2024), but concentrated in mature nodes (28nm and above); advanced node (14nm and below) share remains low
 - **Efficiency questions**: Massive capital investment yielded progress but at high cost; multiple Big Fund corruption scandals (executives arrested for embezzlement) raise questions about allocation efficiency
 
-### 2.3 Comparing Approaches: Market-Driven vs. State-Directed
+### Comparing Approaches: Market-Driven vs. State-Directed
+
+![Industrial Policy Spending: U.S. vs China](figures/figure_8_3_industrial_policy.png)
 
 **U.S. Model: Strategic Industrial Policy within Market Framework**
 
@@ -443,11 +447,11 @@ China's National Integrated Circuit Industry Investment Fund (the "Big Fund") ex
 
 ---
 
-## Section 3: State-Owned Enterprises and Sovereign Wealth Funds as Strategic Instruments
+## State-Owned Enterprises and Sovereign Wealth Funds as Strategic Instruments
 
 State-owned enterprises (SOEs) and sovereign wealth funds (SWFs) function as extensions of government power in economic statecraft. Unlike private firms accountable primarily to shareholders and profit maximization, SOEs and SWFs pursue state strategic objectives—resource control, technology acquisition, geopolitical influence—sometimes accepting commercial losses for political gains. This section examines how states, particularly China, deploy these instruments as tools of economic coercion and strategic competition.
 
-### 3.1 Chinese SOEs: Scale and Strategic Role
+### Chinese SOEs: Scale and Strategic Role
 
 China's state-owned enterprises dominate key sectors of its economy and increasingly operate globally as instruments of state policy. As of 2024:
 
@@ -498,7 +502,7 @@ SOEs serve as vehicles for accessing foreign technology:
 - AVIC (aviation SOE) partnerships with Boeing, Airbus, GE to acquire aerospace technology
 - CRRC (rail SOE) acquisitions of foreign rail manufacturers
 
-### 3.2 Sovereign Wealth Funds as Investment Vehicles
+### Sovereign Wealth Funds as Investment Vehicles
 
 **China Investment Corporation (CIC)**
 
@@ -518,7 +522,7 @@ Established 2007 with $200 billion initial capital (now ~$1.4 trillion AUM), CIC
 
 Chinese SWFs operate with less transparency than Norwegian/Singaporean counterparts, raising Western concerns about strategic rather than purely commercial motivations.
 
-### 3.3 Western Responses: Reciprocity and Screening
+### Western Responses: Reciprocity and Screening
 
 **Reciprocity Arguments**
 
@@ -544,11 +548,11 @@ Western governments and multilateral institutions pressure China to reform SOEs:
 
 ---
 
-## Section 4: Informal Economic Coercion - The Australia Case
+## Informal Economic Coercion - The Australia Case
 
 Formal economic coercion operates through institutionalized mechanisms: CFIUS decisions, tariffs under Section 301, OFAC sanctions. Informal coercion employs state power outside formal frameworks—customs delays, regulatory harassment, unofficial import restrictions, consumer boycotts encouraged by state media—to impose costs while maintaining plausible deniability. China's 2020-2021 economic pressure on Australia exemplifies informal coercion dynamics: how it operates, why targets struggle to respond, and implications for middle powers navigating great power competition.
 
-### 4.1 Background: COVID-19 Investigation and Bilateral Tensions
+### Background: COVID-19 Investigation and Bilateral Tensions
 
 **April 2020: Australia's COVID Origins Call**
 
@@ -565,7 +569,7 @@ Chinese officials and state media delivered warnings:
 - Global Times (state media) published articles threatening economic consequences
 - Chinese Foreign Ministry spokesman condemned Australia's "political manipulation"
 
-### 4.2 Economic Restrictions: Sectors Targeted
+### Economic Restrictions: Sectors Targeted
 
 Beginning May 2020, China imposed de facto restrictions on multiple Australian export sectors. Critically, these operated through administrative measures and unofficial guidance rather than formal tariff or ban announcements:
 
@@ -596,7 +600,7 @@ Beginning May 2020, China imposed de facto restrictions on multiple Australian e
 - Timber: Import restrictions citing pest concerns
 - Copper ore and concentrates: Some restrictions and delays
 
-### 4.3 Australian Responses and Economic Impact
+### Australian Responses and Economic Impact
 
 **Economic Costs**
 
@@ -629,7 +633,7 @@ Cumulative trade impact estimated $20+ billion in affected exports over 2020-202
 - U.S. diplomatic support for Australia during Chinese pressure
 - Economic resilience strengthened through broader Indo-Pacific partnerships
 
-### 4.4 Easing of Restrictions (2023-2024)
+### Easing of Restrictions (2023-2024)
 
 Following Chinese leadership transition dynamics and Australian government change (Labor Party's Anthony Albanese elected May 2022), bilateral relations gradually stabilized:
 
@@ -646,7 +650,7 @@ Several factors:
 3. **Reputational costs**: China's coercion alarmed other middle powers, driving them toward U.S. alignment
 4. **Broader strategy shift**: China sought to reduce tensions with multiple countries simultaneously (also stabilizing relations with Japan, South Korea, EU)
 
-### 4.5 Lessons: Informal Coercion Dynamics
+### Lessons: Informal Coercion Dynamics
 
 **Mechanisms**
 
