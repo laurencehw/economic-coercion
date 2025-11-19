@@ -35,15 +35,12 @@ l3 = ax1.plot(data['Year'], data['EU_Publications'],
               marker='^', linewidth=2, markersize=5,
               color='#2ca02c', label='EU Publications', linestyle='--', alpha=0.7)
 
-# Mark crossover point where China surpasses USA
+# Mark crossover point where China surpasses USA - simplified
 crossover = data[data['China_Publications'] > data['USA_Publications']].iloc[0]
-ax1.axvline(x=crossover['Year'], color='gray', linestyle=':', alpha=0.6, linewidth=2)
-ax1.annotate('China surpasses USA\nin publication volume',
-            xy=(crossover['Year'], crossover['China_Publications']),
-            xytext=(crossover['Year'] - 2, crossover['China_Publications'] + 30000),
-            arrowprops=dict(arrowstyle='->', color='darkred', lw=2.5),
-            fontsize=11, fontweight='bold', color='darkred',
-            bbox=dict(boxstyle='round,pad=0.5', facecolor='yellow', alpha=0.8, edgecolor='black'))
+ax1.axvline(x=crossover['Year'], color='gray', linestyle=':', alpha=0.5, linewidth=1.5)
+ax1.text(crossover['Year'], 120000, 'China > USA',
+        fontsize=9, fontweight='bold', color='darkred', rotation=90,
+        va='bottom', ha='right')
 
 # Customize left panel
 ax1.set_xlabel('Year', fontweight='bold', fontsize=12)
@@ -63,10 +60,7 @@ ax2.plot(data['Year'], data['China_Top10_Share'],
         marker='s', linewidth=2.5, markersize=6,
         color=color2, label='China (Top-10 conferences)', linestyle='-')
 
-# Add shaded regions
-ax2.axhspan(35, 45, alpha=0.1, color='blue', label='_USA traditional dominance')
-ax2.text(2012, 40, 'USA traditional\ndominance zone', ha='center', fontsize=9,
-        style='italic', color='darkblue', alpha=0.7)
+# Removed shaded region for cleaner look
 
 # Customize right panel
 ax2.set_xlabel('Year', fontweight='bold', fontsize=12)
@@ -78,42 +72,23 @@ ax2.set_xlim(2009, 2025)
 ax2.set_ylim(0, 50)
 ax2.legend(loc='upper right', framealpha=0.95, edgecolor='black', fontsize=10)
 
-# Add annotation about convergence
-ax2.annotate('Converging quality',
-            xy=(2020, data[data['Year']==2020]['China_Top10_Share'].values[0]),
-            xytext=(2016, 12),
-            arrowprops=dict(arrowstyle='->', color='darkred', lw=2),
-            fontsize=10, fontweight='bold', color='darkred',
-            bbox=dict(boxstyle='round,pad=0.4', facecolor='yellow', alpha=0.7, edgecolor='black'))
+# Removed annotation for cleaner look
 
 # Add main title
 fig.suptitle('Figure 4.2: The AI Research Race - USA vs China (2010-2024)\n' +
             'Quantity vs Quality in Artificial Intelligence Research',
             fontweight='bold', fontsize=16, y=0.98)
 
-# Add statistics box on left panel
-stats_text = ('2024 Statistics:\n'
-             f'USA: {data.iloc[-1]["USA_Publications"]:,.0f} papers\n'
-             f'China: {data.iloc[-1]["China_Publications"]:,.0f} papers\n'
-             f'China/USA ratio: {data.iloc[-1]["China_Publications"]/data.iloc[-1]["USA_Publications"]:.2f}x\n\n'
-             f'Growth 2010-2024:\n'
-             f'USA: {((data.iloc[-1]["USA_Publications"]/data.iloc[0]["USA_Publications"])-1)*100:.0f}%\n'
-             f'China: {((data.iloc[-1]["China_Publications"]/data.iloc[0]["China_Publications"])-1)*100:.0f}%')
-props = dict(boxstyle='round', facecolor='lightblue', alpha=0.85, edgecolor='black', linewidth=1.5)
-ax1.text(0.02, 0.97, stats_text, transform=ax1.transAxes, fontsize=9,
-        verticalalignment='top', bbox=props, family='monospace')
+# Statistics box moved to lower right to avoid legend overlap
+stats_text = ('2024:\n'
+             f'USA: {data.iloc[-1]["USA_Publications"]:,.0f}\n'
+             f'China: {data.iloc[-1]["China_Publications"]:,.0f}\n'
+             f'Ratio: {data.iloc[-1]["China_Publications"]/data.iloc[-1]["USA_Publications"]:.1f}x')
+props = dict(boxstyle='round', facecolor='lightblue', alpha=0.85, edgecolor='gray', linewidth=1)
+ax1.text(0.98, 0.03, stats_text, transform=ax1.transAxes, fontsize=9,
+        verticalalignment='bottom', horizontalalignment='right', bbox=props, family='monospace')
 
-# Add quality note on right panel
-quality_text = ('Note: Top-10 share measures\n'
-               'acceptance at premier venues:\n'
-               '• NeurIPS, ICML, ICLR\n'
-               '• CVPR, ICCV, ECCV\n'
-               '• ACL, EMNLP, AAAI, IJCAI\n\n'
-               'USA maintains quality edge\n'
-               'but gap is narrowing')
-props2 = dict(boxstyle='round', facecolor='wheat', alpha=0.85, edgecolor='black', linewidth=1.5)
-ax2.text(0.02, 0.50, quality_text, transform=ax2.transAxes, fontsize=8,
-        verticalalignment='top', bbox=props2)
+# Removed quality note for cleaner design
 
 # Add source citation
 plt.figtext(0.99, 0.01,

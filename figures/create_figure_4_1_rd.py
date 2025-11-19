@@ -20,20 +20,17 @@ data = pd.read_csv('../data/sources/rd_spending.csv')
 # Create figure with main plot and inset
 fig, ax = plt.subplots(figsize=(14, 9))
 
-# Define colors
+# Define colors - simplified to 3 main players
 colors = {
     'USA': '#1f77b4',        # Blue
     'China': '#d62728',      # Red
     'EU': '#2ca02c',         # Green
-    'Japan': '#ff7f0e',      # Orange
-    'South_Korea': '#9467bd', # Purple
-    'Rest_of_World': '#8c564b' # Brown
 }
 
-# Plot main lines
-for country in ['USA', 'China', 'EU', 'Japan', 'South_Korea']:
+# Plot main lines - only USA, China, EU
+for country in ['USA', 'China', 'EU']:
     ax.plot(data['Year'], data[country],
-           marker='o', linewidth=2.5, markersize=5,
+           marker='o', linewidth=3, markersize=6,
            color=colors[country], label=country, alpha=0.9)
 
 # Customize the plot
@@ -48,43 +45,22 @@ ax.grid(True, alpha=0.3, linestyle='--', linewidth=0.5)
 ax.set_xlim(1988, 2026)
 ax.set_ylim(0, 900)
 
-# Add annotations for key moments
+# Simplified annotations
 # China surpassing EU
 china_eu_cross = data[(data['China'] > data['EU'])].iloc[0]
-ax.annotate('China surpasses\nEU in R&D',
-           xy=(china_eu_cross['Year'], china_eu_cross['China']),
-           xytext=(china_eu_cross['Year'] - 3, china_eu_cross['China'] + 100),
-           arrowprops=dict(arrowstyle='->', color='darkred', lw=2),
-           fontsize=10, fontweight='bold', color='darkred',
-           bbox=dict(boxstyle='round,pad=0.5', facecolor='yellow', alpha=0.7, edgecolor='black'))
+ax.text(china_eu_cross['Year'] + 0.5, china_eu_cross['China'] + 20,
+       'China > EU', fontsize=9, fontweight='bold', color='darkred')
 
-# Projected convergence
-ax.annotate('Approaching\nU.S. levels',
-           xy=(2024, data[data['Year']==2024]['China'].values[0]),
-           xytext=(2020, 850),
-           arrowprops=dict(arrowstyle='->', color='darkred', lw=2),
-           fontsize=10, fontweight='bold', color='darkred',
-           bbox=dict(boxstyle='round,pad=0.5', facecolor='yellow', alpha=0.7, edgecolor='black'))
+# Add legend - simpler with 3 countries
+ax.legend(loc='upper left', framealpha=0.95, edgecolor='black', fontsize=12)
 
-# Add shaded region for China's acceleration
-ax.axvspan(2000, 2024, alpha=0.1, color='red')
-ax.text(2012, 50, 'China\'s R&D Acceleration', ha='center', fontsize=11,
-       fontweight='bold', color='darkred', style='italic', alpha=0.7)
-
-# Add legend
-ax.legend(loc='upper left', framealpha=0.95, edgecolor='black', fontsize=11, ncol=2)
-
-# Add statistics box
-stats_text = ('Key Statistics (2024):\n'
-             f'• USA: ${data.iloc[-1]["USA"]:.0f}B\n'
-             f'• China: ${data.iloc[-1]["China"]:.0f}B\n'
-             f'• EU: ${data.iloc[-1]["EU"]:.0f}B\n'
-             f'• Japan: ${data.iloc[-1]["Japan"]:.0f}B\n'
-             f'• S. Korea: ${data.iloc[-1]["South_Korea"]:.0f}B\n\n'
-             f'China Growth 2000-2024:\n'
-             f'{((data.iloc[-1]["China"]/data[data["Year"]==2000]["China"].values[0])-1)*100:.0f}% increase')
-props = dict(boxstyle='round', facecolor='lightblue', alpha=0.85, edgecolor='black', linewidth=1.5)
-ax.text(0.98, 0.55, stats_text, transform=ax.transAxes, fontsize=9,
+# Simplified statistics box
+stats_text = ('2024 R&D Spending:\n'
+             f'USA: ${data.iloc[-1]["USA"]:.0f}B\n'
+             f'China: ${data.iloc[-1]["China"]:.0f}B\n'
+             f'EU: ${data.iloc[-1]["EU"]:.0f}B')
+props = dict(boxstyle='round', facecolor='lightblue', alpha=0.85, edgecolor='gray', linewidth=1)
+ax.text(0.98, 0.40, stats_text, transform=ax.transAxes, fontsize=10,
        verticalalignment='top', horizontalalignment='right',
        bbox=props, family='monospace')
 
