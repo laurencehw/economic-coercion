@@ -32,19 +32,19 @@ ax1.plot(data['Year'], data['Total_Trade'],
          marker='^', linewidth=2, markersize=4,
          color='#1f77b4', label='Total Bilateral Trade', alpha=0.7, linestyle='--')
 
-# Mark key events with vertical lines and annotations
+# Mark key events with vertical lines and simple labels
 events = [
-    (2001, 'China joins\nWTO', 115),
-    (2018, 'Trade War\nbegins', 660),
-    (2020, 'COVID-19\npandemic', 560)
+    (2001, 'WTO', 650),
+    (2018, 'Trade War', 650),
+    (2020, 'COVID-19', 650)
 ]
 
 for year, label, ypos in events:
-    ax1.axvline(x=year, color='gray', linestyle=':', alpha=0.6, linewidth=1.5)
-    ax1.annotate(label, xy=(year, ypos), xytext=(year, ypos + 50),
-                ha='center', fontsize=9, fontweight='bold',
-                bbox=dict(boxstyle='round,pad=0.4', facecolor='yellow', alpha=0.7, edgecolor='black'),
-                arrowprops=dict(arrowstyle='->', color='black', lw=1.5))
+    ax1.axvline(x=year, color='gray', linestyle=':', alpha=0.5, linewidth=1.2)
+    ax1.text(year, ypos, label, ha='center', fontsize=9,
+            fontweight='bold', rotation=0,
+            bbox=dict(boxstyle='round,pad=0.3', facecolor='white',
+                     alpha=0.8, edgecolor='gray', linewidth=0.5))
 
 # Customize top panel
 ax1.set_ylabel('Trade Value (Billions USD)', fontweight='bold', fontsize=12)
@@ -56,10 +56,7 @@ ax1.grid(True, alpha=0.3, linestyle='--', linewidth=0.5)
 ax1.set_xlim(1988, 2026)
 ax1.set_ylim(0, 750)
 
-# Add shaded regions for policy periods
-ax1.axvspan(2018, 2020, alpha=0.15, color='red', label='_Trade War Period')
-ax1.text(2019, 700, 'Trade War', ha='center', fontsize=10,
-         fontweight='bold', color='darkred', style='italic')
+# Shaded region removed for cleaner look
 
 # ===== BOTTOM PANEL: Trade Balance =====
 colors_balance = ['#d62728' if x < 0 else '#2ca02c' for x in data['Trade_Balance']]
@@ -73,15 +70,12 @@ ax2.set_title('U.S. Trade Deficit with China', fontweight='bold', fontsize=13, p
 ax2.grid(True, alpha=0.3, linestyle='--', linewidth=0.5, axis='y')
 ax2.set_xlim(1988, 2026)
 
-# Add annotation for peak deficit
+# Simplified peak deficit label
 peak_deficit_idx = data['Trade_Balance'].idxmin()
 peak_year = data.loc[peak_deficit_idx, 'Year']
 peak_value = data.loc[peak_deficit_idx, 'Trade_Balance']
-ax2.annotate(f'Peak deficit:\n${abs(peak_value):.1f}B ({int(peak_year)})',
-            xy=(peak_year, peak_value), xytext=(peak_year + 3, peak_value - 50),
-            arrowprops=dict(arrowstyle='->', color='darkred', lw=2),
-            fontsize=10, fontweight='bold', color='darkred',
-            bbox=dict(boxstyle='round,pad=0.5', facecolor='pink', alpha=0.8, edgecolor='darkred'))
+ax2.text(peak_year, peak_value - 30, f'Peak: ${abs(peak_value):.0f}B',
+        ha='center', fontsize=9, fontweight='bold', color='darkred')
 
 # Add source citation
 plt.figtext(0.99, 0.01,
@@ -90,16 +84,13 @@ plt.figtext(0.99, 0.01,
            '2024 values are estimates based on first three quarters.',
            ha='right', va='bottom', fontsize=8, style='italic')
 
-# Add key statistics text box
-stats_text = (f'Key Statistics:\n'
-             f'• 1990 total trade: ${data.iloc[0]["Total_Trade"]:.1f}B\n'
-             f'• 2022 peak trade: ${data["Total_Trade"].max():.1f}B\n'
-             f'• 2024 total trade: ${data.iloc[-1]["Total_Trade"]:.1f}B\n'
-             f'• Growth 1990-2022: {((data["Total_Trade"].max()/data.iloc[0]["Total_Trade"])-1)*100:.0f}%\n'
-             f'• Decline 2022-2024: {((data.iloc[-1]["Total_Trade"]/data["Total_Trade"].max())-1)*100:.1f}%')
-props = dict(boxstyle='round', facecolor='lightblue', alpha=0.85, edgecolor='black', linewidth=1.5)
-ax1.text(0.02, 0.97, stats_text, transform=ax1.transAxes, fontsize=9,
-        verticalalignment='top', bbox=props, family='monospace')
+# Statistics box moved to bottom right to avoid legend overlap
+stats_text = (f'1990: ${data.iloc[0]["Total_Trade"]:.1f}B\n'
+             f'Peak 2022: ${data["Total_Trade"].max():.1f}B\n'
+             f'2024: ${data.iloc[-1]["Total_Trade"]:.1f}B')
+props = dict(boxstyle='round', facecolor='lightblue', alpha=0.85, edgecolor='gray', linewidth=1)
+ax1.text(0.98, 0.03, stats_text, transform=ax1.transAxes, fontsize=9,
+        verticalalignment='bottom', horizontalalignment='right', bbox=props, family='monospace')
 
 # Adjust layout
 plt.tight_layout(rect=[0, 0.05, 1, 1])

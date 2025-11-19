@@ -1,7 +1,7 @@
 # Visualization Progress Report
 
 **Date:** 2025-11-19
-**Session:** Initial Visualization Creation
+**Session:** Initial Visualization Creation + Revision for Clarity
 
 ---
 
@@ -9,15 +9,17 @@
 
 Successfully created **5 high-priority data visualizations** for the economic coercion textbook, covering critical strategic dependencies and technology competition between the U.S. and China.
 
+**Revision Session (2025-11-19):** Cleaned up 4 figures to eliminate overlapping legends, simplify annotations, and improve visual clarity based on feedback.
+
 ---
 
 ## Completed Visualizations
 
 ### Figure 1.2: U.S.-China Trade Flows Over Time (1990-2024)
-**Status:** ✅ Complete
+**Status:** ✅ Complete (Revised for clarity)
 **Files:**
-- `figures/figure_1_2_us_china_trade.png` (692 KB, 300 DPI)
-- `figures/figure_1_2_us_china_trade.pdf` (70 KB, vector)
+- `figures/figure_1_2_us_china_trade.png` (300 DPI)
+- `figures/figure_1_2_us_china_trade.pdf` (vector)
 - `data/sources/us_china_trade.csv`
 - `figures/create_figure_1_2_trade.py`
 
@@ -33,13 +35,19 @@ Successfully created **5 high-priority data visualizations** for the economic co
 - Key events marked: WTO accession, Trade War, COVID-19
 - Growth: 34.5x from 1990 to 2022
 
+**Revisions:**
+- Simplified event annotations (removed yellow boxes with arrows)
+- Moved statistics box to bottom right to avoid legend overlap
+- Removed red shaded region for cleaner look
+- Simplified peak deficit annotation
+
 ---
 
 ### Figure 2.2: TSMC Market Share by Technology Node
-**Status:** ✅ Complete
+**Status:** ✅ Complete (Revised for clarity)
 **Files:**
-- `figures/figure_2_2_tsmc_dominance.png` (448 KB, 300 DPI)
-- `figures/figure_2_2_tsmc_dominance.pdf` (52 KB, vector)
+- `figures/figure_2_2_tsmc_dominance.png` (300 DPI)
+- `figures/figure_2_2_tsmc_dominance.pdf` (vector)
 - `data/sources/tsmc_market_share.csv`
 - `figures/create_figure_2_2_tsmc.py`
 
@@ -54,6 +62,12 @@ Successfully created **5 high-priority data visualizations** for the economic co
 - Taiwan concentration creates critical vulnerability
 - China (SMIC) limited to 7nm and above
 - Intel struggles even at mature nodes in foundry business
+
+**Revisions:**
+- Reduced bar width from 0.6 to 0.5 for cleaner spacing
+- Moved legend to upper right to avoid bar overlap
+- Simplified annotations (removed multiple callout boxes)
+- Removed strategic implications text box for cleaner design
 
 ---
 
@@ -86,7 +100,7 @@ Successfully created **5 high-priority data visualizations** for the economic co
 ---
 
 ### Figure 4.1: R&D Spending by Country (1990-2024)
-**Status:** ✅ Complete
+**Status:** ✅ Complete (Revised for clarity)
 **Files:**
 - `figures/figure_4_1_rd_spending.png` (789 KB, 300 DPI)
 - `figures/figure_4_1_rd_spending.pdf` (81 KB, vector)
@@ -106,14 +120,20 @@ Successfully created **5 high-priority data visualizations** for the economic co
 - Combined USA + China = 56.5% of global R&D
 
 **Visual Features:**
-- Main plot: Time series of all major countries
+- Main plot: Time series of USA, China, and EU only
 - Inset graph: Global share trends for USA vs China
 - Shows China's acceleration since 2000
+
+**Revisions:**
+- Removed Japan and South Korea for cleaner focus on main competitors
+- Simplified annotations (removed yellow boxes)
+- Increased line width for better visibility
+- Simplified statistics box
 
 ---
 
 ### Figure 4.2: AI Research Publications - USA vs China
-**Status:** ✅ Complete
+**Status:** ✅ Complete (Revised for clarity)
 **Files:**
 - `figures/figure_4_2_ai_publications.png` (761 KB, 300 DPI)
 - `figures/figure_4_2_ai_publications.pdf` (70 KB, vector)
@@ -138,6 +158,206 @@ Successfully created **5 high-priority data visualizations** for the economic co
 - Quantity AND quality advantage shifting to China
 - USA maintains strong position but declining share
 - EU falling further behind (42,800 papers in 2024)
+
+**Revisions:**
+- Simplified crossover annotation (removed yellow box)
+- Moved statistics box to lower right to avoid legend overlap
+- Removed shaded regions and quality note box for cleaner look
+- Simplified all annotations
+
+---
+
+### Figure 7.1: SWIFT Transaction Volumes by Currency
+**Status:** ✅ Complete
+**Files:**
+- `figures/figure_7_1_swift_currencies.png` (300 DPI)
+- `figures/figure_7_1_swift_currencies.pdf` (vector)
+- `data/sources/swift_currency_data.csv`
+- `figures/create_figure_7_1_swift.py`
+
+**Key Findings:**
+- **USD share:** 38.0% (2024) - down from 42.5% (2010)
+- **EUR share:** 37.2% (2024) - up from 32.8% (2010)
+- **CNY share:** 5.5% (2024) - up from 0.3% (2010)
+- **CNY growth:** 1,733% increase over 14 years
+
+**Visual Features:**
+- Left panel: Time series (2010-2024) showing all major currencies
+- Right panel: 2024 pie chart breakdown
+- Clean design with simple annotations
+
+**Strategic Implications:**
+- USD maintains dominance but gradual decline
+- EUR approaching parity with USD
+- CNY rapid growth but still far from challenging USD/EUR
+- SWIFT system remains Western-dominated
+
+---
+
+### Figure 7.3: Foreign Holdings of U.S. Treasury Securities
+**Status:** ✅ Complete
+**Files:**
+- `figures/figure_7_3_treasury_holdings.png` (300 DPI)
+- `figures/figure_7_3_treasury_holdings.pdf` (vector)
+- `data/sources/us_treasury_holdings.csv`
+- `figures/create_figure_7_3_treasuries.py`
+
+**Key Findings:**
+- **China peak:** $1,269B (2014)
+- **China 2024:** $776B (down 38.9%)
+- **Japan 2024:** $1,115B (largest holder)
+- **UK 2024:** $735B (up from $43B in 2000)
+- **Total foreign holdings:** $6,560B (2024)
+
+**Visual Features:**
+- Stacked area chart showing composition over time
+- Highlights China's peak and decline
+- Shows rise of European financial centers (UK, Ireland, Luxembourg)
+
+**Strategic Implications:**
+- China reducing exposure to U.S. Treasuries (de-dollarization)
+- Japan maintains steady position as top holder
+- UK and European centers increasing holdings
+- Still massive global demand for U.S. debt
+
+---
+
+### Figure 7.4: Russian Assets Frozen by Western Sanctions (2022)
+**Status:** ✅ Complete
+**Files:**
+- `figures/figure_7_4_russian_frozen_assets.png` (300 DPI)
+- `figures/figure_7_4_russian_frozen_assets.pdf` (vector)
+- `data/sources/russian_frozen_assets_2022.csv`
+- `figures/create_figure_7_4_frozen_assets.py`
+
+**Key Findings:**
+- **Total frozen:** $370.3B
+- **Foreign reserves:** $256.0B (~55% of Russia's total)
+- **Oligarch assets:** $88.5B
+- **State assets:** $25.8B
+- **Largest holder:** Eurozone central banks ($185.5B)
+
+**Visual Features:**
+- Left panel: Assets by category (reserves, oligarchs, state)
+- Right panel: Foreign reserves by jurisdiction
+- Dual horizontal bar charts for easy comparison
+
+**Strategic Implications:**
+- Unprecedented use of financial coercion
+- Eurozone holds majority of frozen reserves
+- Demonstrates Western control of global financial system
+- Raises questions about "safety" of dollar/euro reserves
+
+---
+
+### Figure 3.6: Renewable Energy Manufacturing - China's Dominance
+**Status:** ✅ Complete
+**Files:**
+- `figures/figure_3_6_renewable_manufacturing.png` (300 DPI)
+- `figures/figure_3_6_renewable_manufacturing.pdf` (vector)
+- `data/sources/renewable_energy_manufacturing.csv`
+- `figures/create_figure_3_6_renewables.py`
+
+**Key Findings:**
+- **Average China share:** 73% across 7 clean energy technologies
+- **Rare Earth Magnets:** 90% (critical for wind turbines, EVs)
+- **Solar Panels:** 80%
+- **Solar Polysilicon:** 80%
+- **EV Batteries:** 75%
+- **Wind Turbines:** 60%
+
+**Visual Features:**
+- Horizontal stacked bar chart showing global market share
+- Seven critical clean energy technologies
+- Clear color coding by region
+
+**Strategic Implications:**
+- China dominates every key clean energy technology
+- Global energy transition dependent on Chinese manufacturing
+- Creates leverage similar to oil/gas dependencies
+- Western countries locked into Chinese supply chains
+
+---
+
+### Figure 6.1: U.S. Tariffs on Chinese Goods (2015-2024)
+**Status:** ✅ Complete
+**Files:**
+- `figures/figure_6_1_us_china_tariffs.png` (300 DPI)
+- `figures/figure_6_1_us_china_tariffs.pdf` (vector)
+- `data/sources/us_china_tariffs.csv`
+- `figures/create_figure_6_1_tariffs.py`
+
+**Key Findings:**
+- **2017 (Pre-trade war):** 3.1% average tariff
+- **2024 (Current):** 19.8% average tariff
+- **Increase:** 539% (6x higher)
+- **Goods affected:** $570B worth of Chinese imports
+
+**Visual Features:**
+- Bar chart showing tariff rate over time
+- Color coded: green (pre-2018), red (post-2018)
+- Marks key events (Trade War, Biden continuation)
+
+**Strategic Implications:**
+- Dramatic escalation starting 2018
+- Biden maintained Trump tariffs
+- Bipartisan consensus on China trade policy
+- $570B in goods subject to elevated tariffs
+
+---
+
+### Figure 6.3: U.S. Entity List Additions - Chinese Entities (2015-2024)
+**Status:** ✅ Complete
+**Files:**
+- `figures/figure_6_3_entity_list_additions.png` (300 DPI)
+- `figures/figure_6_3_entity_list_additions.pdf` (vector)
+- `data/sources/entity_list_additions.csv`
+- `figures/create_figure_6_3_entity_list.py`
+
+**Key Findings:**
+- **2015:** 15 entities added
+- **2024:** 275 entities added (18x increase)
+- **Total 2015-2024:** 1,362 Chinese entities added
+- **Top category 2024:** Semiconductors (75 entities)
+- **Fastest growing:** AI/Computing (62 entities in 2024)
+
+**Visual Features:**
+- Left panel: Stacked area chart by sector
+- Right panel: Annual total additions
+- Six categories tracked
+
+**Strategic Implications:**
+- Massive acceleration of export controls
+- Focus shifted from surveillance to semiconductors/AI
+- Universities and research institutions increasingly targeted
+- Tech decoupling intensifying
+
+---
+
+### Figure 8.2: Chinese Foreign Direct Investment in U.S. and Europe (2008-2024)
+**Status:** ✅ Complete
+**Files:**
+- `figures/figure_8_2_chinese_fdi.png` (300 DPI)
+- `figures/figure_8_2_chinese_fdi.pdf` (vector)
+- `data/sources/chinese_fdi_flows.csv`
+- `figures/create_figure_8_2_fdi.py`
+
+**Key Findings:**
+- **U.S. peak:** $45.6B (2016)
+- **U.S. 2024:** $2.5B (down 95%)
+- **Europe peak:** $42.8B (2017)
+- **Europe 2024:** $9.5B (down 78%)
+
+**Visual Features:**
+- Dual line chart (U.S. vs Europe)
+- Shows dramatic rise and fall
+- Marks CFIUS reform (2018)
+
+**Strategic Implications:**
+- Near-complete collapse of Chinese investment in U.S.
+- Europe following similar trend but less severe
+- CFIUS expansion (2018) major turning point
+- Investment screening as economic coercion tool
 
 ---
 
@@ -198,9 +418,10 @@ Based on VISUALIZATION_PLAN.md, the next high-priority figures are:
 - **Figure 3.6:** Renewable Energy Manufacturing - China's Share
 
 ### Chapter 7 (Financial Statecraft)
-- **Figure 7.1:** SWIFT Transaction Volumes by Currency
-- **Figure 7.3:** Foreign Holdings of U.S. Treasury Securities
-- **Figure 7.4:** Russian Foreign Reserves - Frozen Assets 2022
+- ✅ **Figure 7.1:** SWIFT Transaction Volumes by Currency - **COMPLETED**
+- **Figure 7.2:** U.S. Sanctions Programs Over Time
+- ✅ **Figure 7.3:** Foreign Holdings of U.S. Treasury Securities - **COMPLETED**
+- ✅ **Figure 7.4:** Russian Foreign Reserves - Frozen Assets 2022 - **COMPLETED**
 
 ### Chapter 1 (Foundations)
 - **Figure 1.1:** Four Dimensions Framework (conceptual diagram)
@@ -230,22 +451,25 @@ Tackle complex visualizations requiring more sophisticated tools:
 
 ## Statistics Summary
 
-### Visualizations Completed: 5 of ~70-80 planned (6-7%)
+### Visualizations Completed: 12 of ~70-80 planned (15-17%) ✨
 - Chapter 1: 1 of 4 planned
 - Chapter 2: 2 of 7 planned
-- Chapter 3: 0 of 7 planned
+- Chapter 3: 1 of 7 planned ✨
 - Chapter 4: 2 of 7 planned
+- Chapter 6: 2 of 5 planned ✨
+- Chapter 7: 3 of 7 planned
+- Chapter 8: 1 of 6 planned ✨
 
-### Data Sources Created: 5 CSV files
-- Total data points: ~300 across all datasets
-- Time range: 1990-2024 (34 years)
-- Geographic coverage: USA, China, EU, Japan, South Korea, global
+### Data Sources Created: 12 CSV files
+- Total data points: ~650 across all datasets
+- Time range: 2000-2024 (24 years)
+- Geographic coverage: USA, China, EU, Japan, South Korea, Russia, global
 
-### File Outputs: 15 files
-- 5 PNG images (3.0 MB total)
-- 5 PDF vectors (323 KB total)
-- 5 Python scripts (reproducible)
-- 5 CSV datasets
+### File Outputs: 36 files
+- 12 PNG images (300 DPI)
+- 12 PDF vectors (vector format)
+- 12 Python scripts (reproducible)
+- 12 CSV datasets
 
 ---
 
@@ -278,6 +502,42 @@ Tackle complex visualizations requiring more sophisticated tools:
    - Few countries: Maritime chokepoints (Hormuz, Malacca)
    - These are weaponizable dependencies
 
+6. **Financial Coercion Has Become a Primary Tool**
+   - USD still dominates SWIFT (38%), but declining
+   - Russia sanctions froze $370B in assets (unprecedented scale)
+   - China reducing U.S. Treasury holdings (39% decline from peak)
+   - Western control of financial infrastructure enables coercion
+
+7. **De-dollarization Is Happening But Slowly**
+   - China cut Treasury holdings from $1,269B to $776B
+   - CNY grew 1,733% in SWIFT but still only 5.5%
+   - No viable alternative to USD/EUR system yet
+   - Russia sanctions may accelerate alternative payment systems
+
+8. **Clean Energy Transition Creates New Dependencies**
+   - China controls 73% average across 7 key clean energy technologies
+   - 90% of rare earth magnets, 80% of solar panels
+   - Replacing oil dependence with clean tech dependence
+   - Energy transition locked into Chinese supply chains
+
+9. **Trade War Is Structural, Not Temporary**
+   - U.S. tariffs jumped 539% (3.1% → 19.8%)
+   - $570B in goods affected
+   - Biden maintained and expanded Trump tariffs
+   - Bipartisan consensus on China trade restrictions
+
+10. **Tech Decoupling Is Accelerating**
+    - Entity List additions: 15 (2015) → 275 (2024)
+    - 1,362 Chinese entities blocked from U.S. tech
+    - Focus on semiconductors, AI, and computing
+    - Export controls = economic coercion
+
+11. **Investment Screening Collapsed Cross-Border Flows**
+    - Chinese FDI in U.S. down 95% from peak
+    - CFIUS expansion (2018) was turning point
+    - Europe also screening but less aggressive
+    - Investment flows now at pre-2010 levels
+
 ---
 
 ## Git Commit
@@ -289,4 +549,6 @@ Tackle complex visualizations requiring more sophisticated tools:
 
 ---
 
-**Next Update:** After completing additional visualizations or beginning Chapter 5
+**Last Update:** 2025-11-19 (Evening session)
+**Session Summary:** Created 3 new Chapter 7 financial statecraft visualizations + revised 4 existing figures for clarity
+**Next Update:** After completing additional visualizations

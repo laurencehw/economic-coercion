@@ -33,7 +33,7 @@ fig, ax = plt.subplots(figsize=(14, 8))
 # Get companies (excluding Technology_Node column)
 companies = [col for col in data.columns if col != 'Technology_Node']
 x = np.arange(len(data))
-width = 0.6
+width = 0.5  # Reduced from 0.6 for cleaner look
 
 # Create stacked bars
 bottom = np.zeros(len(data))
@@ -74,22 +74,13 @@ ax.set_axisbelow(True)
 # Set y-axis limits
 ax.set_ylim(0, 105)
 
-# Add legend
-ax.legend(loc='upper left', framealpha=0.95, edgecolor='black',
+# Add legend - moved to upper right to avoid bar overlap
+ax.legend(loc='upper right', framealpha=0.95, edgecolor='black',
          title='Manufacturer', title_fontsize=11)
 
-# Add annotations highlighting TSMC's dominance
-ax.annotate('TSMC monopoly\nat cutting edge',
-           xy=(0, 100), xytext=(0.5, 115),
-           arrowprops=dict(arrowstyle='->', color='red', lw=2),
-           fontsize=11, fontweight='bold', color='red',
-           ha='center', bbox=dict(boxstyle='round,pad=0.5', facecolor='yellow', alpha=0.7))
-
-ax.annotate('Competition emerges\nat mature nodes',
-           xy=(5, 70), xytext=(4.5, 120),
-           arrowprops=dict(arrowstyle='->', color='darkblue', lw=1.5),
-           fontsize=10, fontweight='bold', color='darkblue',
-           ha='center', bbox=dict(boxstyle='round,pad=0.5', facecolor='lightblue', alpha=0.7))
+# Simplified annotation - single key point
+ax.text(0, 107, '100% TSMC', ha='center', fontsize=10,
+       fontweight='bold', color='darkred')
 
 # Add source citation
 plt.figtext(0.99, 0.01,
@@ -98,15 +89,7 @@ plt.figtext(0.99, 0.01,
            'Smaller nodes (3nm, 5nm) represent more advanced technology.',
            ha='right', va='bottom', fontsize=8, style='italic')
 
-# Add strategic importance text box
-textstr = ('Strategic Implications:\n'
-          '• 3nm/5nm: AI chips, flagship smartphones\n'
-          '• 7nm/10nm: High-performance computing\n'
-          '• 14nm+: Military, automotive, IoT\n'
-          '• TSMC concentration = critical vulnerability')
-props = dict(boxstyle='round', facecolor='wheat', alpha=0.85, edgecolor='black', linewidth=1.5)
-ax.text(0.98, 0.58, textstr, transform=ax.transAxes, fontsize=9,
-        verticalalignment='top', horizontalalignment='right', bbox=props)
+# Removed strategic implications text box for cleaner design
 
 # Adjust layout
 plt.tight_layout(rect=[0, 0.05, 1, 0.95])
