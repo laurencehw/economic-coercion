@@ -298,3 +298,95 @@ Recognizing these perspectives does not mean validating Chinese historical narra
 
 ---
 
+## Section 4: Conceptual Framework for Analyzing Economic Coercion
+
+Having defined key concepts and examined the US-China strategic context, we now need analytical tools for systematically assessing specific instances of economic coercion. This framework, applied throughout subsequent chapters, organizes analysis across four dimensions: **domain**, **target**, **objective**, and **intensity**.
+
+### 4.1 Four Dimensions of Economic Coercion
+
+**Domain** identifies the economic sphere in which coercion operates. Different domains offer different leverage and face different constraints.
+
+- **Trade:** Tariffs, quotas, import bans, export controls, preferential trade agreements. Trade measures are highly visible, relatively easy to implement through executive authority or legislation, but also invite retaliation and may harm domestic producers and consumers. Export controls on technology can be particularly effective when the coercing state controls chokepoint inputs, but lose effectiveness as targets develop substitutes.
+
+- **Finance:** Sanctions, asset freezes, exclusion from payment systems (SWIFT), restrictions on correspondent banking access, limitations on dollar transactions, sovereign debt restrictions. Financial measures leverage the centrality of dollar-denominated finance and U.S./European control of major payment systems. They can be devastating when targets depend on international finance, but overuse risks accelerating development of alternative payment systems and reserve currencies.
+
+- **Investment:** Screening of inbound foreign direct investment (CFIUS in the US, similar mechanisms in other countries), forced divestment, restrictions on portfolio investment, limitations on acquisitions in strategic sectors, development finance as inducement. Investment controls protect against technology transfer and strategic dependencies but may reduce capital inflows and innovation from foreign firms.
+
+- **Technology:** Export controls on dual-use technologies, restrictions on technical exchanges and conferences, limitations on foreign students in sensitive fields, standards-setting to exclude rivals' technologies, requirements for technology transfer or data localization. Technology restrictions can effectively deny capabilities when chokepoints exist, but face challenges in enforcement (smuggling, third-country transshipment) and may accelerate target's indigenous development.
+
+The choice of domain depends on where leverage exists (chokepoint positions), what objectives are sought (denial vs. punishment), and what costs the coercing state can accept (domestic economic impact, allied coordination challenges, retaliation risks).
+
+**Target** specifies who bears the economic costs. Precision in targeting affects both effectiveness and political sustainability.
+
+- **State-level:** Comprehensive sanctions targeting an entire country's economy (Iran, North Korea). Maximum pressure but also maximum costs for the coercing state, highest risk of humanitarian consequences, greatest difficulty maintaining allied support over time.
+
+- **Sectoral:** Restrictions on specific industries or economic sectors (Russian energy, Chinese semiconductors, Iranian petrochemicals). More targeted than comprehensive sanctions, easier to justify as protecting specific security interests, but sectors often have complex supply chains making implementation challenging.
+
+- **Entity-level:** Designation of specific companies, banks, or organizations (Huawei on Entity List, Russian banks excluded from SWIFT, Chinese firms on SDN list). Surgical approach minimizes collateral damage and is easier to justify on specific national security grounds, but requires intelligence to identify key entities and risks whack-a-mole dynamics as targets create new entities.
+
+- **Individual-level:** Asset freezes and travel bans on specific officials, businesspeople, or elites (Magnitsky sanctions, sanctions on Russian oligarchs). Highly targeted, low economic cost to coercing state, useful for signaling and imposing personal costs on decision-makers, but effectiveness depends on whether targeted individuals actually influence policy and whether they maintain assets in sanctioning jurisdictions.
+
+Effective targeting requires understanding decision-making structures in the target country. Sanctioning individuals works better in systems where leaders care about elite support (oligarchs in Russia) than in highly centralized authoritarian systems (North Korea). Sectoral sanctions are most effective when targeting industries critical to regime legitimacy or elite wealth.
+
+**Objective** defines what behavioral change the coercing state seeks. Different objectives require different tools and timelines.
+
+- **Deterrence:** Preventing unwanted future actions through threatened costs. Requires credibility (the threat must be believed), capability (ability to impose threatened costs), and communication (target must understand what actions trigger sanctions). Deterrence is difficult to assess (success means nothing happens) and fails when targets value the deterred action more than avoiding sanctions costs.
+
+- **Compellence:** Forcing target to take a positive action they otherwise wouldn't (withdraw from territory, release prisoners, end weapons program). Generally harder than deterrence because it requires target to make active concessions, often publicly. Success requires that sanctions costs exceed target's value of the contested issue, that target has physical capacity to comply, and that compliance doesn't threaten regime survival.
+
+- **Containment:** Degrading target's capabilities to limit future threats without requiring specific behavioral changes. Export controls preventing China from accessing advanced semiconductors aim to slow AI development regardless of policy changes. Effectiveness depends on chokepoint control—can target acquire denied capabilities elsewhere or develop them indigenously?
+
+- **Signaling:** Communicating resolve, values, or alliance commitments rather than achieving specific target behavior change. Symbolic sanctions after Tiananmen Square or Magnitsky-style human rights sanctions often serve signaling functions. Success is measured by domestic and international audience reactions, not target behavior.
+
+- **Regime Change:** Undermining target government to provoke leadership change or collapse. The most ambitious objective, requiring comprehensive economic pressure sustained over time. Historically low success rates—autocratic regimes often adapt to sanctions, blame external enemies, and tighten internal controls. Risk of humanitarian catastrophe if economy collapses without regime change.
+
+Policymakers often pursue multiple objectives simultaneously, creating potential contradictions. Sanctions imposed for signaling (demonstrating concern over human rights) may undermine compellence (negotiating specific policy changes) if they leave no face-saving way for targets to comply without appearing to surrender to external pressure.
+
+**Intensity** measures the scope and severity of economic measures, ranging from diplomatic pressure to comprehensive economic warfare.
+
+- **Level 1 - Diplomatic Pressure:** Public statements of concern, threats of future economic measures, informal discussions about "consequences." Low cost, reversible, maintains communication channels. Limited effectiveness—target may doubt follow-through.
+
+- **Level 2 - Targeted Measures:** Sanctions on individuals or small entities, narrow export controls, investigation announcements. Demonstrable action with limited economic impact. Useful for signaling resolve while leaving escalation options available.
+
+- **Level 3 - Sectoral Restrictions:** Industry-specific sanctions, entity list designations of major firms, restrictions on specific technologies or financing. Meaningful economic pressure with manageable domestic costs. Requires justification and implementation infrastructure.
+
+- **Level 4 - Comprehensive Sanctions:** Broad trade embargoes, asset freezes, financial system exclusion (SWIFT), investment bans. Severe economic pressure intended to cripple target economy. High costs for coercing state (lost trade, higher prices), significant allied coordination challenges, risk of humanitarian consequences.
+
+- **Level 5 - Economic Warfare:** Complete economic decoupling, blockades, seizure of assets, prohibition of all transactions. Approaching or including military enforcement. Typically only seen in wartime (WWII blockades, current Russia sanctions approaching this level in some sectors). Requires treating target as existential threat.
+
+Intensity choices involve trade-offs between effectiveness (higher intensity imposes more costs) and sustainability (higher intensity generates more domestic opposition, allied defection, and target adaptation). Escalation dynamics matter: starting with Level 4 measures leaves no room for escalation if initial pressure fails, but incrementalism (Level 1→2→3) allows targets to adapt and may signal lack of resolve.
+
+### 4.2 Effectiveness Criteria
+
+Assessing whether economic coercion succeeds requires clear criteria. We evaluate across five dimensions:
+
+**1. Target Compliance:** Did the target change behavior in the desired direction? This is the primary measure but also the most contested—determining causation is difficult when multiple factors influence target decisions.
+
+**2. Capability Degradation:** For containment objectives, did the measures successfully limit target capabilities? Export controls succeed if they slow Chinese AI development, fail if China quickly develops indigenous alternatives.
+
+**3. Cost Imposition:** Even without behavioral change, did measures impose meaningful costs on the target? Sanctions that devastate target economies but don't change policy may still serve strategic purposes (weakening rivals' long-term capability) or political purposes (satisfying domestic demand for action).
+
+**4. Sustainability:** Can the measures be maintained long enough to achieve objectives? High intensity measures that generate rapid domestic opposition, allied defection, or target adaptation may fail even if initially effective.
+
+**5. Collateral Damage:** What unintended costs do measures impose on the coercing state, allies, neutrals, or civilians in target countries? Sanctions that harm humanitarian conditions, undermine long-term economic relationships, or alienate allies may be strategically counterproductive even if they impose costs on targets.
+
+Success is contingent and multi-dimensional. Sanctions might impose costs (criterion 3) without changing behavior (criterion 1). They might achieve short-term compliance but prove unsustainable (criterion 4), leading to eventual failure. Or they might successfully degrade capabilities (criterion 2) while generating humanitarian costs (criterion 5) that undermine political support.
+
+### 4.3 Strategic Considerations
+
+Beyond the mechanics of economic coercion, several strategic factors shape effectiveness:
+
+**Allied Coordination:** Multilateral measures are generally more effective than unilateral ones—they prevent target from finding alternative suppliers, increase costs, and demonstrate international consensus. But coordination is difficult, requiring aligned threat perceptions, manageable costs for all participants, and institutional mechanisms for implementation. U.S. success in coordinating semiconductor export controls with Netherlands and Japan (securing ASML and Tokyo Electron participation) contrasts with mixed coordination on Russia sanctions (energy loopholes for European dependence).
+
+**Target Regime Type:** Autocracies may be less vulnerable to economic pain than democracies because leaders don't face electoral accountability and can shift costs to populations. But autocracies also lack safety valves (free press, political opposition) that allow democracies to adjust policies in response to economic pressure. Effectiveness depends on specific autocratic structures: personalist dictatorships vulnerable to elite defection respond differently than single-party regimes with institutionalized succession.
+
+**Economic Alternatives:** Can targets substitute sanctioned goods, find alternative suppliers, or develop indigenous capabilities? Export controls on semiconductors are effective because few alternatives exist, but sanctions on commodities often fail because targets find new buyers or smuggling routes. China's Belt and Road Initiative partly aims to create alternative economic networks reducing vulnerability to Western sanctions.
+
+**Escalation Dynamics:** Economic coercion can escalate to military conflict if targets view measures as existential threats, or can de-escalate if measures provide off-ramps and face-saving compromises. Graduated pressure with clear conditions for relief generally works better than comprehensive measures with vague demands.
+
+**Time Horizons:** Targets with longer time horizons (China accepting decades to achieve semiconductor independence) can endure short-term pain better than those facing immediate crises. Coercing states with short political timelines (electoral cycles) struggle to maintain pressure against targets planning in decades.
+
+This conceptual framework—analyzing domain, target, objective, and intensity while assessing effectiveness across multiple criteria and strategic considerations—provides tools for understanding economic coercion in practice. The case studies, government tools boxes, and analyses in subsequent chapters apply this framework systematically.
+
+---
+
