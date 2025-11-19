@@ -1,7 +1,7 @@
 # Writing Plan: Economic Coercion Book
 
 **Last Updated**: 2025-01-19
-**Current Status**: Chapter 1 COMPLETE (~17,000 words)
+**Current Status**: Chapters 1-3 COMPLETE (~68,500 words total)
 
 ---
 
@@ -9,11 +9,11 @@
 
 ### Part I: Foundations and Context
 - ✅ **Chapter 1: Foundations of Economic Statecraft** (COMPLETE - 17,000 words)
-- ⏳ **Chapter 2: Supply Chain Vulnerabilities and Dependencies**
+- ✅ **Chapter 2: Supply Chain Vulnerabilities and Dependencies** (COMPLETE - 29,500 words)
+- ✅ **Chapter 3: Critical Sectors and Strategic Resources** (COMPLETE - 22,000 words)
 
 ### Part II: Domains of Economic Statecraft
-- ⏳ **Chapter 3: Critical Sectors and Strategic Resources**
-- ⏳ **Chapter 4: Technology and Innovation Competition**
+- ⏳ **Chapter 4: Technology and Innovation Competition** (NEXT - Target: 12,000-15,000 words)
 - ⏳ **Chapter 5: Information, Standards, and Digital Infrastructure**
 
 ### Part III: Tools and Mechanisms
