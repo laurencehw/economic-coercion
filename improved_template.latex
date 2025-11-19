@@ -1,0 +1,192 @@
+\documentclass[11pt,oneside,openany]{book}
+
+% Font and encoding
+\usepackage{fontspec}
+\setmainfont{Times New Roman}
+\setsansfont{Arial}
+\setmonofont{Courier New}
+
+% Essential packages
+\usepackage{geometry}
+\usepackage{graphicx}
+\usepackage{hyperref}
+\usepackage{xcolor}
+\usepackage{fancyhdr}
+\usepackage{titlesec}
+\usepackage{tocloft}
+\usepackage{float}
+\usepackage{longtable}
+\usepackage{booktabs}
+\usepackage{array}
+\usepackage{enumerate}
+\usepackage{enumitem}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage[english]{babel}
+
+% Page geometry
+\geometry{
+    letterpaper,
+    left=1.25in,
+    right=1.25in,
+    top=1.25in,
+    bottom=1.25in,
+    headheight=15pt
+}
+
+% Graphics path for figures
+\graphicspath{{./figures/}{./}}
+
+% Hyperref setup
+\hypersetup{
+    colorlinks=true,
+    linkcolor=blue,
+    filecolor=magenta,
+    urlcolor=cyan,
+    citecolor=blue,
+    pdftitle={$title$},
+    pdfauthor={$author$},
+    bookmarks=true,
+    bookmarksopen=true,
+    pdfstartview=FitH
+}
+
+% Chapter formatting - simplified to avoid duplicate numbering
+\titleformat{\chapter}[display]
+  {\normalfont\huge\bfseries}
+  {}
+  {0pt}
+  {\thechapter.\ }
+\titlespacing*{\chapter}{0pt}{-20pt}{40pt}
+
+% Section formatting - remove duplicate numbers
+\titleformat{\section}
+  {\normalfont\Large\bfseries}
+  {}
+  {0pt}
+  {\thesection\ }
+\titlespacing*{\section}{0pt}{3.5ex plus 1ex minus .2ex}{2.3ex plus .2ex}
+
+\titleformat{\subsection}
+  {\normalfont\large\bfseries}
+  {}
+  {0pt}
+  {\thesubsection\ }
+
+% Headers and footers - simplified to avoid duplication
+\pagestyle{fancy}
+\fancyhf{}
+\renewcommand{\chaptermark}[1]{\markboth{Chapter \thechapter: #1}{}}
+\fancyhead[L]{\small\leftmark}
+\fancyhead[R]{\small\thepage}
+\renewcommand{\headrulewidth}{0.4pt}
+
+% Plain style for chapter pages
+\fancypagestyle{plain}{
+  \fancyhf{}
+  \fancyfoot[C]{\thepage}
+  \renewcommand{\headrulewidth}{0pt}
+}
+
+% Table of contents
+\setcounter{tocdepth}{2}
+\setcounter{secnumdepth}{3}
+
+% Figure and table settings
+\floatplacement{figure}{htbp}
+\floatplacement{table}{htbp}
+
+% Make figures appear where they are in the text
+\let\origfigure\figure
+\let\endorigfigure\endfigure
+\renewenvironment{figure}[1][htbp]{%
+  \origfigure[#1]%
+}{%
+  \endorigfigure
+}
+
+% Spacing
+\setlength{\parindent}{0.5in}
+\setlength{\parskip}{6pt}
+\linespread{1.15}
+
+% Lists
+\setlist{noitemsep}
+
+% Define tightlist for Pandoc
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+% Title page
+$if(title)$
+\title{\LARGE\bfseries $title$\\[0.5em]
+$if(subtitle)$
+\Large $subtitle$
+$endif$
+}
+$endif$
+$if(author)$
+\author{$author$\\
+$if(affiliation)$
+\normalsize\itshape $affiliation$
+$endif$
+}
+$endif$
+$if(date)$
+\date{$date$}
+$else$
+\date{\today}
+$endif$
+
+\begin{document}
+
+% Front matter
+$if(title)$
+\frontmatter
+\maketitle
+\thispagestyle{empty}
+$endif$
+
+$if(abstract)$
+\begin{abstract}
+$abstract$
+\end{abstract}
+$endif$
+
+$for(include-before)$
+$include-before$
+$endfor$
+
+% Table of contents
+$if(toc)$
+{
+\hypersetup{linkcolor=black}
+\setcounter{tocdepth}{$toc-depth$}
+\tableofcontents
+\clearpage
+}
+$endif$
+
+$if(lot)$
+\listoftables
+\clearpage
+$endif$
+
+$if(lof)$
+\listoffigures
+\clearpage
+$endif$
+
+% Main matter
+\mainmatter
+
+$body$
+
+% Back matter
+\backmatter
+
+$for(include-after)$
+$include-after$
+$endfor$
+
+\end{document}

@@ -1,0 +1,11 @@
+Program,Country,Sector,Total_Spending_Billions,Duration_Years,Annual_Avg_Billions,Start_Year,End_Year
+CHIPS Act,USA,Semiconductors,52.7,5,10.5,2022,2027
+Inflation Reduction Act,USA,Clean Energy,369,10,36.9,2022,2032
+Infrastructure Investment,USA,Infrastructure,550,10,55.0,2021,2031
+China Big Fund Phase I,China,Semiconductors,21.8,5,4.4,2014,2019
+China Big Fund Phase II,China,Semiconductors,28.9,5,5.8,2019,2024
+China Big Fund Phase III,China,Semiconductors,47.5,7,6.8,2024,2031
+Made in China 2025,China,Advanced Manufacturing,300,10,30.0,2015,2025
+New Infrastructure,China,Digital Infrastructure,411,7,58.7,2020,2027
+EV Subsidies,China,Electric Vehicles,58.5,10,5.9,2015,2025
+Solar Subsidies,China,Solar Energy,42.3,10,4.2,2012,2022
