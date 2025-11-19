@@ -390,3 +390,280 @@ This conceptual framework—analyzing domain, target, objective, and intensity w
 
 ---
 
+## Section 5: Roadmap for the Book
+
+This book examines economic coercion in the context of US-China strategic competition through ten chapters organized into five parts. Each chapter applies the conceptual framework developed above, includes government tools boxes explaining specific authorities, presents Chinese and other relevant perspectives, analyzes case studies, and provides tabletop exercises for active learning.
+
+**Part I: Foundations and Context** (Chapters 1-2) establishes conceptual foundations and examines the structural basis of economic coercion. This chapter has provided definitions, historical context, and analytical frameworks. Chapter 2 examines supply chain vulnerabilities and dependencies—the physical infrastructure of weaponized interdependence. It maps where chokepoints exist (semiconductor manufacturing, rare earth processing, pharmaceutical ingredients), how they developed, and how states are attempting to reduce critical dependencies through reshoring, friend-shoring, and diversification.
+
+**Part II: Domains of Economic Statecraft** (Chapters 3-5) analyzes the three primary domains in which states exercise economic coercion, with detailed attention to tools, recent cases, and Chinese responses.
+
+Chapter 3 focuses on **critical sectors and strategic resources**—energy, minerals, food, and materials that states depend on but cannot easily substitute. It examines China's rare earth dominance and export restrictions, Middle Eastern energy leverage, food security vulnerabilities, and competition for resources critical to energy transition (lithium, cobalt, nickel for batteries). The chapter includes Chinese perspectives on resource sovereignty and development rights.
+
+Chapter 4 addresses **technology and innovation competition**—the most consequential domain of contemporary US-China rivalry. It provides detailed analysis of semiconductor supply chains and export controls, artificial intelligence development and data access, quantum computing and communications, biotechnology and genomic data, and space systems and satellite networks. Government tools boxes explain the Export Administration Regulations, Foreign Direct Product Rule, and deemed export controls. The chapter includes substantial treatment of Chinese technology strategy and the implications of dual-use technology convergence.
+
+Chapter 5 examines **information, standards, and digital infrastructure**—often overlooked but increasingly important domains of economic statecraft. It covers control of submarine cables and internet routing, cloud computing and data localization requirements, technology standards-setting (5G, AI governance), social media platforms and information ecosystems, and digital currency competition. Chinese perspectives on cyber sovereignty and digital silk road are integrated throughout.
+
+**Part III: Tools and Mechanisms** (Chapters 6-7) provides practitioner-focused analysis of specific instruments governments use.
+
+Chapter 6 covers **trade controls and tariffs**—from traditional trade remedies (anti-dumping, countervailing duties) through Section 232 national security tariffs, Section 301 unfair trade practice responses, export licensing and deemed exports, to import bans and forced labor concerns. It examines WTO constraints and workarounds, Chinese retaliatory tariffs and the Phase One trade deal, and effectiveness of trade measures in changing target behavior versus signaling resolve.
+
+Chapter 7 analyzes **financial statecraft and sanctions**—the most powerful but also most controversial domain. It explains SWIFT architecture and exclusion mechanisms, correspondent banking and dollar clearing, asset freezes and Specially Designated Nationals, secondary sanctions and extraterritorial reach, and blocking statutes and anti-coercion tools. Government tools boxes detail IEEPA, OFAC authorities, and the Magnitsky Act. The chapter examines Chinese development of alternative payment systems (CIPS), digital yuan internationalization, and the Anti-Foreign Sanctions Law.
+
+**Part IV: Strategic Implications** (Chapters 8-9) examines broader consequences of economic coercion for international order and strategic stability.
+
+Chapter 8 addresses **investment screening and industrial policy**—the intersection of defensive measures (preventing strategic dependencies) and offensive measures (building domestic capabilities). It analyzes CFIUS evolution and expanded jurisdiction, European investment screening mechanisms, Chinese outbound investment restrictions, the CHIPS and Science Act and Inflation Reduction Act subsidy competitions, and effectiveness of industrial policy in achieving technology leadership. Chinese perspectives on "technological hegemony" and development rights are central.
+
+Chapter 9 provides **historical and comparative cases** to contextualize contemporary competition. It examines CoCom and Cold War technology denial in depth, economic sanctions on the Soviet Union and energy pipeline conflicts, Japan-US semiconductor competition in the 1980s-90s, contemporary sanctions on Iran and North Korea, and the comprehensive sanctions on Russia following its 2022 Ukraine invasion. Each case is analyzed using the four-dimension framework, with lessons learned for current policy.
+
+**Part V: Looking Forward** (Chapter 10) synthesizes insights and examines future trajectories.
+
+Chapter 10 explores scenarios for how US-China economic competition might evolve: managed competition with partial decoupling in strategic sectors, comprehensive economic confrontation approaching Cold War separation, crisis escalation where economic coercion triggers military conflict, or cooperative frameworks that establish guardrails and crisis management mechanisms. It examines wild cards (Taiwan contingency, pandemic recurrence, climate crisis forcing cooperation) and assesses policy options for managing competition while maintaining essential cooperation.
+
+**Pedagogical Features:** Each chapter includes:
+- **Executive Summary** (500-800 words) for busy practitioners
+- **Government Tools Boxes** (2-4 per chapter) explaining legal authorities, implementing agencies, recent applications, and limitations
+- **Perspective Boxes** presenting Chinese and other relevant viewpoints with original language terms, historical context, and strategic logic
+- **Case Studies** (2-4 per chapter) applying the analytical framework to real-world examples with lessons learned
+- **Maps and Data Visualizations** illustrating supply chain dependencies, trade flows, and strategic geography
+- **Tabletop Exercises** (1 per chapter) providing 60-90 minute scenario-based learning experiences
+- **Data Sources Guides** pointing readers to databases, tracking tools, and primary sources
+- **References and Further Reading** with curated bibliographies
+
+**The Argument:** Across these chapters, the book makes several interconnected arguments. Economic coercion has become central to great power competition because military conflict is too costly and interdependence creates exploitable chokepoints. Effectiveness depends not just on material capabilities but on understanding target decision-making, managing allied coordination, and anticipating retaliation. The US-China competition differs fundamentally from the Cold War because it occurs within deep economic integration—creating both opportunities (leverage) and constraints (mutual vulnerability). Chinese perspectives, rooted in historical experiences of foreign economic coercion, shape Beijing's responses in ways Western policymakers must understand even if they don't endorse. How these two powers manage economic interdependence while competing strategically will determine whether this century sees stable competition or catastrophic conflict.
+
+The next sections of this chapter—government tools boxes on IEEPA and the National Emergencies Act, case studies on CoCom and SWIFT exclusion, and a tabletop exercise on a Taiwan crisis—preview the analytical approach applied throughout the book.
+
+---
+
+## Government Tools Box 1: International Emergency Economic Powers Act (IEEPA)
+
+### Legal Authority
+
+**Statute:** 50 U.S.C. §§ 1701-1708 (enacted 1977, amended multiple times)
+
+**Key Provisions:** IEEPA authorizes the President to declare a national emergency in response to "any unusual and extraordinary threat, which has its source in whole or substantial part outside the United States, to the national security, foreign policy, or economy of the United States." Once an emergency is declared, the President may:
+
+- Regulate or prohibit international transactions, including financial transfers
+- Block assets of foreign countries, nationals, or entities
+- Prohibit or regulate imports and exports
+- Investigate, regulate, or prohibit foreign exchange transactions
+- Seize property subject to US jurisdiction
+
+**Limitations:** IEEPA prohibits regulation of personal communications, donations of articles (food, clothing, medicine) for humanitarian relief, and informational materials. It requires the President to consult with Congress "in every possible instance" before exercising authorities and to report to Congress on actions taken. Authorities lapse if the national emergency is not renewed annually.
+
+### Implementing Agency
+
+**Primary Agency:** U.S. Department of the Treasury, Office of Foreign Assets Control (OFAC)
+
+**Supporting Agencies:**
+- Department of State (foreign policy determinations, diplomatic coordination)
+- Department of Commerce (export control coordination)
+- Department of Justice (criminal enforcement)
+- Department of Homeland Security (customs enforcement)
+
+**Regulatory Framework:** OFAC administers sanctions through 31 C.F.R. Chapter V, which includes country-specific programs (Iran, North Korea, Russia, etc.) and thematic programs (terrorism, narcotics, cyber threats). Each program designates prohibited transactions and blocked persons/entities.
+
+### How It Works
+
+**Trigger/Threshold:** The President must determine that an "unusual and extraordinary threat" exists. This threshold is largely discretionary—courts have consistently deferred to executive branch judgments about what constitutes such threats. Threats have been found in terrorism, weapons proliferation, human rights abuses, cyber attacks, and geopolitical aggression.
+
+**Process:**
+1. **Emergency Declaration:** President issues Executive Order declaring national emergency under IEEPA and the National Emergencies Act, identifying the threat
+2. **Designation:** OFAC designates specific individuals, entities, or countries subject to sanctions, published in Federal Register and OFAC's SDN (Specially Designated Nationals) List
+3. **Implementation:** U.S. persons (individuals, companies) must block transactions with designated parties, freeze assets under U.S. jurisdiction, and report blocked property to OFAC
+4. **Enforcement:** OFAC investigates violations, can impose civil penalties up to the greater of $356,579 or twice the value of the transaction. DOJ prosecutes criminal violations (up to 20 years imprisonment, $1 million fines)
+5. **Licensing:** OFAC may issue general or specific licenses authorizing otherwise-prohibited transactions (humanitarian aid, legal services, wind-down of existing contracts)
+6. **Annual Renewal:** President must renew national emergency declaration annually or authorities lapse
+
+**Compliance Requirements:** U.S. financial institutions must screen transactions against OFAC's SDN list, implement sanctions compliance programs, file Suspicious Activity Reports (SARs) for attempted sanctions violations, and block assets of designated persons.
+
+### Recent Applications (Last 5 Years)
+
+**Example 1: Russia Sanctions (February 2022-present)**
+- **Date:** Escalated dramatically following February 24, 2022 invasion of Ukraine
+- **Target:** Russian financial system, energy sector, oligarchs, defense industry
+- **Rationale:** Responding to "unusual and extraordinary threat" posed by Russian aggression against Ukraine
+- **Specific Measures:** Blocked major Russian banks (Sberbank, VTB) from accessing U.S. financial system; prohibited new investment in Russian energy sector; designated hundreds of oligarchs and government officials; restricted export of advanced technology to Russia
+- **Outcome:** Ruble collapsed initially (recovered somewhat); Russian economy contracted ~2-3%; coordination with EU/G7 amplified impact; Russia adapted through alternative payment systems and trade redirection to China/India
+
+**Example 2: China Semiconductor Controls (October 2022)**
+- **Date:** October 7, 2022 (used IEEPA in conjunction with Export Administration Regulations)
+- **Target:** Chinese advanced semiconductor industry and AI development
+- **Rationale:** Preventing military applications of advanced computing, citing national security threat from Chinese technological advancement
+- **Specific Measures:** Expanded Entity List to include major Chinese chip manufacturers; imposed person-restrictions prohibiting U.S. citizens from supporting Chinese advanced chip production; restricted export of semiconductor manufacturing equipment
+- **Outcome:** Significantly hampered Chinese access to cutting-edge chips; prompted massive Chinese investment in indigenous semiconductor development; Netherlands and Japan later coordinated similar restrictions on ASML and Tokyo Electron equipment
+
+**Example 3: Iran Maximum Pressure Campaign (2018-present)**
+- **Date:** Reimposed November 2018 after U.S. withdrawal from JCPOA
+- **Target:** Iranian oil exports, banking system, shipping, metals industries
+- **Rationale:** Countering Iranian nuclear program, regional aggression, missile development
+- **Specific Measures:** Secondary sanctions threatening non-U.S. entities purchasing Iranian oil; blocked Iranian central bank access to dollar system; designated IRGC as terrorist organization; sanctioned Chinese and other companies purchasing Iranian oil
+- **Outcome:** Iranian oil exports dropped from ~2.5 million barrels/day to ~200,000 barrels/day at peak effectiveness; severe economic contraction; limited behavioral change on nuclear program; effectiveness declined as Iran found workarounds and Biden administration relaxed some enforcement
+
+**Example 4: Myanmar/Burma Sanctions (February 2021-present)**
+- **Date:** Following February 1, 2021 military coup
+- **Target:** Myanmar military (Tatmadaw), senior officials, military-owned enterprises
+- **Rationale:** Responding to overthrow of democratically elected government and violent suppression of protests
+- **Specific Measures:** Blocked assets of coup leaders and military conglomerates (MEHL, MEC); prohibited U.S. investment in or trade with military entities; coordinated with UK, EU, Canada on similar measures
+- **Outcome:** Limited impact on regime behavior; military maintained power; economic damage widespread; humanitarian crisis deepened; China and Thailand maintained economic ties limiting effectiveness
+
+### Strengths and Limitations
+
+**Strengths:**
+- **Flexibility:** Broad presidential authority allows rapid response to emerging threats without congressional action
+- **Comprehensive Reach:** Can target entire economies, specific sectors, individual entities, or persons
+- **Extraterritorial Effect:** Secondary sanctions threaten non-U.S. entities with loss of U.S. market access, extending reach beyond U.S. jurisdiction
+- **Financial Leverage:** U.S. control of dollar-denominated finance and correspondent banking makes exclusion devastating for targets needing international transactions
+- **Multilateral Coordination:** IEEPA provides domestic legal basis for coordinating sanctions with allies
+
+**Limitations:**
+- **Erosion of Dollar Centrality:** Overuse accelerates development of alternative payment systems (China's CIPS, cryptocurrency, bilateral arrangements)
+- **Allied Coordination Challenges:** European and Asian allies may not share U.S. threat perceptions, creating enforcement gaps
+- **Target Adaptation:** Sophisticated actors develop workarounds (shell companies, third-party intermediaries, barter arrangements)
+- **Humanitarian Concerns:** Comprehensive sanctions can devastate civilian populations while elites remain insulated
+- **Domestic Costs:** Sanctions reduce U.S. export markets, raise consumer prices, and harm specific industries
+- **Judicial Deference:** Courts rarely check presidential determinations, raising constitutional concerns about unconstrained executive power
+
+### Effectiveness Considerations
+
+IEEPA's effectiveness varies dramatically by context. It is most effective when:
+- Targets depend heavily on dollar-denominated finance and cannot easily substitute alternative payment systems
+- Allied coordination prevents sanctions evasion through third countries
+- Objectives are specific and achievable (release prisoners, halt specific weapons transfers) rather than transformational (regime change)
+- Off-ramps exist allowing targets to comply while saving face
+- Domestic constituencies in the U.S. and target country support measures
+
+Effectiveness decreases when:
+- Targets have alternative financial networks (China-Russia bilateral trade in yuan/rubles)
+- Allies defect due to different threat perceptions or economic dependencies
+- Objectives require targets to accept regime-threatening concessions
+- Prolonged sanctions allow adaptation through import substitution and new trade partnerships
+- Humanitarian costs generate opposition in sanctioning countries
+
+### Further Reading
+
+- **Primary Sources:**
+  - IEEPA Statute: 50 U.S.C. §§ 1701-1708
+  - OFAC Sanctions Programs: https://ofac.treasury.gov/sanctions-programs-and-country-information
+  - Executive Orders declaring national emergencies: Federal Register
+
+- **Analysis:**
+  - Rennack, Dianne E. (2020). "International Emergency Economic Powers Act (IEEPA): Origins, Evolution, and Use." Congressional Research Service.
+  - Zarate, Juan C. (2013). *Treasury's War: The Unleashing of a New Era of Financial Warfare.* PublicAffairs.
+  - Nephew, Richard (2018). *The Art of Sanctions: A View from the Field.* Columbia University Press.
+
+---
+
+## Government Tools Box 2: National Emergencies Act (NEA)
+
+### Legal Authority
+
+**Statute:** 50 U.S.C. §§ 1601-1651 (enacted 1976)
+
+**Key Provisions:** The National Emergencies Act (NEA) establishes procedural requirements for presidential declarations of national emergencies. It does not itself grant emergency powers but provides the framework through which the President invokes statutory authorities that become available during declared emergencies, including IEEPA. The NEA requires:
+
+- Presidential declaration specifying which statutory authorities are being invoked
+- Immediate transmission of declaration to Congress and publication in Federal Register
+- Annual renewal of emergency declarations (emergencies automatically terminate after one year unless renewed)
+- Congressional oversight and termination procedures
+- Maintenance of records and reporting on expenditures
+
+**Context:** NEA was enacted in 1976 following concerns about unchecked executive emergency powers. It terminated four existing national emergencies declared without clear statutory authority and established systematic procedures for future emergencies.
+
+### How It Works with IEEPA
+
+NEA and IEEPA work in tandem. The typical sequence:
+
+1. **Declaration:** President issues Executive Order under both NEA and IEEPA, declaring a national emergency and specifying the "unusual and extraordinary threat"
+2. **Notification:** Executive Order transmitted to Congress and published in Federal Register
+3. **Invocation:** President invokes specific IEEPA authorities (asset blocking, transaction prohibition, etc.)
+4. **Implementation:** OFAC and other agencies implement specific sanctions programs
+5. **Renewal:** Annually, President must publish notice in Federal Register continuing the emergency
+6. **Termination:** Emergency ends if (a) President terminates it, (b) Congress passes joint resolution terminating it (subject to presidential veto, requiring 2/3 override), or (c) President fails to renew annually
+
+### Current National Emergencies Related to Economic Statecraft
+
+As of 2024, the United States maintains over 40 active national emergencies declared under NEA. Many invoke IEEPA for sanctions programs. Key emergencies related to economic coercion include:
+
+**Long-Standing Emergencies:**
+- **Iran (March 1995):** "Unusual and extraordinary threat" posed by Iranian actions and policies. Renewed annually for 29 years.
+- **International Terrorism (September 2001):** Post-9/11 emergency enabling sanctions on terrorists and supporters. Renewed for 23 years.
+- **Weapons Proliferation (November 2001):** Targeting WMD proliferation, including North Korea. Renewed for 23 years.
+- **Syria (May 2004):** Addressing Syrian government actions and support for terrorism. Renewed for 20 years.
+- **Drug Trafficking (April 2015):** Targeting transnational criminal organizations. Renewed for 9 years.
+
+**Recent Emergencies:**
+- **Venezuela (March 2015):** Unusual and extraordinary threat posed by Venezuelan government. Renewed annually.
+- **Cyber Threats (April 2015):** Enabling sanctions on entities engaged in malicious cyber activities. Renewed annually.
+- **South Sudan (April 2014):** Responding to conflict and humanitarian crisis. Renewed annually.
+- **Russia/Ukraine (March 2014, escalated 2022):** Initially addressing Crimea annexation, dramatically expanded following 2022 invasion. Renewed and expanded annually.
+- **China (Various dates):** Multiple emergencies addressing different Chinese actions—Hong Kong (2020), military-industrial complex (2021), semiconductors (2022).
+- **Myanmar (February 2021):** Following military coup. Renewed annually.
+
+### Congressional Oversight and Termination
+
+**Reporting Requirements:** The President must report to Congress at least every six months on total expenditures directly related to each emergency. OMB prepares annual reports to Congress on all active emergencies.
+
+**Congressional Termination:** Under the 2019 amendments to NEA, Congress can terminate national emergencies through joint resolution requiring majority vote in both chambers. However, presidential veto power means effective termination requires 2/3 supermajority in both chambers to override veto—a high bar rarely achieved.
+
+**In Practice:** Congressional termination authority is largely symbolic. No emergency has been terminated by Congress over presidential objection. The 2019 amendment was enacted specifically to address President Trump's February 2019 border wall emergency, but the joint resolution to terminate it was vetoed and the override vote failed.
+
+### Strengths and Limitations
+
+**Strengths:**
+- **Procedural Clarity:** NEA provides clear framework for declaring, maintaining, and terminating emergencies
+- **Transparency:** Public declaration and Federal Register publication ensure visibility
+- **Sunset Provision:** Annual renewal requirement prevents indefinite emergencies without affirmative presidential action
+- **Congressional Role:** Reporting and termination procedures provide some legislative oversight
+
+**Limitations:**
+- **Proliferation of Emergencies:** Over 40 active emergencies, some decades old, suggest "emergency" has become routine instrument of policy rather than exceptional measure
+- **Weak Congressional Check:** Supermajority requirement for termination over presidential veto means Congress rarely exercises oversight effectively
+- **Judicial Deference:** Courts almost never invalidate emergency declarations, deferring to executive branch national security determinations
+- **Definition Ambiguity:** "Unusual and extraordinary threat" is undefined and interpreted expansively—routine foreign policy disagreements framed as emergencies
+- **Perpetual Renewal:** Emergencies originally framed as temporary (Iran 1995, terrorism 2001) have been renewed for decades without reassessment
+
+### Policy Debates and Reform Proposals
+
+**Debate 1: Emergency Proliferation**
+Critics argue that maintaining 40+ "emergencies," some for decades, trivializes genuine crises and grants unchecked presidential power. Defenders counter that complex threats (terrorism, proliferation) are genuinely long-term and require sustained authorities.
+
+**Debate 2: Congressional Role**
+Some propose lowering the bar for congressional termination (simple majority without presidential veto) or requiring affirmative congressional approval to continue emergencies beyond initial period. Others argue this would undermine executive flexibility in foreign policy.
+
+**Debate 3: Judicial Review**
+Current judicial deference to executive branch emergency determinations means effectively no check on presidential assertions of threats. Some scholars advocate for more robust judicial review of proportionality and necessity.
+
+**Reform Proposals:**
+- **Sunset After Fixed Period:** Require congressional reauthorization after 2-5 years rather than allowing indefinite presidential renewal
+- **Narrower Authorities:** Specify which IEEPA powers are available for which types of threats (terrorism vs. geopolitical competition)
+- **Impact Assessment:** Require regular assessment of sanctions effectiveness and humanitarian impact
+- **Allied Consultation:** Formalize requirements for coordinating with allies before declaring certain emergencies
+
+**Likelihood of Reform:** Low in near term. Both parties value executive flexibility when their candidate holds presidency. Structural factors (partisan polarization, weak Congress relative to executive, judicial deference) make reform difficult.
+
+### Significance for Economic Statecraft
+
+NEA/IEEPA combination provides extraordinary flexibility for economic statecraft:
+- **Speed:** President can impose comprehensive sanctions within hours via Executive Order
+- **Scope:** Authorities extend to entire economies, sectors, or individual entities
+- **Duration:** Once declared, emergencies persist indefinitely through annual renewal
+- **Limited Constraints:** Congressional and judicial checks are weak in practice
+
+This flexibility enables rapid response to threats and crises. But it also means U.S. economic statecraft depends heavily on presidential preferences and bureaucratic implementation, with limited democratic accountability. The proliferation of declared emergencies and routine renewal of decades-old "crises" raises questions about whether emergency authorities have become normalized tools of peacetime foreign policy rather than exceptional responses to genuine emergencies.
+
+### Further Reading
+
+- **Primary Sources:**
+  - National Emergencies Act: 50 U.S.C. §§ 1601-1651
+  - Active National Emergencies: https://www.federalregister.gov/presidential-documents/executive-orders
+  - Congressional Research Service tracking: https://crsreports.congress.gov
+
+- **Analysis:**
+  - Relyea, Harold C. (2007). "National Emergency Powers." Congressional Research Service.
+  - Goitein, Elizabeth and Shapiro, Andrew (2019). "Brennan Center for Justice Report on Emergency Powers Reform."
+  - Vladeck, Stephen I. (2020). "The National Emergencies Act at 44." *Lawfare Blog*.
+
+---
+
