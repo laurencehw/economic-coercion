@@ -4,17 +4,7 @@
 \usepackage{fontspec}
 \usepackage{xeCJK}
 
-% Configure CJK fonts with proper fallback chain
-% Use SimSun as primary (most compatible), with Microsoft YaHei for modern appearance
-\setCJKmainfont{SimSun}[
-  BoldFont=SimHei,
-  ItalicFont=KaiTi,
-  BoldItalicFont=SimHei
-]
-\setCJKsansfont{Microsoft YaHei}
-\setCJKmonofont{SimSun}
-
-% Set main fonts with proper configuration
+% Set main fonts first
 \setmainfont{Times New Roman}[
   Ligatures=TeX,
   Renderer=Basic
@@ -22,16 +12,28 @@
 \setsansfont{Arial}
 \setmonofont{Courier New}
 
-% Configure CJK spacing and ensure proper rendering
+% Configure CJK fonts - using Noto fonts for maximum compatibility
+% Noto fonts are designed specifically for comprehensive Unicode coverage
+\setCJKmainfont{Noto Serif SC}[
+  BoldFont={Noto Serif SC Bold},
+  AutoFakeBold=3,
+  AutoFakeSlant=0.2
+]
+
+\setCJKsansfont{Noto Sans SC}[
+  BoldFont={Noto Sans SC Bold},
+  AutoFakeBold=3
+]
+
+\setCJKmonofont{Noto Sans SC}
+
+% Configure CJK rendering options for best compatibility
 \xeCJKsetup{
   CJKspace=true,
   CJKmath=true,
-  CheckSingle=true
+  xCJKecglue={\ },
+  PunctStyle=plain
 }
-
-% Enable Unicode math if needed
-\defaultfontfeatures{Scale=MatchLowercase}
-\defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
 
 % Essential packages
 \usepackage{geometry}
