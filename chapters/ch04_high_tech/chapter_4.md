@@ -607,7 +607,7 @@ The case demonstrates how technology export controls serve strategic competition
 - Understand challenges of controlling dual-use technologies with global development
 - Assess allied coordination in multilateral technology restrictions
 
-## Scenario Overview
+### Scenario Overview
 
 **Date: September 2027**
 
@@ -627,7 +627,7 @@ The Department of Defense warns that Chinese AI-enabled military systems could n
 
 You are convened as the Technology Policy Coordination Committee to recommend export control and AI security policies.
 
-## Participant Roles
+### Participant Roles
 
 **Deputy National Security Advisor**
 - Responsibilities: Balance security and economic interests, coordinate policy
@@ -659,7 +659,7 @@ You are convened as the Technology Policy Coordination Committee to recommend ex
 - Interests: Preventing espionage and illegal technology transfers
 - Constraints: Cannot monitor all researchers, legal restrictions on surveillance
 
-## Timeline and Injects
+### Timeline and Injects
 
 ### Phase 1: Assessment and Options (Minutes 0-20)
 
@@ -774,7 +774,7 @@ Commerce Department reports export control violations are difficult to prove and
    - International AI safety governance reducing proliferation risks
    - Defensive measures (counterintelligence, securing U.S. models) rather than denying China access
 
-## Background Materials
+### Background Materials
 
 **Key Authorities:**
 - Export Control Reform Act (ECRA), 50 U.S.C. § 4811 et seq.
@@ -800,7 +800,7 @@ Commerce Department reports export control violations are difficult to prove and
 - Wassenaar Arrangement multilateral export control coordination
 - Entity List designations for Chinese AI firms (e.g., SenseTime, Megvii)
 
-## Facilitator Notes
+### Facilitator Notes
 
 **Setup:**
 - Provide brief AI technology primer before exercise
@@ -825,7 +825,7 @@ Commerce Department reports export control violations are difficult to prove and
 - Simulate congressional hearing on AI policy
 - Add ethicist role to raise AI arms race concerns
 
-## Learning Outcomes
+### Learning Outcomes
 
 After completing this exercise, participants should be able to:
 
@@ -839,7 +839,7 @@ After completing this exercise, participants should be able to:
 
 5. **Understand strategic competition dynamics** where controls may accelerate rather than prevent adversary development
 
-## Further Reading
+### Further Reading
 
 **On AI and National Security:**
 - Schmidt, Eric, et al. "Final Report: National Security Commission on AI." 2021

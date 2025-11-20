@@ -799,7 +799,7 @@ For practitioners new to information domain competition, recommended reading seq
 - Understand trade-offs between connectivity and security
 - Assess attribution challenges and response options to infrastructure attacks
 
-## Scenario Overview
+### Scenario Overview
 
 **Date: March 2028**
 
@@ -811,7 +811,7 @@ Intelligence suggests Chinese fishing vessels and a survey ship were operating n
 
 Taiwan alleges deliberate Chinese sabotage as part of hybrid warfare strategy. China denies involvement and suggests Taiwan is fabricating claims to garner international sympathy. The crisis creates immediate impacts on Taiwan's economy, financial sector, and ability to coordinate with allies.
 
-## Participant Roles
+### Participant Roles
 
 **Deputy National Security Advisor**
 - Responsibilities: Coordinate U.S. response, manage escalation
@@ -843,7 +843,7 @@ Taiwan alleges deliberate Chinese sabotage as part of hybrid warfare strategy. C
 - Interests: Maintaining global communications, satellite backup systems
 - Constraints: Regulatory authority limited to U.S. territory
 
-## Timeline and Injects
+### Timeline and Injects
 
 ### Phase 1: Initial Response (Minutes 0-20)
 
@@ -962,7 +962,7 @@ Countries with Chinese cable investments (Pakistan, Myanmar, several African nat
    - Global internet fragmentation and balkanization risks
    - Private sector role in critical infrastructure protection
 
-## Background Materials
+### Background Materials
 
 **Key Authorities:**
 - Taiwan Relations Act, 22 U.S.C. § 3301 et seq.
@@ -983,7 +983,7 @@ Countries with Chinese cable investments (Pakistan, Myanmar, several African nat
 - 2022 Svalbard cable damage (suspected Russian activity)
 - Russia mapping NATO cables in North Atlantic
 
-## Facilitator Notes
+### Facilitator Notes
 
 **Setup:**
 - Show map of Asia-Pacific submarine cables
@@ -1002,7 +1002,7 @@ Countries with Chinese cable investments (Pakistan, Myanmar, several African nat
 - Ignoring resilience/redundancy in favor of retaliation only
 - Neglecting private sector role (most cables privately owned)
 
-## Learning Outcomes
+### Learning Outcomes
 
 1. **Analyze critical infrastructure vulnerabilities** in networked digital systems
 2. **Navigate attribution challenges** when evidence is limited or ambiguous
@@ -1010,7 +1010,7 @@ Countries with Chinese cable investments (Pakistan, Myanmar, several African nat
 4. **Understand gray-zone conflict** tactics below armed conflict threshold
 5. **Coordinate government and private sector** for critical infrastructure security
 
-## Further Reading
+### Further Reading
 
 - Sechrist, Michael. "New Threats, Old Technology: Vulnerabilities in Undersea Cable Networks." *Belfer Center*, 2012
 - Sechrist, Michael. "Cyberspace in Deep Water: Protecting Undersea Communication Cables." *Joint Force Quarterly*, 2010

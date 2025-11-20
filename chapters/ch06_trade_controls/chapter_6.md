@@ -1105,7 +1105,7 @@ Presidential determinations receive substantial deference; judicial review extre
 - Understand domestic political economy of trade protection
 - Assess WTO constraints and workarounds in trade disputes
 
-## Scenario Overview
+### Scenario Overview
 
 **Date: January 2028**
 
@@ -1124,7 +1124,7 @@ Both sides frame their actions as defensive responses to the other's unfair prac
 
 You are convened as the Trade Policy Review Group to assess the situation and develop next steps as the trade war threatens to spiral.
 
-## Participant Roles
+### Participant Roles
 
 **U.S. Trade Representative (USTR)**
 - Responsibilities: Trade negotiations, tariff policy, WTO disputes
@@ -1156,7 +1156,7 @@ You are convened as the Trade Policy Review Group to assess the situation and de
 - Interests: Market access, supply chain stability
 - Constraints: Shareholder pressure, competitiveness concerns
 
-## Timeline and Injects
+### Timeline and Injects
 
 ### Phase 1: Initial Retaliation (Minutes 0-20)
 
@@ -1243,7 +1243,7 @@ Short of these demands, China offers modest concessions:
 5. **Alternatives:** Could negotiation, multilateral pressure, or targeted sectoral approaches achieve better outcomes?
 6. **Long-term Impacts:** Effects on U.S.-China economic relationship, global trade system, WTO legitimacy?
 
-## Background Materials
+### Background Materials
 
 **Authorities:**
 - Section 301 of Trade Act of 1974
@@ -1261,14 +1261,14 @@ Short of these demands, China offers modest concessions:
 - Phase One trade agreement (2020)
 - Trump/Biden tariff policies
 
-## Learning Outcomes
+### Learning Outcomes
 
 1. Analyze escalation dynamics in trade conflicts
 2. Evaluate tariff effectiveness as coercive tool
 3. Navigate domestic political economy of trade policy
 4. Understand limitations of unilateral trade measures
 
-## Further Reading
+### Further Reading
 
 - Bown, Chad P., and Douglas A. Irwin. "Trump's Assault on the Global Trading System." *Foreign Affairs*, 2019
 - Lovely, Mary E., and Yang Liang. "Trump Tariffs Primarily Hit Multinational Supply Chains." *PIIE*, 2018

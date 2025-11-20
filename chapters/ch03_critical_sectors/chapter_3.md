@@ -403,7 +403,7 @@ The fundamental challenge is that both the United States and China view resource
 - Understand environmental, economic, and geopolitical trade-offs in resource security
 - Assess effectiveness of retaliation and counter-coercion in resource conflicts
 
-## Scenario Overview
+### Scenario Overview
 
 **Date: June 2027**
 
@@ -420,7 +420,7 @@ Allied reactions are mixed: Japan and Australia support U.S. tariffs but need ra
 
 You are convened as an interagency task force to develop immediate responses and long-term critical mineral security strategy.
 
-## Participant Roles
+### Participant Roles
 
 **Deputy National Security Advisor**
 - Responsibilities: Coordinate national security response, manage escalation
@@ -452,7 +452,7 @@ You are convened as an interagency task force to develop immediate responses and
 - Interests: Protecting environment and public health
 - Constraints: Rare earth processing creates toxic waste, limited U.S. processing capacity
 
-## Timeline and Injects
+### Timeline and Injects
 
 ### Phase 1: Immediate Supply Crisis (Minutes 0-20)
 
@@ -555,7 +555,7 @@ Chinese state media declares that "those who seek to contain China will find the
 
 8. **China's Perspective:** From Beijing's viewpoint, why use rare earths as leverage? What does this reveal about Chinese strategic thinking?
 
-## Background Materials
+### Background Materials
 
 **Key Authorities:**
 - Defense Production Act, 50 U.S.C. § 4501 et seq.
@@ -581,7 +581,7 @@ Chinese state media declares that "those who seek to contain China will find the
 - July 2023 China export controls on gallium and germanium
 - U.S. government studies identifying rare earths as critical vulnerability (2017, 2019, 2021)
 
-## Facilitator Notes
+### Facilitator Notes
 
 **Setup:**
 - Provide simple chart showing rare earth supply chain (mining → processing → manufacturing)
@@ -606,7 +606,7 @@ Chinese state media declares that "those who seek to contain China will find the
 - Simulate environmental lawsuit halting expedited mining permits
 - Add competing demands from private sector for rare earths (tech vs. defense vs. energy)
 
-## Learning Outcomes
+### Learning Outcomes
 
 After completing this exercise, participants should be able to:
 
@@ -620,7 +620,7 @@ After completing this exercise, participants should be able to:
 
 5. **Analyze adversary leverage** and develop counter-coercion strategies
 
-## Further Reading
+### Further Reading
 
 **On Critical Minerals:**
 - Acheson, Emily, et al. "Elements of Security: Mitigating the Risks of U.S. Dependence on Critical Minerals." CSIS, 2021

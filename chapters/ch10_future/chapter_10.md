@@ -998,7 +998,7 @@ Economic coercion will remain central to 21st-century statecraft. Understanding 
 - Evaluate novel policy tools for 21st century geoeconomic competition
 - Assess systemic risks and cascade effects in interconnected global systems
 
-## Scenario Overview
+### Scenario Overview
 
 **Date: June 2030**
 
@@ -1013,7 +1013,7 @@ The crisis unfolds across five interrelated dimensions:
 
 You are convened as the Strategic Competition Policy Committee to manage escalating tensions and develop integrated response strategies for 21st century economic statecraft.
 
-## Participant Roles
+### Participant Roles
 
 **Deputy National Security Advisor**
 - Responsibilities: Coordinate across domains, manage escalation
@@ -1045,7 +1045,7 @@ You are convened as the Strategic Competition Policy Committee to manage escalat
 - Interests: Climate transition while protecting security
 - Constraints: Climate cooperation needs compete with strategic rivalry
 
-## Timeline and Injects
+### Timeline and Injects
 
 ### Phase 1: Climate-Supply Chain Nexus (Minutes 0-20)
 
@@ -1208,7 +1208,7 @@ China offers:
    - Technology investment and development?
    - Education and workforce development?
 
-## Background Materials
+### Background Materials
 
 **Emerging Technologies:**
 - Digital currencies (CBDCs, cryptocurrencies, stablecoins)
@@ -1231,7 +1231,7 @@ China offers:
 - Digital economy governance (data flows, cross-border e-commerce)
 - Critical infrastructure protection for cyber-physical systems
 
-## Learning Outcomes
+### Learning Outcomes
 
 1. **Anticipate future coercion forms** using emerging technologies
 2. **Manage complexity** of simultaneous multi-domain crises
@@ -1239,7 +1239,7 @@ China offers:
 4. **Design adaptive strategies** for rapidly changing technological landscape
 5. **Balance cooperation and competition** in shared challenge domains
 
-## Further Reading
+### Further Reading
 
 **On Future of Economic Statecraft:**
 - Blackwill, Robert D., and Jennifer M. Harris. "War by Other Means: Geoeconomics and Statecraft." Harvard UP, 2016

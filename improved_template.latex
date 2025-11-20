@@ -4,10 +4,15 @@
 \usepackage{fontspec}
 \usepackage{xeCJK}
 
-% Configure CJK fonts - use fonts confirmed available on Windows
-\setCJKmainfont{Microsoft YaHei}
+% Configure CJK fonts with proper fallback chain
+% Use SimSun as primary (most compatible), with Microsoft YaHei for modern appearance
+\setCJKmainfont{SimSun}[
+  BoldFont=SimHei,
+  ItalicFont=KaiTi,
+  BoldItalicFont=SimHei
+]
 \setCJKsansfont{Microsoft YaHei}
-\setCJKmonofont{NSimSun}
+\setCJKmonofont{SimSun}
 
 % Set main fonts with proper configuration
 \setmainfont{Times New Roman}[
@@ -20,8 +25,13 @@
 % Configure CJK spacing and ensure proper rendering
 \xeCJKsetup{
   CJKspace=true,
-  PlainEquation=true
+  CJKmath=true,
+  CheckSingle=true
 }
+
+% Enable Unicode math if needed
+\defaultfontfeatures{Scale=MatchLowercase}
+\defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
 
 % Essential packages
 \usepackage{geometry}

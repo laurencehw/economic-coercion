@@ -1087,7 +1087,7 @@ Chinese perspectives reflect different historical experiences, political system,
 - Understand challenges of sanctions enforcement and evasion
 - Assess de-dollarization risks from aggressive sanctions use
 
-## Scenario Overview
+### Scenario Overview
 
 **Date: April 2028**
 
@@ -1102,7 +1102,7 @@ International outrage grows following leaked videos of atrocities. Congress pass
 
 You are convened as the Sanctions Policy Coordination Committee to design a financial sanctions package that maximizes pressure on the junta while managing humanitarian, economic, and geopolitical complications.
 
-## Participant Roles
+### Participant Roles
 
 **Deputy Secretary of Treasury**
 - Responsibilities: OFAC sanctions, financial system stability
@@ -1134,7 +1134,7 @@ You are convened as the Sanctions Policy Coordination Committee to design a fina
 - Interests: Maximum pressure on junta, accountability for atrocities
 - Constraints: No formal authority, limited information
 
-## Timeline and Injects
+### Timeline and Injects
 
 ### Phase 1: Sanctions Design (Minutes 0-20)
 
@@ -1239,7 +1239,7 @@ Allies request U.S. provide:
 5. **Unintended Consequences:** De-dollarization, Chinese influence, civilian suffering, NGO de-banking
 6. **Long-term Strategy:** Exit strategy? Conditions for lifting sanctions? How to avoid permanent isolation?
 
-## Background Materials
+### Background Materials
 
 **Authorities:**
 - International Emergency Economic Powers Act (IEEPA)
@@ -1258,14 +1258,14 @@ Allies request U.S. provide:
 - North Korea sanctions
 - Venezuela targeted sanctions
 
-## Learning Outcomes
+### Learning Outcomes
 
 1. Design sanctions packages balancing objectives and constraints
 2. Navigate humanitarian exemptions and over-compliance
 3. Assess multilateral coordination challenges
 4. Understand long-term risks of financial sanctions overuse
 
-## Further Reading
+### Further Reading
 
 - Nephew, Richard. "The Art of Sanctions." Columbia UP, 2018
 - Zarate, Juan. "Treasury's War." PublicAffairs, 2013

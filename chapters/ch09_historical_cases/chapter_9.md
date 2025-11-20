@@ -913,7 +913,7 @@ Migration policy increasingly viewed as strategic tool in technology competition
 - Apply historical frameworks to contemporary policy challenges
 - Understand limitations of historical analogies
 
-## Scenario Overview
+### Scenario Overview
 
 **Date: May 2028**
 
@@ -925,7 +925,7 @@ Following a military coup in a strategically located country (fictional "Meridia
 
 **Current Crisis:** Meridiana's military has overthrown democratically elected government, arrested opposition leaders, and declared martial law. The country sits at a critical geographic chokepoint for energy transit and hosts significant rare earth deposits. Both China and Russia have economic interests in Meridiana and are offering financial support to the junta.
 
-## Participant Roles
+### Participant Roles
 
 **Deputy Secretary of State (Historical Case 1: CoCom Expert)**
 - Assigned to present CoCom lessons: multilateral coordination, technology denial effectiveness, allied burden-sharing
@@ -945,7 +945,7 @@ Following a military coup in a strategically located country (fictional "Meridia
 **Academic Historian (External Advisor)**
 - Challenge assumptions and highlight where historical analogies may mislead
 
-## Timeline and Injects
+### Timeline and Injects
 
 ### Phase 1: Historical Case Presentations (Minutes 0-30)
 
@@ -1089,7 +1089,7 @@ Participants must design sanctions strategy addressing:
 
 6. **Policy Implications:** Should U.S. rely less on economic coercion given historical mixed record? Or can design improvements increase effectiveness?
 
-## Background Materials
+### Background Materials
 
 **Historical Cases:**
 - Mastanduno, Michael. "Economic Containment: CoCom and the Politics of East-West Trade." Cornell UP, 1992
@@ -1106,7 +1106,7 @@ Participants must design sanctions strategy addressing:
 - UN sanctions tracking
 - Effectiveness factors correlations
 
-## Learning Outcomes
+### Learning Outcomes
 
 1. **Extract lessons** from diverse historical sanctions cases
 2. **Identify success and failure factors** across different contexts
@@ -1114,7 +1114,7 @@ Participants must design sanctions strategy addressing:
 4. **Avoid historical analogy pitfalls** (overgeneralization, selection bias)
 5. **Synthesize lessons** into actionable contemporary policy recommendations
 
-## Further Reading
+### Further Reading
 
 - Drezner, Daniel W. "Sanctions Sometimes Smart: Targeted Sanctions in Theory and Practice." *International Studies Review*, 2011
 - Early, Bryan R. "Busted Sanctions." Stanford UP, 2015

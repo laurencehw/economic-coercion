@@ -1,6 +1,6 @@
 # Bibliography {-}
 
-## Books and Monographs
+## Books and Monographs {-}
 
 Baldwin, David A. *Economic Statecraft*. Princeton University Press, 1985.
 
@@ -28,7 +28,7 @@ Roberts, Anthea, Henrique Choer Moraes, and Victor Ferguson. *Toward a Geoeconom
 
 Wigell, Mikael, Sören Scholvin, and Mika Aaltola, eds. *Geo-Economics and Power Politics in the 21st Century: The Revival of Economic Statecraft*. Routledge, 2018.
 
-## Journal Articles and Reports
+## Journal Articles and Reports {-}
 
 Allen, Gregory C. "Choking Off China's Access to the Future of AI." Center for Strategic and International Studies, October 2022.
 
@@ -56,7 +56,7 @@ Rasser, Martijn, et al. "The CHIPS and Science Act: Here Comes the Hardest Part.
 
 Zarate, Juan C. *Treasury's War: The Unleashing of a New Era of Financial Warfare*. Public Affairs, 2013.
 
-## Government and International Organization Reports
+## Government and International Organization Reports {-}
 
 European Commission. "European Economic Security Strategy." June 2023.
 
@@ -74,7 +74,7 @@ White House. "Building Resilient Supply Chains, Revitalizing American Manufactur
 
 World Bank. *World Development Report 2020: Trading for Development in the Age of Global Value Chains*. World Bank Publications, 2019.
 
-## Chinese Government and Academic Sources
+## Chinese Government and Academic Sources {-}
 
 National Development and Reform Commission (NDRC). "Made in China 2025." May 2015.
 
@@ -84,7 +84,7 @@ Xi Jinping. "Secure a Decisive Victory in Building a Moderately Prosperous Socie
 
 余永定 (Yu Yongding). "人民币国际化与资本项目可兑换" [RMB Internationalization and Capital Account Convertibility]. *国际经济评论* [International Economic Review], 2015(4): 49-66.
 
-## Data Sources and Databases
+## Data Sources and Databases {-}
 
 Bank for International Settlements (BIS). "Triennial Central Bank Survey of Foreign Exchange and OTC Derivatives Markets." Various years.
 
@@ -100,7 +100,7 @@ World Bank. "World Development Indicators." Various years. https://databank.worl
 
 World Trade Organization. "Trade Statistics." Various years.
 
-## Think Tank and Policy Analysis
+## Think Tank and Policy Analysis {-}
 
 American Enterprise Institute. "China Global Investment Tracker." Various years.
 

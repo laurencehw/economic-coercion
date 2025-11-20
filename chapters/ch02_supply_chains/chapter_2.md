@@ -608,7 +608,7 @@ The intersection of supply chains, technology, and geopolitics remains dynamic. 
 - Understand trade-offs between economic efficiency and strategic autonomy
 - Assess effectiveness of export controls and investment restrictions in protecting critical supply chains
 
-## Scenario Overview
+### Scenario Overview
 
 **Date: March 2027**
 
@@ -620,7 +620,7 @@ Simultaneously, intelligence reports indicate that China is considering using th
 
 You are members of the National Economic Council and National Security Council convened to develop both immediate crisis response and longer-term supply chain resilience strategies.
 
-## Participant Roles
+### Participant Roles
 
 **Director of National Economic Council (NEC)**
 - Responsibilities: Coordinate economic policy response, balance industry and security interests
@@ -652,7 +652,7 @@ You are members of the National Economic Council and National Security Council c
 - Interests: Restoring chip supply, protecting market position, avoiding government overreach
 - Constraints: No authority over TSMC, competitive pressures, shareholder accountability
 
-## Timeline and Injects
+### Timeline and Injects
 
 ### Phase 1: Immediate Crisis (Minutes 0-20)
 
@@ -752,7 +752,7 @@ U.S. firms express concern that overly politicizing semiconductors will damage b
 
 7. **Timeframe Mismatches:** How did you manage the gap between immediate needs (chips now), medium-term buildout (2-3 years), and long-term restructuring (5-10 years)?
 
-## Background Materials
+### Background Materials
 
 **Key Authorities:**
 - CHIPS and Science Act of 2022, Pub. L. 117-167
@@ -779,7 +779,7 @@ U.S. firms express concern that overly politicizing semiconductors will damage b
 - CHIPS Act $52 billion in subsidies for domestic semiconductor production
 - TSMC Arizona fab construction (2024-2025 target for production)
 
-## Facilitator Notes
+### Facilitator Notes
 
 **Setup:**
 - Have participants review semiconductor supply chain basics before exercise
@@ -804,7 +804,7 @@ U.S. firms express concern that overly politicizing semiconductors will damage b
 - Simulate industry resistance to government mandates (strikes, lawsuits)
 - Add congressional hearing where participants must defend their choices
 
-## Learning Outcomes
+### Learning Outcomes
 
 After completing this exercise, participants should be able to:
 
@@ -818,7 +818,7 @@ After completing this exercise, participants should be able to:
 
 5. **Assess long-term strategic** implications of supply chain policy for U.S.-China competition and allied relationships
 
-## Further Reading
+### Further Reading
 
 **On Semiconductor Supply Chains:**
 - Khan, Saif M., et al. "The Semiconductor Supply Chain: Assessing National Competitiveness." CSET, 2021

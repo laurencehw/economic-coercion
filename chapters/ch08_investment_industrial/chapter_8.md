@@ -1166,7 +1166,7 @@ Rather than duplicate that content, readers should refer to Section 4.4 and 4.5 
 - Understand sectoral and technology-based investment risks
 - Navigate political pressure and interagency disagreement in investment screening
 
-## Scenario Overview
+### Scenario Overview
 
 **Date: July 2028**
 
@@ -1180,7 +1180,7 @@ The Committee on Foreign Investment in the United States (CFIUS) faces three sim
 
 All three transactions have been voluntarily filed with CFIUS. You must decide: approve, approve with mitigation measures, or block each transaction. Congressional and industry pressure is intense. Presidential decision required within 30 days.
 
-## Participant Roles
+### Participant Roles
 
 **CFIUS Chair (Deputy Secretary of Treasury)**
 - Responsibilities: Lead CFIUS process, synthesize recommendations
@@ -1212,7 +1212,7 @@ All three transactions have been voluntarily filed with CFIUS. You must decide: 
 - Interests: Managing U.S.-China relations
 - Constraints: Blocking deals creates diplomatic friction
 
-## Timeline and Injects
+### Timeline and Injects
 
 ### Phase 1: Case 1 - Semiconductor Equipment (Minutes 0-25)
 
@@ -1345,7 +1345,7 @@ Chinese private equity fund "Golden Harvest Capital" proposes $2 billion investm
 
 8. **Long-term Strategy:** Impact on U.S. as investment destination? Will aggressive screening drive capital elsewhere?
 
-## Background Materials
+### Background Materials
 
 **Key Authorities:**
 - Foreign Investment Risk Review Modernization Act (FIRRMA), 2018
@@ -1367,7 +1367,7 @@ Chinese private equity fund "Golden Harvest Capital" proposes $2 billion investm
 - Chinese FDI in U.S.: Peaked at $46 billion (2016), declined to <$5 billion (2023) following CFIUS expansion
 - CFIUS filings: 200-300 annually, ~10-15% involve Chinese parties
 
-## Learning Outcomes
+### Learning Outcomes
 
 1. Apply CFIUS framework to assess national security risks
 2. Evaluate sector-specific investment vulnerabilities
@@ -1375,7 +1375,7 @@ Chinese private equity fund "Golden Harvest Capital" proposes $2 billion investm
 4. Balance competing interests (security, economy, politics)
 5. Understand investment screening's role in broader economic security strategy
 
-## Further Reading
+### Further Reading
 
 - Jackson, James K. "The Committee on Foreign Investment in the United States (CFIUS)." CRS, 2020
 - Hanemann, Thilo, and Daniel H. Rosen. "Chinese Investment in the United States." Rhodium Group, 2019

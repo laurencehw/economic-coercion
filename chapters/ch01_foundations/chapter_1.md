@@ -839,7 +839,7 @@ Understanding economic coercion requires access to reliable data on sanctions, t
 - Understand how Chinese and U.S. perspectives on sovereignty and economic interdependence shape crisis responses
 - Evaluate the effectiveness of different economic statecraft tools in a high-stakes environment
 
-## Scenario Overview
+### Scenario Overview
 
 **Date: January 15, 2026**
 
@@ -849,7 +849,7 @@ The United States faces pressure from Taiwan, Japan, and other Indo-Pacific alli
 
 You are members of the National Security Council Deputies Committee convened to develop economic response options for the President. The crisis is escalating, and decisions made in the next 48-72 hours may determine whether the situation resolves diplomatically, escalates to comprehensive economic warfare, or spirals into military conflict.
 
-## Participant Roles
+### Participant Roles
 
 **National Security Advisor (NSA)**
 - Responsibilities: Chair the meeting, synthesize recommendations for the President
@@ -881,7 +881,7 @@ You are members of the National Security Council Deputies Committee convened to 
 - Interests: Accurate intelligence, protecting sources/methods
 - Constraints: Intelligence gaps on Chinese leadership decision-making
 
-## Timeline and Injects
+### Timeline and Injects
 
 ### Phase 1: Initial Crisis Response (Minutes 0-20)
 
@@ -967,7 +967,7 @@ Taiwan's government indicates it is considering halting semiconductor exports to
    - Taiwan took provocative actions (e.g., declaring independence) that complicated U.S. messaging
    - Russia opened a simultaneous crisis in Europe, dividing U.S. attention and allied commitment
 
-## Background Materials
+### Background Materials
 
 **Key Authorities:**
 - International Emergency Economic Powers Act (IEEPA), 50 U.S.C. §§ 1701-1708
@@ -994,7 +994,7 @@ Taiwan's government indicates it is considering halting semiconductor exports to
 - U.S. remains dependent on Chinese rare earths (80%+ for some critical elements)
 - Global shipping: 50%+ of container traffic passes through South China Sea
 
-## Facilitator Notes
+### Facilitator Notes
 
 **Setup:**
 - Assign roles in advance if possible, allowing participants to review background
@@ -1023,7 +1023,7 @@ Taiwan's government indicates it is considering halting semiconductor exports to
 - For policy focus: Emphasize domestic political constraints and Congressional reactions
 - For economics focus: Provide detailed economic modeling of sanctions impact
 
-## Learning Outcomes
+### Learning Outcomes
 
 After completing this exercise, participants should be able to:
 
@@ -1037,7 +1037,7 @@ After completing this exercise, participants should be able to:
 
 5. **Recognize intelligence gaps and uncertainty** in crisis decision-making about adversary intentions and resolve
 
-## Further Reading
+### Further Reading
 
 **On Taiwan Strait Crises:**
 - Saunders, Phillip C. "Military Options for a Taiwan Contingency." *CSIS*, 2022
