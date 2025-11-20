@@ -4,9 +4,14 @@
 \usepackage{fontspec}
 \usepackage{xeCJK}
 \setCJKmainfont{Microsoft YaHei}
-\setmainfont{Times New Roman}[Ligatures={TeX,Common}]
+\setmainfont{Times New Roman}[
+  Ligatures=TeX,
+  Renderer=Basic,
+  CharacterVariant=1:0
+]
 \setsansfont{Arial}
 \setmonofont{Courier New}
+\newfontfamily\substitutefont{Times New Roman}
 
 % Essential packages
 \usepackage{geometry}
@@ -25,6 +30,7 @@
 \usepackage{amsmath}
 \usepackage{amssymb}
 \usepackage[english]{babel}
+\usepackage{microtype}
 
 % Page geometry
 \geometry{
@@ -130,6 +136,9 @@
 
 % Define pandocbounded for newer Pandoc versions
 \providecommand{\pandocbounded}[1]{#1}
+
+% Fix apostrophe spacing
+\XeTeXinterchartokenstate=0
 
 % Title page
 $if(title)$
