@@ -1,6 +1,6 @@
 # Glossary {-}
 
-## Key Terms
+## Key Terms {-}
 
 **Asset Freeze**: A form of financial sanction that prevents a targeted individual, entity, or government from accessing or transferring assets held in the sanctioning country's financial system.
 
@@ -92,7 +92,7 @@
 
 **Weaponization**: The use of economic interdependencies, institutions, or tools as instruments of coercion or geopolitical pressure.
 
-## Acronyms and Abbreviations
+## Acronyms and Abbreviations {-}
 
 **AI**: Artificial Intelligence
 
@@ -198,7 +198,7 @@
 
 **WTO**: World Trade Organization
 
-## Chinese Terms
+## Chinese Terms {-}
 
 **百年国耻 (bǎinián guóchǐ)**: "Century of Humiliation" - Period of foreign intervention and defeat (1839-1949) central to Chinese national narrative.
 
@@ -232,7 +232,7 @@
 
 **自力更生 (zìlì gēngshēng)**: "Self-reliance" or "regeneration through one's own efforts" - Principle emphasizing indigenous capabilities.
 
-## Data and Measurement Terms
+## Data and Measurement Terms {-}
 
 **Basis Points (bps)**: One hundredth of a percentage point (0.01%), used in finance to describe interest rates or yields.
 

@@ -3,15 +3,37 @@
 % Font and encoding
 \usepackage{fontspec}
 \usepackage{xeCJK}
-\setCJKmainfont{Microsoft YaHei}
+
+% Set main fonts first
 \setmainfont{Times New Roman}[
   Ligatures=TeX,
-  Renderer=Basic,
-  CharacterVariant=1:0
+  Renderer=Basic
 ]
 \setsansfont{Arial}
 \setmonofont{Courier New}
-\newfontfamily\substitutefont{Times New Roman}
+
+% Configure CJK fonts - using Noto fonts for maximum compatibility
+% Noto fonts are designed specifically for comprehensive Unicode coverage
+\setCJKmainfont{Noto Serif SC}[
+  BoldFont={Noto Serif SC Bold},
+  AutoFakeBold=3,
+  AutoFakeSlant=0.2
+]
+
+\setCJKsansfont{Noto Sans SC}[
+  BoldFont={Noto Sans SC Bold},
+  AutoFakeBold=3
+]
+
+\setCJKmonofont{Noto Sans SC}
+
+% Configure CJK rendering options for best compatibility
+\xeCJKsetup{
+  CJKspace=true,
+  CJKmath=true,
+  xCJKecglue={\ },
+  PunctStyle=plain
+}
 
 % Essential packages
 \usepackage{geometry}
