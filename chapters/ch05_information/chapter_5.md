@@ -1,4 +1,4 @@
-# Chapter 5: Information, Standards, and Digital Infrastructure
+# Information, Standards, and Digital Infrastructure
 
 ## Executive Summary
 
@@ -314,11 +314,19 @@ Pursuing discourse power motivates substantial investments in international medi
 
 **Digital Civilization (数字文明, shùzì wénmíng)** represents Chinese vision for global internet governance: a multipolar digital order where multiple civilizations maintain distinct digital ecosystems reflecting their values and governance systems, rather than universal Western-dominated internet. This concept explicitly challenges internet universalism, instead embracing digital plurality where Chinese, Western, Islamic, and other civilizations maintain separate-but-equal digital spaces with minimal interference. Critics view this as rationalizing authoritarian censorship and fragmentation; Chinese officials portray it as respecting civilizational diversity and national sovereignty.
 
-### Historical Context: Century of Humiliation to Technology Sovereignty
+### Chinese Perspective: Technology Sovereignty and Strategic Objectives
 
-Chinese information technology perspectives are inseparable from historical experiences of foreign domination and technological backwardness. The "Century of Humiliation" (百年国耻, bǎinián guóchǐ) from Opium Wars through Japanese occupation created deep national trauma about foreign exploitation enabled by technological inferiority. Early Communist decades pursued technological self-reliance (自力更生, zìlì gēngshēng) but fell further behind Western innovation. Reform era's "opening up" enabled rapid development through technology imports and foreign investment but created new dependencies viewed as strategic vulnerabilities.
+Chinese information technology strategy reflects both historical lessons about technological dependence and forward-looking strategic objectives. Past experiences with foreign technology denial (Western embargoes, Soviet withdrawal of technical support) reinforce the imperative for self-reliance (自力更生, zìlì gēngshēng). Contemporary Chinese information strategy pursues several goals:
 
-This history shapes contemporary technology sovereignty pursuit: determination to escape foreign dependencies, willingness to sacrifice economic efficiency for strategic autonomy, and sensitivity to any technological leverage that could enable foreign coercion. From Western perspective, Chinese cyber sovereignty and digital protectionism represent authoritarian control and unfair trade practices. From Chinese perspective, they represent necessary measures preventing repetition of historical exploitation enabled by technological dependence—making current sacrifices to ensure future independence and strength.
+**Technology leadership**: Achieving global leadership in AI, quantum computing, 6G networks, and other frontier technologies to drive economic growth and military capability
+
+**Digital sovereignty**: Maintaining control over domestic information flows to preserve political stability and prevent foreign influence operations
+
+**Standard-setting power**: Shaping international technology standards (5G, AI governance, digital currencies) to favor Chinese firms and governance models
+
+**Supply chain security**: Developing domestic alternatives to GPS, internet infrastructure, and operating systems controlled by potential adversaries
+
+From the Chinese perspective, these measures represent strategic necessities for great power status, not merely authoritarian control. Western technology restrictions (semiconductor export controls, platform bans, network equipment exclusions) validate Chinese concerns about foreign "strangling" leverage, intensifying determination to achieve technological independence regardless of short-term costs.
 
 ### Strategic Implications for U.S. Policy
 

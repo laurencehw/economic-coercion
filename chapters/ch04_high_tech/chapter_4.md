@@ -1,4 +1,4 @@
-# Chapter 4: Technology and Innovation Competition
+# Technology and Innovation Competition
 
 ## Executive Summary
 

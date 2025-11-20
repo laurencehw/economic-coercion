@@ -1,4 +1,4 @@
-# Chapter 10: Future Scenarios and Policy Implications
+# Future Scenarios and Policy Implications
 
 ## Executive Summary
 

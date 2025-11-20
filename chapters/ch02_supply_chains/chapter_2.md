@@ -1,4 +1,4 @@
-# Chapter 2: Supply Chain Vulnerabilities and Dependencies
+# Supply Chain Vulnerabilities and Dependencies
 
 ## Executive Summary
 

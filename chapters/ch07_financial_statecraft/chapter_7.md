@@ -1,4 +1,4 @@
-# Chapter 7: Financial Statecraft and Sanctions
+# Financial Statecraft and Sanctions
 
 ## Executive Summary
 
@@ -881,28 +881,25 @@ Some propose "green" currencies backed by carbon neutrality or renewable energy 
 
 Chinese perspectives on financial sanctions and dollar dominance reflect deep concerns about vulnerability to U.S. coercion, historical memories of Western financial imperialism, and determination to build independent financial infrastructure. Understanding these views illuminates China's strategic choices in financial system development and sanctions countermeasures.
 
-### Historical Context: Financial Imperialism and Sovereignty Loss
+### Historical Context and Financial Strategic Objectives
 
-**Unequal Treaties and Financial Control (1840s-1940s)**
+**Historical Experience**
 
-Chinese discussions of financial sovereignty invariably reference the **Century of Humiliation** when Western powers imposed financial control:
+Chinese financial sovereignty concerns reflect historical experiences with foreign financial control, including 19th-century foreign management of China's Maritime Customs Service and post-1949 exclusion from Bretton Woods institutions. These experiences reinforce the conviction that financial dependence creates political vulnerability—foreign control of financial infrastructure enables coercion.
 
-- **Foreign control of customs**: Maritime Customs Service controlled by foreigners (1854-1950) collecting tariff revenues to service foreign debts, limiting Chinese fiscal sovereignty
-- **Extraterritorial banking**: Foreign banks operated in treaty ports outside Chinese legal jurisdiction, controlling international trade finance
-- **Indemnity payments**: Boxer Protocol (1901) imposed massive indemnities payable in gold, draining Chinese finances for decades
-- **Currency manipulation**: Foreign powers imposed silver standard when advantageous, then gold standard, controlling Chinese monetary policy
+**Contemporary Financial Strategic Objectives**
 
-This history shapes Chinese conviction that financial dependence creates political vulnerability—foreign control of money enables foreign control of sovereignty.
+China's financial strategy pursues several forward-looking goals:
 
-**Bretton Woods and Dollar System Exclusion (1945-1971)**
+**De-dollarization and financial resilience**: Reducing dependence on dollar-denominated transactions and U.S.-controlled payment systems (SWIFT, correspondent banking) to protect against sanctions. Russia's frozen reserves ($300+ billion, 2022) validated these concerns, accelerating Chinese efforts to build alternative systems (CIPS) and diversify reserve holdings.
 
-After 1949, Communist China excluded from Bretton Woods institutions (IMF, World Bank) and dollar-based international financial system:
+**RMB internationalization**: Promoting yuan use in international trade and finance to reduce transaction costs, enhance monetary policy autonomy, and build financial influence comparable to China's economic weight.
 
-- PRC denied UN/IMF/World Bank membership (replaced by Taiwan until 1971/1980)
-- Cut off from international capital markets
-- Forced into autarky and reliance on Soviet aid (until Sino-Soviet split 1960)
+**Alternative financial architecture**: Developing institutions (AIIB, New Development Bank) and systems (CIPS, digital yuan) that reduce reliance on Western-dominated infrastructure while providing alternatives for countries seeking to reduce dollar dependence.
 
-Chinese officials view this exclusion as continuation of Western financial imperialism—using institutional control to isolate and weaken China. Contemporary U.S. sanctions seen as modern version of historical pattern.
+**Capital account management**: Maintaining controls on cross-border capital flows to prevent destabilizing speculation while gradually opening to support RMB internationalization—balancing financial security against market access benefits.
+
+**Financial technology leadership**: Achieving dominance in digital payments, central bank digital currencies (CBDC), and fintech to shape future global financial architecture.
 
 ### Key Chinese Concepts in Financial Sovereignty
 

@@ -69,7 +69,7 @@ Chinese terms are presented in simplified characters with pinyin romanization. T
 
 ## About the Author
 
-Laurence Wilse-Samson is affiliated with Columbia University's School of International and Public Affairs (SIPA), where he focuses on international political economy, economic statecraft, and U.S.-China relations.
+Laurence Wilse-Samson teaches understanding emerging technologies at Columbia University's School of International and Public Affairs (SIPA).
 
 ## Contact Information
 

@@ -1,4 +1,4 @@
-# Chapter 8: Investment Screening, Industrial Policy, and Strategic Assets
+# Investment Screening, Industrial Policy, and Strategic Assets
 
 ## Executive Summary
 

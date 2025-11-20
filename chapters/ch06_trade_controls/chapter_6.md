@@ -1,4 +1,4 @@
-# Chapter 6: Trade Controls and Tariffs
+# Trade Controls and Tariffs
 
 ## Executive Summary
 
@@ -841,27 +841,23 @@ Managed fragmentation for now, but with risk of escalation into broader mercanti
 
 Chinese perspectives on trade controls reflect deep historical grievances about Western economic exploitation, contemporary frustrations with perceived "rules for thee but not for me" Western behavior, and strategic calculations about building resilience against coercion. Understanding these perspectives illuminates why Chinese responses often appear disproportionate or counterproductive from Western viewpoints—perspectives shaped by different historical experiences and strategic logics.
 
-### Historical Context: Century of Humiliation and Trade as Weapon
+### Historical Context and Strategic Trade Objectives
 
-**Unequal Treaties and Forced Opening (1840s-1940s)**
+**Historical Experience with Trade Coercion**
 
-Chinese discussions of trade coercion invariably reference the **Century of Humiliation** (百年国耻, bǎinián guóchǐ), when Western powers and Japan used military force to impose unequal trade treaties:
+Chinese perspectives on trade policy reflect historical experiences with imposed trade restrictions, including 19th century unequal treaties that prevented China from setting its own tariffs or protecting infant industries, and Cold War-era Western trade embargoes (CoCom, U.S. embargo 1950-1972) that denied access to advanced technologies. Chinese leaders draw the lesson that trade dependencies can be weaponized by stronger powers, making self-reliance in critical sectors a strategic imperative.
 
-- **Treaty of Nanjing (1842)**: Ended First Opium War, forced China to open five treaty ports, cede Hong Kong, pay indemnities, and accept fixed low tariffs (undermining Chinese sovereignty to set trade policy)
-- **Treaty of Tianjin (1856)**: After Second Opium War, opened more ports, legalized opium trade, granted extraterritoriality to foreigners
-- **Boxer Protocol (1901)**: Massive indemnities, foreign troops in Beijing, restrictions on Chinese armament
+**Contemporary Strategic Trade Objectives**
 
-These treaties systematically prevented China from using trade policy for development, protecting infant industries, or generating revenue—tools Western powers had used for their own industrialization. British Empire built wealth through protectionist tariffs, yet forced China into free trade at gunpoint. This hypocrisy remains central to Chinese perceptions of Western trade preaching.
+China's trade strategy serves several forward-looking goals:
 
-**Post-1949: Embargoes and Isolation**
+- **Industrial upgrading**: Moving from low-value manufacturing to high-technology production through Made in China 2025 and related industrial policies
+- **Supply chain security**: Reducing dependence on foreign suppliers for critical inputs (semiconductors, aerospace components) where trade restrictions could "strangle" key industries
+- **Export leverage**: Maintaining dominant positions in critical exports (rare earths processing, electric vehicle batteries, active pharmaceutical ingredients) that provide counter-coercion capabilities
+- **Market access as influence**: Using access to China's large consumer market as inducement for foreign firms and governments to align with Chinese preferences
+- **Belt and Road Initiative**: Building trade relationships and dependencies in Eurasia, Africa, and Latin America to expand Chinese influence and create alternatives to Western-dominated trade networks
 
-After Communist victory (1949), Western states imposed comprehensive trade embargoes:
-
-- **CoCom (1949-1994)**: Coordinated Western export controls denied China access to advanced technologies, industrial equipment, military systems
-- **U.S. embargo (1950-1972)**: Near-total prohibition on U.S.-China trade during Cold War
-- **Technology denial**: Even after rapprochement (1970s), China faced restrictions on advanced technologies through export controls
-
-Chinese perspective: While West developed using technology diffusion and trade, China was denied these pathways, forced into costly indigenous development. Now that China reaches technological competence, West imposes new restrictions to maintain dominance.
+Western trade restrictions (tariffs, export controls, investment screening) are viewed as attempts to prevent China from achieving these strategic objectives, justifying Chinese counter-measures and self-reliance efforts.
 
 ### Key Chinese Concepts in Trade Coercion
 

@@ -8,6 +8,7 @@ Write-Host ""
 $allFiles = @(
     "front_matter/title_copyright.md",
     "front_matter/preface.md",
+    "structure_mainmatter.tex",
     "chapters/ch01_foundations/chapter_1.md",
     "chapters/ch02_supply_chains/chapter_2.md",
     "chapters/ch03_critical_sectors/chapter_3.md",
