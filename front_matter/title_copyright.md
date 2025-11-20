@@ -74,8 +74,9 @@ Laurence Wilse-Samson teaches understanding emerging technologies at Columbia Un
 ## Contact Information
 
 For questions, corrections, or feedback:
+
 - Email: lhw2110@columbia.edu
-- GitHub: https://github.com/laurencehw/economic-coercion
+- GitHub: github.com/laurencehw/economic-coercion
 
 ## Dedication
 

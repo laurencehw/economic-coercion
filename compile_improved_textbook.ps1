@@ -32,7 +32,7 @@ Write-Host "  - Enabled figure inclusion"
 Write-Host "  - Added bibliography and glossary"
 Write-Host ""
 
-pandoc $allFiles -o $outputFile --template=improved_template.latex --pdf-engine=xelatex -V fontsize=11pt --toc --toc-depth=2 --number-sections -V toc-title="Table of Contents" 2>&1 | Out-File -FilePath "pandoc_compile.log"
+pandoc $allFiles -o $outputFile --template=improved_template.latex --pdf-engine=xelatex -V fontsize=11pt --toc --toc-depth=2 --number-sections --top-level-division=chapter -V toc-title="Table of Contents" 2>&1 | Out-File -FilePath "pandoc_compile.log"
 
 if (Test-Path $outputFile) {
     $fileSize = (Get-Item $outputFile).length / 1MB

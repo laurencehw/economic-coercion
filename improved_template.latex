@@ -4,7 +4,7 @@
 \usepackage{fontspec}
 \usepackage{xeCJK}
 \setCJKmainfont{Microsoft YaHei}
-\setmainfont{Times New Roman}
+\setmainfont{Times New Roman}[Ligatures={TeX,Common}]
 \setsansfont{Arial}
 \setmonofont{Courier New}
 
@@ -130,8 +130,6 @@
 
 % Define pandocbounded for newer Pandoc versions
 \providecommand{\pandocbounded}[1]{#1}
-
-\defaultfontfeatures{Mapping=tex-text}
 
 % Title page
 $if(title)$
