@@ -1075,7 +1075,7 @@ Chinese perspectives reflect different historical experiences, political system,
 
 ---
 
-# Tabletop Exercise: Designing a Comprehensive Financial Sanctions Regime
+## Tabletop Exercise: Designing a Comprehensive Financial Sanctions Regime
 
 **Chapter:** 7 - Financial Statecraft and Sanctions
 

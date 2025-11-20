@@ -391,7 +391,7 @@ The fundamental challenge is that both the United States and China view resource
 
 ---
 
-# Tabletop Exercise: Critical Minerals Crisis and Supply Disruption
+## Tabletop Exercise: Critical Minerals Crisis and Supply Disruption
 
 **Chapter:** 3 - Critical Sectors and Strategic Resources
 

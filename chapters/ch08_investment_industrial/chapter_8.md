@@ -1154,7 +1154,7 @@ Rather than duplicate that content, readers should refer to Section 4.4 and 4.5 
 
 ---
 
-# Tabletop Exercise: CFIUS Review and Investment Screening Dilemmas
+## Tabletop Exercise: CFIUS Review and Investment Screening Dilemmas
 
 **Chapter:** 8 - Investment Screening, Industrial Policy, and Strategic Assets
 

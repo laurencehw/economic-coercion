@@ -787,7 +787,7 @@ For practitioners new to information domain competition, recommended reading seq
 
 ---
 
-# Tabletop Exercise: Submarine Cable Sabotage and Digital Infrastructure Crisis
+## Tabletop Exercise: Submarine Cable Sabotage and Digital Infrastructure Crisis
 
 **Chapter:** 5 - Information, Standards, and Digital Infrastructure
 

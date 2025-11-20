@@ -1093,7 +1093,7 @@ Presidential determinations receive substantial deference; judicial review extre
 
 ---
 
-# Tabletop Exercise: Tariff Escalation and Trade War Dynamics
+## Tabletop Exercise: Tariff Escalation and Trade War Dynamics
 
 **Chapter:** 6 - Trade Controls and Tariffs
 

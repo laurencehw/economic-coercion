@@ -595,7 +595,7 @@ The case demonstrates how technology export controls serve strategic competition
 
 ---
 
-# Tabletop Exercise: AI Export Control Dilemma
+## Tabletop Exercise: AI Export Control Dilemma
 
 **Chapter:** 4 - Technology and Innovation Competition
 

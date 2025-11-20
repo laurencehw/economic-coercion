@@ -596,7 +596,7 @@ The intersection of supply chains, technology, and geopolitics remains dynamic. 
 
 ---
 
-# Tabletop Exercise: Semiconductor Chokepoint Crisis
+## Tabletop Exercise: Semiconductor Chokepoint Crisis
 
 **Chapter:** 2 - Supply Chain Vulnerabilities and Dependencies
 

@@ -901,7 +901,7 @@ Migration policy increasingly viewed as strategic tool in technology competition
 
 ---
 
-# Tabletop Exercise: Applying Historical Lessons to Contemporary Challenges
+## Tabletop Exercise: Applying Historical Lessons to Contemporary Challenges
 
 **Chapter:** 9 - Historical and Comparative Cases
 

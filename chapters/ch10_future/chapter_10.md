@@ -986,7 +986,7 @@ Economic coercion will remain central to 21st-century statecraft. Understanding 
 
 ---
 
-# Tabletop Exercise: Multi-Domain Crisis in 2030
+## Tabletop Exercise: Multi-Domain Crisis in 2030
 
 **Chapter:** 10 - Future Scenarios and Policy Implications
 

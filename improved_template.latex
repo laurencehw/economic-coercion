@@ -3,15 +3,25 @@
 % Font and encoding
 \usepackage{fontspec}
 \usepackage{xeCJK}
+
+% Configure CJK fonts - use fonts confirmed available on Windows
 \setCJKmainfont{Microsoft YaHei}
+\setCJKsansfont{Microsoft YaHei}
+\setCJKmonofont{NSimSun}
+
+% Set main fonts with proper configuration
 \setmainfont{Times New Roman}[
   Ligatures=TeX,
-  Renderer=Basic,
-  CharacterVariant=1:0
+  Renderer=Basic
 ]
 \setsansfont{Arial}
 \setmonofont{Courier New}
-\newfontfamily\substitutefont{Times New Roman}
+
+% Configure CJK spacing and ensure proper rendering
+\xeCJKsetup{
+  CJKspace=true,
+  PlainEquation=true
+}
 
 % Essential packages
 \usepackage{geometry}

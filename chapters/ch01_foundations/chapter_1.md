@@ -827,7 +827,7 @@ Understanding economic coercion requires access to reliable data on sanctions, t
 
 ---
 
-# Tabletop Exercise: Taiwan Strait Economic Coercion Crisis
+## Tabletop Exercise: Taiwan Strait Economic Coercion Crisis
 
 **Chapter:** 1 - Foundations of Economic Statecraft in the 21st Century
 
