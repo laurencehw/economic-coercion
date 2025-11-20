@@ -22,7 +22,7 @@ foreach ($chapter in $chapters) {
 
     Write-Host "Compiling $($chapter.title)..." -ForegroundColor Yellow
 
-    pandoc $inputPath -o $outputPath --pdf-engine=xelatex -V fontsize=11pt -V geometry:margin=1.25in --toc --toc-depth=2 -V documentclass=book -V title="$($chapter.title)" 2>$null
+    pandoc $inputPath -o $outputPath --template=improved_template.latex --pdf-engine=xelatex -V fontsize=11pt --toc --toc-depth=2 -V title="$($chapter.title)" 2>$null
 
     if (Test-Path $outputPath) {
         Write-Host "  Created: $outputPath" -ForegroundColor Green
