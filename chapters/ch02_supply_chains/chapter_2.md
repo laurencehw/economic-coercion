@@ -1,4 +1,4 @@
-# Chapter 2: Supply Chain Vulnerabilities and Dependencies
+# Supply Chain Vulnerabilities and Dependencies
 
 ## Executive Summary
 
@@ -20,9 +20,9 @@ The stakes are profound. Supply chain dependencies determine which countries can
 
 ---
 
-## Section 1: The Geography of Supply Chain Chokepoints
+## The Geography of Supply Chain Chokepoints
 
-### 1.1 What Makes a Chokepoint?
+### What Makes a Chokepoint?
 
 Not all supply chain dependencies create strategic vulnerabilities. The United States imports coffee, bananas, and cocoa primarily from abroad, but these dependencies pose little coercive leverage: alternative suppliers are readily available, substitutes exist, and interruption would not cripple critical infrastructure or military capabilities. Strategic chokepoints have four defining characteristics that distinguish them from ordinary trade dependencies.
 
@@ -36,7 +36,7 @@ Not all supply chain dependencies create strategic vulnerabilities. The United S
 
 These four characteristics—concentration, difficulty of substitution, criticality, and time to build alternatives—interact to create chokepoint vulnerability. The more pronounced each characteristic, the greater the strategic leverage. Conversely, dependencies that lack one or more of these features pose limited coercive risk. Mapping which supply chains meet these criteria is essential for understanding contemporary economic security threats.
 
-### 1.2 Mapping Critical Chokepoints
+### Mapping Critical Chokepoints
 
 Armed with a framework for identifying chokepoints, we can now map the most strategically significant concentrations in global supply chains. While comprehensive supply chain mapping is beyond the scope of any single chapter (the Biden administration's 100-day supply chain review produced hundreds of pages on just four sectors), several concentrations stand out for their scale, strategic importance, and centrality to U.S.-China competition.
 
@@ -56,7 +56,7 @@ The strategic implications became apparent during COVID-19 when shortages emerge
 
 This dominance creates dependencies for countries pursuing aggressive decarbonization. The European Union's Green Deal and U.S. Inflation Reduction Act aim to rapidly expand electric vehicle adoption and renewable energy deployment—but both depend on Chinese-dominated supply chains for batteries, solar panels, and the critical minerals these technologies require. China's positioning reflects the Made in China 2025 industrial policy explicitly targeting new energy vehicles and advanced electrical equipment as strategic sectors. As the U.S. and Europe belatedly attempt to build domestic capacity through subsidies (the U.S. Inflation Reduction Act provides substantial battery manufacturing tax credits), they confront the reality that China holds a decade-long lead in manufacturing scale, supply chain integration, and cost efficiency.
 
-### 1.3 How Chokepoints Developed
+### How Chokepoints Developed
 
 Understanding how chokepoints emerged is essential for assessing whether they can be unwound and at what cost. Five factors explain the development of concentrated supply chain dependencies, each with distinct implications for restructuring efforts.
 
@@ -90,11 +90,11 @@ Understanding these five factors—comparative advantage, economies of scale, in
 
 ---
 
-## Section 2: Semiconductor Supply Chains - The Critical Chokepoint
+## Semiconductor Supply Chains - The Critical Chokepoint
 
 If there is a single chokepoint that keeps American national security strategists awake at night, it is semiconductors—and more specifically, Taiwan's dominance in manufacturing the most advanced chips. Semiconductors are the foundation of modern civilization: they power smartphones, data centers, artificial intelligence systems, autonomous vehicles, telecommunications networks, and virtually every advanced weapons system. An economy or military without access to cutting-edge chips is at a fundamental disadvantage. Yet roughly 90% of the world's most advanced semiconductors come from a single company (TSMC) on an island (Taiwan) that China claims as its territory and has not ruled out seizing by force. Understanding this chokepoint—how it developed, why it persists, and what responses are being attempted—is essential for grasping contemporary economic security challenges.
 
-### 2.1 The Semiconductor Value Chain
+### The Semiconductor Value Chain
 
 Semiconductor production involves one of the most complex supply chains in the global economy, with dozens of steps spanning multiple continents. Unlike many industries where a single firm or country might dominate, the semiconductor value chain features multiple chokepoints at different stages—a condition that amplifies both leverage and vulnerability.
 
@@ -114,7 +114,9 @@ Fabrication concentration creates several vulnerabilities. First, geographic con
 
 This complexity means that no single country can produce advanced semiconductors without reliance on others. The United States dominates design and much equipment. The Netherlands holds a unique chokepoint in EUV lithography. Japan excels in materials and some equipment. Taiwan leads in fabrication. South Korea maintains significant memory chip production (SK Hynix and Samsung together control approximately 70% of DRAM memory and 50% of NAND flash memory markets). China has substantial assembly capacity but depends on others for design, equipment, advanced fabrication, and materials. This interdependence means that semiconductor statecraft requires allied coordination—unilateral American controls have limits when targets can potentially access Dutch equipment or Japanese materials. It also means that semiconductor supply chains cannot easily be "reshored" to any single country; the realistic goal is "friend-shoring" that maintains specialization among allied nations while reducing exposure to strategic competitors.
 
-### 2.2 Why Taiwan Matters
+### Why Taiwan Matters
+
+![TSMC Global Market Share and Tech Dominance](figures/figure_2_2_tsmc_dominance.png)
 
 Taiwan Semiconductor Manufacturing Company—TSMC—stands at the center of global semiconductor dependence, and by extension, at the center of tensions between the United States and China. Understanding TSMC's dominance and the barriers to replicating it is essential for assessing supply chain vulnerability and restructuring possibilities.
 
@@ -184,11 +186,13 @@ The U.S.-China semiconductor competition has no clear resolution on the near hor
 
 ---
 
-## Section 3: Critical Minerals and the Green Transition
+## Critical Minerals and the Green Transition
 
 The global energy transition—the shift from fossil fuels to renewable energy and electric vehicles—creates new supply chain dependencies that rival semiconductors in strategic significance. Paradoxically, escaping dependence on Middle Eastern oil for energy security may create even more acute dependencies on Chinese processing of the minerals required for batteries, solar panels, wind turbines, and electric motors. This section examines critical mineral chokepoints, how China achieved dominance, and what (if anything) can be done to reduce vulnerabilities.
 
-### 3.1 Minerals for Energy Transition
+### Minerals for Energy Transition
+
+![Critical Minerals Supply Chain Concentration](figures/figure_2_3_critical_minerals.png)
 
 The International Energy Agency estimates that reaching net-zero emissions by 2050 will require six times more mineral inputs in 2040 than today. This demand surge reflects the mineral intensity of clean energy technologies: an electric vehicle requires six times the mineral inputs of a conventional car (primarily lithium, nickel, cobalt, and graphite for batteries, plus rare earths for motors); an onshore wind farm requires nine times the mineral resources of a gas-fired power plant (copper, rare earths for magnets, steel); solar panels require substantial silicon, silver, and other materials. The energy transition is, fundamentally, a materials transition—and control over these materials confers strategic leverage.
 
@@ -212,7 +216,7 @@ The strategic value of rare earths became globally visible during the 2010 China
 
 **Nickel** rounds out the critical battery minerals. Indonesia has emerged as the dominant nickel producer (37% of global supply), overtaking the Philippines (13%) and Russia (10%). Nickel is essential for cathodes in lithium-ion batteries, particularly high-energy-density batteries for long-range electric vehicles. China again dominates refining: roughly 65% of nickel refining capacity is Chinese or Chinese-invested. Indonesia's nickel boom reflects Chinese investment in Indonesian smelters combined with Indonesia's 2020 ban on nickel ore exports, forcing miners to process domestically—a strategy directly modeled on China's approach of capturing value-added midstream processing rather than exporting raw materials.
 
-### 3.2 China's Rare Earth Dominance: How and Why
+### China's Rare Earth Dominance: How and Why
 
 Understanding how China achieved rare earth dominance provides insights into strategic industrial policy and the challenges of reversing established chokepoints. The story is neither one of inevitable Chinese triumph nor of Western strategic blindness—but rather reflects concrete policy choices, different risk tolerances, and divergent approaches to environmental regulation.
 
@@ -234,7 +238,7 @@ In China, particularly during the 1990s-2010s, environmental enforcement was lax
 
 This dynamic creates a dilemma for reshoring: bringing rare earth processing back to the United States or Europe requires either substantial subsidies to offset higher environmental compliance costs, or relaxation of environmental standards—a politically fraught choice that environmental advocates strongly resist. The economics of environmental regulation directly shaped where processing occurs, and reversing that geography requires confronting these economic realities.
 
-### 3.3 Western Responses: Mining, Diversification, and Substitution
+### Western Responses: Mining, Diversification, and Substitution
 
 Recognition of critical mineral dependencies has triggered numerous Western initiatives to reduce reliance on Chinese processing. These efforts face substantial obstacles but have achieved modest progress, illustrating both the possibilities and limits of supply chain restructuring.
 
@@ -264,11 +268,11 @@ The pattern across mining, processing, recycling, and substitution is consistent
 
 ---
 
-## Section 4: Pharmaceutical and Medical Supply Chains
+## Pharmaceutical and Medical Supply Chains
 
 The COVID-19 pandemic delivered a stark lesson in pharmaceutical supply chain vulnerability: the United States, for all its wealth and technical sophistication, could not reliably obtain N95 masks, ventilators, testing supplies, or even basic medications because production had migrated overwhelmingly to China and other foreign countries. This section examines how pharmaceutical dependencies developed, what strategic risks they pose, and why reshoring faces significant obstacles.
 
-### 4.1 Active Pharmaceutical Ingredients (APIs): The Hidden Dependency
+### Active Pharmaceutical Ingredients (APIs): The Hidden Dependency
 
 When Americans fill prescriptions, few consider where the drugs were manufactured. The label typically shows a U.S. pharmaceutical company (Pfizer, Merck, Johnson & Johnson), creating an impression of domestic production. The reality is more complex: while final formulation (combining ingredients into pills or liquids) and packaging often occur domestically, the active pharmaceutical ingredients—the chemical compounds that make drugs effective—predominantly come from abroad.
 
@@ -284,7 +288,7 @@ By the 2010s, American API manufacturing had largely disappeared. A 2019 FDA rep
 
 Third, deliberate contamination: worst-case scenarios involve adversaries deliberately contaminating medications with intent to harm. While no confirmed cases exist, the possibility that a foreign adversary controls production of essential medications raises the specter of biological or chemical warfare through pharmaceutical supply chains. Even absent deliberate contamination, simple denials of supply during crises could cripple medical systems. Fourth, pandemic vulnerabilities: COVID-19 revealed how quickly pharmaceutical supply chains seize during global health emergencies. When China imposed export restrictions on personal protective equipment and restricted API exports in early 2020, American hospitals and manufacturers faced immediate shortages. Chinese officials explicitly suggested restricting pharmaceutical exports as leverage, though Beijing ultimately did not follow through comprehensively.
 
-### 4.2 COVID-19 and the PPE Wake-Up Call
+### COVID-19 and the PPE Wake-Up Call
 
 The COVID-19 pandemic transformed abstract supply chain concerns into concrete crises. In February-April 2020, American hospitals confronted shortages of personal protective equipment (N95 respirators, surgical masks, gloves, gowns), ventilators, testing supplies (swabs, reagents), and even basic medications (sedatives for ventilated patients). These shortages stemmed directly from production concentration in China.
 
@@ -300,7 +304,7 @@ The U.S. response involved multiple elements. President Trump invoked the Defens
 
 The lesson was clear: just-in-time supply chains optimized for efficiency collapse under surge demand and geopolitical stress. Redundancy and domestic capacity, dismissed as wasteful in normal times, became essential during crises. The question became whether this lesson would translate into sustained policy changes or fade as the acute crisis passed—a question examined in Section 5.
 
-### 4.3 Reshoring Challenges: Economics, Environment, and Skills
+### Reshoring Challenges: Economics, Environment, and Skills
 
 Recognition of pharmaceutical supply chain vulnerability has triggered calls to reshore API production and medical manufacturing. The Biden administration's 100-day supply chain review identified pharmaceuticals as a critical vulnerability. Proposed legislation includes the DPRA (Developing and Promoting Advanced Research for Coronavirus Act) and various reshoring incentive programs. Yet substantial obstacles limit reshoring prospects.
 
@@ -324,11 +328,11 @@ The realistic outcome is likely hybrid: modest reshoring of truly critical medic
 
 ---
 
-## Section 5: Strategies for Reducing Vulnerabilities
+## Strategies for Reducing Vulnerabilities
 
 Recognition of supply chain chokepoints has triggered a global rethinking of trade and industrial policy. The previous consensus—that economic efficiency should drive sourcing decisions and governments should minimize intervention in markets—has fractured. In its place, several strategies have emerged for reducing dependencies on potential adversaries. Each involves distinct tradeoffs between security and economics, and each faces implementation challenges that limit effectiveness. This section evaluates five approaches: reshoring (onshoring), friend-shoring (ally-shoring), diversification, strategic stockpiling, and technology substitution.
 
-### 5.1 Reshoring (Onshoring)
+### Reshoring (Onshoring)
 
 **Definition and logic**: Reshoring means bringing production back to the home country—in the American context, manufacturing semiconductors, pharmaceuticals, batteries, and other critical goods domestically rather than relying on imports. The logic is straightforward: domestic production eliminates foreign dependencies, ensures supply during crises, maintains quality control, and preserves industrial capabilities that might otherwise atrophy.
 
@@ -344,7 +348,7 @@ Pharmaceutical reshoring has seen more limited progress. MP Materials is buildin
 
 The realistic outcome is partial reshoring of the most critical inputs—advanced semiconductors for defense and AI, essential medications with no substitutes, rare earth processing for military applications—while accepting continued dependence for less critical goods where cost considerations dominate. This requires sustained political will to maintain subsidies, regulatory reforms to accelerate permitting, and tolerance for economic inefficiency in service of security objectives.
 
-### 5.2 Friend-shoring (Ally-shoring)
+### Friend-shoring (Ally-shoring)
 
 **Definition and logic**: Friend-shoring involves shifting supply chains from potential adversaries to trusted allies and partners—for example, sourcing semiconductors from Taiwan or South Korea, rare earths from Australia, pharmaceuticals from European or Indian allies. The logic is balancing security and economics: allied countries provide more reliable supply than adversaries while maintaining some of the cost advantages and specialization benefits that pure domestic production cannot match.
 
@@ -360,7 +364,7 @@ Progress has been mixed. Allies broadly agree on reducing China dependencies but
 
 The realistic outcome is selective friend-shoring—cooperation on the most strategically sensitive technologies (advanced semiconductors, certain defense applications) while maintaining diverse supply chains including China for less sensitive goods. This requires continuous diplomatic effort to maintain alignment, mutual acceptance of some economic costs, and recognition that allied interests won't perfectly coincide with American preferences.
 
-### 5.3 Diversification
+### Diversification
 
 **Definition and logic**: Diversification involves sourcing critical inputs from multiple countries and suppliers rather than relying on a single source—for example, obtaining lithium from Australia, Chile, and Argentina rather than depending on any one country, or sourcing APIs from India, Europe, and China rather than China alone. The logic is reducing single-point-of-failure risks: even if one supplier is disrupted, others can partially compensate.
 
@@ -376,7 +380,7 @@ Progress is real but limited. Diversification within existing geographies (multi
 
 The realistic outcome is diversification where possible combined with acceptance of remaining chokepoints. This involves mapping supply chains systematically, identifying single points of failure, and directing investment toward building alternative sources—but recognizing that some chokepoints will persist for years or decades.
 
-### 5.4 Strategic Stockpiling
+### Strategic Stockpiling
 
 **Definition and logic**: Strategic stockpiling involves governments maintaining reserves of critical materials, components, or finished goods to buffer supply disruptions. The U.S. Strategic Petroleum Reserve exemplifies this approach: 700+ million barrels of oil stored in underground caverns provide months of supply during emergencies. Similar logic could apply to semiconductors, rare earths, pharmaceuticals, and other critical inputs.
 
@@ -392,7 +396,7 @@ Proposals include semiconductor stockpiles (though rapid obsolescence limits att
 
 The realistic outcome is selective stockpiling of goods that are critical, stable (not rapidly obsolescing), and storable—rare earths, certain pharmaceuticals, critical minerals, perhaps mature-generation semiconductors for defense applications. This provides insurance against short-term disruptions while accepting that stockpiles cannot substitute for supply diversification over longer horizons.
 
-### 5.5 Technology Substitution
+### Technology Substitution
 
 **Definition and logic**: Technology substitution involves developing alternative technologies that eliminate dependencies on concentrated inputs—for example, batteries that don't require cobalt, magnets without rare earths, or manufacturing processes that use more common materials. If successful, substitution eliminates dependencies entirely rather than just diversifying or reshoring them.
 
@@ -408,7 +412,7 @@ Hydrogen fuel cells offer alternatives to batteries in some applications but fac
 
 The realistic outcome is gradual substitution in applications where alternatives prove viable, combined with continued use of existing technologies where substitutes don't yet exist or involve unacceptable tradeoffs. This requires sustained R&D investment, support for scaling promising alternatives, and acceptance that breakthroughs are uncertain and time-consuming. Substitution is a medium to long-term strategy (5-15 years) rather than a solution for near-term dependencies.
 
-### 5.6 Synthesis: No Silver Bullets, Only Difficult Tradeoffs
+### Synthesis: No Silver Bullets, Only Difficult Tradeoffs
 
 Supply chain security strategies—reshoring, friend-shoring, diversification, stockpiling, and substitution—all contribute to reducing vulnerabilities, but none provides complete solutions. Each involves tradeoffs between security and economics, between near-term and long-term, between efficiency and resilience. The realistic approach combines elements of all five strategies, tailored to specific contexts.
 

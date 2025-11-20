@@ -1,4 +1,4 @@
-# Chapter 7: Financial Statecraft and Sanctions
+# Financial Statecraft and Sanctions
 
 ## Executive Summary
 
@@ -28,11 +28,13 @@ Financial sanctions represent perhaps the most powerful economic coercion tool a
 
 ---
 
-## Section 1: Dollar Privilege and Financial Infrastructure
+## Dollar Privilege and Financial Infrastructure
 
 Financial sanctions' effectiveness derives from the U.S. dollar's dominant position in the international monetary system and U.S. control over critical financial infrastructure. This section maps these structural advantages, explaining how currency and payment system characteristics enable coercion.
 
-### 1.1 The Dollar's Privileged Position
+### The Dollar's Privileged Position
+
+![Foreign Holdings of U.S. Treasury Securities](figures/figure_7_3_treasury_holdings.png)
 
 **Reserve Currency Status**
 
@@ -78,9 +80,11 @@ Approximately $13 trillion in non-U.S. dollar-denominated debt exists (2024)—d
 
 **Sanctions implications**: Entities with dollar debts require dollar access to service obligations. Sanctions blocking dollar access can trigger defaults, bankruptcies, and financial crises—amplifying coercive pressure.
 
-### 1.2 Payment System Infrastructure: SWIFT and Correspondent Banking
+### Payment System Infrastructure: SWIFT and Correspondent Banking
 
 **Society for Worldwide Interbank Financial Telecommunication (SWIFT)**
+
+![Currency Share of Global Payments (SWIFT)](figures/figure_7_1_swift_currencies.png)
 
 SWIFT is not a payment system but a secure messaging network transmitting payment instructions between 11,000+ financial institutions in 200+ countries. Key characteristics:
 
@@ -114,7 +118,7 @@ Most banks cannot directly clear international payments; instead they use corres
 
 **Example - North Korea isolation**: Following 2016-2017 nuclear tests, U.S. Treasury systematically pressured Chinese banks maintaining North Korean accounts. Bank of China, China Construction Bank, Agricultural Bank of China all terminated North Korean relationships. Combined with SWIFT access restrictions, North Korea became largely excluded from international banking—forced to rely on cash couriers, shell companies, and cryptocurrency.
 
-### 1.3 Financial Market Depth and Liquidity
+### Financial Market Depth and Liquidity
 
 U.S. financial markets' extraordinary depth and liquidity amplify dollar attractiveness:
 
@@ -146,7 +150,7 @@ U.S. financial markets' extraordinary depth and liquidity amplify dollar attract
 
 Iran, Russia, Venezuela all face higher borrowing costs and reduced market access due to sanctions, constraining investment and economic growth.
 
-### 1.4 Legal and Institutional Framework
+### Legal and Institutional Framework
 
 **Extraterritorial Reach**
 
@@ -179,7 +183,7 @@ Multiple U.S. agencies enforce financial sanctions:
 
 These massive penalties incentivize over-compliance: banks often refuse transactions remotely related to sanctioned jurisdictions to avoid risk.
 
-### 1.5 Vulnerabilities and Limits
+### Vulnerabilities and Limits
 
 Despite formidable advantages, U.S. financial power faces vulnerabilities:
 
@@ -214,11 +218,11 @@ Freezing Russia's central bank reserves (2022) shocked many observers—calling 
 
 ---
 
-## Section 2: OFAC Sanctions Architecture
+## OFAC Sanctions Architecture
 
 The Office of Foreign Assets Control (OFAC) within the U.S. Department of Treasury administers and enforces economic sanctions against targeted foreign countries, entities, and individuals. With fewer than 200 staff members, OFAC wields authority over trillions of dollars in transactions, maintaining sanctions programs affecting over 10,000 targets across 30+ countries. Understanding OFAC's structure, authorities, and mechanisms illuminates how financial sanctions translate from policy objectives into economic pressure.
 
-### 2.1 Legal Authorities
+### Legal Authorities
 
 OFAC operates under multiple statutory authorities granting the President power to impose economic sanctions:
 
@@ -260,7 +264,9 @@ These statutes constrain presidential discretion by mandating specific sanctions
 
 When UN Security Council adopts sanctions resolutions (e.g., North Korea, Iran historically, Taliban, Al-Qaeda), U.S. implements through OFAC. However, U.S. sanctions typically exceed UNSC minimums, adding unilateral restrictions beyond multilateral baseline.
 
-### 2.2 Types of Sanctions Programs
+### Types of Sanctions Programs
+
+![Active U.S. Sanctions Programs by Type](figures/figure_7_2_sanctions_programs.png)
 
 OFAC administers multiple sanctions program types:
 
@@ -302,7 +308,7 @@ Threaten sanctions on third parties (non-U.S. persons) engaging in specified act
 
 Secondary sanctions extend U.S. reach globally, forcing third parties to choose between U.S. and target markets. Highly effective but diplomatically contentious (explored in Section 3).
 
-### 2.3 Designation Process
+### Designation Process
 
 **SDN Designations**
 
@@ -339,7 +345,7 @@ Designated parties may petition OFAC for removal:
 
 Delisting is difficult; presumption favors maintaining designations. Burden on petitioner to prove changed circumstances.
 
-### 2.4 Licensing and Compliance
+### Licensing and Compliance
 
 **General Licenses**
 
@@ -392,7 +398,7 @@ U.S. financial institutions must implement robust sanctions compliance programs:
 
 **Consequences of non-compliance**: Massive civil and criminal penalties (as noted above - BNP Paribas $8.9 billion, Standard Chartered $1.1 billion). This incentivizes over-compliance: banks often block transactions with tenuous sanctions connections to avoid enforcement risk.
 
-### 2.5 Humanitarian Exceptions and Challenges
+### Humanitarian Exceptions and Challenges
 
 Sanctions laws provide humanitarian exceptions, yet implementation faces challenges:
 
@@ -425,11 +431,11 @@ However, concerns about sanctions evasion (disguising commercial transactions as
 
 ---
 
-## Section 3: Secondary Sanctions and Extraterritoriality
+## Secondary Sanctions and Extraterritoriality
 
 Secondary sanctions represent the most controversial and powerful dimension of U.S. financial coercion: threatening sanctions on third parties—foreign persons outside U.S. jurisdiction—to compel them to cease business with primary sanctions targets. This section examines secondary sanctions' mechanics, effectiveness, and blowback.
 
-### 3.1 Defining Secondary Sanctions
+### Defining Secondary Sanctions
 
 **Primary Sanctions** prohibit U.S. persons from transactions with designated targets. Applies within traditional jurisdiction: U.S. citizens, permanent residents, entities, and anyone/anything in U.S. territory.
 
@@ -443,7 +449,7 @@ Secondary sanctions represent the most controversial and powerful dimension of U
 
 **Legal Basis**: Secondary sanctions typically authorized by specific statutes (CISADA, CAATSA, Hong Kong Autonomy Act) or Executive Orders. IEEPA alone generally insufficient; requires congressional authorization or specific presidential finding.
 
-### 3.2 Iran Secondary Sanctions: Case Study in Coercion
+### Iran Secondary Sanctions: Case Study in Coercion
 
 **Background**
 
@@ -520,7 +526,7 @@ European companies (Total, Shell, Peugeot, Renault, Daimler, Siemens, Airbus) wi
 
 China initially continued purchases (providing Iran lifeline) but at discounted prices and under covert arrangements. Even China-Iran trade constrained by major Chinese banks' correspondent banking relationships requiring U.S. access.
 
-### 3.3 Russia Secondary Sanctions (CAATSA)
+### Russia Secondary Sanctions (CAATSA)
 
 **Countering America's Adversaries Through Sanctions Act (CAATSA) 2017**
 
@@ -561,7 +567,7 @@ CAATSA secondary sanctions had mixed results:
 
 Compared to Iran, Russia secondary sanctions were narrower (defense/intel sectors vs. economy-wide), more constrained by geopolitical considerations (major power with allies vs. isolated Iran), and implemented inconsistently (frequent waivers).
 
-### 3.4 Hong Kong and China Secondary Sanctions
+### Hong Kong and China Secondary Sanctions
 
 **Hong Kong Autonomy Act (HKAA) 2020**
 
@@ -589,7 +595,7 @@ Enacted after China's national security law imposed on Hong Kong (June 2020), HK
 
 HKAA demonstrates secondary sanctions' limits when targets are major powers with retaliatory capacity and deeply integrated into global finance.
 
-### 3.5 Diplomatic and Legal Controversies
+### Diplomatic and Legal Controversies
 
 **Sovereignty Objections**
 
@@ -628,13 +634,15 @@ Balancing coercive power and system preservation constitutes central strategic c
 
 ---
 
-## Section 4: De-dollarization and Alternative Financial Systems
+## De-dollarization and Alternative Financial Systems
 
 Aggressive U.S. use of financial sanctions—particularly freezing Russia's central bank reserves (2022)—accelerated efforts to reduce dollar dependence and build alternative financial infrastructure. This section examines de-dollarization initiatives, assessing whether challengers can create viable substitutes for dollar-dominated systems.
 
-### 4.1 Motivations for De-dollarization
+### Motivations for De-dollarization
 
 **Sanctions Vulnerability**
+
+![Russian Central Bank Assets Frozen in 2022](figures/figure_7_4_russian_frozen_assets.png)
 
 States facing sanctions or anticipating future sanctions seek alternatives to dollar-denominated transactions and U.S.-connected financial infrastructure:
 
@@ -658,7 +666,7 @@ Some initiatives reflect economic rather than security motivations:
 - **EU**: Euro as reserve currency reduces European dependence on Fed monetary policy
 - **Central Bank Digital Currencies**: Many countries developing CBDCs for domestic payment efficiency, not primarily to challenge dollar
 
-### 4.2 China's Cross-Border Interbank Payment System (CIPS)
+### China's Cross-Border Interbank Payment System (CIPS)
 
 **Structure and Function**
 
@@ -687,7 +695,7 @@ Launched 2015, CIPS processes cross-border renminbi (RMB) payments, positioning 
 - Many participants also SWIFT members, creating retaliation vulnerability
 - Liquidity much lower than dollar markets
 
-### 4.3 Renminbi Internationalization: Progress and Barriers
+### Renminbi Internationalization: Progress and Barriers
 
 **Progress Indicators**
 
@@ -738,7 +746,7 @@ Dollar benefits from self-reinforcing network: because others use dollars, liqui
 
 **Assessment**: RMB will continue growing as trade settlement and regional reserve currency, especially in China-centric supply chains and BRI countries. But replacing dollar as dominant global reserve currency requires financial market liberalization, capital account opening, and institutional credibility—reforms conflicting with CCP's political control priorities.
 
-### 4.4 BRICS Currency Proposals
+### BRICS Currency Proposals
 
 **Background**
 
@@ -782,7 +790,7 @@ Currency backed by these economies unlikely to inspire confidence as reserve ass
 
 **Most Likely Outcome**: Incremental measures—bilateral currency swaps, local currency trade settlement, payment system integration—rather than comprehensive new currency. These reduce dollar use at margins but don't fundamentally challenge dollar dominance.
 
-###4.5 Central Bank Digital Currencies (CBDCs)
+### Central Bank Digital Currencies (CBDCs)
 
 **Global CBDC Development**
 
@@ -803,7 +811,7 @@ Over 100 countries (representing 95%+ of global GDP) exploring CBDCs; several op
 
 **Assessment**: CBDCs may incrementally reduce correspondent banking dependence and enable sanctions evasion at margins. But fundamental currency attractiveness depends on economic size, financial market depth, capital openness, and institutional credibility—factors unchanged by digitalization.
 
-### 4.6 Gold, Commodities, and Bitcoin
+### Gold, Commodities, and Bitcoin
 
 **Gold Reserves**
 
@@ -839,7 +847,7 @@ Some sanctioned actors use cryptocurrencies to evade restrictions:
 
 **Assessment**: Cryptocurrencies enable marginal sanctions evasion for small transactions and illicit actors but cannot support large-scale international trade or serve as reserve currency. More likely to complement than replace dollar.
 
-### 4.7 Evaluating De-dollarization Prospects
+### Evaluating De-dollarization Prospects
 
 **Inertia and Network Effects**
 
@@ -873,28 +881,25 @@ Some propose "green" currencies backed by carbon neutrality or renewable energy 
 
 Chinese perspectives on financial sanctions and dollar dominance reflect deep concerns about vulnerability to U.S. coercion, historical memories of Western financial imperialism, and determination to build independent financial infrastructure. Understanding these views illuminates China's strategic choices in financial system development and sanctions countermeasures.
 
-### Historical Context: Financial Imperialism and Sovereignty Loss
+### Historical Context and Financial Strategic Objectives
 
-**Unequal Treaties and Financial Control (1840s-1940s)**
+**Historical Experience**
 
-Chinese discussions of financial sovereignty invariably reference the **Century of Humiliation** when Western powers imposed financial control:
+Chinese financial sovereignty concerns reflect historical experiences with foreign financial control, including 19th-century foreign management of China's Maritime Customs Service and post-1949 exclusion from Bretton Woods institutions. These experiences reinforce the conviction that financial dependence creates political vulnerability—foreign control of financial infrastructure enables coercion.
 
-- **Foreign control of customs**: Maritime Customs Service controlled by foreigners (1854-1950) collecting tariff revenues to service foreign debts, limiting Chinese fiscal sovereignty
-- **Extraterritorial banking**: Foreign banks operated in treaty ports outside Chinese legal jurisdiction, controlling international trade finance
-- **Indemnity payments**: Boxer Protocol (1901) imposed massive indemnities payable in gold, draining Chinese finances for decades
-- **Currency manipulation**: Foreign powers imposed silver standard when advantageous, then gold standard, controlling Chinese monetary policy
+**Contemporary Financial Strategic Objectives**
 
-This history shapes Chinese conviction that financial dependence creates political vulnerability—foreign control of money enables foreign control of sovereignty.
+China's financial strategy pursues several forward-looking goals:
 
-**Bretton Woods and Dollar System Exclusion (1945-1971)**
+**De-dollarization and financial resilience**: Reducing dependence on dollar-denominated transactions and U.S.-controlled payment systems (SWIFT, correspondent banking) to protect against sanctions. Russia's frozen reserves ($300+ billion, 2022) validated these concerns, accelerating Chinese efforts to build alternative systems (CIPS) and diversify reserve holdings.
 
-After 1949, Communist China excluded from Bretton Woods institutions (IMF, World Bank) and dollar-based international financial system:
+**RMB internationalization**: Promoting yuan use in international trade and finance to reduce transaction costs, enhance monetary policy autonomy, and build financial influence comparable to China's economic weight.
 
-- PRC denied UN/IMF/World Bank membership (replaced by Taiwan until 1971/1980)
-- Cut off from international capital markets
-- Forced into autarky and reliance on Soviet aid (until Sino-Soviet split 1960)
+**Alternative financial architecture**: Developing institutions (AIIB, New Development Bank) and systems (CIPS, digital yuan) that reduce reliance on Western-dominated infrastructure while providing alternatives for countries seeking to reduce dollar dependence.
 
-Chinese officials view this exclusion as continuation of Western financial imperialism—using institutional control to isolate and weaken China. Contemporary U.S. sanctions seen as modern version of historical pattern.
+**Capital account management**: Maintaining controls on cross-border capital flows to prevent destabilizing speculation while gradually opening to support RMB internationalization—balancing financial security against market access benefits.
+
+**Financial technology leadership**: Achieving dominance in digital payments, central bank digital currencies (CBDC), and fintech to shape future global financial architecture.
 
 ### Key Chinese Concepts in Financial Sovereignty
 

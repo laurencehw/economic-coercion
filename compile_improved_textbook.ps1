@@ -8,6 +8,7 @@ Write-Host ""
 $allFiles = @(
     "front_matter/title_copyright.md",
     "front_matter/preface.md",
+    "structure_mainmatter.tex",
     "chapters/ch01_foundations/chapter_1.md",
     "chapters/ch02_supply_chains/chapter_2.md",
     "chapters/ch03_critical_sectors/chapter_3.md",
@@ -31,7 +32,7 @@ Write-Host "  - Enabled figure inclusion"
 Write-Host "  - Added bibliography and glossary"
 Write-Host ""
 
-pandoc $allFiles -o $outputFile --template=improved_template.latex --pdf-engine=xelatex -V fontsize=11pt --toc --toc-depth=2 --number-sections -V toc-title="Table of Contents" 2>&1 | Out-File -FilePath "pandoc_compile.log"
+pandoc $allFiles -o $outputFile --template=improved_template.latex --pdf-engine=xelatex -V fontsize=11pt --toc --toc-depth=2 --number-sections --top-level-division=chapter -V toc-title="Table of Contents" 2>&1 | Out-File -FilePath "pandoc_compile.log"
 
 if (Test-Path $outputFile) {
     $fileSize = (Get-Item $outputFile).length / 1MB

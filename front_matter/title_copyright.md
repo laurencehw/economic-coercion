@@ -8,7 +8,7 @@ date: "November 2025"
 
 \newpage
 
-# Copyright and Publication Information
+# Copyright and Publication Information {-}
 
 **Economic Coercion in the 21st Century: Tools, Strategies, and Great Power Competition**
 
@@ -69,13 +69,14 @@ Chinese terms are presented in simplified characters with pinyin romanization. T
 
 ## About the Author
 
-Laurence Wilse-Samson is affiliated with Columbia University's School of International and Public Affairs (SIPA), where he focuses on international political economy, economic statecraft, and U.S.-China relations.
+Laurence Wilse-Samson teaches understanding emerging technologies at Columbia University's School of International and Public Affairs (SIPA).
 
 ## Contact Information
 
 For questions, corrections, or feedback:
+
 - Email: lhw2110@columbia.edu
-- GitHub: https://github.com/laurencehw/economic-coercion
+- GitHub: github.com/laurencehw/economic-coercion
 
 ## Dedication
 

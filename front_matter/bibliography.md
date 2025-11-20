@@ -1,4 +1,4 @@
-# Bibliography
+# Bibliography {-}
 
 ## Books and Monographs
 

@@ -1,4 +1,4 @@
-# Glossary
+# Glossary {-}
 
 ## Key Terms
 
@@ -8,7 +8,7 @@
 
 **Autocracy**: A system of government in which power is concentrated in the hands of a single leader or small elite group, with limited political pluralism or democratic accountability.
 
-**Bl**ackout**:temporary disruption of service, particularly in telecommunications or internet connectivity, often used as a tool of information control.
+**Blackout**: Temporary disruption of service, particularly in telecommunications or internet connectivity, often used as a tool of information control.
 
 **Choke Point**: A geographic location or technological node through which a disproportionate share of trade, data, or resources must pass, creating potential leverage for control or disruption.
 
