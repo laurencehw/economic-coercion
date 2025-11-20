@@ -2,38 +2,22 @@
 
 % Font and encoding
 \usepackage{fontspec}
-\usepackage{xeCJK}
 
-% Set main fonts first
-\setmainfont{Times New Roman}[
+% SOLUTION: Use a single font with BOTH Latin and CJK support
+% This completely avoids any font switching or interchar boundaries
+% Microsoft YaHei has good Latin AND Chinese coverage
+\setmainfont{Microsoft YaHei}[
   Ligatures=TeX,
-  Renderer=Basic
-]
-\setsansfont{Arial}
-\setmonofont{Courier New}
-
-% Configure CJK fonts - using Noto fonts for maximum compatibility
-% Noto fonts are designed specifically for comprehensive Unicode coverage
-\setCJKmainfont{Noto Serif SC}[
-  BoldFont={Noto Serif SC Bold},
-  AutoFakeBold=3,
-  AutoFakeSlant=0.2
+  BoldFont={Microsoft YaHei Bold},
+  ItalicFont={Microsoft YaHei},
+  BoldItalicFont={Microsoft YaHei Bold}
 ]
 
-\setCJKsansfont{Noto Sans SC}[
-  BoldFont={Noto Sans SC Bold},
-  AutoFakeBold=3
+\setsansfont{Microsoft YaHei}[
+  BoldFont={Microsoft YaHei Bold}
 ]
 
-\setCJKmonofont{Noto Sans SC}
-
-% Configure CJK rendering options for best compatibility
-\xeCJKsetup{
-  CJKspace=true,
-  CJKmath=true,
-  xCJKecglue={\ },
-  PunctStyle=plain
-}
+\setmonofont{Microsoft YaHei}
 
 % Essential packages
 \usepackage{geometry}
@@ -51,8 +35,16 @@
 \usepackage{enumitem}
 \usepackage{amsmath}
 \usepackage{amssymb}
-\usepackage[english]{babel}
+% Removed babel - it conflicts with xeCJK
 \usepackage{microtype}
+
+% CRITICAL: Disable XeTeX interchar completely - MUST be after all packages
+\XeTeXinterchartokenstate=0
+
+% Also ensure it stays disabled at document start
+\AtBeginDocument{%
+  \XeTeXinterchartokenstate=0%
+}
 
 % Page geometry
 \geometry{
@@ -158,9 +150,6 @@
 
 % Define pandocbounded for newer Pandoc versions
 \providecommand{\pandocbounded}[1]{#1}
-
-% Fix apostrophe spacing
-\XeTeXinterchartokenstate=0
 
 % Title page
 $if(title)$
