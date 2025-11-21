@@ -2,22 +2,24 @@
 
 % Font and encoding
 \usepackage{fontspec}
+\usepackage{xeCJK}
 
-% SOLUTION: Use a single font with BOTH Latin and CJK support
-% This completely avoids any font switching or interchar boundaries
-% Microsoft YaHei has good Latin AND Chinese coverage
-\setmainfont{Microsoft YaHei}[
-  Ligatures=TeX,
+% SOLUTION: Use xeCJK to handle Chinese characters separately
+% This fixes the spacing issue around punctuation in Latin text
+\setmainfont{TeX Gyre Termes}[
+  Ligatures=TeX
+]
+
+\setCJKmainfont{Microsoft YaHei}[
   BoldFont={Microsoft YaHei Bold},
   ItalicFont={Microsoft YaHei},
   BoldItalicFont={Microsoft YaHei Bold}
 ]
 
-\setsansfont{Microsoft YaHei}[
-  BoldFont={Microsoft YaHei Bold}
-]
-
-\setmonofont{Microsoft YaHei}
+\setsansfont{TeX Gyre Heros}
+\setmonofont{TeX Gyre Cursor}
+\setCJKsansfont{Microsoft YaHei}
+\setCJKmonofont{Microsoft YaHei}
 
 % Essential packages
 \usepackage{geometry}
@@ -37,14 +39,6 @@
 \usepackage{amssymb}
 % Removed babel - it conflicts with xeCJK
 \usepackage{microtype}
-
-% CRITICAL: Disable XeTeX interchar completely - MUST be after all packages
-\XeTeXinterchartokenstate=0
-
-% Also ensure it stays disabled at document start
-\AtBeginDocument{%
-  \XeTeXinterchartokenstate=0%
-}
 
 % Page geometry
 \geometry{
