@@ -33,6 +33,18 @@ Thumbs.db
 *.log
 *.out
 *.toc
+*.bbl
+*.blg
+*.fls
+*.fdb_latexmk
+pandoc_compile.log
+Rplots.pdf
+
+# Test files
+test_*.md
+test_*.pdf
+*_test.pdf
+minimal_test.*
 
 # IDE files
 .vscode/
