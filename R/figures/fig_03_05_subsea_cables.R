@@ -1,16 +1,14 @@
 # Figure 3.5: Global Subsea Cable Infrastructure
 # Purpose: Visualize critical undersea telecommunications cables
 # Author: Laurence Wilse-Samson
+# Framework: tmap
 
 library(here)
 library(tidyverse)
 library(sf)
+library(tmap)
 library(rnaturalearth)
 library(rnaturalearthdata)
-library(ggrepel)
-
-# Load the custom theme
-source(here("R", "setup_theme.R"))
 
 # ============================================================================
 # 1. PREPARE GEOGRAPHIC DATA
@@ -21,142 +19,173 @@ world <- ne_countries(scale = "medium", returnclass = "sf")
 
 # Define major subsea cable landing points
 cable_hubs <- tibble(
-  Name = c(
+  name = c(
     # Major Atlantic Hubs
-    "New York", "Virginia Beach", "Miami", "London", "Marseille", "Lisbon",
+    "New York", "Virginia Beach", "Miami", "London", "Marseille",
     # Pacific Hubs
-    "Los Angeles", "San Francisco", "Tokyo", "Hong Kong", "Singapore", "Sydney",
+    "Los Angeles", "Tokyo", "Hong Kong", "Singapore", "Sydney",
     # Strategic Points
-    "Djibouti", "Suez", "Mumbai", "Chennai", "Fortaleza", "Porthcurno",
-    # South Atlantic
-    "Cape Town", "Luanda"
+    "Djibouti", "Mumbai", "Fortaleza",
+    # Other key points
+    "Cape Town", "Dubai"
   ),
-  Lat = c(
-    40.7, 36.85, 25.76, 51.5, 43.3, 38.7,
-    33.9, 37.77, 35.68, 22.3, 1.35, -33.87,
-    11.59, 29.97, 19.07, 13.08, -3.73, 50.07,
-    -33.92, -8.84
+  lat = c(
+    40.7, 36.85, 25.76, 51.5, 43.3,
+    33.9, 35.68, 22.3, 1.35, -33.87,
+    11.59, 19.07, -3.73,
+    -33.92, 25.2
   ),
-  Lon = c(
-    -74.0, -75.98, -80.19, -0.12, 5.37, -9.14,
-    -118.24, -122.42, 139.75, 114.17, 103.82, 151.21,
-    43.15, 32.55, 72.88, 80.27, -38.52, -5.68,
-    18.42, 13.23
+  lon = c(
+    -74.0, -75.98, -80.19, -0.12, 5.37,
+    -118.24, 139.75, 114.17, 103.82, 151.21,
+    43.15, 72.88, -38.52,
+    18.42, 55.27
   ),
-  Importance = c(
-    "Critical", "Critical", "Critical", "Critical", "Critical", "Major",
-    "Critical", "Critical", "Critical", "Critical", "Critical", "Critical",
-    "Strategic", "Strategic", "Critical", "Major", "Major", "Major",
+  importance = c(
+    "Critical", "Critical", "Critical", "Critical", "Critical",
+    "Critical", "Critical", "Critical", "Critical", "Critical",
+    "Strategic", "Critical", "Major",
     "Major", "Major"
   ),
-  Cables = c(
-    15, 12, 10, 20, 12, 8,
-    14, 10, 18, 15, 20, 12,
-    8, 6, 10, 8, 6, 6,
-    5, 4
+  cables = c(
+    15, 12, 10, 20, 12,
+    14, 18, 15, 20, 12,
+    8, 10, 6,
+    5, 8
   )
 )
 
-# Define major cable routes (simplified great circle paths)
-cable_routes <- tibble(
-  Route = c(
-    "Trans-Atlantic North", "Trans-Atlantic South",
-    "Trans-Pacific North", "Trans-Pacific South",
-    "Asia-Europe", "Africa Coast",
-    "Asia-Pacific", "Americas Backbone"
-  ),
-  Start_Lon = c(-74, -74, -122, -118, 114, 51.5, 114, -74),
-  Start_Lat = c(40.7, 25.76, 37.77, 33.9, 22.3, 51.5, 22.3, 40.7),
-  End_Lon = c(-0.12, 5.37, 139.75, 151.21, 5.37, 18.42, 103.82, -38.52),
-  End_Lat = c(51.5, 43.3, 35.68, -33.87, 43.3, -33.92, 1.35, -3.73),
-  Capacity = c("High", "High", "High", "Medium", "High", "Medium", "High", "Medium"),
-  Type = c("Primary", "Primary", "Primary", "Primary", "Primary", "Secondary", "Primary", "Secondary")
+# Create sf object for cable hubs
+cable_hubs_sf <- st_as_sf(cable_hubs, coords = c("lon", "lat"), crs = 4326)
+
+# Define major cable routes as line data
+cable_routes <- tribble(
+  ~route_name, ~start_lon, ~start_lat, ~end_lon, ~end_lat, ~capacity,
+  "Trans-Atlantic (North)", -74, 40.7, -0.12, 51.5, "High",
+  "Trans-Atlantic (South)", -38.52, -3.73, 5.37, 43.3, "High",
+  "Trans-Pacific (North)", -118.24, 33.9, 139.75, 35.68, "High",
+  "Trans-Pacific (South)", -118.24, 33.9, 151.21, -33.87, "Medium",
+  "Asia-Europe via Suez", 103.82, 1.35, 43.15, 11.59, "High",
+  "Africa Coastal", -0.12, 51.5, 18.42, -33.92, "Medium",
+  "Asia-Pacific Backbone", 114.17, 22.3, 103.82, 1.35, "High",
+  "India-SE Asia", 72.88, 19.07, 103.82, 1.35, "High"
 )
 
-# Create sf object for points
-cable_hubs_sf <- st_as_sf(cable_hubs, coords = c("Lon", "Lat"), crs = 4326)
+# Create lines from route coordinates
+cable_lines <- cable_routes %>%
+  rowwise() %>%
+  mutate(
+    geometry = st_sfc(st_linestring(matrix(c(start_lon, end_lon, start_lat, end_lat), ncol = 2)), crs = 4326)
+  ) %>%
+  ungroup() %>%
+  st_as_sf()
 
 # ============================================================================
-# 2. CREATE VISUALIZATION
+# 2. CREATE TMAP VISUALIZATION
 # ============================================================================
 
-p <- ggplot(data = world) +
-  # Base map
-  geom_sf(fill = "#d4d4d4", color = "white", linewidth = 0.2) +
+tmap_mode("plot")
 
-  # Draw cable routes (simplified as straight lines for visibility)
-  geom_segment(data = cable_routes,
-               aes(x = Start_Lon, y = Start_Lat, xend = End_Lon, yend = End_Lat,
-                   color = Capacity, linetype = Type),
-               linewidth = 1.2, alpha = 0.7) +
+# Color palettes
+hub_colors <- c("Critical" = "#d62728", "Strategic" = "#ff7f0e", "Major" = "#2ca02c")
+capacity_colors <- c("High" = "#1f77b4", "Medium" = "#9467bd")
 
-  # Cable hub points
-  geom_point(data = cable_hubs,
-             aes(x = Lon, y = Lat, size = Cables, fill = Importance),
-             shape = 21, color = "black", stroke = 0.5, alpha = 0.85) +
-
-  # Hub labels
-  geom_label_repel(data = cable_hubs %>% filter(Importance == "Critical"),
-                   aes(x = Lon, y = Lat, label = Name),
-                   size = 2.8, fontface = "bold",
-                   box.padding = 0.4, point.padding = 0.3,
-                   segment.color = "gray50", min.segment.length = 0,
-                   fill = "white", alpha = 0.9) +
-
-  # Scales
-  scale_fill_manual(
-    values = c("Critical" = "#d62728", "Strategic" = "#ff7f0e", "Major" = "#2ca02c"),
-    name = "Hub Importance"
-  ) +
-  scale_color_manual(
-    values = c("High" = "#1f77b4", "Medium" = "#9467bd"),
-    name = "Capacity"
-  ) +
-  scale_linetype_manual(
-    values = c("Primary" = "solid", "Secondary" = "dashed"),
-    name = "Route Type"
-  ) +
-  scale_size_continuous(
-    range = c(3, 10),
-    name = "Cable Count"
+# Create the map
+map <- tm_shape(world, bbox = c(-140, -55, 165, 70)) +
+  tm_polygons(
+    fill = "#d4d4d4",
+    col = "white",
+    lwd = 0.2
   ) +
 
-  # Map settings - Pacific centered view would be ideal but Robinson is good
-  coord_sf(xlim = c(-140, 160), ylim = c(-55, 70), expand = FALSE) +
-
-  # Labels
-  labs(
-    title = "Global Subsea Cable Infrastructure",
-    subtitle = "Critical telecommunications backbone connecting continents",
-    caption = paste0(
-      "Source: TeleGeography Submarine Cable Map 2024, ITU data.\n",
-      "Note: Over 95% of intercontinental data travels via subsea cables. ",
-      "Cable routes simplified for visualization."
-    ),
-    x = NULL, y = NULL
+  # Cable routes
+  tm_shape(cable_lines) +
+  tm_lines(
+    col = "capacity",
+    col.scale = tm_scale_categorical(values = capacity_colors),
+    col.legend = tm_legend(title = "Cable Capacity"),
+    lwd = 2,
+    lty = "solid"
   ) +
 
-  # Theme
-  theme_econ_textbook() +
-  theme(
-    panel.background = element_rect(fill = "#b8d4e8"),  # Ocean color
-    panel.grid.major = element_line(color = "white", linewidth = 0.3, alpha = 0.5),
-    axis.text = element_blank(),
-    axis.ticks = element_blank(),
-    legend.position = "bottom",
-    legend.box = "horizontal"
+  # Cable hubs
+  tm_shape(cable_hubs_sf) +
+  tm_symbols(
+    size = "cables",
+    size.scale = tm_scale_continuous(values.scale = 0.4),
+    size.legend = tm_legend(title = "Number of\nCables"),
+    fill = "importance",
+    fill.scale = tm_scale_categorical(values = hub_colors),
+    fill.legend = tm_legend(title = "Hub\nImportance"),
+    col = "black",
+    shape = 21,
+    lwd = 0.5
   ) +
-  guides(
-    fill = guide_legend(order = 1, nrow = 1),
-    color = guide_legend(order = 2, nrow = 1),
-    linetype = guide_legend(order = 3, nrow = 1),
-    size = guide_legend(order = 4, nrow = 1)
+
+  # Labels for critical hubs only
+  tm_shape(cable_hubs_sf %>% filter(importance == "Critical")) +
+  tm_text(
+    text = "name",
+    size = 0.55,
+    col = "black",
+    fontface = "bold",
+    ymod = 1.2,
+    bg.color = "white",
+    bg.alpha = 0.7
+  ) +
+
+  # Cartographic elements
+  tm_scalebar(
+    position = c("left", "bottom"),
+    text.size = 0.5,
+    breaks = c(0, 3000, 6000)
+  ) +
+
+  tm_compass(
+    position = c("right", "top"),
+    size = 1.2
+  ) +
+
+  # Layout
+  tm_title("Global Subsea Cable Infrastructure") +
+
+  tm_layout(
+    main.title.size = 1.2,
+    main.title.fontface = "bold",
+    bg.color = "#b8d4e8",
+    frame = TRUE,
+    frame.lwd = 1,
+    legend.outside = TRUE,
+    legend.outside.position = "right",
+    legend.frame = FALSE,
+    legend.bg.color = "white",
+    legend.bg.alpha = 0.8,
+    attr.outside = TRUE
+  ) +
+
+  tm_credits(
+    "Source: TeleGeography Submarine Cable Map 2024\nNote: >95% of intercontinental data travels via subsea cables",
+    position = c("left", "bottom"),
+    size = 0.5
   )
 
 # ============================================================================
 # 3. SAVE OUTPUT
 # ============================================================================
 
-save_econ_figure(here("figures", "fig_03_05_subsea_cables.png"), p, width = 14, height = 8)
+tmap_save(
+  map,
+  filename = here("figures", "fig_03_05_subsea_cables.png"),
+  width = 14,
+  height = 8,
+  dpi = 300
+)
 
-cat("\nFigure 3.5 Subsea Cables map created successfully!\n")
+tmap_save(
+  map,
+  filename = here("figures", "fig_03_05_subsea_cables.pdf"),
+  width = 14,
+  height = 8
+)
+
+cat("\nFigure 3.5: Subsea Cables map created successfully!\n")

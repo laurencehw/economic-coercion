@@ -1,16 +1,14 @@
 # Maritime Chokepoints for Energy Transit (Figure 3.4)
 # Purpose: Visualize critical straits and canals for global energy trade
 # Author: Laurence Wilse-Samson
+# Framework: tmap
 
 library(here)
 library(tidyverse)
 library(sf)
+library(tmap)
 library(rnaturalearth)
 library(rnaturalearthdata)
-library(ggrepel)
-
-# Load the custom theme
-source(here("R", "setup_theme.R"))
 
 # ============================================================================
 # 1. PREPARE GEOGRAPHIC DATA
@@ -19,72 +17,121 @@ source(here("R", "setup_theme.R"))
 # Load world map
 world <- ne_countries(scale = "medium", returnclass = "sf")
 
-# Define Chokepoints Data manually
+# Define Chokepoints Data
 chokepoints <- tibble(
-  Name = c("Strait of Hormuz", "Strait of Malacca", "Suez Canal", 
-           "Bab el-Mandeb", "Panama Canal", "Turkish Straits", "Danish Straits"),
-  Lat = c(26.5667, 4.0, 30.5852, 12.5833, 9.076, 40.7, 55.5),
-  Lon = c(56.2500, 100.0, 32.265, 43.3333, -79.68, 28.5, 11.0),
-  Volume_Oil = c("21.0 Mb/d", "16.0 Mb/d", "5.5 Mb/d", "6.2 Mb/d", "0.0 Mb/d", "2.4 Mb/d", "3.2 Mb/d"),
-  Importance = c("High", "High", "High", "High", "Medium", "Medium", "Medium"),
-  Type = c("Strait", "Strait", "Canal", "Strait", "Canal", "Strait", "Strait")
+  name = c("Strait of Hormuz", "Strait of Malacca", "Suez Canal",
+           "Bab el-Mandeb", "Panama Canal", "Turkish Straits",
+           "Danish Straits", "Cape of Good Hope"),
+  lat = c(26.57, 4.0, 30.59, 12.58, 9.08, 40.70, 55.50, -34.35),
+  lon = c(56.25, 100.0, 32.27, 43.33, -79.68, 28.50, 11.00, 18.50),
+  oil_volume = c(21.0, 16.0, 5.5, 6.2, 1.0, 2.4, 3.2, 6.0),
+  importance = c("Critical", "Critical", "Critical", "Critical",
+                 "Major", "Major", "Major", "Major"),
+  type = c("Strait", "Strait", "Canal", "Strait",
+           "Canal", "Strait", "Strait", "Cape")
 )
 
 # Create sf object for points
-chokepoints_sf <- st_as_sf(chokepoints, coords = c("Lon", "Lat"), crs = 4326)
+chokepoints_sf <- st_as_sf(chokepoints, coords = c("lon", "lat"), crs = 4326)
 
 # ============================================================================
-# 2. CREATE VISUALIZATION
+# 2. CREATE TMAP VISUALIZATION
 # ============================================================================
 
-# Create map
-p <- ggplot(data = world) +
-  # Base map
-  geom_sf(fill = "#f0f0f0", color = "white", size = 0.2) +
-  
-  # Chokepoint markers
-  geom_point(data = chokepoints, aes(x = Lon, y = Lat, color = Importance), 
-             size = 4, alpha = 0.8) +
-  geom_point(data = chokepoints, aes(x = Lon, y = Lat), 
-             size = 4, shape = 1, color = "black") + # Outline
-  
-  # Labels
-  geom_label_repel(data = chokepoints, aes(x = Lon, y = Lat, label = Name),
-                   box.padding = 0.5, point.padding = 0.5,
-                   segment.color = "gray50", size = 3.5, fontface = "bold",
-                   min.segment.length = 0) +
-  
-  # Volume labels (sub-labels)
-  geom_text_repel(data = chokepoints, aes(x = Lon, y = Lat, label = Volume_Oil),
-                  nudge_y = -3, size = 3, color = "gray30", segment.alpha = 0) +
-  
-  # Custom colors
-  scale_color_manual(values = c("High" = "#d62728", "Medium" = "#ff7f0e")) +
-  
-  # Map settings
-  coord_sf(xlim = c(-100, 140), ylim = c(-20, 70), expand = FALSE) +
-  
-  labs(
-    title = "Strategic Maritime Chokepoints",
-    subtitle = "Critical bottlenecks for global energy and trade flows",
-    caption = "Source: U.S. Energy Information Administration (EIA), World Oil Transit Chokepoints.",
-    x = NULL, y = NULL, color = "Strategic Importance"
+# Set tmap mode to static plotting
+tmap_mode("plot")
+
+# Define color palette
+importance_colors <- c("Critical" = "#d62728", "Major" = "#ff7f0e")
+
+# Create the map
+map <- tm_shape(world, bbox = c(-100, -40, 145, 70)) +
+  tm_polygons(
+    fill = "#e8e8e8",
+    col = "white",
+    lwd = 0.3
   ) +
-  theme_econ_textbook() +
-  theme(
-    panel.background = element_rect(fill = "#e6f3ff"), # Ocean color
-    panel.grid.major = element_blank(),
-    axis.text = element_blank(),
-    axis.ticks = element_blank(),
-    legend.position = "bottom"
+
+  # Add chokepoint symbols
+tm_shape(chokepoints_sf) +
+  tm_symbols(
+    size = "oil_volume",
+    size.scale = tm_scale_continuous(values.scale = 0.8),
+    size.legend = tm_legend(title = "Oil Transit\n(million b/d)"),
+    fill = "importance",
+    fill.scale = tm_scale_categorical(values = importance_colors),
+    fill.legend = tm_legend(title = "Strategic\nImportance"),
+    col = "black",
+    shape = 21,
+    lwd = 1
+  ) +
+
+  # Add labels
+  tm_text(
+    text = "name",
+    size = 0.7,
+    col = "black",
+    fontface = "bold",
+    ymod = 1.5,
+    bg.color = "white",
+    bg.alpha = 0.7
+  ) +
+
+  # Cartographic elements
+  tm_scalebar(
+    position = c("left", "bottom"),
+    text.size = 0.6,
+    breaks = c(0, 2000, 4000)
+  ) +
+
+  tm_compass(
+    position = c("right", "top"),
+    size = 1.5
+  ) +
+
+  # Layout
+  tm_title("Strategic Maritime Chokepoints") +
+
+  tm_layout(
+    main.title.size = 1.2,
+    main.title.fontface = "bold",
+    bg.color = "#b8d4e8",  # Ocean color
+    frame = TRUE,
+    frame.lwd = 1,
+    legend.outside = TRUE,
+    legend.outside.position = "right",
+    legend.frame = FALSE,
+    legend.bg.color = "white",
+    legend.bg.alpha = 0.8,
+    attr.outside = TRUE
+  ) +
+
+  tm_credits(
+    "Source: U.S. Energy Information Administration (EIA)\nWorld Oil Transit Chokepoints, 2023",
+    position = c("left", "bottom"),
+    size = 0.6
   )
 
 # ============================================================================
 # 3. SAVE OUTPUT
 # ============================================================================
 
-# Save
-save_econ_figure(here("figures", "fig_03_04_chokepoints.png"), p, width = 12, height = 7)
+# Save as PNG
+tmap_save(
+  map,
+  filename = here("figures", "fig_03_04_chokepoints.png"),
+  width = 12,
+  height = 7,
+  dpi = 300
+)
 
-cat("\nFigure 3.4 Map Created Successfully.\n")
-print(chokepoints)
+# Save as PDF
+tmap_save(
+  map,
+  filename = here("figures", "fig_03_04_chokepoints.pdf"),
+  width = 12,
+  height = 7
+)
+
+cat("\nFigure 3.4: Maritime Chokepoints map created successfully!\n")
+print(chokepoints %>% select(name, oil_volume, importance))

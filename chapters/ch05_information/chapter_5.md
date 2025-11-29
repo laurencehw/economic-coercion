@@ -26,6 +26,9 @@ A Chinese Perspective Box explores Beijing's concept of **cyber sovereignty** (ç
 
 The information domain represents competition's cutting edge where conventional tools of economic statecraft face limitations. Traditional export controls targeting physical goods struggle to restrict software that crosses borders intangibly. Financial sanctions targeting specific entities encounter difficulties addressing cyber operations conducted through proxies and shell companies with shifting identities. Tariffs and quotas prove irrelevant for digital services delivered through internet connections. This domain requires new conceptual frameworks and policy toolsâ€”combining technical measures (cyber defenses, encryption standards), regulatory approaches (data localization responses, platform governance), standards engagement (technical committee participation, allied coordination), and narrative contestation (countering disinformation, promoting democratic technology governance norms). Understanding information domain competition is essential not just for comprehending U.S.-China strategic rivalry but for navigating the broader transformation of economic and security competition in an increasingly digital world.
 
+![Global Subsea Cable Infrastructure](figures/fig_03_05_subsea_cables.png)
+*Figure 5.1: Global subsea telecommunications cable infrastructure. Over 95% of intercontinental data travels via undersea cables, making landing points and cable routes critical chokepoints for global connectivity. Critical hubs (red) include major data centers and internet exchange points.*
+
 ---
 
 ## Cyber Operations and Espionage

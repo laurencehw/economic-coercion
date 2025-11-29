@@ -1,199 +1,219 @@
 # Figure 3.8: Russian Energy Pipeline Infrastructure
 # Purpose: Visualize Russian oil and gas pipelines to Europe and Asia
 # Author: Laurence Wilse-Samson
+# Framework: tmap
 
 library(here)
 library(tidyverse)
 library(sf)
+library(tmap)
 library(rnaturalearth)
 library(rnaturalearthdata)
-library(ggrepel)
-
-# Load the custom theme
-source(here("R", "setup_theme.R"))
 
 # ============================================================================
 # 1. PREPARE GEOGRAPHIC DATA
 # ============================================================================
 
-# Load world map - focus on Europe and Asia
 world <- ne_countries(scale = "medium", returnclass = "sf")
 
-# Define key pipeline nodes (simplified)
+# Filter to Eurasia
+eurasia <- world %>%
+  filter(continent %in% c("Europe", "Asia") | sovereignt == "Russia")
+
+# Define key pipeline nodes
 pipeline_nodes <- tibble(
-  Name = c(
+  name = c(
     # Russian Origins
-    "Yamal", "Urengoy", "Yamburg", "Sakhalin",
-    # Transit/Key Points
-    "Sudzha", "Uzhgorod", "Lubmin", "Wilhelmshaven",
-    # European Destinations
-    "Baumgarten", "Berlin", "Prague", "Waidhaus",
-    # Asian Destinations
-    "Daqing", "Vladivostok", "Beijing",
+    "Yamal", "Urengoy",
+    # European Terminals
+    "Lubmin", "Baumgarten", "Waidhaus",
+    # Transit Points
+    "Sudzha", "Velke Kapusany",
     # Turkey Route
-    "Anapa", "Istanbul", "Ankara"
+    "Anapa", "Istanbul",
+    # Asian Destinations
+    "Blagoveshchensk", "Vladivostok"
   ),
-  Lat = c(
-    67.5, 66.0, 68.0, 51.0,
-    51.2, 48.8, 54.14, 53.52,
-    48.35, 52.52, 50.08, 49.65,
-    46.58, 43.13, 39.9,
-    44.89, 41.01, 39.93
+  lat = c(
+    67.5, 66.0,
+    54.14, 48.35, 49.65,
+    51.2, 48.65,
+    44.89, 41.01,
+    50.27, 43.13
   ),
-  Lon = c(
-    75.5, 76.6, 75.9, 143.0,
-    35.3, 22.4, 13.67, 8.14,
-    16.93, 13.4, 14.43, 12.19,
-    124.87, 131.91, 116.4,
-    37.32, 28.98, 32.87
+  lon = c(
+    75.5, 76.6,
+    13.67, 16.93, 12.19,
+    35.3, 22.08,
+    37.32, 28.98,
+    127.52, 131.91
   ),
-  Type = c(
-    "Source", "Source", "Source", "Source",
-    "Transit", "Transit", "Terminal", "Terminal",
-    "Destination", "Destination", "Destination", "Destination",
-    "Destination", "Transit", "Destination",
-    "Transit", "Transit", "Destination"
+  type = c(
+    "Source", "Source",
+    "Terminal", "Terminal", "Terminal",
+    "Transit", "Transit",
+    "Transit", "Terminal",
+    "Transit", "Terminal"
   )
 )
 
-# Define major pipelines
-pipelines <- tibble(
-  Pipeline = c(
-    # To Europe via Ukraine
-    "Brotherhood", "Soyuz",
-    # To Europe via Belarus/Poland
-    "Yamal-Europe",
-    # Nord Stream (now damaged)
-    "Nord Stream 1", "Nord Stream 2",
-    # TurkStream
-    "TurkStream",
-    # To Asia
-    "Power of Siberia", "ESPO",
-    # Blue Stream
-    "Blue Stream"
-  ),
-  Start_Lat = c(66, 66, 66, 67.5, 67.5, 66, 51, 51, 66),
-  Start_Lon = c(76, 76, 75, 75, 75, 76, 143, 143, 76),
-  Via_Lat = c(51.2, 51.2, 52.5, 60, 60, 44.89, NA, 43.13, NA),
-  Via_Lon = c(35.3, 35.3, 24, 25, 25, 37.32, NA, 131.91, NA),
-  End_Lat = c(48.35, 50.08, 52.52, 54.14, 54.14, 39.93, 39.9, 46.58, 41.01),
-  End_Lon = c(16.93, 14.43, 13.4, 13.67, 13.67, 32.87, 116.4, 124.87, 28.98),
-  Type = c(
-    "Gas", "Gas", "Gas", "Gas", "Gas", "Gas", "Gas", "Oil", "Gas"
-  ),
-  Status = c(
-    "Reduced", "Reduced", "Reduced", "Damaged", "Never Operational",
-    "Operational", "Operational", "Operational", "Operational"
-  ),
-  Capacity_bcm = c(100, 32, 33, 55, 55, 31.5, 38, NA, 16)
+# Create sf object for nodes
+nodes_sf <- st_as_sf(pipeline_nodes, coords = c("lon", "lat"), crs = 4326)
+
+# Define major pipeline routes
+pipelines <- tribble(
+  ~name, ~start_lon, ~start_lat, ~end_lon, ~end_lat, ~fuel, ~status, ~capacity,
+  # Nord Stream (to Germany via Baltic)
+  "Nord Stream 1/2", 76, 66, 13.67, 54.14, "Gas", "Damaged", 110,
+  # Yamal-Europe (via Belarus/Poland)
+  "Yamal-Europe", 75.5, 67.5, 12.19, 49.65, "Gas", "Reduced", 33,
+  # Brotherhood (via Ukraine)
+  "Brotherhood", 76, 66, 16.93, 48.35, "Gas", "Reduced", 100,
+  # TurkStream
+  "TurkStream", 37.32, 44.89, 28.98, 41.01, "Gas", "Operational", 31.5,
+  # Power of Siberia (to China)
+  "Power of Siberia", 127.52, 50.27, 116.4, 39.9, "Gas", "Operational", 38,
+  # ESPO Oil Pipeline
+  "ESPO Pipeline", 76, 66, 131.91, 43.13, "Oil", "Operational", NA
 )
 
+# Create line geometries
+pipeline_lines <- pipelines %>%
+  rowwise() %>%
+  mutate(
+    geometry = st_sfc(
+      st_linestring(matrix(c(start_lon, end_lon, start_lat, end_lat), ncol = 2)),
+      crs = 4326
+    )
+  ) %>%
+  ungroup() %>%
+  st_as_sf()
+
 # ============================================================================
-# 2. CREATE VISUALIZATION
+# 2. CREATE TMAP VISUALIZATION
 # ============================================================================
 
-# Filter to Europe/Central Asia region
-world_focus <- world %>%
-  filter(region_wb %in% c("Europe & Central Asia", "East Asia & Pacific", "Middle East & North Africa") |
-           sovereignt == "Russia")
+tmap_mode("plot")
 
-p <- ggplot() +
-  # Base map
-  geom_sf(data = world_focus, fill = "#e8e8e8", color = "white", linewidth = 0.3) +
+# Color palettes
+status_colors <- c(
+  "Operational" = "#2ca02c",
+  "Reduced" = "#ff7f0e",
+  "Damaged" = "#d62728"
+)
+
+node_colors <- c(
+  "Source" = "#d62728",
+  "Transit" = "#ff7f0e",
+  "Terminal" = "#1f77b4"
+)
+
+# Create the map
+map <- tm_shape(eurasia, bbox = c(-10, 35, 145, 75)) +
+  tm_polygons(
+    fill = "#e8e8e8",
+    col = "white",
+    lwd = 0.3
+  ) +
 
   # Highlight Russia
-  geom_sf(data = world_focus %>% filter(sovereignt == "Russia"),
-          fill = "#ffcccc", color = "white", linewidth = 0.3) +
+  tm_shape(eurasia %>% filter(sovereignt == "Russia")) +
+  tm_polygons(
+    fill = "#ffcccc",
+    col = "white",
+    lwd = 0.3
+  ) +
 
-  # Draw pipelines - operational
-  geom_segment(data = pipelines %>% filter(Status == "Operational"),
-               aes(x = Start_Lon, y = Start_Lat, xend = End_Lon, yend = End_Lat,
-                   linetype = Type),
-               color = "#2ca02c", linewidth = 2, alpha = 0.8) +
-
-  # Draw pipelines - reduced flow
-  geom_segment(data = pipelines %>% filter(Status == "Reduced"),
-               aes(x = Start_Lon, y = Start_Lat, xend = End_Lon, yend = End_Lat,
-                   linetype = Type),
-               color = "#ff7f0e", linewidth = 2, alpha = 0.8) +
-
-  # Draw pipelines - damaged/closed
-  geom_segment(data = pipelines %>% filter(Status %in% c("Damaged", "Never Operational")),
-               aes(x = Start_Lon, y = Start_Lat, xend = End_Lon, yend = End_Lat,
-                   linetype = Type),
-               color = "#d62728", linewidth = 2, alpha = 0.6) +
+  # Pipeline routes
+  tm_shape(pipeline_lines) +
+  tm_lines(
+    col = "status",
+    col.scale = tm_scale_categorical(values = status_colors),
+    col.legend = tm_legend(title = "Pipeline Status"),
+    lwd = "capacity",
+    lwd.scale = tm_scale_continuous(values.scale = 0.08, ticks = c(30, 60, 100)),
+    lwd.legend = tm_legend(title = "Capacity\n(bcm/year)"),
+    lty = "fuel",
+    lty.scale = tm_scale_categorical(values = c("Gas" = "solid", "Oil" = "dashed")),
+    lty.legend = tm_legend(title = "Fuel Type")
+  ) +
 
   # Pipeline nodes
-  geom_point(data = pipeline_nodes,
-             aes(x = Lon, y = Lat, fill = Type),
-             shape = 21, size = 4, color = "black", stroke = 0.5) +
+  tm_shape(nodes_sf) +
+  tm_symbols(
+    size = 0.8,
+    fill = "type",
+    fill.scale = tm_scale_categorical(values = node_colors),
+    fill.legend = tm_legend(title = "Node Type"),
+    col = "black",
+    shape = 21,
+    lwd = 0.5
+  ) +
 
   # Node labels
-  geom_label_repel(
-    data = pipeline_nodes %>% filter(Type %in% c("Source", "Terminal", "Destination")),
-    aes(x = Lon, y = Lat, label = Name),
-    size = 2.5, fontface = "bold",
-    box.padding = 0.4, point.padding = 0.3,
-    segment.color = "gray50", min.segment.length = 0,
-    fill = "white", alpha = 0.9
+  tm_shape(nodes_sf %>% filter(type %in% c("Source", "Terminal"))) +
+  tm_text(
+    text = "name",
+    size = 0.5,
+    col = "black",
+    fontface = "bold",
+    ymod = 1.0,
+    bg.color = "white",
+    bg.alpha = 0.7
   ) +
 
-  # Scales
-  scale_fill_manual(
-    values = c("Source" = "#d62728", "Transit" = "#ff7f0e",
-               "Terminal" = "#1f77b4", "Destination" = "#2ca02c"),
-    name = "Node Type"
-  ) +
-  scale_linetype_manual(
-    values = c("Gas" = "solid", "Oil" = "dashed"),
-    name = "Pipeline Type"
+  # Cartographic elements
+  tm_scalebar(
+    position = c("left", "bottom"),
+    text.size = 0.5,
+    breaks = c(0, 1000, 2000)
   ) +
 
-  # Map settings
-  coord_sf(xlim = c(-10, 145), ylim = c(35, 75), expand = FALSE) +
-
-  # Add legend for status (manual)
-  annotate("segment", x = 0, xend = 8, y = 38, yend = 38,
-           color = "#2ca02c", linewidth = 2) +
-  annotate("text", x = 10, y = 38, label = "Operational", hjust = 0, size = 3) +
-  annotate("segment", x = 25, xend = 33, y = 38, yend = 38,
-           color = "#ff7f0e", linewidth = 2) +
-  annotate("text", x = 35, y = 38, label = "Reduced Flow", hjust = 0, size = 3) +
-  annotate("segment", x = 55, xend = 63, y = 38, yend = 38,
-           color = "#d62728", linewidth = 2) +
-  annotate("text", x = 65, y = 38, label = "Damaged/Closed", hjust = 0, size = 3) +
-
-  # Labels
-  labs(
-    title = "Russian Energy Pipeline Infrastructure",
-    subtitle = "Oil and gas pipelines to Europe and Asia; status as of 2024",
-    caption = paste0(
-      "Sources: Gazprom, Transneft, IEA, European Commission.\n",
-      "Note: Nord Stream pipelines damaged in September 2022. ",
-      "Ukraine transit significantly reduced since February 2022 invasion."
-    ),
-    x = NULL, y = NULL
+  tm_compass(
+    position = c("right", "top"),
+    size = 1.2
   ) +
 
-  # Theme
-  theme_econ_textbook() +
-  theme(
-    panel.background = element_rect(fill = "#d4e8f7"),
-    panel.grid.major = element_line(color = "white", linewidth = 0.3),
-    axis.text = element_blank(),
-    axis.ticks = element_blank(),
-    legend.position = "bottom",
-    legend.box = "horizontal"
+  # Layout
+  tm_title("Russian Energy Pipeline Infrastructure") +
+
+  tm_layout(
+    main.title.size = 1.1,
+    main.title.fontface = "bold",
+    bg.color = "#d4e8f7",
+    frame = TRUE,
+    frame.lwd = 1,
+    legend.outside = TRUE,
+    legend.outside.position = "right",
+    legend.frame = FALSE,
+    legend.bg.color = "white",
+    legend.bg.alpha = 0.8,
+    attr.outside = TRUE
   ) +
-  guides(
-    fill = guide_legend(order = 1, nrow = 1, override.aes = list(size = 5)),
-    linetype = guide_legend(order = 2, nrow = 1)
+
+  tm_credits(
+    "Source: Gazprom, Transneft, IEA (2024)\nNord Stream damaged Sept. 2022; Ukraine transit reduced since Feb. 2022",
+    position = c("left", "bottom"),
+    size = 0.45
   )
 
 # ============================================================================
 # 3. SAVE OUTPUT
 # ============================================================================
 
-save_econ_figure(here("figures", "fig_03_08_russian_pipelines.png"), p, width = 14, height = 8)
+tmap_save(
+  map,
+  filename = here("figures", "fig_03_08_russian_pipelines.png"),
+  width = 14,
+  height = 8,
+  dpi = 300
+)
 
-cat("\nFigure 3.8 Russian Pipelines map created successfully!\n")
+tmap_save(
+  map,
+  filename = here("figures", "fig_03_08_russian_pipelines.pdf"),
+  width = 14,
+  height = 8
+)
+
+cat("\nFigure 3.8: Russian Pipelines map created successfully!\n")
