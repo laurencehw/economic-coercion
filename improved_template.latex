@@ -76,27 +76,27 @@
     pdfstartview=FitH
 }
 
-% Chapter formatting - simplified to avoid duplicate numbering
+% Chapter formatting - with proper numbering
 \titleformat{\chapter}[display]
   {\normalfont\huge\bfseries}
-  {}
-  {0pt}
-  {\thechapter.\ }
-\titlespacing*{\chapter}{0pt}{-20pt}{40pt}
+  {\chaptertitlename\ \thechapter}
+  {20pt}
+  {\Huge}
+\titlespacing*{\chapter}{0pt}{0pt}{40pt}
 
-% Section formatting - remove duplicate numbers
+% Section formatting - with proper numbering
 \titleformat{\section}
   {\normalfont\Large\bfseries}
+  {\thesection}
+  {1em}
   {}
-  {0pt}
-  {\thesection\ }
 \titlespacing*{\section}{0pt}{3.5ex plus 1ex minus .2ex}{2.3ex plus .2ex}
 
 \titleformat{\subsection}
   {\normalfont\large\bfseries}
+  {\thesubsection}
+  {1em}
   {}
-  {0pt}
-  {\thesubsection\ }
 
 % Headers and footers
 \pagestyle{fancy}
@@ -104,7 +104,7 @@
 \fancyhead[L]{\small\nouppercase{\leftmark}}
 \fancyhead[R]{\small\thepage}
 \renewcommand{\headrulewidth}{0.4pt}
-\renewcommand{\chaptermark}[1]{\markboth{\thechapter.\ #1}{}}
+\renewcommand{\chaptermark}[1]{\markboth{Chapter \thechapter.\ #1}{}}
 
 % Plain style for chapter pages
 \fancypagestyle{plain}{
@@ -204,6 +204,9 @@ $if(lof)$
 \listoffigures
 \clearpage
 $endif$
+
+% Switch to main matter - arabic page numbers, chapter numbering enabled
+\mainmatter
 
 % Body
 $body$
