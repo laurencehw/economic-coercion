@@ -172,7 +172,7 @@ The winter of 2022-2023 was Europe's moment of maximum vulnerability. Russian ga
 
 ### Energy Transition: Trading Old Dependencies for New
 
-![Renewable Energy Manufacturing - China's Share](figures/figure_3_6_renewable_manufacturing.png)
+![Renewable Energy Manufacturing - China's Share](figures/fig_03_06_renewable_manufacturing.png)
 
 The global energy transition away from fossil fuels toward renewable energy and electrification creates new resource dependencies that may prove as consequential as oil and gas. Solar panels, wind turbines, and batteries require minerals, manufacturing, and supply chains that exhibit their own chokepoints—many concentrated in China. Escaping dependence on Middle Eastern oil risks creating dependence on Chinese critical minerals processing and clean energy manufacturing.
 

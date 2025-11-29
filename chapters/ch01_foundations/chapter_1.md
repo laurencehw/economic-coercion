@@ -142,7 +142,7 @@ American policymakers embraced a theory of transformative engagement: integratin
 
 China's accession to the World Trade Organization in 2001 accelerated integration dramatically. Trade between the US and China grew from $116 billion in 2000 to over $560 billion by 2008. American companies invested heavily in Chinese manufacturing, taking advantage of low labor costs and increasingly sophisticated supply chains. China became "the world's factory," integral to global production networks for electronics, apparel, machinery, and countless other goods. The relationship appeared to validate the liberal assumption that economic interdependence promotes cooperation.
 
-![US-China Trade Volume and Key Events (2000-2024)](figures/figure_1_2_us_china_trade.png)
+![US-China Trade Volume and Key Events (2000-2024)](figures/fig_01_02_us_china_trade.png)
 
 But integration also created structural dependencies and distributional consequences that would later fuel tensions. American manufacturing employment declined sharply—research by Autor, Dorn, and Hanson estimated that competition from Chinese imports eliminated 2.4 million U.S. jobs between 1999 and 2011. China accumulated massive foreign exchange reserves ($2 trillion by 2008) and became the largest foreign holder of U.S. Treasury securities, creating mutual financial dependencies. Technology transfer—sometimes voluntary through joint ventures, sometimes coerced through requirements for market access, sometimes illicit through cyber espionage—accelerated China's industrial upgrading.
 

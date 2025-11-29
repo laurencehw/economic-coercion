@@ -5,7 +5,8 @@
       "Bash(rm:*)",
       "Bash(mkdir:*)",
       "Bash(git add:*)",
-      "Bash(git commit:*)"
+      "Bash(git commit:*)",
+      "Bash(powershell -ExecutionPolicy Bypass -File compile_improved_textbook.ps1)"
     ],
     "deny": [],
     "ask": []

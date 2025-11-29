@@ -532,7 +532,7 @@ Governments sometimes impose sanctions to appear active while avoiding difficult
 
 **Quantitative studies** (Hufbauer et al. 2007; Morgan et al. 2009; Biersteker et al. 2016) estimate sanctions success rates at 20-40%, depending on success definition and case selection.
 
-![Sanctions Success Rates by Objective and Era](figures/figure_9_3_sanctions_success.png)
+![Sanctions Success Rates by Objective and Era](figures/fig_09_03_sanctions_success.png)
 
 **Measurement challenges**:
 

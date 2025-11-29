@@ -116,7 +116,7 @@ This complexity means that no single country can produce advanced semiconductors
 
 ### Why Taiwan Matters
 
-![TSMC Global Market Share and Tech Dominance](figures/figure_2_2_tsmc_dominance.png)
+![TSMC Global Market Share and Tech Dominance](figures/fig_02_02_tsmc_dominance.png)
 
 Taiwan Semiconductor Manufacturing Company—TSMC—stands at the center of global semiconductor dependence, and by extension, at the center of tensions between the United States and China. Understanding TSMC's dominance and the barriers to replicating it is essential for assessing supply chain vulnerability and restructuring possibilities.
 
@@ -192,7 +192,7 @@ The global energy transition—the shift from fossil fuels to renewable energy a
 
 ### Minerals for Energy Transition
 
-![Critical Minerals Supply Chain Concentration](figures/figure_2_3_critical_minerals.png)
+![Critical Minerals Supply Chain Concentration](figures/fig_02_03_critical_minerals.png)
 
 The International Energy Agency estimates that reaching net-zero emissions by 2050 will require six times more mineral inputs in 2040 than today. This demand surge reflects the mineral intensity of clean energy technologies: an electric vehicle requires six times the mineral inputs of a conventional car (primarily lithium, nickel, cobalt, and graphite for batteries, plus rare earths for motors); an onshore wind farm requires nine times the mineral resources of a gas-fired power plant (copper, rare earths for magnets, steel); solar panels require substantial silicon, silver, and other materials. The energy transition is, fundamentally, a materials transition—and control over these materials confers strategic leverage.
 

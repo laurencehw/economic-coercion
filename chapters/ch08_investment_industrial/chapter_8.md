@@ -119,7 +119,7 @@ FIRRMA authorized increased CFIUS staffing and funding (from ~20 full-time emplo
 
 ### Impact on Chinese Investment: Near-Total Collapse
 
-![Chinese FDI in U.S. and Europe (2008-2024)](figures/figure_8_2_chinese_fdi.png)
+![Chinese FDI in U.S. and Europe (2008-2024)](figures/fig_08_02_chinese_fdi.png)
 
 FIRRMA's impact on Chinese investment was immediate and severe. Chinese direct investment in the United States:
 
