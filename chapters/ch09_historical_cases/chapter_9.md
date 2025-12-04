@@ -78,7 +78,7 @@ Despite limitations, scholarly consensus holds CoCom meaningfully degraded Sovie
 
 ### Grain Embargo (1980): Unilateral Failure
 
-![Soviet Grain Imports by Source Country (1975-1985)](figures/figure_9_1_soviet_grain.png)
+![Soviet Grain Imports by Source Country (1975-1985)](../../figures/figure_9_1_soviet_grain.png)
 
 **Background and Implementation**
 
@@ -532,7 +532,7 @@ Governments sometimes impose sanctions to appear active while avoiding difficult
 
 **Quantitative studies** (Hufbauer et al. 2007; Morgan et al. 2009; Biersteker et al. 2016) estimate sanctions success rates at 20-40%, depending on success definition and case selection.
 
-![Sanctions Success Rates by Objective and Era](figures/fig_09_03_sanctions_success.png)
+![Sanctions Success Rates by Objective and Era](../../figures/fig_09_03_sanctions_success.png)
 
 **Measurement challenges**:
 
