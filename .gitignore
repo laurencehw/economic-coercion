@@ -11,13 +11,26 @@ data/raw/*
 *.pdf
 !references/key_documents/*.pdf
 
+# Microsoft Office files (potentially copyrighted)
+*.pptx
+*.ppt
+*.docx
+*.doc
+
+# Literature folder (copyrighted materials)
+_literature/
+
 # Google Drive files
 *.gdoc
 *.gsheet
 *.gslides
 
-# Windows shortcuts
+# Windows shortcuts and artifacts
 *.lnk
+nul
+
+# Local/sensitive settings
+.claude/settings.local.json
 
 # Temporary files
 *.tmp
