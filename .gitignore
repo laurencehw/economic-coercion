@@ -32,6 +32,16 @@ nul
 # Local/sensitive settings
 .claude/settings.local.json
 
+# Internal planning/status docs
+docs/
+
+# Build scripts and templates
+*.ps1
+*.latex
+
+# Old Python figure scripts (migrated to R)
+figures/*.py
+
 # Temporary files
 *.tmp
 *.bak
