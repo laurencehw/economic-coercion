@@ -34,7 +34,7 @@ Financial sanctions' effectiveness derives from the U.S. dollar's dominant posit
 
 ### The Dollar's Privileged Position
 
-![Foreign Holdings of U.S. Treasury Securities](figures/fig_07_03_treasury_holdings.png)
+![Foreign Holdings of U.S. Treasury Securities](../../figures/fig_07_03_treasury_holdings.png)
 
 **Reserve Currency Status**
 
@@ -84,7 +84,7 @@ Approximately $13 trillion in non-U.S. dollar-denominated debt exists (2024)—d
 
 **Society for Worldwide Interbank Financial Telecommunication (SWIFT)**
 
-![Currency Share of Global Payments (SWIFT)](figures/fig_07_01_swift_currencies.png)
+![Currency Share of Global Payments (SWIFT)](../../figures/fig_07_01_swift_currencies.png)
 
 SWIFT is not a payment system but a secure messaging network transmitting payment instructions between 11,000+ financial institutions in 200+ countries. Key characteristics:
 
@@ -266,7 +266,7 @@ When UN Security Council adopts sanctions resolutions (e.g., North Korea, Iran h
 
 ### Types of Sanctions Programs
 
-![Active U.S. Sanctions Programs by Type](figures/figure_7_2_sanctions_programs.png)
+![Active U.S. Sanctions Programs by Type](../../figures/figure_7_2_sanctions_programs.png)
 
 OFAC administers multiple sanctions program types:
 
@@ -642,7 +642,7 @@ Aggressive U.S. use of financial sanctions—particularly freezing Russia's cent
 
 **Sanctions Vulnerability**
 
-![Russian Central Bank Assets Frozen in 2022](figures/figure_7_4_russian_frozen_assets.png)
+![Russian Central Bank Assets Frozen in 2022](../../figures/figure_7_4_russian_frozen_assets.png)
 
 States facing sanctions or anticipating future sanctions seek alternatives to dollar-denominated transactions and U.S.-connected financial infrastructure:
 

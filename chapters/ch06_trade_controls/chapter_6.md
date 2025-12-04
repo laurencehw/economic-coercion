@@ -61,7 +61,7 @@ Section 301 requires USTR investigation (initiated by petition or self-initiated
 
 ### The U.S.-China Trade War: Escalation and Impacts
 
-![U.S.-China Tariff Rates and Trade Flows (2018-2024)](figures/fig_06_01_us_china_tariffs.png)
+![U.S.-China Tariff Rates and Trade Flows (2018-2024)](../../figures/fig_06_01_us_china_tariffs.png)
 
 The 2018-2024 U.S.-China trade war illustrates modern tariff-based coercion dynamics. What began as targeted technology-sector tariffs escalated through tit-for-tat retaliation into economy-wide restrictions affecting consumer goods, agricultural products, and industrial inputs.
 
@@ -287,7 +287,7 @@ AG faces fundamental challenge: Most controlled chemicals and equipment have leg
 
 The United States maintains the world's most extensive unilateral export control system, codified in the **Export Administration Regulations (EAR)**, 15 C.F.R. Part 730 et seq. The Commerce Department's Bureau of Industry and Security (BIS) administers EAR based on statutory authority from the **Export Control Reform Act of 2018** (ECRA), 50 U.S.C. § 4801 et seq.
 
-![Entity List Additions by Administration](figures/fig_06_03_entity_list.png)
+![Entity List Additions by Administration](../../figures/fig_06_03_entity_list.png)
 
 **Scope of EAR Jurisdiction**
 
