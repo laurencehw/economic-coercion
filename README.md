@@ -2,11 +2,11 @@
 
 **Author:** Laurence Wilse-Samson
 **Repository:** https://github.com/laurencehw/economic-coercion
-**Status:** In Development
+**Status:** Complete Draft
 
 ## Overview
 
-This textbook/handbook/practical reference examines economic coercion by states in the context of strategic competition, with primary focus on US-China rivalry and applications to other geographies including US-Soviet Cold War cases and contemporary examples.
+This comprehensive textbook examines economic coercion by states in the context of strategic competition, with primary focus on US-China rivalry and applications to other geographies including US-Soviet Cold War cases and contemporary examples. The book combines academic rigor with practical policy relevance.
 
 ## Purpose
 
@@ -52,34 +52,50 @@ Each chapter includes:
 ## Repository Organization
 
 ```
-/chapters          - Main chapter content (Markdown)
+/chapters              - Main chapter content (Markdown)
   /ch01_foundations
   /ch02_supply_chains
-  ...
-/figures           - All visualizations
-  /maps           - Geographic visualizations
-  /charts         - Data charts and graphs
-  /diagrams       - Conceptual diagrams
-/data              - Datasets and sources
-  /sources        - Data source documentation
-  /processed      - Cleaned/analyzed data
-/references        - Bibliography and key documents
-/exercises         - Tabletop exercises by chapter
-/templates         - Reusable templates for chapters
+  /ch03_critical_sectors
+  /ch04_high_tech
+  /ch05_information
+  /ch06_trade_controls
+  /ch07_financial_statecraft
+  /ch08_investment_industrial
+  /ch09_historical_cases
+  /ch10_future
+/figures               - All visualizations (PDF and PNG)
+  /maps                - Geographic visualizations
+  /charts              - Data charts and graphs
+  /diagrams            - Conceptual diagrams
+/R                     - R scripts for figure generation
+  /figures             - Individual figure scripts
+  setup_theme.R        - Consistent styling theme
+/data                  - Datasets and sources
+/references            - Bibliography and key documents
+/exercises             - Tabletop exercises by chapter
+/front_matter          - Title page, preface, TOC
 ```
 
-## Development Phases
+## Building the Book
 
-- **Phase 1** (Weeks 1-4): Foundation and Infrastructure
-- **Phase 2** (Weeks 5-16): Core Content Development
-- **Phase 3** (Weeks 17-22): Integration and Application
-- **Phase 4** (Weeks 23-28): Polish and Production
+### Prerequisites
+- R (with ggplot2, dplyr, tidyr, scales, sf packages)
+- Pandoc
+- LaTeX distribution (for PDF output)
 
-## Version Control
+### Compilation
+```powershell
+# Generate all figures
+Rscript R/figures/fig_*.R
 
-- **main** - Stable, publication-ready version
-- **develop** - Integration branch for completed chapters
-- **chapter-XX** - Individual chapter development branches
+# Compile full textbook to PDF
+./compile_improved_textbook.ps1
+```
+
+## Output
+
+The compiled textbook is available as:
+- `Economic_Coercion_Complete_Textbook.pdf` - Full textbook with all chapters and figures
 
 ## Contributing
 
@@ -91,9 +107,8 @@ Copyright © 2025 Laurence Wilse-Samson. All rights reserved.
 
 ## Contact
 
-For questions or collaboration: [Your contact information]
+For questions or collaboration inquiries, please open an issue on GitHub.
 
 ---
 
-**Last Updated:** 2025-01-18
-**Current Phase:** Phase 1 - Foundation and Infrastructure
+**Last Updated:** 2025-11-29
