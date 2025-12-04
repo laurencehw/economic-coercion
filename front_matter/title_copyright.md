@@ -16,25 +16,18 @@ Copyright © 2025 Laurence Wilse-Samson
 
 All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means, including photocopying, recording, or other electronic or mechanical methods, without the prior written permission of the author, except in the case of brief quotations embodied in critical reviews and certain other noncommercial uses permitted by copyright law.
 
-**ISBN:** [To be assigned]
-
-**Edition:** First Edition, November 2025
-
-**Publisher:** [To be determined]
-
-**Cover Design:** [To be determined]
-
 **Interior Design and Typesetting:** LaTeX/Pandoc
 
-**Data Visualizations:** All figures created by the author using Python (matplotlib, pandas, seaborn) from publicly available data sources. Data sources and reproduction code available at: https://github.com/laurencehw/economic-coercion
+**Data Visualizations:** All figures created using R (ggplot2) and Python (matplotlib, pandas, seaborn) from publicly available data sources. Data sources and reproduction code available at: https://github.com/laurencehw/economic-coercion
 
 ## Disclaimer
 
-The views and opinions expressed in this book are those of the author and do not necessarily reflect the official policy or position of any government agency, academic institution, or organization with which the author has been affiliated.
+The views and opinions expressed in this book do not necessarily reflect the official policy or position of any government agency, academic institution, or organization with which the author has been affiliated.
 
-While every effort has been made to ensure the accuracy of information presented in this book, the rapidly evolving nature of economic policy, international relations, and global affairs means that some details may become dated. Readers should consult current sources for the latest developments.
+Artificial intelligence was used for the generation of large portions of the book. While effort has been made to ensure the accuracy of information presented in this book, the rapidly evolving nature of economic policy, international relations, and global affairs means that some details may become dated.  Readers should consult current sources for the latest developments.
 
 This book is intended for educational and informational purposes. It should not be construed as legal, financial, or policy advice. Readers making decisions based on information in this book should consult appropriate professional advisors.
+
 
 ## Acknowledgments
 
@@ -78,14 +71,10 @@ For questions, corrections, or feedback:
 - Email: lhw2110@columbia.edu
 - GitHub: github.com/laurencehw/economic-coercion
 
-## Dedication
-
-[To be determined]
 
 ---
 
-**First Printing:** November 2025
+**First Draft:** November 2025
 
-Printed in [Location to be determined]
 
 \newpage
