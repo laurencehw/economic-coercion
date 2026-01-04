@@ -2,7 +2,7 @@
 
 ## Executive Summary
 
-In March 2023, China and Brazil announced bilateral trade settlement in yuan and reais, bypassing the U.S. dollar for transactions worth tens of billions annually. Within months, similar announcements followed: Russia and China expanding yuan-ruble trade to circumvent sanctions, Saudi Arabia accepting yuan for oil sales, ASEAN countries establishing local currency settlement mechanisms. Individually, each announcement represented modest shifts—bilateral trade between specific partners, limited commodity categories. Collectively, they signaled accelerating de-dollarization: gradual erosion of the dollar's monopoly as global reserve currency and medium of exchange. American policymakers faced uncomfortable questions: Would weaponizing dollar dominance through sanctions ultimately destroy the source of that power? Could alternative payment systems (China's CIPS, cryptocurrency, central bank digital currencies) provide viable substitutes? How long would the dollar's "exorbitant privilege" persist if adversaries and even allies systematically reduced dollar dependence? The dollar's power, it turned out, was like a loaded gun: you could use it, but every shot reminded everyone else to find their own weapons.
+In March 2023, China and Brazil announced bilateral trade settlement in yuan and reais, bypassing the U.S. dollar for transactions worth tens of billions annually. Within months, similar announcements followed: Russia and China expanding yuan-ruble trade to circumvent sanctions, Saudi Arabia accepting yuan for oil sales, ASEAN countries establishing local currency settlement mechanisms. Individually, each announcement represented modest shifts—bilateral trade between specific partners, limited commodity categories. Collectively, they signaled accelerating de-dollarization: gradual erosion of the dollar's monopoly as global reserve currency and medium of exchange (Farrell and Newman 2019). American policymakers faced uncomfortable questions: Would weaponizing dollar dominance through sanctions ultimately destroy the source of that power? Could alternative payment systems (China's CIPS, cryptocurrency, central bank digital currencies) provide viable substitutes? How long would the dollar's "exorbitant privilege" persist if adversaries and even allies systematically reduced dollar dependence? The dollar's power, it turned out, was like a loaded gun: you could use it, but every shot reminded everyone else to find their own weapons.
 
 The de-dollarization trend exemplifies how contemporary economic statecraft creates future risks alongside immediate advantages. Financial sanctions excluding Russia from SWIFT and freezing $300+ billion in reserves demonstrated American financial power's coercive potential. Yet these very actions accelerated efforts by China, Russia, India, Brazil, and others to build alternative financial infrastructure reducing dollar vulnerability. Strategic competition's tools—export controls degrading adversary capabilities, investment screening blocking technology access, industrial policy reshaping supply chains—similarly generate long-term blowback: spurring indigenous innovation, fragmenting global markets, undermining the open economic system that enabled Western prosperity. Understanding future trajectories requires analyzing how current policies create path dependencies, how emerging technologies reshape competitive landscapes, and how geopolitical alignments evolve.
 
@@ -35,7 +35,7 @@ The U.S. dollar's role as global reserve currency and dominant medium of exchang
 
 ### Dollar Privilege and Its Vulnerabilities
 
-![Projected Dollar Share of Global Reserves (Scenarios 2024-2050)](../figures/figure_10_1_dollar_reserves.png)
+![Projected Dollar Share of Global Reserves (Scenarios 2024-2050)](../../figures/figure_10_1_dollar_reserves.png)
 
 **Current Dollar Dominance**
 
@@ -158,7 +158,7 @@ Climate change fundamentally reshapes economic coercion landscape through multip
 
 **The Green Transition's Material Requirements**
 
-Decarbonization requires massive increases in specific mineral production:
+Decarbonization requires massive increases in specific mineral production (IEA 2021):
 
 **Lithium** (EV batteries, grid storage):
 - Current production: ~130,000 tons/year (2024)
@@ -234,7 +234,7 @@ Water scarcity concentrates agricultural production in water-rich regions, creat
 
 **Climate Migration Projections**
 
-World Bank estimates 216 million internal climate migrants by 2050 (baseline scenario) due to:
+World Bank estimates 216 million internal climate migrants by 2050 (baseline scenario, World Bank 2021) due to:
 - Sea level rise displacing coastal populations (Bangladesh, Pacific islands, coastal cities)
 - Agricultural failure in water-stressed, heat-affected regions
 - Extreme weather events (hurricanes, floods, droughts) increasing frequency/severity
@@ -273,7 +273,7 @@ Economic coercion tools must adapt to control these technologies' strategic diff
 
 ### Artificial Intelligence: The Defining Technology Competition
 
-![AI Development Indicators: U.S. vs China](../figures/figure_10_3_ai_indicators.png)
+![AI Development Indicators: U.S. vs China](../../figures/figure_10_3_ai_indicators.png)
 
 **AI Strategic Significance**
 
@@ -282,7 +282,7 @@ AI applications span:
 - **Economic**: Automation, productivity enhancement, new products/services
 - **Social control**: Surveillance, censorship, population monitoring, predictive policing
 
-AI dominance confers decisive advantages across military, economic, and social domains, making it central to U.S.-China competition.
+AI dominance confers decisive advantages across military, economic, and social domains, making it central to U.S.-China competition (Miller 2022; National Intelligence Council 2021).
 
 **AI Development Requirements**
 
@@ -546,7 +546,7 @@ Cold War non-aligned movement resurrected as Global South countries resist press
 
 ## Scenario Analysis 2035-2050
 
-Projecting 25 years into an uncertain future requires scenario analysis: developing multiple plausible futures based on critical uncertainties, assessing implications, and identifying robust strategies effective across scenarios. Two critical uncertainties shape future economic statecraft:
+Projecting 25 years into an uncertain future requires scenario analysis: developing multiple plausible futures based on critical uncertainties, assessing implications, and identifying robust strategies effective across scenarios (National Intelligence Council 2021; Blackwill and Harris 2016). Two critical uncertainties shape future economic statecraft:
 
 **Dimension 1: Degree of Economic Integration**
 - **Highly fragmented**: Rival blocs with minimal cross-bloc trade, parallel technology standards, separate financial systems

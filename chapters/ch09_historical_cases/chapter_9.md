@@ -2,7 +2,7 @@
 
 ## Executive Summary
 
-On December 29, 1979, Soviet forces invaded Afghanistan, triggering international condemnation and a U.S. strategic response combining military aid to Afghan resistance with economic pressure on Moscow. President Jimmy Carter's signature economic measure—an embargo on grain sales to the Soviet Union—aimed to impose costs on Soviet leadership while demonstrating American resolve. The embargo prohibited sales beyond the 8 million metric tons already contracted, cutting off an additional 17 million tons the Soviets had planned to purchase. American farmers, particularly in the Midwest, faced immediate economic pain as grain prices collapsed. Yet Soviet grain imports barely declined: Moscow simply purchased from Argentina, Canada, Australia, and other suppliers willing to fill the gap at slightly higher prices. The embargo's failure illustrated a fundamental challenge of economic coercion: unilateral trade restrictions imposed by one supplier are easily circumvented when alternative sources exist and other countries prioritize commercial interests over geopolitical solidarity. The Soviets got their grain; American farmers got stuck with unsold harvests. This was not a lesson learned once and remembered—it would be repeated, with variations, for decades.
+On December 29, 1979, Soviet forces invaded Afghanistan, triggering international condemnation and a U.S. strategic response combining military aid to Afghan resistance with economic pressure on Moscow. President Jimmy Carter's signature economic measure—an embargo on grain sales to the Soviet Union—aimed to impose costs on Soviet leadership while demonstrating American resolve. The embargo prohibited sales beyond the 8 million metric tons already contracted, cutting off an additional 17 million tons the Soviets had planned to purchase (Paarlberg 1980). American farmers, particularly in the Midwest, faced immediate economic pain as grain prices collapsed. Yet Soviet grain imports barely declined: Moscow simply purchased from Argentina, Canada, Australia, and other suppliers willing to fill the gap at slightly higher prices. The embargo's failure illustrated a fundamental challenge of economic coercion: unilateral trade restrictions imposed by one supplier are easily circumvented when alternative sources exist and other countries prioritize commercial interests over geopolitical solidarity. The Soviets got their grain; American farmers got stuck with unsold harvests. This was not a lesson learned once and remembered—it would be repeated, with variations, for decades.
 
 The 1980 grain embargo exemplifies why historical cases matter for understanding contemporary economic statecraft. Every generation of policymakers rediscovers that economic coercion is harder than it appears: targets adapt, third parties undermine sanctions, domestic political costs mount, and strategic objectives often remain unachieved. Yet history also reveals conditions under which economic measures succeed: South African apartheid collapsed partly due to sustained international sanctions that isolated the regime economically and politically; CoCom technology restrictions degraded Soviet military capabilities by denying access to Western advanced technology for four decades; financial sanctions froze Libya, Iran, and North Korea out of global banking systems, imposing severe costs. Understanding what distinguishes success from failure requires examining diverse historical cases spanning different eras, targets, tools, and objectives.
 
@@ -32,7 +32,7 @@ For four decades (1949-1991), the United States and Soviet Union competed econom
 
 **Origins and Structure**
 
-The Coordinating Committee for Multilateral Export Controls (CoCom), established November 1949, coordinated Western restrictions on technology exports to Communist countries. Members included NATO allies (minus Iceland), Japan, and Australia—17 countries controlling most advanced Western technology. CoCom operated through:
+The Coordinating Committee for Multilateral Export Controls (CoCom), established November 1949, coordinated Western restrictions on technology exports to Communist countries (Mastanduno 1992). Members included NATO allies (minus Iceland), Japan, and Australia—17 countries controlling most advanced Western technology. CoCom operated through:
 
 - **Multilateral Export Control Lists**: Three lists identified restricted items: Munitions List (weapons), Atomic Energy List (nuclear technology), Industrial List (dual-use technologies including computers, telecommunications, machine tools, electronics)
 
@@ -74,7 +74,7 @@ CoCom achieved substantial success in limiting Soviet access to strategic techno
 
 **Technological change**: Rapid innovation made controls difficult: defining what constituted "restricted" technology, updating lists to reflect new capabilities, preventing commercial diffusion of dual-use tech.
 
-Despite limitations, scholarly consensus holds CoCom meaningfully degraded Soviet military capabilities. The Soviet collapse (1991) ended the Cold War rationale; CoCom dissolved (1994), replaced by less restrictive Wassenaar Arrangement.
+Despite limitations, scholarly consensus holds CoCom meaningfully degraded Soviet military capabilities (Mastanduno 1992; National Academy of Sciences 1987). The Soviet collapse (1991) ended the Cold War rationale; CoCom dissolved (1994), replaced by less restrictive Wassenaar Arrangement.
 
 ### Grain Embargo (1980): Unilateral Failure
 
@@ -127,7 +127,7 @@ The grain embargo illustrated critical limitations of unilateral trade sanctions
 
 **Background**
 
-The Siberian Pipeline project (Urengoy-Uzhgorod-Western Europe) would transport Soviet natural gas to Western Europe, generating hard currency revenue for Moscow while increasing European energy dependence on USSR. The Reagan administration opposed the pipeline on strategic grounds:
+The Siberian Pipeline project (Urengoy-Uzhgorod-Western Europe) would transport Soviet natural gas to Western Europe, generating hard currency revenue for Moscow while increasing European energy dependence on USSR (Jentleson 1986). The Reagan administration opposed the pipeline on strategic grounds:
 
 - **Hard currency**: Gas sales would earn Soviet Union billions annually, financing military and subsidizing inefficient economy
 - **Energy dependence**: European reliance on Soviet gas created vulnerability to supply cutoffs, providing Moscow political leverage
@@ -296,7 +296,7 @@ Did sanctions cause apartheid's end, or merely coincide with collapse driven by 
 3. **Timing**: Major sanctions (1985-1986) came late; regime negotiations began seriously only after 1989 with de Klerk's rise, domestic dynamics, and Soviet collapse removing Cold War rationale
 4. **Counterfactual**: Would apartheid have ended without sanctions due to internal contradictions, demographic pressures, security costs?
 
-**Scholarly consensus** (Huffbauer et al., Baldwin, Crawford): Sanctions **contributed significantly but were not solely determinative**. Sanctions operated as part of combined pressure—economic, political, military, normative—that made apartheid untenable. Isolating sanctions' specific impact is methodologically fraught, but evidence suggests:
+**Scholarly consensus** (Hufbauer et al. 2007; Crawford and Klotz 1999): Sanctions **contributed significantly but were not solely determinative**. Sanctions operated as part of combined pressure—economic, political, military, normative—that made apartheid untenable. Isolating sanctions' specific impact is methodologically fraught, but evidence suggests:
 - Sanctions accelerated timeline by increasing costs
 - Financial sanctions (bank withdrawals, investment bans) had more impact than trade restrictions
 - Psychological/normative effects on white elite possibly as important as material economic costs
@@ -324,7 +324,7 @@ Economic coercion long predates the 20th century. Examining earlier cases reveal
 
 **Background and Objectives**
 
-Following military victories against Austria, Prussia, and Russia (1805-1807), Napoleon Bonaparte controlled most of continental Europe. Unable to invade Britain (Royal Navy dominated seas after Trafalgar 1805), Napoleon pursued economic warfare: the Berlin Decree (1806) and Milan Decree (1807) established the Continental System, prohibiting European trade with Britain.
+Following military victories against Austria, Prussia, and Russia (1805-1807), Napoleon Bonaparte controlled most of continental Europe. Unable to invade Britain (Royal Navy dominated seas after Trafalgar 1805), Napoleon pursued economic warfare: the Berlin Decree (1806) and Milan Decree (1807) established the Continental System, prohibiting European trade with Britain (Heckscher 1922).
 
 **Strategic logic**: Britain depended on European markets for manufactured goods exports and imported foodstuffs. By closing European ports, Napoleon aimed to cause British economic collapse (unemployment, bankruptcy, starvation), forcing political submission.
 
@@ -530,7 +530,7 @@ Governments sometimes impose sanctions to appear active while avoiding difficult
 
 ### Comparative Success Rates and Measurement Challenges
 
-**Quantitative studies** (Hufbauer et al. 2007; Morgan et al. 2009; Biersteker et al. 2016) estimate sanctions success rates at 20-40%, depending on success definition and case selection.
+**Quantitative studies** (Hufbauer et al. 2007; Biersteker et al. 2016; Pape 1997; Drezner 1999) estimate sanctions success rates at 20-40%, depending on success definition and case selection.
 
 ![Sanctions Success Rates by Objective and Era](../../figures/fig_09_03_sanctions_success.png)
 
@@ -685,7 +685,7 @@ Japan's high-tech manufacturing (Toyota, Honda, Panasonic, Sony) depended heavil
 - 95% of global rare earth processing (2010)
 - 97% of Japan's rare earth imports
 
-This concentration created acute Japanese vulnerability to supply disruptions.
+This concentration created acute Japanese vulnerability to supply disruptions (Wübbeke 2013).
 
 **Chinese Export Restrictions**
 
@@ -702,7 +702,7 @@ Japan employed multiple countermeasures:
 
 **1. WTO complaint**: Japan (joined by U.S. and EU) filed WTO dispute (March 2012) challenging Chinese rare earth export quotas and restrictions as violating trade obligations.
 
-**Outcome**: WTO ruled in Japan's favor (March 2014), determining Chinese quotas violated WTO commitments. China removed export quotas (2015).
+**Outcome**: WTO ruled in Japan's favor (March 2014), determining Chinese quotas violated WTO commitments (WTO DS431/432/433). China removed export quotas (2015).
 
 **2. Supply diversification**:
 - Investments in alternative sources: Lynas (Australia), Molycorp (U.S.), Kazakhstan mines

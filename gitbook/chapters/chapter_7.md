@@ -2,11 +2,11 @@
 
 ## Executive Summary
 
-On February 26, 2022, four days after Russia's full-scale invasion of Ukraine, the United States, European Union, United Kingdom, and Canada announced unprecedented financial sanctions: freezing Russian Central Bank reserves held in Western financial institutions (an estimated $300+ billion), removing major Russian banks from the SWIFT international payments messaging system, and imposing comprehensive restrictions on transactions with Russian entities. Within days, the ruble collapsed 30%, Russian stock markets plunged, and Western firms scrambled to unwind Russian exposure. The speed and severity shocked observers—one former Russian finance minister called it "financial nuclear war." He was not exaggerating by much. Yet this extraordinary action represented the culmination of decades building U.S.-centered financial architecture enabling what Treasury officials call "economic warfare." Washington had spent generations wiring the global financial system; now it was using those wires to electrocute an adversary.
+On February 26, 2022, four days after Russia's full-scale invasion of Ukraine, the United States, European Union, United Kingdom, and Canada announced unprecedented financial sanctions: freezing Russian Central Bank reserves held in Western financial institutions (an estimated $300+ billion) (U.S. Treasury 2022), removing major Russian banks from the SWIFT international payments messaging system, and imposing comprehensive restrictions on transactions with Russian entities. Within days, the ruble collapsed 30%, Russian stock markets plunged, and Western firms scrambled to unwind Russian exposure. The speed and severity shocked observers—one former Russian finance minister called it "financial nuclear war." He was not exaggerating by much. Yet this extraordinary action represented the culmination of decades building U.S.-centered financial architecture enabling what Treasury officials call "economic warfare." Washington had spent generations wiring the global financial system; now it was using those wires to electrocute an adversary.
 
 This chapter examines financial sanctions—restricting access to financial systems, freezing assets, and prohibiting transactions—as instruments of economic coercion. Unlike trade controls affecting goods flows or investment screening targeting ownership, financial sanctions operate in the abstract realm of money, payments, and capital—yet their impacts can be devastating. A firm denied access to dollar-denominated payments or international banking systems faces existential crisis; a state frozen out of global finance confronts economic strangulation. Three key arguments structure our analysis:
 
-**First, U.S. financial power rests on structural advantages in the international monetary system, not simply economic size.** The dollar's role as dominant reserve currency (58% of global foreign exchange reserves), invoicing currency (40% of SWIFT payments), and safe haven asset creates network effects and path dependencies that competitors cannot easily replicate. Control of financial infrastructure—SWIFT, Euroclear, correspondent banking—amplifies this power. Understanding these structural foundations illuminates both sanctions' effectiveness and vulnerabilities.
+**First, U.S. financial power rests on structural advantages in the international monetary system, not simply economic size.** The dollar's role as dominant reserve currency (58% of global foreign exchange reserves), invoicing currency (40% of SWIFT payments), and safe haven asset creates network effects (IMF 2024) and path dependencies that competitors cannot easily replicate. Control of financial infrastructure—SWIFT, Euroclear, correspondent banking—amplifies this power. Understanding these structural foundations illuminates both sanctions' effectiveness and vulnerabilities.
 
 **Second, U.S. financial coercion has expanded in scope and ambition, moving from targeted individuals and entities to entire economies and financial systems.** Traditional sanctions blocked specific terrorists, narcotics traffickers, or proliferators from U.S. financial system access. Modern sanctions impose comprehensive restrictions on entire countries (Iran, North Korea, Venezuela), freeze central bank reserves (Russia, Afghanistan), and employ secondary sanctions forcing third parties to choose between U.S. and target markets. This escalation raises questions about sustainability and blowback.
 
@@ -34,7 +34,7 @@ Financial sanctions' effectiveness derives from the U.S. dollar's dominant posit
 
 ### The Dollar's Privileged Position
 
-![Foreign Holdings of U.S. Treasury Securities](../figures/fig_07_03_treasury_holdings.png)
+![Foreign Holdings of U.S. Treasury Securities](../../figures/fig_07_03_treasury_holdings.png)
 
 **Reserve Currency Status**
 
@@ -68,7 +68,7 @@ Beyond reserves, the dollar dominates international trade invoicing and settleme
 
 **Why dollar invoicing matters for sanctions**: When trade is invoiced in dollars, payments flow through U.S. financial system or correspondent banks with U.S. connections. This creates jurisdiction for U.S. sanctions enforcement. A Chinese firm buying Brazilian soybeans in dollars must clear payment through U.S.-connected banks, giving Treasury visibility and control.
 
-**Dominant Currency Paradigm**: Research by Gopinath and others demonstrates exchange rate pass-through is asymmetric: when dollar strengthens, import prices in non-U.S. countries rise more than when local currencies weaken. This "dollar-invoicing" phenomenon means global trade volumes respond to dollar fluctuations, not just bilateral exchange rates—further entrenching dollar centrality.
+**Dominant Currency Paradigm**: Research by Gopinath and others demonstrates exchange rate pass-through is asymmetric (Gopinath et al. 2020): when dollar strengthens, import prices in non-U.S. countries rise more than when local currencies weaken. This "dollar-invoicing" phenomenon means global trade volumes respond to dollar fluctuations, not just bilateral exchange rates—further entrenching dollar centrality.
 
 **Debt Denomination**
 
@@ -84,7 +84,7 @@ Approximately $13 trillion in non-U.S. dollar-denominated debt exists (2024)—d
 
 **Society for Worldwide Interbank Financial Telecommunication (SWIFT)**
 
-![Currency Share of Global Payments (SWIFT)](../figures/fig_07_01_swift_currencies.png)
+![Currency Share of Global Payments (SWIFT)](../../figures/fig_07_01_swift_currencies.png)
 
 SWIFT is not a payment system but a secure messaging network transmitting payment instructions between 11,000+ financial institutions in 200+ countries. Key characteristics:
 
@@ -101,7 +101,7 @@ SWIFT is not a payment system but a secure messaging network transmitting paymen
 4. **CIA access controversy**: 2006 revelations showed U.S. Treasury accessed SWIFT data for counterterrorism, confirming U.S. reach
 
 **SWIFT disconnections**: U.S. has successfully pressured SWIFT to disconnect sanctioned entities:
-- **Iranian banks (2012, 2018)**: Removed after U.S./EU pressure, cutting Iran off from international finance
+- **Iranian banks (2012, 2018)**: Removed after U.S./EU pressure, cutting Iran off from international finance (Nephew 2017)
 - **Russian banks (2022)**: Removed seven Russian banks and two Belarusian banks after Ukraine invasion; notably excluded Gazprombank (natural gas payments) and Sberbank (initially)
 
 SWIFT disconnection is the "financial nuclear option"—it immediately severs international payment capability, forcing reliance on informal channels (cash, barter, cryptocurrency, bilateral arrangements). Being cut off from SWIFT is the financial equivalent of being unplugged from the internet: theoretically you can still communicate, but practically you're in the dark ages.
@@ -116,7 +116,7 @@ Most banks cannot directly clear international payments; instead they use corres
 
 **Sanctions mechanism**: Treasury can pressure correspondent banks to terminate relationships with sanctioned entities. If Bank B faces choice between access to U.S. financial system (profitable) or servicing sanctioned Bank A (risky, low-profit), Bank B terminates relationship. This "de-risking" cascades through banking system, effectively excluding sanctioned entities even from non-dollar transactions.
 
-**Example - North Korea isolation**: Following 2016-2017 nuclear tests, U.S. Treasury systematically pressured Chinese banks maintaining North Korean accounts. Bank of China, China Construction Bank, Agricultural Bank of China all terminated North Korean relationships. Combined with SWIFT access restrictions, North Korea became largely excluded from international banking—forced to rely on cash couriers, shell companies, and cryptocurrency.
+**Example - North Korea isolation**: Following 2016-2017 nuclear tests, U.S. Treasury systematically pressured Chinese banks maintaining North Korean accounts (Zarate 2013). Bank of China, China Construction Bank, Agricultural Bank of China all terminated North Korean relationships. Combined with SWIFT access restrictions, North Korea became largely excluded from international banking—forced to rely on cash couriers, shell companies, and cryptocurrency.
 
 ### Financial Market Depth and Liquidity
 
@@ -266,7 +266,7 @@ When UN Security Council adopts sanctions resolutions (e.g., North Korea, Iran h
 
 ### Types of Sanctions Programs
 
-![Active U.S. Sanctions Programs by Type](../figures/figure_7_2_sanctions_programs.png)
+![Active U.S. Sanctions Programs by Type](../../figures/figure_7_2_sanctions_programs.png)
 
 OFAC administers multiple sanctions program types:
 
@@ -642,7 +642,7 @@ Aggressive U.S. use of financial sanctions—particularly freezing Russia's cent
 
 **Sanctions Vulnerability**
 
-![Russian Central Bank Assets Frozen in 2022](../figures/figure_7_4_russian_frozen_assets.png)
+![Russian Central Bank Assets Frozen in 2022](../../figures/figure_7_4_russian_frozen_assets.png)
 
 States facing sanctions or anticipating future sanctions seek alternatives to dollar-denominated transactions and U.S.-connected financial infrastructure:
 

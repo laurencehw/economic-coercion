@@ -62,6 +62,8 @@ Flaaen, Aaron, and Justin Pierce. "Disentangling the Effects of the 2018-2019 Ta
 
 Gelpern, Anna. "Money and Power in the World Economy." *Virginia Journal of International Law* 63, no. 1 (2022): 1-82.
 
+Gopinath, Gita, et al. "Dominant Currency Paradigm." *American Economic Review* 110, no. 3 (2020): 677-719.
+
 Khan, Saif M., Alexander Mann, and Dahlia Peterson. "The Semiconductor Supply Chain: Assessing National Competitiveness." Center for Security and Emerging Technology, January 2021.
 
 Lipton, David. "Sanctions and the Global Financial System." Remarks at the European Central Bank conference, March 2023.
@@ -84,7 +86,13 @@ Triolo, Paul, and Robert Greene. "Will China's Chip Breakthrough Undermine U.S. 
 
 Zarate, Juan C. *Treasury's War: The Unleashing of a New Era of Financial Warfare*. Public Affairs, 2013.
 
+Jackson, Van. "Rival Reputations: Coercion and Credibility in U.S.-North Korea Relations." *Cambridge University Press*, 2020.
+
+Rajagopalan, Rajeswari Pillai, and Joel Wuthnow. "India-China Border Tensions: Assessing Strategic Implications for the Region." *ORF Occasional Paper*, 2021.
+
 ## Government and International Organization Reports {-}
+
+National Academy of Sciences. "Balancing the National Interest: U.S. National Security Export Controls and Global Economic Competition." National Academies Press, 1987.
 
 CISA (Cybersecurity and Infrastructure Security Agency). "People's Republic of China State-Sponsored Cyber Actors Living off the Land to Evade Detection." Alert AA23-144A, May 2023.
 
@@ -102,6 +110,8 @@ SIA (Semiconductor Industry Association). "2023 State of the U.S. Semiconductor 
 
 International Monetary Fund. "Geoeconomic Fragmentation and the Future of Multilateralism." *IMF Staff Discussion Note*, January 2023.
 
+National Intelligence Council. "Global Trends 2040: A More Contested World." NIC, 2021.
+
 U.S. Department of Commerce, Bureau of Industry and Security. "2022 Export Controls: Taking the Long View." October 2022.
 
 U.S. Department of the Treasury. "Sanctions Review." October 2021.
@@ -117,6 +127,8 @@ White House. "Building Resilient Supply Chains, Revitalizing American Manufactur
 White House. "U.S.-China Joint Presidential Statement on Climate Change." September 25, 2015.
 
 World Bank. *World Development Report 2020: Trading for Development in the Age of Global Value Chains*. World Bank Publications, 2019.
+
+World Bank. *Groundswell Part 2: Acting on Internal Climate Migration*. World Bank, 2021.
 
 ## Chinese Government and Academic Sources {-}
 
@@ -139,6 +151,8 @@ Headey, Derek, and Shenggen Fan. "Anatomy of a Crisis: The Causes and Consequenc
 International Energy Agency (IEA). "Global Energy Review 2022." IEA Publications, 2022.
 
 International Energy Agency (IEA). "Critical Minerals Market Review 2023." IEA Publications, 2023.
+
+International Energy Agency (IEA). "The Role of Critical Minerals in Clean Energy Transitions." IEA Publications, 2021.
 
 International Fertilizer Association (IFA). "Fertilizer Outlook 2022-2023." Paris: IFA, 2022.
 
