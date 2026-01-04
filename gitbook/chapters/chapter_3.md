@@ -128,7 +128,7 @@ Oil trade flows reveal critical dependencies. Europe imports approximately 90% o
 
 These chokepoints create strategic leverage for countries that can threaten closure (Iran over Hormuz, Yemen/Houthis over Bab el-Mandeb) and for naval powers that can secure or blockade them (United States, potentially China or India). They also shape energy policy: Japan's almost total dependence on oil transiting Malacca drives Japanese interest in Middle Eastern stability and U.S.-Japan security cooperation. China's anxiety about "Malacca Dilemma" motivates land-based alternatives (pipelines from Russia and Central Asia), naval expansion to protect sea lanes, and strategic petroleum reserves to buffer disruptions.
 
-![Strategic Maritime Chokepoints](../../figures/fig_03_04_chokepoints.png)
+![Strategic Maritime Chokepoints](../figures/fig_03_04_chokepoints.png)
 *Figure 3.4: Critical maritime passages for global energy transit. The Strait of Hormuz handles 21 million barrels per day—closure would immediately trigger global recession. Size indicates oil transit volume; color indicates strategic importance.*
 
 ### Natural Gas: The Russia-Europe Entanglement
@@ -151,7 +151,7 @@ Multiple pipelines carried Russian gas to Europe:
 
 This infrastructure created what economists call asymmetric interdependence and what strategists call a trap. Europe depended on Russian gas for heating, power generation, and industrial processes (especially German chemical industry). Russia depended on European gas revenue, which accounted for $150-200 billion annually and funded roughly 30-40% of Russian federal budget. Conventional wisdom held that mutual dependence ensured supply stability—neither side could afford disruption. This was the comfortable logic of liberal internationalism: we are all so deeply invested in each other's prosperity that war becomes irrational. Russia's 2022 invasion of Ukraine shattered this assumption, revealing that regimes may value conquest more than commerce.
 
-![Russian Energy Pipeline Infrastructure](../../figures/fig_03_08_russian_pipelines.png)
+![Russian Energy Pipeline Infrastructure](../figures/fig_03_08_russian_pipelines.png)
 *Figure 3.8: Russian oil and gas pipeline networks to Europe and Asia. Green indicates operational pipelines, orange shows reduced flow, red marks damaged or closed infrastructure. Nord Stream pipelines were damaged in September 2022; Ukraine transit has been significantly reduced since the February 2022 invasion.*
 
 ### The 2022 European Gas Crisis: Weaponized Dependence
@@ -178,9 +178,9 @@ The winter of 2022-2023 was Europe's moment of maximum vulnerability. Russian ga
 
 ### Energy Transition: Trading Old Dependencies for New
 
-![Renewable Energy Manufacturing - China's Share](../../figures/fig_03_06_renewable_manufacturing.png)
+![Renewable Energy Manufacturing - China's Share](../figures/fig_03_06_renewable_manufacturing.png)
 
-![Strategic Ports and Chinese Maritime Investment](../../figures/fig_03_07_strategic_ports.png)
+![Strategic Ports and Chinese Maritime Investment](../figures/fig_03_07_strategic_ports.png)
 *Figure 3.7: Global strategic ports by type and volume. Red circles indicate ports with significant Chinese ownership or operational control, illustrating the geographic scope of China's maritime investment strategy.*
 
 The global energy transition away from fossil fuels toward renewable energy and electrification creates new resource dependencies that may prove as consequential as oil and gas. Solar panels, wind turbines, and batteries require minerals, manufacturing, and supply chains that exhibit their own chokepoints—many concentrated in China. Escaping dependence on Middle Eastern oil risks creating dependence on Chinese critical minerals processing and clean energy manufacturing.
