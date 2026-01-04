@@ -40,13 +40,25 @@ Wigell, Mikael, Sören Scholvin, and Mika Aaltola, eds. *Geo-Economics and Power
 
 Allen, Gregory C. "Choking Off China's Access to the Future of AI." Center for Strategic and International Studies, October 2022.
 
+Allen, Gregory C., and Emily S. Weinstein. "Huawei's Mate 60 Pro: China's Semiconductor Breakthrough." CSIS Commentary, September 2023.
+
 Baqaee, David, Emmanuel Farhi, and Kunal Sangani. "The Supply Chain Origins of Multinational Production." *American Economic Review*, 113(6), 2023: 1585-1613.
 
 Blanchard, Jean-Marc F., and Norrin M. Ripsman. "Asking the Right Question: When Do Economic Sanctions Work Best?" *Security Studies* 9, no. 1-2 (1999): 219-253.
 
+Bown, Chad P. "Four Years Into the Trade War, Are the US and China Decoupling?" Peterson Institute for International Economics, September 2022.
+
+Bown, Chad P., and Melina Kolb. "Trump's Trade War Timeline: An Up-to-Date Guide." Peterson Institute for International Economics, 2021.
+
+Creemers, Rogier, Graham Webster, and Paul Triolo. "Translation: Personal Information Protection Law of the People's Republic of China." DigiChina, Stanford Cyber Policy Center, 2022.
+
+Del Rey, Jason. "Nvidia's China Problem Just Got a Lot Worse." *Vox*, October 2023.
+
 Drezner, Daniel W. "Sanctions Sometimes Smart: Targeted Sanctions in Theory and Practice." *International Studies Review* 13, no. 1 (2011): 96-108.
 
 Farrell, Henry, and Abraham L. Newman. "Weaponized Interdependence: How Global Economic Networks Shape State Coercion." *International Security* 44, no. 1 (2019): 42-79.
+
+Flaaen, Aaron, and Justin Pierce. "Disentangling the Effects of the 2018-2019 Tariffs on a Globally Connected U.S. Manufacturing Sector." Federal Reserve Board Finance and Economics Discussion Series, 2019-086, December 2019.
 
 Gelpern, Anna. "Money and Power in the World Economy." *Virginia Journal of International Law* 63, no. 1 (2022): 1-82.
 
@@ -56,17 +68,37 @@ Lipton, David. "Sanctions and the Global Financial System." Remarks at the Europ
 
 Miller, Chris. *Chip War: The Fight for the World's Most Critical Technology*. Scribner, 2022.
 
+Mozur, Paul. "One Month, 500,000 Face Scans: How China Is Using A.I. to Profile a Minority." *The New York Times*, April 14, 2019.
+
 Mulder, Nicholas. *The Economic Weapon: The Rise of Sanctions as a Tool of Modern War*. Yale University Press, 2022.
 
 Nephew, Richard. *The Art of Sanctions: A View from the Field*. Columbia University Press, 2017.
 
 Rasser, Martijn, et al. "The CHIPS and Science Act: Here Comes the Hardest Part." Center for Strategic and International Studies, August 2022.
 
+Shane, Scott, and Daisuke Wakabayashi. "The Business of War: Google Employees Protest Work for the Pentagon." *The New York Times*, April 4, 2018.
+
+Sullivan, Jake. "Remarks by National Security Advisor Jake Sullivan at the Special Competitive Studies Project Global Emerging Technologies Summit." White House, September 16, 2022.
+
+Triolo, Paul, and Robert Greene. "Will China's Chip Breakthrough Undermine U.S. Tech Restrictions?" Carnegie Endowment for International Peace, September 2023.
+
 Zarate, Juan C. *Treasury's War: The Unleashing of a New Era of Financial Warfare*. Public Affairs, 2013.
 
 ## Government and International Organization Reports {-}
 
+CISA (Cybersecurity and Infrastructure Security Agency). "People's Republic of China State-Sponsored Cyber Actors Living off the Land to Evade Detection." Alert AA23-144A, May 2023.
+
+DOJ (U.S. Department of Justice). "U.S. Charges Five Chinese Military Hackers for Cyber Espionage Against U.S. Corporations and a Labor Organization for Commercial Advantage." Press Release, May 19, 2014.
+
+DOJ (U.S. Department of Justice). "Seven International Cyber Defendants, Including 'APT41' Actors, Charged In Connection With Computer Intrusion Campaigns Against More Than 100 Victims Globally." Press Release, September 16, 2020.
+
 European Commission. "European Economic Security Strategy." June 2023.
+
+Mandiant. "APT1: Exposing One of China's Cyber Espionage Units." Report, February 2013.
+
+Microsoft Threat Intelligence. "Volt Typhoon targets US critical infrastructure with living-off-the-land techniques." Blog post, May 2023.
+
+SIA (Semiconductor Industry Association). "2023 State of the U.S. Semiconductor Industry." June 2023.
 
 International Monetary Fund. "Geoeconomic Fragmentation and the Future of Multilateralism." *IMF Staff Discussion Note*, January 2023.
 
@@ -78,7 +110,11 @@ U.S. National Security Strategy. The White House, October 2022.
 
 U.S. National Defense Strategy. Department of Defense, October 2022.
 
+USTR (U.S. Trade Representative). "Findings of the Investigation into China's Acts, Policies, and Practices Related to Technology Transfer, Intellectual Property, and Innovation under Section 301 of the Trade Act of 1974." March 22, 2018.
+
 White House. "Building Resilient Supply Chains, Revitalizing American Manufacturing, and Fostering Broad-Based Growth." June 2021.
+
+White House. "U.S.-China Joint Presidential Statement on Climate Change." September 25, 2015.
 
 World Bank. *World Development Report 2020: Trading for Development in the Age of Global Value Chains*. World Bank Publications, 2019.
 

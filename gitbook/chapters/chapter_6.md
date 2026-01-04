@@ -2,7 +2,7 @@
 
 ## Executive Summary
 
-On March 22, 2018, President Trump signed a presidential memorandum imposing tariffs on approximately $50 billion worth of Chinese goods under Section 301 of the Trade Act of 1974, citing China's "unfair trade practices" related to technology transfer and intellectual property. China immediately retaliated with equivalent tariffs on U.S. agricultural products, aircraft parts, and automobiles. What began as targeted measures escalated over 18 months into tariffs affecting more than $360 billion in bilateral trade—the largest trade war between major economies since the Smoot-Hawley Tariff of 1930. The era of "free trade as shared prosperity" was over; the era of "trade as strategic weapon" had begun. When the Biden administration took office in January 2021, it maintained nearly all Trump-era tariffs while expanding export controls, signaling a bipartisan consensus that traditional trade policy had transformed into a tool of strategic competition.
+On March 22, 2018, President Trump signed a presidential memorandum imposing tariffs on approximately $50 billion worth of Chinese goods under Section 301 of the Trade Act of 1974, citing China's "unfair trade practices" related to technology transfer and intellectual property (USTR 2018). China immediately retaliated with equivalent tariffs on U.S. agricultural products, aircraft parts, and automobiles. What began as targeted measures escalated over 18 months into tariffs affecting more than $360 billion in bilateral trade—the largest trade war between major economies since the Smoot-Hawley Tariff of 1930. The era of "free trade as shared prosperity" was over; the era of "trade as strategic weapon" had begun. When the Biden administration took office in January 2021, it maintained nearly all Trump-era tariffs while expanding export controls, signaling a bipartisan consensus that traditional trade policy had transformed into a tool of strategic competition.
 
 This chapter examines how states use trade controls—tariffs, quotas, and export restrictions—as instruments of economic coercion. Unlike the targeted financial sanctions examined in Chapter 7 or the investment screening mechanisms in Chapter 8, trade controls operate at the intersection of commerce and security, affecting entire industries and millions of economic actors. Three key arguments structure our analysis:
 
@@ -55,7 +55,7 @@ The Trump administration expansively interpreted "national security" to include 
 - Technology transfer requirements
 - Trade agreement violations
 
-Section 301 requires USTR investigation (initiated by petition or self-initiated), public comment periods, and consultation with foreign governments. If USTR determines violations exist and diplomatic resolution fails, the President may impose retaliatory measures including tariffs, import restrictions, or suspension of trade agreement benefits. The Trump administration's August 2017 Section 301 investigation into China's technology transfer practices culminated in tariffs affecting over $360 billion in Chinese imports—the largest Section 301 action in history.
+Section 301 requires USTR investigation (initiated by petition or self-initiated), public comment periods, and consultation with foreign governments. If USTR determines violations exist and diplomatic resolution fails, the President may impose retaliatory measures including tariffs, import restrictions, or suspension of trade agreement benefits. The Trump administration's August 2017 Section 301 investigation into China's technology transfer practices culminated in tariffs affecting over $360 billion in Chinese imports (USTR 2018; Bown and Kolb 2021)—the largest Section 301 action in history.
 
 **Section 201 of the Trade Act of 1974** (19 U.S.C. § 2251) provides "safeguard" relief for domestic industries seriously injured by imports, regardless of whether foreign practices are unfair. The International Trade Commission investigates injury claims and recommends remedies; the President decides whether to impose restrictions. Recent applications include solar panel tariffs (2018, later mostly removed) and washing machine tariffs (2018-2023). Section 201 applies on a most-favored-nation basis (affecting all countries), unlike the country-specific targeting possible under Section 232 or 301.
 
@@ -98,7 +98,7 @@ In exchange:
 - U.S. reduced September 2019 tariff tranche from 15% to 7.5%
 - U.S. maintained 25% tariffs on $250 billion in Chinese goods
 
-COVID-19 pandemic derailed implementation. China purchased only 58% of committed goods in 2020 and 71% over 2020-2021 combined—a $140 billion shortfall. Neither side invoked enforcement provisions, effectively rendering the agreement dormant by 2022.
+COVID-19 pandemic derailed implementation. China purchased only 58% of committed goods in 2020 and 71% over 2020-2021 combined—a $140 billion shortfall (Bown 2022). Neither side invoked enforcement provisions, effectively rendering the agreement dormant by 2022.
 
 **Phase 4: Biden Continuity and Expansion (2021-2024)**
 
@@ -116,7 +116,7 @@ Assessing trade war impacts requires distinguishing direct effects (tariff incid
 
 **Trade Flow Changes**
 
-U.S. imports from China fell from $539 billion (2018) to $427 billion (2019), a 21% decline. However:
+U.S. imports from China fell from $539 billion (2018) to $427 billion (2019), a 21% decline (Flaaen and Pierce 2019). However:
 - Much trade diverted through third countries: U.S. imports from Vietnam surged 36% (2018-2019), from Mexico 10%, from Taiwan 25%
 - Some products (furniture, electronics) saw minimal import decline despite 25% tariffs, suggesting Chinese exporters absorbed costs through price cuts or U.S. importers accepted higher prices
 - Total U.S. imports declined only 1.7% (2018-2019), indicating trade diversion rather than import reduction
