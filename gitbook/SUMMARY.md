@@ -2,6 +2,7 @@
 
 ## Front Matter
 
+* [Copyright & AI Disclosure](front_matter/title_copyright.md)
 * [Preface](front_matter/preface.md)
 
 ## Part I: Foundations
