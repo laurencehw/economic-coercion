@@ -1393,8 +1393,6 @@ Chinese private equity fund "Golden Harvest Capital" proposes $2 billion investm
 
 ## References
 
-[Note: A complete chapter would include 30-50 detailed citations. This abbreviated list highlights key sources for major claims and data.]
-
 1. U.S. Department of the Treasury, "Annual Report to Congress on CFIUS," various years, https://home.treasury.gov/policy-issues/international/cfius-reports-and-tables
 
 2. Rhodium Group, "Two-Way Street: 2024 Update on US-China Investment Trends," Thilo Hanemann, Daniel H. Rosen, et al., May 2024.

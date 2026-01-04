@@ -2,7 +2,11 @@
 
 ## Books and Monographs {-}
 
+Autor, David H., David Dorn, and Gordon H. Hanson. "The China Shock: Learning from Labor-Market Adjustment to Large Changes in Trade." *Annual Review of Economics* 8 (2016): 205-240.
+
 Baldwin, David A. *Economic Statecraft*. Princeton University Press, 1985.
+
+Bradford, Anu. *The Brussels Effect: How the European Union Rules the World*. Oxford University Press, 2020.
 
 Blackwill, Robert D., and Jennifer M. Harris. *War by Other Means: Geoeconomics and Statecraft*. Harvard University Press, 2016.
 
@@ -15,6 +19,8 @@ Hirschman, Albert O. *National Power and the Structure of Foreign Trade*. Univer
 Hufbauer, Gary Clyde, Jeffrey J. Schott, Kimberly Ann Elliott, and Barbara Oegg. *Economic Sanctions Reconsidered*, 3rd edition. Peterson Institute for International Economics, 2007.
 
 Keohane, Robert O., and Joseph S. Nye. *Power and Interdependence*, 4th edition. Longman, 2011.
+
+Luttwak, Edward N. "From Geopolitics to Geo-Economics: Logic of Conflict, Grammar of Commerce." *The National Interest* 20 (1990): 17-23.
 
 Liao, Rebecca, and David Dollar. *China's Financial System: Growth and Inefficiency*. Brookings Institution Press, 2020.
 
