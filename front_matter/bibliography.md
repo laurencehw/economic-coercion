@@ -28,6 +28,8 @@ Mastanduno, Michael. *Economic Containment: CoCom and the Politics of East-West 
 
 Norris, William J. *Chinese Economic Statecraft: Commercial Actors, Grand Strategy, and State Control*. Cornell University Press, 2016.
 
+Pape, Robert A. "Why Economic Sanctions Do Not Work." *International Security* 22, no. 2 (1997): 90-136.
+
 Pape, Robert A. *Bombing to Win: Air Power and Coercion in War*. Cornell University Press, 1996.
 
 Roberts, Anthea, Henrique Choer Moraes, and Victor Ferguson. *Toward a Geoeconomic Order in International Trade and Investment*. Cambridge University Press, 2019.
@@ -93,6 +95,18 @@ Xi Jinping. "Secure a Decisive Victory in Building a Moderately Prosperous Socie
 ## Data Sources and Databases {-}
 
 Bank for International Settlements (BIS). "Triennial Central Bank Survey of Foreign Exchange and OTC Derivatives Markets." Various years.
+
+Food and Agriculture Organization (FAO). "World Food Situation: FAO Food Price Index." 2022. http://www.fao.org/worldfoodsituation
+
+Headey, Derek, and Shenggen Fan. "Anatomy of a Crisis: The Causes and Consequences of Surging Food Prices." *Agricultural Economics* 39, no. s1 (2008): 375-391.
+
+International Energy Agency (IEA). "Global Energy Review 2022." IEA Publications, 2022.
+
+International Energy Agency (IEA). "Critical Minerals Market Review 2023." IEA Publications, 2023.
+
+International Fertilizer Association (IFA). "Fertilizer Outlook 2022-2023." Paris: IFA, 2022.
+
+U.S. Energy Information Administration (EIA). "World Oil Transit Chokepoints." 2023. https://www.eia.gov/international/analysis/special-topics/World_Oil_Transit_Chokepoints
 
 Peterson Institute for International Economics. "Economic Sanctions Database." Accessed 2024. https://www.piie.com/sanctions
 
