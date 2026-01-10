@@ -26,8 +26,10 @@ A Chinese Perspective Box explores Beijing's concept of **cyber sovereignty** (�
 
 The information domain represents competition's cutting edge where conventional tools of economic statecraft run up against their limits. Traditional export controls targeting physical goods struggle to restrict software that crosses borders intangibly—you can embargo a machine, but not an algorithm. Financial sanctions targeting specific entities encounter difficulties addressing cyber operations conducted through proxies and shell companies with shifting identities. Tariffs and quotas prove irrelevant for digital services delivered through internet connections. We are attempting to fight a 21st-century information war with 20th-century trade weapons. This domain requires new conceptual frameworks and policy tools—combining technical measures (cyber defenses, encryption standards), regulatory approaches (data localization responses, platform governance), standards engagement (technical committee participation, allied coordination), and narrative contestation (countering disinformation, promoting democratic technology governance norms). Understanding information domain competition is essential not just for comprehending U.S.-China strategic rivalry but for navigating the broader transformation of economic and security competition in an increasingly digital world.
 
-![Global Subsea Cable Infrastructure](../figures/fig_03_05_subsea_cables.png)
-*Figure 5.1: Global subsea telecommunications cable infrastructure. Over 95% of intercontinental data travels via undersea cables, making landing points and cable routes critical chokepoints for global connectivity. Critical hubs (red) include major data centers and internet exchange points.*
+<figure>
+  <img src="../figures/fig_03_05_subsea_cables.png" alt="Global Subsea Cable Infrastructure" style="width:100%; max-width:100%;">
+  <figcaption>Figure 5.1: Global subsea telecommunications cable infrastructure. Over 95% of intercontinental data travels via undersea cables, making landing points and cable routes critical chokepoints for global connectivity. Critical hubs (red) include major data centers and internet exchange points.</figcaption>
+</figure>
 
 ---
 
