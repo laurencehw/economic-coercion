@@ -16,6 +16,7 @@
   --border-color: #e0e0e0;
   --shadow-light: 0 2px 8px rgba(0, 0, 0, 0.1);
   --shadow-medium: 0 4px 12px rgba(0, 0, 0, 0.15);
+  --hover-background: #e3f2fd;
 }
 
 .markdown-section {
@@ -63,7 +64,6 @@ figure img {
   border-radius: 6px;
   box-shadow: var(--shadow-medium);
   transition: transform 0.2s ease, box-shadow 0.2s ease;
-  cursor: zoom-in;
 }
 
 figure img:hover {
@@ -93,11 +93,12 @@ figure figcaption {
 
 /* ==========================================================================
    Callout Boxes for Key Concepts
+   Note: Use CSS classes on elements. The :has() and :contains() selectors
+   are not supported in standard CSS. Apply classes directly to blockquotes.
    ========================================================================== */
 
-/* Chinese Perspective boxes */
-.chinese-perspective,
-blockquote:has(strong:first-child:contains("Chinese Perspective")) {
+/* Chinese Perspective boxes - apply class="chinese-perspective" to blockquote */
+.chinese-perspective {
   background: linear-gradient(135deg, #fff5f5 0%, #ffe8e8 100%);
   border-left: 5px solid var(--secondary-color);
   padding: 1.5em;
@@ -105,9 +106,8 @@ blockquote:has(strong:first-child:contains("Chinese Perspective")) {
   border-radius: 0 8px 8px 0;
 }
 
-/* Government Tools boxes */
-.government-tool,
-blockquote:has(strong:first-child:contains("Government Tool")) {
+/* Government Tools boxes - apply class="government-tool" to blockquote */
+.government-tool {
   background: linear-gradient(135deg, #f0f7ff 0%, #e3f0ff 100%);
   border-left: 5px solid var(--primary-color);
   padding: 1.5em;
@@ -115,9 +115,8 @@ blockquote:has(strong:first-child:contains("Government Tool")) {
   border-radius: 0 8px 8px 0;
 }
 
-/* Case Study boxes */
-.case-study,
-blockquote:has(strong:first-child:contains("Case Study")) {
+/* Case Study boxes - apply class="case-study" to blockquote */
+.case-study {
   background: linear-gradient(135deg, #f5fff5 0%, #e8ffe8 100%);
   border-left: 5px solid var(--accent-color);
   padding: 1.5em;
@@ -125,15 +124,22 @@ blockquote:has(strong:first-child:contains("Case Study")) {
   border-radius: 0 8px 8px 0;
 }
 
-/* Warning/Important boxes */
-.warning,
-blockquote:has(strong:first-child:contains("Warning")),
-blockquote:has(strong:first-child:contains("Important")) {
+/* Warning/Important boxes - apply class="warning" to blockquote */
+.warning {
   background: linear-gradient(135deg, #fff9f0 0%, #fff3e0 100%);
   border-left: 5px solid var(--warning-color);
   padding: 1.5em;
   margin: 1.5em 0;
   border-radius: 0 8px 8px 0;
+}
+
+/* Tabletop Exercise boxes - apply class="tabletop-exercise" */
+.tabletop-exercise {
+  background: linear-gradient(135deg, #fafafa 0%, #f0f0f0 100%);
+  border: 2px dashed var(--primary-color);
+  border-radius: 8px;
+  padding: 1.5em;
+  margin: 2em 0;
 }
 
 /* Generic blockquote styling */
@@ -185,7 +191,7 @@ blockquote p {
 }
 
 .markdown-section table tbody tr:hover {
-  background: #e3f2fd;
+  background: var(--hover-background);
 }
 
 /* ==========================================================================
@@ -218,8 +224,7 @@ blockquote p {
    Executive Summary Styling
    ========================================================================== */
 
-.executive-summary,
-.markdown-section > h2:first-of-type + p {
+.executive-summary {
   font-size: 1.1em;
   line-height: 1.8;
   color: #444;
@@ -326,15 +331,21 @@ dfn, .key-term {
 }
 
 /* ==========================================================================
-   Dark Mode Support (if enabled)
+   Dark Mode Support
+   All color variables are redefined for proper contrast
    ========================================================================== */
 
 @media (prefers-color-scheme: dark) {
   :root {
+    --primary-color: #4da6ff;
+    --secondary-color: #ff6b6b;
+    --accent-color: #51cf66;
+    --warning-color: #ffa94d;
     --text-color: #e0e0e0;
     --text-muted: #a0a0a0;
     --background-light: #2d2d2d;
     --border-color: #444;
+    --hover-background: #3d3d3d;
   }
 
   .book-body {
@@ -353,12 +364,45 @@ dfn, .key-term {
     background: #252525;
   }
 
+  .chinese-perspective {
+    background: linear-gradient(135deg, #2d2020 0%, #352525 100%);
+  }
+
+  .government-tool {
+    background: linear-gradient(135deg, #1d2530 0%, #252d38 100%);
+  }
+
+  .case-study {
+    background: linear-gradient(135deg, #202d20 0%, #253525 100%);
+  }
+
+  .warning {
+    background: linear-gradient(135deg, #2d2820 0%, #353025 100%);
+  }
+
+  .tabletop-exercise {
+    background: linear-gradient(135deg, #252525 0%, #2d2d2d 100%);
+  }
+
+  .markdown-section table thead {
+    background: linear-gradient(135deg, var(--primary-color) 0%, #2d6da8 100%);
+  }
+
   .markdown-section table tbody tr:nth-child(even) {
     background: #252525;
   }
 
   .markdown-section table tbody tr:hover {
-    background: #333;
+    background: var(--hover-background);
+  }
+
+  .markdown-section code {
+    background: #383838;
+    color: #ff9999;
+  }
+
+  .executive-summary {
+    color: #bbb;
   }
 }
 
@@ -376,18 +420,5 @@ dfn, .key-term {
 
 .navigation-next:hover,
 .navigation-prev:hover {
-  background: #e3f2fd;
-}
-
-/* ==========================================================================
-   Tabletop Exercise Styling
-   ========================================================================== */
-
-.tabletop-exercise,
-.markdown-section > h3:contains("Tabletop Exercise") ~ * {
-  background: linear-gradient(135deg, #fafafa 0%, #f0f0f0 100%);
-  border: 2px dashed var(--primary-color);
-  border-radius: 8px;
-  padding: 1.5em;
-  margin: 2em 0;
+  background: var(--hover-background);
 }
