@@ -53,12 +53,6 @@ p1 <- ggplot(cfius_long %>% filter(metric %in% c("Full Notices", "Short-Form Dec
   theme(legend.position = "right")
 
 # Panel 2: Outcomes
-outcomes <- cfius %>%
-  select(year, withdrawals, mitigation_agreements) %>%
-  mutate(
-    withdrawal_rate = withdrawals / (withdrawals + mitigation_agreements + 10) * 100  # Simplified
-  )
-
 p2 <- ggplot(cfius, aes(x = year)) +
   geom_col(aes(y = withdrawals), fill = "#d62728", alpha = 0.7, width = 0.4,
            position = position_nudge(x = -0.2)) +

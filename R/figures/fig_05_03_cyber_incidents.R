@@ -7,6 +7,7 @@ source("R/setup_theme.R")
 library(dplyr)
 library(tidyr)
 library(scales)
+library(ggrepel)
 
 # Load data
 cyber_data <- read.csv("data/sources/cyber_economic_incidents.csv", stringsAsFactors = FALSE)
@@ -42,12 +43,14 @@ p <- ggplot(cyber_data, aes(x = year, y = damage_billions)) +
         shape = coercion_label),
     alpha = 0.8
   ) +
-  # Add labels for major incidents
-  geom_text(
+  # Add labels for major incidents using ggrepel to avoid overlap
+  geom_text_repel(
     data = cyber_data %>% filter(damage_billions > 1),
     aes(label = incident_name),
-    hjust = -0.1, vjust = 0.5, size = 3,
-    check_overlap = TRUE
+    size = 3,
+    box.padding = 0.5,
+    point.padding = 0.3,
+    max.overlaps = 15
   ) +
   # Scales
   scale_color_manual(values = category_colors, name = "Incident Type") +

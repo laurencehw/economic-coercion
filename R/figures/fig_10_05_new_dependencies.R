@@ -6,6 +6,7 @@
 source("R/setup_theme.R")
 library(dplyr)
 library(tidyr)
+library(forcats)
 
 # New dependency landscape
 new_deps <- data.frame(

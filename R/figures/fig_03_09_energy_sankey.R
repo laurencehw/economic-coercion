@@ -55,10 +55,10 @@ clean_data <- energy_flows %>%
   filter(era == "Clean Energy Era") %>%
   count(source_region, resource, application, wt = value)
 
-# Region colors
+# Region colors (distinct colors for each major actor)
 region_colors <- c(
   "Middle East" = "#ff7f0e",
-  "Russia" = "#d62728",
+  "Russia" = "#9467bd",
   "USA" = "#1f77b4",
   "Australia" = "#17becf",
   "Various" = "#7f7f7f",

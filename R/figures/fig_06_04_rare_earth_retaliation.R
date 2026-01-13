@@ -6,6 +6,7 @@
 source("R/setup_theme.R")
 library(dplyr)
 library(tidyr)
+library(forcats)
 
 # China export control events
 china_controls <- data.frame(

@@ -48,14 +48,6 @@ level_colors <- c(
   "Systemic" = "#9467bd"
 )
 
-# Create connections (simplified representation)
-connections <- data.frame(
-  x = c(rep(1.15, 4), rep(2.0, 5), rep(3.0, 4)),
-  xend = c(rep(2.0, 4), rep(3.0, 5), rep(4.0, 4)),
-  y = c(0.7, 1.0, 1.3, 1.6, 0.6, 0.9, 1.2, 1.5, 1.8, 0.7, 1.0, 1.3, 1.6),
-  yend = c(0.9, 1.2, 1.5, 0.6, 0.7, 1.0, 1.3, 1.6, 1.15, 0.85, 1.15, 1.45, 1.15)
-)
-
 # Create the cascade diagram
 p <- ggplot() +
   # Stage backgrounds

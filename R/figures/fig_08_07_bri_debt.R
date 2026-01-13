@@ -6,11 +6,12 @@
 source("R/setup_theme.R")
 library(dplyr)
 library(tidyr)
+library(forcats)
 library(sf)
 library(rnaturalearth)
 library(rnaturalearthdata)
 
-# BRI debt data
+# BRI debt data with ISO A3 codes for robust country matching
 bri_debt <- data.frame(
   country = c(
     "Pakistan", "Sri Lanka", "Laos", "Zambia", "Kenya",
@@ -18,6 +19,13 @@ bri_debt <- data.frame(
     "Myanmar", "Kazakhstan", "Uzbekistan", "Tajikistan", "Kyrgyzstan",
     "Mongolia", "Ecuador", "Venezuela", "Argentina", "Egypt",
     "Djibouti", "Maldives", "Angola", "Nigeria", "Tanzania"
+  ),
+  iso_a3 = c(
+    "PAK", "LKA", "LAO", "ZMB", "KEN",
+    "ETH", "MYS", "IDN", "BGD", "KHM",
+    "MMR", "KAZ", "UZB", "TJK", "KGZ",
+    "MNG", "ECU", "VEN", "ARG", "EGY",
+    "DJI", "MDV", "AGO", "NGA", "TZA"
   ),
   bri_debt_billions = c(
     27.4, 7.4, 5.9, 6.6, 9.8,
@@ -52,9 +60,9 @@ bri_debt <- data.frame(
 # Get world map
 world <- ne_countries(scale = "medium", returnclass = "sf")
 
-# Merge data
+# Merge data using ISO A3 codes for robust country matching
 world_bri <- world %>%
-  left_join(bri_debt, by = c("name" = "country"))
+  left_join(bri_debt, by = c("iso_a3" = "iso_a3"))
 
 # Risk colors
 risk_colors <- c(

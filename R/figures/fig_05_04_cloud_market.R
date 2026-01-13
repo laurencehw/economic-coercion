@@ -12,14 +12,7 @@ cloud_data <- read.csv("data/sources/cloud_market_share.csv", stringsAsFactors =
 
 # Filter to 2024 data for main comparison
 cloud_2024 <- cloud_data %>%
-  filter(year == 2024, provider != "Others") %>%
-  mutate(
-    provider_country = case_when(
-      headquarters == "USA" ~ "US Providers",
-      headquarters == "China" ~ "Chinese Providers",
-      TRUE ~ "Other"
-    )
-  )
+  filter(year == 2024, provider != "Others")
 
 # Provider colors
 provider_colors <- c(

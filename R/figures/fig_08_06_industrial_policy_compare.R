@@ -6,6 +6,7 @@
 source("R/setup_theme.R")
 library(dplyr)
 library(tidyr)
+library(forcats)
 
 # Industrial policy programs
 industrial_policy <- data.frame(

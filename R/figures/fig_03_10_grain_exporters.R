@@ -6,6 +6,7 @@
 source("R/setup_theme.R")
 library(dplyr)
 library(tidyr)
+library(forcats)
 
 # Grain export data (2022-2023 averages)
 grain_exports <- data.frame(
