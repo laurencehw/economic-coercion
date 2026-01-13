@@ -1,0 +1,88 @@
+# GitHub Actions workflow for deploying GitBook to GitHub Pages
+name: Deploy GitBook
+
+on:
+  push:
+    branches:
+      - main
+      - master
+    paths:
+      - 'gitbook/**'
+      - 'chapters/**'
+      - 'figures/**'
+      - '.github/workflows/deploy-gitbook.yml'
+  workflow_dispatch:
+
+# Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# Allow only one concurrent deployment
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18'
+          cache: 'npm'
+          cache-dependency-path: 'gitbook/package-lock.json'
+
+      - name: Install GitBook CLI
+        run: |
+          npm install -g gitbook-cli
+          gitbook fetch 3.2.3
+
+      - name: Install GitBook plugins
+        working-directory: ./gitbook
+        run: |
+          if [ -f "book.json" ]; then
+            gitbook install
+          fi
+
+      - name: Copy figures to GitBook
+        run: |
+          mkdir -p gitbook/figures
+          cp -r figures/* gitbook/figures/ 2>/dev/null || true
+
+      - name: Copy chapters to GitBook
+        run: |
+          # Sync chapter content if needed
+          for dir in chapters/ch*/; do
+            chapter_name=$(basename "$dir")
+            chapter_num=$(echo "$chapter_name" | grep -oP '\d+')
+            if [ -f "$dir/chapter_${chapter_num}.md" ]; then
+              cp "$dir/chapter_${chapter_num}.md" "gitbook/chapters/" 2>/dev/null || true
+            fi
+          done
+
+      - name: Build GitBook
+        working-directory: ./gitbook
+        run: |
+          gitbook build . ./public
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: ./gitbook/public
+
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    needs: build
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

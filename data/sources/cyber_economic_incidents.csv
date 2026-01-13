@@ -1,0 +1,22 @@
+year,incident_name,attacker_attribution,target_country,target_sector,estimated_damage_usd,incident_type,economic_coercion_link,description
+2010,Stuxnet,USA/Israel,Iran,Energy,1000000000,Sabotage,Yes,Destroyed Iranian nuclear centrifuges
+2012,Saudi Aramco (Shamoon),Iran,Saudi Arabia,Energy,1000000000,Destructive,Yes,Wiped 35000 workstations at Saudi Aramco
+2014,Sony Pictures,North Korea,USA,Entertainment,100000000,Destructive,Yes,Response to The Interview film
+2015,Ukraine Power Grid,Russia,Ukraine,Energy,100000000,Sabotage,Yes,First confirmed cyberattack on power grid
+2015,OPM Data Breach,China,USA,Government,500000000,Espionage,No,22 million personnel records stolen
+2016,Bangladesh Bank Heist,North Korea,Bangladesh,Financial,81000000,Theft,Yes,SWIFT system exploited for theft
+2016,DNC Hack,Russia,USA,Political,0,Espionage,Yes,Election interference operation
+2017,NotPetya,Russia,Ukraine/Global,Multiple,10000000000,Destructive,Yes,Largest cyberattack in history by damage
+2017,WannaCry,North Korea,Global,Healthcare,4000000000,Ransomware,Yes,Affected 200000 computers in 150 countries
+2017,Equifax Breach,China,USA,Financial,1400000000,Espionage,No,147 million consumer records stolen
+2018,Marriott Breach,China,USA,Hospitality,200000000,Espionage,No,500 million guest records compromised
+2019,Norsk Hydro,Criminal,Norway,Manufacturing,70000000,Ransomware,No,Aluminum producer forced to manual operations
+2020,SolarWinds,Russia,USA,Technology,100000000000,Espionage,No,Supply chain attack affecting 18000 organizations
+2021,Colonial Pipeline,Criminal,USA,Energy,4400000,Ransomware,No,Major fuel pipeline shutdown
+2021,JBS Foods,Criminal,USA/Brazil,Agriculture,11000000,Ransomware,No,World's largest meat processor shutdown
+2021,Microsoft Exchange,China,Global,Technology,500000000,Espionage,No,Hafnium exploited zero-day vulnerabilities
+2022,Viasat,Russia,Ukraine/Europe,Telecommunications,50000000,Sabotage,Yes,Satellite communications disrupted at war start
+2022,Ukraine Government Sites,Russia,Ukraine,Government,10000000,Destructive,Yes,Wiper malware and defacements
+2023,MOVEit,Criminal,Global,Multiple,10000000000,Ransomware,No,Mass exploitation of file transfer software
+2023,Microsoft Cloud,China,USA,Government,100000000,Espionage,No,Storm-0558 accessed government emails
+2024,Change Healthcare,Criminal,USA,Healthcare,1000000000,Ransomware,No,Major healthcare payment processor shutdown
