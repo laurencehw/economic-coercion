@@ -1,0 +1,11 @@
+year,total_revenue_billions,consumer_business,carrier_business,enterprise_business,yoy_growth,sanctions_phase
+2015,60.8,20.0,35.0,5.8,37,Pre-sanctions
+2016,75.1,28.0,40.0,7.1,24,Pre-sanctions
+2017,92.5,36.4,48.0,8.1,23,Pre-sanctions
+2018,105.2,48.5,48.0,8.7,14,Pre-sanctions
+2019,122.0,66.9,47.0,8.1,16,Initial restrictions
+2020,136.7,48.2,56.6,31.9,12,Entity list + FDPR
+2021,99.9,24.3,45.0,30.6,-27,Full restrictions
+2022,92.4,21.2,42.8,28.4,-8,Full restrictions
+2023,99.5,25.1,45.2,29.2,8,Partial recovery
+2024,105.0,28.0,46.0,31.0,6,Partial recovery

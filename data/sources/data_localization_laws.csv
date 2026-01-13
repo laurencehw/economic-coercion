@@ -1,0 +1,26 @@
+country,region,law_name,year_enacted,stringency,data_residency_required,cross_border_transfer_restricted,sector_specific,notes
+China,Asia,Cybersecurity Law,2017,High,Yes,Yes,No,Comprehensive data localization for critical information infrastructure
+China,Asia,Data Security Law,2021,High,Yes,Yes,No,Tiered data classification with strict export controls
+China,Asia,Personal Information Protection Law,2021,High,Yes,Yes,No,GDPR-style but with stronger localization requirements
+Russia,Europe,Federal Law 242-FZ,2015,High,Yes,Yes,No,Personal data of Russian citizens must be stored domestically
+Russia,Europe,Sovereign Internet Law,2019,High,Yes,Yes,No,Requires routing through state-controlled exchange points
+India,Asia,Draft Data Protection Bill,2022,Medium,Partial,Yes,Yes,Critical personal data must remain in India
+Vietnam,Asia,Cybersecurity Law,2018,High,Yes,Yes,No,Local storage required for user data
+Indonesia,Asia,Government Regulation 71,2019,Medium,Partial,Yes,Yes,Public sector data localization requirements
+Turkey,Europe,Law No. 6698,2016,Medium,Partial,Yes,No,Personal data transfer requires explicit consent
+Brazil,Latin America,LGPD,2020,Low,No,Partial,No,GDPR-inspired but no strict localization
+Saudi Arabia,Middle East,Personal Data Protection Law,2021,Medium,Partial,Yes,Yes,Financial and health data localization
+UAE,Middle East,Data Protection Law,2021,Medium,Partial,Yes,Yes,Sector-specific requirements
+Nigeria,Africa,NDPR,2019,Medium,Partial,Yes,No,Data localization for critical infrastructure
+South Korea,Asia,Personal Information Protection Act,2011,Low,No,Partial,No,Cross-border transfers allowed with safeguards
+Japan,Asia,APPI,2003,Low,No,No,No,Liberal cross-border data flows
+EU,Europe,GDPR,2018,Low,No,Partial,No,Adequacy decisions allow transfers to approved countries
+USA,North America,Various State Laws,2023,Low,No,No,Yes,No federal data localization law
+Australia,Oceania,Privacy Act,1988,Low,No,No,No,No data localization requirements
+UK,Europe,UK GDPR,2021,Low,No,Partial,No,Post-Brexit adequacy maintained with EU
+Singapore,Asia,PDPA,2012,Low,No,No,No,Pro-business data transfer framework
+Germany,Europe,IT Security Act 2.0,2021,Medium,Partial,Yes,Yes,Critical infrastructure data requirements
+France,Europe,GDPR + Sectoral,2018,Medium,Partial,Yes,Yes,Health data sovereignty requirements
+Kazakhstan,Asia,Law on Personal Data,2013,High,Yes,Yes,No,Mandatory local storage
+Pakistan,Asia,Prevention of Electronic Crimes Act,2016,Medium,Partial,Yes,No,Government can require local storage
+Thailand,Asia,Personal Data Protection Act,2019,Medium,Partial,Yes,No,Certain data categories require local storage

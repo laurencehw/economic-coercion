@@ -1,0 +1,29 @@
+date,event,actor,action_type,value_billions,tariff_rate,products_affected,escalation_level
+2018-01-22,Solar panel tariffs,USA,Tariff,8.5,30,Solar cells and modules,1
+2018-03-01,Steel aluminum tariffs,USA,Tariff,48,25,Steel and aluminum,2
+2018-04-02,China retaliates - Round 1,China,Tariff,3,25,Fruit nuts pork wine,2
+2018-07-06,List 1 tariffs imposed,USA,Tariff,34,25,Industrial machinery aerospace,3
+2018-07-06,China retaliates - Round 2,China,Tariff,34,25,Soybeans autos,3
+2018-08-23,List 2 tariffs imposed,USA,Tariff,16,25,Semiconductors chemicals,4
+2018-08-23,China retaliates - Round 3,China,Tariff,16,25,Coal medical steel,4
+2018-09-24,List 3 tariffs imposed,USA,Tariff,200,10,Consumer goods electronics,5
+2018-09-24,China retaliates - Round 4,China,Tariff,60,10,LNG chemicals,5
+2018-12-01,Truce at G20,Both,Pause,0,0,90-day negotiation,4
+2019-05-10,List 3 tariffs raised,USA,Tariff,200,25,Consumer goods electronics,6
+2019-05-13,China retaliates - Round 5,China,Tariff,60,25,LNG chemicals,6
+2019-05-16,Huawei Entity List,USA,Export Control,0,0,Huawei and affiliates,7
+2019-08-01,List 4A announced,USA,Tariff,300,10,Nearly all remaining,8
+2019-08-05,China currency designation,USA,Designation,0,0,Currency manipulator,8
+2019-08-23,China retaliates - Round 6,China,Tariff,75,10,Autos crude oil,8
+2019-09-01,List 4A partially imposed,USA,Tariff,112,15,Consumer electronics,8
+2019-10-11,Phase One agreement,Both,Agreement,0,0,Partial de-escalation,7
+2020-01-15,Phase One signed,Both,Agreement,200,0,Purchase commitments,6
+2020-05-15,TSMC restrictions,USA,Export Control,0,0,Huawei chip supply,7
+2020-08-17,Huawei restrictions expanded,USA,Export Control,0,0,All advanced chips,8
+2021-06-03,Entity list expansion,USA,Export Control,0,0,59 Chinese entities,8
+2022-08-09,CHIPS Act signed,USA,Industrial Policy,52,0,Domestic semiconductors,8
+2022-10-07,October 7 semiconductor rules,USA,Export Control,0,0,Advanced AI chips equipment,9
+2023-01-27,Netherlands Japan export controls,Allies,Export Control,0,0,ASML lithography,9
+2023-07-03,China gallium germanium controls,China,Export Control,0,0,Critical minerals,9
+2023-10-17,Updated semiconductor rules,USA,Export Control,0,0,AI chips expanded,10
+2024-05-14,EV tariffs 100%,USA,Tariff,18,100,Electric vehicles,10

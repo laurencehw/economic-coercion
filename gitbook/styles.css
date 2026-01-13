@@ -1,10 +1,55 @@
 /* Custom styles for Economic Coercion GitBook */
+/* Enhanced styling for improved readability and engagement */
 
-/* Full-width figures with proper centering and spacing */
+/* ==========================================================================
+   Typography & Base Styles
+   ========================================================================== */
+
+:root {
+  --primary-color: #1f77b4;
+  --secondary-color: #d62728;
+  --accent-color: #2ca02c;
+  --warning-color: #ff7f0e;
+  --text-color: #333;
+  --text-muted: #666;
+  --background-light: #f8f9fa;
+  --border-color: #e0e0e0;
+  --shadow-light: 0 2px 8px rgba(0, 0, 0, 0.1);
+  --shadow-medium: 0 4px 12px rgba(0, 0, 0, 0.15);
+}
+
+.markdown-section {
+  font-size: 17px;
+  line-height: 1.7;
+  color: var(--text-color);
+}
+
+.markdown-section h1 {
+  border-bottom: 3px solid var(--primary-color);
+  padding-bottom: 0.5em;
+  margin-top: 2em;
+}
+
+.markdown-section h2 {
+  border-bottom: 2px solid var(--border-color);
+  padding-bottom: 0.3em;
+  margin-top: 1.8em;
+  color: var(--primary-color);
+}
+
+.markdown-section h3 {
+  color: var(--text-color);
+  margin-top: 1.5em;
+}
+
+/* ==========================================================================
+   Full-width Figures with Enhanced Display
+   ========================================================================== */
+
 figure {
   width: 100%;
   max-width: 100%;
-  margin: 2em 0;
+  margin: 2.5em 0;
   padding: 0;
   text-align: center;
 }
@@ -15,18 +60,26 @@ figure img {
   height: auto;
   display: block;
   margin: 0 auto;
-  border-radius: 4px;
-  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  border-radius: 6px;
+  box-shadow: var(--shadow-medium);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+  cursor: zoom-in;
+}
+
+figure img:hover {
+  transform: scale(1.01);
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.2);
 }
 
 figure figcaption {
-  margin-top: 0.75em;
-  font-size: 0.9em;
-  color: #666;
+  margin-top: 1em;
+  font-size: 0.95em;
+  color: var(--text-muted);
   font-style: italic;
   text-align: center;
-  line-height: 1.4;
-  padding: 0 1em;
+  line-height: 1.5;
+  padding: 0 2em;
+  font-weight: 500;
 }
 
 /* Ensure images in markdown also display full width */
@@ -34,4 +87,307 @@ figure figcaption {
   max-width: 100%;
   width: 100%;
   height: auto;
+  border-radius: 6px;
+  box-shadow: var(--shadow-light);
+}
+
+/* ==========================================================================
+   Callout Boxes for Key Concepts
+   ========================================================================== */
+
+/* Chinese Perspective boxes */
+.chinese-perspective,
+blockquote:has(strong:first-child:contains("Chinese Perspective")) {
+  background: linear-gradient(135deg, #fff5f5 0%, #ffe8e8 100%);
+  border-left: 5px solid var(--secondary-color);
+  padding: 1.5em;
+  margin: 1.5em 0;
+  border-radius: 0 8px 8px 0;
+}
+
+/* Government Tools boxes */
+.government-tool,
+blockquote:has(strong:first-child:contains("Government Tool")) {
+  background: linear-gradient(135deg, #f0f7ff 0%, #e3f0ff 100%);
+  border-left: 5px solid var(--primary-color);
+  padding: 1.5em;
+  margin: 1.5em 0;
+  border-radius: 0 8px 8px 0;
+}
+
+/* Case Study boxes */
+.case-study,
+blockquote:has(strong:first-child:contains("Case Study")) {
+  background: linear-gradient(135deg, #f5fff5 0%, #e8ffe8 100%);
+  border-left: 5px solid var(--accent-color);
+  padding: 1.5em;
+  margin: 1.5em 0;
+  border-radius: 0 8px 8px 0;
+}
+
+/* Warning/Important boxes */
+.warning,
+blockquote:has(strong:first-child:contains("Warning")),
+blockquote:has(strong:first-child:contains("Important")) {
+  background: linear-gradient(135deg, #fff9f0 0%, #fff3e0 100%);
+  border-left: 5px solid var(--warning-color);
+  padding: 1.5em;
+  margin: 1.5em 0;
+  border-radius: 0 8px 8px 0;
+}
+
+/* Generic blockquote styling */
+blockquote {
+  background: var(--background-light);
+  border-left: 4px solid var(--border-color);
+  padding: 1em 1.5em;
+  margin: 1.5em 0;
+  border-radius: 0 6px 6px 0;
+  font-style: normal;
+}
+
+blockquote p {
+  margin: 0.5em 0;
+}
+
+/* ==========================================================================
+   Tables
+   ========================================================================== */
+
+.markdown-section table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1.5em 0;
+  font-size: 0.95em;
+  box-shadow: var(--shadow-light);
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+.markdown-section table thead {
+  background: linear-gradient(135deg, var(--primary-color) 0%, #1565c0 100%);
+  color: white;
+}
+
+.markdown-section table th {
+  padding: 1em;
+  text-align: left;
+  font-weight: 600;
+}
+
+.markdown-section table td {
+  padding: 0.8em 1em;
+  border-bottom: 1px solid var(--border-color);
+}
+
+.markdown-section table tbody tr:nth-child(even) {
+  background: var(--background-light);
+}
+
+.markdown-section table tbody tr:hover {
+  background: #e3f2fd;
+}
+
+/* ==========================================================================
+   Code Blocks
+   ========================================================================== */
+
+.markdown-section code {
+  background: #f5f5f5;
+  padding: 0.2em 0.5em;
+  border-radius: 4px;
+  font-size: 0.9em;
+  color: #c7254e;
+}
+
+.markdown-section pre {
+  background: #2d2d2d;
+  border-radius: 8px;
+  padding: 1.5em;
+  overflow-x: auto;
+  box-shadow: var(--shadow-medium);
+}
+
+.markdown-section pre code {
+  background: transparent;
+  color: #f8f8f2;
+  padding: 0;
+}
+
+/* ==========================================================================
+   Executive Summary Styling
+   ========================================================================== */
+
+.executive-summary,
+.markdown-section > h2:first-of-type + p {
+  font-size: 1.1em;
+  line-height: 1.8;
+  color: #444;
+  border-left: 4px solid var(--primary-color);
+  padding-left: 1.5em;
+  margin: 2em 0;
+}
+
+/* ==========================================================================
+   Key Terms and Definitions
+   ========================================================================== */
+
+dfn, .key-term {
+  font-weight: 600;
+  color: var(--primary-color);
+  font-style: normal;
+}
+
+/* ==========================================================================
+   Links
+   ========================================================================== */
+
+.markdown-section a {
+  color: var(--primary-color);
+  text-decoration: none;
+  border-bottom: 1px dotted var(--primary-color);
+  transition: all 0.2s ease;
+}
+
+.markdown-section a:hover {
+  color: #1565c0;
+  border-bottom-style: solid;
+}
+
+/* ==========================================================================
+   Horizontal Rules
+   ========================================================================== */
+
+.markdown-section hr {
+  border: none;
+  height: 3px;
+  background: linear-gradient(90deg, var(--primary-color), var(--secondary-color), var(--accent-color));
+  margin: 3em 0;
+  border-radius: 2px;
+}
+
+/* ==========================================================================
+   Print Styles
+   ========================================================================== */
+
+@media print {
+  .markdown-section {
+    font-size: 11pt;
+  }
+
+  figure img {
+    box-shadow: none;
+    border: 1px solid #ccc;
+  }
+
+  .markdown-section table {
+    box-shadow: none;
+    border: 1px solid #ccc;
+  }
+
+  blockquote {
+    background: #f5f5f5;
+  }
+
+  .markdown-section a {
+    color: var(--text-color);
+    border-bottom: none;
+  }
+
+  .markdown-section a::after {
+    content: " (" attr(href) ")";
+    font-size: 0.8em;
+    color: var(--text-muted);
+  }
+}
+
+/* ==========================================================================
+   Responsive Adjustments
+   ========================================================================== */
+
+@media (max-width: 768px) {
+  .markdown-section {
+    font-size: 16px;
+  }
+
+  figure figcaption {
+    padding: 0 0.5em;
+    font-size: 0.9em;
+  }
+
+  .markdown-section table {
+    font-size: 0.85em;
+  }
+
+  .markdown-section table th,
+  .markdown-section table td {
+    padding: 0.6em 0.8em;
+  }
+}
+
+/* ==========================================================================
+   Dark Mode Support (if enabled)
+   ========================================================================== */
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --text-color: #e0e0e0;
+    --text-muted: #a0a0a0;
+    --background-light: #2d2d2d;
+    --border-color: #444;
+  }
+
+  .book-body {
+    background: #1a1a1a;
+  }
+
+  .markdown-section {
+    color: var(--text-color);
+  }
+
+  figure img {
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.4);
+  }
+
+  blockquote {
+    background: #252525;
+  }
+
+  .markdown-section table tbody tr:nth-child(even) {
+    background: #252525;
+  }
+
+  .markdown-section table tbody tr:hover {
+    background: #333;
+  }
+}
+
+/* ==========================================================================
+   Chapter Navigation Enhancement
+   ========================================================================== */
+
+.navigation-next,
+.navigation-prev {
+  padding: 1em;
+  background: var(--background-light);
+  border-radius: 8px;
+  transition: background 0.2s ease;
+}
+
+.navigation-next:hover,
+.navigation-prev:hover {
+  background: #e3f2fd;
+}
+
+/* ==========================================================================
+   Tabletop Exercise Styling
+   ========================================================================== */
+
+.tabletop-exercise,
+.markdown-section > h3:contains("Tabletop Exercise") ~ * {
+  background: linear-gradient(135deg, #fafafa 0%, #f0f0f0 100%);
+  border: 2px dashed var(--primary-color);
+  border-radius: 8px;
+  padding: 1.5em;
+  margin: 2em 0;
 }

@@ -1,0 +1,33 @@
+year,provider,headquarters,global_share,china_share,europe_share,us_share,revenue_billions
+2019,Amazon AWS,USA,32.4,6.4,28.5,38.2,35.0
+2019,Microsoft Azure,USA,17.6,2.1,19.2,22.1,18.0
+2019,Google Cloud,USA,6.1,1.2,7.5,8.2,8.9
+2019,Alibaba Cloud,China,5.4,42.3,0.8,0.2,5.2
+2019,Tencent Cloud,China,2.8,18.8,0.3,0.1,2.1
+2019,IBM Cloud,USA,4.5,0.5,5.2,5.8,5.0
+2019,Huawei Cloud,China,1.2,12.5,0.2,0.0,1.5
+2019,Others,Various,30.0,16.2,38.3,25.4,25.0
+2021,Amazon AWS,USA,33.0,6.1,29.2,38.5,62.2
+2021,Microsoft Azure,USA,21.0,2.5,22.8,25.2,45.3
+2021,Google Cloud,USA,9.5,1.5,10.2,12.1,19.2
+2021,Alibaba Cloud,China,5.9,38.2,0.9,0.2,9.2
+2021,Tencent Cloud,China,2.4,15.2,0.4,0.1,3.1
+2021,IBM Cloud,USA,3.2,0.4,3.8,4.1,4.0
+2021,Huawei Cloud,China,2.1,16.8,0.3,0.0,3.2
+2021,Others,Various,22.9,19.3,32.4,19.8,28.0
+2023,Amazon AWS,USA,31.0,5.8,28.5,36.2,90.8
+2023,Microsoft Azure,USA,24.0,2.8,25.5,28.1,75.5
+2023,Google Cloud,USA,11.0,1.8,12.8,14.2,33.1
+2023,Alibaba Cloud,China,4.2,34.5,0.7,0.1,12.5
+2023,Tencent Cloud,China,2.0,12.8,0.3,0.1,4.2
+2023,Huawei Cloud,China,2.5,19.2,0.2,0.0,5.8
+2023,Oracle Cloud,USA,2.5,0.3,2.8,3.5,5.1
+2023,Others,Various,22.8,22.8,29.2,17.8,35.0
+2024,Amazon AWS,USA,31.0,5.5,28.0,35.5,100.0
+2024,Microsoft Azure,USA,25.0,3.0,26.5,29.2,85.0
+2024,Google Cloud,USA,12.0,2.0,13.5,15.0,38.0
+2024,Alibaba Cloud,China,4.0,32.0,0.6,0.1,13.0
+2024,Tencent Cloud,China,1.8,11.5,0.2,0.1,4.0
+2024,Huawei Cloud,China,2.8,21.0,0.2,0.0,6.5
+2024,Oracle Cloud,USA,3.0,0.3,3.2,4.0,6.5
+2024,Others,Various,20.4,24.6,27.8,16.1,32.0

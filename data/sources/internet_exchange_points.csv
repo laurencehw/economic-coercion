@@ -1,0 +1,27 @@
+ixp_name,city,country,region,peak_traffic_tbps,members,year_founded,operator_type
+DE-CIX Frankfurt,Frankfurt,Germany,Europe,17.1,1100,1995,Neutral
+AMS-IX,Amsterdam,Netherlands,Europe,14.2,900,1997,Neutral
+LINX,London,UK,Europe,8.5,950,1994,Neutral
+Equinix Ashburn,Ashburn,USA,North America,7.8,350,2000,Commercial
+NAPAfrica,Johannesburg,South Africa,Africa,3.2,450,2012,Neutral
+IX.br (PTT-SP),Sao Paulo,Brazil,Latin America,15.5,2000,2004,Neutral
+MSK-IX,Moscow,Russia,Europe,3.8,550,1995,Neutral
+JPNAP,Tokyo,Japan,Asia,4.2,280,1997,Neutral
+HKIX,Hong Kong,China,Asia,2.8,320,1995,Neutral
+SIX Seattle,Seattle,USA,North America,2.1,280,1997,Neutral
+Equinix Singapore,Singapore,Singapore,Asia,3.5,420,2000,Commercial
+KINX,Seoul,South Korea,Asia,2.2,180,2002,Neutral
+France-IX,Paris,France,Europe,4.8,520,2010,Neutral
+BCIX,Berlin,Germany,Europe,1.2,180,2002,Neutral
+UAE-IX,Dubai,UAE,Middle East,0.8,120,2012,Neutral
+JINX,Johannesburg,South Africa,Africa,0.5,85,2005,Neutral
+MIX-IT,Milan,Italy,Europe,2.1,280,2000,Neutral
+Netnod Stockholm,Stockholm,Sweden,Europe,1.8,240,1996,Neutral
+VIX,Vienna,Austria,Europe,1.5,180,1996,Neutral
+SwissIX,Zurich,Switzerland,Europe,1.1,150,2001,Neutral
+CIXP,Chicago,USA,North America,1.8,220,2000,Neutral
+TorIX,Toronto,Canada,North America,0.9,180,2001,Neutral
+SGIX,Singapore,Singapore,Asia,2.2,280,2009,Neutral
+BIX,Budapest,Hungary,Europe,0.6,120,2001,Neutral
+CAIX,Cairo,Egypt,Africa,0.3,45,2015,Government
+MGIX,Mumbai,India,Asia,1.2,95,2012,Neutral
