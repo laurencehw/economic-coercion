@@ -208,6 +208,16 @@ Moreover, energy transitions depend on minerals examined in Chapter 2—lithium,
 
 The energy transition thus presents difficult tradeoffs. Pursuing climate goals rapidly requires leveraging existing (Chinese-dominated) supply chains, accepting dependencies as the price of speed. Pursuing supply chain security requires building Western capacity, accepting slower transitions and higher costs. Balancing these objectives—climate urgency and security concerns—defines energy policy debates in the United States and Europe.
 
+<figure>
+  <img src="../figures/fig_03_09_energy_sankey.png" alt="Energy Transition: From Oil Dependencies to Mineral Dependencies" style="width:100%; max-width:100%;">
+  <figcaption>Figure 3.9: Energy transition supply chain flows. The fossil fuel era dependencies (top) on Middle Eastern oil are being replaced by clean energy era dependencies (bottom) concentrated through Chinese mineral processing and manufacturing. The transition creates new chokepoints rather than eliminating vulnerability.</figcaption>
+</figure>
+
+<figure>
+  <img src="../figures/fig_03_11_lng_terminals.png" alt="Global LNG Infrastructure" style="width:100%; max-width:100%;">
+  <figcaption>Figure 3.10: Global LNG export and import terminal infrastructure. Qatar's dominant export capacity enables significant market leverage. European import capacity expanded rapidly after 2022 to reduce Russian gas dependence.</figcaption>
+</figure>
+
 ---
 
 ## Strategic Resources and Economic Leverage

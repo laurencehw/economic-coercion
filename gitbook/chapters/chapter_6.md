@@ -113,6 +113,11 @@ The Biden administration conducted a Section 301 tariff review in 2021-2022, ult
 
 As of 2024, U.S. tariffs affect $360 billion in Chinese imports (average effective rate 19.3%); Chinese retaliatory tariffs affect $180 billion in U.S. exports (average 20.7%). Both countries granted some exclusions and exemptions, particularly for products lacking domestic alternatives.
 
+<figure>
+  <img src="../figures/fig_06_05_trade_war_escalation.png" alt="US-China Trade War Escalation (2018-2024)" style="width:100%; max-width:100%;">
+  <figcaption>Figure 6.2: US-China economic conflict escalation ladder (2018-2024). The tariff war phase (2018-2020) evolved into a technology war phase (2022-present) with export controls on semiconductors and critical minerals becoming the primary instruments.</figcaption>
+</figure>
+
 ### Economic Impacts of the Trade War
 
 Assessing trade war impacts requires distinguishing direct effects (tariff incidence) from indirect effects (supply chain reconfiguration, uncertainty).

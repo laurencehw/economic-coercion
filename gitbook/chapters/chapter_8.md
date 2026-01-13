@@ -151,6 +151,11 @@ This represents a **95% decline from peak**, with 2024 investment returning to l
 
 **CFIUS Statistics Reflecting Increased Scrutiny**
 
+<figure>
+  <img src="../figures/fig_08_04_cfius_reviews.png" alt="CFIUS Reviews and Outcomes (2010-2024)" style="width:100%; max-width:100%;">
+  <figcaption>Figure 8.4: CFIUS reviews and outcomes over time. The post-FIRRMA era shows increased scrutiny with more investigations, withdrawals, and mitigation agreements, particularly for Chinese transactions.</figcaption>
+</figure>
+
 CFIUS annual reports document transformed review patterns:
 
 - **Total notices**: Declined from 237 (2016) to approximately 150-180 annually (2019-2024) as Chinese filings disappeared
@@ -612,6 +617,11 @@ Beginning May 2020, China imposed de facto restrictions on multiple Australian e
 - Copper ore and concentrates: Some restrictions and delays
 
 ### Australian Responses and Economic Impact
+
+<figure>
+  <img src="../figures/fig_08_05_australia_china.png" alt="Australia-China Trade Restrictions Impact" style="width:100%; max-width:100%;">
+  <figcaption>Figure 8.5: Australian exports to China during the 2020-2022 trade restrictions. Wine and barley were severely affected (over 95% decline), while iron ore remained untouched due to China's dependence on Australian supply. Restrictions began easing in 2023.</figcaption>
+</figure>
 
 **Economic Costs**
 

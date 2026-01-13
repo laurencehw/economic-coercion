@@ -35,8 +35,6 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: '18'
-          cache: 'npm'
-          cache-dependency-path: 'gitbook/package-lock.json'
 
       - name: Install GitBook CLI
         run: |
@@ -53,18 +51,34 @@ jobs:
       - name: Copy figures to GitBook
         run: |
           mkdir -p gitbook/figures
-          cp -r figures/* gitbook/figures/ 2>/dev/null || true
+          if [ -d "figures" ] && [ "$(ls -A figures 2>/dev/null)" ]; then
+            cp -r figures/* gitbook/figures/
+            echo "Copied $(ls figures | wc -l) figures to gitbook/figures/"
+          else
+            echo "Warning: No figures found to copy"
+          fi
 
       - name: Copy chapters to GitBook
         run: |
-          # Sync chapter content if needed
-          for dir in chapters/ch*/; do
-            chapter_name=$(basename "$dir")
-            chapter_num=$(echo "$chapter_name" | grep -oP '\d+')
-            if [ -f "$dir/chapter_${chapter_num}.md" ]; then
-              cp "$dir/chapter_${chapter_num}.md" "gitbook/chapters/" 2>/dev/null || true
-            fi
-          done
+          mkdir -p gitbook/chapters
+          copied=0
+          if [ -d "chapters" ]; then
+            for dir in chapters/ch*/; do
+              [ -d "$dir" ] || continue
+              chapter_name=$(basename "$dir")
+              # POSIX-compliant: use sed instead of grep -oP
+              chapter_num=$(printf '%s\n' "$chapter_name" | sed 's/[^0-9]//g')
+              src_file="$dir/chapter_${chapter_num}.md"
+              if [ -f "$src_file" ]; then
+                cp "$src_file" "gitbook/chapters/"
+                copied=$((copied + 1))
+              fi
+            done
+          fi
+          echo "Copied $copied chapter files to gitbook/chapters/"
+          if [ "$copied" -eq 0 ]; then
+            echo "Warning: No chapter files were copied"
+          fi
 
       - name: Build GitBook
         working-directory: ./gitbook
