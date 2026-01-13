@@ -61,6 +61,11 @@ APT41, a sophisticated group attributed to China's Ministry of State Security co
 - C-919 aircraft: China's domestic narrowbody airliner incorporated designs and technologies from compromised aerospace contractors
 - Pharmaceutical formulations: Multiple Chinese firms accelerated drug development using stolen clinical trial data, manufacturing processes, and molecular designs
 
+<figure>
+  <img src="../figures/fig_05_03_cyber_incidents.png" alt="Major Cyber-Economic Incidents Timeline (2010-2024)" style="width:100%; max-width:100%;">
+  <figcaption>Figure 5.3: Major cyber-economic incidents from 2010-2024, showing estimated damage and state attribution. Triangles indicate state-linked coercive operations; circles indicate criminal or espionage activity. The scale and sophistication of attacks has increased dramatically.</figcaption>
+</figure>
+
 From a long-term strategic perspective, effectiveness proves more ambiguous. Stolen technology provides immediate capabilities but creates dependencies: firms relying on espionage rather than organic R&D develop weaker innovation capabilities, struggle to advance beyond stolen technologies, and face quality control challenges (not understanding underlying principles means difficulties troubleshooting failures or adapting designs). American Superconductor's experience illustrates: while Sinovel stole software and avoided licensing fees, Sinovel subsequently struggled with product quality, customer service, and technological advancement—ultimately facing bankruptcy proceedings and losing market share. Chinese aviation still cannot produce competitive jet engines despite decades of espionage targeting Pratt & Whitney, GE Aviation, and Rolls-Royce, suggesting that tacit knowledge and manufacturing expertise resist transfer through data theft alone.
 
 Moreover, cyber espionage imposes costs on perpetrators beyond immediate operational expenses. **Reputational damage** when attribution succeeds creates diplomatic tensions, business obstacles (foreign firms reduce Chinese partnerships), and security cooperation deterioration. The 2015 Xi-Obama agreement nominally committing both countries to refrain from commercial cyber espionage followed sustained U.S. pressure and threatened sanctions (White House 2015)—Chinese operations temporarily decreased (though later resumed), suggesting reputational costs can modify behavior even if not eliminating espionage entirely. **Counterintelligence risks** emerge when targeted organizations improve security practices, deploy deception operations (feeding false information to identified intruders), and share threat intelligence—making future operations more difficult and expensive. **Retaliatory capabilities** develop as victims improve defensive and offensive cyber capacities, creating escalation risks where both sides lose more than they gain.
@@ -153,6 +158,16 @@ LinkedIn refused full compliance with Russian data localization and content rest
 The **strategic calculations** behind data localization involve tradeoffs. **Benefits** include enhanced regulatory jurisdiction (authorities can compel data access without foreign cooperation), domestic industry support (forced foreign investment and competitive handicaps on global platforms), and population control capabilities (facilitating surveillance and content censorship). **Costs** include substantial economic inefficiencies (fragmenting global data flows increases costs and reduces service quality), security vulnerabilities (dispersing data across many jurisdictions expands attack surfaces), innovation constraints (preventing data aggregation and analysis enabling AI/ML advances), and diplomatic tensions with trading partners viewing localization as protectionist barriers.
 
 Economic analysis suggests data localization imposes net costs: Brookings Institution estimated that data localization policies globally could reduce GDP by 0.7-1.7% through increased IT costs, reduced trade in digital services, and diminished productivity. However, governments pursuing localization prioritize sovereignty, security, and industrial policy over economic efficiency—accepting GDP costs for strategic control. This dynamic parallels Chapter 2's analysis of semiconductor self-sufficiency: economic costs prove acceptable when strategic objectives predominate.
+
+<figure>
+  <img src="../figures/fig_05_01_data_localization.png" alt="Global Data Localization Requirements" style="width:100%; max-width:100%;">
+  <figcaption>Figure 5.2: Global data localization requirements by stringency. Countries with comprehensive requirements (dark red) mandate local data storage and restrict cross-border transfers. Moderate requirements (orange) apply to specific sectors or data types. The trend toward data sovereignty continues accelerating.</figcaption>
+</figure>
+
+<figure>
+  <img src="../figures/fig_05_04_cloud_market.png" alt="Cloud Infrastructure Market Share" style="width:100%; max-width:100%;">
+  <figcaption>Figure 5.4: Cloud infrastructure market share showing US dominance globally but stark bifurcation in domestic markets. US providers (AWS, Azure, Google Cloud) control over 65% of the global market but less than 10% of China's market, while Chinese providers (Alibaba, Huawei, Tencent) dominate domestically but remain marginal internationally.</figcaption>
+</figure>
 
 ---
 
