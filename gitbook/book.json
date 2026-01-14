@@ -13,11 +13,7 @@
     "website": "styles.css"
   },
   "plugins": [
-    "expandable-chapters",
-    "back-to-top-button",
-    "copy-code-button",
     "-sharing",
-    "anchors",
     "fontsettings",
     "theme-default"
   ],
