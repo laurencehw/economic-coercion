@@ -461,6 +461,10 @@ China's National Integrated Circuit Industry Investment Fund (the "Big Fund") ex
 
 **Which approach will succeed?** Uncertain and likely sector-dependent. Semiconductors favor scale, capital intensity, and sustained investment (potentially China advantage). Biotechnology and AI favor entrepreneurial innovation and talent mobility (potentially U.S. advantage). Both countries face obstacles: U.S. must overcome short-term political pressures and cost disadvantages; China must address efficiency and innovation limitations. The competition will unfold over decades, not years.
 
+<figure>
+  <img src="../figures/fig_08_06_industrial_policy_compare.png" alt="Industrial Policy Comparison: U.S. and China Approaches" style="width:100%; max-width:100%;">
+</figure>
+
 ---
 
 ## State-Owned Enterprises and Sovereign Wealth Funds as Strategic Instruments
@@ -488,6 +492,10 @@ Chinese SOEs operate under dual mandate:
 - Supporting Belt and Road Initiative infrastructure
 - Advancing technology self-reliance
 - Executing economic coercion when directed
+
+<figure>
+  <img src="../figures/fig_08_07_bri_debt.png" alt="Belt and Road Initiative: Debt Exposure by Region" style="width:100%; max-width:100%;">
+</figure>
 
 The tension between commercial and political objectives creates complexity: SOEs must generate profits to avoid becoming fiscal drains while simultaneously pursuing strategic goals that may not maximize returns.
 

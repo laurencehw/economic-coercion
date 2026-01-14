@@ -298,6 +298,10 @@ The internet's foundational vision—a borderless, interoperable global network 
 
 ### Alternative Digital Infrastructures: BeiDou, CIPS, and Digital Sovereignty
 
+<figure>
+  <img src="../figures/fig_05_02_internet_exchange.png" alt="Internet Exchange Point Concentration: Global Digital Infrastructure Chokepoints" style="width:100%; max-width:100%;">
+</figure>
+
 Chinese pursuit of digital sovereignty extends beyond censorship and data localization to building alternative digital infrastructures reducing dependencies on Western-controlled systems. These alternatives—navigation satellites, payment systems, internet routing, cloud services—create parallel ecosystems enabling both independence from Western leverage and potential extensions of Chinese influence.
 
 **BeiDou Navigation Satellite System**, completed in 2020 with global coverage, represents China's GPS alternative. While civilian GPS remains freely available globally, Chinese government determined that military and critical infrastructure dependencies on American-controlled navigation created unacceptable vulnerabilities (GPS can be selectively denied or degraded in specific regions during conflicts). BeiDou provides Chinese military assured access independent of U.S. control and offers civilian services throughout Belt and Road Initiative countries—creating technical ties and potential leverage comparable to Western GPS dependencies.

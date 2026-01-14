@@ -90,6 +90,10 @@ David Baldwin's classic definition frames economic statecraft as "influence atte
 
 Economic statecraft operates across multiple domains. In the **trade domain**, tools include tariffs, quotas, export controls, import bans, and preferential trade agreements. The United States uses export controls to prevent advanced technology from reaching rivals; China uses informal trade restrictions to punish countries for political decisions it opposes (see the 2010 rare earth export restrictions after Japan detained a Chinese fishing captain, or the 2020-2021 trade restrictions on Australia following Canberra's calls for a COVID-19 investigation). In the **financial domain**, statecraft includes sanctions, asset freezes, exclusion from payment systems (SWIFT), secondary sanctions on third parties doing business with targets, and restrictions on dollar access. U.S. Treasury's Office of Foreign Assets Control (OFAC) maintains multiple sanctions programs targeting countries (Iran, North Korea, Russia), entities, and individuals (Zarate 2013; U.S. Treasury 2021). In the **investment domain**, tools include foreign direct investment screening, forced divestment, restrictions on portfolio investment, and development finance. CFIUS (Committee on Foreign Investment in the United States) reviews foreign acquisitions of American firms for national security implications. In the **technology domain**, statecraft encompasses export controls, investment restrictions, talent restrictions, standard-setting, and technology transfer requirements. The October 2022 semiconductor controls exemplify technology statecraft.
 
+<figure>
+  <img src="../figures/fig_01_03_toolbox_diagram.png" alt="Economic Statecraft Toolbox: Trade, Financial, Investment, and Technology Domains" style="width:100%; max-width:100%;">
+</figure>
+
 Effectiveness varies dramatically across contexts. Economic statecraft succeeds when it changes target behavior in desired ways at acceptable cost (Hufbauer et al. 2007; Drezner 1999). Success depends on several factors: the target's vulnerability (is the sanctioned good/service critical and difficult to substitute?), the sanctioner's credibility (will threatened measures actually be imposed?), allied coordination (can the target find alternative suppliers?), and target decision-making (does the target regime value the benefits of compliance more than the political costs?). Many sanctions fail because targets can adapt, allies defect, or political constraints prevent the target from complying even when economic pain is severe (Pape 1997; Blanchard and Ripsman 1999).
 
 Economic statecraft also generates second-order effects that can undermine long-term effectiveness. Overuse of financial sanctions may accelerate efforts to create alternatives to dollar-denominated finance—China's Cross-Border Interbank Payment System (CIPS) and discussions of central bank digital currencies partly reflect this dynamic. Aggressive use of export controls may spur targeted countries to invest heavily in indigenous alternatives, eventually reducing the sanctioner's leverage—as China is now doing in semiconductors following U.S. restrictions.
@@ -107,6 +111,10 @@ The chokepoint effect enables coercion. Cutting designated entities off from SWI
 Weaponized interdependence differs from traditional economic warfare. It does not require severing economic ties completely (autarky) or imposing comprehensive blockades. Instead, it involves surgical exploitation of specific network vulnerabilities. The United States can maintain substantial trade with China while denying Chinese firms access to specific chokepoint technologies. China can continue exporting manufactured goods while restricting access to specific critical minerals. The coercion targets particular nodes, not entire relationships.
 
 This creates distinctive strategic dynamics. States seek to maximize their hub positions while reducing dependence on rivals' hubs—hence China's emphasis on semiconductor self-sufficiency and development of alternative payment systems, and American efforts to secure rare earth supply chains and reduce reliance on Chinese manufacturing for critical goods. The result is partial decoupling: selective disengagement from specific vulnerable dependencies while maintaining broader economic integration where both sides benefit and neither sees critical security risks.
+
+<figure>
+  <img src="../figures/fig_01_05_interdependence_network.png" alt="Weaponized Interdependence: Network Structure Showing Hub Positions and Dependencies" style="width:100%; max-width:100%;">
+</figure>
 
 ### Economic Coercion
 
@@ -607,6 +615,10 @@ The Coordinating Committee for Multilateral Export Controls (CoCom) represents t
 CoCom was created informally in 1949 (never codified by treaty) by the United States, United Kingdom, France, Italy, Netherlands, Belgium, and Luxembourg, later expanding to include all NATO members (except Iceland) plus Japan and Australia—17 members at peak. The committee maintained three control lists: munitions, atomic energy, and industrial/commercial items with potential military applications. Member countries agreed to deny export licenses for listed items to Soviet Union, Eastern European communist states, China (until 1980s), North Korea, Vietnam, Cambodia, and Laos.
 
 The organizational structure was deliberately informal: consensus decision-making, no enforcement mechanism, voluntary compliance by members. The U.S. provided most intelligence on Soviet technology gaps and applied diplomatic pressure for strict controls, while European members and Japan often preferred looser restrictions to maintain commercial opportunities.
+
+<figure>
+  <img src="../figures/fig_01_06_cocom_timeline.png" alt="CoCom Timeline: Evolution of Cold War Technology Controls (1949-1994)" style="width:100%; max-width:100%;">
+</figure>
 
 ### Analysis Using Four Dimensions
 

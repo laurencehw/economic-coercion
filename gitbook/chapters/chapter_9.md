@@ -409,6 +409,10 @@ Examining cases from Napoleon to present reveals recurring patterns:
 
 Examining diverse historical cases reveals conditions distinguishing successful from failed economic coercion. No single factor guarantees success, but certain combinations of conditions improve effectiveness dramatically. This section synthesizes patterns across cases, developing framework for assessing contemporary sanctions prospects.
 
+<figure>
+  <img src="../figures/fig_09_04_sanctions_decision_tree.png" alt="Sanctions Decision Framework: Assessing Effectiveness Conditions" style="width:100%; max-width:100%;">
+</figure>
+
 ### When Sanctions Succeed: Necessary Conditions
 
 **Condition 1: Comprehensive Multilateral Coordination**
@@ -551,6 +555,10 @@ Governments sometimes impose sanctions to appear active while avoiding difficult
 **Partial success**: Many cases exhibit partial effectiveness—raising costs, constraining options, degrading capabilities—without achieving stated objectives. Categorizing as simple "success" or "failure" misses nuance.
 
 **Success definition ambiguity**: Different analysts define "success" differently: target full compliance, partial concessions, cost imposition, signaling resolve. Studies using different definitions produce different success rates.
+
+<figure>
+  <img src="../figures/fig_09_05_historical_outcomes.png" alt="Historical Sanctions Outcomes: Cost vs. Effectiveness Across Cases" style="width:100%; max-width:100%;">
+</figure>
 
 ### Lessons for Contemporary Policy
 

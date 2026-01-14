@@ -343,6 +343,10 @@ The realistic outcome is likely hybrid: modest reshoring of truly critical medic
 
 Recognition of supply chain chokepoints has triggered a global rethinking of trade and industrial policy. The previous consensus—that economic efficiency should drive sourcing decisions and governments should minimize intervention in markets—has fractured. In its place, several strategies have emerged for reducing dependencies on potential adversaries. Each involves distinct tradeoffs between security and economics, and each faces implementation challenges that limit effectiveness. This section evaluates five approaches: reshoring (onshoring), friend-shoring (ally-shoring), diversification, strategic stockpiling, and technology substitution.
 
+<figure>
+  <img src="../figures/fig_02_04_supply_chain_risk.png" alt="Supply Chain Risk Matrix: Vulnerability Assessment Across Critical Sectors" style="width:100%; max-width:100%;">
+</figure>
+
 ### Reshoring (Onshoring)
 
 **Definition and logic**: Reshoring means bringing production back to the home country—in the American context, manufacturing semiconductors, pharmaceuticals, batteries, and other critical goods domestically rather than relying on imports. The logic is straightforward: domestic production eliminates foreign dependencies, ensures supply during crises, maintains quality control, and preserves industrial capabilities that might otherwise atrophy.
@@ -358,6 +362,10 @@ Even with subsidies, reshoring faces obstacles. Building semiconductor fabs requ
 Pharmaceutical reshoring has seen more limited progress. MP Materials is building rare earth processing capacity in California, but at higher costs than Chinese processing. API reshoring proposals face economic headwinds and have not achieved significant scale. PPE manufacturing increased during COVID-19 but has since declined as demand normalized and Chinese suppliers remain cheaper.
 
 The realistic outcome is partial reshoring of the most critical inputs—advanced semiconductors for defense and AI, essential medications with no substitutes, rare earth processing for military applications—while accepting continued dependence for less critical goods where cost considerations dominate. This requires sustained political will to maintain subsidies, regulatory reforms to accelerate permitting, and tolerance for economic inefficiency in service of security objectives.
+
+<figure>
+  <img src="../figures/fig_02_05_reshoring_map.png" alt="Global Reshoring and Friend-shoring Initiatives" style="width:100%; max-width:100%;">
+</figure>
 
 ### Friend-shoring (Ally-shoring)
 

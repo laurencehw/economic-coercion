@@ -308,6 +308,10 @@ Prohibit specific transaction types with designated entities in targeted sectors
 
 Sectoral sanctions impose targeted pain on strategic industries while permitting other economic activity. More calibrated than comprehensive sanctions but complex to administer and susceptible to circumvention.
 
+<figure>
+  <img src="../figures/fig_07_06_sanctions_by_country.png" alt="U.S. Sanctions Programs by Target Country" style="width:100%; max-width:100%;">
+</figure>
+
 **Secondary Sanctions**
 
 Threaten sanctions on third parties (non-U.S. persons) engaging in specified activities with sanctions targets:
@@ -441,6 +445,10 @@ However, concerns about sanctions evasion (disguising commercial transactions as
 ---
 
 ## Secondary Sanctions and Extraterritoriality
+
+<figure>
+  <img src="../figures/fig_07_05_sanctions_cascade.png" alt="Sanctions Cascade: How Primary Sanctions Spread Through Secondary Effects" style="width:100%; max-width:100%;">
+</figure>
 
 Secondary sanctions represent the most controversial and powerful dimension of U.S. financial coercion: threatening sanctions on third parties—foreign persons outside U.S. jurisdiction—to compel them to cease business with primary sanctions targets. This section examines secondary sanctions' mechanics, effectiveness, and blowback.
 
@@ -884,6 +892,10 @@ Network effects mean collective action problem: Everyone benefits if all switch,
 **Wild Card: Climate and Transition Risk**:
 
 Some propose "green" currencies backed by carbon neutrality or renewable energy capacity. European Central Bank discussing environmental factors in reserve management. If climate transition reshapes global economy, new financial architectures could emerge—but speculative.
+
+<figure>
+  <img src="../figures/fig_07_07_dedollarization.png" alt="De-dollarization Trends: Reserve Currency Shares and Alternative Payment Systems" style="width:100%; max-width:100%;">
+</figure>
 
 ---
 

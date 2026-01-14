@@ -160,6 +160,10 @@ Beyond static trade impacts, tariffs accelerated supply chain reconfiguration:
 - **China**: Estimates suggest 0.5-0.8% GDP reduction. However, China's simultaneous growth slowdown from debt deleveraging and COVID-19 makes trade war effects difficult to isolate.
 - **Global**: IMF (2019) estimated trade war could reduce global GDP by 0.8% by 2020 through trade disruptions, uncertainty, and financial market impacts.
 
+<figure>
+  <img src="../figures/fig_06_06_section_301.png" alt="Section 301 Tariffs: Affected Imports by Sector and Tariff List" style="width:100%; max-width:100%;">
+</figure>
+
 ### Political Economy of Tariff-Based Coercion
 
 Why do governments impose tariffs despite clear evidence that their own citizens bear the costs? The answer lies not in economics but in politics:
@@ -310,6 +314,10 @@ EAR applies extraordinarily broadly:
 4. **U.S. persons**: U.S. citizens, permanent residents, and U.S. entities subject to EAR regardless of location
 
 This extraterritorial reach makes EAR a powerful tool: U.S. can restrict foreign sales of foreign-made goods if they contain U.S. technology or were produced using U.S. equipment.
+
+<figure>
+  <img src="../figures/fig_06_02_fdpr_reach.png" alt="Foreign Direct Product Rule: Extraterritorial Reach of U.S. Export Controls" style="width:100%; max-width:100%;">
+</figure>
 
 **Commerce Control List (CCL)**
 
@@ -664,6 +672,10 @@ Chinese retaliation less effective than U.S. controls due to:
 3. **Autarky costs**: Restricting exports harms Chinese producers and creates incentives for foreign firms to develop alternatives, reducing long-term leverage
 
 However, near-term disruptions real: Gallium/germanium restrictions caused 6-12 month supply disruptions and 20-30% price increases. For firms with thin margins or just-in-time inventory, temporary disruptions can be severe.
+
+<figure>
+  <img src="../figures/fig_06_04_rare_earth_retaliation.png" alt="China's Critical Mineral Export Controls Timeline and Market Dominance" style="width:100%; max-width:100%;">
+</figure>
 
 ---
 

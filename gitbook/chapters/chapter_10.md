@@ -204,6 +204,10 @@ Transitioning from fossil fuels to renewables doesn't eliminate strategic depend
 - **Strategic reserves**: Stockpiling critical minerals as strategic resources
 - **Friend-shoring**: Developing supply chains through allied countries (Australia, Canada, Chile, Peru)
 
+<figure>
+  <img src="../figures/fig_10_05_new_dependencies.png" alt="New Strategic Dependencies: Critical Minerals and Clean Energy Supply Chains" style="width:100%; max-width:100%;">
+</figure>
+
 ### Water Scarcity and Agricultural Leverage
 
 **Projected Water Stress**
@@ -564,6 +568,10 @@ Projecting 25 years into an uncertain future requires scenario analysis: develop
 - **Intense confrontation**: Economic warfare, comprehensive coercion, crisis-prone, risk of military conflict
 
 Combining these dimensions generates four scenarios:
+
+<figure>
+  <img src="../figures/fig_10_04_decoupling_scenarios.png" alt="Decoupling Scenarios: Future Economic Integration Pathways" style="width:100%; max-width:100%;">
+</figure>
 
 ### Scenario A: Managed Competition with Selective Integration (Baseline - 40% probability)
 

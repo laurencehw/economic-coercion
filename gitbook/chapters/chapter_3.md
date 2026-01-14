@@ -50,6 +50,10 @@ Rice trade, while smaller in volume than wheat or corn, exhibits similar concent
 
 Soybeans, critical for animal feed and increasingly for human consumption, come primarily from the United States (35-40% of exports), Brazil (45-50%), and Argentina (5-10%). China imports approximately 60% of globally traded soybeans, making it uniquely dependent on Western Hemisphere production. This dependence factored significantly in U.S.-China trade negotiations, with Trump administration officials recognizing that threatening soybean sales could pressure Beijing—though China's ability to source from Brazil limited U.S. leverage and ultimately Argentina and Brazilian suppliers gained market share.
 
+<figure>
+  <img src="../figures/fig_03_10_grain_exporters.png" alt="Global Grain Export Concentration: Major Exporters by Commodity" style="width:100%; max-width:100%;">
+</figure>
+
 This export concentration creates several vulnerabilities. First, **weather and crop failures in major exporters trigger global shortages**. Russia's 2010 drought and subsequent export ban caused wheat prices to spike 50%, contributing to the Arab Spring unrest. U.S. droughts in 2012 pushed corn prices to record highs, straining livestock producers globally and increasing food costs for consumers. As climate change increases weather variability and extreme events become more frequent, these supply shocks will likely intensify.
 
 Second, **geopolitical crises disrupting major exporters cascade globally**. Russia's invasion of Ukraine immediately threatened 30% of global wheat exports, with Black Sea ports blockaded, Ukrainian fields becoming battlegrounds, and Russian exports restricted by sanctions or deliberate cutoffs. Egypt, importing 80%+ of wheat from this region, faced immediate shortages and bread subsidy costs that strained government budgets. Lebanon, already in economic collapse, saw food prices surge. Tunisia, Morocco, and other North African nations scrambled for alternative supplies at higher prices. The crisis demonstrated how geopolitical conflicts in agricultural exporters translate directly into food security threats for importers thousands of miles away.
