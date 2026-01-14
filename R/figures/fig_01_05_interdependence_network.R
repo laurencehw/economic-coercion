@@ -68,7 +68,7 @@ edges <- data.frame(
   ),
   weight = c(
     rep(3, 8),  # Control relationships
-    rep(1, 11)   # Dependency relationships
+    rep(1, 12)   # Dependency relationships
   )
 )
 

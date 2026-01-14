@@ -51,7 +51,11 @@ china_controls <- data.frame(
 )
 
 china_controls <- china_controls %>%
-  mutate(year = as.numeric(format(date, "%Y")))
+  mutate(
+    year = as.numeric(format(date, "%Y")),
+    y_offset = ifelse(row_number() %% 2 == 0, 0.8, -0.8),
+    y_label = ifelse(row_number() %% 2 == 0, 0.95, -0.95)
+  )
 
 # Category colors
 category_colors <- c(
@@ -76,9 +80,9 @@ p1 <- ggplot(china_controls, aes(x = date, y = 0)) +
   # Timeline
   geom_hline(yintercept = 0, color = "gray40", linewidth = 1) +
   geom_point(aes(color = category), size = 5) +
-  geom_segment(aes(xend = date, y = 0, yend = ifelse(row_number() %% 2 == 0, 0.8, -0.8),
+  geom_segment(aes(xend = date, y = 0, yend = y_offset,
                    color = category), linewidth = 0.8) +
-  geom_label(aes(y = ifelse(row_number() %% 2 == 0, 0.95, -0.95),
+  geom_label(aes(y = y_label,
                  label = stringr::str_wrap(event, 20),
                  fill = category),
              size = 2.5, color = "white", fontface = "bold",
