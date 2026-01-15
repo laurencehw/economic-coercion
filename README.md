@@ -31,9 +31,11 @@ Each chapter includes:
 - **Executive Summary** — Practitioner-focused key takeaways
 - **Government Tools Boxes** — Detailed authorities, mechanisms, and examples
 - **Perspective Boxes** — Chinese and other international viewpoints
+- **Maps and Data Visualizations** — Strategic geography and trends
 - **Case Studies** — Real-world applications with lessons learned
 - **Tabletop Exercises** — Scenario-based learning activities
 - **Data Sources** — Guide to relevant databases and tracking tools
+- **References & Further Reading** — Curated bibliography
 
 ## Repository Structure
 

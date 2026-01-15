@@ -23,7 +23,7 @@ Small corrections (typos, broken links) are welcome as pull requests. For larger
 
 - Professional but accessible tone
 - Active voice preferred
-- Define acronyms on first use
+- Define acronyms on first use in each chapter
 - Use "the United States" rather than "we" for analytical objectivity
 
 ### Citations
