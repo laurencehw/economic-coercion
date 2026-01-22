@@ -2,17 +2,41 @@
 
 ## Executive Summary
 
-On October 7, 2022, the Biden administration unveiled what industry analysts immediately recognized as the most comprehensive technology export controls in a generation. The new regulations banned sales of advanced semiconductors and chipmaking equipment to China, restricted American personnel from supporting Chinese semiconductor development, and extended controls to foreign-made products using American technology—through the expansive Foreign Direct Product Rule. Nvidia's A100 and H100 AI chips, essential for training cutting-edge artificial intelligence models, could no longer be shipped to Chinese customers. ASML's most advanced extreme ultraviolet (EUV) lithography machines, already blocked from Chinese buyers since 2019, now faced joined by deep ultraviolet (DUV) tools capable of producing chips below 14 nanometers. American engineers working for Chinese semiconductor firms faced career-ending choices: resign or lose U.S. export privileges. The message was unmistakable: the United States would sacrifice billions in commercial revenue to prevent China from accessing technologies deemed critical to both economic competitiveness and military superiority.
+On October 7, 2022, the Biden administration unveiled what industry analysts immediately recognized as the most comprehensive technology export controls in a generation. The new regulations banned sales of advanced semiconductors and chipmaking equipment to China, restricted American personnel from supporting Chinese semiconductor development, and extended controls to foreign-made products using American technology—through the expansive Foreign Direct Product Rule.
+
+Nvidia's A100 and H100 AI chips, essential for training cutting-edge artificial intelligence models, could no longer be shipped to Chinese customers. ASML's most advanced extreme ultraviolet (EUV) lithography machines, already blocked from Chinese buyers since 2019, now faced joined by deep ultraviolet (DUV) tools capable of producing chips below 14 nanometers. American engineers working for Chinese semiconductor firms faced career-ending choices: resign or lose U.S. export privileges.
+
+The message was unmistakable: the United States would sacrifice billions in commercial revenue to prevent China from accessing technologies deemed critical to both economic competitiveness and military superiority.
+
+{% hint style="warning" %}
+**Chinese Perspective: Technology Self-Reliance**
+
+**科技自立自强** (kējì zìlì zìqiáng) — "technological self-reliance and self-strengthening"
+
+This concept, elevated by Xi Jinping following U.S. export controls, frames technology independence as essential to national sovereignty. Rooted in historical experiences of Western technology denial during the Century of Humiliation and Cold War CoCom restrictions, Chinese leaders view dependence on foreign technology as an existential vulnerability. The concept justifies accepting economic inefficiency and massive state investment to build indigenous capabilities—a calculation Western market economies rarely make.
+{% endhint %}
 
 China's response came swiftly, though not through official statements. Within weeks, Chinese state media declared a "technology self-reliance" campaign, echoing rhetoric from previous embargoes but with renewed urgency and resources. The Big Fund III semiconductor investment vehicle reportedly secured over $47 billion—dwarfing previous efforts (Triolo and Greene 2023). Huawei, whose advanced chip development had been crippled by earlier U.S. restrictions, stunned analysts in August 2023 by releasing the Mate 60 Pro smartphone powered by a sophisticated 7-nanometer chip produced by SMIC (Allen and Feng 2023) (Semiconductor Manufacturing International Corporation) using older DUV equipment. While technologically inferior to TSMC's leading-edge 3nm chips and produced with reportedly low yields, the achievement demonstrated Chinese determination and capability to circumvent export controls through indigenous innovation, however costly and inefficient.
 
-This escalating technology competition represents a fundamental shift in U.S.-China relations and global economic architecture. Here's the uncomfortable reality: unlike the Cold War technology denial regime examined in Chapter 1—where the Soviet Union largely operated in a separate technology ecosystem—contemporary competition occurs within deeply integrated global supply chains. We are trying to strangle a competitor while our own hands are around each other's throats. American semiconductor firms derive 30-40% of revenue from Chinese customers (SIA 2023). Chinese researchers publish more AI papers than American counterparts. Global telecommunications networks run on equipment from Huawei, Ericsson, Nokia, and Samsung—with market shares fluctuating based on geopolitical rather than purely economic considerations. This interdependence means that technology competition inflicts costs on restricting nations while creating powerful commercial constituencies lobbying against restrictions, yet continues to escalate as security concerns override economic logic.
+This escalating technology competition represents a fundamental shift in U.S.-China relations and global economic architecture. Here's the uncomfortable reality: unlike the Cold War technology denial regime examined in Chapter 1—where the Soviet Union largely operated in a separate technology ecosystem—contemporary competition occurs within deeply integrated global supply chains.
+
+We are trying to strangle a competitor while our own hands are around each other's throats.
+
+American semiconductor firms derive 30-40% of revenue from Chinese customers (SIA 2023). Chinese researchers publish more AI papers than American counterparts. Global telecommunications networks run on equipment from Huawei, Ericsson, Nokia, and Samsung—with market shares fluctuating based on geopolitical rather than purely economic considerations. This interdependence means that technology competition inflicts costs on restricting nations while creating powerful commercial constituencies lobbying against restrictions, yet continues to escalate as security concerns override economic logic.
 
 This chapter examines how technology has become the central domain of U.S.-China strategic competition and explores mechanisms states employ to gain advantages, deny adversaries access, and shape global technology governance. Three core arguments organize the analysis.
 
 First, **technology competition defines contemporary great power rivalry because technological capabilities determine both economic competitiveness and military effectiveness**. Semiconductors power everything from smartphones to fighter jets, from data centers to missile guidance systems. Artificial intelligence enables autonomous weapons, facial recognition surveillance, economic prediction, and scientific discovery. Quantum computing threatens encryption systems securing financial transactions and military communications. Biotechnology promises revolutionary healthcare but also potential bioweapons. Space capabilities provide communications, navigation, surveillance, and potential weapons platforms. The nation that leads in these technologies gains advantages across military, economic, and political domains—making technology supremacy a strategic imperative rather than a commercial preference.
 
-Second, **dual-use technologies blur distinctions between commercial and military applications, complicating export controls and creating dilemmas about balancing economic openness with security protection**. The same AI chips training large language models for consumer applications also train military target recognition systems. Quantum communications secure civilian financial transactions and military command networks. CRISPR gene editing treats cancer and could engineer bioweapons or enhance soldiers. Hypersonic materials enable civilian spacecraft and nuclear delivery vehicles. This dual-use reality means that commercial technology trade inevitably transfers capabilities with military applications—forcing governments to choose between economic integration (allowing technology flows that benefit both commercial sectors and potential adversaries) and security (restricting flows that handicap domestic industries while delaying but not preventing adversary development).
+Second, **dual-use technologies blur distinctions between commercial and military applications, complicating export controls and creating dilemmas about balancing economic openness with security protection**.
+
+{% hint style="info" %}
+**Dual-Use Technology**
+
+Technologies with both civilian commercial applications and military or weapons-related uses. Examples include advanced semiconductors (powering smartphones and missile guidance systems), AI chips (training chatbots and autonomous weapons), encryption software (securing banking and military communications), and CRISPR gene editing (treating diseases and potentially enhancing soldiers). The dual-use nature of modern technology makes export control particularly challenging, as restricting military applications inevitably affects civilian innovation.
+{% endhint %}
+
+The same AI chips training large language models for consumer applications also train military target recognition systems. Quantum communications secure civilian financial transactions and military command networks. CRISPR gene editing treats cancer and could engineer bioweapons or enhance soldiers. Hypersonic materials enable civilian spacecraft and nuclear delivery vehicles. This dual-use reality means that commercial technology trade inevitably transfers capabilities with military applications—forcing governments to choose between economic integration (allowing technology flows that benefit both commercial sectors and potential adversaries) and security (restricting flows that handicap domestic industries while delaying but not preventing adversary development).
 
 Third, **innovation ecosystems—not just individual technologies—determine long-term competitive advantage**. China can purchase AI chips or acquire software, but building world-class AI requires research universities producing talent, venture capital funding startups, immigration policies attracting global researchers, intellectual property protection encouraging R&D investment, and cultural acceptance of entrepreneurial failure. The United States has led technological innovation not because of specific policies but because of ecosystem advantages: top research universities, deep capital markets, rule of law protecting IP, immigration drawing global talent, and a culture rewarding risk-taking. Replicating this ecosystem proves extraordinarily difficult—no planned economy has achieved sustained technological leadership, and China's state-directed approach faces inherent limitations despite massive resources. Yet American ecosystem advantages are eroding: Chinese R&D spending rivals American levels, Chinese universities increasingly produce top-tier research, and Chinese AI talent competes with Western counterparts. The competition is not just over technologies but over which system—market-driven innovation or state-directed development—proves more effective.
 
@@ -46,12 +70,21 @@ The semiconductor industry also exhibits characteristics that make competition p
 
 **Supply chain complexity** examined in Chapter 2 creates multiple chokepoints across the value chain. The United States dominates chip design (Qualcomm, Nvidia, AMD, Intel, Apple) and essential design tools (Synopsys, Cadence, Mentor Graphics control 100% of EDA software). The Netherlands monopolizes extreme ultraviolet lithography through ASML—literally the only company globally producing EUV machines essential for sub-7nm chips. Japan dominates critical materials (photoresists from JSR/Tokyo Ohka, silicon wafers from Shin-Etsu/SUMCO) and production equipment (Tokyo Electron). Taiwan controls advanced fabrication through TSMC. South Korea provides memory chips (Samsung, SK Hynix). China handles much assembly and testing but controls no critical upstream stages. This distributed supply chain means that comprehensive technology denial requires coordination across multiple countries—or that any single chokepoint can halt production.
 
-<figure>
-  <img src="../figures/fig_04_03_chip_supply_chain.png" alt="Semiconductor Supply Chain Chokepoints" style="width:100%; max-width:100%;">
-  <figcaption>Figure 4.3: Global semiconductor supply chain showing control by stage. The US dominates design software (100% EDA market share), Netherlands controls advanced lithography (ASML monopoly), Taiwan controls manufacturing (TSMC 90% of advanced nodes), while China leads only in assembly and testing. This distributed chain means denial requires allied coordination.</figcaption>
-</figure>
+![Semiconductor Supply Chain Chokepoints](../figures/fig_04_03_chip_supply_chain.png)
+
+**Figure 4.3:** Global semiconductor supply chain showing control by stage. The US dominates design software (100% EDA market share), Netherlands controls advanced lithography (ASML monopoly), Taiwan controls manufacturing (TSMC 90% of advanced nodes), while China leads only in assembly and testing. This distributed chain means denial requires allied coordination.
 
 ### October 2022 Export Controls: Strategic Logic and Mechanisms
+
+{% hint style="info" %}
+**Export Administration Regulations (EAR) and Entity List**
+
+The **Export Administration Regulations (EAR)** govern U.S. exports of "dual-use" items with both commercial and military applications. Administered by the Bureau of Industry and Security (BIS) at the Commerce Department, EAR maintains the Commerce Control List (CCL) specifying items requiring export licenses.
+
+The **Entity List** identifies foreign persons, companies, research institutions, and government entities subject to specific license requirements due to activities contrary to U.S. national security or foreign policy interests. Entity List designation effectively blocks U.S. exports to listed entities, as licenses are presumptively denied.
+
+**Deemed exports** occur when controlled technology is released to a foreign national within the United States—even verbally or visually. A Chinese graduate student learning semiconductor manufacturing techniques at a U.S. university may constitute a "deemed export" requiring a license, treating the knowledge transfer as if the technology crossed borders.
+{% endhint %}
 
 The Biden administration's October 7, 2022 semiconductor export controls represented a sharp escalation in U.S.-China technology competition and a fundamental shift in export control philosophy. Previous controls targeted specific companies (Huawei, SMIC) or specific applications (military, surveillance). The October 2022 rules instead imposed broad, capability-based restrictions: **any semiconductor manufacturing equipment enabling production of chips below 14nm**, **any advanced AI chip with specified computing capabilities**, and **any American person supporting Chinese semiconductor development** faced restrictions. The breadth shocked industry: controls extended far beyond military applications to encompass nearly all advanced commercial chip development in China.
 
@@ -66,6 +99,14 @@ National Security Advisor Jake Sullivan articulated the strategic shift in a Sep
 **Semiconductor manufacturing equipment controls** banned sales of equipment capable of producing chips below 14nm to Chinese fabrication facilities. This targeted deep ultraviolet (DUV) lithography tools from ASML (Netherlands), etching and deposition equipment from Lam Research and Applied Materials (United States), and metrology tools from KLA (United States). Previous restrictions had blocked EUV machines (only from ASML) essential for sub-7nm production, but DUV tools could produce 14nm and 7nm chips through multiple patterning—technically challenging but feasible. The October 2022 rules closed this gap, aiming to freeze Chinese semiconductor manufacturing at trailing-edge nodes. ASML faced particular pressure: while its EUV machines were already blocked, its DUV tools (Twinscan NXT) were profitable exports to China. Dutch government implementation of controls faced industry lobbying and political resistance, though ultimately complied following U.S. pressure.
 
 **U.S. person restrictions** prohibited American citizens and permanent residents from supporting Chinese semiconductor development without Commerce Department authorization. This provision shocked industry: American engineers working for Chinese firms (including SMIC, YMTC, Yangtze Memory Technologies) faced immediate job losses or forced resignations. Senior technologists, many ethnic Chinese who had studied in the United States and worked for American firms before returning to China, found expertise suddenly prohibited. The restrictions targeted human capital transfer—recognizing that equipment alone is insufficient without expertise to operate it effectively. This "brain drain" reversal attempted to halt technology transfer through personnel, though legality faced challenges (restricting Americans' employment based on foreign employer's nationality raises constitutional questions) and effectiveness remains uncertain (non-American engineers could substitute, though with lower expertise).
+
+{% hint style="info" %}
+**Foreign Direct Product Rule (FDPR)**
+
+The FDPR extends U.S. export control jurisdiction to foreign-made items that incorporate U.S.-origin technology, software, or components above specified thresholds. If a Dutch company builds semiconductor equipment using American design software, and that equipment contains more than a de minimis amount of U.S. content, the FDPR requires the Dutch company to obtain U.S. export licenses before selling to restricted destinations—even though the equipment was manufactured entirely outside the United States.
+
+This extraterritorial reach is controversial but powerful: because American technology pervades global supply chains, the FDPR grants the U.S. government significant control over foreign commerce. Allied governments resent this jurisdictional claim but largely comply given their own dependence on U.S. technology and markets.
+{% endhint %}
 
 **Foreign Direct Product Rule (FDPR) extension** expanded U.S. jurisdiction extraterritorially to cover foreign-made products incorporating American technology. The FDPR, previously applied to Huawei specifically, became general policy: any semiconductor manufacturing equipment made anywhere globally using American technology (software, components, technical data) above de minimis thresholds required U.S. export licenses for sales to Chinese semiconductor fabs. This provision asserted that American technology embedded in foreign products grants U.S. government veto power over sales—a controversial claim of jurisdiction that allied governments privately resented but largely accepted given dependence on U.S. semiconductor technology and markets. The FDPR's effectiveness depends on American content in foreign equipment: if non-U.S. suppliers can substitute American components, the rule's leverage diminishes; if American technology proves irreplaceable, the rule grants comprehensive control.
 
@@ -95,7 +136,15 @@ China's responses to semiconductor export controls operate across multiple dimen
 
 **Indigenous development** represents China's long-term strategy and the ultimate determinant of restriction effectiveness. Chinese government, recognizing that dependency on foreign technology creates vulnerability, has poured resources into domestic semiconductor capabilities across the value chain:
 
-**Semiconductor fabrication** investments aim to build SMIC and other Chinese foundries capable of producing advanced chips without foreign equipment. SMIC's achievement of 7nm production demonstrated progress: using older DUV tools and advanced multiple patterning techniques (industry estimates suggest 5+ masks per layer, far more complex than TSMC's EUV process), SMIC produced Huawei's Kirin 9000s chip powering the Mate 60 Pro smartphone released August 2023. This shocked American officials who believed Chinese firms lacked technical capacity for sub-10nm production without EUV machines. However, the achievement comes with caveats: yields reportedly below 50% (compared to TSMC's 90%+ yields), meaning high costs and limited production volumes; process instability requiring extensive trial-and-error; technological ceiling around 5-7nm without EUV (further miniaturization requires extreme ultraviolet lithography China cannot access); and performance gaps versus TSMC's 3nm chips (Huawei's chip less power-efficient and lower-performing than Apple's latest processors using TSMC 3nm).
+**Semiconductor fabrication** investments aim to build SMIC and other Chinese foundries capable of producing advanced chips without foreign equipment. SMIC's achievement of 7nm production demonstrated progress: using older DUV tools and advanced multiple patterning techniques (industry estimates suggest 5+ masks per layer, far more complex than TSMC's EUV process), SMIC produced Huawei's Kirin 9000s chip powering the Mate 60 Pro smartphone released August 2023.
+
+This shocked American officials who believed Chinese firms lacked technical capacity for sub-10nm production without EUV machines.
+
+However, the achievement comes with caveats:
+- Yields reportedly below 50% (compared to TSMC's 90%+ yields), meaning high costs and limited production volumes
+- Process instability requiring extensive trial-and-error
+- Technological ceiling around 5-7nm without EUV (further miniaturization requires extreme ultraviolet lithography China cannot access)
+- Performance gaps versus TSMC's 3nm chips (Huawei's chip less power-efficient and lower-performing than Apple's latest processors using TSMC 3nm)
 
 **Equipment development** targets building Chinese alternatives to ASML, Applied Materials, Lam Research, and Tokyo Electron. Shanghai Micro Electronics Equipment (SMEE) is developing DUV lithography tools, but current capabilities lag ASML by 10-15 years (SMEE's best machines comparable to ASML's tools from 2010). AMEC, Naura, and other Chinese equipment firms produce etching, deposition, and metrology tools, but achieve specifications suitable for 14nm+ nodes rather than cutting-edge <7nm. Breakthroughs in EUV lithography—requiring extraordinary precision in optical systems, high-power laser technology, and ultra-clean manufacturing—appear beyond Chinese capabilities for the foreseeable future despite substantial R&D investment. Equipment development is the hardest component: while semiconductor design can potentially achieve innovation through talent and software, equipment manufacturing requires decades of accumulated expertise in precision engineering, materials science, and production processes difficult to replicate quickly.
 
@@ -143,7 +192,11 @@ The semiconductor battleground thus represents the sharpest edge of U.S.-China s
 
 Artificial intelligence has emerged as the defining technology of the 21st century, with applications spanning from consumer services (ChatGPT, image generation, recommendation algorithms) to military systems (autonomous weapons, target recognition, intelligence analysis). This dual-use character—where the same technology enables both beneficial civilian applications and potentially destabilizing military capabilities—creates profound challenges for export controls and technology competition.
 
-Modern AI, particularly large language models and deep learning systems, depends critically on **compute**—massive computational power for training and running models. Training GPT-4, Claude, or comparable frontier models requires thousands of specialized AI accelerator chips running for months, consuming tens of millions of dollars in electricity and computing costs. If oil was the strategic resource of the 20th century, compute may be the strategic resource of the 21st. Access to advanced AI chips determines which nations, companies, and research institutions can develop cutting-edge AI. Unlike previous technologies where expertise and algorithms dominated, contemporary AI transforms compute into a bottleneck—those controlling AI chip supply can influence global AI development trajectories.
+Modern AI, particularly large language models and deep learning systems, depends critically on **compute**—massive computational power for training and running models. Training GPT-4, Claude, or comparable frontier models requires thousands of specialized AI accelerator chips running for months, consuming tens of millions of dollars in electricity and computing costs.
+
+> **If oil was the strategic resource of the 20th century, compute may be the strategic resource of the 21st.**
+
+Access to advanced AI chips determines which nations, companies, and research institutions can develop cutting-edge AI. Unlike previous technologies where expertise and algorithms dominated, contemporary AI transforms compute into a bottleneck—those controlling AI chip supply can influence global AI development trajectories.
 
 **Military AI applications** demonstrate why governments treat AI as strategic technology requiring restriction. Autonomous weapons systems—drones that identify and engage targets without human intervention—depend on AI vision systems and decision-making algorithms trained on vast datasets using powerful chips. China has publicly showcased drone swarms capable of coordinated action, reportedly using AI algorithms developed by Chinese tech firms. Target recognition systems enabling missiles to distinguish military from civilian targets, evade countermeasures, and adapt to battlefield conditions require AI trained on extensive imagery and sensor data. Intelligence analysis leveraging AI to process satellite imagery, communications intercepts, and open-source data enables militaries to identify patterns, predict adversary actions, and optimize resource allocation. Cyber operations increasingly employ AI to identify vulnerabilities, craft phishing campaigns, and automate intrusions at scale beyond human operators' capacity.
 
@@ -153,9 +206,7 @@ The U.S. military's Project Maven, initiated in 2017, exemplifies military AI ad
 
 **Economic and scientific applications** explain why AI restrictions face commercial resistance and potential long-term costs. AI powers drug discovery (predicting molecular interactions, identifying potential treatments), climate modeling (simulating atmospheric dynamics with unprecedented resolution), materials science (discovering new compounds for batteries, catalysts, semiconductors), and financial markets (algorithmic trading, risk assessment, fraud detection). Restricting AI chip exports to China means cutting Chinese researchers off from frontier AI capabilities—potentially slowing scientific collaboration and reducing global innovation even while protecting American leads. American pharmaceutical companies collaborating with Chinese research institutions face disruptions. Climate research requiring Chinese participation (China operates major climate models and represents critical data source) encounters obstacles. These costs don't disappear simply because they serve long-term strategic interests—they represent genuine tradeoffs requiring justification.
 
-<figure>
-  <img src="../figures/fig_04_06_dual_use_matrix.png" alt="Dual-Use Technology Matrix: Military and Civilian Applications" style="width:100%; max-width:100%;">
-</figure>
+![Dual-Use Technology Matrix: Military and Civilian Applications](../figures/fig_04_06_dual_use_matrix.png)
 
 ### The October 2022 AI Chip Restrictions: Logic and Implementation
 
@@ -176,10 +227,9 @@ The Commerce Department's October 2023 update closed these loopholes, revising s
 
 ### AI Research Leadership: Publications, Patents, and Talent
 
-<figure>
-  <img src="../figures/fig_04_02_ai_development.png" alt="AI Research Output and Impact by Country" style="width:100%; max-width:100%;">
-  <figcaption>AI Research Output and Impact by Country</figcaption>
-</figure>
+![AI Research Output and Impact by Country](../figures/fig_04_02_ai_development.png)
+
+**Figure 4.2:** AI Research Output and Impact by Country
 
 AI competition extends beyond chips to research capabilities: which countries publish cutting-edge research, file foundational patents, attract and develop top talent, and translate research into commercial products and military applications. Metrics reveal complex dynamics where the United States and China lead in different dimensions while Europe falls behind.
 
@@ -193,9 +243,9 @@ Recent dynamics threaten American advantages. Increasingly, Chinese AI researche
 
 The United States also develops domestic talent, though shortfalls exist. Computer science enrollments at American universities have surged, but demand for AI expertise exceeds supply, driving fierce corporate competition for talent (six-figure salaries for new PhDs, million-dollar compensation for experienced researchers). Many top American students pursue lucrative industry careers rather than academic research, potentially reducing long-term foundational research. Educational outcomes show the United States producing fewer STEM graduates per capita than China, South Korea, and several European nations, though American education quality at top institutions remains unmatched globally.
 
-<figure>
-  <img src="../figures/fig_04_05_stem_talent.png" alt="STEM Talent Flows: International Movement of Technical Expertise" style="width:100%; max-width:100%;">
-</figure>
+![STEM Talent Flows: International Movement of Technical Expertise](../figures/fig_04_05_stem_talent.png)
+
+**Figure 4.5:** STEM Talent Flows: International Movement of Technical Expertise
 
 **Transfer between research and application** represents another dimension where American ecosystem advantages manifest. Silicon Valley's venture capital, startup culture, and major tech firms excel at commercializing AI research: OpenAI transformed GPT research into ChatGPT commercial product within months, Google commercialized transformer architectures into search and advertising improvements, and countless startups leverage academic research for specialized applications. China's AI commercialization proceeds rapidly (TikTok's recommendation algorithms, Alibaba's logistics optimization, SenseTime's surveillance systems), but ecosystem differences create advantages for American translation of research to products, particularly in global markets where Chinese firms face regulatory and political obstacles (TikTok bans, Huawei restrictions, data localization requirements limiting Chinese cloud services).
 
@@ -308,10 +358,9 @@ Biotechnology represents perhaps the most consequential and least-governed domai
 
 Research and development investment determines long-term technological leadership, yet measuring and comparing R&D spending across countries involves definitional challenges, data quality concerns, and questions about efficiency versus quantity. Nevertheless, broad patterns reveal intensifying competition where Chinese R&D investment rivals or exceeds American levels while questions persist about which system generates more innovation per dollar invested.
 
-<figure>
-  <img src="../figures/fig_04_01_rd_spending.png" alt="R&D Spending by Country (1990-2024)" style="width:100%; max-width:100%;">
-  <figcaption>R&D Spending by Country (1990-2024)</figcaption>
-</figure>
+![R&D Spending by Country (1990-2024)](../figures/fig_04_01_rd_spending.png)
+
+**Figure 4.1:** R&D Spending by Country (1990-2024)
 
 **Global R&D trends** show dramatic growth and shifting geographic distribution. World Bank and OECD data indicate global R&D spending reached approximately $2.5 trillion annually (roughly 2.5% of global GDP), with growth concentrated in Asia. The United States remains the largest single-country investor at $700-750 billion annually (roughly 3.5% of U.S. GDP), but China has closed gaps dramatically: from less than 10% of U.S. R&D spending in 2000 to 85-90% by 2020, with estimates suggesting Chinese R&D spending may have surpassed American levels by 2023 in purchasing power parity terms. European Union collectively spends comparable amounts to the United States ($400-450 billion), but fragmentation across 27 member states reduces coordination and scale. Japan, South Korea, Taiwan, and other advanced economies maintain high R&D intensity (3-4% of GDP) but represent smaller absolute totals.
 
@@ -357,7 +406,11 @@ China's regulatory environment presents greater uncertainties. Patent protection
 
 Government industrial policy—direct state intervention to support specific industries or technologies—has returned to favor after decades of market-oriented skepticism. Both the United States and China now pursue aggressive industrial policies, though with different mechanisms, scales, and philosophies.
 
-**The CHIPS and Science Act** (2022) represents American industrial policy's most significant recent example, allocating $52 billion in subsidies for domestic semiconductor manufacturing and R&D. The Act aims to reduce American dependence on Asian semiconductor fabrication (particularly TSMC's Taiwan concentration), strengthen supply chain resilience, and maintain technological leadership. Subsidies fund construction of new fabs (Intel, TSMC, Samsung building facilities in Arizona, Ohio, Texas, and elsewhere) and support R&D consortia developing next-generation technologies. Additional tax credits (25% investment tax credit) amplify incentives. The Act represents philosophical shift: accepting that market forces alone won't maintain semiconductor capabilities and that government subsidies, despite inefficiencies, serve national security imperatives.
+**The CHIPS and Science Act** (2022) represents American industrial policy's most significant recent example, allocating $52 billion in subsidies for domestic semiconductor manufacturing and R&D. The Act aims to reduce American dependence on Asian semiconductor fabrication (particularly TSMC's Taiwan concentration), strengthen supply chain resilience, and maintain technological leadership.
+
+Subsidies fund construction of new fabs (Intel, TSMC, Samsung building facilities in Arizona, Ohio, Texas, and elsewhere) and support R&D consortia developing next-generation technologies. Additional tax credits (25% investment tax credit) amplify incentives.
+
+The Act represents philosophical shift: accepting that market forces alone won't maintain semiconductor capabilities and that government subsidies, despite inefficiencies, serve national security imperatives.
 
 **The Inflation Reduction Act** (2022) similarly provides $370 billion in tax credits and subsidies for clean energy technologies: battery manufacturing, solar panel production, electric vehicle assembly, and critical mineral processing. Like CHIPS, IRA reflects industrial policy logic: subsidizing domestic capacity to reduce Chinese dependencies, addressing climate change, and creating manufacturing jobs. Requirements for domestic content and restricted Chinese content (batteries with Chinese materials increasingly ineligible for tax credits) aim to reshore supply chains.
 
@@ -379,7 +432,11 @@ The broader pattern is industrial policy convergence: both the United States and
 
 Chinese strategic thinking about technology is fundamentally shaped by historical experiences of technological backwardness enabling foreign domination—experiences largely absent from American historical consciousness. Understanding these historical traumas is essential for comprehending why Chinese leadership prioritizes technology self-reliance even at enormous economic cost and why U.S. export controls resonate with deep anxieties about foreign strangulation.
 
-The **Century of Humiliation** (百年国耻, bǎinián guóchǐ) from the 1840s Opium Wars through 1949 demonstrated to Chinese elites that technological inferiority meant powerlessness. British gunboats defeated Qing dynasty forces, opening China to forced trade, territorial concessions, and semi-colonial status. Japanese invasion exploited Chinese technological weakness—modern Japanese industry producing weapons, ships, and aircraft China could not match. This period taught that nations lacking indigenous technological capabilities face exploitation, occupation, and destruction of sovereignty. Western narratives emphasizing trade benefits and international cooperation often fail to engage this historical experience where foreign technology meant foreign domination.
+The **Century of Humiliation** (百年国耻, bǎinián guóchǐ) from the 1840s Opium Wars through 1949 demonstrated to Chinese elites that technological inferiority meant powerlessness. British gunboats defeated Qing dynasty forces, opening China to forced trade, territorial concessions, and semi-colonial status. Japanese invasion exploited Chinese technological weakness—modern Japanese industry producing weapons, ships, and aircraft China could not match.
+
+This period taught that nations lacking indigenous technological capabilities face exploitation, occupation, and destruction of sovereignty.
+
+Western narratives emphasizing trade benefits and international cooperation often fail to engage this historical experience where foreign technology meant foreign domination.
 
 The early People's Republic period reinforced technology sovereignty imperatives. CoCom restrictions, examined in Chapter 1, denied China access to advanced manufacturing equipment, computers, and countless dual-use technologies. Soviet technical assistance during the 1950s proved temporary—the Sino-Soviet split in 1960 saw Soviet advisors withdrawn and equipment deliveries halted, crippling Chinese industrial programs dependent on Soviet inputs. China's response was enforced **self-reliance** (自力更生, zìlì gēngshēng): developing indigenous capabilities regardless of cost or efficiency. The "Two Bombs, One Satellite" program (两弹一星, liǎngdàn yīxīng) developed nuclear weapons, ballistic missiles, and satellites despite Western embargo and Soviet abandonment—demonstrating that determined state-directed effort could achieve technological breakthroughs even from positions of profound backwardness.
 
@@ -388,6 +445,16 @@ Contemporary technology competition evokes these historical patterns. American s
 ### Key Concepts in Chinese Technology Strategy
 
 Contemporary Chinese technology policy employs specific concepts that reflect historical experiences and current strategic priorities. Understanding these concepts requires engaging with Chinese-language sources and official documents rather than relying solely on Western interpretations.
+
+{% hint style="warning" %}
+**Chinese Perspective: Made in China 2025**
+
+**中国制造2025** (Zhōngguó Zhìzào 2025)
+
+From Beijing's perspective, Made in China 2025 represents a legitimate industrial policy no different from American subsidies for semiconductors (CHIPS Act) or European support for Airbus. Chinese officials argue that developing countries have historically used industrial policy to climb the technology ladder—Japan, South Korea, and Taiwan all employed state-directed development.
+
+The Western framing of MIC2025 as threatening "unfair competition" is viewed in China as hypocrisy from nations that achieved development first and now seek to "kick away the ladder" preventing others from following. This narrative strengthens domestic support for state-led technology investment despite economic costs.
+{% endhint %}
 
 **Made in China 2025** (中国制造2025, Zhōngguó Zhìzào 2025) represents China's most explicit industrial policy, though its public profile has diminished following Western criticism. Announced in 2015, the policy identified ten strategic sectors for development with ambitious targets: achieving 70% domestic content in core components by 2025, becoming globally competitive by 2035, and leading manufacturing globally by 2049 (PRC's centenary). The policy reflected recognition that China's manufacturing prowess concentrated in low-value assembly and processing while core technologies (semiconductors, software, precision machinery) remained foreign-dependent—a vulnerability unacceptable for great power status.
 
@@ -404,6 +471,20 @@ However, civil-military fusion creates complications for Chinese innovation. Wes
 ### Official Positions and Strategic Responses
 
 Chinese government responses to U.S. technology restrictions operate across multiple dimensions, combining defiant rhetoric, concrete countermeasures, and long-term strategic adaptations.
+
+{% hint style="warning" %}
+**Chinese Perspective: "Technological Hegemony"**
+
+**技术霸权** (jìshù bàquán) — "technological hegemony"
+
+Chinese official discourse frames U.S. export controls not as legitimate security measures but as **技术霸凌** (jìshù bàlíng, "technological bullying")—an attempt to maintain American global dominance by preventing China's legitimate development. This framing serves multiple purposes:
+
+- **Domestic mobilization:** Justifies economic sacrifices for technology self-sufficiency
+- **International appeal:** Positions China as victim of great power bullying, resonating with developing nations who faced similar Western restrictions
+- **Historical continuity:** Links current restrictions to Century of Humiliation, when Western technological superiority enabled colonial exploitation
+
+Understanding this framing is essential for assessing Chinese responses to export controls—they are perceived not as targeted security measures but as comprehensive containment strategy requiring comprehensive resistance.
+{% endhint %}
 
 **Rhetorical responses** emphasize victimization narratives and American hypocrisy. Chinese official statements characterize U.S. export controls as "technological bullying" (技术霸凌, jìshù bàlíng), "technological hegemony" (技术霸权, jìshù bàquán), and violations of market principles and international norms. Chinese media highlight contradictions: the United States preaches free trade while practicing protectionism, condemns Chinese industrial policy while implementing CHIPS Act subsidies, and criticizes forced technology transfer while pressuring allies to restrict chip sales. These narratives aim to build domestic political support for costly self-reliance efforts and international sympathy portraying China as victim of American containment rather than aggressor threatening Western interests.
 
@@ -449,9 +530,9 @@ The October 7, 2022 semiconductor export controls represented the culmination of
 
 Prior to October 2022, U.S. semiconductor restrictions targeted specific Chinese firms deemed national security threats. Huawei's Entity List designation in May 2019 restricted sales of American semiconductors and equipment, expanded in May 2020 to cover foreign-made chips using U.S. technology (Foreign Direct Product Rule). SMIC joined the Entity List in December 2020 due to military ties. These targeted restrictions achieved narrow objectives (degrading Huawei's smartphone and 5G equipment competitiveness, constraining SMIC's most advanced production) but left most Chinese semiconductor industry accessible to American chips and equipment. Chinese AI firms purchased Nvidia GPUs without restriction, Chinese fabs bought ASML DUV tools freely, and American engineers worked for Chinese semiconductor companies legally.
 
-<figure>
-  <img src="../figures/fig_04_04_huawei_impact.png" alt="Impact of Sanctions on Huawei Revenue and Market Share" style="width:100%; max-width:100%;">
-</figure>
+![Impact of Sanctions on Huawei Revenue and Market Share](../figures/fig_04_04_huawei_impact.png)
+
+**Figure 4.4:** Impact of Sanctions on Huawei Revenue and Market Share
 
 The strategic logic for comprehensive controls emerged from several assessments. First, targeted restrictions proved inadequate: SMIC continued advancing despite Entity List status, achieving 7nm production demonstrated later. Chinese firms not on Entity Lists developed AI capabilities using unrestricted chips. Second, dual-use technologies meant that commercial sales inevitably supported military applications through civil-military fusion. Third, U.S. officials concluded that preventing Chinese semiconductor self-sufficiency served American interests more than maintaining commercial semiconductor sales revenue. Fourth, growing Congressional pressure and bipartisan consensus on China competition created political momentum for aggressive action.
 

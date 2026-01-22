@@ -4,7 +4,9 @@
 
 On February 24, 2022, Russian tanks rolled into Ukraine, launching the largest European land war since 1945. Within days, Western nations responded with unprecedented economic sanctions: asset freezes, SWIFT exclusions, export controls, and restrictions on Russian energy imports. Yet Europe faced a stark vulnerability: decades of policy had created profound dependence on Russian natural gas. Germany imported 55% of its gas from Russia, Italy 40%, and numerous Eastern European countries approached 100% (IEA 2022). Russia's Gazprom had become Europe's largest gas supplier, with pipelines threading across the continent and the new Nord Stream 2 pipeline ready to double capacity. This dependence meant that Europe's most powerful economic weapon—energy sanctions—would inflict severe pain on European consumers and industries while funding the very Russian war machine it opposed.
 
-The crisis crystallized a fundamental reality of contemporary geopolitics: control over critical resources—energy, food, water, strategic minerals—confers coercive leverage that rivals military power. Europe's gas dependence was not accidental but the product of deliberate choices: Russian gas was cheap, pipelines were efficient, and economic interdependence was assumed to promote peace. "Wandel durch Handel"—change through trade—was the German mantra. The theory was elegant: bind Russia to Europe economically, and Moscow would have too much to lose from aggression. The theory was also wrong. As winter 2022 approached and Russian gas supplies dwindled (whether from Russian restrictions or European substitution efforts), German factories faced production cuts, British households saw energy bills triple, and European governments scrambled to secure alternative supplies—liquefied natural gas from the United States and Qatar, coal from Australia, nuclear power restarts, and crash programs in renewables and efficiency.
+The crisis crystallized a fundamental reality of contemporary geopolitics: control over critical resources—energy, food, water, strategic minerals—confers coercive leverage that rivals military power. Europe's gas dependence was not accidental but the product of deliberate choices: Russian gas was cheap, pipelines were efficient, and economic interdependence was assumed to promote peace. "Wandel durch Handel"—change through trade—was the German mantra. The theory was elegant: bind Russia to Europe economically, and Moscow would have too much to lose from aggression. The theory was also wrong.
+
+As winter 2022 approached and Russian gas supplies dwindled (whether from Russian restrictions or European substitution efforts), German factories faced production cuts, British households saw energy bills triple, and European governments scrambled to secure alternative supplies—liquefied natural gas from the United States and Qatar, coal from Australia, nuclear power restarts, and crash programs in renewables and efficiency.
 
 The Russia-Ukraine crisis demonstrated that resource dependencies create strategic vulnerabilities in ways that manufacturing supply chains alone cannot capture. Food, energy, and water are existential needs—societies cannot function without them. Unlike semiconductors or rare earth magnets, which can be stockpiled or substituted over months or years, energy shortages cause immediate economic damage and political crisis. Heat goes off, factories close, transportation systems fail, and governments fall. This makes energy dependencies particularly attractive targets for economic coercion and particularly difficult dependencies to escape.
 
@@ -32,15 +34,25 @@ Resource control has shaped geopolitics throughout history—from British contro
 
 ### The Centrality of Food to National Security
 
+{% hint style="info" %}
+**Food Security** refers to a condition in which all people, at all times, have physical, social, and economic access to sufficient, safe, and nutritious food that meets their dietary needs for an active and healthy life. In strategic terms, food security encompasses not just availability but also stability of supply, protection from deliberate disruption, and resilience against shocks from weather, conflict, or market manipulation.
+{% endhint %}
+
 Food occupies a unique position in the hierarchy of strategic resources. Unlike semiconductors, rare earths, or even energy, food is a daily necessity without substitutes or alternatives. A country can survive semiconductor shortages, painful though they may be economically. It can ration energy, switching from gas to coal or implementing conservation. But it cannot substitute for food—people must eat, and societies where people cannot eat collapse into chaos, mass migration, or revolution. Hungry populations do not wait patiently for WTO dispute resolution. This existential quality makes food security central to regime stability and makes food leverage particularly potent in coercive strategies. Control the bread supply, and you control the country.
 
 Historical examples demonstrate food's strategic power. Stalin's forced collectivization and grain requisitions in Ukraine during 1932-1933 (the Holodomor) killed millions and crushed Ukrainian resistance to Soviet rule—food as a weapon of internal control. Britain's World War I naval blockade starved Germany into submission, with German civilian deaths from malnutrition and disease exceeding combat casualties—food as a siege weapon. The 1970s U.S. grain embargo against the Soviet Union following Afghanistan's invasion aimed to economically pressure Moscow, though its effectiveness was limited by alternative suppliers and Soviet domestic production increases—food as a sanction tool. More recently, Saudi Arabia and UAE used food dependencies as leverage during the 2017-2021 Qatar crisis, and China informally restricted agricultural imports from Australia during 2020-2021 trade tensions.
 
 Contemporary food systems have globalized dramatically since the 1970s, with international agricultural trade growing faster than agricultural production. This globalization reflects comparative advantage—Argentina grows soybeans efficiently, Thailand specializes in rice, United States and Brazil dominate corn and wheat, New Zealand exports dairy. The result is that roughly 20% of global food calories cross borders, and for specific commodities (wheat, soybeans, rice) trade shares reach 25-40%. Many countries, particularly in the Middle East, North Africa, and parts of Asia, have become structurally import-dependent—they cannot feed their populations from domestic production alone.
 
-This import dependence creates strategic vulnerabilities when suppliers restrict exports, prices spike, or logistics disruptions constrain supply. The 2007-2008 global food crisis demonstrated these dynamics: rising grain prices triggered export restrictions by major suppliers (India, Vietnam, Russia, Argentina), exacerbating shortages and causing riots in Egypt, Haiti, and numerous other countries (Headey and Fan 2010). The Arab Spring uprisings of 2011 followed wheat price spikes partly attributable to Russian export bans after drought. The COVID-19 pandemic saw multiple countries impose agricultural export restrictions, raising fears of cascading protectionism. And Russia's 2022 invasion of Ukraine, both major wheat exporters, triggered global grain shortages that pushed Egypt, Lebanon, Tunisia, and other import-dependent nations toward economic crisis.
+This import dependence creates strategic vulnerabilities when suppliers restrict exports, prices spike, or logistics disruptions constrain supply. The 2007-2008 global food crisis demonstrated these dynamics: rising grain prices triggered export restrictions by major suppliers (India, Vietnam, Russia, Argentina), exacerbating shortages and causing riots in Egypt, Haiti, and numerous other countries (Headey and Fan 2010).
+
+The Arab Spring uprisings of 2011 followed wheat price spikes partly attributable to Russian export bans after drought. The COVID-19 pandemic saw multiple countries impose agricultural export restrictions, raising fears of cascading protectionism. And Russia's 2022 invasion of Ukraine, both major wheat exporters, triggered global grain shortages that pushed Egypt, Lebanon, Tunisia, and other import-dependent nations toward economic crisis.
 
 ### Grain Trade Chokepoints and Export Concentration
+
+{% hint style="info" %}
+**Strategic Chokepoints** are geographic locations, infrastructure nodes, or market concentrations where disruption would have disproportionate effects on supply chains. In resource markets, chokepoints include narrow shipping straits (Hormuz, Malacca), key export ports, pipeline junctions, and countries that dominate production or processing of critical commodities. Control over chokepoints confers coercive leverage—the ability to threaten disruption to achieve political objectives.
+{% endhint %}
 
 Global grain trade exhibits concentration that creates strategic chokepoints. Wheat, the most globally traded staple crop, comes overwhelmingly from a handful of exporters. Russia and Ukraine together account for approximately 30% of global wheat exports, supplying Egypt (the world's largest wheat importer, sourcing 80%+ from the Black Sea region) (World Bank 2022; FAO 2022), Turkey, Lebanon, Libya, Yemen, Bangladesh, and numerous others. The United States exports roughly 15% of global wheat, primarily to Japan, Philippines, Mexico, and Central American nations. Canada, France, Australia, and Argentina round out the top exporters—six countries control roughly 70-75% of global wheat trade.
 
@@ -50,9 +62,7 @@ Rice trade, while smaller in volume than wheat or corn, exhibits similar concent
 
 Soybeans, critical for animal feed and increasingly for human consumption, come primarily from the United States (35-40% of exports), Brazil (45-50%), and Argentina (5-10%). China imports approximately 60% of globally traded soybeans, making it uniquely dependent on Western Hemisphere production. This dependence factored significantly in U.S.-China trade negotiations, with Trump administration officials recognizing that threatening soybean sales could pressure Beijing—though China's ability to source from Brazil limited U.S. leverage and ultimately Argentina and Brazilian suppliers gained market share.
 
-<figure>
-  <img src="../figures/fig_03_10_grain_exporters.png" alt="Global Grain Export Concentration: Major Exporters by Commodity" style="width:100%; max-width:100%;">
-</figure>
+![Global Grain Export Concentration: Major Exporters by Commodity](../figures/fig_03_10_grain_exporters.png)
 
 This export concentration creates several vulnerabilities. First, **weather and crop failures in major exporters trigger global shortages**. Russia's 2010 drought and subsequent export ban caused wheat prices to spike 50%, contributing to the Arab Spring unrest. U.S. droughts in 2012 pushed corn prices to record highs, straining livestock producers globally and increasing food costs for consumers. As climate change increases weather variability and extreme events become more frequent, these supply shocks will likely intensify.
 
@@ -104,6 +114,10 @@ The broader lesson is that **food security depends on complex supply chains exte
 
 ### Energy as the Lifeblood of Modern Economies
 
+{% hint style="info" %}
+**Energy Security** encompasses the uninterrupted availability of energy sources at an affordable price. It includes both short-term security (the ability to respond to sudden supply disruptions) and long-term security (timely investments to meet economic development and environmental needs). Energy security requires diverse supply sources, strategic reserves, alternative fuels capability, and infrastructure resilience against both accidental failures and deliberate attacks.
+{% endhint %}
+
 If food keeps people alive, energy keeps economies alive. Modern economies run on energy the way bodies run on blood: cut the supply, and systems shut down within days. Electricity powers factories, data centers, hospitals, and homes; transportation depends on liquid fuels for cars, trucks, ships, and planes; heating and cooling require gas, electricity, or oil; and industrial processes from steel to chemicals to cement are energy-intensive. Unlike food, where substitution is impossible, energy offers some fuel-switching flexibility (coal to gas, oil to electricity, nuclear to renewables). But this flexibility is limited, expensive, and time-consuming—switching requires building new infrastructure, and some applications (aviation, heavy trucking, steel) currently lack economically viable alternatives to fossil fuels.
 
 Energy dependence has shaped geopolitics for over a century. World War I and II both involved critical struggles for oil access—Japanese expansion into Southeast Asia targeted oil fields, German campaigns in North Africa and the Caucasus sought petroleum. The Cold War saw repeated Middle Eastern conflicts driven partly by oil: the 1956 Suez Crisis, 1973 Arab oil embargo, 1979 Iranian Revolution, and 1990 Gulf War all reflected oil's strategic significance. American foreign policy in the Middle East for decades centered on securing reliable oil flows to the West, protecting Saudi Arabia and Gulf states, and preventing hostile powers from controlling oil chokepoints.
@@ -132,10 +146,9 @@ Oil trade flows reveal critical dependencies. Europe imports approximately 90% o
 
 These chokepoints create strategic leverage for countries that can threaten closure (Iran over Hormuz, Yemen/Houthis over Bab el-Mandeb) and for naval powers that can secure or blockade them (United States, potentially China or India). They also shape energy policy: Japan's almost total dependence on oil transiting Malacca drives Japanese interest in Middle Eastern stability and U.S.-Japan security cooperation. China's anxiety about "Malacca Dilemma" motivates land-based alternatives (pipelines from Russia and Central Asia), naval expansion to protect sea lanes, and strategic petroleum reserves to buffer disruptions.
 
-<figure>
-  <img src="../figures/fig_03_04_chokepoints.png" alt="Strategic Maritime Chokepoints" style="width:100%; max-width:100%;">
-  <figcaption>Figure 3.4: Critical maritime passages for global energy transit. The Strait of Hormuz handles 21 million barrels per day—closure would immediately trigger global recession. Size indicates oil transit volume; color indicates strategic importance.</figcaption>
-</figure>
+![Strategic Maritime Chokepoints](../figures/fig_03_04_chokepoints.png)
+
+*Figure 3.4: Critical maritime passages for global energy transit. The Strait of Hormuz handles 21 million barrels per day—closure would immediately trigger global recession. Size indicates oil transit volume; color indicates strategic importance.*
 
 ### Natural Gas: The Russia-Europe Entanglement
 
@@ -155,12 +168,13 @@ Multiple pipelines carried Russian gas to Europe:
 
 - **Yamal-Europe pipeline**: Through Belarus and Poland to Germany. Russia reduced flows in 2021-2022 as tensions escalated.
 
-This infrastructure created what economists call asymmetric interdependence and what strategists call a trap. Europe depended on Russian gas for heating, power generation, and industrial processes (especially German chemical industry). Russia depended on European gas revenue, which accounted for $150-200 billion annually and funded roughly 30-40% of Russian federal budget. Conventional wisdom held that mutual dependence ensured supply stability—neither side could afford disruption. This was the comfortable logic of liberal internationalism: we are all so deeply invested in each other's prosperity that war becomes irrational. Russia's 2022 invasion of Ukraine shattered this assumption, revealing that regimes may value conquest more than commerce.
+This infrastructure created what economists call asymmetric interdependence and what strategists call a trap. Europe depended on Russian gas for heating, power generation, and industrial processes (especially German chemical industry). Russia depended on European gas revenue, which accounted for $150-200 billion annually and funded roughly 30-40% of Russian federal budget.
 
-<figure>
-  <img src="../figures/fig_03_08_russian_pipelines.png" alt="Russian Energy Pipeline Infrastructure" style="width:100%; max-width:100%;">
-  <figcaption>Figure 3.8: Russian oil and gas pipeline networks to Europe and Asia. Green indicates operational pipelines, orange shows reduced flow, red marks damaged or closed infrastructure. Nord Stream pipelines were damaged in September 2022; Ukraine transit has been significantly reduced since the February 2022 invasion.</figcaption>
-</figure>
+Conventional wisdom held that mutual dependence ensured supply stability—neither side could afford disruption. This was the comfortable logic of liberal internationalism: we are all so deeply invested in each other's prosperity that war becomes irrational. Russia's 2022 invasion of Ukraine shattered this assumption, revealing that regimes may value conquest more than commerce.
+
+![Russian Energy Pipeline Infrastructure](../figures/fig_03_08_russian_pipelines.png)
+
+*Figure 3.8: Russian oil and gas pipeline networks to Europe and Asia. Green indicates operational pipelines, orange shows reduced flow, red marks damaged or closed infrastructure. Nord Stream pipelines were damaged in September 2022; Ukraine transit has been significantly reduced since the February 2022 invasion.*
 
 ### The 2022 European Gas Crisis: Weaponized Dependence
 
@@ -186,19 +200,19 @@ The winter of 2022-2023 was Europe's moment of maximum vulnerability. Russian ga
 
 ### Energy Transition: Trading Old Dependencies for New
 
-<figure>
-  <img src="../figures/fig_03_06_renewable_manufacturing.png" alt="Renewable Energy Manufacturing - China's Share" style="width:100%; max-width:100%;">
-  <figcaption>Renewable Energy Manufacturing - China's Share</figcaption>
-</figure>
+![Renewable Energy Manufacturing - China's Share](../figures/fig_03_06_renewable_manufacturing.png)
 
-<figure>
-  <img src="../figures/fig_03_07_strategic_ports.png" alt="Strategic Ports and Chinese Maritime Investment" style="width:100%; max-width:100%;">
-  <figcaption>Figure 3.7: Global strategic ports by type and volume. Red circles indicate ports with significant Chinese ownership or operational control, illustrating the geographic scope of China's maritime investment strategy.</figcaption>
-</figure>
+*Renewable Energy Manufacturing - China's Share*
+
+![Strategic Ports and Chinese Maritime Investment](../figures/fig_03_07_strategic_ports.png)
+
+*Figure 3.7: Global strategic ports by type and volume. Red circles indicate ports with significant Chinese ownership or operational control, illustrating the geographic scope of China's maritime investment strategy.*
 
 The global energy transition away from fossil fuels toward renewable energy and electrification creates new resource dependencies that may prove as consequential as oil and gas. Solar panels, wind turbines, and batteries require minerals, manufacturing, and supply chains that exhibit their own chokepoints—many concentrated in China. Escaping dependence on Middle Eastern oil risks creating dependence on Chinese critical minerals processing and clean energy manufacturing.
 
-China dominates renewable energy manufacturing across multiple domains. Solar panels: China produces approximately 80% of global supply, controlling polysilicon production (80%), wafers (95%), cells (85%), and module assembly (75%). This vertical integration reflects decades of industrial policy, government subsidies, and willingness to operate at losses to drive Western competitors out of business. European and American solar manufacturers largely collapsed in the 2010s, unable to compete with Chinese scale and pricing.
+China dominates renewable energy manufacturing across multiple domains.
+
+**Solar panels:** China produces approximately 80% of global supply, controlling polysilicon production (80%), wafers (95%), cells (85%), and module assembly (75%). This vertical integration reflects decades of industrial policy, government subsidies, and willingness to operate at losses to drive Western competitors out of business. European and American solar manufacturers largely collapsed in the 2010s, unable to compete with Chinese scale and pricing.
 
 Wind turbines: China produces roughly 60% of global wind turbines, with Goldwind, Envision, and Ming Yang among the world's largest manufacturers. While European (Vestas, Siemens Gamesa) and American (GE Renewable Energy) firms remain significant players, China's dominance is growing, particularly in offshore wind—a critical growth market.
 
@@ -206,25 +220,29 @@ Batteries: As detailed in Chapter 2, China controls 75% of lithium-ion battery m
 
 This manufacturing concentration creates dependencies analogous to oil: disruptions to Chinese supply or deliberate Chinese export restrictions could constrain renewable energy deployment globally. European and American climate goals depend partly on Chinese solar panel and battery supply. If geopolitical tensions escalate and China restricts exports or prioritizes domestic supply, Western energy transitions face delays and higher costs.
 
-The strategic implication is darkly ironic: energy transitions pursued to enhance security and reduce carbon emissions may create new dependencies on China—a potential strategic competitor. We may escape the petro-states only to find ourselves beholden to the battery-state. This recognition drives Western industrial policy attempting to reshore clean energy manufacturing. The U.S. Inflation Reduction Act, European Green Deal Industrial Plan, and similar policies provide subsidies for domestic solar, wind, and battery production. Success remains uncertain: Chinese manufacturing is often 30-50% cheaper due to scale, integrated supply chains, lower labor costs, and government support. Building competitive Western industries requires sustained subsidies, acceptance of higher consumer costs, and political commitment across election cycles—all uncertain.
+The strategic implication is darkly ironic: energy transitions pursued to enhance security and reduce carbon emissions may create new dependencies on China—a potential strategic competitor. We may escape the petro-states only to find ourselves beholden to the battery-state.
+
+This recognition drives Western industrial policy attempting to reshore clean energy manufacturing. The U.S. Inflation Reduction Act, European Green Deal Industrial Plan, and similar policies provide subsidies for domestic solar, wind, and battery production. Success remains uncertain: Chinese manufacturing is often 30-50% cheaper due to scale, integrated supply chains, lower labor costs, and government support. Building competitive Western industries requires sustained subsidies, acceptance of higher consumer costs, and political commitment across election cycles—all uncertain.
 
 Moreover, energy transitions depend on minerals examined in Chapter 2—lithium, cobalt, nickel, rare earths—where China's processing dominance creates additional chokepoints. The full supply chain from lithium mine to finished EV battery runs through Chinese processing and manufacturing at multiple stages. Achieving genuine supply chain independence for clean energy requires not just manufacturing but also mineral processing, materials production, and component manufacturing—an integrated ecosystem that will take decades to build even with aggressive policies.
 
 The energy transition thus presents difficult tradeoffs. Pursuing climate goals rapidly requires leveraging existing (Chinese-dominated) supply chains, accepting dependencies as the price of speed. Pursuing supply chain security requires building Western capacity, accepting slower transitions and higher costs. Balancing these objectives—climate urgency and security concerns—defines energy policy debates in the United States and Europe.
 
-<figure>
-  <img src="../figures/fig_03_09_energy_sankey.png" alt="Energy Transition: From Oil Dependencies to Mineral Dependencies" style="width:100%; max-width:100%;">
-  <figcaption>Figure 3.9: Energy transition supply chain flows. The fossil fuel era dependencies (top) on Middle Eastern oil are being replaced by clean energy era dependencies (bottom) concentrated through Chinese mineral processing and manufacturing. The transition creates new chokepoints rather than eliminating vulnerability.</figcaption>
-</figure>
+![Energy Transition: From Oil Dependencies to Mineral Dependencies](../figures/fig_03_09_energy_sankey.png)
 
-<figure>
-  <img src="../figures/fig_03_11_lng_terminals.png" alt="Global LNG Infrastructure" style="width:100%; max-width:100%;">
-  <figcaption>Figure 3.10: Global LNG export and import terminal infrastructure. Qatar's dominant export capacity enables significant market leverage. European import capacity expanded rapidly after 2022 to reduce Russian gas dependence.</figcaption>
-</figure>
+*Figure 3.9: Energy transition supply chain flows. The fossil fuel era dependencies (top) on Middle Eastern oil are being replaced by clean energy era dependencies (bottom) concentrated through Chinese mineral processing and manufacturing. The transition creates new chokepoints rather than eliminating vulnerability.*
+
+![Global LNG Infrastructure](../figures/fig_03_11_lng_terminals.png)
+
+*Figure 3.10: Global LNG export and import terminal infrastructure. Qatar's dominant export capacity enables significant market leverage. European import capacity expanded rapidly after 2022 to reduce Russian gas dependence.*
 
 ---
 
 ## Strategic Resources and Economic Leverage
+
+{% hint style="info" %}
+**Critical Minerals** are non-fuel mineral resources essential for economic and national security, with supply chains vulnerable to disruption. The U.S. government designates minerals as "critical" based on: (1) essentiality to national security or economic sectors; (2) concentrated production in few countries; (3) lack of viable substitutes; and (4) supply chain vulnerabilities. As of 2022, 50 minerals are designated critical, including rare earth elements, lithium, cobalt, graphite, and manganese.
+{% endhint %}
 
 Beyond food and energy, numerous other resources exhibit concentration, essentiality, or scarcity characteristics that create leverage for possessor nations. This section examines water, phosphates for fertilizer, and resource control more broadly as tools of economic statecraft.
 
@@ -232,7 +250,9 @@ Beyond food and energy, numerous other resources exhibit concentration, essentia
 
 Water scarcity increasingly shapes geopolitics, particularly in arid regions where rivers cross borders and aquifers are shared. Unlike oil or rare earths, water has no substitutes and cannot be synthesized—societies require minimum quantities for drinking, agriculture, and industry. You can diversify your energy mix; you cannot diversify your thirst. This existentiality makes water conflicts especially intractable and water leverage extraordinarily potent.
 
-The Middle East provides multiple examples of water's strategic significance. The Nile River, supplying 85-90% of Egypt's water, flows through Ethiopia, Sudan, and nine other upstream riparians before reaching Egypt. Ethiopia's Grand Ethiopian Renaissance Dam (GERD), completed in 2020 and Africa's largest hydroelectric project, gives Addis Ababa control over Nile flows. Egypt views this as an existential threat—any significant reduction in Nile water would devastate Egyptian agriculture and threaten 100+ million people dependent on the river. Egypt has historically threatened military action to protect Nile flows, and the GERD has triggered years of failed negotiations. Ethiopia asserts sovereign right to develop its water resources; Egypt invokes historical water rights and existential need. The conflict illustrates how water dependencies between upstream controllers and downstream dependents create zero-sum competition resistant to compromise.
+The Middle East provides multiple examples of water's strategic significance. The Nile River, supplying 85-90% of Egypt's water, flows through Ethiopia, Sudan, and nine other upstream riparians before reaching Egypt. Ethiopia's Grand Ethiopian Renaissance Dam (GERD), completed in 2020 and Africa's largest hydroelectric project, gives Addis Ababa control over Nile flows.
+
+Egypt views this as an existential threat—any significant reduction in Nile water would devastate Egyptian agriculture and threaten 100+ million people dependent on the river. Egypt has historically threatened military action to protect Nile flows, and the GERD has triggered years of failed negotiations. Ethiopia asserts sovereign right to develop its water resources; Egypt invokes historical water rights and existential need. The conflict illustrates how water dependencies between upstream controllers and downstream dependents create zero-sum competition resistant to compromise.
 
 The Jordan River system supplies Israel, Jordan, Syria, Lebanon, and Palestinian territories. Israeli control of water resources in the occupied West Bank and Golan Heights grants leverage over Palestinian and Syrian access. Jordan imports roughly 90% of energy and depends heavily on shared aquifers and the Jordan River. Water scarcity constrains economic development and agricultural production across the region, with climate change exacerbating shortages. Water access factored into Israeli-Jordanian peace agreements and remains a source of tension in Israeli-Palestinian relations.
 
@@ -256,7 +276,9 @@ The broader pattern across fertilizers—nitrogen, phosphate, potash—is increa
 
 Chapter 2 examined rare earth supply chains in detail, but rare earths deserve additional attention in the context of resource leverage and export restrictions. China's 85% share of rare earth processing creates a chokepoint, but the 2010 crisis demonstrated China's willingness to weaponize this position for political objectives.
 
-The context: In September 2010, a Chinese fishing trawler collided with Japanese Coast Guard vessels near the Senkaku/Diaoyu Islands—disputed territory claimed by both China and Japan. Japan detained the Chinese captain, triggering a diplomatic crisis. China responded by informally restricting rare earth exports to Japan. While China denied official policy, rare earth shipments to Japan ceased at Chinese ports as customs "inspections" delayed clearances indefinitely. Japanese manufacturers dependent on Chinese rare earths for magnets, electronics, and other applications faced immediate supply disruptions.
+The context: In September 2010, a Chinese fishing trawler collided with Japanese Coast Guard vessels near the Senkaku/Diaoyu Islands—disputed territory claimed by both China and Japan. Japan detained the Chinese captain, triggering a diplomatic crisis.
+
+China responded by informally restricting rare earth exports to Japan. While China denied official policy, rare earth shipments to Japan ceased at Chinese ports as customs "inspections" delayed clearances indefinitely. Japanese manufacturers dependent on Chinese rare earths for magnets, electronics, and other applications faced immediate supply disruptions.
 
 The restrictions lasted weeks, ending only after Japan released the captain and backed down. But the damage was done: Japan learned that China would use rare earth leverage for political objectives. Japanese responses included diversifying suppliers (though China's dominance limited alternatives), stockpiling rare earths to buffer future disruptions, investing in recycling and substitution research, and supporting development of non-Chinese rare earth mines (Australia's Lynas, American projects). A decade later, China's share of Japanese rare earth imports had declined from 95%+ to 50-60%—still substantial but reduced from absolute dependence.
 
@@ -269,6 +291,18 @@ China's 2023 restrictions on gallium, germanium, and graphite exports (discussed
 ## Resource Nationalism and Export Restrictions
 
 ### The Rise of Resource Nationalism
+
+{% hint style="warning" %}
+**Chinese Perspective: Resource Sovereignty**
+
+China's approach to resources reflects the concept of **resource sovereignty** (资源主权, zīyuán zhǔquán)—the principle that nations have absolute rights over their natural resources and should not be compelled to share them on terms set by foreign powers or international markets.
+
+This concept has both defensive and offensive applications:
+- **Defensive:** China maintains strategic reserves and pursues self-sufficiency to prevent foreign leverage over Chinese development
+- **Offensive:** China has demonstrated willingness to restrict exports of rare earths (2010) and critical minerals (2023) to achieve strategic objectives
+
+Chinese scholars argue that Western criticism of resource nationalism reflects hypocrisy—Western powers historically exploited developing nations' resources and now seek to prevent those nations from controlling their own strategic assets. From Beijing's view, resource sovereignty is an extension of national sovereignty itself.
+{% endhint %}
 
 Resource nationalism—policies prioritizing domestic control and use of natural resources over foreign access or market efficiency—is proliferating globally. Governments increasingly view resources as strategic assets to be leveraged for economic development, geopolitical influence, and national security rather than as commodities to be traded freely in global markets.
 
@@ -342,6 +376,20 @@ Contemporary Chinese discourse on resources employs specific concepts reflecting
 **Food self-sufficiency** (粮食自给, liángshí zìjǐ) remains paramount despite China's integration into global agricultural markets. China maintains ~95% self-sufficiency in staple grains (rice, wheat, corn)—importing soybeans, dairy, meat, and specialty products but ensuring domestic production of core calories. This reflects traumatic memories of famine (the Great Leap Forward 1958-1962 killed 15-45 million from starvation) and determination never to depend on foreign food for survival. Chinese policy sacrifices agricultural efficiency (supporting uneconomic domestic grain production through subsidies and minimum prices) to maintain self-sufficiency targets. The logic is existential: food imports are acceptable for variety and efficiency, but core food security cannot depend on foreign suppliers who might weaponize access.
 
 **Energy independence** (能源独立, néngyuán dúlì) guides Chinese energy strategy despite China's status as world's largest energy importer. The concept doesn't mean autarky but rather reducing vulnerabilities through diversification, stockpiling, and technological alternatives. China pursues multiple strategies: diversifying oil and gas suppliers (Middle East, Russia, Central Asia, Africa, Latin America), building strategic petroleum reserves (545 million barrels as of 2020, with plans for more), investing in renewable energy to reduce fossil fuel imports (China leads globally in solar, wind, and hydroelectric capacity), developing domestic coal (70% of primary energy, with substantial reserves), and researching advanced technologies (nuclear, hydrogen, synthetic fuels).
+
+{% hint style="warning" %}
+**Chinese Perspective: Belt and Road Initiative (BRI)**
+
+The Belt and Road Initiative (一带一路, Yīdài Yīlù) represents China's comprehensive strategy for securing resource access while reducing strategic vulnerability. From Beijing's perspective, the BRI is not merely an infrastructure program but a systematic response to the "Malacca Dilemma"—the risk that hostile powers could strangle Chinese energy imports by blockading key maritime chokepoints.
+
+Key BRI objectives include:
+- **Overland energy corridors** through Central Asia and Pakistan that bypass U.S.-dominated sea lanes
+- **Port investments** (the "String of Pearls") providing naval access and supply chain control
+- **Mining investments** securing long-term access to African and Latin American mineral resources
+- **Agricultural land acquisitions** ensuring alternative food sources independent of Western suppliers
+
+Chinese officials frame BRI as mutually beneficial development cooperation. Western analysts often view it as strategic infrastructure designed to lock in resource access and extend Chinese geopolitical influence.
+{% endhint %}
 
 The **Belt and Road Initiative** (BRI) serves multiple resource security objectives. Overland routes from China through Central Asia to Europe (China-Pakistan Economic Corridor, China-Central Asia-West Asia Economic Corridor) provide alternatives to maritime transit through Malacca and U.S.-dominated sea lanes. Investments in port infrastructure across South Asia, Middle East, East Africa, and Mediterranean (**"String of Pearls"** strategy) aim to secure maritime routes and provide naval basing options. Investments in foreign mining (African copper and cobalt, Latin American lithium, Australian iron ore) ensure access even if geopolitical tensions rise. Agricultural investments (land purchases or long-term leases in Africa, Southeast Asia, Latin America) provide alternative food sources if traditional suppliers restrict access.
 

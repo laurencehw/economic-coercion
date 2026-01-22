@@ -2,7 +2,9 @@
 
 ## Executive Summary
 
-In December 2021, the Biden administration placed eight Chinese technology firms on the Entity List for developing surveillance technology used against Uyghurs in Xinjiang. Among them was SenseTime, one of China's leading artificial intelligence companies, scheduled for a Hong Kong initial public offering worth $767 million. The designation—requiring U.S. government approval for any American technology sales to SenseTime—forced postponement of the IPO and cut the company off from American AI chips, software, and technical support. SenseTime's facial recognition systems, trained on databases of millions of faces and capable of real-time identification across vast camera networks, represented both commercial success (deployed in over 100 Chinese cities) and strategic concern (enabling authoritarian surveillance at unprecedented scale). The Entity List designation signaled American determination to restrict technology enabling human rights abuses while raising fundamental questions: Can democracies compete with authoritarian regimes wielding information technology for social control? Should Western technology companies profit from surveillance states? Can export controls meaningfully constrain information technologies that diffuse rapidly and require primarily software rather than restricted hardware?
+In December 2021, the Biden administration placed eight Chinese technology firms on the Entity List for developing surveillance technology used against Uyghurs in Xinjiang. Among them was SenseTime, one of China's leading artificial intelligence companies, scheduled for a Hong Kong initial public offering worth $767 million. The designation—requiring U.S. government approval for any American technology sales to SenseTime—forced postponement of the IPO and cut the company off from American AI chips, software, and technical support.
+
+SenseTime's facial recognition systems, trained on databases of millions of faces and capable of real-time identification across vast camera networks, represented both commercial success (deployed in over 100 Chinese cities) and strategic concern (enabling authoritarian surveillance at unprecedented scale). The Entity List designation signaled American determination to restrict technology enabling human rights abuses while raising fundamental questions: Can democracies compete with authoritarian regimes wielding information technology for social control? Should Western technology companies profit from surveillance states? Can export controls meaningfully constrain information technologies that diffuse rapidly and require primarily software rather than restricted hardware?
 
 SenseTime's predicament illustrates broader dynamics examined in this chapter: the information domain has become a central arena of U.S.-China strategic competition, encompassing cyber operations targeting intellectual property and critical infrastructure, data localization requirements fragmenting the global internet, standards battles determining whose technical specifications govern 5G networks and IoT devices, information warfare campaigns shaping narratives and perceptions, and the emerging "splinternet" where digital ecosystems diverge along geopolitical lines. Unlike the physical supply chain vulnerabilities examined in Chapter 2 or semiconductor chokepoints analyzed in Chapter 4, information domain competition involves intangible assets—data, software, protocols, standards, and narratives—that flow across borders invisibly, replicate costlessly, and resist control through traditional export restrictions.
 
@@ -12,7 +14,9 @@ Three core arguments organize this chapter's analysis.
 
 First, **the information domain enables economic coercion through mechanisms distinct from traditional trade and financial tools**. Rather than restricting physical goods or financial flows, information domain coercion operates through cyber espionage (stealing intellectual property worth hundreds of billions), data localization mandates (forcing costly infrastructure investments and creating leverage over foreign firms), standards manipulation (designing technical specifications that favor domestic champions), and information operations (shaping public opinion to pressure governments or undermine adversaries). These mechanisms leverage information technology's unique characteristics: low marginal costs of replication, network effects creating winner-take-all dynamics, and difficulties distinguishing legitimate uses from malicious applications. Understanding these mechanisms is essential for policymakers confronting strategic competition increasingly mediated through information infrastructure.
 
-Second, **China's approach to information technology fundamentally challenges Western assumptions about internet openness, free information flows, and global digital connectivity**. Since the 1990s, U.S. policy largely assumed that internet adoption would promote democratization, economic interdependence would constrain authoritarian impulses, and information freedom would erode closed societies. China's trajectory contradicts these assumptions: the Communist Party has demonstrated that authoritarian regimes can harness internet technologies for social control (surveillance systems monitoring populations, content censorship limiting information access, digital payment systems enabling transaction tracking), economic development (e-commerce, fintech, platform economies rivaling Western counterparts), and international influence (exporting surveillance technology, building digital infrastructure through Belt and Road Initiative, promoting "cyber sovereignty" norms challenging Western internet governance). This Chinese model represents not a transitional phase toward Western practices but a coherent alternative vision—"authoritarian digital governance"—with implications for global norms, developing country technology choices, and the future of internet governance.
+Second, **China's approach to information technology fundamentally challenges Western assumptions about internet openness, free information flows, and global digital connectivity**. Since the 1990s, U.S. policy largely assumed that internet adoption would promote democratization, economic interdependence would constrain authoritarian impulses, and information freedom would erode closed societies.
+
+China's trajectory contradicts these assumptions: the Communist Party has demonstrated that authoritarian regimes can harness internet technologies for social control (surveillance systems monitoring populations, content censorship limiting information access, digital payment systems enabling transaction tracking), economic development (e-commerce, fintech, platform economies rivaling Western counterparts), and international influence (exporting surveillance technology, building digital infrastructure through Belt and Road Initiative, promoting "cyber sovereignty" norms challenging Western internet governance). This Chinese model represents not a transitional phase toward Western practices but a coherent alternative vision—"authoritarian digital governance"—with implications for global norms, developing country technology choices, and the future of internet governance.
 
 Third, **standards competition determines long-term strategic advantage by shaping global technology architecture**. When Huawei's 5G specifications become industry standards, telecommunications equipment worldwide must interoperate with Huawei designs, creating vendor lock-in and market advantages lasting decades. When China's face recognition protocols become international standards, Chinese firms gain preferential positions in global surveillance markets. When American internet protocols (TCP/IP, HTTP, DNS) dominated early internet development, American firms enjoyed first-mover advantages and architectural influence. Standards battles occur in technical venues (3GPP for telecommunications, ISO for international standards, ITU for internet governance) where engineers and diplomats negotiate specifications with massive economic and strategic implications yet receive limited public attention. Understanding and engaging in standards competition has become a strategic imperative comparable to industrial policy and export controls.
 
@@ -24,12 +28,13 @@ Two Government Tools Boxes explain American legal authorities for information do
 
 A Chinese Perspective Box explores Beijing's concept of **cyber sovereignty** (网络主权, wǎngluò zhǔquán) and **discourse power** (话语权, huàyǔquán)—the ability to shape international narratives and information governance norms. Key concepts include **information security** (信息安全, xìnxī ānquán) emphasizing protection from Western information operations, **digital civilization** (数字文明, shùzì wénmíng) as China's vision for global internet governance, and **technology sovereignty** (科技主权, kējì zhǔquán) justifying restrictions on foreign technology companies. The box examines Chinese perspectives on Western internet governance dominance, concerns about ideological infiltration through foreign platforms, and strategic logic behind digital infrastructure and standards competition.
 
-The information domain represents competition's cutting edge where conventional tools of economic statecraft run up against their limits. Traditional export controls targeting physical goods struggle to restrict software that crosses borders intangibly—you can embargo a machine, but not an algorithm. Financial sanctions targeting specific entities encounter difficulties addressing cyber operations conducted through proxies and shell companies with shifting identities. Tariffs and quotas prove irrelevant for digital services delivered through internet connections. We are attempting to fight a 21st-century information war with 20th-century trade weapons. This domain requires new conceptual frameworks and policy tools—combining technical measures (cyber defenses, encryption standards), regulatory approaches (data localization responses, platform governance), standards engagement (technical committee participation, allied coordination), and narrative contestation (countering disinformation, promoting democratic technology governance norms). Understanding information domain competition is essential not just for comprehending U.S.-China strategic rivalry but for navigating the broader transformation of economic and security competition in an increasingly digital world.
+The information domain represents competition's cutting edge where conventional tools of economic statecraft run up against their limits. Traditional export controls targeting physical goods struggle to restrict software that crosses borders intangibly—you can embargo a machine, but not an algorithm. Financial sanctions targeting specific entities encounter difficulties addressing cyber operations conducted through proxies and shell companies with shifting identities. Tariffs and quotas prove irrelevant for digital services delivered through internet connections. We are attempting to fight a 21st-century information war with 20th-century trade weapons.
 
-<figure>
-  <img src="../figures/fig_03_05_subsea_cables.png" alt="Global Subsea Cable Infrastructure" style="width:100%; max-width:100%;">
-  <figcaption>Figure 5.1: Global subsea telecommunications cable infrastructure. Over 95% of intercontinental data travels via undersea cables, making landing points and cable routes critical chokepoints for global connectivity. Critical hubs (red) include major data centers and internet exchange points.</figcaption>
-</figure>
+This domain requires new conceptual frameworks and policy tools—combining technical measures (cyber defenses, encryption standards), regulatory approaches (data localization responses, platform governance), standards engagement (technical committee participation, allied coordination), and narrative contestation (countering disinformation, promoting democratic technology governance norms). Understanding information domain competition is essential not just for comprehending U.S.-China strategic rivalry but for navigating the broader transformation of economic and security competition in an increasingly digital world.
+
+![Global Subsea Cable Infrastructure](../figures/fig_03_05_subsea_cables.png)
+
+*Figure 5.1: Global subsea telecommunications cable infrastructure. Over 95% of intercontinental data travels via undersea cables, making landing points and cable routes critical chokepoints for global connectivity. Critical hubs (red) include major data centers and internet exchange points.*
 
 ---
 
@@ -37,7 +42,9 @@ The information domain represents competition's cutting edge where conventional 
 
 ### The Economics of Cyber Espionage: Strategic IP Theft
 
-Cyber espionage represents economic coercion through intellectual property theft at unprecedented scale. Traditional industrial espionage—agents photographing documents in dimly lit offices, bribing insiders over expensive lunches, recruiting disgruntled employees—operated at human speed with inherent limitations. Each target required dedicated resources, stolen information volume remained modest, and exposure risks constrained operations. Cyber operations transformed this calculus entirely. Now automated tools can penetrate thousands of networks simultaneously, exfiltrate terabytes of data within hours, and operate from jurisdictions beyond law enforcement reach. The economics have shifted decisively in favor of attackers: intrusion operations cost thousands to millions of dollars while stolen intellectual property may be worth billions. It's as if safecrackers discovered they could rob every bank in the country simultaneously, from their apartments, with minimal chance of prosecution.
+Cyber espionage represents economic coercion through intellectual property theft at unprecedented scale. Traditional industrial espionage—agents photographing documents in dimly lit offices, bribing insiders over expensive lunches, recruiting disgruntled employees—operated at human speed with inherent limitations. Each target required dedicated resources, stolen information volume remained modest, and exposure risks constrained operations.
+
+Cyber operations transformed this calculus entirely. Now automated tools can penetrate thousands of networks simultaneously, exfiltrate terabytes of data within hours, and operate from jurisdictions beyond law enforcement reach. The economics have shifted decisively in favor of attackers: intrusion operations cost thousands to millions of dollars while stolen intellectual property may be worth billions. It's as if safecrackers discovered they could rob every bank in the country simultaneously, from their apartments, with minimal chance of prosecution.
 
 **China's state-sponsored cyber espionage campaigns** exemplify how information technology enables massive economic coercion. U.S. government assessments, private sector security firm investigations, and declassified intelligence consistently identify Chinese government-affiliated groups as conducting systematic intellectual property theft targeting American and allied companies across strategic sectors: aerospace, pharmaceuticals, chemicals, telecommunications, semiconductors, automotive, and energy. These operations persist over years or decades, compromising hundreds of organizations and stealing designs, manufacturing processes, business strategies, and research data worth conservatively hundreds of billions of dollars.
 
@@ -50,7 +57,9 @@ The **APT1 revelations** in 2013 demonstrated the scale and systematization of C
 
 The technical sophistication varied—some intrusions exploited zero-day vulnerabilities in commercial software, others relied on spear-phishing emails with malicious attachments leveraging social engineering—but operational persistence and systematic targeting indicated resourced, tasked intelligence operations rather than criminal hackers seeking financial gain.
 
-**APT10, APT41, and successor campaigns** demonstrated that public exposure and U.S. indictments did not halt operations but instead drove tactical adaptations. After the APT1 revelation and 2014 U.S. indictments of five PLA officers for economic espionage (DOJ 2014), Chinese cyber operations temporarily decreased in volume but soon resumed using new infrastructure, revised tradecraft, and contractors rather than military personnel (providing plausible deniability). APT10, attributed to China's Ministry of State Security, conducted "Operation Cloud Hopper" targeting managed service providers (MSPs)—companies providing IT services to multiple client organizations. By compromising MSPs, attackers gained access to hundreds of downstream clients through trusted channels, enabling espionage at scale with fewer individual intrusions. Targets included aerospace, telecommunications, pharmaceutical, and government contractors.
+**APT10, APT41, and successor campaigns** demonstrated that public exposure and U.S. indictments did not halt operations but instead drove tactical adaptations. After the APT1 revelation and 2014 U.S. indictments of five PLA officers for economic espionage (DOJ 2014), Chinese cyber operations temporarily decreased in volume but soon resumed using new infrastructure, revised tradecraft, and contractors rather than military personnel (providing plausible deniability).
+
+APT10, attributed to China's Ministry of State Security, conducted "Operation Cloud Hopper" targeting managed service providers (MSPs)—companies providing IT services to multiple client organizations. By compromising MSPs, attackers gained access to hundreds of downstream clients through trusted channels, enabling espionage at scale with fewer individual intrusions. Targets included aerospace, telecommunications, pharmaceutical, and government contractors.
 
 APT41, a sophisticated group attributed to China's Ministry of State Security contractor Chengdu 404, demonstrated blurred lines between state-sponsored espionage and financially motivated cybercrime. U.S. indictments in 2019 and 2020 accused APT41 (DOJ 2020) of both traditional espionage (targeting defense contractors, telecommunications firms, pharmaceutical companies) and profit-driven intrusions (compromising gaming companies to steal virtual currency, ransomware attacks). This duality complicates attribution and responses: is ransomware attack on a U.S. hospital politically motivated strategic disruption or financially motivated crime? The group's ability to pursue both missions suggests Chinese government tolerance or direction of financially self-sustaining cyber operations—effectively privatizing intelligence collection while maintaining deniability.
 
@@ -61,10 +70,9 @@ APT41, a sophisticated group attributed to China's Ministry of State Security co
 - C-919 aircraft: China's domestic narrowbody airliner incorporated designs and technologies from compromised aerospace contractors
 - Pharmaceutical formulations: Multiple Chinese firms accelerated drug development using stolen clinical trial data, manufacturing processes, and molecular designs
 
-<figure>
-  <img src="../figures/fig_05_03_cyber_incidents.png" alt="Major Cyber-Economic Incidents Timeline (2010-2024)" style="width:100%; max-width:100%;">
-  <figcaption>Figure 5.3: Major cyber-economic incidents from 2010-2024, showing estimated damage and state attribution. Triangles indicate state-linked coercive operations; circles indicate criminal or espionage activity. The scale and sophistication of attacks has increased dramatically.</figcaption>
-</figure>
+![Major Cyber-Economic Incidents Timeline (2010-2024)](../figures/fig_05_03_cyber_incidents.png)
+
+*Figure 5.3: Major cyber-economic incidents from 2010-2024, showing estimated damage and state attribution. Triangles indicate state-linked coercive operations; circles indicate criminal or espionage activity. The scale and sophistication of attacks has increased dramatically.*
 
 From a long-term strategic perspective, effectiveness proves more ambiguous. Stolen technology provides immediate capabilities but creates dependencies: firms relying on espionage rather than organic R&D develop weaker innovation capabilities, struggle to advance beyond stolen technologies, and face quality control challenges (not understanding underlying principles means difficulties troubleshooting failures or adapting designs). American Superconductor's experience illustrates: while Sinovel stole software and avoided licensing fees, Sinovel subsequently struggled with product quality, customer service, and technological advancement—ultimately facing bankruptcy proceedings and losing market share. Chinese aviation still cannot produce competitive jet engines despite decades of espionage targeting Pratt & Whitney, GE Aviation, and Rolls-Royce, suggesting that tacit knowledge and manufacturing expertise resist transfer through data theft alone.
 
@@ -76,9 +84,13 @@ Beyond intellectual property theft, cyber operations targeting critical infrastr
 
 **Chinese reconnaissance of U.S. critical infrastructure** has been documented across multiple sectors over the past decade. Security firms and U.S. government agencies have attributed persistent intrusions into electric utilities, water systems, natural gas pipelines, and telecommunications networks to Chinese state-sponsored groups. These intrusions often involve reconnaissance—mapping networks, identifying control systems, testing access methods—rather than immediate disruption, suggesting strategic pre-positioning for potential future operations. The 2021 revelation that Chinese-affiliated hackers had accessed U.S. oil and natural gas pipeline systems demonstrated presence in operationally critical networks capable of causing physical disruptions if exploited.
 
-The **Volt Typhoon campaign** disclosed in 2023 exemplified this pre-positioning strategy. Microsoft and U.S. government agencies attributed widespread intrusions across U.S. critical infrastructure (Microsoft 2023; CISA 2023)—telecommunications, energy, water, and transportation sectors—to a Chinese state-sponsored group focused on maintaining persistent, stealthy access. Unlike traditional espionage campaigns targeting intellectual property, Volt Typhoon operations avoided detection through "living off the land" techniques: using legitimate administrative tools already present in networks rather than custom malware, blending malicious activity with normal operations, and exfiltrating minimal data. The campaign's apparent objective was establishing persistent access enabling future disruption rather than immediate intelligence collection—positioning China to potentially cripple U.S. critical infrastructure during Taiwan Strait or other conflicts.
+The **Volt Typhoon campaign** disclosed in 2023 exemplified this pre-positioning strategy. Microsoft and U.S. government agencies attributed widespread intrusions across U.S. critical infrastructure (Microsoft 2023; CISA 2023)—telecommunications, energy, water, and transportation sectors—to a Chinese state-sponsored group focused on maintaining persistent, stealthy access.
 
-**Strategic implications** of critical infrastructure vulnerabilities extend beyond immediate disruption risks. Knowledge that adversaries have penetrated essential systems creates **psychological and political effects**: public anxiety about grid failures or water contamination, political pressure on leaders to avoid escalation lest cyber retaliation devastate civilian infrastructure, and deterrent effects where both sides recognize mutual vulnerability. This dynamic creates a form of "cyber mutual assured destruction" analogous to nuclear deterrence—but with crucial differences. Nuclear arsenals are relatively well-understood, physically located, and subject to detection and verification regimes. Cyber capabilities remain secret (attackers don't reveal full access until using it), constantly evolving (new vulnerabilities discovered regularly), and difficult to verify (defensive measures may succeed in removing access, or attackers may have maintained alternative entry points). This opacity creates strategic instability: neither side confidently knows its true vulnerabilities or adversary capabilities, potentially causing either dangerous complacency or paranoid overreaction.
+Unlike traditional espionage campaigns targeting intellectual property, Volt Typhoon operations avoided detection through "living off the land" techniques: using legitimate administrative tools already present in networks rather than custom malware, blending malicious activity with normal operations, and exfiltrating minimal data. The campaign's apparent objective was establishing persistent access enabling future disruption rather than immediate intelligence collection—positioning China to potentially cripple U.S. critical infrastructure during Taiwan Strait or other conflicts.
+
+**Strategic implications** of critical infrastructure vulnerabilities extend beyond immediate disruption risks. Knowledge that adversaries have penetrated essential systems creates **psychological and political effects**: public anxiety about grid failures or water contamination, political pressure on leaders to avoid escalation lest cyber retaliation devastate civilian infrastructure, and deterrent effects where both sides recognize mutual vulnerability.
+
+This dynamic creates a form of "cyber mutual assured destruction" analogous to nuclear deterrence—but with crucial differences. Nuclear arsenals are relatively well-understood, physically located, and subject to detection and verification regimes. Cyber capabilities remain secret (attackers don't reveal full access until using it), constantly evolving (new vulnerabilities discovered regularly), and difficult to verify (defensive measures may succeed in removing access, or attackers may have maintained alternative entry points). This opacity creates strategic instability: neither side confidently knows its true vulnerabilities or adversary capabilities, potentially causing either dangerous complacency or paranoid overreaction.
 
 **Deterrence challenges** in critical infrastructure protection differ from traditional military deterrence. Nuclear retaliation is unambiguous and devastating; cyber retaliation faces attribution difficulties (was China responsible for specific infrastructure failure, or did it result from domestic technical issues, criminal hackers, or third-party states?), escalation uncertainties (what cyber attack justifies what military response?), and effectiveness questions (can retaliatory cyber operations impose equivalent costs?). The United States has articulated that cyber attacks causing significant physical damage or casualties could trigger conventional military responses, but thresholds remain deliberately ambiguous—simultaneously attempting to deter attacks while preserving flexibility.
 
@@ -105,6 +117,12 @@ However, fundamental vulnerabilities persist. Much U.S. critical infrastructure 
 ---
 
 ## Data Localization and Digital Sovereignty
+
+{% hint style="info" %}
+**Key Term: Data Localization**
+
+Data localization refers to legal requirements mandating that data about domestic citizens or activities be stored on servers physically located within national borders and subject to domestic legal jurisdiction. These requirements force foreign firms to invest in local infrastructure, submit to host government oversight, and fragment global data flows that previously enabled seamless digital services.
+{% endhint %}
 
 ### China's Data Security Framework: From Ambiguity to Control
 
@@ -159,19 +177,23 @@ The **strategic calculations** behind data localization involve tradeoffs. **Ben
 
 Economic analysis suggests data localization imposes net costs: Brookings Institution estimated that data localization policies globally could reduce GDP by 0.7-1.7% through increased IT costs, reduced trade in digital services, and diminished productivity. However, governments pursuing localization prioritize sovereignty, security, and industrial policy over economic efficiency—accepting GDP costs for strategic control. This dynamic parallels Chapter 2's analysis of semiconductor self-sufficiency: economic costs prove acceptable when strategic objectives predominate.
 
-<figure>
-  <img src="../figures/fig_05_01_data_localization.png" alt="Global Data Localization Requirements" style="width:100%; max-width:100%;">
-  <figcaption>Figure 5.2: Global data localization requirements by stringency. Countries with comprehensive requirements (dark red) mandate local data storage and restrict cross-border transfers. Moderate requirements (orange) apply to specific sectors or data types. The trend toward data sovereignty continues accelerating.</figcaption>
-</figure>
+![Global Data Localization Requirements](../figures/fig_05_01_data_localization.png)
 
-<figure>
-  <img src="../figures/fig_05_04_cloud_market.png" alt="Cloud Infrastructure Market Share" style="width:100%; max-width:100%;">
-  <figcaption>Figure 5.4: Cloud infrastructure market share showing US dominance globally but stark bifurcation in domestic markets. US providers (AWS, Azure, Google Cloud) control over 65% of the global market but less than 10% of China's market, while Chinese providers (Alibaba, Huawei, Tencent) dominate domestically but remain marginal internationally.</figcaption>
-</figure>
+*Figure 5.2: Global data localization requirements by stringency. Countries with comprehensive requirements (dark red) mandate local data storage and restrict cross-border transfers. Moderate requirements (orange) apply to specific sectors or data types. The trend toward data sovereignty continues accelerating.*
+
+![Cloud Infrastructure Market Share](../figures/fig_05_04_cloud_market.png)
+
+*Figure 5.4: Cloud infrastructure market share showing US dominance globally but stark bifurcation in domestic markets. US providers (AWS, Azure, Google Cloud) control over 65% of the global market but less than 10% of China's market, while Chinese providers (Alibaba, Huawei, Tencent) dominate domestically but remain marginal internationally.*
 
 ---
 
 ## Technology Standards Competition
+
+{% hint style="info" %}
+**Key Term: Technical Standards**
+
+Technical standards are the specifications defining how devices, networks, and systems interoperate. When a company's specifications become adopted as global standards, competitors must conform to those specifications to achieve interoperability, creating massive advantages for the standard-setter. Standards battles occur in technical venues like 3GPP (telecommunications), ISO (international standards), ITU (internet governance), and IEEE (electrical/electronics engineering).
+{% endhint %}
 
 ### Why Standards Matter: Architecture as Strategic Advantage
 
@@ -298,9 +320,13 @@ The internet's foundational vision—a borderless, interoperable global network 
 
 ### Alternative Digital Infrastructures: BeiDou, CIPS, and Digital Sovereignty
 
-<figure>
-  <img src="../figures/fig_05_02_internet_exchange.png" alt="Internet Exchange Point Concentration: Global Digital Infrastructure Chokepoints" style="width:100%; max-width:100%;">
-</figure>
+{% hint style="info" %}
+**Key Term: Digital Infrastructure**
+
+Digital infrastructure encompasses the physical and virtual systems enabling global connectivity and data flows: submarine fiber-optic cables, satellite networks, internet exchange points, data centers, cloud computing platforms, payment systems, and navigation satellites. Control over digital infrastructure creates strategic leverage, as dependency on foreign-controlled systems creates vulnerabilities that can be exploited during conflicts or crises.
+{% endhint %}
+
+![Internet Exchange Point Concentration: Global Digital Infrastructure Chokepoints](../figures/fig_05_02_internet_exchange.png)
 
 Chinese pursuit of digital sovereignty extends beyond censorship and data localization to building alternative digital infrastructures reducing dependencies on Western-controlled systems. These alternatives—navigation satellites, payment systems, internet routing, cloud services—create parallel ecosystems enabling both independence from Western leverage and potential extensions of Chinese influence.
 
@@ -321,6 +347,12 @@ Answers depend on broader geopolitical trajectories: deepening U.S.-China strate
 ---
 
 ## Chinese Perspective Box: Cyber Sovereignty and Discourse Power
+
+{% hint style="info" %}
+**Key Term: Cyber Sovereignty**
+
+Cyber sovereignty (网络主权, wǎngluò zhǔquán) is the principle that states possess sovereign authority over internet infrastructure, content, and data within their territories, equivalent to sovereignty over physical territory. This Chinese concept explicitly challenges Western internet governance norms that emphasize multi-stakeholder governance, free information flows, and limited government control.
+{% endhint %}
 
 ### Understanding Chinese Concepts of Information Security
 
@@ -556,6 +588,12 @@ FIRRMA represents critical tool in technology competition strategy but proves mo
 
 ## Case Study 1: China's Great Firewall and Digital Sovereignty
 
+{% hint style="warning" %}
+**Chinese Strategic Concept: The Great Firewall (防火长城, fánghuǒ chángchéng)**
+
+From the Chinese government's perspective, the Great Firewall represents a necessary defensive measure protecting national sovereignty from Western information infiltration. Chinese officials frame it as analogous to border controls that all nations maintain. The system's Chinese name, the "Golden Shield Project" (金盾工程, jīndùn gōngchéng), emphasizes protection rather than censorship. Beijing argues that Western criticism reflects American desire to maintain information dominance, not genuine concern for Chinese citizens' rights.
+{% endhint %}
+
 ### Background and Technical Architecture
 
 China's "Great Firewall" (GFW) represents the world's most sophisticated and comprehensive internet censorship and surveillance system, blocking access to foreign websites, filtering content, and monitoring communications for over 1 billion Chinese internet users. The system's technical name is the "Golden Shield Project" (金盾工程, jīndùn gōngchéng), implemented progressively since the late 1990s and continuously upgraded to address circumvention technologies and expanding internet traffic.
@@ -629,6 +667,12 @@ China has exported Great Firewall technologies and governance models to other au
 - **Southeast Asia:** Vietnam, Cambodia, Thailand expanding censorship using Chinese technologies
 
 This export creates **normative competition** where Chinese governance model—authoritarian digital control—presents coherent alternative to Western internet freedom frameworks, particularly appealing to non-democratic regimes concerned about social media enabling political mobilization.
+
+{% hint style="warning" %}
+**Chinese Strategic Concept: Digital Silk Road (数字丝绸之路, shùzì sīchóu zhī lù)**
+
+The Digital Silk Road is China's initiative to build digital infrastructure across Belt and Road Initiative countries, including fiber-optic cables, 5G networks, data centers, smart city systems, and e-commerce platforms. Chinese officials frame this as development assistance helping emerging economies leapfrog into the digital age. Critics view it as creating technological dependencies that could be leveraged for surveillance, data collection, and political influence. From Beijing's perspective, the Digital Silk Road offers an alternative to Western-dominated digital ecosystems, promoting "win-win cooperation" and respecting recipient nations' choices about internet governance.
+{% endhint %}
 
 ### Lessons for U.S. Policy
 
