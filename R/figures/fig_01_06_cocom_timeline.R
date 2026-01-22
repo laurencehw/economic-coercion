@@ -3,7 +3,8 @@
 # Historical timeline of Cold War export control regime
 
 # Load required packages and theme
-source("R/setup_theme.R")
+library(here)
+source(here::here("R", "setup_theme.R"))
 library(dplyr)
 library(tidyr)
 
@@ -116,6 +117,6 @@ p <- ggplot(cocom_events) +
   guides(color = guide_legend(nrow = 2, override.aes = list(size = 4)))
 
 # Save the figure
-save_econ_figure("figures/fig_01_06_cocom_timeline.png", plot = p, width = 14, height = 9)
+save_econ_figure(here::here("figures", "fig_01_06_cocom_timeline.png"), plot = p, width = 14, height = 9)
 
 cat("Figure 1.6 created: CoCom Timeline\n")

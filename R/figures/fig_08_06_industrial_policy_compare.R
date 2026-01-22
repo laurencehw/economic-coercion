@@ -3,7 +3,8 @@
 # Compares US, China, and EU approaches to industrial policy
 
 # Load required packages and theme
-source("R/setup_theme.R")
+library(here)
+source(here::here("R", "setup_theme.R"))
 library(dplyr)
 library(tidyr)
 library(forcats)
@@ -114,6 +115,6 @@ library(patchwork)
 combined <- (p1 + p3) / p2 + plot_layout(heights = c(1, 1.5))
 
 # Save the figure
-save_econ_figure("figures/fig_08_06_industrial_policy_compare.png", plot = combined, width = 13, height = 11)
+save_econ_figure(here::here("figures", "fig_08_06_industrial_policy_compare.png"), plot = combined, width = 13, height = 11)
 
 cat("Figure 8.6 created: Industrial Policy Comparison\n")

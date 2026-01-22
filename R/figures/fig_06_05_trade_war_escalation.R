@@ -3,13 +3,14 @@
 # Stepped visualization of tit-for-tat measures 2018-2024
 
 # Load required packages and theme
-source("R/setup_theme.R")
+library(here)
+source(here::here("R", "setup_theme.R"))
 library(dplyr)
 library(tidyr)
 library(lubridate)
 
 # Load data
-trade_war <- read.csv("data/sources/trade_war_timeline.csv", stringsAsFactors = FALSE)
+trade_war <- read.csv(here::here("data", "sources", "trade_war_timeline.csv"), stringsAsFactors = FALSE)
 trade_war$date <- as.Date(trade_war$date)
 
 # Assign sides and create escalation visualization
@@ -98,6 +99,6 @@ p <- ggplot(trade_war, aes(x = date, y = y_offset)) +
   guides(color = guide_legend(nrow = 1))
 
 # Save the figure
-save_econ_figure("figures/fig_06_05_trade_war_escalation.png", plot = p, width = 14, height = 9)
+save_econ_figure(here::here("figures", "fig_06_05_trade_war_escalation.png"), plot = p, width = 14, height = 9)
 
 cat("Figure 6.5 created: Trade War Escalation Ladder\n")

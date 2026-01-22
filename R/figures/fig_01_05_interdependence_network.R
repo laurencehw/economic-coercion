@@ -3,7 +3,8 @@
 # Network diagram showing US and China hub positions across domains
 
 # Load required packages and theme
-source("R/setup_theme.R")
+library(here)
+source(here::here("R", "setup_theme.R"))
 library(dplyr)
 library(tidyr)
 library(igraph)
@@ -133,6 +134,6 @@ p <- ggraph(g, layout = "fr") +
   )
 
 # Save the figure
-save_econ_figure("figures/fig_01_05_interdependence_network.png", plot = p, width = 12, height = 10)
+save_econ_figure(here::here("figures", "fig_01_05_interdependence_network.png"), plot = p, width = 12, height = 10)
 
 cat("Figure 1.5 created: Weaponized Interdependence Network\n")

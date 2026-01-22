@@ -3,7 +3,8 @@
 # Plots concentration vs criticality for key inputs
 
 # Load required packages and theme
-source("R/setup_theme.R")
+library(here)
+source(here::here("R", "setup_theme.R"))
 library(dplyr)
 library(ggrepel)
 
@@ -103,6 +104,6 @@ p <- ggplot(supply_risks, aes(x = concentration, y = criticality)) +
   theme(legend.position = "right")
 
 # Save the figure
-save_econ_figure("figures/fig_02_04_supply_chain_risk.png", plot = p, width = 12, height = 10)
+save_econ_figure(here::here("figures", "fig_02_04_supply_chain_risk.png"), plot = p, width = 12, height = 10)
 
 cat("Figure 2.4 created: Supply Chain Risk Matrix\n")

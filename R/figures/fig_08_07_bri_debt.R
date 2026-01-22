@@ -3,7 +3,8 @@
 # Shows BRI debt-to-GDP ratios by recipient country
 
 # Load required packages and theme
-source("R/setup_theme.R")
+library(here)
+source(here::here("R", "setup_theme.R"))
 library(dplyr)
 library(tidyr)
 library(forcats)
@@ -121,6 +122,6 @@ library(patchwork)
 combined <- p1 / p2 + plot_layout(heights = c(1.3, 1))
 
 # Save the figure
-save_econ_figure("figures/fig_08_07_bri_debt.png", plot = combined, width = 12, height = 13)
+save_econ_figure(here::here("figures", "fig_08_07_bri_debt.png"), plot = combined, width = 12, height = 13)
 
 cat("Figure 8.7 created: BRI Debt Map\n")

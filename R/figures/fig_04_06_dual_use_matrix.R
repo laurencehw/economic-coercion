@@ -3,7 +3,8 @@
 # Shows technologies with both commercial and military applications
 
 # Load required packages and theme
-source("R/setup_theme.R")
+library(here)
+source(here::here("R", "setup_theme.R"))
 library(dplyr)
 library(tidyr)
 
@@ -140,6 +141,6 @@ library(patchwork)
 combined <- p1 / p2 + plot_layout(heights = c(1.2, 1))
 
 # Save the figure
-save_econ_figure("figures/fig_04_06_dual_use_matrix.png", plot = combined, width = 12, height = 12)
+save_econ_figure(here::here("figures", "fig_04_06_dual_use_matrix.png"), plot = combined, width = 12, height = 12)
 
 cat("Figure 4.6 created: Dual-Use Technology Matrix\n")

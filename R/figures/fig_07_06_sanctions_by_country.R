@@ -3,7 +3,8 @@
 # Stacked bar showing evolution of sanctions regimes
 
 # Load required packages and theme
-source("R/setup_theme.R")
+library(here)
+source(here::here("R", "setup_theme.R"))
 library(dplyr)
 library(tidyr)
 
@@ -102,6 +103,6 @@ library(patchwork)
 combined <- p1 / p2 + plot_layout(heights = c(1.2, 1))
 
 # Save the figure
-save_econ_figure("figures/fig_07_06_sanctions_by_country.png", plot = combined, width = 12, height = 11)
+save_econ_figure(here::here("figures", "fig_07_06_sanctions_by_country.png"), plot = combined, width = 12, height = 11)
 
 cat("Figure 7.6 created: Sanctions by Country\n")

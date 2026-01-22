@@ -3,7 +3,8 @@
 # Shows reshoring and friendshoring investment patterns
 
 # Load required packages and theme
-source("R/setup_theme.R")
+library(here)
+source(here::here("R", "setup_theme.R"))
 library(dplyr)
 library(tidyr)
 library(forcats)
@@ -96,6 +97,6 @@ library(patchwork)
 combined <- p1 / p2 + plot_layout(heights = c(1.2, 1))
 
 # Save the figure
-save_econ_figure("figures/fig_02_05_reshoring_map.png", plot = combined, width = 12, height = 13)
+save_econ_figure(here::here("figures", "fig_02_05_reshoring_map.png"), plot = combined, width = 12, height = 13)
 
 cat("Figure 2.5 created: Reshoring Map\n")

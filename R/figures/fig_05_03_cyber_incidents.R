@@ -3,14 +3,15 @@
 # Visualizes significant cyber attacks with economic/coercive dimensions
 
 # Load required packages and theme
-source("R/setup_theme.R")
+library(here)
+source(here::here("R", "setup_theme.R"))
 library(dplyr)
 library(tidyr)
 library(scales)
 library(ggrepel)
 
 # Load data
-cyber_data <- read.csv("data/sources/cyber_economic_incidents.csv", stringsAsFactors = FALSE)
+cyber_data <- read.csv(here::here("data", "sources", "cyber_economic_incidents.csv"), stringsAsFactors = FALSE)
 
 # Filter to major incidents and add categories
 cyber_data <- cyber_data %>%
@@ -89,6 +90,6 @@ p <- ggplot(cyber_data, aes(x = year, y = damage_billions)) +
   )
 
 # Save the figure
-save_econ_figure("figures/fig_05_03_cyber_incidents.png", plot = p, width = 12, height = 8)
+save_econ_figure(here::here("figures", "fig_05_03_cyber_incidents.png"), plot = p, width = 12, height = 8)
 
 cat("Figure 5.3 created: Cyber-Economic Incidents Timeline\n")
