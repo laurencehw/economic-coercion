@@ -2,11 +2,11 @@
 
 ## Executive Summary
 
-On August 6, 2020, President Trump issued an executive order giving ByteDance, the Chinese parent company of TikTok, 45 days to divest the popular video-sharing app or face a complete ban in the United States. The order cited national security concerns: TikTok's collection of American users' data, algorithmic content curation controlled by a Chinese company potentially subject to Chinese government influence, and risks of Chinese intelligence exploitation of the platform's vast user base (100 million Americans, predominantly young). ByteDance attempted negotiations, proposing technical solutions and partnership structures, but the Committee on Foreign Investment in the United States (CFIUS) determined that only complete divestment—selling TikTok's U.S. operations to American owners—would address security concerns. Four years and multiple legal battles later, TikTok remains Chinese-owned, operating under continued threat of forced sale or ban, illustrating both the expanded reach of U.S. investment screening authorities and the complexities of enforcing technology divestments.
+On August 6, 2020, President Trump issued an executive order giving ByteDance, the Chinese parent company of TikTok, 45 days to divest the popular video-sharing app or face a complete ban in the United States. The order cited national security concerns: TikTok's collection of American users' data, algorithmic content curation controlled by a Chinese company potentially subject to Chinese government influence, and risks of Chinese intelligence exploitation of the platform's vast user base (100 million Americans, predominantly young). ByteDance attempted negotiations, proposing technical solutions and partnership structures, but the Committee on Foreign Investment in the United States (CFIUS) determined that only complete divestment—selling TikTok's U.S. operations to American owners—would address security concerns.
 
-The TikTok saga exemplifies a fundamental transformation in how advanced economies employ investment screening: once a passive, largely procedural review of foreign acquisitions for narrow national security concerns, investment review has evolved into an active tool of economic coercion targeting specific countries (primarily China), entire sectors (technology, critical infrastructure, data-intensive businesses), and even operating companies already established in domestic markets. Simultaneously, governments have embraced industrial policy—direct state intervention through subsidies, mandates, and preferential treatment—to build domestic capabilities and reduce dependencies. The United States, long a champion of free markets and skeptic of industrial policy, has committed over $500 billion through the CHIPS and Science Act, Inflation Reduction Act, and Infrastructure Investment and Jobs Act (Rasser et al. 2022) to reshape semiconductor production, clean energy supply chains, and critical infrastructure. China, meanwhile, continues its decades-long industrial policy regime through Made in China 2025, state-owned enterprise dominance, and the Big Fund semiconductor investments exceeding $100 billion. This dual transformation—weaponized investment screening and resurgent industrial policy—represents a decisive shift from market-driven globalization toward strategic economic competition. The invisible hand has been replaced by the visible fist.
+Four years and multiple legal battles later, TikTok remains Chinese-owned, operating under perpetual threat of forced sale or ban. The standoff captures a fundamental transformation underway: investment screening has mutated from sleepy bureaucratic review into an active weapon targeting specific countries, entire sectors, and companies already operating on domestic soil. Meanwhile, governments once allergic to industrial policy now embrace it with gusto. The United States—long a champion of free markets and skeptic of state intervention—committed over $500 billion through the CHIPS and Science Act, Inflation Reduction Act, and Infrastructure Investment and Jobs Act (Rasser et al. 2022) to remake semiconductor production and clean energy supply chains. China doubles down on Made in China 2025 and Big Fund semiconductor investments exceeding $100 billion. The invisible hand has been replaced by the visible fist.
 
-This chapter examines how states employ investment controls and industrial policy as instruments of economic coercion, shaping capital flows, ownership structures, and industrial capabilities to serve strategic objectives. Three core arguments organize our analysis.
+Investment controls and industrial policy now rank alongside tariffs and sanctions as primary instruments of economic coercion. Governments wield them to shape capital flows, dictate ownership structures, and rebuild industrial capabilities they once happily offshored. Three core arguments organize the analysis.
 
 **First, investment screening has evolved from passive national security review to active economic coercion tool, particularly targeting Chinese investments in technology and critical infrastructure.** Traditional CFIUS review focused on narrow security concerns: preventing foreign control of defense contractors, protecting classified information, safeguarding critical infrastructure from sabotage. Applications were relatively rare, reviews largely procedural, and approvals common with modest mitigation measures. The 2018 Foreign Investment Risk Review Modernization Act (FIRRMA) fundamentally transformed this landscape: expanding jurisdiction to cover non-controlling investments and early-stage ventures (previously outside CFIUS reach), mandating declarations for investments in "TID" sectors (Technology, Infrastructure, Data), and explicitly targeting critical emerging technologies (AI, quantum computing, biotechnology, hypersonics). Post-FIRRMA, Chinese investment in U.S. technology plummeted from a 2016 peak of $45.6 billion to just $2.5 billion in 2024—a 95% decline (Rhodium Group 2024). This wasn't market forces but policy intent: investment screening became a mechanism for economic decoupling, preventing Chinese capital from accessing American innovation ecosystems.
 
@@ -75,6 +75,11 @@ Traditional CFIUS jurisdiction covered only transactions resulting in foreign "c
 
 - **Non-controlling investments in TID sectors**: Foreign investments in U.S. businesses dealing with critical **Technology**, **Infrastructure**, or **Data** ("TID") now fall under CFIUS jurisdiction even without control. This captures minority stake investments, venture capital funding, and strategic partnerships previously beyond CFIUS reach.
 
+{% hint style="warning" %}
+**TID Sectors: The New Red Lines**
+FIRRMA's "TID" framework—Technology, Infrastructure, Data—defines the new red lines for foreign investment. **Technology** includes AI, quantum computing, semiconductors, biotechnology, and other emerging fields. **Infrastructure** covers energy, telecommunications, transportation, and other critical systems. **Data** encompasses any business collecting sensitive personal information on Americans. Even a 5% investment in a TID-sector startup now triggers CFIUS jurisdiction—a dramatic expansion from traditional "control" requirements.
+{% endhint %}
+
 - **Critical technology definition**: Investments involving businesses that produce, design, test, manufacture, fabricate, or develop critical technologies face CFIUS review. Critical technologies include:
   - Export-controlled items (including emerging and foundational technologies under Export Control Reform Act)
   - Nuclear facilities and materials
@@ -138,6 +143,11 @@ FIRRMA's impact on Chinese investment was immediate and severe. Chinese direct i
 
 This represents a **95% decline from peak**, with 2024 investment returning to levels last seen in 2004—before China's emergence as major global investor. The collapse extends across sectors but concentrates in technology:
 
+{% hint style="info" %}
+**The 95% Collapse in Chinese FDI**
+The near-total collapse of Chinese foreign direct investment in the United States—from $45.6 billion in 2016 to just $2.5 billion in 2024—represents one of the most dramatic investment reversals in modern history. This wasn't a market correction but a policy outcome: FIRRMA's expanded jurisdiction, mandatory declarations, and aggressive enforcement created an environment where Chinese capital simply cannot access American technology companies. The message was unmistakable: Chinese money is not welcome in U.S. innovation ecosystems.
+{% endhint %}
+
 **Technology sector**: Chinese VC investment in U.S. technology startups fell from $3.2 billion (2017) to less than $200 million (2024). Prominent Chinese VCs (Sequoia China, Hillhouse Capital) largely exited U.S. deals.
 
 **Real estate**: Chinese purchases of U.S. commercial and residential real estate declined from $46.2 billion peak (2016) to approximately $3 billion (2024), driven partly by CFIUS concerns about properties near sensitive sites but also Chinese capital controls and economic slowdown.
@@ -161,6 +171,11 @@ Beyond blocking prospective deals, CFIUS gained aggressive enforcement of existi
 - **PatientsLikeMe**: Chinese firm iCarbonX forced to divest health data platform
 - **StayNTouch**: Chinese acquirer required to divest hotel management software accessing guest data
 - **Multiple smaller divestitures**: CFIUS identified and unwound dozens of unreported transactions closed before FIRRMA, forcing retroactive review and divestment.
+
+{% hint style="info" %}
+**Retroactive Power: No Deal is Ever "Final"**
+One of CFIUS's most powerful tools is retroactive review. Transactions completed years ago—even those never notified to CFIUS—can be reopened if security concerns emerge. Chinese investors who acquired U.S. companies before FIRRMA's passage found themselves forced to divest years later. This creates permanent uncertainty: there is no statute of limitations, no "safe harbor" after closing. For foreign investors, especially Chinese ones, this means no deal involving sensitive technology or data is ever truly final.
+{% endhint %}
 
 ### Allied Investment Screening: Coordination and Divergence
 
@@ -325,6 +340,11 @@ The Creating Helpful Incentives to Produce Semiconductors (CHIPS) and Science Ac
 - **Workforce development**: $500 million for semiconductor workforce training
 - **Guardrails**: Recipients prohibited from expanding semiconductor manufacturing in China for 10 years ("guardrails" preventing subsidized firms from aiding Chinese competitors)
 
+{% hint style="warning" %}
+**The 10-Year China Ban**
+CHIPS Act "guardrails" force companies to make a fundamental choice: take U.S. subsidies or expand in China—not both. Any company receiving CHIPS funding is prohibited from materially expanding semiconductor manufacturing capacity in China for 10 years. For companies like Intel, TSMC, and Samsung that have existing China operations, this creates difficult strategic trade-offs. The guardrails effectively weaponize subsidies, turning industrial policy into a tool for accelerating decoupling.
+{% endhint %}
+
 **Major projects announced** (as of 2024):
 - **TSMC Arizona**: Two fabs producing 4nm and 3nm chips, $65 billion investment (with $6.6 billion CHIPS funding), targeting 2025-2028 production
 - **Intel Ohio**: Two fabs for advanced logic chips, potential $100+ billion investment over decade ($8.5 billion CHIPS funding awarded)
@@ -416,7 +436,7 @@ China's National Integrated Circuit Industry Investment Fund (the "Big Fund") ex
 
 ### Comparing Approaches: Market-Driven vs. State-Directed
 
-![Industrial Policy Spending: U.S. vs China](../../figures/figure_8_3_industrial_policy.png)
+![Industrial Policy Spending: U.S. vs China](../../figures/fig_08_03_industrial_policy.png)
 
 **U.S. Model: Strategic Industrial Policy within Market Framework**
 
@@ -592,6 +612,11 @@ Beginning May 2020, China imposed de facto restrictions on multiple Australian e
 - **Impact**: Australian wine exports to China collapsed from $1.2 billion (2019) to $12 million (2021)—99% decline. For Australian wineries, China had been largest export market (39% of exports).
 - **Devastating sector impacts**: Treasury Wine Estates, Pernod Ricard Australia, and many smaller wineries faced revenue collapse, lay-offs, discounted inventory
 
+{% hint style="info" %}
+**The 99% Wine Collapse**
+Australia's wine industry faced perhaps the most devastating blow of China's informal coercion campaign. Anti-dumping duties of 107-212% were prohibitively high—effectively a complete market exclusion dressed in trade law language. Wine exports to China plummeted from $1.2 billion to just $12 million in two years. For an industry where China had become the largest export market (39% of total), this represented an existential crisis. Regional towns dependent on wine exports faced severe economic hardship.
+{% endhint %}
+
 **Coal (October 2020-2022)**
 - **Action**: Unofficial import restrictions—Australian coal ships stuck at Chinese ports for months without customs clearance
 - **Impact**: Australian coal exports to China fell from $14 billion (2019) to $2.4 billion (2020) to near-zero (2021)
@@ -626,6 +651,11 @@ Cumulative trade impact estimated $20+ billion in affected exports over 2020-202
 - Coal exporters increased sales to India, Japan, South Korea
 - Barley found buyers in Middle East, Southeast Asia
 - Government Export Market Development Grants supported diversification
+
+{% hint style="success" %}
+**The Diversification Success Story**
+Australia's response to Chinese coercion offers a model for economic resilience. Rather than capitulating, Australia aggressively diversified export markets. Wine found new customers in the U.S., UK, and Southeast Asia. Coal redirected to India, Japan, and South Korea. Barley reached Middle Eastern and Southeast Asian buyers. While painful in the short term, this forced diversification ultimately reduced Australia's vulnerability to future Chinese pressure—demonstrating that economic coercion can backfire by motivating targets to build resilience rather than submit.
+{% endhint %}
 
 **WTO disputes**:
 - Challenged Chinese barley duties at WTO (successful 2024)
@@ -684,7 +714,7 @@ Australia's experience demonstrates challenges facing middle powers:
 - **Alliance value**: U.S. and allied support (diplomatic, security deepening via AUKUS) helped Australia withstand pressure
 - **Resilience through diversification**: Market access to U.S., Europe, Japan, India, Southeast Asia provided alternatives
 
-For countries like South Korea, ASEAN states, and others with high China trade dependence but security interests aligned with U.S., Australia's experience offers cautionary lessons: economic coercion is real, painful, but survivable with diversification and allied support.
+For countries like South Korea, ASEAN states, and others with high China trade dependence but security interests aligned with U.S., Australia's experience offers cautionary lessons: economic coercion is real, painful, but survivable with diversification and allied support (Chapter 9 places Australia's experience in historical context alongside other major economic coercion cases).
 
 ---
 

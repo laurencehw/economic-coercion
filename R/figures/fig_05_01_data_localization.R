@@ -3,7 +3,9 @@
 # Shows the global landscape of data sovereignty laws
 
 # Load required packages and theme
-source("R/setup_theme.R")
+# Using here::here() for reliable path construction from any working directory
+library(here)
+source(here("R", "setup_theme.R"))
 library(dplyr)
 library(tidyr)
 library(sf)
@@ -11,7 +13,7 @@ library(rnaturalearth)
 library(rnaturalearthdata)
 
 # Load data
-data_laws <- read.csv("data/sources/data_localization_laws.csv", stringsAsFactors = FALSE)
+data_laws <- read.csv(here("data", "sources", "data_localization_laws.csv"), stringsAsFactors = FALSE)
 
 # Get world map data
 world <- ne_countries(scale = "medium", returnclass = "sf")
@@ -92,6 +94,6 @@ p <- ggplot(world_data) +
   )
 
 # Save the figure
-save_econ_figure("figures/fig_05_01_data_localization.png", plot = p, width = 12, height = 7)
+save_econ_figure(here("figures", "fig_05_01_data_localization.png"), plot = p, width = 12, height = 7)
 
 cat("Figure 5.1 created: Data Localization Requirements Map\n")
