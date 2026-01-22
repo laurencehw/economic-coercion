@@ -6,7 +6,7 @@ On February 26, 2022, four days after Russia's full-scale invasion of Ukraine, t
 
 This chapter examines financial sanctions—restricting access to financial systems, freezing assets, and prohibiting transactions—as instruments of economic coercion. Unlike trade controls affecting goods flows or investment screening targeting ownership, financial sanctions operate in the abstract realm of money, payments, and capital—yet their impacts can be devastating. A firm denied access to dollar-denominated payments or international banking systems faces existential crisis; a state frozen out of global finance confronts economic strangulation. Three key arguments structure our analysis:
 
-**First, U.S. financial power rests on structural advantages in the international monetary system, not simply economic size.** The dollar's role as dominant reserve currency (58% of global foreign exchange reserves), invoicing currency (40% of SWIFT payments), and safe haven asset creates network effects (IMF 2024) and path dependencies that competitors cannot easily replicate. Control of financial infrastructure—SWIFT, Euroclear, correspondent banking—amplifies this power. Understanding these structural foundations illuminates both sanctions' effectiveness and vulnerabilities.
+**First, U.S. financial power rests on structural advantages in the international monetary system, not simply economic size.** The dollar's role as dominant reserve currency (58% of global foreign exchange reserves), invoicing currency (42% of SWIFT payments), and safe haven asset creates network effects (IMF 2024) and path dependencies that competitors cannot easily replicate. Control of financial infrastructure—SWIFT, Euroclear, correspondent banking—amplifies this power. Understanding these structural foundations illuminates both sanctions' effectiveness and vulnerabilities.
 
 **Second, U.S. financial coercion has expanded in scope and ambition, moving from targeted individuals and entities to entire economies and financial systems.** Traditional sanctions blocked specific terrorists, narcotics traffickers, or proliferators from U.S. financial system access. Modern sanctions impose comprehensive restrictions on entire countries (Iran, North Korea, Venezuela), freeze central bank reserves (Russia, Afghanistan), and employ secondary sanctions forcing third parties to choose between U.S. and target markets. This escalation raises questions about sustainability and blowback.
 
@@ -266,7 +266,7 @@ When UN Security Council adopts sanctions resolutions (e.g., North Korea, Iran h
 
 ### Types of Sanctions Programs
 
-![Active U.S. Sanctions Programs by Type](../../figures/figure_7_2_sanctions_programs.png)
+![Active U.S. Sanctions Programs by Type](../../figures/fig_07_02_sanctions_programs.png)
 
 OFAC administers multiple sanctions program types:
 
@@ -642,7 +642,7 @@ Aggressive U.S. use of financial sanctions—particularly freezing Russia's cent
 
 **Sanctions Vulnerability**
 
-![Russian Central Bank Assets Frozen in 2022](../../figures/figure_7_4_russian_frozen_assets.png)
+![Russian Central Bank Assets Frozen in 2022](../../figures/fig_07_04_russian_frozen_assets.png)
 
 States facing sanctions or anticipating future sanctions seek alternatives to dollar-denominated transactions and U.S.-connected financial infrastructure:
 

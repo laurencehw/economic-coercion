@@ -8,7 +8,7 @@ The de-dollarization trend exemplifies how contemporary economic statecraft crea
 
 This chapter examines future scenarios for economic statecraft through 2035-2050, assessing likely trajectories, critical uncertainties, and policy implications. Three core arguments structure our analysis.
 
-**First, current trends point toward increasing economic fragmentation—partial decoupling between rival blocs, parallel technological ecosystems, competing financial architectures—rather than complete autarky or renewed integration.** Full decoupling is economically prohibitive: even hostile powers maintain trade in non-strategic sectors (China-U.S. bilateral trade remains $690 billion annually despite tensions), and global supply chains resist comprehensive restructuring. But selective decoupling accelerates: semiconductors, AI, biotechnology, critical minerals face strategic controls; financial systems develop redundancies; standards and protocols diverge. The resulting "partially fragmented globalization" combines sectoral decoupling (strategic domains) with continued integration (commodity trade, consumer goods) creating complexity for firms and policymakers navigating bifurcated markets.
+**First, current trends point toward increasing economic fragmentation—partial decoupling between rival blocs, parallel technological ecosystems, competing financial architectures—rather than complete autarky or renewed integration.** Full decoupling is economically prohibitive: even hostile powers maintain trade in non-strategic sectors (China-U.S. bilateral goods trade remains approximately $575-580 billion annually, down from the 2022 peak of $690 billion, despite tensions), and global supply chains resist comprehensive restructuring. But selective decoupling accelerates: semiconductors, AI, biotechnology, critical minerals face strategic controls; financial systems develop redundancies; standards and protocols diverge. The resulting "partially fragmented globalization" combines sectoral decoupling (strategic domains) with continued integration (commodity trade, consumer goods) creating complexity for firms and policymakers navigating bifurcated markets.
 
 **Second, emerging technologies—artificial intelligence, quantum computing, biotechnology, clean energy, space systems—will become central battlegrounds for strategic competition, with economic coercion tools adapted to control technology diffusion.** Unlike semiconductors (where chokepoints concentrate in specific equipment and materials), AI development distributes across talent, algorithms, data, and computing infrastructure. Quantum computing remains early-stage, with uncertain timelines for practical applications but potentially revolutionary implications for cryptography, optimization, and sensing. Biotechnology advancements (CRISPR gene editing, synthetic biology, personalized medicine) create dual-use capabilities with economic and security dimensions. Each technology requires tailored coercion strategies: talent restrictions for AI, specialized equipment controls for quantum, data sovereignty for biotech. Yet technology's rapid evolution, diffusion speed, and software-centricity resist traditional export controls designed for physical goods.
 
@@ -35,12 +35,12 @@ The U.S. dollar's role as global reserve currency and dominant medium of exchang
 
 ### Dollar Privilege and Its Vulnerabilities
 
-![Projected Dollar Share of Global Reserves (Scenarios 2024-2050)](../../figures/figure_10_1_dollar_reserves.png)
+![Projected Dollar Share of Global Reserves (Scenarios 2024-2050)](../../figures/fig_10_01_dollar_reserves.png)
 
 **Current Dollar Dominance**
 
 As of 2024:
-- **Reserve currency**: Dollar comprises ~60% of global foreign exchange reserves (down from 71% in 2000)
+- **Reserve currency**: Dollar comprises ~58% of global foreign exchange reserves (down from 71% in 2000) (IMF COFER 2024)
 - **Trade invoicing**: Approximately 50% of cross-border trade invoiced in dollars (including ~80% of oil transactions)
 - **Foreign exchange**: Dollar represents ~90% of currency transactions globally
 - **Debt issuance**: Over 60% of international bonds and loans denominated in dollars
@@ -65,7 +65,7 @@ Every use of financial sanctions demonstrates dollar vulnerability, incentivizin
 **2. Alternative payment systems emerging**
 
 Technology enables competing infrastructure:
-- **CIPS** (China Cross-Border Interbank Payment System): Yuan-denominated alternative to SWIFT, processing $13+ trillion annually (2024), growing 50%+ yearly
+- **CIPS** (China Cross-Border Interbank Payment System): Yuan-denominated payment system processing approximately $24 trillion annually (RMB 175 trillion in 2024), with 40-43% year-on-year growth, though still relying on SWIFT messaging for over 80% of transactions (PBOC 2025)
 - **SPFS** (Russia System for Transfer of Financial Messages): Russian SWIFT alternative, limited international adoption but functional
 - **Cryptocurrency and stablecoins**: Decentralized alternatives avoiding state control, though volatile and limited in scale
 - **Central Bank Digital Currencies (CBDCs)**: Over 130 countries exploring or piloting, with China's e-CNY furthest advanced
@@ -273,7 +273,7 @@ Economic coercion tools must adapt to control these technologies' strategic diff
 
 ### Artificial Intelligence: The Defining Technology Competition
 
-![AI Development Indicators: U.S. vs China](../../figures/figure_10_3_ai_indicators.png)
+![AI Development Indicators: U.S. vs China](../../figures/fig_10_03_ai_indicators.png)
 
 **AI Strategic Significance**
 

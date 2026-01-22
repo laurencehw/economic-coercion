@@ -78,7 +78,7 @@ Despite limitations, scholarly consensus holds CoCom meaningfully degraded Sovie
 
 ### Grain Embargo (1980): Unilateral Failure
 
-![Soviet Grain Imports by Source Country (1975-1985)](../../figures/figure_9_1_soviet_grain.png)
+![Soviet Grain Imports by Source Country (1975-1985)](../../figures/fig_09_01_soviet_grain.png)
 
 **Background and Implementation**
 
@@ -102,7 +102,7 @@ Embargo aimed to:
 
 The grain embargo largely failed:
 
-**Soviet grain imports barely declined**: Total 1980 imports reached 34.8 million tons (vs. 31 million in 1979 before embargo). Argentina, Canada, Australia, and Brazil increased sales to USSR.
+**Soviet grain imports barely declined**: Despite the embargo, Soviet grain imports in the 1979/80 marketing year reached approximately 31 million metric tons—only 5-6 million tons short of their pre-embargo target of 36-37 million tons (Paarlberg 1980; USDA 1981). Argentina, Canada, Australia, and Brazil increased sales to USSR.
 
 **Circumvention**: Soviets purchased through intermediaries, rerouted shipments, and negotiated long-term contracts with alternative suppliers.
 
@@ -195,7 +195,7 @@ South Africa's apartheid system (Afrikaans: "separateness") institutionalized ra
 - **Political exclusion**: Black majority (75% of population) denied voting rights, political representation
 - **Residential segregation**: Group Areas Act assigned racial groups to designated areas, forcibly removing millions
 - **Labor exploitation**: Pass laws restricted Black movement, channeling labor to white-owned mines, farms, industries
-- **Economic inequality**: Whites (13% of population) controlled 90% of economy; Black per capita income less than 10% of white levels
+- **Economic inequality**: Whites (approximately 20% of population) owned 87% of the land and dominated 90% of the formal economy, while the Black majority was confined to just 13% of the country's territory; Black per capita income was less than 10% of white levels
 - **Repression**: Security forces crushed dissent through bannings, detentions, torture, killings
 
 The National Party government (1948-1994) defended apartheid as necessary for preserving white minority civilization and preventing Black majority rule.
