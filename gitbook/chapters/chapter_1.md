@@ -2,21 +2,29 @@
 
 ## Executive Summary
 
-On October 7, 2022, the United States imposed sweeping export controls targeting China's semiconductor industry. The measures restricted not only American technology and equipment, but also deployed a novel "foreign direct product rule" to prevent any advanced chips made anywhere in the world with US tools from reaching Chinese firms. The action represented economic statecraft on an unprecedented scale—an attempt to use commercial restrictions to constrain a strategic rival's technological development. China's response was equally telling: rather than military escalation, Beijing accelerated its "dual circulation" strategy, launched investigations into American firms under its Anti-Foreign Sanctions Law, and tightened export controls on critical minerals like gallium and germanium. This was not traditional economic warfare. It was something new: the systematic weaponization of economic interdependence.
+On October 7, 2022, the United States tried to lobotomize a superpower.
 
-We have entered the era of geoeconomics—a polite term for a messy reality: the firewall between "making money" and "making war" has burned down. For thirty years, policymakers pretended that buying cheap goods from rivals was a kind of peace treaty. It turns out it was just a long line of credit, now coming due. Trade relationships, supply chains, technology standards, and financial flows have become instruments of statecraft. Economic coercion—the use of economic measures to compel behavioral changes in other states—has become central to how great powers compete. For policymakers, business leaders, and citizens navigating this landscape, understanding these dynamics is no longer optional.
+The Bureau of Industry and Security imposed the most aggressive peacetime export controls in American history, targeting China's semiconductor industry. The measures blocked not only American technology but deployed a novel "foreign direct product rule" to prevent any advanced chips made anywhere in the world with US tools from reaching Chinese firms. Washington was betting that its chokepoint position in the global chip supply chain—no country can produce cutting-edge semiconductors without American equipment—would freeze China's AI and supercomputing ambitions indefinitely.
 
-This book provides a comprehensive guide to economic coercion in the context of US-China strategic competition. It examines how states use economic tools to pursue security objectives, why such measures succeed or fail, and what the proliferation of economic statecraft means for the international system. The focus is practical: each chapter explains specific tools available to governments, analyzes real-world cases, and explores decision-making through tabletop exercises. But the book also takes seriously the need for strategic empathy—understanding how different actors perceive threats, opportunities, and constraints.
+Beijing's response was telling. No missiles. No troop movements. Instead: accelerated "dual circulation" strategy, antitrust investigations into American firms, and export controls on gallium and germanium—obscure minerals critical for semiconductors and defense systems. China was reminding Washington that chokepoint leverage cuts both ways.
 
-Three core arguments organize our analysis. First, contemporary economic coercion reflects the structural condition of weaponized interdependence. Global networks for finance, technology, and trade create chokepoints—nodes of asymmetric dependency that can be exploited for coercive leverage. The United States benefits from centrality in dollar-denominated finance, internet infrastructure, and semiconductor supply chains. China increasingly holds comparable positions in critical minerals, electric vehicle batteries, and manufacturing capacity. Understanding where these chokepoints exist and how they can be leveraged is fundamental to modern statecraft.
+This was not traditional economic warfare. It was the systematic weaponization of interdependence.
 
-Second, effectiveness in economic coercion depends on more than material capability. Success requires understanding target decision-making, managing allied coordination, anticipating retaliation, and sustaining domestic support. The most sophisticated sanctions can fail if targets can adapt, allies defect, or domestic constituencies lose patience. Conversely, seemingly modest restrictions can succeed when they target genuine vulnerabilities and are paired with viable off-ramps. This book develops a framework for analyzing economic coercion across four dimensions: the domain of action (trade, finance, technology, investment), the target (state, firm, individual), the objective (deterrence, compellence, containment, signaling), and the intensity (from diplomatic pressure to comprehensive economic warfare).
+The firewall between "making money" and "making war" has burned down. For thirty years, Western policymakers treated trade with rivals as a species of peace treaty. It turned out to be a line of credit, now coming due. Trade relationships, supply chains, technology standards, and financial flows have become instruments of statecraft. Economic coercion—using commercial pressure to compel behavioral changes in other states—now defines how great powers compete.
 
-Third, and perhaps most importantly, effective strategy requires understanding adversary perspectives. Chinese policymakers do not view American export controls merely as defensive measures. They see them as containment—efforts to block China's legitimate rise, prevent unification with Taiwan, and preserve a unipolar order. This perception shapes Beijing's responses, driving a strategy of "comprehensive national power" that integrates economic strength, military capability, and global influence. Similarly, American concerns about Chinese economic coercion reflect genuine anxieties about dependency on a strategic competitor with revisionist aims. Effective policy must account for these divergent worldviews.
+{% hint style="info" %}
+**Three Core Arguments**
 
-This chapter establishes foundations. It defines key concepts—geoeconomics, economic statecraft, weaponized interdependence, and economic coercion—and explains how they relate. It traces the arc of US-China economic relations from engagement through growing competition. It introduces analytical frameworks used throughout the book. And critically, it presents both American and Chinese perspectives on economic statecraft, explaining how different historical experiences produce different strategic logics. The chapter includes two detailed case studies—the Cold War-era Coordinating Committee for Multilateral Export Controls (CoCom) and the 2022 exclusion of Russian banks from SWIFT—that illustrate how economic coercion works in practice.
+1. **Coercion flows through chokepoints.** Global networks for finance, technology, and trade are not evenly distributed. They have hubs—nodes of asymmetric dependency that can be exploited for leverage. The United States controls critical positions in dollar-denominated finance, semiconductor supply chains, and internet infrastructure. China holds comparable positions in critical minerals, electric vehicle batteries, and manufacturing capacity. Modern statecraft is, in large part, the competition to occupy these hubs and exploit them.
 
-This matters beyond academic interest. How the United States and China manage their economic interdependence while competing strategically may determine whether this century sees managed rivalry or something far worse. Get it wrong, and a trade dispute over memory chips could spiral into a shooting war over Taiwan. Get it right, and economic competition might channel superpower rivalry into domains less likely to incinerate cities. Understanding the tools, limitations, and logic of economic coercion is essential for navigating that challenge.
+2. **Capability is not enough.** The most sophisticated sanctions fail when targets adapt, allies defect, or domestic constituencies lose patience. Success requires understanding target decision-making, coordinating with allies, anticipating retaliation, and maintaining political will. Conversely, modest restrictions can succeed when they hit genuine vulnerabilities and offer viable off-ramps.
+
+3. **Perspective determines response.** Chinese policymakers do not see American export controls as defensive measures. They see containment—efforts to block China's rise, prevent unification with Taiwan, and preserve American hegemony. This perception drives Beijing's response. American anxieties about Chinese economic coercion reflect genuine fears about dependency on a revisionist competitor. Effective policy accounts for these divergent worldviews. Strategy that ignores adversary perceptions is not strategy at all.
+{% endhint %}
+
+This chapter establishes foundations: definitions, historical context, analytical frameworks, and the strategic perspectives that Washington and Beijing bring to economic competition. It includes two case studies—Cold War export controls through CoCom and the 2022 exclusion of Russian banks from SWIFT—that show how economic coercion works in practice.
+
+The stakes are not academic. How Washington and Beijing manage economic interdependence while competing strategically may determine whether this century sees managed rivalry or catastrophe. A trade dispute over memory chips could spiral into a shooting war over Taiwan. Or economic competition could channel superpower rivalry into domains less likely to incinerate cities. The difference depends, in part, on whether policymakers understand what they're doing.
 
 ---
 
@@ -29,6 +37,12 @@ In October 2022, Washington bureaucrats did something rarely seen in the annals 
 The resulting measures, announced on October 7, 2022, were breathtaking in scope (Allen 2022; Miller 2022). The Bureau of Industry and Security (BIS) added 31 Chinese entities to the Entity List, blocking them from receiving American technology. Far more significantly, BIS imposed sweeping new restrictions on exporting semiconductor manufacturing equipment to China and updated the "foreign direct product rule" (FDPR) to prevent chips made anywhere in the world with American equipment from reaching designated Chinese firms. The controls effectively weaponized America's chokepoint position in the global semiconductor supply chain: no country can produce cutting-edge chips at scale without US equipment, software, and intellectual property.
 
 The measures also contained a remarkable provision targeting people, not just products. Under the new "U.S. person" rule, American citizens and green card holders were prohibited from supporting development or production of advanced chips at Chinese facilities—even those not otherwise subject to U.S. jurisdiction. This represented economic statecraft directed not just at rival governments or companies, but at individual engineers and their career choices.
+
+{% hint style="warning" %}
+**Unprecedented: The "U.S. Person" Rule**
+
+For the first time, export controls targeted *people*, not just products. American citizens and green card holders were prohibited from supporting advanced chip development at Chinese facilities—even those outside U.S. jurisdiction. Economic statecraft now reached individual career choices.
+{% endhint %}
 
 Beijing's response was a mix of public fury and private scrambling. While Foreign Ministry spokespeople thundered about "technological hegemony" and "economic bullying"—favorite terms of art—state engineers were quietly given a blank check and a singular mandate: *Fix this. At any cost.* The Ministry of Commerce announced it would "resolutely safeguard the legitimate rights and interests of Chinese companies," but the real action was in laboratories and boardrooms. Beijing accelerated implementation of its "dual circulation" strategy, pouring resources into domestic semiconductor development despite massive technical challenges. It launched antitrust and data security investigations into American firms like Micron—a reminder that two can play this game. And in July 2023, China imposed export controls on gallium and germanium—obscure metals critical for semiconductors and defense applications—demonstrating that chokepoint leverage cuts both ways.
 
@@ -43,6 +57,15 @@ Here is the paradox of our time: the same supply chains that were supposed to bi
 Henry Farrell and Abraham Newman's concept of "weaponized interdependence" captures this dynamic (Farrell and Newman 2019). Global networks—for finance, trade, technology, information—are not evenly distributed. They have hubs: nodes of concentration where transactions must pass through specific institutions, platforms, or jurisdictions. The United States sits at the center of dollar-denominated finance (SWIFT system, correspondent banking), internet infrastructure (submarine cables, cloud services, DNS root servers), and advanced technology supply chains (semiconductors, software, aerospace). China increasingly occupies comparable positions in rare earth processing, electric vehicle batteries, active pharmaceutical ingredients, and certain manufacturing supply chains.
 
 These hub positions create what Farrell and Newman call "panopticon" and "chokepoint" effects. The panopticon effect allows the hub state to see network flows—monitoring transactions, communications, and exchanges. The chokepoint effect allows it to deny access—blocking specific actors from the network or withholding critical inputs. Both capabilities can be weaponized: surveillance enables intelligence gathering and sanctions enforcement, while denial enables coercion.
+
+{% hint style="info" %}
+**Key Concept: Panopticon vs. Chokepoint Effects**
+
+| Effect | Function | Example |
+|--------|----------|---------|
+| **Panopticon** | See network flows—monitor transactions, communications | US visibility into SWIFT transactions enables sanctions enforcement |
+| **Chokepoint** | Deny network access—block specific actors | Cutting Iranian banks from SWIFT cripples international business |
+{% endhint %}
 
 The result is a fundamental tension. Economic integration does constrain: sanctioning China's semiconductor industry imposes costs on American firms (lost sales, reduced economies of scale) and allies (disrupted supply chains, technology restrictions). But integration also empowers: without reliance on U.S. semiconductor equipment, American controls would have no bite. The same interdependence that creates peace constituencies also creates coercive leverage.
 
@@ -72,6 +95,12 @@ Precision matters. The terms "geoeconomics," "economic statecraft," "weaponized 
 
 ### Geoeconomics
 
+{% hint style="info" %}
+**Definition: Geoeconomics**
+
+The use of economic instruments to produce geopolitical outcomes. Coined by Edward Luttwak (1990) to describe how states compete for power through economic means when military competition among major powers has become prohibitively risky.
+{% endhint %}
+
 **Geoeconomics** refers to the use of economic instruments to produce geopolitical outcomes. The term was coined by Edward Luttwak in the early 1990s to describe how states compete for power and influence through economic means in an era when military competition among major powers had become prohibitively risky (Luttwak 1990; see also Blackwill and Harris 2016). Where geopolitics is about the relationship between geography, power, and strategy, geoeconomics applies that logic to economic domains: trade, investment, finance, technology, and resources.
 
 Geoeconomic competition manifests in several ways. States may use trade policy to build spheres of influence—consider China's Belt and Road Initiative, which uses infrastructure investment and trade relationships to expand Beijing's political influence across Eurasia, Africa, and Latin America. They may weaponize access to their markets—the European Union uses the threat of excluding firms from its large consumer market to impose regulatory standards globally, what Anu Bradford calls the "Brussels Effect" (Bradford 2020). They may compete for dominance in strategic industries—U.S.-China rivalry over 5G telecommunications reflects both sides' recognition that whoever sets standards for next-generation communications infrastructure gains strategic advantage. Or they may seek control over critical resources—competition for rare earth minerals, semiconductor supply chains, and energy transit routes all reflect geoeconomic logics.
@@ -83,6 +112,14 @@ Geoeconomics is not inherently adversarial. States can use economic tools to bui
 The shift toward geoeconomic competition reflects structural changes in the international system. During the Cold War, the economic and security spheres were substantially decoupled: the West traded internally, the Communist bloc did likewise, and military competition dominated superpower relations. Today, the United States and China are deeply economically integrated while simultaneously engaged in strategic competition. This creates demand for geoeconomic tools—economic measures that can advance security objectives without triggering military escalation.
 
 ### Economic Statecraft
+
+{% hint style="info" %}
+**Definition: Economic Statecraft**
+
+"Influence attempts relying primarily on resources which have a reasonable semblance of a market price in terms of money." —David Baldwin (1985)
+
+Encompasses both positive inducements (aid, trade agreements) and negative sanctions (restrictions, freezes, exclusion). The key is intentionality: purposeful government action to achieve foreign policy goals through economic means.
+{% endhint %}
 
 **Economic statecraft** is the subset of geoeconomics focused on deliberate government policies using economic tools to achieve foreign policy objectives. Where geoeconomics describes a broad strategic domain, economic statecraft refers to specific policy instruments and their application.
 
@@ -99,6 +136,12 @@ Effectiveness varies dramatically across contexts. Economic statecraft succeeds 
 Economic statecraft also generates second-order effects that can undermine long-term effectiveness. Overuse of financial sanctions may accelerate efforts to create alternatives to dollar-denominated finance—China's Cross-Border Interbank Payment System (CIPS) and discussions of central bank digital currencies partly reflect this dynamic. Aggressive use of export controls may spur targeted countries to invest heavily in indigenous alternatives, eventually reducing the sanctioner's leverage—as China is now doing in semiconductors following U.S. restrictions.
 
 ### Weaponized Interdependence
+
+{% hint style="info" %}
+**Definition: Weaponized Interdependence**
+
+The structural condition in which asymmetric network positions in globalized economic systems can be exploited for strategic advantage. Developed by Farrell and Newman (2019) to explain how economic integration—long assumed to promote peace—can actually enable new forms of coercion.
+{% endhint %}
 
 **Weaponized interdependence** describes the structural condition in which asymmetric network positions in globalized economic systems can be exploited for strategic advantage. This concept, developed by Henry Farrell and Abraham Newman, explains how economic integration—long assumed to promote peace—can actually enable new forms of coercion.
 
@@ -118,11 +161,29 @@ This creates distinctive strategic dynamics. States seek to maximize their hub p
 
 ### Economic Coercion
 
+{% hint style="info" %}
+**Definition: Economic Coercion**
+
+The use of economic measures to compel changes in another actor's behavior through the threat or infliction of economic costs. The most adversarial form of economic statecraft, aimed at:
+- **Compellence:** Forcing targets to do something
+- **Deterrence:** Stopping targets from doing something
+- **Containment:** Constraining target capabilities
+{% endhint %}
+
 **Economic coercion** is the use of economic measures to compel changes in another actor's behavior through the threat or infliction of economic costs. It is the most adversarial form of economic statecraft, aimed at forcing targets to do something (compellence), stop doing something (deterrence), or constraining their capabilities (containment).
 
 Economic coercion involves three elements. First, **an economic measure** that imposes costs: sanctions, export controls, market access restrictions, asset seizures, financial exclusion, or other penalties. Second, **a behavioral objective**: the specific change the coercing state seeks in the target's actions. This might be policy change (end nuclear program, withdraw from occupied territory), leadership change (regime change), or capability degradation (prevent military modernization). Third, **a causal theory** linking the economic pain to behavioral change: the coercer believes the imposed costs will motivate the target to comply.
 
 Economic coercion operates through two mechanisms. **Denial** seeks to prevent the target from accessing resources, technologies, or markets necessary for objectionable activities. Export controls on semiconductor manufacturing equipment aim to prevent China from developing cutting-edge AI capabilities by denying access to necessary inputs. This does not require the target to choose compliance; it physically prevents the unwanted activity. **Punishment** inflicts costs to change the target's cost-benefit calculation, making continued defiance more painful than compliance. Financial sanctions on Russia following its invasion of Ukraine aim to impose sufficient economic pain that Moscow reassesses the costs of continuing the war. This requires the target to choose compliance in response to pain.
+
+{% hint style="info" %}
+**Two Mechanisms of Economic Coercion**
+
+| Mechanism | How It Works | Example |
+|-----------|--------------|---------|
+| **Denial** | Physically prevent access to necessary resources/technology | Semiconductor equipment controls on China |
+| **Punishment** | Inflict costs to change target's cost-benefit calculation | Financial sanctions on Russia to pressure Ukraine withdrawal |
+{% endhint %}
 
 Effectiveness is contingent and contested. Economic coercion succeeds when targets comply at acceptable cost to the coercer. But success rates are modest. Research suggests comprehensive sanctions succeed in perhaps 20-30% of cases, with effectiveness varying dramatically based on objective (modest policy changes easier than regime change), target regime type (democracies more vulnerable to economic pain than autocracies), and duration (effectiveness often declines over time as targets adapt). Export controls can effectively deny capabilities if the denied input is critical and cannot be substituted, but targets often find workarounds or develop indigenous alternatives over time.
 
@@ -159,6 +220,14 @@ But integration also created structural dependencies and distributional conseque
 
 For China, this period represented a strategic opportunity. Deng Xiaoping's guidance to "hide capabilities and bide time" (韬光养晦, tāoguāng yǎnghuì) meant avoiding confrontation while building comprehensive national power. Economic growth became the foundation for eventual great power status. The strategy worked remarkably: China sustained average annual GDP growth above 10%, lifting hundreds of millions out of poverty while building infrastructure and industrial capacity on an unprecedented scale.
 
+{% hint style="warning" %}
+**Chinese Strategic Perspective: "Hide and Bide"**
+
+**韬光养晦** (tāoguāng yǎnghuì) — "Hide capabilities and bide time"
+
+Deng Xiaoping's guidance to avoid confrontation while building comprehensive national power. This strategy produced average annual GDP growth above 10%, lifting hundreds of millions from poverty while avoiding premature strategic competition with the United States. By 2008, China had accumulated $2 trillion in foreign reserves and become integral to global manufacturing—all while maintaining a low geopolitical profile.
+{% endhint %}
+
 #### Phase 2: Growing Tensions (2008-2016)
 
 The 2008 financial crisis marked an inflection point. As Western economies struggled, China maintained growth through massive fiscal stimulus. Chinese leaders drew the lesson that the Western model was not inevitable and that China's state-guided approach might be superior for certain developmental challenges. Confidence grew that the "East is rising, West is declining" (东升西降, dōng shēng xī jiàng).
@@ -187,6 +256,14 @@ But tariffs were only the most visible component. More consequentially, the U.S.
 The Biden administration maintained and expanded this technology competition despite relaxing some tariffs. The 2022 CHIPS and Science Act provided $52 billion for domestic semiconductor manufacturing and research, with explicit prohibitions on recipients expanding advanced semiconductor production in China. The 2022 Inflation Reduction Act included substantial subsidies for electric vehicle and battery production, with requirements limiting Chinese content to qualify for benefits. Export controls expanded to cover quantum computing, advanced AI chips, and biotech equipment. The framework shifted from simply restricting China to proactively building American and allied advantages in strategic technologies—what National Security Advisor Jake Sullivan called "running faster" while maintaining "as large a lead as possible."
 
 China responded with its own measures. Beijing accelerated implementation of its "dual circulation" strategy (双循环, shuāng xúnhuán), emphasizing domestic consumption and indigenous innovation to reduce vulnerability to external pressure. It passed the Export Control Law (2020), the Data Security Law (2021), and the Anti-Foreign Sanctions Law (2021), creating legal frameworks for economic countermeasures. It imposed export restrictions on critical minerals (gallium, germanium, rare earths) and launched security reviews of American firms operating in China (Micron banned from critical infrastructure in 2023). Most importantly, it made semiconductor self-sufficiency a national priority, investing massive resources in domestic chip production despite technical challenges.
+
+{% hint style="warning" %}
+**Chinese Strategic Perspective: "Dual Circulation"**
+
+**双循环** (shuāng xúnhuán) — "Dual circulation"
+
+Beijing's post-2020 strategy emphasizing domestic consumption ("internal circulation") while maintaining selective international engagement ("external circulation"). The goal: reduce vulnerability to Western economic coercion while preserving access to foreign markets and technology where possible. Key elements include semiconductor self-sufficiency, alternative payment systems (CIPS), and legal frameworks for counter-sanctions.
+{% endhint %}
 
 The result is a partial decoupling: selective disengagement from specific dependencies deemed strategically risky, while maintaining broader economic integration where both sides benefit. Total bilateral trade actually increased to over $750 billion by 2022 despite tensions. But the composition is changing—trade in advanced technology products declining, scrutiny of investment intensifying, and both sides building redundancy in critical supply chains.
 
