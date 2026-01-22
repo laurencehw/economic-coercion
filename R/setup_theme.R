@@ -150,6 +150,9 @@ econ_div_colors <- c("#d73027", "#f46d43", "#fdae61", "#fee090", "#ffffbf", "#e0
 # ============================================================================
 
 # Function to save figures with consistent settings
+# NOTE: For reliable path handling, callers should use here::here() to construct
+# absolute paths, e.g.: save_econ_figure(here("figures", "fig_01_01_name.png"), ...)
+# This ensures scripts work correctly from any working directory.
 save_econ_figure <- function(filename, plot = last_plot(), width = 10, height = 6, dpi = 300) {
   ggsave(
     filename = filename,

@@ -3,7 +3,8 @@
 # Shows LNG export/import terminals globally
 
 # Load required packages and theme
-source("R/setup_theme.R")
+library(here)
+source(here::here("R", "setup_theme.R"))
 library(dplyr)
 library(tidyr)
 library(forcats)
@@ -119,6 +120,6 @@ library(patchwork)
 combined <- p1 / p2 + plot_layout(heights = c(1.3, 1))
 
 # Save the figure
-save_econ_figure("figures/fig_03_11_lng_terminals.png", plot = combined, width = 12, height = 12)
+save_econ_figure(here::here("figures", "fig_03_11_lng_terminals.png"), plot = combined, width = 12, height = 12)
 
 cat("Figure 3.11 created: LNG Terminals Map\n")

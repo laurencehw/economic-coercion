@@ -3,13 +3,14 @@
 # Shows global IXP traffic concentration - key infrastructure chokepoints
 
 # Load required packages and theme
-source("R/setup_theme.R")
+library(here)
+source(here::here("R", "setup_theme.R"))
 library(dplyr)
 library(tidyr)
 library(forcats)
 
 # Load data
-ixp_data <- read.csv("data/sources/internet_exchange_points.csv", stringsAsFactors = FALSE)
+ixp_data <- read.csv(here::here("data", "sources", "internet_exchange_points.csv"), stringsAsFactors = FALSE)
 
 # Prepare data - top 15 by traffic
 top_ixps <- ixp_data %>%
@@ -84,6 +85,6 @@ library(patchwork)
 combined <- p1 / p2 + plot_layout(heights = c(2, 1))
 
 # Save the figure
-save_econ_figure("figures/fig_05_02_internet_exchange.png", plot = combined, width = 11, height = 10)
+save_econ_figure(here::here("figures", "fig_05_02_internet_exchange.png"), plot = combined, width = 11, height = 10)
 
 cat("Figure 5.2 created: Internet Exchange Point Concentration\n")

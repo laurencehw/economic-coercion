@@ -3,12 +3,13 @@
 # Shows before/after sanctions effect on Huawei's business
 
 # Load required packages and theme
-source("R/setup_theme.R")
+library(here)
+source(here::here("R", "setup_theme.R"))
 library(dplyr)
 library(tidyr)
 
 # Load data
-huawei <- read.csv("data/sources/huawei_revenue.csv", stringsAsFactors = FALSE)
+huawei <- read.csv(here::here("data", "sources", "huawei_revenue.csv"), stringsAsFactors = FALSE)
 
 # Reshape for stacked area
 huawei_long <- huawei %>%
@@ -88,6 +89,6 @@ library(patchwork)
 combined <- p1 / p2 + plot_layout(heights = c(2, 1))
 
 # Save the figure
-save_econ_figure("figures/fig_04_04_huawei_impact.png", plot = combined, width = 12, height = 11)
+save_econ_figure(here::here("figures", "fig_04_04_huawei_impact.png"), plot = combined, width = 12, height = 11)
 
 cat("Figure 4.4 created: Huawei Sanctions Impact\n")

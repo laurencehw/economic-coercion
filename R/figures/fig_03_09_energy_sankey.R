@@ -3,7 +3,8 @@
 # Shows shift from fossil fuel to clean energy dependencies
 
 # Load required packages and theme
-source("R/setup_theme.R")
+library(here)
+source(here::here("R", "setup_theme.R"))
 library(dplyr)
 library(tidyr)
 library(ggalluvial)
@@ -119,6 +120,6 @@ combined <- p1 / p2 +
   )
 
 # Save the figure
-save_econ_figure("figures/fig_03_09_energy_sankey.png", plot = combined, width = 13, height = 12)
+save_econ_figure(here::here("figures", "fig_03_09_energy_sankey.png"), plot = combined, width = 13, height = 12)
 
 cat("Figure 3.9 created: Energy Transition Sankey\n")

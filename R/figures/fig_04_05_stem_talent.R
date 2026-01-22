@@ -3,12 +3,13 @@
 # Shows where international STEM talent studies vs. stays/returns
 
 # Load required packages and theme
-source("R/setup_theme.R")
+library(here)
+source(here::here("R", "setup_theme.R"))
 library(dplyr)
 library(tidyr)
 
 # Load data
-talent <- read.csv("data/sources/stem_talent_flows.csv", stringsAsFactors = FALSE)
+talent <- read.csv(here::here("data", "sources", "stem_talent_flows.csv"), stringsAsFactors = FALSE)
 
 # Filter to key years for comparison
 talent_compare <- talent %>%
@@ -115,6 +116,6 @@ library(patchwork)
 combined <- (p1 + p2) / p3 + plot_layout(heights = c(1, 1))
 
 # Save the figure
-save_econ_figure("figures/fig_04_05_stem_talent.png", plot = combined, width = 13, height = 11)
+save_econ_figure(here::here("figures", "fig_04_05_stem_talent.png"), plot = combined, width = 13, height = 11)
 
 cat("Figure 4.5 created: STEM Talent Flows\n")

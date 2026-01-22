@@ -3,7 +3,8 @@
 # Timeline of Chinese retaliatory export restrictions
 
 # Load required packages and theme
-source("R/setup_theme.R")
+library(here)
+source(here::here("R", "setup_theme.R"))
 library(dplyr)
 library(tidyr)
 library(forcats)
@@ -145,6 +146,6 @@ library(patchwork)
 combined <- p1 / p2 + plot_layout(heights = c(1, 1))
 
 # Save the figure
-save_econ_figure("figures/fig_06_04_rare_earth_retaliation.png", plot = combined, width = 13, height = 11)
+save_econ_figure(here::here("figures", "fig_06_04_rare_earth_retaliation.png"), plot = combined, width = 13, height = 11)
 
 cat("Figure 6.4 created: China's Rare Earth Retaliation\n")

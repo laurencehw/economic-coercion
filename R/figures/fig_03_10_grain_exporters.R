@@ -3,7 +3,8 @@
 # Shows who feeds the world and food security vulnerabilities
 
 # Load required packages and theme
-source("R/setup_theme.R")
+library(here)
+source(here::here("R", "setup_theme.R"))
 library(dplyr)
 library(tidyr)
 library(forcats)
@@ -135,6 +136,6 @@ library(patchwork)
 combined <- p1 / (p2 + p3) + plot_layout(heights = c(1.2, 1))
 
 # Save the figure
-save_econ_figure("figures/fig_03_10_grain_exporters.png", plot = combined, width = 13, height = 12)
+save_econ_figure(here::here("figures", "fig_03_10_grain_exporters.png"), plot = combined, width = 13, height = 12)
 
 cat("Figure 3.10 created: Grain Exporters\n")

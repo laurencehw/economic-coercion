@@ -3,7 +3,8 @@
 # Scatter plot of economic cost vs political success across historical cases
 
 # Load required packages and theme
-source("R/setup_theme.R")
+library(here)
+source(here::here("R", "setup_theme.R"))
 library(dplyr)
 library(ggrepel)
 
@@ -103,6 +104,6 @@ p <- ggplot(historical_cases, aes(x = -target_gdp_impact, y = success_score)) +
   )
 
 # Save the figure
-save_econ_figure("figures/fig_09_05_historical_outcomes.png", plot = p, width = 13, height = 10)
+save_econ_figure(here::here("figures", "fig_09_05_historical_outcomes.png"), plot = p, width = 13, height = 10)
 
 cat("Figure 9.5 created: Historical Outcomes Scatter\n")

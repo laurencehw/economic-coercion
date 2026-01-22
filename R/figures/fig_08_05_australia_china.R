@@ -3,12 +3,13 @@
 # Shows impact of Chinese economic coercion on Australian exports
 
 # Load required packages and theme
-source("R/setup_theme.R")
+library(here)
+source(here::here("R", "setup_theme.R"))
 library(dplyr)
 library(tidyr)
 
 # Load data
-australia <- read.csv("data/sources/australia_china_trade.csv", stringsAsFactors = FALSE)
+australia <- read.csv(here::here("data", "sources", "australia_china_trade.csv"), stringsAsFactors = FALSE)
 
 # Calculate changes and sort
 australia <- australia %>%
@@ -126,6 +127,6 @@ library(patchwork)
 combined <- p1 / p2 / p3 + plot_layout(heights = c(1.5, 1, 0.8))
 
 # Save the figure
-save_econ_figure("figures/fig_08_05_australia_china.png", plot = combined, width = 12, height = 14)
+save_econ_figure(here::here("figures", "fig_08_05_australia_china.png"), plot = combined, width = 12, height = 14)
 
 cat("Figure 8.5 created: Australia-China Trade Restrictions\n")

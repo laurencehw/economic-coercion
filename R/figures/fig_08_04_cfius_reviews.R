@@ -3,12 +3,13 @@
 # Shows growth in investment screening activity
 
 # Load required packages and theme
-source("R/setup_theme.R")
+library(here)
+source(here::here("R", "setup_theme.R"))
 library(dplyr)
 library(tidyr)
 
 # Load data
-cfius <- read.csv("data/sources/cfius_reviews.csv", stringsAsFactors = FALSE)
+cfius <- read.csv(here::here("data", "sources", "cfius_reviews.csv"), stringsAsFactors = FALSE)
 
 # Reshape for stacked area
 cfius_long <- cfius %>%
@@ -88,6 +89,6 @@ library(patchwork)
 combined <- p1 / (p2 + p3) + plot_layout(heights = c(1.2, 1))
 
 # Save the figure
-save_econ_figure("figures/fig_08_04_cfius_reviews.png", plot = combined, width = 13, height = 11)
+save_econ_figure(here::here("figures", "fig_08_04_cfius_reviews.png"), plot = combined, width = 13, height = 11)
 
 cat("Figure 8.4 created: CFIUS Reviews\n")

@@ -3,7 +3,8 @@
 # Visualizes how US export controls reach globally through FDPR
 
 # Load required packages and theme
-source("R/setup_theme.R")
+library(here)
+source(here::here("R", "setup_theme.R"))
 library(dplyr)
 library(tidyr)
 library(forcats)
@@ -123,6 +124,6 @@ library(patchwork)
 combined <- p1 / p2 + plot_layout(heights = c(1.3, 1))
 
 # Save the figure
-save_econ_figure("figures/fig_06_02_fdpr_reach.png", plot = combined, width = 12, height = 12)
+save_econ_figure(here::here("figures", "fig_06_02_fdpr_reach.png"), plot = combined, width = 12, height = 12)
 
 cat("Figure 6.2 created: FDPR Extraterritorial Reach\n")

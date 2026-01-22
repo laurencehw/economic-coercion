@@ -3,7 +3,8 @@
 # Shows how primary sanctions trigger secondary and tertiary effects
 
 # Load required packages and theme
-source("R/setup_theme.R")
+library(here)
+source(here::here("R", "setup_theme.R"))
 library(dplyr)
 library(tidyr)
 library(ggforce)
@@ -101,6 +102,6 @@ p <- ggplot() +
   )
 
 # Save the figure
-save_econ_figure("figures/fig_07_05_sanctions_cascade.png", plot = p, width = 14, height = 8)
+save_econ_figure(here::here("figures", "fig_07_05_sanctions_cascade.png"), plot = p, width = 14, height = 8)
 
 cat("Figure 7.5 created: Sanctions Cascade Diagram\n")

@@ -3,12 +3,13 @@
 # Shows US vs Chinese dominance in global cloud infrastructure
 
 # Load required packages and theme
-source("R/setup_theme.R")
+library(here)
+source(here::here("R", "setup_theme.R"))
 library(dplyr)
 library(tidyr)
 
 # Load data
-cloud_data <- read.csv("data/sources/cloud_market_share.csv", stringsAsFactors = FALSE)
+cloud_data <- read.csv(here::here("data", "sources", "cloud_market_share.csv"), stringsAsFactors = FALSE)
 
 # Filter to 2024 data for main comparison
 cloud_2024 <- cloud_data %>%
@@ -105,6 +106,6 @@ library(patchwork)
 combined <- p1 / p2 / p3 + plot_layout(heights = c(1, 1.2, 1))
 
 # Save the figure
-save_econ_figure("figures/fig_05_04_cloud_market.png", plot = combined, width = 11, height = 14)
+save_econ_figure(here::here("figures", "fig_05_04_cloud_market.png"), plot = combined, width = 11, height = 14)
 
 cat("Figure 5.4 created: Cloud Infrastructure Market Share\n")

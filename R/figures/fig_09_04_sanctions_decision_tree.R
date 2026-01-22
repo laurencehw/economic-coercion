@@ -3,7 +3,8 @@
 # Analytical framework for predicting sanctions outcomes
 
 # Load required packages and theme
-source("R/setup_theme.R")
+library(here)
+source(here::here("R", "setup_theme.R"))
 library(dplyr)
 library(ggforce)
 
@@ -128,6 +129,6 @@ p <- ggplot() +
   )
 
 # Save the figure
-save_econ_figure("figures/fig_09_04_sanctions_decision_tree.png", plot = p, width = 12, height = 10)
+save_econ_figure(here::here("figures", "fig_09_04_sanctions_decision_tree.png"), plot = p, width = 12, height = 10)
 
 cat("Figure 9.4 created: Sanctions Decision Tree\n")

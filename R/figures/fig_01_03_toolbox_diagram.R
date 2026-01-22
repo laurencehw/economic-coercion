@@ -3,7 +3,8 @@
 # Hierarchical diagram showing domains and instruments of economic coercion
 
 # Load required packages and theme
-source("R/setup_theme.R")
+library(here)
+source(here::here("R", "setup_theme.R"))
 library(dplyr)
 library(tidyr)
 library(ggforce)
@@ -137,6 +138,6 @@ p <- ggplot(toolbox) +
   )
 
 # Save the figure
-save_econ_figure("figures/fig_01_03_toolbox_diagram.png", plot = p, width = 12, height = 10)
+save_econ_figure(here::here("figures", "fig_01_03_toolbox_diagram.png"), plot = p, width = 12, height = 10)
 
 cat("Figure 1.3 created: Economic Statecraft Toolbox\n")
