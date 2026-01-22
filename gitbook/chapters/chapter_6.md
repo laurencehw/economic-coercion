@@ -2,7 +2,9 @@
 
 ## Executive Summary
 
-On March 22, 2018, President Trump signed a presidential memorandum imposing tariffs on approximately $50 billion worth of Chinese goods under Section 301 of the Trade Act of 1974, citing China's "unfair trade practices" related to technology transfer and intellectual property (USTR 2018). China immediately retaliated with equivalent tariffs on U.S. agricultural products, aircraft parts, and automobiles. What began as targeted measures escalated over 18 months into tariffs affecting more than $360 billion in bilateral trade—the largest trade war between major economies since the Smoot-Hawley Tariff of 1930. The era of "free trade as shared prosperity" was over; the era of "trade as strategic weapon" had begun. When the Biden administration took office in January 2021, it maintained nearly all Trump-era tariffs while expanding export controls, signaling a bipartisan consensus that traditional trade policy had transformed into a tool of strategic competition.
+On March 22, 2018, President Trump signed a presidential memorandum imposing tariffs on approximately $50 billion worth of Chinese goods under Section 301 of the Trade Act of 1974, citing China's "unfair trade practices" related to technology transfer and intellectual property (USTR 2018). China immediately retaliated with equivalent tariffs on U.S. agricultural products, aircraft parts, and automobiles.
+
+What began as targeted measures escalated over 18 months into tariffs affecting more than $360 billion in bilateral trade—the largest trade war between major economies since the Smoot-Hawley Tariff of 1930. The era of "free trade as shared prosperity" was over; the era of "trade as strategic weapon" had begun. When the Biden administration took office in January 2021, it maintained nearly all Trump-era tariffs while expanding export controls, signaling a bipartisan consensus that traditional trade policy had transformed into a tool of strategic competition.
 
 This chapter examines how states use trade controls—tariffs, quotas, and export restrictions—as instruments of economic coercion. Unlike the targeted financial sanctions examined in Chapter 7 or the investment screening mechanisms in Chapter 8, trade controls operate at the intersection of commerce and security, affecting entire industries and millions of economic actors. Three key arguments structure our analysis:
 
@@ -34,6 +36,10 @@ Tariffs—taxes on imported goods—represent the oldest form of trade policy, p
 
 The United States employs multiple statutory authorities to impose tariffs, each with distinct procedural requirements and substantive standards:
 
+{% hint style="info" %}
+**Section 232 of the Trade Expansion Act of 1962** (19 U.S.C. § 1862) authorizes the President to adjust imports if the Secretary of Commerce determines such imports threaten to impair national security. This authority requires no congressional approval and faces minimal judicial review. Key feature: "National security" is interpreted expansively to include economic security, not just direct military threats.
+{% endhint %}
+
 **Section 232 of the Trade Expansion Act of 1962** (19 U.S.C. § 1862) authorizes the President to adjust imports of articles and derivatives if the Secretary of Commerce determines such imports threaten to impair national security. This remarkably broad authority requires no congressional approval and faces minimal judicial review. The Commerce Department's Bureau of Industry and Security conducts investigations considering:
 
 - Domestic production needed for projected national defense requirements
@@ -46,6 +52,10 @@ The United States employs multiple statutory authorities to impose tariffs, each
 
 The Trump administration expansively interpreted "national security" to include economic security, using Section 232 to impose 25% tariffs on steel imports (March 2018) and 10% on aluminum imports, affecting imports from close allies including the European Union, Canada, and Mexico. The Biden administration maintained these tariffs while negotiating exceptions for allies, demonstrating bipartisan acceptance of broad Section 232 application.
 
+{% hint style="info" %}
+**Section 301 of the Trade Act of 1974** (19 U.S.C. § 2411) authorizes the U.S. Trade Representative to investigate and retaliate against foreign government practices that are "unjustifiable," "unreasonable," or "discriminatory." Unlike Section 232's national security focus, Section 301 addresses unfair trade practices such as IP violations, forced technology transfer, and denial of market access.
+{% endhint %}
+
 **Section 301 of the Trade Act of 1974** (19 U.S.C. § 2411) authorizes the U.S. Trade Representative (USTR) to investigate and take action against foreign government practices that are "unjustifiable," "unreasonable," or "discriminatory" and burden U.S. commerce. Unlike Section 232's national security focus, Section 301 addresses unfair trade practices including:
 
 - Intellectual property rights violations
@@ -57,14 +67,24 @@ The Trump administration expansively interpreted "national security" to include 
 
 Section 301 requires USTR investigation (initiated by petition or self-initiated), public comment periods, and consultation with foreign governments. If USTR determines violations exist and diplomatic resolution fails, the President may impose retaliatory measures including tariffs, import restrictions, or suspension of trade agreement benefits. The Trump administration's August 2017 Section 301 investigation into China's technology transfer practices culminated in tariffs affecting over $360 billion in Chinese imports (USTR 2018; Bown and Kolb 2021)—the largest Section 301 action in history.
 
+{% hint style="info" %}
+**Tariffs vs. Quotas**: Both restrict imports but operate differently. **Tariffs** are taxes on imports that raise prices but allow unlimited quantities. **Quotas** cap the quantity of imports allowed regardless of price. Tariffs generate government revenue; quotas create rents for those who receive import licenses. Under WTO rules, tariffs are generally preferred because they are more transparent and less trade-distorting.
+{% endhint %}
+
+{% hint style="info" %}
+**Most Favored Nation (MFN)**: A core WTO principle requiring members to treat all trading partners equally. If a country grants a tariff reduction to one WTO member, it must extend the same treatment to all members. Exceptions include preferential trade agreements (like USMCA) and security exceptions (Article XXI).
+{% endhint %}
+
 **Section 201 of the Trade Act of 1974** (19 U.S.C. § 2251) provides "safeguard" relief for domestic industries seriously injured by imports, regardless of whether foreign practices are unfair. The International Trade Commission investigates injury claims and recommends remedies; the President decides whether to impose restrictions. Recent applications include solar panel tariffs (2018, later mostly removed) and washing machine tariffs (2018-2023). Section 201 applies on a most-favored-nation basis (affecting all countries), unlike the country-specific targeting possible under Section 232 or 301.
+
+{% hint style="info" %}
+**Anti-Dumping and Countervailing Duties (AD/CVD)**: Trade remedies targeting specific unfair practices. **Anti-dumping duties** offset foreign goods sold below fair market value ("dumping"). **Countervailing duties** offset foreign government subsidies. Both require injury investigations by the International Trade Commission and are WTO-compliant when properly applied. Unlike Section 301/232, these target specific products and practices rather than countries broadly.
+{% endhint %}
 
 ### The U.S.-China Trade War: Escalation and Impacts
 
-<figure>
-  <img src="../figures/fig_06_01_us_china_tariffs.png" alt="U.S.-China Tariff Rates and Trade Flows (2018-2024)" style="width:100%; max-width:100%;">
-  <figcaption>U.S.-China Tariff Rates and Trade Flows (2018-2024)</figcaption>
-</figure>
+![U.S.-China Tariff Rates and Trade Flows (2018-2024)](../figures/fig_06_01_us_china_tariffs.png)
+*Figure 6.1: U.S.-China Tariff Rates and Trade Flows (2018-2024)*
 
 The 2018-2024 U.S.-China trade war illustrates modern tariff-based coercion dynamics. What began as targeted technology-sector tariffs escalated through tit-for-tat retaliation into economy-wide restrictions affecting consumer goods, agricultural products, and industrial inputs.
 
@@ -113,10 +133,8 @@ The Biden administration conducted a Section 301 tariff review in 2021-2022, ult
 
 As of 2024, U.S. tariffs affect $360 billion in Chinese imports (average effective rate 19.3%); Chinese retaliatory tariffs affect $180 billion in U.S. exports (average 20.7%). Both countries granted some exclusions and exemptions, particularly for products lacking domestic alternatives.
 
-<figure>
-  <img src="../figures/fig_06_05_trade_war_escalation.png" alt="US-China Trade War Escalation (2018-2024)" style="width:100%; max-width:100%;">
-  <figcaption>Figure 6.2: US-China economic conflict escalation ladder (2018-2024). The tariff war phase (2018-2020) evolved into a technology war phase (2022-present) with export controls on semiconductors and critical minerals becoming the primary instruments.</figcaption>
-</figure>
+![US-China Trade War Escalation (2018-2024)](../figures/fig_06_05_trade_war_escalation.png)
+*Figure 6.2: US-China economic conflict escalation ladder (2018-2024). The tariff war phase (2018-2020) evolved into a technology war phase (2022-present) with export controls on semiconductors and critical minerals becoming the primary instruments.*
 
 ### Economic Impacts of the Trade War
 
@@ -160,9 +178,8 @@ Beyond static trade impacts, tariffs accelerated supply chain reconfiguration:
 - **China**: Estimates suggest 0.5-0.8% GDP reduction. However, China's simultaneous growth slowdown from debt deleveraging and COVID-19 makes trade war effects difficult to isolate.
 - **Global**: IMF (2019) estimated trade war could reduce global GDP by 0.8% by 2020 through trade disruptions, uncertainty, and financial market impacts.
 
-<figure>
-  <img src="../figures/fig_06_06_section_301.png" alt="Section 301 Tariffs: Affected Imports by Sector and Tariff List" style="width:100%; max-width:100%;">
-</figure>
+![Section 301 Tariffs: Affected Imports by Sector and Tariff List](../figures/fig_06_06_section_301.png)
+*Figure 6.3: Section 301 Tariffs: Affected Imports by Sector and Tariff List*
 
 ### Political Economy of Tariff-Based Coercion
 
@@ -299,10 +316,8 @@ AG faces fundamental challenge: Most controlled chemicals and equipment have leg
 
 The United States maintains the world's most extensive unilateral export control system, codified in the **Export Administration Regulations (EAR)**, 15 C.F.R. Part 730 et seq. The Commerce Department's Bureau of Industry and Security (BIS) administers EAR based on statutory authority from the **Export Control Reform Act of 2018** (ECRA), 50 U.S.C. § 4801 et seq.
 
-<figure>
-  <img src="../figures/fig_06_03_entity_list.png" alt="Entity List Additions by Administration" style="width:100%; max-width:100%;">
-  <figcaption>Entity List Additions by Administration</figcaption>
-</figure>
+![Entity List Additions by Administration](../figures/fig_06_03_entity_list.png)
+*Figure 6.4: Entity List Additions by Administration*
 
 **Scope of EAR Jurisdiction**
 
@@ -315,9 +330,8 @@ EAR applies extraordinarily broadly:
 
 This extraterritorial reach makes EAR a powerful tool: U.S. can restrict foreign sales of foreign-made goods if they contain U.S. technology or were produced using U.S. equipment.
 
-<figure>
-  <img src="../figures/fig_06_02_fdpr_reach.png" alt="Foreign Direct Product Rule: Extraterritorial Reach of U.S. Export Controls" style="width:100%; max-width:100%;">
-</figure>
+![Foreign Direct Product Rule: Extraterritorial Reach of U.S. Export Controls](../figures/fig_06_02_fdpr_reach.png)
+*Figure 6.5: Foreign Direct Product Rule: Extraterritorial Reach of U.S. Export Controls*
 
 **Commerce Control List (CCL)**
 
@@ -341,6 +355,10 @@ Each entry includes:
 
 Items not on CCL are designated **EAR99**—low-technology consumer goods generally exportable without licenses (except to embargoed destinations).
 
+{% hint style="info" %}
+**Entity List**: A list maintained by BIS identifying foreign entities (companies, research institutions, government organizations, individuals) that pose proliferation, terrorism, or national security risks. Export of controlled items to Entity List entities requires a license, which is typically denied. As of 2024, over 600 Chinese entities are listed, including Huawei, SMIC, and major AI/surveillance firms.
+{% endhint %}
+
 **Entity List: Targeted Denials**
 
 The **Entity List** (Supplement No. 4 to Part 744) identifies foreign entities subject to specific license requirements due to proliferation concerns, weapons development, human rights violations, or other national security threats. As of 2024, over 600 Chinese entities appear on the Entity List, including:
@@ -352,6 +370,10 @@ The **Entity List** (Supplement No. 4 to Part 744) identifies foreign entities s
 - **Leading Chinese AI firms** (SenseTime, Megvii, CloudWalk, iFlytek): Facial recognition and surveillance technologies
 
 Entity List designation requires licenses for exports of specified items (often all EAR-controlled items); licenses carry presumption of denial. This effectively operates as an export ban for most controlled technologies.
+
+{% hint style="info" %}
+**Foreign Direct Product Rule (FDPR)**: A powerful extraterritorial mechanism allowing the U.S. to control foreign-made items produced using U.S.-origin technology or equipment, even if they contain no U.S. components. This gives the U.S. leverage over global supply chains far beyond its borders. The 2020 expansion targeting Huawei effectively cut the company off from TSMC (Taiwan) despite TSMC being a foreign company selling foreign-made products.
+{% endhint %}
 
 **Foreign Direct Product Rule Expansion**
 
@@ -673,9 +695,8 @@ Chinese retaliation less effective than U.S. controls due to:
 
 However, near-term disruptions real: Gallium/germanium restrictions caused 6-12 month supply disruptions and 20-30% price increases. For firms with thin margins or just-in-time inventory, temporary disruptions can be severe.
 
-<figure>
-  <img src="../figures/fig_06_04_rare_earth_retaliation.png" alt="China's Critical Mineral Export Controls Timeline and Market Dominance" style="width:100%; max-width:100%;">
-</figure>
+![China's Critical Mineral Export Controls Timeline and Market Dominance](../figures/fig_06_04_rare_earth_retaliation.png)
+*Figure 6.6: China's Critical Mineral Export Controls Timeline and Market Dominance*
 
 ---
 
@@ -884,7 +905,11 @@ Western trade restrictions (tariffs, export controls, investment screening) are 
 
 ### Key Chinese Concepts in Trade Coercion
 
+{% hint style="warning" %}
 **Counter-Sanctions (反制裁, fǎnzhì cái)**
+
+The Chinese concept of counter-sanctions embodies the reciprocity principle: If foreign entities impose restrictions for non-commercial reasons, China reserves the right to respond in kind. From the Chinese perspective, this is defensive retaliation, not aggression. Article 48 of China's Export Control Law (2020) explicitly authorizes counter-measures against countries "abusing export control measures to endanger national security and interests."
+{% endhint %}
 
 Chinese concept of **counter-sanctions** embodies reciprocity principle: If foreign entities impose restrictions for non-commercial reasons, China reserves right to respond in kind. This reflects:
 
@@ -893,6 +918,12 @@ Chinese concept of **counter-sanctions** embodies reciprocity principle: If fore
 - **Deterrence**: Imposing costs on foreign firms and governments to deter future restrictions
 
 Chinese Export Control Law (2020) explicitly authorizes retaliation: Article 48 allows counter-measures against countries "abusing export control measures to endanger national security and interests." This legal framework legitimizes tit-for-tat responses.
+
+{% hint style="warning" %}
+**Unreliable Entity List (不可靠实体清单, bù kě kào shítǐ qīngdān)**
+
+China's mirror-image response to the U.S. Entity List. Targets foreign entities that cut off supplies to Chinese firms for "non-commercial" (i.e., political) reasons. The term "unreliable" (不可靠) emphasizes that such suppliers cannot be trusted as business partners. Forces foreign firms to choose: comply with U.S. export controls and lose Chinese market access, or maintain China relationships and risk U.S. penalties.
+{% endhint %}
 
 **Unreliable Entity List (不可靠实体清单, bù kě kào shítǐ qīngdān)**
 
@@ -904,7 +935,11 @@ Announced 2019 in response to U.S. Entity List additions targeting Chinese firms
 
 List threatens foreign entities complying with U.S. export controls with loss of Chinese market access. This forces difficult choice: Comply with U.S. or maintain China relationships. From Chinese perspective, this is defensive—protecting Chinese firms from illegal foreign coercion—not aggressive.
 
+{% hint style="warning" %}
 **Reciprocal Opening (对等开放, duìděng kāifàng)**
+
+A Chinese concept demanding symmetrical treatment: If the U.S. restricts Chinese firms' market access (TikTok, Huawei), China can reciprocally restrict U.S. firms (Apple, Qualcomm). Chinese officials argue this corrects asymmetries where China opened markets under WTO accession while Western states maintained restrictions through "creative" use of security exceptions.
+{% endhint %}
 
 **Reciprocal opening** demands symmetrical treatment: If U.S. restricts Chinese firms' market access (TikTok, Huawei, Chinese apps), China can reciprocally restrict U.S. firms (Apple, Qualcomm, U.S. social media). Chinese officials argue:
 
@@ -914,7 +949,11 @@ List threatens foreign entities complying with U.S. export controls with loss of
 
 From Chinese perspective, reciprocal opening corrects asymmetries where China opened markets under WTO accession while Western states maintained restrictions through creative use of security exceptions and regulatory barriers.
 
+{% hint style="warning" %}
 **Technology Independence (技术自主, jìshù zìzhǔ)**
+
+The strategic imperative of achieving self-sufficiency in core technologies to eliminate foreign leverage. Entity List additions targeting Huawei and SMIC validated Chinese concerns that Western integration rhetoric masked a containment agenda. Made in China 2025 and semiconductor Big Fund ($150+ billion) represent deliberate strategy: accept short-term efficiency losses to eliminate long-term vulnerabilities.
+{% endhint %}
 
 **Technology independence** represents strategic imperative: Achieving self-sufficiency in core technologies to eliminate foreign leverage. This concept evolved:
 
@@ -923,6 +962,12 @@ From Chinese perspective, reciprocal opening corrects asymmetries where China op
 - **2010s-present**: Renewed emphasis on indigenous innovation (自主创新, zìzhǔ chuàngxīn) as Western restrictions tightened
 
 Entity List additions (Huawei, SMIC, Chinese AI firms) and semiconductor export controls validated Chinese concerns about technology dependence. Officials cite these as evidence that Western integration rhetoric masked containment agenda: China encouraged to specialize in low-value manufacturing while remaining dependent on Western technology, creating permanent vulnerability to coercion.
+
+{% hint style="warning" %}
+**Dual Circulation (双循环, shuāng xúnhuán)**
+
+Introduced in 2020, this strategy responds directly to U.S. weaponization of interdependence. **Internal circulation** (国内大循环) emphasizes domestic consumption and production, reducing reliance on foreign markets. **External circulation** (国际循环) maintains global engagement but from a position of strength, not dependence. The lesson: deep integration creates exploitable vulnerabilities.
+{% endhint %}
 
 **Dual Circulation (双循环, shuāng xúnhuán)**
 

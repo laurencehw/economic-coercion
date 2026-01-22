@@ -2,17 +2,47 @@
 
 ## Executive Summary
 
-On August 6, 2020, President Trump issued an executive order giving ByteDance, the Chinese parent company of TikTok, 45 days to divest the popular video-sharing app or face a complete ban in the United States. The order cited national security concerns: TikTok's collection of American users' data, algorithmic content curation controlled by a Chinese company potentially subject to Chinese government influence, and risks of Chinese intelligence exploitation of the platform's vast user base (100 million Americans, predominantly young). ByteDance attempted negotiations, proposing technical solutions and partnership structures, but the Committee on Foreign Investment in the United States (CFIUS) determined that only complete divestment—selling TikTok's U.S. operations to American owners—would address security concerns. Four years and multiple legal battles later, TikTok remains Chinese-owned, operating under continued threat of forced sale or ban, illustrating both the expanded reach of U.S. investment screening authorities and the complexities of enforcing technology divestments.
+On August 6, 2020, President Trump issued an executive order giving ByteDance, the Chinese parent company of TikTok, 45 days to divest the popular video-sharing app or face a complete ban in the United States. The order cited national security concerns: TikTok's collection of American users' data, algorithmic content curation controlled by a Chinese company potentially subject to Chinese government influence, and risks of Chinese intelligence exploitation of the platform's vast user base (100 million Americans, predominantly young).
 
-The TikTok saga exemplifies a fundamental transformation in how advanced economies employ investment screening: once a passive, largely procedural review of foreign acquisitions for narrow national security concerns, investment review has evolved into an active tool of economic coercion targeting specific countries (primarily China), entire sectors (technology, critical infrastructure, data-intensive businesses), and even operating companies already established in domestic markets. Simultaneously, governments have embraced industrial policy—direct state intervention through subsidies, mandates, and preferential treatment—to build domestic capabilities and reduce dependencies. The United States, long a champion of free markets and skeptic of industrial policy, has committed over $500 billion through the CHIPS and Science Act, Inflation Reduction Act, and Infrastructure Investment and Jobs Act (Rasser et al. 2022) to reshape semiconductor production, clean energy supply chains, and critical infrastructure. China, meanwhile, continues its decades-long industrial policy regime through Made in China 2025, state-owned enterprise dominance, and the Big Fund semiconductor investments exceeding $100 billion. This dual transformation—weaponized investment screening and resurgent industrial policy—represents a decisive shift from market-driven globalization toward strategic economic competition. The invisible hand has been replaced by the visible fist.
+ByteDance attempted negotiations, proposing technical solutions and partnership structures, but the Committee on Foreign Investment in the United States (CFIUS) determined that only complete divestment—selling TikTok's U.S. operations to American owners—would address security concerns. Four years and multiple legal battles later, TikTok remains Chinese-owned, operating under continued threat of forced sale or ban, illustrating both the expanded reach of U.S. investment screening authorities and the complexities of enforcing technology divestments.
+
+{% hint style="info" %}
+**CFIUS (Committee on Foreign Investment in the United States)**: An interagency committee chaired by the Treasury Secretary that reviews foreign acquisitions of U.S. businesses for national security implications. CFIUS can recommend that the President block transactions or require divestment of existing investments.
+{% endhint %}
+
+The TikTok saga exemplifies a fundamental transformation in how advanced economies employ investment screening: once a passive, largely procedural review of foreign acquisitions for narrow national security concerns, investment review has evolved into an active tool of economic coercion targeting specific countries (primarily China), entire sectors (technology, critical infrastructure, data-intensive businesses), and even operating companies already established in domestic markets.
+
+{% hint style="info" %}
+**Industrial Policy**: Government intervention in the economy to promote specific industries through subsidies, tax incentives, trade protection, directed credit, and other measures intended to accelerate development of strategic sectors and build domestic capabilities.
+{% endhint %}
+
+Simultaneously, governments have embraced industrial policy—direct state intervention through subsidies, mandates, and preferential treatment—to build domestic capabilities and reduce dependencies. The United States, long a champion of free markets and skeptic of industrial policy, has committed over $500 billion through the CHIPS and Science Act, Inflation Reduction Act, and Infrastructure Investment and Jobs Act (Rasser et al. 2022) to reshape semiconductor production, clean energy supply chains, and critical infrastructure.
+
+China, meanwhile, continues its decades-long industrial policy regime through Made in China 2025, state-owned enterprise dominance, and the Big Fund semiconductor investments exceeding $100 billion. This dual transformation—weaponized investment screening and resurgent industrial policy—represents a decisive shift from market-driven globalization toward strategic economic competition. The invisible hand has been replaced by the visible fist.
 
 This chapter examines how states employ investment controls and industrial policy as instruments of economic coercion, shaping capital flows, ownership structures, and industrial capabilities to serve strategic objectives. Three core arguments organize our analysis.
 
-**First, investment screening has evolved from passive national security review to active economic coercion tool, particularly targeting Chinese investments in technology and critical infrastructure.** Traditional CFIUS review focused on narrow security concerns: preventing foreign control of defense contractors, protecting classified information, safeguarding critical infrastructure from sabotage. Applications were relatively rare, reviews largely procedural, and approvals common with modest mitigation measures. The 2018 Foreign Investment Risk Review Modernization Act (FIRRMA) fundamentally transformed this landscape: expanding jurisdiction to cover non-controlling investments and early-stage ventures (previously outside CFIUS reach), mandating declarations for investments in "TID" sectors (Technology, Infrastructure, Data), and explicitly targeting critical emerging technologies (AI, quantum computing, biotechnology, hypersonics). Post-FIRRMA, Chinese investment in U.S. technology plummeted from a 2016 peak of $45.6 billion to just $2.5 billion in 2024—a 95% decline (Rhodium Group 2024). This wasn't market forces but policy intent: investment screening became a mechanism for economic decoupling, preventing Chinese capital from accessing American innovation ecosystems.
+**First, investment screening has evolved from passive national security review to active economic coercion tool, particularly targeting Chinese investments in technology and critical infrastructure.** Traditional CFIUS review focused on narrow security concerns: preventing foreign control of defense contractors, protecting classified information, safeguarding critical infrastructure from sabotage. Applications were relatively rare, reviews largely procedural, and approvals common with modest mitigation measures.
 
-**Second, industrial policy competition represents a return of state-directed capitalism, with both the United States and China deploying massive subsidies and mandates to reshape critical supply chains.** For decades, Western economic policy emphasized market efficiency, comparative advantage, and free trade—viewing industrial policy as distortionary, inefficient, and characteristic of failing developmental states. "The government shouldn't pick winners" was the mantra. Then China picked winners, and they won. Targeted investments in strategic sectors (high-speed rail, renewable energy, telecommunications, semiconductors) enabled Chinese firms to achieve global leadership, often displacing Western competitors. The CHIPS and Science Act, committing $52 billion to semiconductor manufacturing and R&D, explicitly aims to reverse market-driven offshoring (Rasser et al. 2022) and rebuild domestic production despite higher costs. The Inflation Reduction Act's $369 billion for clean energy similarly seeks to counter China's dominance in solar panels (80% global production), wind turbines (60%), and EV batteries (75%). This represents industrial policy on unprecedented scale: not just supporting nascent industries but attempting to reshore established supply chains through subsidies rendering uneconomic production economically viable. The effectiveness of such policies—whether they build sustainable capabilities or create dependency on perpetual government support—remains unproven, but the commitment is unmistakable.
+{% hint style="info" %}
+**FIRRMA (Foreign Investment Risk Review Modernization Act)**: Landmark 2018 legislation that dramatically expanded CFIUS authority to review non-controlling investments in technology, infrastructure, and data sectors; mandated declarations for certain transactions; and added jurisdiction over real estate near sensitive facilities.
+{% endhint %}
 
-**Third, informal economic coercion—state actions outside formal legal frameworks to impose costs on target economies—demonstrates that economic power operates beyond institutionalized sanctions and tariffs.** China's 2020-2021 economic pressure on Australia illustrates these dynamics: following Australia's call for an independent investigation into COVID-19 origins, China imposed de facto restrictions on Australian exports (Rajagopalan and Wuthnow 2021) including wine (tariffs of 200%+), barley (80% tariffs), coal (unofficial import bans), lobster, timber, and beef—affecting over $20 billion in trade. Notably, these restrictions operated through administrative measures, customs delays, and "quality concerns" rather than explicit government policies, providing plausible deniability while inflicting substantial economic pain. Australian wine exporters, deriving 95% of revenue from China, faced existential crisis. Yet Australia maintained its policy positions, sought alternative markets, and deepened security alignment with the United States. This case demonstrates both the power of informal coercion (imposing costs without triggering WTO dispute mechanisms or formal retaliation frameworks) and its limitations (targets may absorb pain rather than concede, and market diversification reduces future leverage).
+The 2018 Foreign Investment Risk Review Modernization Act (FIRRMA) fundamentally transformed this landscape: expanding jurisdiction to cover non-controlling investments and early-stage ventures (previously outside CFIUS reach), mandating declarations for investments in "TID" sectors (Technology, Infrastructure, Data), and explicitly targeting critical emerging technologies (AI, quantum computing, biotechnology, hypersonics).
+
+Post-FIRRMA, Chinese investment in U.S. technology plummeted from a 2016 peak of $45.6 billion to just $2.5 billion in 2024—a 95% decline (Rhodium Group 2024). This wasn't market forces but policy intent: investment screening became a mechanism for economic decoupling, preventing Chinese capital from accessing American innovation ecosystems.
+
+**Second, industrial policy competition represents a return of state-directed capitalism, with both the United States and China deploying massive subsidies and mandates to reshape critical supply chains.** For decades, Western economic policy emphasized market efficiency, comparative advantage, and free trade—viewing industrial policy as distortionary, inefficient, and characteristic of failing developmental states. "The government shouldn't pick winners" was the mantra. Then China picked winners, and they won.
+
+Targeted investments in strategic sectors (high-speed rail, renewable energy, telecommunications, semiconductors) enabled Chinese firms to achieve global leadership, often displacing Western competitors. The CHIPS and Science Act, committing $52 billion to semiconductor manufacturing and R&D, explicitly aims to reverse market-driven offshoring (Rasser et al. 2022) and rebuild domestic production despite higher costs.
+
+The Inflation Reduction Act's $369 billion for clean energy similarly seeks to counter China's dominance in solar panels (80% global production), wind turbines (60%), and EV batteries (75%). This represents industrial policy on unprecedented scale: not just supporting nascent industries but attempting to reshore established supply chains through subsidies rendering uneconomic production economically viable. The effectiveness of such policies—whether they build sustainable capabilities or create dependency on perpetual government support—remains unproven, but the commitment is unmistakable.
+
+**Third, informal economic coercion—state actions outside formal legal frameworks to impose costs on target economies—demonstrates that economic power operates beyond institutionalized sanctions and tariffs.** China's 2020-2021 economic pressure on Australia illustrates these dynamics: following Australia's call for an independent investigation into COVID-19 origins, China imposed de facto restrictions on Australian exports (Rajagopalan and Wuthnow 2021) including wine (tariffs of 200%+), barley (80% tariffs), coal (unofficial import bans), lobster, timber, and beef—affecting over $20 billion in trade.
+
+Notably, these restrictions operated through administrative measures, customs delays, and "quality concerns" rather than explicit government policies, providing plausible deniability while inflicting substantial economic pain. Australian wine exporters, deriving 95% of revenue from China, faced existential crisis. Yet Australia maintained its policy positions, sought alternative markets, and deepened security alignment with the United States.
+
+This case demonstrates both the power of informal coercion (imposing costs without triggering WTO dispute mechanisms or formal retaliation frameworks) and its limitations (targets may absorb pain rather than concede, and market diversification reduces future leverage).
 
 The chapter proceeds through four main sections. Section 1 examines **investment screening mechanisms**, analyzing CFIUS evolution, FIRRMA expansion, allied investment review systems, and effectiveness in blocking Chinese technology access. Section 2 explores **industrial policy competition**, comparing U.S. approaches (CHIPS Act, IRA, infrastructure) with China's model (Made in China 2025, Big Fund, SOE-directed development) and assessing prospects for success. Section 3 analyzes **state-owned enterprises and sovereign wealth funds** as strategic instruments, examining their role in technology acquisition, resource control, and state influence. Section 4 investigates **informal economic coercion**, using the Australia case to understand mechanisms, targets' responses, and implications for middle powers caught between superpowers.
 
@@ -22,18 +52,31 @@ Two case studies apply the analytical framework. Case Study 1 examines the **BIO
 
 A Chinese Perspective Box explores Beijing's views on investment screening as discriminatory protectionism, industrial policy as legitimate development strategy, state-owned enterprises as tools for economic sovereignty, and informal coercion as Western hypocrisy. Key concepts include **industrial policy** (产业政策, chǎnyè zhèngcè), **state-owned enterprises** (国有企业, guóyǒu qǐyè), **reciprocity** (对等, duìděng), and **national champions** (国家冠军企业, guójiā guànjūn qǐyè).
 
-This chapter's themes—investment screening as economic weapon, industrial policy's resurgence, informal coercion's power—reveal economic statecraft's evolution beyond traditional trade and financial tools. As Chapter 6 examined tariffs and export controls, and Chapter 7 analyzed financial sanctions, this chapter demonstrates that capital flows and industrial capabilities have become contested domains. The implications extend beyond bilateral U.S.-China competition: allied countries face pressure to harmonize investment screening and industrial policies, developing nations navigate competing offers of development finance and technology transfer, and multinational corporations confront fragmenting markets where ownership, production location, and technology sourcing carry geopolitical implications. Understanding these dynamics is essential for policymakers balancing economic efficiency against security imperatives, businesses navigating politicized markets, and analysts assessing the future of globalization.
+This chapter's themes—investment screening as economic weapon, industrial policy's resurgence, informal coercion's power—reveal economic statecraft's evolution beyond traditional trade and financial tools. As Chapter 6 examined tariffs and export controls, and Chapter 7 analyzed financial sanctions, this chapter demonstrates that capital flows and industrial capabilities have become contested domains.
 
-<figure>
-  <img src="../../figures/fig_08_01_bri_infrastructure.png" alt="Belt and Road Initiative Infrastructure" style="width:100%; max-width:100%;">
-  <figcaption>Figure 8.1: Key Belt and Road Initiative infrastructure investments. Port investments (blue) extend Chinese maritime presence; rail projects (red) create overland connectivity; corridor investments (orange) integrate regional economies. Size indicates investment scale in USD billions.</figcaption>
-</figure>
+The implications extend beyond bilateral U.S.-China competition: allied countries face pressure to harmonize investment screening and industrial policies, developing nations navigate competing offers of development finance and technology transfer, and multinational corporations confront fragmenting markets where ownership, production location, and technology sourcing carry geopolitical implications.
+
+Understanding these dynamics is essential for policymakers balancing economic efficiency against security imperatives, businesses navigating politicized markets, and analysts assessing the future of globalization.
+
+{% hint style="warning" %}
+**Chinese Strategic Concept: Belt and Road Initiative (一带一路)**
+
+The BRI represents China's flagship foreign economic strategy, investing over $1 trillion in infrastructure across 140+ countries since 2013. From Beijing's perspective, BRI serves multiple objectives: securing resource supply chains, expanding export markets for Chinese construction capacity, promoting RMB internationalization, and building diplomatic relationships through development finance. Critics view BRI as "debt trap diplomacy" creating dependencies on Chinese lending, but Chinese officials counter that BRI provides infrastructure investment that Western institutions have failed to deliver.
+{% endhint %}
+
+![Figure 8.1: Key Belt and Road Initiative infrastructure investments. Port investments (blue) extend Chinese maritime presence; rail projects (red) create overland connectivity; corridor investments (orange) integrate regional economies. Size indicates investment scale in USD billions.](../../figures/fig_08_01_bri_infrastructure.png)
 
 ---
 
 ## Investment Screening - From Passive Review to Active Coercion
 
-Investment screening—government review of foreign acquisitions and investments for national security implications—has existed for decades in most advanced economies. The United States established the Committee on Foreign Investment in the United States (CFIUS) in 1975, primarily to monitor OPEC petrodollar investments following the oil crises. For most of its history, CFIUS operated as a relatively obscure interagency process: companies voluntarily notified proposed foreign acquisitions, government agencies reviewed for narrow security concerns (protecting classified information, preventing foreign control of defense contractors), and most transactions received approval, sometimes with mitigation measures. Rejections and forced divestments were rare. This passive, procedural approach reflected an era when foreign investment was generally welcomed as beneficial capital inflow, and national security concerns centered on traditional military threats. CFIUS was a sleepy backwater of bureaucracy. Then China came knocking with bags of money and shopping lists of technology companies.
+{% hint style="info" %}
+**National Security Review**: The process by which governments evaluate whether foreign investments in domestic companies or assets pose risks to national security. Reviews typically assess military implications, critical infrastructure vulnerabilities, technology transfer concerns, and potential foreign government influence over strategic sectors.
+{% endhint %}
+
+Investment screening—government review of foreign acquisitions and investments for national security implications—has existed for decades in most advanced economies. The United States established the Committee on Foreign Investment in the United States (CFIUS) in 1975, primarily to monitor OPEC petrodollar investments following the oil crises.
+
+For most of its history, CFIUS operated as a relatively obscure interagency process: companies voluntarily notified proposed foreign acquisitions, government agencies reviewed for narrow security concerns (protecting classified information, preventing foreign control of defense contractors), and most transactions received approval, sometimes with mitigation measures. Rejections and forced divestments were rare. This passive, procedural approach reflected an era when foreign investment was generally welcomed as beneficial capital inflow, and national security concerns centered on traditional military threats. CFIUS was a sleepy backwater of bureaucracy. Then China came knocking with bags of money and shopping lists of technology companies.
 
 The 2018 Foreign Investment Risk Review Modernization Act (FIRRMA) fundamentally transformed this landscape, expanding CFIUS jurisdiction, mandating reviews of previously exempt transactions, and explicitly targeting Chinese investments in emerging technologies. Post-FIRRMA investment screening represents not passive review but active economic coercion: deliberately blocking Chinese capital from accessing American technology, even when transactions pose only speculative, long-term security risks rather than immediate threats. This section examines CFIUS evolution, FIRRMA's mechanisms, allied investment screening coordination, and effectiveness in achieving decoupling objectives.
 
@@ -124,10 +167,8 @@ FIRRMA authorized increased CFIUS staffing and funding (from ~20 full-time emplo
 
 ### Impact on Chinese Investment: Near-Total Collapse
 
-<figure>
-  <img src="../../figures/fig_08_02_chinese_fdi.png" alt="Chinese FDI in U.S. and Europe (2008-2024)" style="width:100%; max-width:100%;">
-  <figcaption>Chinese FDI in U.S. and Europe (2008-2024)</figcaption>
-</figure>
+![Chinese FDI in U.S. and Europe (2008-2024)](../../figures/fig_08_02_chinese_fdi.png)
+*Figure 8.2: Chinese FDI in U.S. and Europe (2008-2024)*
 
 FIRRMA's impact on Chinese investment was immediate and severe. Chinese direct investment in the United States:
 
@@ -151,10 +192,8 @@ This represents a **95% decline from peak**, with 2024 investment returning to l
 
 **CFIUS Statistics Reflecting Increased Scrutiny**
 
-<figure>
-  <img src="../figures/fig_08_04_cfius_reviews.png" alt="CFIUS Reviews and Outcomes (2010-2024)" style="width:100%; max-width:100%;">
-  <figcaption>Figure 8.4: CFIUS reviews and outcomes over time. The post-FIRRMA era shows increased scrutiny with more investigations, withdrawals, and mitigation agreements, particularly for Chinese transactions.</figcaption>
-</figure>
+![CFIUS Reviews and Outcomes (2010-2024)](../figures/fig_08_04_cfius_reviews.png)
+*Figure 8.4: CFIUS reviews and outcomes over time. The post-FIRRMA era shows increased scrutiny with more investigations, withdrawals, and mitigation agreements, particularly for Chinese transactions.*
 
 CFIUS annual reports document transformed review patterns:
 
@@ -322,7 +361,11 @@ Investment screening has proven remarkably effective in achieving its primary ob
 
 ## Industrial Policy Competition - The Return of the State
 
-For nearly four decades, Western economic policy embraced market-driven allocation of resources, viewing government industrial policy—directed subsidies, mandates, and preferences for specific industries—as inefficient distortions that reduce competitiveness. The Washington Consensus held that governments should establish rule of law, protect property rights, maintain macroeconomic stability, and otherwise let markets determine winners and losers. China's spectacular rise through aggressive industrial policy challenged this orthodoxy. Now, facing strategic competition and supply chain vulnerabilities exposed by the pandemic and geopolitical tensions, the United States and Europe have embraced industrial policy on unprecedented scale, directly competing with China's state-directed model. This section examines contemporary industrial policy competition, comparing U.S. and Chinese approaches, assessing early results, and evaluating prospects for success.
+For nearly four decades, Western economic policy embraced market-driven allocation of resources, viewing government industrial policy—directed subsidies, mandates, and preferences for specific industries—as inefficient distortions that reduce competitiveness. The Washington Consensus held that governments should establish rule of law, protect property rights, maintain macroeconomic stability, and otherwise let markets determine winners and losers.
+
+China's spectacular rise through aggressive industrial policy challenged this orthodoxy. Now, facing strategic competition and supply chain vulnerabilities exposed by the pandemic and geopolitical tensions, the United States and Europe have embraced industrial policy on unprecedented scale, directly competing with China's state-directed model.
+
+This section examines contemporary industrial policy competition, comparing U.S. and Chinese approaches, assessing early results, and evaluating prospects for success.
 
 ### U.S. Industrial Policy: CHIPS, IRA, and Infrastructure
 
@@ -426,10 +469,8 @@ China's National Integrated Circuit Industry Investment Fund (the "Big Fund") ex
 
 ### Comparing Approaches: Market-Driven vs. State-Directed
 
-<figure>
-  <img src="../../figures/figure_8_3_industrial_policy.png" alt="Industrial Policy Spending: U.S. vs China" style="width:100%; max-width:100%;">
-  <figcaption>Industrial Policy Spending: U.S. vs China</figcaption>
-</figure>
+![Industrial Policy Spending: U.S. vs China](../../figures/figure_8_3_industrial_policy.png)
+*Figure 8.3: Industrial Policy Spending: U.S. vs China*
 
 **U.S. Model: Strategic Industrial Policy within Market Framework**
 
@@ -461,13 +502,18 @@ China's National Integrated Circuit Industry Investment Fund (the "Big Fund") ex
 
 **Which approach will succeed?** Uncertain and likely sector-dependent. Semiconductors favor scale, capital intensity, and sustained investment (potentially China advantage). Biotechnology and AI favor entrepreneurial innovation and talent mobility (potentially U.S. advantage). Both countries face obstacles: U.S. must overcome short-term political pressures and cost disadvantages; China must address efficiency and innovation limitations. The competition will unfold over decades, not years.
 
-<figure>
-  <img src="../figures/fig_08_06_industrial_policy_compare.png" alt="Industrial Policy Comparison: U.S. and China Approaches" style="width:100%; max-width:100%;">
-</figure>
+![Industrial Policy Comparison: U.S. and China Approaches](../figures/fig_08_06_industrial_policy_compare.png)
+*Figure 8.6: Industrial Policy Comparison: U.S. and China Approaches*
 
 ---
 
 ## State-Owned Enterprises and Sovereign Wealth Funds as Strategic Instruments
+
+{% hint style="warning" %}
+**Chinese Strategic Concept: "Going Out" Strategy (走出去, zǒu chūqù)**
+
+Launched in 1999 and accelerated after WTO accession in 2001, the "Going Out" strategy encourages Chinese enterprises to invest overseas, acquire foreign companies, and secure access to resources and technology. From Beijing's perspective, this represents natural economic development as Chinese firms grow internationally—similar to American and European multinationals' global expansion in previous decades. Chinese SOEs leading overseas investment are seen as national champions building China's global economic footprint, not instruments of state power projection.
+{% endhint %}
 
 State-owned enterprises (SOEs) and sovereign wealth funds (SWFs) function as extensions of government power in economic statecraft. Unlike private firms accountable primarily to shareholders and profit maximization, SOEs and SWFs pursue state strategic objectives—resource control, technology acquisition, geopolitical influence—sometimes accepting commercial losses for political gains. This section examines how states, particularly China, deploy these instruments as tools of economic coercion and strategic competition.
 
@@ -482,6 +528,12 @@ China's state-owned enterprises dominate key sectors of its economy and increasi
 
 **Dual Mandate: Commercial and Political**
 
+{% hint style="warning" %}
+**Chinese Strategic Concept: State Capitalism (国家资本主义)**
+
+Western analysts often frame Chinese economic policy as "state capitalism," implying deviation from proper market economics. Chinese officials reject this characterization, instead describing their system as "socialism with Chinese characteristics" where state guidance corrects market failures and serves national development goals. From this perspective, SOEs in strategic sectors (energy, telecommunications, finance, defense) ensure that critical capabilities serve national interests rather than foreign shareholders or short-term profit maximization. The debate reflects fundamentally different views on the proper relationship between state and market.
+{% endhint %}
+
 Chinese SOEs operate under dual mandate:
 
 **Commercial objectives**: Profitability, efficiency, competitiveness (increasingly emphasized since Xi Jinping's SOE reforms requiring better performance)
@@ -493,9 +545,8 @@ Chinese SOEs operate under dual mandate:
 - Advancing technology self-reliance
 - Executing economic coercion when directed
 
-<figure>
-  <img src="../figures/fig_08_07_bri_debt.png" alt="Belt and Road Initiative: Debt Exposure by Region" style="width:100%; max-width:100%;">
-</figure>
+![Belt and Road Initiative: Debt Exposure by Region](../figures/fig_08_07_bri_debt.png)
+*Figure 8.7: Belt and Road Initiative: Debt Exposure by Region*
 
 The tension between commercial and political objectives creates complexity: SOEs must generate profits to avoid becoming fiscal drains while simultaneously pursuing strategic goals that may not maximize returns.
 
@@ -626,10 +677,8 @@ Beginning May 2020, China imposed de facto restrictions on multiple Australian e
 
 ### Australian Responses and Economic Impact
 
-<figure>
-  <img src="../figures/fig_08_05_australia_china.png" alt="Australia-China Trade Restrictions Impact" style="width:100%; max-width:100%;">
-  <figcaption>Figure 8.5: Australian exports to China during the 2020-2022 trade restrictions. Wine and barley were severely affected (over 95% decline), while iron ore remained untouched due to China's dependence on Australian supply. Restrictions began easing in 2023.</figcaption>
-</figure>
+![Australia-China Trade Restrictions Impact](../figures/fig_08_05_australia_china.png)
+*Figure 8.5: Australian exports to China during the 2020-2022 trade restrictions. Wine and barley were severely affected (over 95% decline), while iron ore remained untouched due to China's dependence on Australian supply. Restrictions began easing in 2023.*
 
 **Economic Costs**
 
