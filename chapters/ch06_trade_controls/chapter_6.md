@@ -116,7 +116,7 @@ Assessing trade war impacts requires distinguishing direct effects (tariff incid
 
 **Trade Flow Changes**
 
-U.S. imports from China fell from $539 billion (2018) to $427 billion (2019), a 21% decline (Flaaen and Pierce 2019). However:
+U.S. imports from China fell from $539.5 billion (2018) to $452.2 billion (2019), a 16.2% decline (U.S. Census Bureau 2020). However:
 - Much trade diverted through third countries: U.S. imports from Vietnam surged 36% (2018-2019), from Mexico 10%, from Taiwan 25%
 - Some products (furniture, electronics) saw minimal import decline despite 25% tariffs, suggesting Chinese exporters absorbed costs through price cuts or U.S. importers accepted higher prices
 - Total U.S. imports declined only 1.7% (2018-2019), indicating trade diversion rather than import reduction
