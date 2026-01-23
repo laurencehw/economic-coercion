@@ -78,9 +78,9 @@ Despite limitations, scholarly consensus holds CoCom meaningfully degraded Sovie
 
 ### Grain Embargo (1980): Unilateral Failure
 
-<figure>
-  <img src="../../figures/fig_09_01_soviet_grain.png" alt="Soviet grain imports by source country from 1975-1985, showing how alternative suppliers filled the gap left by the U.S. embargo.">
-  <figcaption>Figure 9.1: Soviet grain imports by source country from 1975-1985, showing how alternative suppliers filled the gap left by the U.S. embargo.</figcaption>
+<figure style="width: 100%; margin: 2em 0; text-align: center;">
+  <img src="../../figures/fig_09_01_soviet_grain.png" alt="Soviet grain imports by source country from 1975-1985, showing how alternative suppliers filled the gap left by the U.S. embargo." style="width: 100%; max-width: 100%; height: auto; display: block; margin: 0 auto;">
+  <figcaption style="margin-top: 1em; font-style: italic; color: #666;">Figure 9.1: Soviet grain imports by source country from 1975-1985, showing how alternative suppliers filled the gap left by the U.S. embargo.</figcaption>
 </figure>
 
 **Background and Implementation**
@@ -560,9 +560,9 @@ Governments sometimes impose sanctions to appear active while avoiding difficult
 
 **Quantitative studies** (Hufbauer et al. 2007; Biersteker et al. 2016; Pape 1997; Drezner 1999) estimate sanctions success rates at 20-40%, depending on success definition and case selection.
 
-<figure>
-  <img src="../../figures/fig_09_03_sanctions_success.png" alt="Sanctions success rates by objective and era, showing variation based on goal type and historical period.">
-  <figcaption>Figure 9.3: Sanctions success rates by objective and era, showing variation based on goal type and historical period.</figcaption>
+<figure style="width: 100%; margin: 2em 0; text-align: center;">
+  <img src="../../figures/fig_09_03_sanctions_success.png" alt="Sanctions success rates by objective and era, showing variation based on goal type and historical period." style="width: 100%; max-width: 100%; height: auto; display: block; margin: 0 auto;">
+  <figcaption style="margin-top: 1em; font-style: italic; color: #666;">Figure 9.3: Sanctions success rates by objective and era, showing variation based on goal type and historical period.</figcaption>
 </figure>
 
 **Measurement challenges**:
