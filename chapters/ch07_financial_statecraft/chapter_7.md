@@ -35,7 +35,7 @@ Financial sanctions' effectiveness derives from the U.S. dollar's dominant posit
 ### The Dollar's Privileged Position
 
 <figure>
-  <img src="../../figures/fig_07_03_treasury_holdings.png" alt="Foreign Holdings of U.S. Treasury Securities">
+  <img src="../../figures/fig_07_03_treasury_holdings.png" alt="Foreign holdings of U.S. Treasury securities by country, showing the scale of dollar-denominated asset accumulation.">
   <figcaption>Figure 7.3: Foreign holdings of U.S. Treasury securities by country, showing the scale of dollar-denominated asset accumulation.</figcaption>
 </figure>
 
@@ -93,7 +93,7 @@ Approximately $13 trillion in non-U.S. dollar-denominated debt exists (2024)—d
 **Society for Worldwide Interbank Financial Telecommunication (SWIFT)**
 
 <figure>
-  <img src="../../figures/fig_07_01_swift_currencies.png" alt="Currency Share of Global Payments (SWIFT)">
+  <img src="../../figures/fig_07_01_swift_currencies.png" alt="Currency share of global payments via SWIFT, demonstrating dollar and euro dominance in international transactions.">
   <figcaption>Figure 7.1: Currency share of global payments via SWIFT, demonstrating dollar and euro dominance in international transactions.</figcaption>
 </figure>
 
@@ -283,7 +283,7 @@ When UN Security Council adopts sanctions resolutions (e.g., North Korea, Iran h
 ### Types of Sanctions Programs
 
 <figure>
-  <img src="../../figures/fig_07_02_sanctions_programs.png" alt="Active U.S. Sanctions Programs by Type">
+  <img src="../../figures/fig_07_02_sanctions_programs.png" alt="Active U.S. sanctions programs by type, showing the growth of comprehensive and targeted sanctions over time.">
   <figcaption>Figure 7.2: Active U.S. sanctions programs by type, showing the growth of comprehensive and targeted sanctions over time.</figcaption>
 </figure>
 
@@ -677,7 +677,7 @@ Aggressive U.S. use of financial sanctions—particularly freezing Russia's cent
 **Sanctions Vulnerability**
 
 <figure>
-  <img src="../../figures/fig_07_04_russian_frozen_assets.png" alt="Russian Central Bank Assets Frozen in 2022">
+  <img src="../../figures/fig_07_04_russian_frozen_assets.png" alt="Russian central bank assets frozen in 2022, showing the geographic distribution of $300+ billion in immobilized reserves.">
   <figcaption>Figure 7.4: Russian central bank assets frozen in 2022, showing the geographic distribution of $300+ billion in immobilized reserves.</figcaption>
 </figure>
 

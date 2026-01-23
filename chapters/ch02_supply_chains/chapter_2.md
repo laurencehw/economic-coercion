@@ -44,7 +44,7 @@ Armed with a framework for identifying chokepoints, we can now map the most stra
 **Semiconductors** represent the most consequential chokepoint in the global economy. The semiconductor supply chain is a marvel of specialization: design happens primarily in the United States (Intel, AMD, Nvidia, Qualcomm, Apple), Europe (ARM), and increasingly China (Huawei's HiSilicon before U.S. sanctions); electronic design automation (EDA) software that makes chip design possible comes exclusively from three American companies (Synopsys, Cadence, Mentor Graphics/Siemens); manufacturing equipment comes from the U.S. (Applied Materials, Lam Research, KLA), the Netherlands (ASML with monopoly on EUV lithography), and Japan (Tokyo Electron, Screen Holdings); and fabrication is dominated by Taiwan (TSMC with 54% of the foundry market and approximately 90% of advanced chips), South Korea (Samsung, SK Hynix with strength in memory chips), and the U.S. (Intel, though struggling in recent years). China remains weak in fabrication, producing less than 10% of global chips and predominantly at mature technology nodes (28 nanometers and above), despite massive investments through the Big Fund (大基金) industrial policy initiative exceeding $100 billion.
 
 <figure>
-  <img src="../../figures/fig_02_01_semiconductor_geography.png" alt="Semiconductor Supply Chain Geography">
+  <img src="../../figures/fig_02_01_semiconductor_geography.png" alt="Critical locations in the global semiconductor supply chain. Red circles indicate chokepoint facilities where disruption would cascade through global technology industries. TSMC's Taiwan fabs, ASML's Netherlands lithography equipment, and Japanese materials suppliers each represent single points of failure.">
   <figcaption>Figure 2.1: Critical locations in the global semiconductor supply chain. Red circles indicate chokepoint facilities where disruption would cascade through global technology industries. TSMC's Taiwan fabs, ASML's Netherlands lithography equipment, and Japanese materials suppliers each represent single points of failure.</figcaption>
 </figure>
 
@@ -138,7 +138,7 @@ This complexity means that no single country can produce advanced semiconductors
 ### Why Taiwan Matters
 
 <figure>
-  <img src="../../figures/fig_02_02_tsmc_dominance.png" alt="TSMC Global Market Share and Tech Dominance">
+  <img src="../../figures/fig_02_02_tsmc_dominance.png" alt="TSMC's dominant global market share in advanced semiconductor manufacturing.">
   <figcaption>Figure 2.2: TSMC's dominant global market share in advanced semiconductor manufacturing.</figcaption>
 </figure>
 
@@ -217,7 +217,7 @@ The global energy transition—the shift from fossil fuels to renewable energy a
 ### Minerals for Energy Transition
 
 <figure>
-  <img src="../../figures/fig_02_03_critical_minerals.png" alt="Critical Minerals Supply Chain Concentration">
+  <img src="../../figures/fig_02_03_critical_minerals.png" alt="Critical minerals supply chain concentration showing China's dominance in processing.">
   <figcaption>Figure 2.3: Critical minerals supply chain concentration showing China's dominance in processing.</figcaption>
 </figure>
 

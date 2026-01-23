@@ -33,7 +33,7 @@ The information domain represents competition's cutting edge where conventional 
 This domain requires new conceptual frameworks and policy tools—combining technical measures (cyber defenses, encryption standards), regulatory approaches (data localization responses, platform governance), standards engagement (technical committee participation, allied coordination), and narrative contestation (countering disinformation, promoting democratic technology governance norms). Understanding information domain competition is essential not just for comprehending U.S.-China strategic rivalry but for navigating the broader transformation of economic and security competition in an increasingly digital world.
 
 <figure>
-  <img src="../figures/fig_03_05_subsea_cables.png" alt="Global Subsea Cable Infrastructure">
+  <img src="../figures/fig_03_05_subsea_cables.png" alt="Global subsea telecommunications cable infrastructure. Over 95% of intercontinental data travels via undersea cables, making landing points and cable routes critical chokepoints for global connectivity. Critical hubs (red) include major data centers and internet exchange points.">
   <figcaption>Figure 5.1: Global subsea telecommunications cable infrastructure. Over 95% of intercontinental data travels via undersea cables, making landing points and cable routes critical chokepoints for global connectivity. Critical hubs (red) include major data centers and internet exchange points.</figcaption>
 </figure>
 
@@ -72,7 +72,7 @@ APT41, a sophisticated group attributed to China's Ministry of State Security co
 - Pharmaceutical formulations: Multiple Chinese firms accelerated drug development using stolen clinical trial data, manufacturing processes, and molecular designs
 
 <figure>
-  <img src="../figures/fig_05_03_cyber_incidents.png" alt="Major Cyber-Economic Incidents Timeline (2010-2024)">
+  <img src="../figures/fig_05_03_cyber_incidents.png" alt="Major cyber-economic incidents from 2010-2024, showing estimated damage and state attribution. Triangles indicate state-linked coercive operations; circles indicate criminal or espionage activity. The scale and sophistication of attacks has increased dramatically.">
   <figcaption>Figure 5.3: Major cyber-economic incidents from 2010-2024, showing estimated damage and state attribution. Triangles indicate state-linked coercive operations; circles indicate criminal or espionage activity. The scale and sophistication of attacks has increased dramatically.</figcaption>
 </figure>
 
@@ -180,12 +180,12 @@ The **strategic calculations** behind data localization involve tradeoffs. **Ben
 Economic analysis suggests data localization imposes net costs: Brookings Institution estimated that data localization policies globally could reduce GDP by 0.7-1.7% through increased IT costs, reduced trade in digital services, and diminished productivity. However, governments pursuing localization prioritize sovereignty, security, and industrial policy over economic efficiency—accepting GDP costs for strategic control. This dynamic parallels Chapter 2's analysis of semiconductor self-sufficiency: economic costs prove acceptable when strategic objectives predominate.
 
 <figure>
-  <img src="../figures/fig_05_01_data_localization.png" alt="Global Data Localization Requirements">
+  <img src="../figures/fig_05_01_data_localization.png" alt="Global data localization requirements by stringency. Countries with comprehensive requirements (dark red) mandate local data storage and restrict cross-border transfers. Moderate requirements (orange) apply to specific sectors or data types. The trend toward data sovereignty continues accelerating.">
   <figcaption>Figure 5.2: Global data localization requirements by stringency. Countries with comprehensive requirements (dark red) mandate local data storage and restrict cross-border transfers. Moderate requirements (orange) apply to specific sectors or data types. The trend toward data sovereignty continues accelerating.</figcaption>
 </figure>
 
 <figure>
-  <img src="../figures/fig_05_04_cloud_market.png" alt="Cloud Infrastructure Market Share">
+  <img src="../figures/fig_05_04_cloud_market.png" alt="Cloud infrastructure market share showing US dominance globally but stark bifurcation in domestic markets. US providers (AWS, Azure, Google Cloud) control over 65% of the global market but less than 10% of China's market, while Chinese providers (Alibaba, Huawei, Tencent) dominate domestically but remain marginal internationally.">
   <figcaption>Figure 5.4: Cloud infrastructure market share showing US dominance globally but stark bifurcation in domestic markets. US providers (AWS, Azure, Google Cloud) control over 65% of the global market but less than 10% of China's market, while Chinese providers (Alibaba, Huawei, Tencent) dominate domestically but remain marginal internationally.</figcaption>
 </figure>
 

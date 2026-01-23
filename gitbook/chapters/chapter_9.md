@@ -492,7 +492,7 @@ Most studies find 20-40% success rates, though this varies dramatically based on
 {% endhint %}
 
 <figure>
-  <img src="../figures/fig_09_04_sanctions_decision_tree.png" alt="Sanctions Decision Framework: Assessing Effectiveness Conditions">
+  <img src="../figures/fig_09_04_sanctions_decision_tree.png" alt="Sanctions Decision Framework - Assessing Effectiveness Conditions">
   <figcaption>Figure 9.4: Sanctions Decision Framework - Assessing Effectiveness Conditions</figcaption>
 </figure>
 
@@ -640,7 +640,7 @@ Governments sometimes impose sanctions to appear active while avoiding difficult
 **Success definition ambiguity**: Different analysts define "success" differently: target full compliance, partial concessions, cost imposition, signaling resolve. Studies using different definitions produce different success rates.
 
 <figure>
-  <img src="../figures/fig_09_05_historical_outcomes.png" alt="Historical Sanctions Outcomes: Cost vs. Effectiveness Across Cases">
+  <img src="../figures/fig_09_05_historical_outcomes.png" alt="Historical Sanctions Outcomes - Cost vs. Effectiveness Across Cases">
   <figcaption>Figure 9.5: Historical Sanctions Outcomes - Cost vs. Effectiveness Across Cases</figcaption>
 </figure>
 

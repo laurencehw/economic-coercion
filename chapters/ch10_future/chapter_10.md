@@ -36,7 +36,7 @@ The U.S. dollar's role as global reserve currency and dominant medium of exchang
 ### Dollar Privilege and Its Vulnerabilities
 
 <figure>
-  <img src="../../figures/fig_10_01_dollar_reserves.png" alt="Projected Dollar Share of Global Reserves (Scenarios 2024-2050)">
+  <img src="../../figures/fig_10_01_dollar_reserves.png" alt="Projected dollar share of global reserves under different scenarios from 2024-2050.">
   <figcaption>Figure 10.1: Projected dollar share of global reserves under different scenarios from 2024-2050.</figcaption>
 </figure>
 
@@ -292,7 +292,7 @@ Economic coercion tools must adapt to control these technologies' strategic diff
 ### Artificial Intelligence: The Defining Technology Competition
 
 <figure>
-  <img src="../../figures/fig_10_03_ai_indicators.png" alt="AI Development Indicators: U.S. vs China">
+  <img src="../../figures/fig_10_03_ai_indicators.png" alt="AI development indicators comparing U.S. and China across research, talent, compute, and applications.">
   <figcaption>Figure 10.3: AI development indicators comparing U.S. and China across research, talent, compute, and applications.</figcaption>
 </figure>
 

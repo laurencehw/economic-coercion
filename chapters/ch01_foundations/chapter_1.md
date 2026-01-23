@@ -170,7 +170,7 @@ The Trump administration's arrival in 2017 marked a decisive shift from engageme
 Economic statecraft became the primary domain of competition. The Trump administration imposed sweeping tariffs on Chinese goods (eventually covering roughly $370 billion in imports), justified partly on trade grounds (reducing the bilateral deficit) but increasingly on strategic grounds (protecting American technology, reducing dependencies). China retaliated with tariffs on American agricultural products and industrial goods. The "trade war" of 2018-2019 demonstrated both sides' willingness to impose substantial economic costs in pursuit of strategic objectives.
 
 <figure>
-  <img src="../../figures/fig_01_04_timeline.png" alt="Timeline of Economic Coercion Events">
+  <img src="../../figures/fig_01_04_timeline.png" alt="Timeline of Major Economic Coercion Events">
   <figcaption>Figure 1.4: Timeline of Major Economic Coercion Events</figcaption>
 </figure>
 
@@ -229,7 +229,7 @@ The next sections examine how analysts can systematically assess economic coerci
 Having defined key concepts and examined the US-China strategic context, we now need analytical tools for systematically assessing specific instances of economic coercion. This framework, applied throughout subsequent chapters, organizes analysis across four dimensions: **domain**, **target**, **objective**, and **intensity**.
 
 <figure>
-  <img src="../../figures/fig_01_01_framework.png" alt="Conceptual Framework of Economic Coercion">
+  <img src="../../figures/fig_01_01_framework.png" alt="Conceptual Framework for Analyzing Economic Coercion">
   <figcaption>Figure 1.1: Conceptual Framework for Analyzing Economic Coercion</figcaption>
 </figure>
 

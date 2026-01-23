@@ -65,7 +65,7 @@ The BRI represents China's flagship foreign economic strategy, investing over $1
 {% endhint %}
 
 <figure>
-  <img src="../../figures/fig_08_01_bri_infrastructure.png" alt="Figure 8.1: Key Belt and Road Initiative infrastructure investments">
+  <img src="../../figures/fig_08_01_bri_infrastructure.png" alt="Key Belt and Road Initiative infrastructure investments. Port investments (blue) extend Chinese maritime presence; rail projects (red) create overland connectivity; corridor investments (orange) integrate regional economies. Size indicates investment scale in USD billions.">
   <figcaption>Figure 8.1: Key Belt and Road Initiative infrastructure investments. Port investments (blue) extend Chinese maritime presence; rail projects (red) create overland connectivity; corridor investments (orange) integrate regional economies. Size indicates investment scale in USD billions.</figcaption>
 </figure>
 
@@ -198,7 +198,7 @@ This represents a **95% decline from peak**, with 2024 investment returning to l
 **CFIUS Statistics Reflecting Increased Scrutiny**
 
 <figure>
-  <img src="../figures/fig_08_04_cfius_reviews.png" alt="CFIUS Reviews and Outcomes (2010-2024)">
+  <img src="../figures/fig_08_04_cfius_reviews.png" alt="CFIUS reviews and outcomes over time. The post-FIRRMA era shows increased scrutiny with more investigations, withdrawals, and mitigation agreements, particularly for Chinese transactions.">
   <figcaption>Figure 8.4: CFIUS reviews and outcomes over time. The post-FIRRMA era shows increased scrutiny with more investigations, withdrawals, and mitigation agreements, particularly for Chinese transactions.</figcaption>
 </figure>
 
@@ -691,7 +691,7 @@ Beginning May 2020, China imposed de facto restrictions on multiple Australian e
 ### Australian Responses and Economic Impact
 
 <figure>
-  <img src="../figures/fig_08_05_australia_china.png" alt="Australia-China Trade Restrictions Impact">
+  <img src="../figures/fig_08_05_australia_china.png" alt="Australian exports to China during the 2020-2022 trade restrictions. Wine and barley were severely affected (over 95% decline), while iron ore remained untouched due to China's dependence on Australian supply. Restrictions began easing in 2023.">
   <figcaption>Figure 8.5: Australian exports to China during the 2020-2022 trade restrictions. Wine and barley were severely affected (over 95% decline), while iron ore remained untouched due to China's dependence on Australian supply. Restrictions began easing in 2023.</figcaption>
 </figure>
 

@@ -188,7 +188,7 @@ The Commerce Department's October 2023 update closed these loopholes, revising s
 ### AI Research Leadership: Publications, Patents, and Talent
 
 <figure>
-  <img src="../../figures/fig_04_02_ai_development.png" alt="AI Research Output and Impact by Country">
+  <img src="../../figures/fig_04_02_ai_development.png" alt="AI research output and impact by country, showing publications, citations, and talent distribution.">
   <figcaption>Figure 4.2: AI research output and impact by country, showing publications, citations, and talent distribution.</figcaption>
 </figure>
 
@@ -316,7 +316,7 @@ Biotechnology represents perhaps the most consequential and least-governed domai
 Research and development investment determines long-term technological leadership, yet measuring and comparing R&D spending across countries involves definitional challenges, data quality concerns, and questions about efficiency versus quantity. Nevertheless, broad patterns reveal intensifying competition where Chinese R&D investment rivals or exceeds American levels while questions persist about which system generates more innovation per dollar invested.
 
 <figure>
-  <img src="../../figures/fig_04_01_rd_spending.png" alt="R&D Spending by Country (1990-2024)">
+  <img src="../../figures/fig_04_01_rd_spending.png" alt="R&D spending by country from 1990-2024, showing the dramatic rise of Chinese investment.">
   <figcaption>Figure 4.1: R&D spending by country from 1990-2024, showing the dramatic rise of Chinese investment.</figcaption>
 </figure>
 
