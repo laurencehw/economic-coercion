@@ -24,8 +24,10 @@ A Chinese Perspective Box explores Beijing's views on investment screening as di
 
 This chapter's themes—investment screening as economic weapon, industrial policy's resurgence, informal coercion's power—reveal economic statecraft's evolution beyond traditional trade and financial tools. As Chapter 6 examined tariffs and export controls, and Chapter 7 analyzed financial sanctions, this chapter demonstrates that capital flows and industrial capabilities have become contested domains. The implications extend beyond bilateral U.S.-China competition: allied countries face pressure to harmonize investment screening and industrial policies, developing nations navigate competing offers of development finance and technology transfer, and multinational corporations confront fragmenting markets where ownership, production location, and technology sourcing carry geopolitical implications. Understanding these dynamics is essential for policymakers balancing economic efficiency against security imperatives, businesses navigating politicized markets, and analysts assessing the future of globalization.
 
-![Belt and Road Initiative Infrastructure](../../figures/fig_08_01_bri_infrastructure.png)
-*Figure 8.1: Key Belt and Road Initiative infrastructure investments. Port investments (blue) extend Chinese maritime presence; rail projects (red) create overland connectivity; corridor investments (orange) integrate regional economies. Size indicates investment scale in USD billions.*
+<figure>
+  <img src="../../figures/fig_08_01_bri_infrastructure.png" alt="Belt and Road Initiative Infrastructure">
+  <figcaption>Figure 8.1: Key Belt and Road Initiative infrastructure investments. Port investments (blue) extend Chinese maritime presence; rail projects (red) create overland connectivity; corridor investments (orange) integrate regional economies. Size indicates investment scale in USD billions.</figcaption>
+</figure>
 
 ---
 
@@ -127,7 +129,10 @@ FIRRMA authorized increased CFIUS staffing and funding (from ~20 full-time emplo
 
 ### Impact on Chinese Investment: Near-Total Collapse
 
-![Chinese FDI in U.S. and Europe (2008-2024)](../../figures/fig_08_02_chinese_fdi.png)
+<figure>
+  <img src="../../figures/fig_08_02_chinese_fdi.png" alt="Chinese FDI in U.S. and Europe (2008-2024)">
+  <figcaption>Figure 8.2: Chinese foreign direct investment in U.S. and Europe from 2008-2024, showing the dramatic collapse after FIRRMA.</figcaption>
+</figure>
 
 FIRRMA's impact on Chinese investment was immediate and severe. Chinese direct investment in the United States:
 
@@ -436,7 +441,10 @@ China's National Integrated Circuit Industry Investment Fund (the "Big Fund") ex
 
 ### Comparing Approaches: Market-Driven vs. State-Directed
 
-![Industrial Policy Spending: U.S. vs China](../../figures/fig_08_03_industrial_policy.png)
+<figure>
+  <img src="../../figures/fig_08_03_industrial_policy.png" alt="Industrial Policy Spending: U.S. vs China">
+  <figcaption>Figure 8.3: Industrial policy spending comparison between the U.S. and China across key technology sectors.</figcaption>
+</figure>
 
 **U.S. Model: Strategic Industrial Policy within Market Framework**
 

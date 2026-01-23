@@ -54,9 +54,10 @@ Armed with a framework for identifying chokepoints, we can now map the most stra
 
 **Semiconductors** represent the most consequential chokepoint in the global economy. The semiconductor supply chain is a marvel of specialization: design happens primarily in the United States (Intel, AMD, Nvidia, Qualcomm, Apple), Europe (ARM), and increasingly China (Huawei's HiSilicon before U.S. sanctions); electronic design automation (EDA) software that makes chip design possible comes exclusively from three American companies (Synopsys, Cadence, Mentor Graphics/Siemens); manufacturing equipment comes from the U.S. (Applied Materials, Lam Research, KLA), the Netherlands (ASML with monopoly on EUV lithography), and Japan (Tokyo Electron, Screen Holdings); and fabrication is dominated by Taiwan (TSMC with 54% of the foundry market and approximately 90% of advanced chips), South Korea (Samsung, SK Hynix with strength in memory chips), and the U.S. (Intel, though struggling in recent years). China remains weak in fabrication, producing less than 10% of global chips and predominantly at mature technology nodes (28 nanometers and above), despite massive investments through the Big Fund (大基金) industrial policy initiative exceeding $100 billion.
 
-![Semiconductor Supply Chain Geography](../figures/fig_02_01_semiconductor_geography.png)
-
-*Figure 2.1: Critical locations in the global semiconductor supply chain. Red circles indicate chokepoint facilities where disruption would cascade through global technology industries. TSMC's Taiwan fabs, ASML's Netherlands lithography equipment, and Japanese materials suppliers each represent single points of failure.*
+<figure>
+  <img src="../figures/fig_02_01_semiconductor_geography.png" alt="Semiconductor Supply Chain Geography">
+  <figcaption>Figure 2.1: Critical locations in the global semiconductor supply chain. Red circles indicate chokepoint facilities where disruption would cascade through global technology industries. TSMC's Taiwan fabs, ASML's Netherlands lithography equipment, and Japanese materials suppliers each represent single points of failure.</figcaption>
+</figure>
 
 This geographic and corporate concentration creates multiple chokepoints. TSMC's dominance in advanced nodes means that any disruption to Taiwan—whether from earthquake, Chinese military action, or semiconductor-specific targeting—would cripple global technology sectors. ASML's monopoly on EUV lithography means that the Netherlands holds a chokepoint on the most advanced semiconductor manufacturing equipment. The concentration of EDA software in three American firms means the U.S. can deny design capabilities to rivals. Each chokepoint can be weaponized: the October 2022 U.S. semiconductor export controls leveraged American positions in equipment and software to constrain China's chip capabilities, even for chips not manufactured in the United States.
 
@@ -150,9 +151,10 @@ This complexity means that no single country can produce advanced semiconductors
 
 ### Why Taiwan Matters
 
-![TSMC Global Market Share and Tech Dominance](../figures/fig_02_02_tsmc_dominance.png)
-
-*Figure 2.2: TSMC Global Market Share and Tech Dominance*
+<figure>
+  <img src="../figures/fig_02_02_tsmc_dominance.png" alt="TSMC Global Market Share and Tech Dominance">
+  <figcaption>Figure 2.2: TSMC Global Market Share and Tech Dominance</figcaption>
+</figure>
 
 Taiwan Semiconductor Manufacturing Company—TSMC—stands at the center of global semiconductor dependence, and by extension, at the center of tensions between the United States and China. Understanding TSMC's dominance and the barriers to replicating it is essential for assessing supply chain vulnerability and restructuring possibilities.
 
@@ -228,9 +230,10 @@ The global energy transition—the shift from fossil fuels to renewable energy a
 
 ### Minerals for Energy Transition
 
-![Critical Minerals Supply Chain Concentration](../figures/fig_02_03_critical_minerals.png)
-
-*Figure 2.3: Critical Minerals Supply Chain Concentration*
+<figure>
+  <img src="../figures/fig_02_03_critical_minerals.png" alt="Critical Minerals Supply Chain Concentration">
+  <figcaption>Figure 2.3: Critical Minerals Supply Chain Concentration</figcaption>
+</figure>
 
 The International Energy Agency estimates that reaching net-zero emissions by 2050 will require six times more mineral inputs in 2040 than today. This demand surge reflects the mineral intensity of clean energy technologies: an electric vehicle requires six times the mineral inputs of a conventional car (primarily lithium, nickel, cobalt, and graphite for batteries, plus rare earths for motors); an onshore wind farm requires nine times the mineral resources of a gas-fired power plant (copper, rare earths for magnets, steel); solar panels require substantial silicon, silver, and other materials. The energy transition is, fundamentally, a materials transition—and control over these materials confers strategic leverage.
 
@@ -376,9 +379,10 @@ The realistic outcome is likely hybrid: modest reshoring of truly critical medic
 
 Recognition of supply chain chokepoints has triggered a global rethinking of trade and industrial policy. The previous consensus—that economic efficiency should drive sourcing decisions and governments should minimize intervention in markets—has fractured. In its place, several strategies have emerged for reducing dependencies on potential adversaries. Each involves distinct tradeoffs between security and economics, and each faces implementation challenges that limit effectiveness. This section evaluates five approaches: reshoring (onshoring), friend-shoring (ally-shoring), diversification, strategic stockpiling, and technology substitution.
 
-![Supply Chain Risk Matrix: Vulnerability Assessment Across Critical Sectors](../figures/fig_02_04_supply_chain_risk.png)
-
-*Figure 2.4: Supply Chain Risk Matrix: Vulnerability Assessment Across Critical Sectors*
+<figure>
+  <img src="../figures/fig_02_04_supply_chain_risk.png" alt="Supply Chain Risk Matrix: Vulnerability Assessment Across Critical Sectors">
+  <figcaption>Figure 2.4: Supply Chain Risk Matrix: Vulnerability Assessment Across Critical Sectors</figcaption>
+</figure>
 
 ### Reshoring (Onshoring)
 
@@ -402,9 +406,10 @@ Pharmaceutical reshoring has seen more limited progress. MP Materials is buildin
 
 The realistic outcome is partial reshoring of the most critical inputs—advanced semiconductors for defense and AI, essential medications with no substitutes, rare earth processing for military applications—while accepting continued dependence for less critical goods where cost considerations dominate. This requires sustained political will to maintain subsidies, regulatory reforms to accelerate permitting, and tolerance for economic inefficiency in service of security objectives.
 
-![Global Reshoring and Friend-shoring Initiatives](../figures/fig_02_05_reshoring_map.png)
-
-*Figure 2.5: Global Reshoring and Friend-shoring Initiatives*
+<figure>
+  <img src="../figures/fig_02_05_reshoring_map.png" alt="Global Reshoring and Friend-shoring Initiatives">
+  <figcaption>Figure 2.5: Global Reshoring and Friend-shoring Initiatives</figcaption>
+</figure>
 
 ### Friend-shoring (Ally-shoring)
 

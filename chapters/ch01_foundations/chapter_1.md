@@ -142,7 +142,10 @@ American policymakers embraced a theory of transformative engagement: integratin
 
 China's accession to the World Trade Organization in 2001 accelerated integration dramatically. Trade between the US and China grew from $116 billion in 2000 to over $560 billion by 2008. American companies invested heavily in Chinese manufacturing, taking advantage of low labor costs and increasingly sophisticated supply chains. China became "the world's factory," integral to global production networks for electronics, apparel, machinery, and countless other goods. The relationship appeared to validate the liberal assumption that economic interdependence promotes cooperation.
 
-![US-China Trade Volume and Key Events (2000-2024)](../../figures/fig_01_02_us_china_trade.png)
+<figure>
+  <img src="../../figures/fig_01_02_us_china_trade.png" alt="US-China Trade Volume and Key Events (2000-2024)">
+  <figcaption>Figure 1.2: US-China Trade Volume and Key Events (2000-2024)</figcaption>
+</figure>
 
 But integration also created structural dependencies and distributional consequences that would later fuel tensions. American manufacturing employment declined sharply—research by Autor, Dorn, and Hanson estimated that competition from Chinese imports eliminated 2.4 million U.S. jobs between 1999 and 2011 (Autor, Dorn, and Hanson 2016). China accumulated massive foreign exchange reserves ($2 trillion by 2008) and became the largest foreign holder of U.S. Treasury securities, creating mutual financial dependencies. Technology transfer—sometimes voluntary through joint ventures, sometimes coerced through requirements for market access, sometimes illicit through cyber espionage—accelerated China's industrial upgrading.
 
@@ -166,7 +169,10 @@ The Trump administration's arrival in 2017 marked a decisive shift from engageme
 
 Economic statecraft became the primary domain of competition. The Trump administration imposed sweeping tariffs on Chinese goods (eventually covering roughly $370 billion in imports), justified partly on trade grounds (reducing the bilateral deficit) but increasingly on strategic grounds (protecting American technology, reducing dependencies). China retaliated with tariffs on American agricultural products and industrial goods. The "trade war" of 2018-2019 demonstrated both sides' willingness to impose substantial economic costs in pursuit of strategic objectives.
 
-![Timeline of Economic Coercion Events](../../figures/fig_01_04_timeline.png)
+<figure>
+  <img src="../../figures/fig_01_04_timeline.png" alt="Timeline of Economic Coercion Events">
+  <figcaption>Figure 1.4: Timeline of Major Economic Coercion Events</figcaption>
+</figure>
 
 But tariffs were only the most visible component. More consequentially, the U.S. began systematically restricting Chinese access to advanced technology. The 2018 Export Control Reform Act (ECRA) and Foreign Investment Risk Review Modernization Act (FIRRMA) expanded authority to control technology exports and screen foreign investment. Commerce Department's Bureau of Industry and Security added Chinese firms to the Entity List, blocking access to American technology: Huawei and ZTE in 2018-2019, advanced semiconductor firms SMIC and YMTC in 2020-2022. The October 2022 semiconductor controls, discussed earlier, represented the culmination of this approach—comprehensive effort to prevent China from accessing chokepoint technologies for advanced computing.
 
@@ -222,7 +228,10 @@ The next sections examine how analysts can systematically assess economic coerci
 
 Having defined key concepts and examined the US-China strategic context, we now need analytical tools for systematically assessing specific instances of economic coercion. This framework, applied throughout subsequent chapters, organizes analysis across four dimensions: **domain**, **target**, **objective**, and **intensity**.
 
-![Conceptual Framework of Economic Coercion](../../figures/fig_01_01_framework.png)
+<figure>
+  <img src="../../figures/fig_01_01_framework.png" alt="Conceptual Framework of Economic Coercion">
+  <figcaption>Figure 1.1: Conceptual Framework for Analyzing Economic Coercion</figcaption>
+</figure>
 
 ### Four Dimensions of Economic Coercion
 

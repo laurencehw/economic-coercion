@@ -62,7 +62,10 @@ Rice trade, while smaller in volume than wheat or corn, exhibits similar concent
 
 Soybeans, critical for animal feed and increasingly for human consumption, come primarily from the United States (35-40% of exports), Brazil (45-50%), and Argentina (5-10%). China imports approximately 60% of globally traded soybeans, making it uniquely dependent on Western Hemisphere production. This dependence factored significantly in U.S.-China trade negotiations, with Trump administration officials recognizing that threatening soybean sales could pressure Beijing—though China's ability to source from Brazil limited U.S. leverage and ultimately Argentina and Brazilian suppliers gained market share.
 
-![Global Grain Export Concentration: Major Exporters by Commodity](../figures/fig_03_10_grain_exporters.png)
+<figure>
+  <img src="../figures/fig_03_10_grain_exporters.png" alt="Global Grain Export Concentration: Major Exporters by Commodity">
+  <figcaption>Global Grain Export Concentration: Major Exporters by Commodity</figcaption>
+</figure>
 
 This export concentration creates several vulnerabilities. First, **weather and crop failures in major exporters trigger global shortages**. Russia's 2010 drought and subsequent export ban caused wheat prices to spike 50%, contributing to the Arab Spring unrest. U.S. droughts in 2012 pushed corn prices to record highs, straining livestock producers globally and increasing food costs for consumers. As climate change increases weather variability and extreme events become more frequent, these supply shocks will likely intensify.
 
@@ -146,9 +149,10 @@ Oil trade flows reveal critical dependencies. Europe imports approximately 90% o
 
 These chokepoints create strategic leverage for countries that can threaten closure (Iran over Hormuz, Yemen/Houthis over Bab el-Mandeb) and for naval powers that can secure or blockade them (United States, potentially China or India). They also shape energy policy: Japan's almost total dependence on oil transiting Malacca drives Japanese interest in Middle Eastern stability and U.S.-Japan security cooperation. China's anxiety about "Malacca Dilemma" motivates land-based alternatives (pipelines from Russia and Central Asia), naval expansion to protect sea lanes, and strategic petroleum reserves to buffer disruptions.
 
-![Strategic Maritime Chokepoints](../figures/fig_03_04_chokepoints.png)
-
-*Figure 3.4: Critical maritime passages for global energy transit. The Strait of Hormuz handles 21 million barrels per day—closure would immediately trigger global recession. Size indicates oil transit volume; color indicates strategic importance.*
+<figure>
+  <img src="../figures/fig_03_04_chokepoints.png" alt="Strategic Maritime Chokepoints">
+  <figcaption>Figure 3.4: Critical maritime passages for global energy transit. The Strait of Hormuz handles 21 million barrels per day—closure would immediately trigger global recession. Size indicates oil transit volume; color indicates strategic importance.</figcaption>
+</figure>
 
 ### Natural Gas: The Russia-Europe Entanglement
 
@@ -172,9 +176,10 @@ This infrastructure created what economists call asymmetric interdependence and 
 
 Conventional wisdom held that mutual dependence ensured supply stability—neither side could afford disruption. This was the comfortable logic of liberal internationalism: we are all so deeply invested in each other's prosperity that war becomes irrational. Russia's 2022 invasion of Ukraine shattered this assumption, revealing that regimes may value conquest more than commerce.
 
-![Russian Energy Pipeline Infrastructure](../figures/fig_03_08_russian_pipelines.png)
-
-*Figure 3.8: Russian oil and gas pipeline networks to Europe and Asia. Green indicates operational pipelines, orange shows reduced flow, red marks damaged or closed infrastructure. Nord Stream pipelines were damaged in September 2022; Ukraine transit has been significantly reduced since the February 2022 invasion.*
+<figure>
+  <img src="../figures/fig_03_08_russian_pipelines.png" alt="Russian Energy Pipeline Infrastructure">
+  <figcaption>Figure 3.8: Russian oil and gas pipeline networks to Europe and Asia. Green indicates operational pipelines, orange shows reduced flow, red marks damaged or closed infrastructure. Nord Stream pipelines were damaged in September 2022; Ukraine transit has been significantly reduced since the February 2022 invasion.</figcaption>
+</figure>
 
 ### The 2022 European Gas Crisis: Weaponized Dependence
 
@@ -200,13 +205,15 @@ The winter of 2022-2023 was Europe's moment of maximum vulnerability. Russian ga
 
 ### Energy Transition: Trading Old Dependencies for New
 
-![Renewable Energy Manufacturing - China's Share](../figures/fig_03_06_renewable_manufacturing.png)
+<figure>
+  <img src="../figures/fig_03_06_renewable_manufacturing.png" alt="Renewable Energy Manufacturing - China's Share">
+  <figcaption>Renewable Energy Manufacturing - China's Share</figcaption>
+</figure>
 
-*Renewable Energy Manufacturing - China's Share*
-
-![Strategic Ports and Chinese Maritime Investment](../figures/fig_03_07_strategic_ports.png)
-
-*Figure 3.7: Global strategic ports by type and volume. Red circles indicate ports with significant Chinese ownership or operational control, illustrating the geographic scope of China's maritime investment strategy.*
+<figure>
+  <img src="../figures/fig_03_07_strategic_ports.png" alt="Strategic Ports and Chinese Maritime Investment">
+  <figcaption>Figure 3.7: Global strategic ports by type and volume. Red circles indicate ports with significant Chinese ownership or operational control, illustrating the geographic scope of China's maritime investment strategy.</figcaption>
+</figure>
 
 The global energy transition away from fossil fuels toward renewable energy and electrification creates new resource dependencies that may prove as consequential as oil and gas. Solar panels, wind turbines, and batteries require minerals, manufacturing, and supply chains that exhibit their own chokepoints—many concentrated in China. Escaping dependence on Middle Eastern oil risks creating dependence on Chinese critical minerals processing and clean energy manufacturing.
 
@@ -228,13 +235,15 @@ Moreover, energy transitions depend on minerals examined in Chapter 2—lithium,
 
 The energy transition thus presents difficult tradeoffs. Pursuing climate goals rapidly requires leveraging existing (Chinese-dominated) supply chains, accepting dependencies as the price of speed. Pursuing supply chain security requires building Western capacity, accepting slower transitions and higher costs. Balancing these objectives—climate urgency and security concerns—defines energy policy debates in the United States and Europe.
 
-![Energy Transition: From Oil Dependencies to Mineral Dependencies](../figures/fig_03_09_energy_sankey.png)
+<figure>
+  <img src="../figures/fig_03_09_energy_sankey.png" alt="Energy Transition: From Oil Dependencies to Mineral Dependencies">
+  <figcaption>Figure 3.9: Energy transition supply chain flows. The fossil fuel era dependencies (top) on Middle Eastern oil are being replaced by clean energy era dependencies (bottom) concentrated through Chinese mineral processing and manufacturing. The transition creates new chokepoints rather than eliminating vulnerability.</figcaption>
+</figure>
 
-*Figure 3.9: Energy transition supply chain flows. The fossil fuel era dependencies (top) on Middle Eastern oil are being replaced by clean energy era dependencies (bottom) concentrated through Chinese mineral processing and manufacturing. The transition creates new chokepoints rather than eliminating vulnerability.*
-
-![Global LNG Infrastructure](../figures/fig_03_11_lng_terminals.png)
-
-*Figure 3.10: Global LNG export and import terminal infrastructure. Qatar's dominant export capacity enables significant market leverage. European import capacity expanded rapidly after 2022 to reduce Russian gas dependence.*
+<figure>
+  <img src="../figures/fig_03_11_lng_terminals.png" alt="Global LNG Infrastructure">
+  <figcaption>Figure 3.10: Global LNG export and import terminal infrastructure. Qatar's dominant export capacity enables significant market leverage. European import capacity expanded rapidly after 2022 to reduce Russian gas dependence.</figcaption>
+</figure>
 
 ---
 
