@@ -16,8 +16,10 @@ Standards competition operates on a different timeline. When Huawei's 5G specifi
 
 We are fighting a 21st-century information war with 20th-century trade weapons. You can embargo a machine, but not an algorithm. Financial sanctions struggle against cyber operations conducted through proxies and shell companies with shifting identities. Tariffs prove irrelevant for digital services delivered through internet connections. This domain demands new tools: technical measures, regulatory approaches, standards engagement, and narrative contestation. The transformation of competition in an increasingly digital world has only begun.
 
-![Global Subsea Cable Infrastructure](../../figures/fig_03_05_subsea_cables.png)
-*Figure 5.1: Global subsea telecommunications cable infrastructure. Over 95% of intercontinental data travels via undersea cables, making landing points and cable routes critical chokepoints for global connectivity. Critical hubs (red) include major data centers and internet exchange points.*
+<figure>
+  <img src="../../figures/fig_03_05_subsea_cables.png" alt="Global subsea telecommunications cable infrastructure. Over 95% of intercontinental data travels via undersea cables, making landing points and cable routes critical chokepoints for global connectivity. Critical hubs (red) include major data centers and internet exchange points.">
+  <figcaption>Figure 5.1: Global subsea telecommunications cable infrastructure. Over 95% of intercontinental data travels via undersea cables, making landing points and cable routes critical chokepoints for global connectivity. Critical hubs (red) include major data centers and internet exchange points.</figcaption>
+</figure>
 
 {% hint style="info" %}
 **Physical Internet: The Undersea Cables Most People Forget Exist**

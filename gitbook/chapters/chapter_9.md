@@ -96,8 +96,10 @@ Despite limitations, scholarly consensus holds CoCom meaningfully degraded Sovie
 
 ### Grain Embargo (1980): Unilateral Failure
 
-![Soviet Grain Imports by Source Country (1975-1985)](../../figures/figure_9_1_soviet_grain.png)
-*Figure 9.1: Soviet Grain Imports by Source Country (1975-1985)*
+<figure>
+  <img src="../../figures/figure_9_1_soviet_grain.png" alt="Soviet Grain Imports by Source Country (1975-1985)">
+  <figcaption>Figure 9.1: Soviet Grain Imports by Source Country (1975-1985)</figcaption>
+</figure>
 
 **Background and Implementation**
 
@@ -489,8 +491,10 @@ Scholars evaluate sanctions effectiveness using multiple criteria:
 Most studies find 20-40% success rates, though this varies dramatically based on which criteria are applied and how "success" is defined.
 {% endhint %}
 
-![Sanctions Decision Framework: Assessing Effectiveness Conditions](../figures/fig_09_04_sanctions_decision_tree.png)
-*Figure 9.4: Sanctions Decision Framework - Assessing Effectiveness Conditions*
+<figure>
+  <img src="../figures/fig_09_04_sanctions_decision_tree.png" alt="Sanctions Decision Framework - Assessing Effectiveness Conditions">
+  <figcaption>Figure 9.4: Sanctions Decision Framework - Assessing Effectiveness Conditions</figcaption>
+</figure>
 
 ### When Sanctions Succeed: Necessary Conditions
 
@@ -618,8 +622,10 @@ Governments sometimes impose sanctions to appear active while avoiding difficult
 
 **Quantitative studies** (Hufbauer et al. 2007; Biersteker et al. 2016; Pape 1997; Drezner 1999) estimate sanctions success rates at 20-40%, depending on success definition and case selection.
 
-![Sanctions Success Rates by Objective and Era](../../figures/fig_09_03_sanctions_success.png)
-*Figure 9.3: Sanctions Success Rates by Objective and Era*
+<figure>
+  <img src="../../figures/fig_09_03_sanctions_success.png" alt="Sanctions Success Rates by Objective and Era">
+  <figcaption>Figure 9.3: Sanctions Success Rates by Objective and Era</figcaption>
+</figure>
 
 **Measurement challenges**:
 
@@ -633,8 +639,10 @@ Governments sometimes impose sanctions to appear active while avoiding difficult
 
 **Success definition ambiguity**: Different analysts define "success" differently: target full compliance, partial concessions, cost imposition, signaling resolve. Studies using different definitions produce different success rates.
 
-![Historical Sanctions Outcomes: Cost vs. Effectiveness Across Cases](../figures/fig_09_05_historical_outcomes.png)
-*Figure 9.5: Historical Sanctions Outcomes - Cost vs. Effectiveness Across Cases*
+<figure>
+  <img src="../figures/fig_09_05_historical_outcomes.png" alt="Historical Sanctions Outcomes - Cost vs. Effectiveness Across Cases">
+  <figcaption>Figure 9.5: Historical Sanctions Outcomes - Cost vs. Effectiveness Across Cases</figcaption>
+</figure>
 
 ### Lessons for Contemporary Policy
 

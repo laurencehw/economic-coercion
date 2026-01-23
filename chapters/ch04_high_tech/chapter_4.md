@@ -187,7 +187,10 @@ The Commerce Department's October 2023 update closed these loopholes, revising s
 
 ### AI Research Leadership: Publications, Patents, and Talent
 
-![AI Research Output and Impact by Country](../../figures/fig_04_02_ai_development.png)
+<figure>
+  <img src="../../figures/fig_04_02_ai_development.png" alt="AI research output and impact by country, showing publications, citations, and talent distribution.">
+  <figcaption>Figure 4.2: AI research output and impact by country, showing publications, citations, and talent distribution.</figcaption>
+</figure>
 
 AI competition extends beyond chips to research capabilities: which countries publish cutting-edge research, file foundational patents, attract and develop top talent, and translate research into commercial products and military applications. Metrics reveal complex dynamics where the United States and China lead in different dimensions while Europe falls behind.
 
@@ -312,7 +315,10 @@ Biotechnology represents perhaps the most consequential and least-governed domai
 
 Research and development investment determines long-term technological leadership, yet measuring and comparing R&D spending across countries involves definitional challenges, data quality concerns, and questions about efficiency versus quantity. Nevertheless, broad patterns reveal intensifying competition where Chinese R&D investment rivals or exceeds American levels while questions persist about which system generates more innovation per dollar invested.
 
-![R&D Spending by Country (1990-2024)](../../figures/fig_04_01_rd_spending.png)
+<figure>
+  <img src="../../figures/fig_04_01_rd_spending.png" alt="R&D spending by country from 1990-2024, showing the dramatic rise of Chinese investment.">
+  <figcaption>Figure 4.1: R&D spending by country from 1990-2024, showing the dramatic rise of Chinese investment.</figcaption>
+</figure>
 
 **Global R&D trends** show dramatic growth and shifting geographic distribution. World Bank and OECD data indicate global R&D spending reached approximately $2.5 trillion annually (roughly 2.5% of global GDP), with growth concentrated in Asia. The United States remains the largest single-country investor at $700-750 billion annually (roughly 3.5% of U.S. GDP), but China has closed gaps dramatically: from less than 10% of U.S. R&D spending in 2000 to 85-90% by 2020, with estimates suggesting Chinese R&D spending may have surpassed American levels by 2023 in purchasing power parity terms. European Union collectively spends comparable amounts to the United States ($400-450 billion), but fragmentation across 27 member states reduces coordination and scale. Japan, South Korea, Taiwan, and other advanced economies maintain high R&D intensity (3-4% of GDP) but represent smaller absolute totals.
 

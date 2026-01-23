@@ -64,7 +64,10 @@ Understanding these dynamics is essential for policymakers balancing economic ef
 The BRI represents China's flagship foreign economic strategy, investing over $1 trillion in infrastructure across 140+ countries since 2013. From Beijing's perspective, BRI serves multiple objectives: securing resource supply chains, expanding export markets for Chinese construction capacity, promoting RMB internationalization, and building diplomatic relationships through development finance. Critics view BRI as "debt trap diplomacy" creating dependencies on Chinese lending, but Chinese officials counter that BRI provides infrastructure investment that Western institutions have failed to deliver.
 {% endhint %}
 
-![Figure 8.1: Key Belt and Road Initiative infrastructure investments. Port investments (blue) extend Chinese maritime presence; rail projects (red) create overland connectivity; corridor investments (orange) integrate regional economies. Size indicates investment scale in USD billions.](../../figures/fig_08_01_bri_infrastructure.png)
+<figure>
+  <img src="../../figures/fig_08_01_bri_infrastructure.png" alt="Key Belt and Road Initiative infrastructure investments. Port investments (blue) extend Chinese maritime presence; rail projects (red) create overland connectivity; corridor investments (orange) integrate regional economies. Size indicates investment scale in USD billions.">
+  <figcaption>Figure 8.1: Key Belt and Road Initiative infrastructure investments. Port investments (blue) extend Chinese maritime presence; rail projects (red) create overland connectivity; corridor investments (orange) integrate regional economies. Size indicates investment scale in USD billions.</figcaption>
+</figure>
 
 ---
 
@@ -167,8 +170,10 @@ FIRRMA authorized increased CFIUS staffing and funding (from ~20 full-time emplo
 
 ### Impact on Chinese Investment: Near-Total Collapse
 
-![Chinese FDI in U.S. and Europe (2008-2024)](../../figures/fig_08_02_chinese_fdi.png)
-*Figure 8.2: Chinese FDI in U.S. and Europe (2008-2024)*
+<figure>
+  <img src="../../figures/fig_08_02_chinese_fdi.png" alt="Chinese FDI in U.S. and Europe (2008-2024)">
+  <figcaption>Figure 8.2: Chinese FDI in U.S. and Europe (2008-2024)</figcaption>
+</figure>
 
 FIRRMA's impact on Chinese investment was immediate and severe. Chinese direct investment in the United States:
 
@@ -192,8 +197,10 @@ This represents a **95% decline from peak**, with 2024 investment returning to l
 
 **CFIUS Statistics Reflecting Increased Scrutiny**
 
-![CFIUS Reviews and Outcomes (2010-2024)](../figures/fig_08_04_cfius_reviews.png)
-*Figure 8.4: CFIUS reviews and outcomes over time. The post-FIRRMA era shows increased scrutiny with more investigations, withdrawals, and mitigation agreements, particularly for Chinese transactions.*
+<figure>
+  <img src="../figures/fig_08_04_cfius_reviews.png" alt="CFIUS reviews and outcomes over time. The post-FIRRMA era shows increased scrutiny with more investigations, withdrawals, and mitigation agreements, particularly for Chinese transactions.">
+  <figcaption>Figure 8.4: CFIUS reviews and outcomes over time. The post-FIRRMA era shows increased scrutiny with more investigations, withdrawals, and mitigation agreements, particularly for Chinese transactions.</figcaption>
+</figure>
 
 CFIUS annual reports document transformed review patterns:
 
@@ -469,8 +476,10 @@ China's National Integrated Circuit Industry Investment Fund (the "Big Fund") ex
 
 ### Comparing Approaches: Market-Driven vs. State-Directed
 
-![Industrial Policy Spending: U.S. vs China](../../figures/figure_8_3_industrial_policy.png)
-*Figure 8.3: Industrial Policy Spending: U.S. vs China*
+<figure>
+  <img src="../../figures/figure_8_3_industrial_policy.png" alt="Industrial Policy Spending: U.S. vs China">
+  <figcaption>Figure 8.3: Industrial Policy Spending: U.S. vs China</figcaption>
+</figure>
 
 **U.S. Model: Strategic Industrial Policy within Market Framework**
 
@@ -502,8 +511,10 @@ China's National Integrated Circuit Industry Investment Fund (the "Big Fund") ex
 
 **Which approach will succeed?** Uncertain and likely sector-dependent. Semiconductors favor scale, capital intensity, and sustained investment (potentially China advantage). Biotechnology and AI favor entrepreneurial innovation and talent mobility (potentially U.S. advantage). Both countries face obstacles: U.S. must overcome short-term political pressures and cost disadvantages; China must address efficiency and innovation limitations. The competition will unfold over decades, not years.
 
-![Industrial Policy Comparison: U.S. and China Approaches](../figures/fig_08_06_industrial_policy_compare.png)
-*Figure 8.6: Industrial Policy Comparison: U.S. and China Approaches*
+<figure>
+  <img src="../figures/fig_08_06_industrial_policy_compare.png" alt="Industrial Policy Comparison: U.S. and China Approaches">
+  <figcaption>Figure 8.6: Industrial Policy Comparison: U.S. and China Approaches</figcaption>
+</figure>
 
 ---
 
@@ -545,8 +556,10 @@ Chinese SOEs operate under dual mandate:
 - Advancing technology self-reliance
 - Executing economic coercion when directed
 
-![Belt and Road Initiative: Debt Exposure by Region](../figures/fig_08_07_bri_debt.png)
-*Figure 8.7: Belt and Road Initiative: Debt Exposure by Region*
+<figure>
+  <img src="../figures/fig_08_07_bri_debt.png" alt="Belt and Road Initiative: Debt Exposure by Region">
+  <figcaption>Figure 8.7: Belt and Road Initiative: Debt Exposure by Region</figcaption>
+</figure>
 
 The tension between commercial and political objectives creates complexity: SOEs must generate profits to avoid becoming fiscal drains while simultaneously pursuing strategic goals that may not maximize returns.
 
@@ -677,8 +690,10 @@ Beginning May 2020, China imposed de facto restrictions on multiple Australian e
 
 ### Australian Responses and Economic Impact
 
-![Australia-China Trade Restrictions Impact](../figures/fig_08_05_australia_china.png)
-*Figure 8.5: Australian exports to China during the 2020-2022 trade restrictions. Wine and barley were severely affected (over 95% decline), while iron ore remained untouched due to China's dependence on Australian supply. Restrictions began easing in 2023.*
+<figure>
+  <img src="../figures/fig_08_05_australia_china.png" alt="Australian exports to China during the 2020-2022 trade restrictions. Wine and barley were severely affected (over 95% decline), while iron ore remained untouched due to China's dependence on Australian supply. Restrictions began easing in 2023.">
+  <figcaption>Figure 8.5: Australian exports to China during the 2020-2022 trade restrictions. Wine and barley were severely affected (over 95% decline), while iron ore remained untouched due to China's dependence on Australian supply. Restrictions began easing in 2023.</figcaption>
+</figure>
 
 **Economic Costs**
 
