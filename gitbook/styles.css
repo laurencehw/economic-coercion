@@ -44,13 +44,13 @@
 }
 
 /* ==========================================================================
-   Full-width Figures with Enhanced Display
+   Figures - GitBook Optimized Display
    ========================================================================== */
 
 figure {
   width: 100%;
-  max-width: 100%;
-  margin: 2.5em 0;
+  max-width: 800px;
+  margin: 2.5em auto;
   padding: 0;
   text-align: center;
 }
@@ -78,15 +78,30 @@ figure figcaption {
   font-style: italic;
   text-align: center;
   line-height: 1.5;
-  padding: 0 2em;
+  padding: 0 1em;
   font-weight: 500;
 }
 
-/* Ensure images in markdown also display full width */
+/* Figure size variants for different chart types */
+figure.figure-wide {
+  max-width: 900px;
+}
+
+figure.figure-medium {
+  max-width: 700px;
+}
+
+figure.figure-narrow {
+  max-width: 550px;
+}
+
+/* Markdown images - constrained width for better readability */
 .markdown-section img {
-  max-width: 100%;
+  max-width: 800px;
   width: 100%;
   height: auto;
+  display: block;
+  margin: 1.5em auto;
   border-radius: 6px;
   box-shadow: var(--shadow-light);
 }
