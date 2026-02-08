@@ -22,21 +22,19 @@ This textbook is written for multiple audiences:
 
 ## Organization and Structure
 
-The book is organized into ten chapters that build progressively from foundational concepts to contemporary applications and future scenarios:
+The book is organized into ten chapters that build progressively from foundational concepts to contemporary applications and future scenarios, structured in five parts:
 
-**Part I: Foundations and Domains (Chapters 1-5)**
+**Part I: Foundations and Context (Chapters 1-2)** establishes conceptual foundations and examines the structural basis of economic coercion. Chapter 1 introduces the analytical framework that guides the entire book, defining economic coercion and examining it across four key dimensions: instruments and tools, objectives and goals, target characteristics, and effectiveness factors. Chapter 2 examines supply chain vulnerabilities and dependencies—the physical infrastructure of weaponized interdependence.
 
-Chapter 1 introduces the analytical framework that guides the entire book, defining economic coercion and examining it across four key dimensions: instruments and tools, objectives and goals, target characteristics, and effectiveness factors. This framework provides a systematic way to analyze any case of economic coercion.
+**Part II: Domains of Economic Statecraft (Chapters 3-5)** analyzes the primary domains in which states exercise economic coercion. Chapter 3 focuses on critical sectors and strategic resources—energy, minerals, food, and materials. Chapter 4 addresses technology and innovation competition—the most consequential domain of contemporary US-China rivalry. Chapter 5 examines information, standards, and digital infrastructure.
 
-Chapters 2-5 examine critical domains where economic coercion operates: global supply chains (semiconductors, critical minerals, rare earths), critical sectors (energy, food, infrastructure chokepoints), high-technology competition (AI, quantum computing, biotechnology), and the information and digital sphere (telecommunications networks, data governance, standards-setting).
+**Part III: Tools and Mechanisms (Chapters 6-7)** provides practitioner-focused analysis of specific instruments governments use. Chapter 6 covers trade controls including tariffs, quotas, and export controls. Chapter 7 addresses financial statecraft: sanctions, asset freezes, exclusion from payment systems, and central bank measures.
 
-**Part II: Tools and Instruments (Chapters 6-8)**
+**Part IV: Strategic Implications (Chapters 8-9)** examines broader consequences of economic coercion for international order and strategic stability. Chapter 8 explores investment screening, industrial policy, and state-directed economic development as both defensive and offensive tools. Chapter 9 examines historical cases of economic coercion to extract lessons about what works, what doesn't, and why.
 
-These chapters examine the specific tools governments use to exercise economic coercion. Chapter 6 covers trade controls including tariffs, quotas, and export controls. Chapter 7 addresses financial statecraft: sanctions, asset freezes, exclusion from payment systems, and central bank measures. Chapter 8 explores investment screening, industrial policy, and state-directed economic development as both defensive and offensive tools.
+**Part V: Looking Forward (Chapter 10)** synthesizes insights and examines future trajectories, considering how emerging technologies, climate change, and shifting power dynamics will shape the future of economic coercion and geoeconomic competition.
 
-**Part III: Learning and Looking Forward (Chapters 9-10)**
-
-Chapter 9 examines historical cases of economic coercion to extract lessons about what works, what doesn't, and why. Cases range from Cold War-era grain embargoes to contemporary sanctions on Iran, North Korea, and Russia. Chapter 10 looks forward, considering how emerging technologies, climate change, and shifting power dynamics will shape the future of economic coercion and geoeconomic competition.
+**Appendix A: Tabletop Exercises** collects ten scenario-based simulation exercises (one per chapter) in a standalone appendix, providing 60-90 minute active learning experiences that can be used flexibly alongside any chapter.
 
 ## How to Use This Book
 
@@ -60,7 +58,7 @@ Each chapter's "Key Insights" section summarizes main takeaways. Data sources an
 
 ## A Note on Data, Visualizations, and Currency
 
-This book includes 70+ original data visualizations covering trade flows, technology competition metrics, sanctions effectiveness, supply chain dependencies, and future scenarios. All visualizations are created from publicly available data sources, which are documented in each chapter's "Data Sources" section and in the companion data repository.
+This book includes nearly 60 original data visualizations covering trade flows, technology competition metrics, sanctions effectiveness, supply chain dependencies, and future scenarios. All visualizations are created from publicly available data sources, which are documented in each chapter's "Data Sources" section and in the companion data repository.
 
 Given the rapidly evolving nature of economic coercion and geoeconomic competition, some statistics and policy details will inevitably become dated. We have made every effort to use data current through late 2024 and have designed the analytical framework to remain relevant even as specific policies and numbers change.
 

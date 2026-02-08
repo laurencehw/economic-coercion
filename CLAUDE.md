@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project Overview
 
-Academic textbook on economic coercion and strategic competition, primarily focused on US-China relations. 10 chapters with data visualizations and tabletop exercises. Author: Laurence Wilse-Samson (NYU Wagner).
+Academic textbook on economic coercion and strategic competition, primarily focused on US-China relations. 10 chapters with data visualizations and tabletop exercises. Author: Laurence Wilse-Samson (Columbia SIPA).
 
 ## Build Commands
 
@@ -26,7 +26,8 @@ R/figures/             R scripts for visualizations
 R/setup_theme.R        Shared ggplot2 theme
 figures/               Output figures (PNG + PDF)
 data/                  Datasets and sources
-exercises/ch0X/        Tabletop exercises by chapter
+appendices/            Appendix A (tabletop exercises)
+exercises/ch0X/        Original exercise files by chapter
 front_matter/          Preface, bibliography, glossary
 templates/             Chapter and content templates
 ```
