@@ -24,9 +24,9 @@ Financial sanctions' effectiveness derives from the U.S. dollar's dominant posit
 
 ### The Dollar's Privileged Position
 
-<figure style="width: 100%; margin: 2em 0; text-align: center;">
-  <img src="../../figures/fig_07_03_treasury_holdings.png" alt="Foreign holdings of U.S. Treasury securities by country, showing the scale of dollar-denominated asset accumulation." style="width: 100%; max-width: 100%; height: auto; display: block; margin: 0 auto;">
-  <figcaption style="margin-top: 1em; font-style: italic; color: #666;">Figure 7.3: Foreign holdings of U.S. Treasury securities by country, showing the scale of dollar-denominated asset accumulation.</figcaption>
+<figure class="book-figure">
+  <img src="../../figures/fig_07_03_treasury_holdings.png" alt="Foreign holdings of U.S. Treasury securities by country, showing the scale of dollar-denominated asset accumulation.">
+  <figcaption>Figure 7.3: Foreign holdings of U.S. Treasury securities by country, showing the scale of dollar-denominated asset accumulation.</figcaption>
 </figure>
 
 **Reserve Currency Status**
@@ -82,9 +82,9 @@ Approximately $13 trillion in non-U.S. dollar-denominated debt exists (2024)—d
 
 **Society for Worldwide Interbank Financial Telecommunication (SWIFT)**
 
-<figure style="width: 100%; margin: 2em 0; text-align: center;">
-  <img src="../../figures/fig_07_01_swift_currencies.png" alt="Currency share of global payments via SWIFT, demonstrating dollar and euro dominance in international transactions." style="width: 100%; max-width: 100%; height: auto; display: block; margin: 0 auto;">
-  <figcaption style="margin-top: 1em; font-style: italic; color: #666;">Figure 7.1: Currency share of global payments via SWIFT, demonstrating dollar and euro dominance in international transactions.</figcaption>
+<figure class="book-figure">
+  <img src="../../figures/fig_07_01_swift_currencies.png" alt="Currency share of global payments via SWIFT, demonstrating dollar and euro dominance in international transactions.">
+  <figcaption>Figure 7.1: Currency share of global payments via SWIFT, demonstrating dollar and euro dominance in international transactions.</figcaption>
 </figure>
 
 SWIFT is not a payment system but a secure messaging network transmitting payment instructions between 11,000+ financial institutions in 200+ countries. Key characteristics:
@@ -272,9 +272,9 @@ When UN Security Council adopts sanctions resolutions (e.g., North Korea, Iran h
 
 ### Types of Sanctions Programs
 
-<figure style="width: 100%; margin: 2em 0; text-align: center;">
-  <img src="../../figures/fig_07_02_sanctions_programs.png" alt="Active U.S. sanctions programs by type, showing the growth of comprehensive and targeted sanctions over time." style="width: 100%; max-width: 100%; height: auto; display: block; margin: 0 auto;">
-  <figcaption style="margin-top: 1em; font-style: italic; color: #666;">Figure 7.2: Active U.S. sanctions programs by type, showing the growth of comprehensive and targeted sanctions over time.</figcaption>
+<figure class="book-figure">
+  <img src="../../figures/fig_07_02_sanctions_programs.png" alt="Active U.S. sanctions programs by type, showing the growth of comprehensive and targeted sanctions over time.">
+  <figcaption>Figure 7.2: Active U.S. sanctions programs by type, showing the growth of comprehensive and targeted sanctions over time.</figcaption>
 </figure>
 
 OFAC administers multiple sanctions program types:
@@ -652,9 +652,9 @@ Aggressive U.S. use of financial sanctions—particularly freezing Russia's cent
 
 **Sanctions Vulnerability**
 
-<figure style="width: 100%; margin: 2em 0; text-align: center;">
-  <img src="../../figures/fig_07_04_russian_frozen_assets.png" alt="Russian central bank assets frozen in 2022, showing the geographic distribution of $300+ billion in immobilized reserves." style="width: 100%; max-width: 100%; height: auto; display: block; margin: 0 auto;">
-  <figcaption style="margin-top: 1em; font-style: italic; color: #666;">Figure 7.4: Russian central bank assets frozen in 2022, showing the geographic distribution of $300+ billion in immobilized reserves.</figcaption>
+<figure class="book-figure">
+  <img src="../../figures/fig_07_04_russian_frozen_assets.png" alt="Russian central bank assets frozen in 2022, showing the geographic distribution of $300+ billion in immobilized reserves.">
+  <figcaption>Figure 7.4: Russian central bank assets frozen in 2022, showing the geographic distribution of $300+ billion in immobilized reserves.</figcaption>
 </figure>
 
 States facing sanctions or anticipating future sanctions seek alternatives to dollar-denominated transactions and U.S.-connected financial infrastructure:
@@ -1124,5 +1124,27 @@ Chinese perspectives reflect different historical experiences, political system,
 ---
 
 > **Tabletop Exercise:** The tabletop exercise for this chapter — *Designing a Comprehensive Financial Sanctions Regime* — can be found in **Appendix A: Tabletop Exercises**.
+
+---
+
+## References and Further Reading
+
+Drezner, Daniel W. "Sanctions Sometimes Smart: Targeted Sanctions in Theory and Practice." *International Studies Review* 13, no. 1 (2011): 96-108.
+
+Farrell, Henry, and Abraham L. Newman. "Weaponized Interdependence: How Global Economic Networks Shape State Coercion." *International Security* 44, no. 1 (2019): 42-79.
+
+Gelpern, Anna. "Money and Power in the World Economy." *Virginia Journal of International Law* 63, no. 1 (2022): 1-82.
+
+Gopinath, Gita, et al. "Dominant Currency Paradigm." *American Economic Review* 110, no. 3 (2020): 677-719.
+
+Mulder, Nicholas. *The Economic Weapon: The Rise of Sanctions as a Tool of Modern War*. Yale University Press, 2022.
+
+Nephew, Richard. *The Art of Sanctions: A View from the Field*. Columbia University Press, 2017.
+
+Zarate, Juan C. *Treasury's War: The Unleashing of a New Era of Financial Warfare*. Public Affairs, 2013.
+
+U.S. Department of the Treasury. "Sanctions Review." October 2021.
+
+OFAC Sanctions Programs: https://home.treasury.gov/policy-issues/financial-sanctions
 
 

@@ -82,8 +82,44 @@ figure figcaption {
   font-weight: 500;
 }
 
-/* Ensure images in markdown also display full width */
-.markdown-section img {
+/* Book figure class for consistent figure styling */
+.book-figure {
+  width: 100%;
+  max-width: 100%;
+  margin: 2em 0;
+  padding: 0;
+  text-align: center;
+}
+
+.book-figure img {
+  width: 100%;
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+  border-radius: 6px;
+  box-shadow: var(--shadow-medium);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.book-figure img:hover {
+  transform: scale(1.01);
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.2);
+}
+
+.book-figure figcaption {
+  margin-top: 1em;
+  font-size: 0.95em;
+  color: var(--text-muted);
+  font-style: italic;
+  text-align: center;
+  line-height: 1.5;
+  padding: 0 2em;
+  font-weight: 500;
+}
+
+/* Ensure standalone markdown images also display full width */
+.markdown-section p > img {
   max-width: 100%;
   width: 100%;
   height: auto;

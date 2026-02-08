@@ -26,9 +26,9 @@ The U.S. dollar's role as global reserve currency and dominant medium of exchang
 
 ### Dollar Privilege and Its Vulnerabilities
 
-<figure style="width: 100%; margin: 2em 0; text-align: center;">
-  <img src="../../figures/fig_10_01_dollar_reserves.png" alt="Projected dollar share of global reserves under different scenarios from 2024-2050." style="width: 100%; max-width: 100%; height: auto; display: block; margin: 0 auto;">
-  <figcaption style="margin-top: 1em; font-style: italic; color: #666;">Figure 10.1: Projected dollar share of global reserves under different scenarios from 2024-2050.</figcaption>
+<figure class="book-figure">
+  <img src="../../figures/fig_10_01_dollar_reserves.png" alt="Projected dollar share of global reserves under different scenarios from 2024-2050.">
+  <figcaption>Figure 10.1: Projected dollar share of global reserves under different scenarios from 2024-2050.</figcaption>
 </figure>
 
 **Current Dollar Dominance**
@@ -273,9 +273,9 @@ Economic coercion tools must adapt to control these technologies' strategic diff
 
 ### Artificial Intelligence: The Defining Technology Competition
 
-<figure style="width: 100%; margin: 2em 0; text-align: center;">
-  <img src="../../figures/fig_10_03_ai_indicators.png" alt="AI development indicators comparing U.S. and China across research, talent, compute, and applications." style="width: 100%; max-width: 100%; height: auto; display: block; margin: 0 auto;">
-  <figcaption style="margin-top: 1em; font-style: italic; color: #666;">Figure 10.3: AI development indicators comparing U.S. and China across research, talent, compute, and applications.</figcaption>
+<figure class="book-figure">
+  <img src="../../figures/fig_10_03_ai_indicators.png" alt="AI development indicators comparing U.S. and China across research, talent, compute, and applications.">
+  <figcaption>Figure 10.3: AI development indicators comparing U.S. and China across research, talent, compute, and applications.</figcaption>
 </figure>
 
 **AI Strategic Significance**

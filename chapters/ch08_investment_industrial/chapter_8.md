@@ -18,9 +18,9 @@ Government Tools Boxes detail CFIUS procedures, FIRRMA expansion, and industrial
 
 These themes reveal economic statecraft's evolution beyond traditional trade and financial tools. Capital flows, industrial capabilities, and even market access have become contested domains—with implications extending well beyond bilateral U.S.-China competition to allied policy coordination, development finance, and the future shape of globalization.
 
-<figure style="width: 100%; margin: 2em 0; text-align: center;">
-  <img src="../../figures/fig_08_01_bri_infrastructure.png" alt="Key Belt and Road Initiative infrastructure investments. Port investments (blue) extend Chinese maritime presence; rail projects (red) create overland connectivity; corridor investments (orange) integrate regional economies. Size indicates investment scale in USD billions." style="width: 100%; max-width: 100%; height: auto; display: block; margin: 0 auto;">
-  <figcaption style="margin-top: 1em; font-style: italic; color: #666;">Figure 8.1: Key Belt and Road Initiative infrastructure investments. Port investments (blue) extend Chinese maritime presence; rail projects (red) create overland connectivity; corridor investments (orange) integrate regional economies. Size indicates investment scale in USD billions.</figcaption>
+<figure class="book-figure">
+  <img src="../../figures/fig_08_01_bri_infrastructure.png" alt="Key Belt and Road Initiative infrastructure investments. Port investments (blue) extend Chinese maritime presence; rail projects (red) create overland connectivity; corridor investments (orange) integrate regional economies. Size indicates investment scale in USD billions.">
+  <figcaption>Figure 8.1: Key Belt and Road Initiative infrastructure investments. Port investments (blue) extend Chinese maritime presence; rail projects (red) create overland connectivity; corridor investments (orange) integrate regional economies. Size indicates investment scale in USD billions.</figcaption>
 </figure>
 
 ---
@@ -123,9 +123,9 @@ FIRRMA authorized increased CFIUS staffing and funding (from ~20 full-time emplo
 
 ### Impact on Chinese Investment: Near-Total Collapse
 
-<figure style="width: 100%; margin: 2em 0; text-align: center;">
-  <img src="../../figures/fig_08_02_chinese_fdi.png" alt="Chinese foreign direct investment in U.S. and Europe from 2008-2024, showing the dramatic collapse after FIRRMA." style="width: 100%; max-width: 100%; height: auto; display: block; margin: 0 auto;">
-  <figcaption style="margin-top: 1em; font-style: italic; color: #666;">Figure 8.2: Chinese foreign direct investment in U.S. and Europe from 2008-2024, showing the dramatic collapse after FIRRMA.</figcaption>
+<figure class="book-figure">
+  <img src="../../figures/fig_08_02_chinese_fdi.png" alt="Chinese foreign direct investment in U.S. and Europe from 2008-2024, showing the dramatic collapse after FIRRMA.">
+  <figcaption>Figure 8.2: Chinese foreign direct investment in U.S. and Europe from 2008-2024, showing the dramatic collapse after FIRRMA.</figcaption>
 </figure>
 
 FIRRMA's impact on Chinese investment was immediate and severe. Chinese direct investment in the United States:
@@ -387,9 +387,9 @@ The **results** of these investments have been mixed. The Chinese semiconductor 
 
 ### Comparing Approaches: Market-Driven vs. State-Directed
 
-<figure style="width: 100%; margin: 2em 0; text-align: center;">
-  <img src="../../figures/fig_08_03_industrial_policy.png" alt="Industrial policy spending comparison between the U.S. and China across key technology sectors." style="width: 100%; max-width: 100%; height: auto; display: block; margin: 0 auto;">
-  <figcaption style="margin-top: 1em; font-style: italic; color: #666;">Figure 8.3: Industrial policy spending comparison between the U.S. and China across key technology sectors.</figcaption>
+<figure class="book-figure">
+  <img src="../../figures/fig_08_03_industrial_policy.png" alt="Industrial policy spending comparison between the U.S. and China across key technology sectors.">
+  <figcaption>Figure 8.3: Industrial policy spending comparison between the U.S. and China across key technology sectors.</figcaption>
 </figure>
 
 **U.S. Model: Strategic Industrial Policy within Market Framework**
