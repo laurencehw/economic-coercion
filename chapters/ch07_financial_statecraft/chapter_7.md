@@ -4,7 +4,7 @@
 
 On February 26, 2022, four days after Russia's full-scale invasion of Ukraine, the United States, European Union, United Kingdom, and Canada announced unprecedented financial sanctions: freezing Russian Central Bank reserves held in Western financial institutions (an estimated $300+ billion) (U.S. Treasury 2022), removing major Russian banks from the SWIFT international payments messaging system, and imposing comprehensive restrictions on transactions with Russian entities. Within days, the ruble collapsed 30%, Russian stock markets plunged, and Western firms scrambled to unwind Russian exposure. The speed and severity shocked observers—one former Russian finance minister called it "financial nuclear war." He was not exaggerating by much. Yet this extraordinary action represented the culmination of decades building U.S.-centered financial architecture enabling what Treasury officials call "economic warfare." Washington had spent generations wiring the global financial system; now it was using those wires to electrocute an adversary.
 
-Financial sanctions do not destroy factories or blockade ports. They work in the abstract realm of money, payments, and capital—digits on screens, messages blocked from transmission, accounts frozen in an instant. Yet their impacts can be more devastating than bombs. A firm denied dollar-denominated payments faces existential crisis overnight. A state cut off from global banking confronts economic strangulation without a shot fired. Three arguments anchor the analysis that follows:
+Financial sanctions do not destroy factories or blockade ports. They work in the abstract realm of money, payments, and capital—digits on screens, messages blocked from transmission, accounts frozen in an instant. Yet their impacts can be more devastating than bombs. A firm denied dollar-denominated payments faces existential crisis overnight. A state cut off from global banking confronts economic strangulation without a shot fired. Understanding how this power works—and how it might unravel—requires grappling with three dynamics:
 
 **First, U.S. financial power rests on structural advantages in the international monetary system, not simply economic size.** The dollar's role as dominant reserve currency (58% of global foreign exchange reserves), invoicing currency (42% of SWIFT payments), and safe haven asset creates network effects (IMF 2024) and path dependencies that competitors cannot easily replicate. Control of financial infrastructure—SWIFT, Euroclear, correspondent banking—amplifies this power. Understanding these structural foundations illuminates both sanctions' effectiveness and vulnerabilities.
 
@@ -12,17 +12,7 @@ Financial sanctions do not destroy factories or blockade ports. They work in the
 
 **Third, aggressive use of financial sanctions generates counter-balancing efforts that may erode long-term U.S. advantages.** China's Cross-Border Interbank Payment System (CIPS), BRICS discussions of alternative currency arrangements, Russia-China bilateral settlement in national currencies, and central bank digital currency experiments all aim to reduce dollar dependence and create sanction-resistant alternatives. Whether these efforts succeed depends on network effects, trust, and the fundamental attributes making currencies attractive—questions we explore throughout.
 
-The chapter proceeds in four sections. Section 1 examines **dollar privilege and financial infrastructure**, mapping how U.S. currency dominance and control of payment systems enable coercion. Section 2 analyzes the **Office of Foreign Assets Control (OFAC) sanctions architecture**, detailing legal authorities, targeting mechanisms, and administrative processes. Section 3 explores **secondary sanctions and extraterritoriality**, examining how U.S. sanctions reach beyond its borders to coerce third parties. Section 4 assesses **de-dollarization efforts and alternatives**, evaluating whether challengers can build viable substitutes.
-
-Throughout, we apply the four-dimension framework to understand how financial sanctions operate across domains, targets, objectives, and intensities. We examine Chinese and Russian perspectives on dollar weaponization and financial sovereignty, illustrating strategic empathy for targets' responses. Government Tools Boxes detail IEEPA (International Emergency Economic Powers Act) and OFAC's Specially Designated Nationals (SDN) List mechanics. Case studies analyze comprehensive sanctions on Iran's nuclear program (2012-2015) and Russia post-2022 invasion, assessing effectiveness across our five criteria.
-
-By chapter's end, readers will understand:
-- How dollar dominance and payment system control enable financial coercion
-- The legal architecture and institutional actors implementing U.S. sanctions
-- Mechanisms of primary, secondary, and sectoral sanctions
-- Economic and strategic impacts of comprehensive financial restrictions
-- Prospects for de-dollarization and alternative financial systems
-- Chinese and Russian perspectives on financial sovereignty and counter-strategies
+The analysis traces dollar privilege and financial infrastructure, OFAC's sanctions architecture, secondary sanctions and extraterritorial reach, and de-dollarization efforts. Government Tools Boxes detail IEEPA authorities and the SDN List. Case studies examine comprehensive sanctions on Iran (2012-2015) and Russia (post-2022), with Chinese and Russian perspectives on financial sovereignty integrated throughout.
 
 Financial sanctions represent perhaps the most powerful economic coercion tool available to the United States—but also the most likely to destroy itself through overuse. Every time Washington weaponizes the dollar, it reminds the world why depending on the dollar is dangerous. Balancing near-term effectiveness against long-term system preservation constitutes the central challenge for U.S. policymakers. Use sanctions too sparingly, and adversaries act with impunity. Use them too aggressively, and the dollar's dominance erodes. There is no comfortable middle ground.
 
@@ -331,23 +321,9 @@ Secondary sanctions extend U.S. reach globally, forcing third parties to choose 
 
 **SDN Designations**
 
-OFAC adds individuals and entities to SDN List through administrative process:
+OFAC adds individuals and entities to the SDN List through a multi-stage administrative process. The process begins with intelligence gathering, in which agencies such as the CIA, NSA, FBI, DHS, State Department, and Commerce Department identify targets that meet sanctions criteria. These agencies then coordinate through a Treasury-chaired interagency review, with input from the Departments of State, Justice, Commerce, and others. OFAC, with the approval of the Treasury Secretary or a designated delegate, makes the final designation decision. Once a determination is reached, OFAC publicly lists the designation on the SDN List along with identifying information, including names, aliases, addresses, dates of birth, passport numbers, and vessel or aircraft identifiers. Upon publication, U.S. financial institutions holding the designated party's assets must immediately freeze those assets and report them to OFAC. All U.S. persons are then prohibited from engaging in transactions with the designated party, and foreign financial institutions risk secondary sanctions exposure if the designated individual or entity is subject to a secondary sanctions program.
 
-1. **Intelligence gathering**: Agencies (CIA, NSA, FBI, DHS, State, Commerce) identify targets meeting sanctions criteria
-2. **Interagency review**: Agencies coordinate through Treasury-chaired process; State, Justice, Commerce, others provide input
-3. **Treasury determination**: OFAC, with approval from Treasury Secretary (or delegate), makes final designation decision
-4. **Public listing**: OFAC publishes designation on SDN List with identifying information (name, aliases, addresses, dates of birth, passport numbers, vessel/aircraft identifiers)
-5. **Asset freeze**: U.S. financial institutions holding designated party's assets must freeze and report to OFAC
-6. **Transaction prohibition**: U.S. persons prohibited from transactions; foreign financial institutions risk secondary sanctions if designated individual/entity is subject to secondary sanctions
-
-**Designation criteria** vary by program but generally include:
-- **Terrorism**: Providing material support to Foreign Terrorist Organizations (FTOs) or Specially Designated Global Terrorists (SDGTs)
-- **Proliferation**: Contributing to weapons of mass destruction programs (North Korea, Iran)
-- **Narcotics trafficking**: Significant role in international drug trade
-- **Human rights abuses**: Magnitsky Act designations for serious violations
-- **Cyber attacks**: Malicious cyber actors (Executive Order 13694)
-- **Corruption**: Officials engaging in public corruption
-- **Undermining democratic institutions**: Foreign interference in elections
+Designation criteria vary by program but span a broad range of prohibited activities. Terrorism-related designations target those providing material support to Foreign Terrorist Organizations (FTOs) or Specially Designated Global Terrorists (SDGTs), while proliferation designations address contributions to weapons of mass destruction programs, particularly those of North Korea and Iran. Narcotics trafficking designations cover individuals and entities playing a significant role in the international drug trade, and human rights abuses are addressed through Magnitsky Act designations for serious violations. Additional criteria encompass malicious cyber actors under Executive Order 13694, officials engaging in public corruption, and foreign interference in elections or other efforts to undermine democratic institutions.
 
 **50% Rule**: If sanctioned entity owns 50%+ of another entity (directly or indirectly), the subsidiary is automatically subject to same restrictions even if not listed. This prevents evasion through corporate structures.
 
