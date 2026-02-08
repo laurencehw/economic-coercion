@@ -6,7 +6,7 @@ In March 2023, China and Brazil announced bilateral trade settlement in yuan and
 
 Here lies the paradox of economic statecraft: every weapon, once used, teaches adversaries how to defend against it. Financial sanctions excluding Russia from SWIFT and freezing $300+ billion in reserves demonstrated American power—and accelerated Chinese, Russian, Indian, and Brazilian efforts to build alternative financial infrastructure. Export controls degrading adversary capabilities spur indigenous innovation. Investment screening blocks technology access but fragments the global markets that enriched Western economies. The tools of strategic competition undermine the very system that made the West powerful enough to wield them.
 
-What happens next? Three core arguments structure the analysis of future trajectories through 2035-2050.
+What happens next? Projecting forward to 2035-2050, the trends point in unsettling directions.
 
 **First, current trends point toward increasing economic fragmentation—partial decoupling between rival blocs, parallel technological ecosystems, competing financial architectures—rather than complete autarky or renewed integration.** Full decoupling is economically prohibitive: even hostile powers maintain trade in non-strategic sectors (China-U.S. bilateral goods trade remains approximately $575-580 billion annually, down from the 2022 peak of $690 billion, despite tensions), and global supply chains resist comprehensive restructuring. But selective decoupling accelerates: semiconductors, AI, biotechnology, critical minerals face strategic controls; financial systems develop redundancies; standards and protocols diverge. The resulting "partially fragmented globalization" combines sectoral decoupling (strategic domains) with continued integration (commodity trade, consumer goods) creating complexity for firms and policymakers navigating bifurcated markets.
 
@@ -14,16 +14,7 @@ What happens next? Three core arguments structure the analysis of future traject
 
 **Third, alliance structures will prove decisive in determining economic statecraft effectiveness, with competition between U.S.-led networks and alternative coalitions shaping global economic governance.** The post-1945 order presumed Western economic dominance enabling rule-setting: IMF/World Bank governing finance, WTO managing trade, dollar-denominated transactions, English-language internet protocols. China's rise, Russia's resistance, and Global South agency challenge this structure. Alternative institutions (AIIB, BRICS New Development Bank, SCO) provide parallel financial infrastructure. Digital currencies and payment systems (e-CNY, cryptocurrencies, bilateral settlement) reduce dollar dependence. Technology standards competition (5G, AI governance, internet protocols) fragments global systems. The future likely features competing economic blocs with varying degrees of integration, overlap, and conflict—multipolar economic order replacing unipolar Western dominance.
 
-The chapter proceeds through five main sections. Section 1 examines **de-dollarization trajectories**, analyzing dollar privilege erosion, alternative reserve currencies, payment systems evolution, and implications for financial sanctions. Section 2 explores **climate and resource security nexus**, assessing how climate change reshapes economic coercion through water scarcity, agricultural disruption, critical mineral competition, and energy transitions. Section 3 analyzes **emerging technologies' strategic implications**, focusing on AI, quantum computing, biotechnology, and space systems as future competition domains. Section 4 investigates **alliance evolution**, comparing Western coordination (G7, NATO, AUKUS) versus alternative coalitions (BRICS+, SCO, Global South frameworks) and implications for economic coercion effectiveness. Section 5 presents **scenario analysis for 2035-2050**, developing four alternative futures (Managed Competition, Economic Cold War, Crisis-Driven Fragmentation, Renewed Integration) with policy implications.
-
-A Chinese Perspective Box explores Beijing's vision for future order: **multipolarity** (多极化, duōjíhuà), **de-Westernization** of global governance, **technology self-reliance** as achieved reality, and **alternative development models** offering Global South choices beyond Western frameworks.
-
-The chapter concludes with policy recommendations balancing competitive strategy against risks of fragmentation, emphasizing:
-- Multilateral coordination to sustain effective sanctions while limiting blowback
-- Technology leadership investment to maintain competitive advantages
-- Selective integration to preserve economic benefits while protecting security
-- Alliance strengthening through burden-sharing and value demonstration
-- Strategic patience recognizing that economic competition spans decades
+The analysis traces de-dollarization trajectories, the climate-resource security nexus, emerging technologies' strategic implications, alliance evolution, and four scenarios for 2035-2050 (Managed Competition, Economic Cold War, Crisis-Driven Fragmentation, Renewed Integration). A Chinese Perspective Box explores Beijing's vision for multipolarity (多极化, duōjíhuà) and de-Westernization of global governance.
 
 Future economic statecraft will operate in an environment shaped by decisions made today. Weaponizing interdependence through sanctions, export controls, and investment restrictions yields short-term advantages but risks fragmenting the integrated global economy that generated Western prosperity. We are sawing off the branch we're sitting on, confident that we'll land on our feet. Managing this trade-off—maintaining competitive advantages while preserving beneficial integration—represents the central challenge for policymakers navigating the next three decades of strategic competition. Get it right, and managed rivalry becomes the foundation for a stable, if tense, world order. Get it wrong, and the edifice of globalization collapses, taking much of our prosperity with it.
 
@@ -42,12 +33,7 @@ The U.S. dollar's role as global reserve currency and dominant medium of exchang
 
 **Current Dollar Dominance**
 
-As of 2024:
-- **Reserve currency**: Dollar comprises ~58% of global foreign exchange reserves (down from 71% in 2000) (IMF COFER 2024)
-- **Trade invoicing**: Approximately 50% of cross-border trade invoiced in dollars (including ~80% of oil transactions)
-- **Foreign exchange**: Dollar represents ~90% of currency transactions globally
-- **Debt issuance**: Over 60% of international bonds and loans denominated in dollars
-- **SWIFT**: ~42% of SWIFT international payment messages involve dollars
+As of 2024, the dollar's dominance spans every dimension of international finance. It comprises approximately 58% of global foreign exchange reserves, down from 71% in 2000 (IMF COFER 2024), and roughly 50% of cross-border trade is invoiced in dollars, including approximately 80% of oil transactions. The dollar's role in foreign exchange markets is even more pronounced, representing roughly 90% of currency transactions globally. Over 60% of international bonds and loans are denominated in dollars, and approximately 42% of SWIFT international payment messages involve the currency.
 
 This dominance provides U.S. with:
 - **Seigniorage**: Profit from printing currency used globally
@@ -208,11 +194,7 @@ The green energy transition doesn't end resource-based strategic vulnerabilities
 
 **Mitigation Strategies**
 
-- **Diversification**: Western investments in alternative mining (U.S., Canada, Australia) and processing capacity
-- **Recycling**: Battery recycling could provide 25-30% of lithium/cobalt needs by 2040, reducing virgin material requirements
-- **Technology substitution**: Sodium-ion batteries, rare-earth-free motors, alternative chemistries
-- **Strategic reserves**: Stockpiling critical minerals as strategic resources
-- **Friend-shoring**: Developing supply chains through allied countries (Australia, Canada, Chile, Peru)
+Western nations are pursuing diversification through investments in alternative mining in the United States, Canada, and Australia, along with expanded processing capacity. Recycling offers a complementary pathway, with battery recycling projected to provide 25-30% of lithium and cobalt needs by 2040, reducing virgin material requirements. Technology substitution—including sodium-ion batteries, rare-earth-free motors, and alternative chemistries—could further diminish dependence on concentrated supply sources. Governments are also stockpiling critical minerals as strategic reserves, and friend-shoring efforts aim to develop supply chains through allied countries such as Australia, Canada, Chile, and Peru.
 
 ### Water Scarcity and Agricultural Leverage
 
@@ -751,11 +733,7 @@ Major shared threats (climate crisis exceeding worst projections, pandemic deadl
 
 **Monitoring indicators** (early warning signs):
 
-- **Technology ecosystems**: Standardization battles outcomes (5G, 6G, AI governance)
-- **Financial flows**: Reserve currency composition, payment system adoption (CIPS growth rate)
-- **Trade volumes**: Bilateral U.S.-China trade trajectory, friend-shoring progress
-- **Alliance cohesion**: G7 coordination quality, BRICS+ institutionalization depth
-- **Crisis management**: Taiwan, South China Sea, cyber incidents—whether managed or escalating
+Policymakers should track several key indicators as early warning signs. In technology ecosystems, the outcomes of standardization battles over 5G, 6G, and AI governance will signal the direction of bifurcation or integration. Financial flows—particularly reserve currency composition and payment system adoption, including the growth rate of China's CIPS—will reveal whether dollar alternatives are gaining meaningful traction. Bilateral U.S.-China trade volumes and friend-shoring progress will indicate the pace of economic reorientation. Alliance cohesion, measured through the quality of G7 coordination and the institutionalization depth of BRICS+, will shape the structural landscape. Finally, crisis management around flashpoints such as Taiwan, the South China Sea, and cyber incidents will reveal whether great-power tensions are being managed or escalating toward confrontation.
 
 ---
 

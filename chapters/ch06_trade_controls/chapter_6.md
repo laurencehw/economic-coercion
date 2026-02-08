@@ -4,7 +4,7 @@
 
 On March 22, 2018, President Trump signed a presidential memorandum imposing tariffs on approximately $50 billion worth of Chinese goods under Section 301 of the Trade Act of 1974, citing China's "unfair trade practices" related to technology transfer and intellectual property (USTR 2018). China immediately retaliated with equivalent tariffs on U.S. agricultural products, aircraft parts, and automobiles. What began as targeted measures escalated over 18 months into tariffs affecting more than $360 billion in bilateral trade—the largest trade war between major economies since the Smoot-Hawley Tariff of 1930. The era of "free trade as shared prosperity" was over; the era of "trade as strategic weapon" had begun. When the Biden administration took office in January 2021, it maintained nearly all Trump-era tariffs while expanding export controls, signaling a bipartisan consensus that traditional trade policy had transformed into a tool of strategic competition.
 
-Trade controls—tariffs, quotas, and export restrictions—occupy unique territory among economic weapons. Financial sanctions can freeze bank accounts with a keystroke. Investment screening blocks individual transactions. But trade controls reshape entire industries and disrupt the daily operations of millions of businesses and workers. They are blunt instruments with broad collateral damage—which makes their proliferation in strategic competition all the more consequential. Three arguments anchor the analysis that follows:
+Trade controls—tariffs, quotas, and export restrictions—occupy unique territory among economic weapons. Financial sanctions can freeze bank accounts with a keystroke. Investment screening blocks individual transactions. But trade controls reshape entire industries and disrupt the daily operations of millions of businesses and workers. They are blunt instruments with broad collateral damage—which makes their proliferation in strategic competition all the more consequential.
 
 **First, trade policy has evolved from primarily economic objectives to strategic competition tools.** Historically, tariffs served revenue generation and infant industry protection. Today's trade measures increasingly target specific countries and technologies for national security reasons, blurring traditional distinctions between economic policy and security policy. Section 232 steel tariffs (ostensibly for national security) and Section 301 China tariffs (for technology competition) exemplify this transformation.
 
@@ -12,17 +12,7 @@ Trade controls—tariffs, quotas, and export restrictions—occupy unique territ
 
 **Third, effectiveness of trade-based coercion is highly context-dependent.** Tariffs may redistribute trade flows without compelling behavioral change. Export controls can slow adversary capabilities if multilaterally coordinated but leak through third countries if unilateral. Success depends on market concentration, substitutability, alliance coordination, and the target's tolerance for economic pain. Understanding these dynamics helps policymakers design more effective measures and anticipate responses.
 
-The chapter proceeds in four sections. Section 1 examines **tariffs and trade wars**, analyzing mechanisms (Section 232, Section 301), economic impacts, and political economy of trade restrictions. Section 2 explores **export control regimes**, mapping the Wassenaar Arrangement, Missile Technology Control Regime, and other multilateral frameworks alongside unilateral U.S. controls under the Export Administration Regulations. Section 3 addresses **multilateral versus unilateral approaches**, comparing effectiveness and examining alliance coordination challenges. Section 4 analyzes **WTO compliance and legal challenges**, exploring how strategic competition strains international trade law.
-
-Throughout, we apply the four-dimension framework (domain, target, objective, intensity) to understand how trade controls operate as coercive instruments. We examine Chinese perspectives on "unreliable entity lists" and counter-sanctions, illustrating strategic empathy for mutual escalation dynamics. Government Tools Boxes detail the legal authorities underpinning U.S. trade controls (Section 232, Section 301, Export Administration Regulations, International Emergency Economic Powers Act). Case studies analyze the U.S.-China trade war (2018-present) and historical CoCom export controls against the Soviet Union, assessing effectiveness across our five criteria.
-
-By chapter's end, readers will understand:
-- How tariffs and export controls function as coercive instruments
-- The legal architecture and institutional actors implementing trade controls
-- Strengths and limitations of unilateral versus multilateral approaches
-- Economic and strategic impacts of major trade wars
-- How international trade law constrains or enables coercive trade policy
-- Chinese perspectives on trade-based coercion and counter-coercion
+The analysis moves from tariff mechanisms and trade wars through export control regimes, multilateral versus unilateral approaches, and WTO compliance challenges. Government Tools Boxes detail the legal authorities underpinning U.S. trade controls (Section 232, Section 301, Export Administration Regulations). Case studies examine the U.S.-China trade war (2018-present) and CoCom export controls against the Soviet Union, with Chinese perspectives on counter-coercion woven throughout.
 
 ---
 
@@ -152,18 +142,11 @@ Contrary to political rhetoric suggesting tariffs "punish" foreign exporters, ec
 
 **Supply Chain Reconfiguration**
 
-Beyond static trade impacts, tariffs accelerated supply chain reconfiguration:
-
-- **"China+1" strategies**: Multinational firms diversified production to Vietnam, Thailand, India, Mexico to avoid tariffs. Apple, Samsung, Intel, Dell, HP all announced production shifts.
-- **Permanent effects**: Even if tariffs removed, sunk costs of relocating production mean many shifts are irreversible. Flaaen and Pierce (2024) estimate 30-40% of trade flow changes likely permanent.
-- **Winners**: Vietnam's exports to U.S. surged from $49 billion (2017) to $115 billion (2023), becoming 8th largest U.S. trade partner. Mexico became largest U.S. trade partner (2023), partly from Chinese firms routing through Mexican plants.
-- **Losers**: Chinese manufacturing employment growth slowed; sectors like furniture and electronics lost global market share permanently.
+Beyond static trade impacts, tariffs accelerated supply chain reconfiguration. Multinational firms adopted **"China+1" strategies**, diversifying production to Vietnam, Thailand, India, and Mexico to avoid tariffs—Apple, Samsung, Intel, Dell, and HP all announced production shifts. Many of these moves proved permanent: sunk costs of relocating production mean that even if tariffs were removed, Flaaen and Pierce (2024) estimate 30-40% of trade flow changes are irreversible. The shift produced clear winners and losers. Vietnam's exports to the U.S. surged from $49 billion (2017) to $115 billion (2023), making it the 8th largest U.S. trade partner, while Mexico became the largest U.S. trade partner in 2023, partly from Chinese firms routing production through Mexican plants. On the losing side, Chinese manufacturing employment growth slowed, and sectors like furniture and electronics lost global market share permanently.
 
 **Aggregate Economic Impacts**
 
-- **U.S.**: Studies estimate 0.3-0.5% reduction in U.S. GDP from tariffs and retaliation (2018-2020). Agricultural sector suffered $27 billion in lost exports (2018-2020), partially offset by $23 billion in government subsidies. Manufacturing employment gains negligible.
-- **China**: Estimates suggest 0.5-0.8% GDP reduction. However, China's simultaneous growth slowdown from debt deleveraging and COVID-19 makes trade war effects difficult to isolate.
-- **Global**: IMF (2019) estimated trade war could reduce global GDP by 0.8% by 2020 through trade disruptions, uncertainty, and financial market impacts.
+The macroeconomic costs were substantial across all parties. Studies estimate a 0.3-0.5% reduction in U.S. GDP from tariffs and retaliation (2018-2020), with the agricultural sector suffering $27 billion in lost exports partially offset by $23 billion in government subsidies while manufacturing employment gains remained negligible. China experienced an estimated 0.5-0.8% GDP reduction, though its simultaneous growth slowdown from debt deleveraging and COVID-19 makes trade war effects difficult to isolate. Globally, the IMF (2019) estimated the trade war could reduce world GDP by 0.8% by 2020 through trade disruptions, uncertainty, and financial market impacts.
 
 ### Political Economy of Tariff-Based Coercion
 
@@ -395,56 +378,15 @@ ECRA directed Commerce to establish controls for these technologies in coordinat
 
 ### Technology-Specific Controls: Semiconductor Case Study
 
-Semiconductor export controls illustrate modern technology competition dynamics. Advanced semiconductors enable AI, quantum computing, autonomous weapons, and supercomputers—dual-use technologies with both commercial value and military applications. Three generations of controls show evolving approaches:
+Semiconductor export controls illustrate how EAR authorities operate in practice. Advanced semiconductors enable AI, quantum computing, autonomous weapons, and supercomputers—dual-use technologies where the commercial/military distinction collapses entirely. Controls evolved through three phases, each reflecting lessons from the previous approach's limitations:
 
-**Phase 1: Entity List Additions (2019-2021)**
+**Phase 1: Entity List Additions (2019-2021)** targeted specific Chinese companies (Huawei, SMIC, Sugon, Phytium), blocking U.S. exports to designated entities. This proved insufficient—Chinese firms sourced from foreign suppliers or acquired older-generation technology not subject to restrictions.
 
-Initial approach focused on entity-specific restrictions: Adding Chinese companies to Entity List (Huawei, SMIC, Sugon, Phytium) blocked U.S. exports to those entities. However, Chinese companies could still purchase from foreign suppliers or source older-generation technology.
+**Phase 2: Technology-Specific Controls (October 2022)** marked a paradigm shift from entity-based to capability-based restrictions. BIS imposed controls on manufacturing equipment for logic chips below 16nm, memory chips below specified thresholds (DRAM < 18nm half-pitch, NAND > 128 layers), and prohibited U.S. persons from supporting Chinese advanced chip development. These rules targeted China's semiconductor ecosystem broadly rather than individual firms.
 
-**Phase 2: Technology-Specific Controls (October 2022)**
+**Phase 3: Allied Coordination (2023-2024)** extended controls multilaterally through negotiations with the Netherlands and Japan (see below, "Multilateral Versus Unilateral Approaches"). October 2023 updates tightened node definitions, added over 100 Chinese chip firms to the Entity List, and expanded geographic scope to close transshipment routes through Macau and Hong Kong.
 
-October 7, 2022 marked paradigm shift: BIS imposed controls not on entities but on technological capabilities regardless of end-user:
-
-- **Logic chips**: Controls on manufacturing equipment for logic chips < 16nm (e.g., 14nm, 10nm, 7nm, 5nm, 3nm)
-- **Memory chips**: Controls on equipment for DRAM < 18nm half-pitch, NAND flash > 128 layers
-- **Semiconductor manufacturing equipment**: Broad controls on lithography, deposition, etching, and other fab equipment capable of producing advanced nodes
-- **Supercomputers**: New license requirements for items to destinations associated with Chinese supercomputer entities
-- **U.S. person support**: Prohibited U.S. persons from supporting development or production of advanced chips in China without license
-
-These controls targeted China's semiconductor ecosystem broadly: Chinese fabs cannot acquire equipment to produce advanced chips, Chinese designers cannot fab advanced chips at foreign fabs using U.S. equipment, and U.S. engineers cannot assist Chinese advanced chip development.
-
-**Phase 3: Allied Coordination and Updates (2023-2024)**
-
-U.S. negotiated parallel controls with Netherlands (ASML lithography equipment) and Japan (Tokyo Electron etching/deposition equipment). However, coordination faced limits:
-
-- Netherlands controls on ASML's most advanced EUV (extreme ultraviolet) lithography—only EUV machines capable of sub-7nm production—but permits older DUV (deep ultraviolet) sales to China
-- Japan controls on latest-generation equipment but permits older generations
-- Korea initially resisted, fearing market loss to Japanese/European competitors, before negotiating exemptions for its firms' China fabs (Samsung, SK Hynix)
-
-October 2023 updates tightened controls, expanding:
-- Node definitions to close loopholes (gaas-based semiconductors, wide-bandgap semiconductors)
-- Entity List additions (over 100 Chinese chip firms)
-- Geographic scope (added Macau, Hong Kong transshipment controls)
-
-**Effectiveness and Evasion**
-
-**Impacts on Chinese Capabilities**:
-- SMIC unable to produce chips below 7nm at scale (produced limited 7nm chips for Huawei in 2023 using older DUV multi-patterning techniques, but low yields and high costs)
-- Chinese AI chip designers (Biren, Hygon) unable to fab competitive products
-- Chinese fabs stockpiled older-generation equipment before controls implemented
-- Huawei's smartphone business collapsed (40% global market share in 2019 to < 5% in 2023) due to inability to source 5G chips
-
-**Chinese Countermeasures**:
-- Massive investment in indigenous equipment (SMEE lithography, AMEC etching)—still 5-10 years behind
-- Alternative architectures: RISC-V open-source instruction set avoids U.S. intellectual property
-- Chiplet designs: Combining multiple older-node chips to approximate advanced-node performance
-- Smuggling: Shell companies, third-country transshipment; U.S. Commerce estimated $500 million in illicit chip sales to China (2022-2023)
-- Stockpiling: Chinese firms imported $500 billion in chips (2022-2023), building inventories
-
-**Collateral Damage**:
-- U.S. semiconductor equipment firms lost 20-30% revenues (China previously 30-40% of sales)
-- South Korean chipmakers (Samsung, SK Hynix) face competitiveness issues: Their China fabs frozen at mature nodes while Chinese competitors face same constraints, but Korean firms cannot amortize equipment costs
-- Global supply chains fragmented: Chinese market served by Chinese-made mature chips; Western market by TSMC/Samsung advanced chips; efficiency losses from dual infrastructure
+Chapter 4 provides a detailed analysis of these controls' strategic logic, allied coordination dynamics, Chinese responses, and effectiveness assessment across five criteria. From an export control architecture perspective, the semiconductor case demonstrates both the power and limits of EAR authorities: ECCN-based controls can restrict specific technological capabilities, the FDPR can extend jurisdiction extraterritorially, and Entity List designations can target specific actors—but effectiveness depends on allied coordination that lies beyond any single government's legal authority.
 
 ### Lessons from Cold War Export Controls: CoCom
 

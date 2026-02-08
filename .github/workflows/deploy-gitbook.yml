@@ -9,6 +9,7 @@ on:
     paths:
       - 'gitbook/**'
       - 'chapters/**'
+      - 'appendices/**'
       - 'figures/**'
       - '.github/workflows/deploy-gitbook.yml'
   workflow_dispatch:
@@ -78,6 +79,16 @@ jobs:
           echo "Copied $copied chapter files to gitbook/chapters/"
           if [ "$copied" -eq 0 ]; then
             echo "Warning: No chapter files were copied"
+          fi
+
+      - name: Copy appendices to GitBook
+        run: |
+          mkdir -p gitbook/appendices
+          if [ -d "appendices" ] && [ "$(ls -A appendices 2>/dev/null)" ]; then
+            cp -r appendices/* gitbook/appendices/
+            echo "Copied $(ls appendices | wc -l) appendix files to gitbook/appendices/"
+          else
+            echo "Warning: No appendix files found to copy"
           fi
 
       - name: Build GitBook

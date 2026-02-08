@@ -6,7 +6,7 @@ On August 6, 2020, President Trump issued an executive order giving ByteDance, t
 
 Four years and multiple legal battles later, TikTok remains Chinese-owned, operating under perpetual threat of forced sale or ban. The standoff captures a fundamental transformation underway: investment screening has mutated from sleepy bureaucratic review into an active weapon targeting specific countries, entire sectors, and companies already operating on domestic soil. Meanwhile, governments once allergic to industrial policy now embrace it with gusto. The United States—long a champion of free markets and skeptic of state intervention—committed over $500 billion through the CHIPS and Science Act, Inflation Reduction Act, and Infrastructure Investment and Jobs Act (Rasser et al. 2022) to remake semiconductor production and clean energy supply chains. China doubles down on Made in China 2025 and Big Fund semiconductor investments exceeding $100 billion. The invisible hand has been replaced by the visible fist.
 
-Investment controls and industrial policy now rank alongside tariffs and sanctions as primary instruments of economic coercion. Governments wield them to shape capital flows, dictate ownership structures, and rebuild industrial capabilities they once happily offshored. Three core arguments organize the analysis.
+Investment controls and industrial policy now rank alongside tariffs and sanctions as primary instruments of economic coercion. Governments wield them to shape capital flows, dictate ownership structures, and rebuild industrial capabilities they once happily offshored.
 
 **First, investment screening has evolved from passive national security review to active economic coercion tool, particularly targeting Chinese investments in technology and critical infrastructure.** Traditional CFIUS review focused on narrow security concerns: preventing foreign control of defense contractors, protecting classified information, safeguarding critical infrastructure from sabotage. Applications were relatively rare, reviews largely procedural, and approvals common with modest mitigation measures. The 2018 Foreign Investment Risk Review Modernization Act (FIRRMA) fundamentally transformed this landscape: expanding jurisdiction to cover non-controlling investments and early-stage ventures (previously outside CFIUS reach), mandating declarations for investments in "TID" sectors (Technology, Infrastructure, Data), and explicitly targeting critical emerging technologies (AI, quantum computing, biotechnology, hypersonics). Post-FIRRMA, Chinese investment in U.S. technology plummeted from a 2016 peak of $45.6 billion to just $2.5 billion in 2024—a 95% decline (Rhodium Group 2024). This wasn't market forces but policy intent: investment screening became a mechanism for economic decoupling, preventing Chinese capital from accessing American innovation ecosystems.
 
@@ -14,15 +14,9 @@ Investment controls and industrial policy now rank alongside tariffs and sanctio
 
 **Third, informal economic coercion—state actions outside formal legal frameworks to impose costs on target economies—demonstrates that economic power operates beyond institutionalized sanctions and tariffs.** China's 2020-2021 economic pressure on Australia illustrates these dynamics: following Australia's call for an independent investigation into COVID-19 origins, China imposed de facto restrictions on Australian exports (Rajagopalan and Wuthnow 2021) including wine (tariffs of 200%+), barley (80% tariffs), coal (unofficial import bans), lobster, timber, and beef—affecting over $20 billion in trade. Notably, these restrictions operated through administrative measures, customs delays, and "quality concerns" rather than explicit government policies, providing plausible deniability while inflicting substantial economic pain. Australian wine exporters, deriving 95% of revenue from China, faced existential crisis. Yet Australia maintained its policy positions, sought alternative markets, and deepened security alignment with the United States. This case demonstrates both the power of informal coercion (imposing costs without triggering WTO dispute mechanisms or formal retaliation frameworks) and its limitations (targets may absorb pain rather than concede, and market diversification reduces future leverage).
 
-The chapter proceeds through four main sections. Section 1 examines **investment screening mechanisms**, analyzing CFIUS evolution, FIRRMA expansion, allied investment review systems, and effectiveness in blocking Chinese technology access. Section 2 explores **industrial policy competition**, comparing U.S. approaches (CHIPS Act, IRA, infrastructure) with China's model (Made in China 2025, Big Fund, SOE-directed development) and assessing prospects for success. Section 3 analyzes **state-owned enterprises and sovereign wealth funds** as strategic instruments, examining their role in technology acquisition, resource control, and state influence. Section 4 investigates **informal economic coercion**, using the Australia case to understand mechanisms, targets' responses, and implications for middle powers caught between superpowers.
+Government Tools Boxes detail CFIUS procedures, FIRRMA expansion, and industrial policy authorities (CHIPS Act, Defense Production Act Title III). Case studies examine the BIOSECURE Act's targeting of Chinese biotech firms and China's informal economic coercion against Australia (2020-2021). A Chinese Perspective Box explores Beijing's views on investment screening as discriminatory protectionism and industrial policy as legitimate development strategy.
 
-Two Government Tools Boxes explain legal mechanisms. The first covers **CFIUS procedures and FIRRMA expansion**, detailing mandatory declarations, review timelines, mitigation measures, and forced divestments. The second examines **industrial policy authorities** including CHIPS Act implementation, Defense Production Act Title III, and tax incentives/procurement preferences.
-
-Two case studies apply the analytical framework. Case Study 1 examines the **BIOSECURE Act and Chinese biotech firms**, analyzing U.S. legislative responses to genomics and pharmaceutical dependencies, industry impacts, and Chinese countermeasures. Case Study 2 details **Australian economic coercion (2020-2021)**, tracing China's trade restrictions, economic impacts, Australian responses, and lessons for middle powers navigating great power competition.
-
-A Chinese Perspective Box explores Beijing's views on investment screening as discriminatory protectionism, industrial policy as legitimate development strategy, state-owned enterprises as tools for economic sovereignty, and informal coercion as Western hypocrisy. Key concepts include **industrial policy** (产业政策, chǎnyè zhèngcè), **state-owned enterprises** (国有企业, guóyǒu qǐyè), **reciprocity** (对等, duìděng), and **national champions** (国家冠军企业, guójiā guànjūn qǐyè).
-
-This chapter's themes—investment screening as economic weapon, industrial policy's resurgence, informal coercion's power—reveal economic statecraft's evolution beyond traditional trade and financial tools. As Chapter 6 examined tariffs and export controls, and Chapter 7 analyzed financial sanctions, this chapter demonstrates that capital flows and industrial capabilities have become contested domains. The implications extend beyond bilateral U.S.-China competition: allied countries face pressure to harmonize investment screening and industrial policies, developing nations navigate competing offers of development finance and technology transfer, and multinational corporations confront fragmenting markets where ownership, production location, and technology sourcing carry geopolitical implications. Understanding these dynamics is essential for policymakers balancing economic efficiency against security imperatives, businesses navigating politicized markets, and analysts assessing the future of globalization.
+These themes reveal economic statecraft's evolution beyond traditional trade and financial tools. Capital flows, industrial capabilities, and even market access have become contested domains—with implications extending well beyond bilateral U.S.-China competition to allied policy coordination, development finance, and the future shape of globalization.
 
 <figure style="width: 100%; margin: 2em 0; text-align: center;">
   <img src="../../figures/fig_08_01_bri_infrastructure.png" alt="Key Belt and Road Initiative infrastructure investments. Port investments (blue) extend Chinese maritime presence; rail projects (red) create overland connectivity; corridor investments (orange) integrate regional economies. Size indicates investment scale in USD billions." style="width: 100%; max-width: 100%; height: auto; display: block; margin: 0 auto;">
@@ -338,56 +332,26 @@ For nearly four decades, Western economic policy embraced market-driven allocati
 
 **CHIPS and Science Act (August 2022)**
 
-The Creating Helpful Incentives to Produce Semiconductors (CHIPS) and Science Act represents the United States' most significant industrial policy intervention in generations, committing $52.7 billion to rebuild domestic semiconductor manufacturing and R&D capabilities:
-
-- **Manufacturing incentives**: $39 billion in direct grants and loans for fabrication facilities, with additional 25% investment tax credit
-- **R&D investments**: $13.2 billion for semiconductor research, including National Semiconductor Technology Center, National Advanced Packaging Manufacturing Program, and expanded NSF/DOE research
-- **Workforce development**: $500 million for semiconductor workforce training
-- **Guardrails**: Recipients prohibited from expanding semiconductor manufacturing in China for 10 years ("guardrails" preventing subsidized firms from aiding Chinese competitors)
+The Creating Helpful Incentives to Produce Semiconductors (CHIPS) and Science Act represents the United States' most significant industrial policy intervention in generations, committing $52.7 billion to rebuild domestic semiconductor manufacturing and R&D capabilities. The act allocates $39 billion in direct grants and loans as **manufacturing incentives** for fabrication facilities, supplemented by a 25% investment tax credit. An additional $13.2 billion supports **R&D investments** in semiconductor research, including the National Semiconductor Technology Center, the National Advanced Packaging Manufacturing Program, and expanded NSF and DOE research programs. The legislation dedicates $500 million to **workforce development** for semiconductor industry training. Critically, the act includes **guardrails** prohibiting recipients from expanding semiconductor manufacturing capacity in China for 10 years, preventing subsidized firms from simultaneously aiding Chinese competitors.
 
 {% hint style="warning" %}
 **The 10-Year China Ban**
 CHIPS Act "guardrails" force companies to make a fundamental choice: take U.S. subsidies or expand in China—not both. Any company receiving CHIPS funding is prohibited from materially expanding semiconductor manufacturing capacity in China for 10 years. For companies like Intel, TSMC, and Samsung that have existing China operations, this creates difficult strategic trade-offs. The guardrails effectively weaponize subsidies, turning industrial policy into a tool for accelerating decoupling.
 {% endhint %}
 
-**Major projects announced** (as of 2024):
-- **TSMC Arizona**: Two fabs producing 4nm and 3nm chips, $65 billion investment (with $6.6 billion CHIPS funding), targeting 2025-2028 production
-- **Intel Ohio**: Two fabs for advanced logic chips, potential $100+ billion investment over decade ($8.5 billion CHIPS funding awarded)
-- **Samsung Texas**: Expansion of Austin fab for advanced logic, ~$25 billion
-- **Micron New York**: Two memory chip fabs, $100 billion investment over 20 years ($6.1 billion CHIPS funding)
-- **GlobalFoundries**: Expansion of Malta, NY fab ($1.5 billion CHIPS funding)
+Several **major projects announced** as of 2024 illustrate the scale of investment catalyzed by the CHIPS Act. **TSMC** committed $65 billion (with $6.6 billion in CHIPS funding) for two fabrication plants in Arizona producing 4nm and 3nm chips, targeting production between 2025 and 2028. **Intel** announced a potential $100+ billion investment over a decade for two advanced logic chip fabs in Ohio, receiving $8.5 billion in CHIPS funding. **Samsung** is expanding its Austin, Texas fabrication facility for advanced logic production at a cost of approximately $25 billion. **Micron** plans two memory chip fabs in New York representing $100 billion in investment over 20 years, supported by $6.1 billion in CHIPS funding. **GlobalFoundries** received $1.5 billion in CHIPS funding for expansion of its Malta, New York fab.
 
-**Challenges**:
-- **Cost overruns**: U.S. fab construction costs 30-50% higher than Taiwan/Korea due to labor, regulatory, and materials costs
-- **Talent shortages**: U.S. lacks sufficient semiconductor engineers, technicians; TSMC bringing Taiwan staff to Arizona
-- **Technology lag**: Arizona TSMC fabs will produce chips 2-3 generations behind Taiwan leading edge
-- **Subsidy dependency**: Without ongoing support, economics favor continued offshore production
-- **Timeline delays**: Multiple projects behind schedule; TSMC Arizona delayed from 2024 to 2025-2026
+These projects face significant **challenges**, however. **Cost overruns** plague the effort, as U.S. fab construction costs run 30-50% higher than equivalent facilities in Taiwan or Korea due to labor, regulatory, and materials expenses. **Talent shortages** compound the difficulty: the United States lacks sufficient semiconductor engineers and technicians, forcing TSMC to bring staff from Taiwan to its Arizona operations. Even when completed, the Arizona TSMC fabs will produce chips 2-3 generations behind Taiwan's leading edge, reflecting a persistent **technology lag**. Questions of **subsidy dependency** loom large, since without ongoing government support, the economics continue to favor offshore production. Finally, **timeline delays** have affected multiple projects, with TSMC Arizona's initial production pushed from 2024 to 2025-2026.
 
 **Inflation Reduction Act (August 2022)**
 
-The IRA commits $369 billion to clean energy and climate programs, much of it functioning as industrial policy to counter Chinese dominance in renewable energy supply chains:
+The IRA commits $369 billion to clean energy and climate programs, much of it functioning as industrial policy to counter Chinese dominance in renewable energy supply chains. The legislation offers tax credits for U.S.-manufactured **solar panels, wind turbines, and components**. For **electric vehicles**, it provides a $7,500 tax credit per vehicle, conditioned on North American assembly and battery component sourcing requirements that effectively exclude Chinese content. A $35/kWh production tax credit for battery cells incentivizes domestic **battery manufacturing**. The act also directs loans and grants toward domestic mining and processing of **critical minerals** including lithium, graphite, cobalt, and rare earths, while tax credits for clean **hydrogen** production round out the package.
 
-- **Solar and wind manufacturing**: Tax credits for U.S.-manufactured solar panels, wind turbines, and components
-- **Electric vehicles**: $7,500 tax credit per EV, with requirements for North American assembly and battery component sourcing (excluding Chinese content)
-- **Battery manufacturing**: $35/kWh production tax credit for battery cells, incentivizing domestic production
-- **Critical minerals**: Loans and grants for domestic mining and processing of lithium, graphite, cobalt, rare earths
-- **Green hydrogen**: Tax credits for clean hydrogen production
-
-**Impact**:
-- Over $100 billion in announced clean energy manufacturing investments since IRA passage
-- Battery plant construction boom: Over a dozen plants announced in U.S. (LG, SK, Panasonic, Ford, GM)
-- Solar manufacturing: First Solar, Hanwha Q Cells expanding U.S. production
-- However, Chinese supply chain dominance (80% solar panels, 75% EV batteries) means transitioning to domestic production will take years, and Chinese firms may circumvent restrictions through third-country operations
+The IRA's early **impact** has been substantial. Over $100 billion in clean energy manufacturing investments have been announced since its passage. A battery plant construction boom is underway, with over a dozen facilities announced across the United States by manufacturers including LG, SK, Panasonic, Ford, and GM. In solar manufacturing, First Solar and Hanwha Q Cells are expanding U.S. production capacity. However, Chinese supply chain dominance---80% of global solar panel production and 75% of EV batteries---means that transitioning to domestic production will take years, and Chinese firms may circumvent sourcing restrictions through third-country operations.
 
 **Infrastructure Investment and Jobs Act (November 2021)**
 
-$1.2 trillion infrastructure bill includes industrial policy elements:
-- $65 billion for broadband expansion
-- $42 billion for bridge repair and replacement
-- $39 billion for public transit modernization
-- $7.5 billion for EV charging infrastructure
-- "Buy America" provisions requiring domestic content for infrastructure projects
+The $1.2 trillion infrastructure bill includes significant industrial policy elements. It allocates $65 billion for broadband expansion, $42 billion for bridge repair and replacement, $39 billion for public transit modernization, and $7.5 billion for EV charging infrastructure. **"Buy America" provisions** requiring domestic content for infrastructure projects further reinforce the reshoring objectives shared across these legislative efforts.
 
 **Total U.S. Industrial Policy Commitment: ~$500 billion** across these three acts, representing fundamental shift from market-driven allocation to strategic state intervention.
 
@@ -409,35 +373,17 @@ Announced in 2015, Made in China 2025 targets ten strategic industries for Chine
 9. New materials (rare earths, composites)
 10. Biopharmaceuticals and medical devices
 
-**Explicit self-sufficiency targets**:
-- 40% domestic content by 2020
-- 70% domestic content by 2025
-- Global leadership in key sectors by 2049 (100th anniversary of PRC)
+The plan set **explicit self-sufficiency targets**: 40% domestic content by 2020, 70% domestic content by 2025, and global leadership in key sectors by 2049, the 100th anniversary of the People's Republic of China.
 
-**Mechanisms**:
-- **Subsidies**: Central and local government grants, loans at below-market rates, tax incentives totaling hundreds of billions
-- **Government procurement**: Preferential purchasing of domestic suppliers
-- **Technology transfer requirements**: Foreign firms seeking market access must partner with Chinese firms and transfer technology
-- **SOE investments**: State-owned enterprises directed to invest in strategic sectors regardless of profitability
-- **Venture capital**: Government-backed VC funds invest in startups in target sectors
-- **Talent recruitment**: "Thousand Talents Plan" recruiting foreign scientists and engineers
+The program operates through several reinforcing **mechanisms**. Central and local governments provide **subsidies** in the form of grants, below-market-rate loans, and tax incentives totaling hundreds of billions of dollars. **Government procurement** policies mandate preferential purchasing from domestic suppliers. **Technology transfer requirements** compel foreign firms seeking Chinese market access to partner with Chinese companies and share proprietary technology. **State-owned enterprises** are directed to invest in strategic sectors regardless of short-term profitability. Government-backed **venture capital** funds channel investment into startups in target sectors. And the **"Thousand Talents Plan"** actively recruits foreign scientists and engineers to bring expertise into Chinese institutions.
 
 **Western backlash**: Made in China 2025 triggered alarm in Washington and European capitals, contributing to shift toward industrial policy competition and export controls. After Trump administration criticism, China downplayed the program but didn't abandon underlying objectives.
 
 **Big Fund I, II, and III: Semiconductor Focus**
 
-China's National Integrated Circuit Industry Investment Fund (the "Big Fund") exemplifies state-directed capital allocation:
+China's National Integrated Circuit Industry Investment Fund (the "Big Fund") exemplifies state-directed capital allocation. **Big Fund I**, established in 2014 with $21 billion in capital, invested in foundries such as SMIC and Hua Hong, memory manufacturers like Yangtze Memory Technologies (YMTC), and packaging firms. **Big Fund II** followed in 2019 with $29 billion, shifting focus toward design tools (EDA software), equipment manufacturing, and materials. **Big Fund III**, launched in 2024 with an estimated $47 billion, targets advanced chips, AI processors, and domestic equipment development.
 
-- **Big Fund I (2014)**: $21 billion, invested in SMIC, Hua Hong, Yangtze Memory (YMTC), packaging firms
-- **Big Fund II (2019)**: $29 billion, focused on design tools (EDA), equipment manufacturing, materials
-- **Big Fund III (2024)**: Estimated $47 billion, targeting advanced chips, AI processors, domestic equipment
-
-**Results**:
-- **Mixed success**: Chinese semiconductor industry expanded capacity dramatically, but technology gaps persist
-- **SMIC achievements**: Demonstrated 7nm production (Huawei Mate 60 Pro chip) despite equipment restrictions, though yields reportedly low (40-50%)
-- **Equipment struggles**: Chinese firms produce mature-node tools but lag 10-15 years in cutting-edge lithography, etching, deposition
-- **Market share**: China's share of global semiconductor production capacity rose from 12% (2015) to 24% (2024), but concentrated in mature nodes (28nm and above); advanced node (14nm and below) share remains low
-- **Efficiency questions**: Massive capital investment yielded progress but at high cost; multiple Big Fund corruption scandals (executives arrested for embezzlement) raise questions about allocation efficiency
+The **results** of these investments have been mixed. The Chinese semiconductor industry has expanded capacity dramatically, but significant technology gaps persist. SMIC achieved a notable milestone by demonstrating 7nm chip production for the Huawei Mate 60 Pro despite equipment restrictions, though yields reportedly remain low at 40-50%. Chinese firms produce mature-node manufacturing tools but lag 10-15 years behind the cutting edge in lithography, etching, and deposition equipment. China's share of global semiconductor production capacity rose from 12% in 2015 to 24% in 2024, but this growth concentrates in mature nodes (28nm and above), with advanced node production (14nm and below) remaining a small share. Questions of efficiency also cloud the picture: massive capital investment yielded progress but at high cost, and multiple Big Fund corruption scandals---with executives arrested for embezzlement---raise serious doubts about allocation efficiency.
 
 ### Comparing Approaches: Market-Driven vs. State-Directed
 
@@ -448,31 +394,15 @@ China's National Integrated Circuit Industry Investment Fund (the "Big Fund") ex
 
 **U.S. Model: Strategic Industrial Policy within Market Framework**
 
-- **Selective intervention**: CHIPS and IRA target specific chokepoints (semiconductors, batteries, critical minerals) rather than comprehensive planning
-- **Private sector leadership**: Government provides incentives, but private firms make investment and production decisions
-- **Technology neutrality (mostly)**: Tax credits and grants available to any firm meeting criteria, not picking specific companies
-- **Sunset assumptions**: Programs have defined funding and timelines, not permanent subsidies (though likely to be extended)
-- **Allied coordination**: Emphasizes friend-shoring and partner cooperation (TSMC, Samsung participation in U.S. fabs)
+The U.S. approach is characterized by **selective intervention**: the CHIPS Act and IRA target specific chokepoints such as semiconductors, batteries, and critical minerals rather than attempting comprehensive economic planning. **Private sector leadership** remains central, with the government providing incentives while private firms retain investment and production decisions. The approach maintains a degree of **technology neutrality**, offering tax credits and grants to any firm meeting established criteria rather than picking specific corporate winners. Programs carry **sunset assumptions**, with defined funding and timelines rather than permanent subsidies, though political dynamics make extensions likely. The model also emphasizes **allied coordination**, incorporating friend-shoring and partner cooperation as exemplified by TSMC and Samsung participation in U.S. fabs.
 
-**Weaknesses**:
-- **Short-term political cycles**: Industrial policy requires decades; U.S. political system struggles with sustained commitment
-- **Cost competitiveness**: Even with subsidies, U.S. production often more expensive than Asian alternatives
-- **Fragmented implementation**: Multiple agencies, federal-state coordination challenges, bureaucratic complexity
-- **Private sector profit motives**: Companies may take subsidies but maintain primary production offshore if more profitable
+These strengths are offset by notable weaknesses. U.S. **political cycles** operate on short time horizons, while industrial policy requires decades of sustained commitment---a mismatch the American system struggles to reconcile. Even with subsidies, U.S. production often remains more expensive than Asian alternatives, creating persistent **cost competitiveness** challenges. **Fragmented implementation** across multiple agencies, with federal-state coordination difficulties and bureaucratic complexity, hampers execution. And **private sector profit motives** may undermine policy goals: companies may accept subsidies while maintaining primary production offshore if doing so remains more profitable.
 
 **China Model: Comprehensive State Direction**
 
-- **Sector-wide planning**: Made in China 2025 targets entire industries, not just chokepoints
-- **SOE implementation**: State-owned enterprises execute government priorities regardless of short-term profitability
-- **Long-term commitment**: Industrial policy spans decades with consistent resource allocation
-- **Technology sovereignty**: Explicit goal of self-sufficiency, accepting higher costs for security
-- **Central coordination**: Top-down direction reduces bureaucratic fragmentation
+China's approach differs fundamentally in its scope and structure. **Sector-wide planning** under Made in China 2025 targets entire industries rather than individual chokepoints. **State-owned enterprises** execute government priorities regardless of short-term profitability, providing reliable implementation capacity. The model benefits from **long-term commitment**, with industrial policy spanning decades and backed by consistent resource allocation unconstrained by electoral cycles. **Technology sovereignty** serves as an explicit goal, with Chinese planners willing to accept higher costs in exchange for self-sufficiency and security. And **central coordination** through top-down direction reduces the bureaucratic fragmentation that hampers the U.S. approach.
 
-**Weaknesses**:
-- **Inefficiency**: State-directed allocation often misallocates resources (Big Fund corruption, zombie companies sustained by subsidies)
-- **Innovation deficits**: State planning struggles to match market-driven innovation; Chinese strengths in scaling production more than breakthrough R&D
-- **Diminishing returns**: As China approaches technology frontier, state-directed catch-up becomes less effective
-- **International resistance**: Industrial policy triggers Western countermeasures (export controls, investment screening, tariffs)
+China's model carries its own significant weaknesses, however. **Inefficiency** plagues state-directed allocation, which frequently misallocates resources---as evidenced by Big Fund corruption scandals and zombie companies sustained by subsidies long past any productive purpose. **Innovation deficits** emerge because state planning struggles to match market-driven innovation; China's strengths lie in scaling production rather than achieving breakthrough R&D. The model faces **diminishing returns** as China approaches the technology frontier, where state-directed catch-up strategies become less effective than at earlier development stages. Finally, aggressive industrial policy triggers **international resistance** in the form of Western countermeasures including export controls, investment screening, and tariffs.
 
 **Which approach will succeed?** Uncertain and likely sector-dependent. Semiconductors favor scale, capital intensity, and sustained investment (potentially China advantage). Biotechnology and AI favor entrepreneurial innovation and talent mobility (potentially U.S. advantage). Both countries face obstacles: U.S. must overcome short-term political pressures and cost disadvantages; China must address efficiency and innovation limitations. The competition will unfold over decades, not years.
 
