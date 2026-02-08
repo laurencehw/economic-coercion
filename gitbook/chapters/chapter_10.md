@@ -61,9 +61,9 @@ The U.S. dollar's role as global reserve currency and dominant medium of exchang
 
 ### Dollar Privilege and Its Vulnerabilities
 
-<figure>
-  <img src="../../figures/figure_10_1_dollar_reserves.png" alt="Projected Dollar Share of Global Reserves (Scenarios 2024-2050)">
-  <figcaption>Figure 10.1: Projected Dollar Share of Global Reserves (Scenarios 2024-2050)</figcaption>
+<figure style="width: 100%; margin: 2em 0; text-align: center;">
+  <img src="../../figures/figure_10_1_dollar_reserves.png" alt="Projected Dollar Share of Global Reserves (Scenarios 2024-2050)" style="width: 100%; max-width: 100%; height: auto; display: block; margin: 0 auto;">
+  <figcaption style="margin-top: 1em; font-style: italic; color: #666;">Figure 10.1: Projected Dollar Share of Global Reserves (Scenarios 2024-2050)</figcaption>
 </figure>
 
 **Current Dollar Dominance**
@@ -242,9 +242,9 @@ Transitioning from fossil fuels to renewables doesn't eliminate strategic depend
 - **Strategic reserves**: Stockpiling critical minerals as strategic resources
 - **Friend-shoring**: Developing supply chains through allied countries (Australia, Canada, Chile, Peru)
 
-<figure>
-  <img src="../figures/fig_10_05_new_dependencies.png" alt="New Strategic Dependencies: Critical Minerals and Clean Energy Supply Chains">
-  <figcaption>Figure 10.5: New Strategic Dependencies: Critical Minerals and Clean Energy Supply Chains</figcaption>
+<figure style="width: 100%; margin: 2em 0; text-align: center;">
+  <img src="../figures/fig_10_05_new_dependencies.png" alt="New Strategic Dependencies: Critical Minerals and Clean Energy Supply Chains" style="width: 100%; max-width: 100%; height: auto; display: block; margin: 0 auto;">
+  <figcaption style="margin-top: 1em; font-style: italic; color: #666;">Figure 10.5: New Strategic Dependencies: Critical Minerals and Clean Energy Supply Chains</figcaption>
 </figure>
 
 ### Water Scarcity and Agricultural Leverage
@@ -319,9 +319,9 @@ Economic coercion tools must adapt to control these technologies' strategic diff
 
 ### Artificial Intelligence: The Defining Technology Competition
 
-<figure>
-  <img src="../../figures/figure_10_3_ai_indicators.png" alt="AI Development Indicators: U.S. vs China">
-  <figcaption>Figure 10.3: AI Development Indicators: U.S. vs China</figcaption>
+<figure style="width: 100%; margin: 2em 0; text-align: center;">
+  <img src="../../figures/figure_10_3_ai_indicators.png" alt="AI Development Indicators: U.S. vs China" style="width: 100%; max-width: 100%; height: auto; display: block; margin: 0 auto;">
+  <figcaption style="margin-top: 1em; font-style: italic; color: #666;">Figure 10.3: AI Development Indicators: U.S. vs China</figcaption>
 </figure>
 
 **AI Strategic Significance**
@@ -608,9 +608,9 @@ Projecting 25 years into an uncertain future requires scenario analysis: develop
 
 Combining these dimensions generates four scenarios:
 
-<figure>
-  <img src="../figures/fig_10_04_decoupling_scenarios.png" alt="Decoupling Scenarios: Future Economic Integration Pathways">
-  <figcaption>Figure 10.4: Decoupling Scenarios: Future Economic Integration Pathways</figcaption>
+<figure style="width: 100%; margin: 2em 0; text-align: center;">
+  <img src="../figures/fig_10_04_decoupling_scenarios.png" alt="Decoupling Scenarios: Future Economic Integration Pathways" style="width: 100%; max-width: 100%; height: auto; display: block; margin: 0 auto;">
+  <figcaption style="margin-top: 1em; font-style: italic; color: #666;">Figure 10.4: Decoupling Scenarios: Future Economic Integration Pathways</figcaption>
 </figure>
 
 {% hint style="info" %}

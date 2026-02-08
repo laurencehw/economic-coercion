@@ -38,9 +38,9 @@ Financial sanctions' effectiveness derives from the U.S. dollar's dominant posit
 
 ### The Dollar's Privileged Position
 
-<figure>
-  <img src="../../figures/fig_07_03_treasury_holdings.png" alt="Foreign Holdings of U.S. Treasury Securities">
-  <figcaption>Figure 7.3: Foreign Holdings of U.S. Treasury Securities</figcaption>
+<figure style="width: 100%; margin: 2em 0; text-align: center;">
+  <img src="../../figures/fig_07_03_treasury_holdings.png" alt="Foreign Holdings of U.S. Treasury Securities" style="width: 100%; max-width: 100%; height: auto; display: block; margin: 0 auto;">
+  <figcaption style="margin-top: 1em; font-style: italic; color: #666;">Figure 7.3: Foreign Holdings of U.S. Treasury Securities</figcaption>
 </figure>
 
 **Reserve Currency Status**
@@ -95,9 +95,9 @@ Approximately $13 trillion in non-U.S. dollar-denominated debt exists (2024)—d
 
 **Society for Worldwide Interbank Financial Telecommunication (SWIFT)**
 
-<figure>
-  <img src="../../figures/fig_07_01_swift_currencies.png" alt="Currency Share of Global Payments (SWIFT)">
-  <figcaption>Figure 7.1: Currency Share of Global Payments (SWIFT)</figcaption>
+<figure style="width: 100%; margin: 2em 0; text-align: center;">
+  <img src="../../figures/fig_07_01_swift_currencies.png" alt="Currency Share of Global Payments (SWIFT)" style="width: 100%; max-width: 100%; height: auto; display: block; margin: 0 auto;">
+  <figcaption style="margin-top: 1em; font-style: italic; color: #666;">Figure 7.1: Currency Share of Global Payments (SWIFT)</figcaption>
 </figure>
 
 SWIFT is not a payment system but a secure messaging network transmitting payment instructions between 11,000+ financial institutions in 200+ countries. Key characteristics:
@@ -284,9 +284,9 @@ When UN Security Council adopts sanctions resolutions (e.g., North Korea, Iran h
 
 ### Types of Sanctions Programs
 
-<figure>
-  <img src="../../figures/figure_7_2_sanctions_programs.png" alt="Active U.S. Sanctions Programs by Type">
-  <figcaption>Figure 7.2: Active U.S. Sanctions Programs by Type</figcaption>
+<figure style="width: 100%; margin: 2em 0; text-align: center;">
+  <img src="../../figures/figure_7_2_sanctions_programs.png" alt="Active U.S. Sanctions Programs by Type" style="width: 100%; max-width: 100%; height: auto; display: block; margin: 0 auto;">
+  <figcaption style="margin-top: 1em; font-style: italic; color: #666;">Figure 7.2: Active U.S. Sanctions Programs by Type</figcaption>
 </figure>
 
 OFAC administers multiple sanctions program types:
@@ -324,9 +324,9 @@ Prohibit specific transaction types with designated entities in targeted sectors
 
 Sectoral sanctions impose targeted pain on strategic industries while permitting other economic activity. More calibrated than comprehensive sanctions but complex to administer and susceptible to circumvention.
 
-<figure>
-  <img src="../figures/fig_07_06_sanctions_by_country.png" alt="U.S. Sanctions Programs by Target Country">
-  <figcaption>Figure 7.6: U.S. Sanctions Programs by Target Country</figcaption>
+<figure style="width: 100%; margin: 2em 0; text-align: center;">
+  <img src="../figures/fig_07_06_sanctions_by_country.png" alt="U.S. Sanctions Programs by Target Country" style="width: 100%; max-width: 100%; height: auto; display: block; margin: 0 auto;">
+  <figcaption style="margin-top: 1em; font-style: italic; color: #666;">Figure 7.6: U.S. Sanctions Programs by Target Country</figcaption>
 </figure>
 
 **Secondary Sanctions**
@@ -467,9 +467,9 @@ However, concerns about sanctions evasion (disguising commercial transactions as
 
 ## Secondary Sanctions and Extraterritoriality
 
-<figure>
-  <img src="../figures/fig_07_05_sanctions_cascade.png" alt="Sanctions Cascade: How Primary Sanctions Spread Through Secondary Effects">
-  <figcaption>Figure 7.5: Sanctions Cascade: How Primary Sanctions Spread Through Secondary Effects</figcaption>
+<figure style="width: 100%; margin: 2em 0; text-align: center;">
+  <img src="../figures/fig_07_05_sanctions_cascade.png" alt="Sanctions Cascade: How Primary Sanctions Spread Through Secondary Effects" style="width: 100%; max-width: 100%; height: auto; display: block; margin: 0 auto;">
+  <figcaption style="margin-top: 1em; font-style: italic; color: #666;">Figure 7.5: Sanctions Cascade: How Primary Sanctions Spread Through Secondary Effects</figcaption>
 </figure>
 
 Secondary sanctions represent the most controversial and powerful dimension of U.S. financial coercion: threatening sanctions on third parties—foreign persons outside U.S. jurisdiction—to compel them to cease business with primary sanctions targets. This section examines secondary sanctions' mechanics, effectiveness, and blowback.
@@ -687,9 +687,9 @@ Aggressive U.S. use of financial sanctions—particularly freezing Russia's cent
 
 **Sanctions Vulnerability**
 
-<figure>
-  <img src="../../figures/figure_7_4_russian_frozen_assets.png" alt="Russian Central Bank Assets Frozen in 2022">
-  <figcaption>Figure 7.4: Russian Central Bank Assets Frozen in 2022</figcaption>
+<figure style="width: 100%; margin: 2em 0; text-align: center;">
+  <img src="../../figures/figure_7_4_russian_frozen_assets.png" alt="Russian Central Bank Assets Frozen in 2022" style="width: 100%; max-width: 100%; height: auto; display: block; margin: 0 auto;">
+  <figcaption style="margin-top: 1em; font-style: italic; color: #666;">Figure 7.4: Russian Central Bank Assets Frozen in 2022</figcaption>
 </figure>
 
 States facing sanctions or anticipating future sanctions seek alternatives to dollar-denominated transactions and U.S.-connected financial infrastructure:
@@ -933,9 +933,9 @@ Network effects mean collective action problem: Everyone benefits if all switch,
 
 Some propose "green" currencies backed by carbon neutrality or renewable energy capacity. European Central Bank discussing environmental factors in reserve management. If climate transition reshapes global economy, new financial architectures could emerge—but speculative.
 
-<figure>
-  <img src="../figures/fig_07_07_dedollarization.png" alt="De-dollarization Trends: Reserve Currency Shares and Alternative Payment Systems">
-  <figcaption>Figure 7.7: De-dollarization Trends: Reserve Currency Shares and Alternative Payment Systems</figcaption>
+<figure style="width: 100%; margin: 2em 0; text-align: center;">
+  <img src="../figures/fig_07_07_dedollarization.png" alt="De-dollarization Trends: Reserve Currency Shares and Alternative Payment Systems" style="width: 100%; max-width: 100%; height: auto; display: block; margin: 0 auto;">
+  <figcaption style="margin-top: 1em; font-style: italic; color: #666;">Figure 7.7: De-dollarization Trends: Reserve Currency Shares and Alternative Payment Systems</figcaption>
 </figure>
 
 ---
