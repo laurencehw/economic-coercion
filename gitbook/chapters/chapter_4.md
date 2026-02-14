@@ -70,9 +70,9 @@ The semiconductor industry also exhibits characteristics that make competition p
 
 **Supply chain complexity** examined in Chapter 2 creates multiple chokepoints across the value chain. The United States dominates chip design (Qualcomm, Nvidia, AMD, Intel, Apple) and essential design tools (Synopsys, Cadence, Mentor Graphics control 100% of EDA software). The Netherlands monopolizes extreme ultraviolet lithography through ASML—literally the only company globally producing EUV machines essential for sub-7nm chips. Japan dominates critical materials (photoresists from JSR/Tokyo Ohka, silicon wafers from Shin-Etsu/SUMCO) and production equipment (Tokyo Electron). Taiwan controls advanced fabrication through TSMC. South Korea provides memory chips (Samsung, SK Hynix). China handles much assembly and testing but controls no critical upstream stages. This distributed supply chain means that comprehensive technology denial requires coordination across multiple countries—or that any single chokepoint can halt production.
 
-<figure style="width: 100%; margin: 2em 0; text-align: center;">
-  <img src="../figures/fig_04_03_chip_supply_chain.png" alt="Global semiconductor supply chain showing control by stage. The US dominates design software (100% EDA market share), Netherlands controls advanced lithography (ASML monopoly), Taiwan controls manufacturing (TSMC 90% of advanced nodes), while China leads only in assembly and testing. This distributed chain means denial requires allied coordination." style="width: 100%; max-width: 100%; height: auto; display: block; margin: 0 auto;">
-  <figcaption style="margin-top: 1em; font-style: italic; color: #666;">Figure 4.3: Global semiconductor supply chain showing control by stage. The US dominates design software (100% EDA market share), Netherlands controls advanced lithography (ASML monopoly), Taiwan controls manufacturing (TSMC 90% of advanced nodes), while China leads only in assembly and testing. This distributed chain means denial requires allied coordination.</figcaption>
+<figure class="book-figure">
+  <img src="../figures/fig_04_03_chip_supply_chain.png" alt="Global semiconductor supply chain showing control by stage. The US dominates design software (100% EDA market share), Netherlands controls advanced lithography (ASML monopoly), Taiwan controls manufacturing (TSMC 90% of advanced nodes), while China leads only in assembly and testing. This distributed chain means denial requires allied coordination.">
+  <figcaption>Figure 4.3: Global semiconductor supply chain showing control by stage. The US dominates design software (100% EDA market share), Netherlands controls advanced lithography (ASML monopoly), Taiwan controls manufacturing (TSMC 90% of advanced nodes), while China leads only in assembly and testing. This distributed chain means denial requires allied coordination.</figcaption>
 </figure>
 
 ### October 2022 Export Controls: Strategic Logic and Mechanisms
@@ -207,9 +207,9 @@ The U.S. military's Project Maven, initiated in 2017, exemplifies military AI ad
 
 **Economic and scientific applications** explain why AI restrictions face commercial resistance and potential long-term costs. AI powers drug discovery (predicting molecular interactions, identifying potential treatments), climate modeling (simulating atmospheric dynamics with unprecedented resolution), materials science (discovering new compounds for batteries, catalysts, semiconductors), and financial markets (algorithmic trading, risk assessment, fraud detection). Restricting AI chip exports to China means cutting Chinese researchers off from frontier AI capabilities—potentially slowing scientific collaboration and reducing global innovation even while protecting American leads. American pharmaceutical companies collaborating with Chinese research institutions face disruptions. Climate research requiring Chinese participation (China operates major climate models and represents critical data source) encounters obstacles. These costs don't disappear simply because they serve long-term strategic interests—they represent genuine tradeoffs requiring justification.
 
-<figure style="width: 100%; margin: 2em 0; text-align: center;">
-  <img src="../figures/fig_04_06_dual_use_matrix.png" alt="Dual-Use Technology Matrix: Military and Civilian Applications" style="width: 100%; max-width: 100%; height: auto; display: block; margin: 0 auto;">
-  <figcaption style="margin-top: 1em; font-style: italic; color: #666;">Dual-Use Technology Matrix: Military and Civilian Applications</figcaption>
+<figure class="book-figure">
+  <img src="../figures/fig_04_06_dual_use_matrix.png" alt="Dual-Use Technology Matrix: Military and Civilian Applications">
+  <figcaption>Dual-Use Technology Matrix: Military and Civilian Applications</figcaption>
 </figure>
 
 ### The October 2022 AI Chip Restrictions: Logic and Implementation
@@ -231,9 +231,9 @@ The Commerce Department's October 2023 update closed these loopholes, revising s
 
 ### AI Research Leadership: Publications, Patents, and Talent
 
-<figure style="width: 100%; margin: 2em 0; text-align: center;">
-  <img src="../figures/fig_04_02_ai_development.png" alt="AI Research Output and Impact by Country" style="width: 100%; max-width: 100%; height: auto; display: block; margin: 0 auto;">
-  <figcaption style="margin-top: 1em; font-style: italic; color: #666;">Figure 4.2: AI Research Output and Impact by Country</figcaption>
+<figure class="book-figure">
+  <img src="../figures/fig_04_02_ai_development.png" alt="AI Research Output and Impact by Country">
+  <figcaption>Figure 4.2: AI Research Output and Impact by Country</figcaption>
 </figure>
 
 AI competition extends beyond chips to research capabilities: which countries publish cutting-edge research, file foundational patents, attract and develop top talent, and translate research into commercial products and military applications. Metrics reveal complex dynamics where the United States and China lead in different dimensions while Europe falls behind.
@@ -248,9 +248,9 @@ Recent dynamics threaten American advantages. Increasingly, Chinese AI researche
 
 The United States also develops domestic talent, though shortfalls exist. Computer science enrollments at American universities have surged, but demand for AI expertise exceeds supply, driving fierce corporate competition for talent (six-figure salaries for new PhDs, million-dollar compensation for experienced researchers). Many top American students pursue lucrative industry careers rather than academic research, potentially reducing long-term foundational research. Educational outcomes show the United States producing fewer STEM graduates per capita than China, South Korea, and several European nations, though American education quality at top institutions remains unmatched globally.
 
-<figure style="width: 100%; margin: 2em 0; text-align: center;">
-  <img src="../figures/fig_04_05_stem_talent.png" alt="STEM Talent Flows: International Movement of Technical Expertise" style="width: 100%; max-width: 100%; height: auto; display: block; margin: 0 auto;">
-  <figcaption style="margin-top: 1em; font-style: italic; color: #666;">Figure 4.5: STEM Talent Flows: International Movement of Technical Expertise</figcaption>
+<figure class="book-figure">
+  <img src="../figures/fig_04_05_stem_talent.png" alt="STEM Talent Flows: International Movement of Technical Expertise">
+  <figcaption>Figure 4.5: STEM Talent Flows: International Movement of Technical Expertise</figcaption>
 </figure>
 
 **Transfer between research and application** represents another dimension where American ecosystem advantages manifest. Silicon Valley's venture capital, startup culture, and major tech firms excel at commercializing AI research: OpenAI transformed GPT research into ChatGPT commercial product within months, Google commercialized transformer architectures into search and advertising improvements, and countless startups leverage academic research for specialized applications. China's AI commercialization proceeds rapidly (TikTok's recommendation algorithms, Alibaba's logistics optimization, SenseTime's surveillance systems), but ecosystem differences create advantages for American translation of research to products, particularly in global markets where Chinese firms face regulatory and political obstacles (TikTok bans, Huawei restrictions, data localization requirements limiting Chinese cloud services).
@@ -364,9 +364,9 @@ Biotechnology represents perhaps the most consequential and least-governed domai
 
 Research and development investment determines long-term technological leadership, yet measuring and comparing R&D spending across countries involves definitional challenges, data quality concerns, and questions about efficiency versus quantity. Nevertheless, broad patterns reveal intensifying competition where Chinese R&D investment rivals or exceeds American levels while questions persist about which system generates more innovation per dollar invested.
 
-<figure style="width: 100%; margin: 2em 0; text-align: center;">
-  <img src="../figures/fig_04_01_rd_spending.png" alt="R&D Spending by Country (1990-2024)" style="width: 100%; max-width: 100%; height: auto; display: block; margin: 0 auto;">
-  <figcaption style="margin-top: 1em; font-style: italic; color: #666;">Figure 4.1: R&D Spending by Country (1990-2024)</figcaption>
+<figure class="book-figure">
+  <img src="../figures/fig_04_01_rd_spending.png" alt="R&D Spending by Country (1990-2024)">
+  <figcaption>Figure 4.1: R&D Spending by Country (1990-2024)</figcaption>
 </figure>
 
 **Global R&D trends** show dramatic growth and shifting geographic distribution. World Bank and OECD data indicate global R&D spending reached approximately $2.5 trillion annually (roughly 2.5% of global GDP), with growth concentrated in Asia. The United States remains the largest single-country investor at $700-750 billion annually (roughly 3.5% of U.S. GDP), but China has closed gaps dramatically: from less than 10% of U.S. R&D spending in 2000 to 85-90% by 2020, with estimates suggesting Chinese R&D spending may have surpassed American levels by 2023 in purchasing power parity terms. European Union collectively spends comparable amounts to the United States ($400-450 billion), but fragmentation across 27 member states reduces coordination and scale. Japan, South Korea, Taiwan, and other advanced economies maintain high R&D intensity (3-4% of GDP) but represent smaller absolute totals.
@@ -537,9 +537,9 @@ The October 7, 2022 semiconductor export controls represented the culmination of
 
 Prior to October 2022, U.S. semiconductor restrictions targeted specific Chinese firms deemed national security threats. Huawei's Entity List designation in May 2019 restricted sales of American semiconductors and equipment, expanded in May 2020 to cover foreign-made chips using U.S. technology (Foreign Direct Product Rule). SMIC joined the Entity List in December 2020 due to military ties. These targeted restrictions achieved narrow objectives (degrading Huawei's smartphone and 5G equipment competitiveness, constraining SMIC's most advanced production) but left most Chinese semiconductor industry accessible to American chips and equipment. Chinese AI firms purchased Nvidia GPUs without restriction, Chinese fabs bought ASML DUV tools freely, and American engineers worked for Chinese semiconductor companies legally.
 
-<figure style="width: 100%; margin: 2em 0; text-align: center;">
-  <img src="../figures/fig_04_04_huawei_impact.png" alt="Impact of Sanctions on Huawei Revenue and Market Share" style="width: 100%; max-width: 100%; height: auto; display: block; margin: 0 auto;">
-  <figcaption style="margin-top: 1em; font-style: italic; color: #666;">Figure 4.4: Impact of Sanctions on Huawei Revenue and Market Share</figcaption>
+<figure class="book-figure">
+  <img src="../figures/fig_04_04_huawei_impact.png" alt="Impact of Sanctions on Huawei Revenue and Market Share">
+  <figcaption>Figure 4.4: Impact of Sanctions on Huawei Revenue and Market Share</figcaption>
 </figure>
 
 The strategic logic for comprehensive controls emerged from several assessments. First, targeted restrictions proved inadequate: SMIC continued advancing despite Entity List status, achieving 7nm production demonstrated later. Chinese firms not on Entity Lists developed AI capabilities using unrestricted chips. Second, dual-use technologies meant that commercial sales inevitably supported military applications through civil-military fusion. Third, U.S. officials concluded that preventing Chinese semiconductor self-sufficiency served American interests more than maintaining commercial semiconductor sales revenue. Fourth, growing Congressional pressure and bipartisan consensus on China competition created political momentum for aggressive action.

@@ -83,9 +83,9 @@ Section 301 requires USTR investigation (initiated by petition or self-initiated
 
 ### The U.S.-China Trade War: Escalation and Impacts
 
-<figure style="width: 100%; margin: 2em 0; text-align: center;">
-  <img src="../figures/fig_06_01_us_china_tariffs.png" alt="U.S.-China Tariff Rates and Trade Flows (2018-2024)" style="width: 100%; max-width: 100%; height: auto; display: block; margin: 0 auto;">
-  <figcaption style="margin-top: 1em; font-style: italic; color: #666;">Figure 6.1: U.S.-China Tariff Rates and Trade Flows (2018-2024)</figcaption>
+<figure class="book-figure">
+  <img src="../figures/fig_06_01_us_china_tariffs.png" alt="U.S.-China Tariff Rates and Trade Flows (2018-2024)">
+  <figcaption>Figure 6.1: U.S.-China Tariff Rates and Trade Flows (2018-2024)</figcaption>
 </figure>
 
 The 2018-2024 U.S.-China trade war illustrates modern tariff-based coercion dynamics. What began as targeted technology-sector tariffs escalated through tit-for-tat retaliation into economy-wide restrictions affecting consumer goods, agricultural products, and industrial inputs.
@@ -135,9 +135,9 @@ The Biden administration conducted a Section 301 tariff review in 2021-2022, ult
 
 As of 2024, U.S. tariffs affect $360 billion in Chinese imports (average effective rate 19.3%); Chinese retaliatory tariffs affect $180 billion in U.S. exports (average 20.7%). Both countries granted some exclusions and exemptions, particularly for products lacking domestic alternatives.
 
-<figure style="width: 100%; margin: 2em 0; text-align: center;">
-  <img src="../figures/fig_06_05_trade_war_escalation.png" alt="US-China economic conflict escalation ladder (2018-2024). The tariff war phase (2018-2020) evolved into a technology war phase (2022-present) with export controls on semiconductors and critical minerals becoming the primary instruments." style="width: 100%; max-width: 100%; height: auto; display: block; margin: 0 auto;">
-  <figcaption style="margin-top: 1em; font-style: italic; color: #666;">Figure 6.2: US-China economic conflict escalation ladder (2018-2024). The tariff war phase (2018-2020) evolved into a technology war phase (2022-present) with export controls on semiconductors and critical minerals becoming the primary instruments.</figcaption>
+<figure class="book-figure">
+  <img src="../figures/fig_06_05_trade_war_escalation.png" alt="US-China economic conflict escalation ladder (2018-2024). The tariff war phase (2018-2020) evolved into a technology war phase (2022-present) with export controls on semiconductors and critical minerals becoming the primary instruments.">
+  <figcaption>Figure 6.2: US-China economic conflict escalation ladder (2018-2024). The tariff war phase (2018-2020) evolved into a technology war phase (2022-present) with export controls on semiconductors and critical minerals becoming the primary instruments.</figcaption>
 </figure>
 
 ### Economic Impacts of the Trade War
@@ -182,9 +182,9 @@ Beyond static trade impacts, tariffs accelerated supply chain reconfiguration:
 - **China**: Estimates suggest 0.5-0.8% GDP reduction. However, China's simultaneous growth slowdown from debt deleveraging and COVID-19 makes trade war effects difficult to isolate.
 - **Global**: IMF (2019) estimated trade war could reduce global GDP by 0.8% by 2020 through trade disruptions, uncertainty, and financial market impacts.
 
-<figure style="width: 100%; margin: 2em 0; text-align: center;">
-  <img src="../figures/fig_06_06_section_301.png" alt="Section 301 Tariffs: Affected Imports by Sector and Tariff List" style="width: 100%; max-width: 100%; height: auto; display: block; margin: 0 auto;">
-  <figcaption style="margin-top: 1em; font-style: italic; color: #666;">Figure 6.3: Section 301 Tariffs: Affected Imports by Sector and Tariff List</figcaption>
+<figure class="book-figure">
+  <img src="../figures/fig_06_06_section_301.png" alt="Section 301 Tariffs: Affected Imports by Sector and Tariff List">
+  <figcaption>Figure 6.3: Section 301 Tariffs: Affected Imports by Sector and Tariff List</figcaption>
 </figure>
 
 ### Political Economy of Tariff-Based Coercion
@@ -322,9 +322,9 @@ AG faces fundamental challenge: Most controlled chemicals and equipment have leg
 
 The United States maintains the world's most extensive unilateral export control system, codified in the **Export Administration Regulations (EAR)**, 15 C.F.R. Part 730 et seq. The Commerce Department's Bureau of Industry and Security (BIS) administers EAR based on statutory authority from the **Export Control Reform Act of 2018** (ECRA), 50 U.S.C. § 4801 et seq.
 
-<figure style="width: 100%; margin: 2em 0; text-align: center;">
-  <img src="../figures/fig_06_03_entity_list.png" alt="Entity List Additions by Administration" style="width: 100%; max-width: 100%; height: auto; display: block; margin: 0 auto;">
-  <figcaption style="margin-top: 1em; font-style: italic; color: #666;">Figure 6.4: Entity List Additions by Administration</figcaption>
+<figure class="book-figure">
+  <img src="../figures/fig_06_03_entity_list.png" alt="Entity List Additions by Administration">
+  <figcaption>Figure 6.4: Entity List Additions by Administration</figcaption>
 </figure>
 
 **Scope of EAR Jurisdiction**
@@ -338,9 +338,9 @@ EAR applies extraordinarily broadly:
 
 This extraterritorial reach makes EAR a powerful tool: U.S. can restrict foreign sales of foreign-made goods if they contain U.S. technology or were produced using U.S. equipment.
 
-<figure style="width: 100%; margin: 2em 0; text-align: center;">
-  <img src="../figures/fig_06_02_fdpr_reach.png" alt="Foreign Direct Product Rule: Extraterritorial Reach of U.S. Export Controls" style="width: 100%; max-width: 100%; height: auto; display: block; margin: 0 auto;">
-  <figcaption style="margin-top: 1em; font-style: italic; color: #666;">Figure 6.5: Foreign Direct Product Rule: Extraterritorial Reach of U.S. Export Controls</figcaption>
+<figure class="book-figure">
+  <img src="../figures/fig_06_02_fdpr_reach.png" alt="Foreign Direct Product Rule: Extraterritorial Reach of U.S. Export Controls">
+  <figcaption>Figure 6.5: Foreign Direct Product Rule: Extraterritorial Reach of U.S. Export Controls</figcaption>
 </figure>
 
 **Commerce Control List (CCL)**
@@ -705,9 +705,9 @@ Chinese retaliation less effective than U.S. controls due to:
 
 However, near-term disruptions real: Gallium/germanium restrictions caused 6-12 month supply disruptions and 20-30% price increases. For firms with thin margins or just-in-time inventory, temporary disruptions can be severe.
 
-<figure style="width: 100%; margin: 2em 0; text-align: center;">
-  <img src="../figures/fig_06_04_rare_earth_retaliation.png" alt="China's Critical Mineral Export Controls Timeline and Market Dominance" style="width: 100%; max-width: 100%; height: auto; display: block; margin: 0 auto;">
-  <figcaption style="margin-top: 1em; font-style: italic; color: #666;">Figure 6.6: China's Critical Mineral Export Controls Timeline and Market Dominance</figcaption>
+<figure class="book-figure">
+  <img src="../figures/fig_06_04_rare_earth_retaliation.png" alt="China's Critical Mineral Export Controls Timeline and Market Dominance">
+  <figcaption>Figure 6.6: China's Critical Mineral Export Controls Timeline and Market Dominance</figcaption>
 </figure>
 
 ---

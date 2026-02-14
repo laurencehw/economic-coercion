@@ -56,9 +56,9 @@ Section 301 requires USTR investigation (initiated by petition or self-initiated
 
 ### The U.S.-China Trade War: Escalation and Impacts
 
-<figure style="width: 100%; margin: 2em 0; text-align: center;">
-  <img src="../../figures/fig_06_01_us_china_tariffs.png" alt="U.S.-China tariff rates and trade flows from 2018-2024, showing the escalation of the trade war." style="width: 100%; max-width: 100%; height: auto; display: block; margin: 0 auto;">
-  <figcaption style="margin-top: 1em; font-style: italic; color: #666;">Figure 6.1: U.S.-China tariff rates and trade flows from 2018-2024, showing the escalation of the trade war.</figcaption>
+<figure class="book-figure">
+  <img src="../../figures/fig_06_01_us_china_tariffs.png" alt="U.S.-China tariff rates and trade flows from 2018-2024, showing the escalation of the trade war.">
+  <figcaption>Figure 6.1: U.S.-China tariff rates and trade flows from 2018-2024, showing the escalation of the trade war.</figcaption>
 </figure>
 
 The 2018-2024 U.S.-China trade war illustrates modern tariff-based coercion dynamics. What began as targeted technology-sector tariffs escalated through tit-for-tat retaliation into economy-wide restrictions affecting consumer goods, agricultural products, and industrial inputs.
@@ -288,9 +288,9 @@ AG faces fundamental challenge: Most controlled chemicals and equipment have leg
 
 The United States maintains the world's most extensive unilateral export control system, codified in the **Export Administration Regulations (EAR)**, 15 C.F.R. Part 730 et seq. The Commerce Department's Bureau of Industry and Security (BIS) administers EAR based on statutory authority from the **Export Control Reform Act of 2018** (ECRA), 50 U.S.C. § 4801 et seq.
 
-<figure style="width: 100%; margin: 2em 0; text-align: center;">
-  <img src="../../figures/fig_06_03_entity_list.png" alt="Entity List additions by administration, showing the growth of export control restrictions." style="width: 100%; max-width: 100%; height: auto; display: block; margin: 0 auto;">
-  <figcaption style="margin-top: 1em; font-style: italic; color: #666;">Figure 6.3: Entity List additions by administration, showing the growth of export control restrictions.</figcaption>
+<figure class="book-figure">
+  <img src="../../figures/fig_06_03_entity_list.png" alt="Entity List additions by administration, showing the growth of export control restrictions.">
+  <figcaption>Figure 6.3: Entity List additions by administration, showing the growth of export control restrictions.</figcaption>
 </figure>
 
 **Scope of EAR Jurisdiction**
