@@ -307,7 +307,7 @@ Evaluating investment screening's effectiveness as economic coercion instrument 
 
 **1. Target Compliance**
 
-Investment screening achieves high compliance: when CFIUS or allied authorities block or demand divestment, targets generally comply rather than risk presidential prohibition, sanctions, or legal penalties. The TikTok case represents partial exception—ByteDance has resisted full divestment for four years through litigation and negotiations—but this reflects enforcement complexity for already-operating businesses rather than non-compliance with prospective transaction blocks.
+Investment screening achieves high compliance: when CFIUS or allied authorities block or demand divestment, targets generally comply rather than risk presidential prohibition, sanctions, or legal penalties. The TikTok case illustrates both the difficulties and ultimate effectiveness of forced divestiture for already-operating businesses: ByteDance resisted through years of litigation and negotiation, but the January 2026 establishment of the TikTok USDS Joint Venture — with majority American ownership and Oracle-hosted infrastructure — demonstrated that even complex, politically charged divestitures can be resolved when backed by credible legislative force.
 
 Compliance extends to voluntary transaction abandonment: when parties anticipate CFIUS rejection, they typically withdraw filings rather than proceeding to formal rejection. This "shadow" effect means visible statistics undercount actual effectiveness.
 
@@ -349,7 +349,7 @@ Investment screening appears highly sustainable:
 
 Sustainability risks include:
 - **Allied coordination**: Requires ongoing diplomatic effort; political changes could fracture consensus
-- **Legal challenges**: TikTok and others contest authorities in courts; adverse rulings could limit tools
+- **Legal challenges**: Targets contest authorities in courts (as ByteDance did before ultimately accepting the TikTok divestiture); adverse rulings could limit tools
 - **Economic pressure**: Prolonged capital controls may generate business community opposition if costs rise or alternative capital sources prove insufficient
 
 **5. Collateral Damage**
@@ -1084,17 +1084,13 @@ U.S. intelligence and security officials identified multiple risks:
 
 **House version introduced**: January 2024
 **Senate version**: March 2024
-**Status**: Passed House (September 2024, 306-81 bipartisan vote); Senate consideration ongoing
+**Enacted**: December 18, 2025 — signed into law as Section 851 of the FY2026 National Defense Authorization Act (NDAA), after passing the House 306-81 (September 2024) and surviving extensive Senate negotiation over the final text.
 
 **Key provisions**:
 
-**Prohibition on federal contracts**: Federal agencies prohibited from contracting with or procuring from "biotechnology companies of concern" and their subsidiaries.
+**Prohibition on federal contracts**: Federal agencies prohibited from contracting with or procuring from "biotechnology companies of concern" (BCCs) and their subsidiaries. Agencies may not expend loan or grant funds for biotechnology equipment or services provided by a BCC.
 
-**Named companies**: Initially identified:
-- WuXi AppTec and subsidiaries
-- WuXi Biologics
-- BGI and subsidiaries (BGI Genomics, MGI, Complete Genomics)
-- GenScript
+**Designation mechanism**: The enacted law does not name specific companies. Instead, it treats any company on the Department of Defense's Section 1260H list of "Chinese military companies" as a BCC, while creating an administrative process through which additional companies can be designated. Notably, WuXi AppTec and WuXi Biologics are not currently on the 1260H list and therefore are not subject to the law's restrictions as of early 2026 — a significant narrowing from the original House bill, which named them explicitly.
 
 **Covered activities**:
 - Drug development contracts
@@ -1103,9 +1099,9 @@ U.S. intelligence and security officials identified multiple risks:
 - Data processing services
 
 **Timeline**:
-- Existing contracts: Grace period for transition (proposed 5-10 years for some categories)
-- New contracts: Prohibition effective upon enactment
-- Extensions possible for sole-source/critical situations
+- Existing contracts: Five-year safe harbor for contracts with companies later designated as BCCs
+- New contracts: Prohibition effective upon designation
+- Equipment produced or services provided prior to designation are excluded
 
 **Exemptions and waivers**: Secretary of HHS may waive in national security interest or if no viable alternative exists
 
@@ -1130,7 +1126,7 @@ U.S. intelligence and security officials identified multiple risks:
 
 **Effectiveness Assessment**
 
-**1. Compliance**: High—federal agencies will comply once enacted; private firms relying on federal contracts (NIH grants, DoD biodefense projects, Medicare reimbursements for diagnostics) will transition.
+**1. Compliance**: High—federal agencies must comply; private firms relying on federal contracts (NIH grants, DoD biodefense projects, Medicare reimbursements for diagnostics) will transition. However, the narrower designation mechanism (1260H list rather than named companies) means the initial scope of compliance obligations is more limited than anticipated during the legislative debate.
 
 **2. Capability Degradation**:
 - **Chinese access to U.S. genetic data reduced**: BGI and others lose U.S. samples
@@ -1141,7 +1137,7 @@ U.S. intelligence and security officials identified multiple risks:
 - **U.S. costs**: $5-15 billion over decade (higher development costs, delays, lost efficiencies)
 - **Chinese costs**: $40-60 billion in lost revenue for WuXi, BGI over 10 years; reputational damage limiting global business
 
-**4. Sustainability**: High political support (bipartisan), aligns with broader China competition strategy. Industry opposition exists but hasn't blocked legislation.
+**4. Sustainability**: High political support (bipartisan enactment via NDAA), aligns with broader China competition strategy. Industry lobbying succeeded in narrowing the designation mechanism from named companies to the 1260H list process, but the framework is now law and can be expanded through administrative action.
 
 **5. Collateral Damage**: Moderate—U.S. biotech firms face costs and delays; patients may experience delayed access to new therapies; European and other allies not coordinating similar restrictions may gain competitive advantages if their firms continue using Chinese services.
 
@@ -1156,17 +1152,11 @@ The legislation demonstrates U.S. willingness to accept economic costs (delayed 
 
 ---
 
-## Case Study 2: Australian Economic Coercion (2020-2022) - Detailed Analysis
+## Case Study 2: Australian Economic Coercion (2020-2022)
 
-[This case study has already been covered comprehensively in Section 4 above. The section provides:
-- Background on Australia's COVID investigation call
-- Detailed breakdown of Chinese restrictions across multiple sectors (barley, wine, beef, coal, lobster)
-- Australian economic impacts and policy responses
-- Analysis of restriction easing in 2023-2024
-- Lessons about informal coercion mechanisms, advantages, limitations
-- Middle power implications
+China's campaign of economic pressure against Australia following Canberra's April 2020 call for an independent COVID-19 origins investigation represents one of the most comprehensive modern cases of informal economic coercion. The episode is analyzed in detail in Sections 4.4 and 4.5 above, which cover the full spectrum of Chinese restrictions (barley, wine, beef, coal, lobster, and other sectors), Australian economic impacts and policy responses, the gradual easing of restrictions in 2023-2024, and broader lessons about informal coercion mechanisms and middle power resilience.
 
-Rather than duplicate that content, readers should refer to Section 4.4 and 4.5 for the complete case study analysis.]
+The case is particularly instructive for this chapter's themes because it illustrates how investment screening and industrial policy intersect with coercion dynamics. Australia's decision to exclude Huawei from its 5G network (August 2018) and to strengthen foreign investment review through the Foreign Relations Act (December 2020) were both triggers for and responses to Chinese economic pressure. The episode demonstrates that countries willing to absorb short-term economic costs—and capable of diversifying trade relationships—can resist coercive campaigns without policy capitulation.
 
 ---
 
@@ -1491,7 +1481,7 @@ Chinese private equity fund "Golden Harvest Capital" proposes $2 billion investm
 
 4. U.S. Congress, CHIPS and Science Act of 2022, Public Law 117-167.
 
-5. U.S. Congress, H.R. 8333 BIOSECURE Act, 118th Congress (2024).
+5. BIOSECURE Act, Section 851 of the National Defense Authorization Act for Fiscal Year 2026, Pub. L. No. 119-XXX (December 18, 2025); originally H.R. 8333, 118th Congress (2024).
 
 6. Australian Bureau of Statistics, "International Trade in Goods and Services," various releases 2020-2024.
 
@@ -1504,16 +1494,3 @@ Chinese private equity fund "Golden Harvest Capital" proposes $2 billion investm
 10. American Enterprise Institute, "China Global Investment Tracker," https://www.aei.org/china-global-investment-tracker/
 
 ---
-
-*End of Chapter 8*
-
-[**Word count: ~12,100 words**]
-
-[**Visualization placeholders referenced**:
-- Figure 8.1: CFIUS Reviews and Rejections Over Time
-- Figure 8.2: Chinese FDI in U.S. and Europe (2008-2024) [COMPLETED]
-- Figure 8.3: Industrial Policy Spending Comparison (CHIPS Act, IRA vs China Big Fund)
-- Figure 8.4: SOE Assets by Country
-- Figure 8.5: Australian Export Sectors Affected by Chinese Restrictions (2020-2022)
-- Figure 8.6: Timeline of Australia-China Economic Tensions]
-

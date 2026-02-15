@@ -731,5 +731,4 @@ TSMC. Annual Reports. Available at tsmc.com/english/investorRelations.
 
 ---
 
-**End of Chapter 2**
 

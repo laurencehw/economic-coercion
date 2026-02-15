@@ -754,6 +754,3 @@ Bazilian, Morgan D. "The Mineral Foundation of the Energy Transition." *The Extr
 Escribano, Gonzalo, et al. "Energy Dependency, Geopolitics, and Foreign Policy: The EU-Russia Natural Gas Trade." *Energy Research & Social Science* 68 (2020): 101528.
 
 ---
-
-**End of Chapter 3**
-

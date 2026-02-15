@@ -1018,6 +1018,3 @@ TSMC. Annual Reports. Available at tsmc.com/english/investorRelations.
 - *Nature Materials*, *Science*, *Nature Energy* - Cutting-edge research on battery technology, materials science, substitution research
 
 ---
-
-**End of Chapter 2**
-

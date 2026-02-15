@@ -878,5 +878,3 @@ Understanding economic coercion requires access to reliable data on sanctions, t
 - Bergsten, C. Fred and Joseph Gagnon (2017). *Currency Conflict and Trade Policy: A New Strategy for the United States*. PIIE. [Economic instruments and China]
 
 ---
-
-**End of Chapter 1**

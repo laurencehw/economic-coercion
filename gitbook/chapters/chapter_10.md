@@ -355,15 +355,15 @@ Success requires combining:
 
 **AI Export Controls and Coercion**
 
-U.S. October 2022 and October 2023 semiconductor export controls targeted Chinese AI development:
-- Restricting advanced AI chips (Nvidia A100/H100, AMD MI250) exports to China
-- Controlling semiconductor manufacturing equipment preventing Chinese firms from producing equivalents
-- Prohibiting U.S. persons from supporting Chinese advanced chip development
+U.S. semiconductor export controls evolved rapidly from 2022 to 2025, revealing the inherent tensions in using technology denial as a coercive instrument:
+- **October 2022-2024 (Biden era)**: Blanket restrictions on advanced AI chips (Nvidia A100/H100, AMD MI250), semiconductor manufacturing equipment, and U.S. persons supporting Chinese chip development. Progressive tightening closed loopholes (October 2023 updates banned "China-compliant" variants like the A800/H800).
+- **January 2025**: Outgoing Biden administration issued a global "AI Diffusion Rule" creating three-tier country licensing framework — an attempt to prevent third-country circumvention.
+- **2025 (Trump era)**: Rescinded the AI Diffusion Rule and shifted to case-by-case licensing for advanced chips (Nvidia H200, AMD MI325X) to approved Chinese customers, while simultaneously adding 140 PRC entities to the Entity List.
 
 **Effectiveness**:
-- **Short-term degradation**: Chinese labs face GPU shortages, training frontier models more expensive/slower
-- **Medium-term adaptation**: Chinese firms develop workarounds (Nvidia A800/H800 downgraded chips, smuggling, cloud computing access), Huawei/SMIC pursue indigenous alternatives
-- **Long-term uncertainty**: Whether China achieves self-sufficiency or remains perpetually behind depends on semiconductor technology trajectory, Chinese state investment effectiveness, and export control sustainability
+- **Short-term degradation**: Chinese labs faced GPU shortages; training frontier models became more expensive and slower during the 2022-2024 restriction period
+- **Medium-term adaptation**: Chinese firms developed workarounds (smuggling, cloud computing access), and Huawei/SMIC pursued indigenous alternatives. The 2025 policy relaxation partly reflects recognition that blanket restrictions were driving innovation losses for American firms without permanently blocking Chinese progress.
+- **Long-term uncertainty**: Whether China achieves self-sufficiency or remains perpetually behind depends on semiconductor technology trajectory, Chinese state investment effectiveness, and whether U.S. policy oscillation between restriction and selective engagement undermines the credibility of export controls as a coercive tool
 
 **AI Governance Fragmentation**
 
@@ -434,7 +434,7 @@ Controlling quantum technology harder than semiconductors due to diffusion, but 
 
 **Biotech Strategic Dimensions**
 
-Chapter 8 BIOSECURE Act analysis (WuXi, BGI) demonstrated emerging biotech competition. Future developments intensify strategic significance:
+Chapter 8's analysis of the BIOSECURE Act (enacted December 2025) demonstrated how biotech competition has become a domain for economic coercion. Future developments intensify strategic significance:
 
 **CRISPR gene editing**: Potential applications include:
 - Agricultural enhancement (drought-resistant crops, higher yields)
@@ -459,7 +459,7 @@ Chapter 8 BIOSECURE Act analysis (WuXi, BGI) demonstrated emerging biotech compe
 
 **Biosecurity risks**: Gain-of-function research, synthetic biology capabilities create accidental or deliberate pathogen release risks—strategic competition must balance innovation against catastrophic risks.
 
-**Export controls and talent restrictions**: BIOSECURE Act model expanding—restricting collaborations, limiting talent flows, controlling biological materials/reagents trade.
+**Export controls and talent restrictions**: The BIOSECURE Act established the legal framework; its designation-based model can expand administratively—restricting collaborations, limiting talent flows, controlling biological materials/reagents trade.
 
 ### Space Systems: The High Frontier
 
@@ -1370,21 +1370,3 @@ China offers:
 10. Allison, Graham. *Destined for War: Can America and China Escape Thucydides's Trap?* Houghton Mifflin Harcourt, 2017.
 
 ---
-
-*End of Chapter 10*
-
-*End of Book*
-
-[**Word count: ~11,800 words**]
-
-[**Total book word count: ~137,400 words across 10 chapters**]
-
-[**Visualization placeholders referenced in Chapter 10**:
-- Figure 10.1: Dollar Share of Global Reserves (1995-2050 projection)
-- Figure 10.2: Critical Mineral Production and Processing Concentration
-- Figure 10.3: AI Development Indicators (U.S. vs. China vs. EU)
-- Figure 10.4: BRICS+ Expansion and Economic Weight (2001-2024)
-- Figure 10.5: Scenario Matrix - Integration vs. Competition Intensity]
-
-**Book Complete: 10 Chapters, ~137,400 words, covering the full scope of contemporary economic coercion from foundations through future scenarios.**
-

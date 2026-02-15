@@ -1269,15 +1269,3 @@ Participants must design sanctions strategy addressing:
 10. Farrell, Henry, and Abraham L. Newman. "Weaponized Interdependence: How Global Economic Networks Shape State Coercion." *International Security* 44, no. 1 (Summer 2019): 42-79.
 
 ---
-
-*End of Chapter 9*
-
-[**Word count: ~14,100 words**]
-
-[**Visualization placeholders referenced**:
-- Figure 9.1: Soviet Grain Imports by Source Country (1975-1985)
-- Figure 9.2: Timeline of Anti-Apartheid Sanctions and Regime Change
-- Figure 9.3: Sanctions Success Rates by Type and Target (comparative analysis)
-- Figure 9.4: China Rare Earth Export Quotas and Global Prices (2005-2015)
-- Figure 9.5: Migration Flows and Coercion Episodes (Turkey-EU, Belarus-Poland)]
-

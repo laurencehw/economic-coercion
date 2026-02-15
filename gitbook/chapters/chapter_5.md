@@ -304,7 +304,7 @@ Social media platforms—Twitter/X, Facebook/Meta, YouTube, TikTok—have become
 - **Influence operations:** Platform could be weaponized during crises to spread disinformation, create panic, or manipulate public opinion on geopolitically sensitive issues
 - **Cognitive security:** Even without active manipulation, foreign adversary control of information platform consumed by millions creates strategic vulnerability and potential coercive leverage
 
-TikTok has implemented various measures attempting to address concerns: storing U.S. user data with Oracle in the United States, establishing content moderation transparency, and creating organizational separations between TikTok and ByteDance. However, U.S. government assessments conclude that structural ties to Chinese parent company and potential Chinese government pressure create ineradicable risks. Legislation requiring ByteDance divestiture of TikTok (divest to non-Chinese owners or face ban) passed Congress in 2024, though implementation faces legal challenges and practical complexities.
+TikTok implemented various measures attempting to address concerns: storing U.S. user data with Oracle in the United States, establishing content moderation transparency, and creating organizational separations between TikTok and ByteDance. However, U.S. government assessments concluded that structural ties to the Chinese parent company and potential Chinese government pressure created ineradicable risks. Legislation requiring ByteDance divestiture passed Congress in 2024, and after a brief period under a de jure ban (January 19, 2025 to January 22, 2026) that was never enforced, the TikTok USDS Joint Venture LLC was formally established in January 2026. The deal restructured U.S. TikTok operations under majority American ownership — 50% held by new investors (Oracle, Silver Lake, and Abu Dhabi's MGX at 15% each), 30.1% by existing ByteDance investors, and 19.9% retained by ByteDance — with the recommendation algorithm copied and retrained exclusively on U.S. user data, hosted by Oracle.
 
 The TikTok debate illustrates broader dilemmas about **reciprocity in digital platforms**. Chinese internet remains closed to Western platforms while Chinese platforms operate globally—creating asymmetric information access. Arguments for banning or restricting TikTok emphasize security and reciprocity; counterarguments raise free expression concerns, economic costs (American creators and businesses rely on TikTok), and precedent for internet fragmentation (if United States bans foreign platforms based on ownership nationality, will others follow, fragmenting global internet?).
 
@@ -1134,8 +1134,6 @@ U.S.-China Economic and Security Review Commission. *2023 Annual Report to Congr
 
 Weber, Steven, and Teri Takai, editors. *Technology and National Security*. MIT Press, 2023.
 
-Zittrain, Jonathan. *The Future of the Internet—And How to Stop It*. Yale University Press, 2008.
+Zittrain, Jonathan. *The Future of the Internetâ€”And How to Stop It*. Yale University Press, 2008.       
 
 ---
-
-*End of Chapter 5*

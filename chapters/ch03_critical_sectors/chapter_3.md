@@ -467,5 +467,4 @@ Escribano, Gonzalo, et al. "Energy Dependency, Geopolitics, and Foreign Policy: 
 
 ---
 
-**End of Chapter 3**
 

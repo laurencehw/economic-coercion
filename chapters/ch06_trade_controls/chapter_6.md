@@ -1017,17 +1017,6 @@ Presidential determinations receive substantial deference; judicial review extre
 
 ---
 
-### Further Reading
-
-- **Statute**: 19 U.S.C. § 1862 (Trade Expansion Act of 1962, Section 232)
-- **Regulations**: 15 C.F.R. Part 705 (Effect of Imported Articles on the National Security)
-- **Commerce Department**: Bureau of Industry and Security Section 232 investigations reports (www.bis.doc.gov)
-- **Case law**: Transpacific Steel LLC v. United States, 466 F. Supp. 3d 1246 (Ct. Int'l Trade 2020)
-- **Congressional Research Service**: "Section 232 Investigations: Overview and Issues for Congress" (updated regularly)
-- **Analysis**: Chad Bown and Euijin Jung, "Trump's Steel and Aluminum Tariffs Are Cascading Out of Control," Peterson Institute for International Economics (2018)
-
----
-
 ## Government Tools Box 2: Export Administration Regulations and Entity List
 
 ### Legal Authority and Statutory Basis
@@ -1804,5 +1793,4 @@ Wendy Cutler and Aidan Arasasingham, "The U.S. Section 301 Investigation into Ch
 
 ---
 
-**Chapter 6 Word Count**: Approximately 21,000 words
 

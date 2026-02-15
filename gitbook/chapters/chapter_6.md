@@ -1170,6 +1170,14 @@ Presidential determinations receive substantial deference; judicial review extre
 
 7. **Economic costs**: Tariffs function as taxes on domestic consumers and import-using firms. Studies estimate steel/aluminum tariffs cost U.S. economy $900,000 per job saved in steel/aluminum production—far exceeding average steel worker wages.
 
+### Further Reading
+
+- **Statute**: 19 U.S.C. § 1862 (Trade Expansion Act of 1962, Section 232)
+- **Regulations**: 15 C.F.R. Part 705 (Effect of Imported Articles on the National Security)
+- **Commerce Department**: Bureau of Industry and Security Section 232 investigations reports (www.bis.doc.gov)
+- **Case law**: Transpacific Steel LLC v. United States, 466 F. Supp. 3d 1246 (Ct. Int'l Trade 2020)
+- **Congressional Research Service**: "Section 232 Investigations: Overview and Issues for Congress" (updated regularly)
+- **Analysis**: Chad Bown and Euijin Jung, "Trump's Steel and Aluminum Tariffs Are Cascading Out of Control," Peterson Institute for International Economics (2018)
 
 ---
 
@@ -1352,18 +1360,6 @@ Short of these demands, China offers modest concessions:
 
 - Bown, Chad P., and Douglas A. Irwin. "Trump's Assault on the Global Trading System." *Foreign Affairs*, 2019
 - Lovely, Mary E., and Yang Liang. "Trump Tariffs Primarily Hit Multinational Supply Chains." *PIIE*, 2018
-
-
----
-
-### Further Reading
-
-- **Statute**: 19 U.S.C. § 1862 (Trade Expansion Act of 1962, Section 232)
-- **Regulations**: 15 C.F.R. Part 705 (Effect of Imported Articles on the National Security)
-- **Commerce Department**: Bureau of Industry and Security Section 232 investigations reports (www.bis.doc.gov)
-- **Case law**: Transpacific Steel LLC v. United States, 466 F. Supp. 3d 1246 (Ct. Int'l Trade 2020)
-- **Congressional Research Service**: "Section 232 Investigations: Overview and Issues for Congress" (updated regularly)
-- **Analysis**: Chad Bown and Euijin Jung, "Trump's Steel and Aluminum Tariffs Are Cascading Out of Control," Peterson Institute for International Economics (2018)
 
 ---
 
@@ -2142,6 +2138,3 @@ Kevin Wolf, "The ECRA and the New World of Export Controls," *Akin Gump Trade Bl
 Wendy Cutler and Aidan Arasasingham, "The U.S. Section 301 Investigation into China's IP Practices: Two Years Later," *Asia Society Policy Institute* (2020)
 
 ---
-
-**Chapter 6 Word Count**: Approximately 21,000 words
-
