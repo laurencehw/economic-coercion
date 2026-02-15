@@ -6,11 +6,11 @@ On February 26, 2022, four days after Russia's full-scale invasion of Ukraine, t
 
 Within days, the ruble collapsed 30%, Russian stock markets plunged, and Western firms scrambled to unwind Russian exposure. The speed and severity shocked observers—one former Russian finance minister called it "financial nuclear war." He was not exaggerating by much.
 
-Yet this extraordinary action represented the culmination of decades building U.S.-centered financial architecture enabling what Treasury officials call "economic warfare." Washington had spent generations wiring the global financial system; now it was using those wires to electrocute an adversary.
+Yet this extraordinary action represented the culmination of decades building U.S.-centered financial architecture enabling what Treasury officials call "economic warfare." The same infrastructure that facilitates global liquidity had become the primary conduit for coercion.
 
 This chapter examines financial sanctions—restricting access to financial systems, freezing assets, and prohibiting transactions—as instruments of economic coercion. Unlike trade controls affecting goods flows or investment screening targeting ownership, financial sanctions operate in the abstract realm of money, payments, and capital—yet their impacts can be devastating. A firm denied access to dollar-denominated payments or international banking systems faces existential crisis; a state frozen out of global finance confronts economic strangulation. Three key arguments structure our analysis:
 
-**First, U.S. financial power rests on structural advantages in the international monetary system, not simply economic size.** The dollar's role as dominant reserve currency (58% of global foreign exchange reserves), invoicing currency (40% of SWIFT payments), and safe haven asset creates network effects (IMF 2024) and path dependencies that competitors cannot easily replicate. Control of financial infrastructure—SWIFT, Euroclear, correspondent banking—amplifies this power. Understanding these structural foundations illuminates both sanctions' effectiveness and vulnerabilities.
+**First, U.S. financial power rests on structural advantages in the international monetary system, not simply economic size.** The dollar's role as dominant reserve currency (58% of global foreign exchange reserves), invoicing currency (40% of SWIFT payments), and safe haven asset creates network effects (IMF 2024) and path dependencies that competitors cannot easily replicate. Control of financial infrastructure—SWIFT, Euroclear, correspondent banking—amplifies this power. These structural foundations provide the jurisdictional basis for coercion while simultaneously defining the system's points of failure.
 
 **Second, U.S. financial coercion has expanded in scope and ambition, moving from targeted individuals and entities to entire economies and financial systems.** Traditional sanctions blocked specific terrorists, narcotics traffickers, or proliferators from U.S. financial system access. Modern sanctions impose comprehensive restrictions on entire countries (Iran, North Korea, Venezuela), freeze central bank reserves (Russia, Afghanistan), and employ secondary sanctions forcing third parties to choose between U.S. and target markets. This escalation raises questions about sustainability and blowback.
 
@@ -28,7 +28,7 @@ By chapter's end, readers will understand:
 - Prospects for de-dollarization and alternative financial systems
 - Chinese and Russian perspectives on financial sovereignty and counter-strategies
 
-Financial sanctions represent perhaps the most powerful economic coercion tool available to the United States—but also the most likely to destroy itself through overuse. Every time Washington weaponizes the dollar, it reminds the world why depending on the dollar is dangerous. Balancing near-term effectiveness against long-term system preservation constitutes the central challenge for U.S. policymakers. Use sanctions too sparingly, and adversaries act with impunity. Use them too aggressively, and the dollar's dominance erodes. There is no comfortable middle ground.
+Financial sanctions are the sharpest tool in the U.S. economic coercion arsenal—and the most self-undermining. Currency weaponization creates a paradox: the more effective the sanction, the greater the incentive for system-wide exit. Use sanctions too sparingly, and adversaries act with impunity. Use them too aggressively, and the dollar's dominance erodes. There is no comfortable middle ground.
 
 ---
 
@@ -118,7 +118,7 @@ SWIFT is not a payment system but a secure messaging network transmitting paymen
 - **Iranian banks (2012, 2018)**: Removed after U.S./EU pressure, cutting Iran off from international finance (Nephew 2017)
 - **Russian banks (2022)**: Removed seven Russian banks and two Belarusian banks after Ukraine invasion; notably excluded Gazprombank (natural gas payments) and Sberbank (initially)
 
-SWIFT disconnection is the "financial nuclear option"—it immediately severs international payment capability, forcing reliance on informal channels (cash, barter, cryptocurrency, bilateral arrangements). Being cut off from SWIFT is the financial equivalent of being unplugged from the internet: theoretically you can still communicate, but practically you're in the dark ages.
+SWIFT disconnection immediately severs international payment capability, forcing reliance on informal channels (cash, barter, cryptocurrency, bilateral arrangements). Being cut off from SWIFT is the financial equivalent of being unplugged from the internet: theoretically you can still communicate, but practically you're in the dark ages.
 
 **Correspondent Banking**
 
@@ -1213,7 +1213,7 @@ India, with $660 billion in foreign exchange reserves (Reserve Bank of India) he
 
 ### The Limits of Global South Resistance
 
-Global South de-dollarization rhetoric outpaces reality. The dollar still accounts for approximately 57% of global reserves (IMF COFER) (down from 71% in 1999, but still dominant). The yuan's share of SWIFT payments remains just 2.7% (SWIFT RMB Tracker 2024), and its share of global reserves approximately 2.2% (IMF COFER). China's CIPS processed $24.5 trillion in 2024 (PBOC) — impressive growth, but still reliant on SWIFT messaging for most transactions. The NDB's $40 billion portfolio is a rounding error beside the World Bank's cumulative lending.
+Global South de-dollarization rhetoric outpaces reality. The dollar still accounts for approximately 57% of global reserves (IMF COFER) (down from 71% in 1999, but still dominant). The yuan's share of SWIFT payments remains just 2.7% (SWIFT RMB Tracker 2024), and its share of global reserves approximately 2.2% (IMF COFER). China's CIPS processed $24.5 trillion in 2024 (PBOC) — impressive growth, but as noted above, still roughly 1% of SWIFT's daily volume and reliant on SWIFT messaging for most transactions. The NDB's $40 billion portfolio is a rounding error beside the World Bank's cumulative lending.
 
 The structural barriers are formidable:
 
