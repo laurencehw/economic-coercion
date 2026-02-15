@@ -985,6 +985,73 @@ Presidential determinations receive substantial deference; judicial review extre
 
 7. **Economic costs**: Tariffs function as taxes on domestic consumers and import-using firms. Studies estimate steel/aluminum tariffs cost U.S. economy $900,000 per job saved in steel/aluminum production—far exceeding average steel worker wages.
 
+## European Perspective Box: Strategic Autonomy and the Politics of Extraterritoriality
+
+### Understanding European Views on Trade-Based Coercion
+
+European perspectives on economic coercion occupy a distinctive third position — neither the American view (coercion as legitimate tool of primacy) nor the Chinese view (coercion as Western containment). The EU experiences economic coercion from *both* directions: as a target of Chinese pressure and as collateral damage from American extraterritoriality. This dual exposure has produced a European approach emphasizing institutional rules, multilateral frameworks, and a growing — if still incomplete — commitment to strategic autonomy.
+
+### Historical Context: From Rule-Taker to Rule-Maker
+
+The European Union was built on trade rules. The Single Market, the customs union, the Common Commercial Policy — these represent the world's most ambitious experiment in rules-based economic integration. Europeans internalized the lesson of the 1930s: that unilateral trade restrictions and beggar-thy-neighbor policies lead to political catastrophe. This institutional DNA shapes European reactions to both American and Chinese economic coercion: a reflexive preference for WTO adjudication, multilateral coordination, and proportionate response over unilateral escalation.
+
+But this rules-based instinct has been tested. The Trump administration's Section 232 steel and aluminum tariffs (2018) — imposed on allies under a "national security" justification that Europeans found insulting and pretextual — demonstrated that rule-following provides no protection when a major partner abandons multilateral norms. China's informal economic coercion against Lithuania (2021-2022), after Vilnius permitted Taiwan to open a "Taiwanese Representative Office," demonstrated that rules-based economies are vulnerable to state-capitalist pressure tactics that operate below the threshold of formal trade disputes.
+
+### Key European Concepts
+
+**Strategic Autonomy (*autonomie stratégique*)**
+
+European strategic autonomy — a concept originally articulated by French President Macron and adopted in modified form by the European Commission — describes the EU's aspiration to act independently in defense of its economic interests without dependence on American security guarantees or vulnerability to Chinese leverage. In its trade dimension, strategic autonomy encompasses:
+
+- **Reduced dependence on single suppliers**: Diversifying critical supply chains away from both Chinese and, in some cases, American dominance
+- **Defensive trade instruments**: Building the EU's own capacity to respond to economic coercion, rather than relying on American protection
+- **Technology sovereignty**: Developing European capabilities in semiconductors, AI, cloud computing, and other strategic sectors — neither American nor Chinese, but European
+
+Strategic autonomy remains contested within the EU. France champions robust autonomy; Germany worries it will damage transatlantic trade and investment; smaller member states fear it reduces their leverage within the alliance. The concept has nonetheless shifted European policy from passive rule-following toward active economic security, codified in the European Commission's 2023 European Economic Security Strategy.
+
+**The Blocking Statute (1996, updated 2018)**
+
+The EU Blocking Statute, originally adopted in 1996 in response to U.S. extraterritorial sanctions on Cuba, Iran, and Libya, prohibits EU persons from complying with specified U.S. secondary sanctions and nullifies the effect of foreign court judgments based on them. The statute was updated in August 2018 after the Trump administration's withdrawal from the Iran nuclear deal (JCPOA) and reimposition of secondary sanctions on European firms doing legitimate business with Iran.
+
+The Blocking Statute embodies the EU's core legal objection to extraterritoriality: that U.S. secondary sanctions violate international law by extending American jurisdiction to transactions involving no U.S. persons, no U.S. territory, and no U.S.-origin goods. It has, however, proven largely ineffective in practice — European firms, faced with the choice between compliance with EU law and access to dollar-denominated markets, overwhelmingly chose compliance with U.S. sanctions. The BNP Paribas case (2014, $8.9 billion fine for sanctions violations) and the mass withdrawal of European firms from Iran after 2018 demonstrated that American financial market access trumps European legal obligations. The statute's failure catalyzed the search for more effective instruments.
+
+**The Anti-Coercion Instrument (ACI, December 2023)**
+
+The ACI represents the EU's most significant response to economic coercion, adopted in November 2023 and entering into force on December 27, 2023. It was directly inspired by China's economic pressure on Lithuania and Australia, but its architecture is deliberately non-country-specific:
+
+- **Definition**: Economic coercion exists when a third country applies or threatens trade/investment measures to pressure the EU or a member state into making a particular policy choice
+- **Procedure**: The Commission investigates, proposes a determination to the Council (which decides by qualified majority — critically, no single-member veto), engages in dialogue with the coercing country, and if dialogue fails, adopts countermeasures
+- **Response measures**: Tariffs, import/export restrictions, exclusion from public procurement, limits on financial market access, restrictions on intellectual property rights — a comprehensive toolkit
+- **Deterrence logic**: The ACI is designed to deter coercion before it occurs, signaling that the EU can impose costs on coercers rather than simply absorbing pressure
+
+The ACI has not yet been formally invoked as of early 2026, but its existence has already reshaped diplomatic calculations. Its adoption by qualified majority voting — removing the single-member veto that previously paralyzed EU trade responses — represents a significant institutional evolution.
+
+### European Critiques of U.S. and Chinese Economic Coercion
+
+**On American Extraterritoriality**
+
+European frustration with U.S. extraterritorial sanctions runs deep and crosses the political spectrum:
+
+- **JCPOA withdrawal**: The U.S. unilateral exit from the Iran nuclear deal and reimposition of secondary sanctions forced European firms out of a market that the EU had collectively negotiated to open — demonstrating that European commercial interests are subordinate to American domestic politics
+- **Secondary sanctions as coercion**: Europeans view secondary sanctions as the United States coercing allies, not adversaries. When a French bank, a German automaker, or an Italian energy company must abandon legal business because Washington changed policy, Europeans experience this as American economic coercion dressed in the language of alliance solidarity
+- **Dollar weaponization**: The dollar's role as global reserve currency gives the U.S. jurisdiction over virtually any transaction touching the dollar clearing system — a structural asymmetry that Europeans resent but cannot easily escape
+
+**On Chinese Economic Coercion**
+
+European views on Chinese coercion have hardened significantly since 2020:
+
+- **Lithuania precedent**: China's de facto trade embargo on Lithuania (2021-2022) over a Taiwan representation office — including blocking Lithuanian goods transiting through other EU member states — was understood as a direct attack on EU single market integrity and member state sovereignty
+- **"Divide and conquer"**: Europeans recognize Chinese strategy of targeting individual member states to fracture EU solidarity, creating pressure on smaller economies (Greece, Hungary, Czech Republic) to block collective EU positions on China
+- **Systemic rivalry**: The European Commission's 2019 designation of China as a "systemic rival" alongside "partner" and "competitor" reflected growing recognition that Chinese economic practices — subsidies, forced technology transfer, market access restrictions — represent structural challenges, not solvable through WTO dispute settlement
+
+### Implications for Transatlantic Coordination
+
+The EU's development of autonomous economic security tools creates both opportunities and tensions in the transatlantic relationship. On one hand, European investment screening (the EU FDI Screening Regulation), export controls (the EU's dual-use regulation), and the ACI expand the toolkit available for coordinated Western responses to Chinese economic coercion. On the other, European strategic autonomy explicitly aims to reduce dependence on American decisions — the EU does not want to be dragged into economic confrontations driven by American domestic politics, as occurred with Iran.
+
+The central European dilemma: how to coordinate with the United States on China (where interests substantially overlap) while protecting against American extraterritoriality (where interests directly conflict). This balancing act — partner on Monday, target on Tuesday — defines the European experience of 21st-century economic coercion and explains why European policy responses emphasize rules, institutions, and process over the unilateral exercises of power that characterize both American and Chinese approaches.
+
+---
+
 ## Key Insights
 
 - **Trade policy has transformed from an economic tool to a strategic weapon:** Historically, tariffs served revenue generation and infant industry protection. Today's trade measures increasingly target specific countries and technologies for national security reasons, blurring the distinction between economic policy and security policy. The bipartisan consensus maintaining Trump-era tariffs under the Biden administration confirms this transformation is structural, not partisan.
