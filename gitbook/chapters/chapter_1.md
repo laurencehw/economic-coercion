@@ -569,7 +569,7 @@ Effectiveness decreases when:
 - **Analysis:**
   - Rennack, Dianne E. (2020). "International Emergency Economic Powers Act (IEEPA): Origins, Evolution, and Use." Congressional Research Service.
   - Zarate, Juan C. (2013). *Treasury's War: The Unleashing of a New Era of Financial Warfare.* PublicAffairs.
-  - Nephew, Richard (2018). *The Art of Sanctions: A View from the Field.* Columbia University Press.
+  - Nephew, Richard (2017). *The Art of Sanctions: A View from the Field.* Columbia University Press.
 
 ---
 
@@ -1191,7 +1191,7 @@ When searching databases and academic literature, use these terms strategically:
 ### Sanctions and Financial Statecraft
 
 - Zarate, Juan C. (2013). *Treasury's War: The Unleashing of a New Era of Financial Warfare*. PublicAffairs. [Insider account of financial sanctions development]
-- Nephew, Richard (2018). *The Art of Sanctions: A View from the Field*. Columbia University Press. [Practitioner guide to sanctions design]
+- Nephew, Richard (2017). *The Art of Sanctions: A View from the Field*. Columbia University Press. [Practitioner guide to sanctions design]
 - Mulder, Nicholas (2022). *The Economic Weapon: The Rise of Sanctions as a Tool of Modern War*. Yale University Press. [Historical analysis from WWI to present]
 
 ### Technology and Supply Chains

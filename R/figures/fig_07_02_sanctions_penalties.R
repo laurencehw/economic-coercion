@@ -173,7 +173,7 @@ combined <- p1 / (p2 + p3) +
   )
 
 # Save
-save_econ_figure(here("figures", "fig_07_02_sanctions_penalties.png"), combined, width = 12, height = 11)
+save_econ_figure(here("figures", "fig_07_02_sanctions_programs.png"), combined, width = 12, height = 11)
 
 # Print summary
 cat("\nFigure 7.2 Summary:\n")

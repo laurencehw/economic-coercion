@@ -456,7 +456,7 @@ Space systems provide:
 
 ## Alliance Evolution and Institutional Competition
 
-Future economic coercion effectiveness depends critically on alliance structures and institutional alignments. Western-led order (G7, NATO, IMF/World Bank, WTO) faces challenges from alternative coalitions (BRICS+, SCO, regional frameworks) and neutral Global South countries avoiding alignment. Economic statecraft's future operates within this evolving geopolitical landscape.
+Future economic coercion effectiveness depends critically on alliance structures and institutional alignments. Western-led order (G7, NATO, IMF/World Bank, WTO) faces challenges from alternative coalitions (BRICS+, SCO, regional frameworks) and neutral Global South countries avoiding alignment. Economic statecraft's future depends on how these alignments evolve.
 
 ### Western Coordination: Strengths and Strains
 
@@ -937,11 +937,11 @@ Economic coercion is neither panacea nor futile gesture. Historical cases reveal
 
 Contemporary U.S.-China competition occurs in context of deep economic interdependence historically unprecedented among great power rivals. Weaponizing this interdependence through financial sanctions, technology restrictions, and supply chain restructuring yields leverage but risks destroying the integrated global economy that enabled Western prosperity. Managing this paradox—competing strategically while preserving beneficial integration—requires sophisticated calibration beyond simple escalation or accommodation.
 
-Future economic statecraft will operate in increasingly complex environment: multipolar power distribution, fragmenting technology ecosystems, climate disruption reshaping resource geography, emergence of AI and quantum computing as strategic domains. Policymakers navigating this landscape need clear strategic objectives, realistic assessments of tools' effectiveness and limitations, sustained coordination with allies, and recognition that economic competition is marathon, not sprint.
+Future economic statecraft will operate in increasingly complex environment: multipolar power distribution, fragmenting technology ecosystems, climate disruption reshaping resource geography, emergence of AI and quantum computing as strategic domains. Policymakers confronting these challenges need clear strategic objectives, realistic assessments of tools' effectiveness and limitations, sustained coordination with allies, and recognition that economic competition is marathon, not sprint.
 
 The scenarios developed in this chapter—Managed Competition, Economic Cold War, Crisis-Driven Fragmentation, Renewed Integration—represent alternative futures depending on strategic choices and contingent events. Robust strategies effective across scenarios emphasize technology leadership, alliance resilience, economic diversification, and strategic patience. Scenario-contingent strategies require monitoring early warning indicators and adapting as trajectories clarify.
 
-Economic coercion will remain central to 21st-century statecraft. Understanding its possibilities and limitations, learning from historical precedent, and adapting to emerging challenges represents essential task for leaders, analysts, and citizens navigating the transformation of global order. The choices made today will shape not just contemporary policy outcomes but the structure of international politics for decades to come.
+Economic coercion will remain central to 21st-century statecraft. Understanding its possibilities and limitations, learning from historical precedent, and adapting to emerging challenges is the essential task for leaders, analysts, and citizens grappling with the transformation of global order. The choices made today will shape not just contemporary policy outcomes but the structure of international politics for decades to come.
 
 ---
 

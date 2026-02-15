@@ -123,7 +123,7 @@ combined <- p1 + p2 +
 # 5. SAVE OUTPUT
 # ============================================================================
 
-save_econ_figure(here("figures", "fig_07_04_frozen_assets.png"), combined, width = 14, height = 7)
+save_econ_figure(here("figures", "fig_07_04_russian_frozen_assets.png"), combined, width = 14, height = 7)
 
 cat("\nFigure 7.4 created successfully!\n")
 cat("Key Statistics:\n")

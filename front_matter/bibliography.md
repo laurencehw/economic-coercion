@@ -36,11 +36,33 @@ Roberts, Anthea, Henrique Choer Moraes, and Victor Ferguson. *Toward a Geoeconom
 
 Wigell, Mikael, Sören Scholvin, and Mika Aaltola, eds. *Geo-Economics and Power Politics in the 21st Century: The Revival of Economic Statecraft*. Routledge, 2018.
 
+Biersteker, Thomas J., Sue E. Eckert, and Marcos Tourinho, eds. *Targeted Sanctions: The Impacts and Effectiveness of United Nations Action*. Cambridge University Press, 2016.
+
+Copeland, Dale C. *Economic Interdependence and War*. Princeton University Press, 2015.
+
+Crawford, Neta C., and Audie Klotz, eds. *How Sanctions Work: Lessons from South Africa*. Macmillan, 1999.
+
+Drezner, Daniel W., Henry Farrell, and Abraham L. Newman, eds. *The Uses and Abuses of Weaponized Interdependence*. Brookings Institution Press, 2021.
+
+Heckscher, Eli F. *The Continental System: An Economic Interpretation*. Oxford University Press, 1922.
+
+Jentleson, Bruce W. *Pipeline Politics: The Complex Political Economy of East-West Energy Trade*. Cornell University Press, 1986.
+
+Szabo, Stephen F. *Germany, Russia, and the Rise of Geo-Economics*. Bloomsbury, 2015.
+
 ## Journal Articles and Reports {-}
 
 Allen, Gregory C. "Choking Off China's Access to the Future of AI." Center for Strategic and International Studies, October 2022.
 
 Allen, Gregory C., and Emily S. Weinstein. "Huawei's Mate 60 Pro: China's Semiconductor Breakthrough." CSIS Commentary, September 2023.
+
+Amiti, Mary, Stephen J. Redding, and David E. Weinstein. "The Impact of the 2018 Tariffs on Prices and Welfare." *Journal of Economic Perspectives* 33, no. 4 (2019): 187-210.
+
+Bellemare, Marc F. "Rising Food Prices, Food Price Volatility, and Social Unrest." *American Journal of Agricultural Economics* 97, no. 1 (2015): 1-21.
+
+Brinkman, Henk-Jan, and Cullen S. Hendrix. "Food Insecurity and Violent Conflict: Causes, Consequences, and Addressing the Challenges." World Food Programme Occasional Paper No. 24, 2011.
+
+Cavallo, Alberto, Gita Gopinath, Brent Neiman, and Jenny Tang. "Tariff Pass-Through at the Border and at the Store: Evidence from US Trade Policy." *American Economic Review: Insights* 3, no. 1 (2021): 19-34.
 
 Baqaee, David, Emmanuel Farhi, and Kunal Sangani. "The Supply Chain Origins of Multinational Production." *American Economic Review*, 113(6), 2023: 1585-1613.
 
@@ -56,9 +78,13 @@ Del Rey, Jason. "Nvidia's China Problem Just Got a Lot Worse." *Vox*, October 20
 
 Drezner, Daniel W. "Sanctions Sometimes Smart: Targeted Sanctions in Theory and Practice." *International Studies Review* 13, no. 1 (2011): 96-108.
 
+Fajgelbaum, Pablo D., Pinelopi K. Goldberg, Patrick J. Kennedy, and Amit K. Khandelwal. "The Return to Protectionism." *Quarterly Journal of Economics* 135, no. 1 (2020): 1-55.
+
 Farrell, Henry, and Abraham L. Newman. "Weaponized Interdependence: How Global Economic Networks Shape State Coercion." *International Security* 44, no. 1 (2019): 42-79.
 
 Flaaen, Aaron, and Justin Pierce. "Disentangling the Effects of the 2018-2019 Tariffs on a Globally Connected U.S. Manufacturing Sector." Federal Reserve Board Finance and Economics Discussion Series, 2019-086, December 2019.
+
+Hendrix, Cullen S., and Stephan Haggard. "Global Food Prices, Regime Type, and Urban Unrest in the Developing World." *Journal of Peace Research* 52, no. 2 (2015): 143-157.
 
 Gelpern, Anna. "Money and Power in the World Economy." *Virginia Journal of International Law* 63, no. 1 (2022): 1-82.
 
@@ -76,6 +102,8 @@ Mulder, Nicholas. *The Economic Weapon: The Rise of Sanctions as a Tool of Moder
 
 Nephew, Richard. *The Art of Sanctions: A View from the Field*. Columbia University Press, 2017.
 
+Paarlberg, Robert L. "Lessons of the Grain Embargo." *Foreign Affairs* 59, no. 1 (1980): 144-162.
+
 Rasser, Martijn, et al. "The CHIPS and Science Act: Here Comes the Hardest Part." Center for Strategic and International Studies, August 2022.
 
 Shane, Scott, and Daisuke Wakabayashi. "The Business of War: Google Employees Protest Work for the Pentagon." *The New York Times*, April 4, 2018.
@@ -83,6 +111,10 @@ Shane, Scott, and Daisuke Wakabayashi. "The Business of War: Google Employees Pr
 Sullivan, Jake. "Remarks by National Security Advisor Jake Sullivan at the Special Competitive Studies Project Global Emerging Technologies Summit." White House, September 16, 2022.
 
 Triolo, Paul, and Robert Greene. "Will China's Chip Breakthrough Undermine U.S. Tech Restrictions?" Carnegie Endowment for International Peace, September 2023.
+
+Rhodium Group. "US-China Investment Trends: 2024 Update." Rhodium Group, 2024.
+
+Wubbeke, Jost. "Rare Earth Elements in China: Policies and Narratives of Reinventing an Industry." *Resources Policy* 38, no. 3 (2013): 384-394.
 
 Zarate, Juan C. *Treasury's War: The Unleashing of a New Era of Financial Warfare*. Public Affairs, 2013.
 
@@ -110,11 +142,19 @@ SIA (Semiconductor Industry Association). "2023 State of the U.S. Semiconductor 
 
 International Monetary Fund. "Geoeconomic Fragmentation and the Future of Multilateralism." *IMF Staff Discussion Note*, January 2023.
 
+International Monetary Fund. *Currency Composition of Official Foreign Exchange Reserves (COFER)*. IMF Data, various years. https://data.imf.org/regular.aspx?key=41175
+
+International Monetary Fund. *World Economic Outlook: Global Manufacturing Downturn, Rising Trade Barriers*. IMF, October 2019.
+
 National Intelligence Council. "Global Trends 2040: A More Contested World." NIC, 2021.
 
 U.S. Department of Commerce, Bureau of Industry and Security. "2022 Export Controls: Taking the Long View." October 2022.
 
+U.S. Department of Agriculture. "Embargoes, Surplus Disposal, and U.S. Agriculture." Agricultural Economic Report No. 564, 1981.
+
 U.S. Department of the Treasury. "Sanctions Review." October 2021.
+
+U.S. Department of the Treasury. "Joint Statement on Further Restrictive Economic Measures Against Russia." February 26, 2022.
 
 U.S. National Security Strategy. The White House, October 2022.
 
@@ -123,6 +163,8 @@ U.S. National Defense Strategy. Department of Defense, October 2022.
 USTR (U.S. Trade Representative). "Findings of the Investigation into China's Acts, Policies, and Practices Related to Technology Transfer, Intellectual Property, and Innovation under Section 301 of the Trade Act of 1974." March 22, 2018.
 
 White House. "Building Resilient Supply Chains, Revitalizing American Manufacturing, and Fostering Broad-Based Growth." June 2021.
+
+White House. *National Security Strategy of the United States of America*. December 2017.
 
 White House. "U.S.-China Joint Presidential Statement on Climate Change." September 25, 2015.
 
@@ -158,11 +200,15 @@ International Fertilizer Association (IFA). "Fertilizer Outlook 2022-2023." Pari
 
 U.S. Energy Information Administration (EIA). "World Oil Transit Chokepoints." 2023. https://www.eia.gov/international/analysis/special-topics/World_Oil_Transit_Chokepoints
 
+People's Bank of China. *CIPS Annual Report*. Various years.
+
 Peterson Institute for International Economics. "Economic Sanctions Database." Accessed 2024. https://www.piie.com/sanctions
 
 Rhodium Group. "China Investment Monitor." Various years.
 
 Stockholm International Peace Research Institute (SIPRI). "SIPRI Arms Transfers Database." Various years.
+
+U.S. Census Bureau. "Trade in Goods with China." Various years. https://www.census.gov/foreign-trade/balance/c5700.html
 
 U.S.-China Business Council. "US-China Trade Statistics." Annual Reports, 2000-2024.
 

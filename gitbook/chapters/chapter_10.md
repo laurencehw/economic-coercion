@@ -765,7 +765,7 @@ Major shared threats (climate crisis exceeding worst projections, pandemic deadl
 {% hint style="warning" %}
 **Strategic Planning Imperative**
 
-The uncertainty across these scenarios underscores the need for robust strategies that perform reasonably well regardless of which future materializes. Rather than optimizing for one scenario, policymakers should prioritize adaptability, early warning monitoring, and maintaining strategic options.
+The uncertainty across these scenarios reinforces the case for robust strategies that perform reasonably well regardless of which future materializes. Rather than optimizing for one scenario, policymakers should prioritize adaptability, early warning monitoring, and maintaining strategic options.
 {% endhint %}
 
 **Robust strategies effective across scenarios**:
@@ -1000,11 +1000,11 @@ Contemporary U.S.-China competition occurs in context of deep economic interdepe
 
 Future economic statecraft will operate in increasingly complex environment: multipolar power distribution, fragmenting technology ecosystems, climate disruption reshaping resource geography, emergence of AI and quantum computing as strategic domains.
 
-Policymakers navigating this landscape need clear strategic objectives, realistic assessments of tools' effectiveness and limitations, sustained coordination with allies, and recognition that economic competition is marathon, not sprint.
+Policymakers confronting these challenges need clear strategic objectives, realistic assessments of tools' effectiveness and limitations, sustained coordination with allies, and recognition that economic competition is marathon, not sprint.
 
 The scenarios developed in this chapter—Managed Competition, Economic Cold War, Crisis-Driven Fragmentation, Renewed Integration—represent alternative futures depending on strategic choices and contingent events. Robust strategies effective across scenarios emphasize technology leadership, alliance resilience, economic diversification, and strategic patience. Scenario-contingent strategies require monitoring early warning indicators and adapting as trajectories clarify.
 
-Economic coercion will remain central to 21st-century statecraft. Understanding its possibilities and limitations, learning from historical precedent, and adapting to emerging challenges represents essential task for leaders, analysts, and citizens navigating the transformation of global order. The choices made today will shape not just contemporary policy outcomes but the structure of international politics for decades to come.
+Economic coercion will remain central to 21st-century statecraft. Understanding its possibilities and limitations, learning from historical precedent, and adapting to emerging challenges is the essential task for leaders, analysts, and citizens grappling with the transformation of global order. The choices made today will shape not just contemporary policy outcomes but the structure of international politics for decades to come.
 
 ---
 

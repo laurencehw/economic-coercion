@@ -4,7 +4,7 @@
 
 On October 7, 2022, the United States imposed sweeping export controls targeting China's semiconductor industry. The measures restricted not only American technology and equipment, but also deployed a novel "foreign direct product rule" to prevent any advanced chips made anywhere in the world with US tools from reaching Chinese firms. The action represented economic statecraft on an unprecedented scale—an attempt to use commercial restrictions to constrain a strategic rival's technological development. China's response was equally telling: rather than military escalation, Beijing accelerated its "dual circulation" strategy, launched investigations into American firms under its Anti-Foreign Sanctions Law, and tightened export controls on critical minerals like gallium and germanium. This was not traditional economic warfare. It was something new: the systematic weaponization of economic interdependence.
 
-We have entered the era of geoeconomics—a polite term for a messy reality: the firewall between "making money" and "making war" has burned down. For thirty years, policymakers pretended that buying cheap goods from rivals was a kind of peace treaty. It turns out it was just a long line of credit, now coming due. Trade relationships, supply chains, technology standards, and financial flows have become instruments of statecraft. Economic coercion—the use of economic measures to compel behavioral changes in other states—has become central to how great powers compete. For policymakers, business leaders, and citizens navigating this landscape, understanding these dynamics is no longer optional.
+We have entered the era of geoeconomics—a polite term for a messy reality: the firewall between "making money" and "making war" has burned down. For thirty years, policymakers pretended that buying cheap goods from rivals was a kind of peace treaty. It turns out it was just a long line of credit, now coming due. Trade relationships, supply chains, technology standards, and financial flows have become instruments of statecraft. Economic coercion—the use of economic measures to compel behavioral changes in other states—has become central to how great powers compete. For policymakers, business leaders, and citizens caught up in these shifts, understanding the dynamics is no longer optional.
 
 This book provides a comprehensive guide to economic coercion in the context of US-China strategic competition. It examines how states use economic tools to pursue security objectives, why such measures succeed or fail, and what the proliferation of economic statecraft means for the international system. The focus is practical: each chapter explains specific tools available to governments, analyzes real-world cases, and explores decision-making through tabletop exercises. But the book also takes seriously the need for strategic empathy—understanding how different actors perceive threats, opportunities, and constraints.
 
@@ -454,7 +454,7 @@ Effectiveness decreases when:
 - **Analysis:**
   - Rennack, Dianne E. (2020). "International Emergency Economic Powers Act (IEEPA): Origins, Evolution, and Use." Congressional Research Service.
   - Zarate, Juan C. (2013). *Treasury's War: The Unleashing of a New Era of Financial Warfare.* PublicAffairs.
-  - Nephew, Richard (2018). *The Art of Sanctions: A View from the Field.* Columbia University Press.
+  - Nephew, Richard (2017). *The Art of Sanctions: A View from the Field.* Columbia University Press.
 
 ---
 
@@ -856,7 +856,7 @@ Understanding economic coercion requires access to reliable data on sanctions, t
 ### Sanctions and Financial Statecraft
 
 - Zarate, Juan C. (2013). *Treasury's War: The Unleashing of a New Era of Financial Warfare*. PublicAffairs. [Insider account of financial sanctions development]
-- Nephew, Richard (2018). *The Art of Sanctions: A View from the Field*. Columbia University Press. [Practitioner guide to sanctions design]
+- Nephew, Richard (2017). *The Art of Sanctions: A View from the Field*. Columbia University Press. [Practitioner guide to sanctions design]
 - Mulder, Nicholas (2022). *The Economic Weapon: The Rise of Sanctions as a Tool of Modern War*. Yale University Press. [Historical analysis from WWI to present]
 
 ### Technology and Supply Chains
