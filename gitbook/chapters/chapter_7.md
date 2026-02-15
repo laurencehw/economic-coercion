@@ -45,9 +45,9 @@ Financial sanctions' effectiveness derives from the U.S. dollar's dominant posit
 
 **Reserve Currency Status**
 
-The U.S. dollar comprises approximately 58% of allocated global foreign exchange reserves (2024), far exceeding the U.S. share of global GDP (~25%) or trade (~11%). This reserve status means:
+The U.S. dollar comprises approximately 58% of allocated global foreign exchange reserves (2024) (IMF COFER 2024), far exceeding the U.S. share of global GDP (~25%) (World Bank WDI) or trade (~11%). This reserve status means:
 
-- **Central banks hold dollars**: Foreign governments maintain dollar reserves to stabilize exchange rates, service dollar-denominated debts, and conduct international transactions. As of 2024, foreign official holdings of U.S. Treasury securities exceed $7.6 trillion.
+- **Central banks hold dollars**: Foreign governments maintain dollar reserves to stabilize exchange rates, service dollar-denominated debts, and conduct international transactions. As of 2024, foreign official holdings of U.S. Treasury securities exceed $7.6 trillion (U.S. Treasury).
 
 - **Safe haven demand**: During crises, capital flows into dollar assets (especially U.S. Treasuries) as investors seek safety. This "exorbitant privilege" enables U.S. borrowing at lower rates than economic fundamentals alone would justify.
 
@@ -61,16 +61,16 @@ The U.S. dollar comprises approximately 58% of allocated global foreign exchange
 - Chinese Renminbi: 2.7%
 - Other: 7.9%
 
-The euro's 20% share (representing EU's ~17% of global GDP) suggests currency share can exceed GDP share if backed by deep financial markets and institutional credibility. Yet the euro faces structural challenges (lack of unified fiscal authority, fragmented bond markets) limiting its reserve currency appeal.
+The euro's 20% share (representing EU's ~17% of global GDP, per World Bank WDI) suggests currency share can exceed GDP share if backed by deep financial markets and institutional credibility. Yet the euro faces structural challenges (lack of unified fiscal authority, fragmented bond markets) limiting its reserve currency appeal.
 
-China's renminbi remains distant third despite China's 18% of global GDP. Capital controls, limited currency convertibility, underdeveloped bond markets, and concerns about rule of law constrain international renminbi adoption—points we explore in Section 4.
+China's renminbi remains distant third despite China's 18% of global GDP (World Bank WDI). Capital controls, limited currency convertibility, underdeveloped bond markets, and concerns about rule of law constrain international renminbi adoption—points we explore in Section 4.
 
 **Invoicing and Trade Settlement**
 
 Beyond reserves, the dollar dominates international trade invoicing and settlement:
 
-- **SWIFT data (2024)**: 42% of international payments by value denominated in dollars, 31% in euros, 4% in renminbi
-- **Trade invoicing**: Estimated 40% of global trade invoiced in dollars, including trade not involving U.S. parties
+- **SWIFT data (2024)**: 42% of international payments by value denominated in dollars, 31% in euros, 4% in renminbi (SWIFT RMB Tracker 2024)
+- **Trade invoicing**: Estimated 40% of global trade invoiced in dollars (Gopinath et al. 2020), including trade not involving U.S. parties
 - **Commodities**: Oil, gas, metals, agricultural products predominantly priced in dollars (the "petrodollar" system)
 
 **Why dollar invoicing matters for sanctions**: When trade is invoiced in dollars, payments flow through U.S. financial system or correspondent banks with U.S. connections. This creates jurisdiction for U.S. sanctions enforcement. A Chinese firm buying Brazilian soybeans in dollars must clear payment through U.S.-connected banks, giving Treasury visibility and control.
@@ -79,7 +79,7 @@ Beyond reserves, the dollar dominates international trade invoicing and settleme
 
 **Debt Denomination**
 
-Approximately $13 trillion in non-U.S. dollar-denominated debt exists (2024)—debt issued by non-U.S. entities in dollars:
+Approximately $13 trillion in non-U.S. dollar-denominated debt exists (2024) (BIS 2022)—debt issued by non-U.S. entities in dollars:
 
 - **Emerging market sovereigns**: Many governments borrow in dollars, creating currency mismatches (borrow in dollars, earn revenue in local currency)
 - **Corporations**: Multinational firms issue dollar bonds to access deep U.S. capital markets
@@ -141,7 +141,7 @@ Most banks cannot directly clear international payments; instead they use corres
 U.S. financial markets' extraordinary depth and liquidity amplify dollar attractiveness:
 
 **U.S. Treasury Market**:
-- $27 trillion outstanding (2024), most liquid bond market globally
+- $27 trillion outstanding (2024) (U.S. Treasury), most liquid bond market globally
 - Benchmark for global risk-free rate
 - Unmatched secondary market liquidity (can buy/sell billions instantly)
 - No viable alternative offers comparable scale, liquidity, and safety
@@ -195,9 +195,9 @@ Multiple U.S. agencies enforce financial sanctions:
 - **Commerce Department - Bureau of Industry and Security**: Export controls (overlapping with financial restrictions)
 
 **Penalties**: Civil penalties up to greater of $330,000 per violation or twice transaction value; criminal penalties up to $1 million and 20 years imprisonment for willful violations. Financial institutions face enormous fines for sanctions violations:
-- BNP Paribas: $8.9 billion (2014) for violating Cuba, Iran, Sudan sanctions
-- Standard Chartered: $1.1 billion (2019) for Iran sanctions violations
-- UniCredit: $1.3 billion (2019) for Iran, Syria, Libya sanctions violations
+- BNP Paribas: $8.9 billion (2014) for violating Cuba, Iran, Sudan sanctions (U.S. Department of Justice)
+- Standard Chartered: $1.1 billion (2019) for Iran sanctions violations (OFAC)
+- UniCredit: $1.3 billion (2019) for Iran, Syria, Libya sanctions violations (OFAC)
 
 These massive penalties incentivize over-compliance: banks often refuse transactions remotely related to sanctioned jurisdictions to avoid risk.
 
@@ -209,15 +209,15 @@ Despite formidable advantages, U.S. financial power faces vulnerabilities:
 
 Expanding sanctions use creates incentives for alternatives:
 - As of 2024, over 30 countries face some form of U.S. sanctions (comprehensive or targeted)
-- More than 10,000 individuals and entities on OFAC SDN List
-- Estimated 30% of global GDP in countries under some U.S. sanctions
+- More than 10,000 individuals and entities on OFAC SDN List (OFAC 2024)
+- Estimated 30% of global GDP in countries under some U.S. sanctions (Atlantic Council 2022)
 
 Widespread sanctions motivate targets and even neutral parties to develop alternatives, potentially eroding long-term U.S. leverage.
 
 **Geopolitical Fragmentation**
 
 Russia-China alignment creates critical mass for alternative systems:
-- Combined 20% of global GDP
+- Combined 20% of global GDP (World Bank WDI)
 - 40% of global population
 - Significant commodity production (oil, gas, minerals)
 
@@ -285,7 +285,7 @@ When UN Security Council adopts sanctions resolutions (e.g., North Korea, Iran h
 ### Types of Sanctions Programs
 
 <figure class="book-figure">
-  <img src="../../figures/figure_7_2_sanctions_programs.png" alt="Active U.S. Sanctions Programs by Type">
+  <img src="../../figures/fig_07_02_sanctions_programs.png" alt="Active U.S. Sanctions Programs by Type">
   <figcaption>Figure 7.2: Active U.S. Sanctions Programs by Type</figcaption>
 </figure>
 
@@ -453,7 +453,7 @@ Despite exemptions, humanitarian actors face obstacles:
 
 **Chilling effect**: Even authorized activities face challenges when suppliers, shippers, insurers refuse involvement due to sanctions concerns. Comprehensive sanctions (Iran, Syria, North Korea) create environments where humanitarian aid becomes extremely difficult despite legal exemptions.
 
-**2019-2020 Examples**: U.S. humanitarian exports to Iran fell 90% (2017-2019) despite exemptions, as pharmaceutical companies and banks avoided transactions. COVID-19 pandemic exacerbated problems, with Iran facing difficulty importing medical equipment and medicine. Treasury eventually issued additional guidance and specific licenses, but damage to Iran's pandemic response occurred.
+**2019-2020 Examples**: U.S. humanitarian exports to Iran fell 90% (2017-2019) (Nephew 2017; Treasury sanctions review data) despite exemptions, as pharmaceutical companies and banks avoided transactions. COVID-19 pandemic exacerbated problems, with Iran facing difficulty importing medical equipment and medicine. Treasury eventually issued additional guidance and specific licenses, but damage to Iran's pandemic response occurred.
 
 **Reform Efforts**: NGOs, humanitarian organizations, and some policymakers advocate for:
 - Enhanced general licenses for humanitarian transactions
@@ -549,7 +549,7 @@ Secondary sanctions dramatically reduced Iran's oil exports and financial system
 
 **Oil Exports**:
 - Pre-sanctions (2017): ~2.5 million barrels/day
-- Post-secondary sanctions (2019-2020): ~200,000 barrels/day (92% reduction)
+- Post-secondary sanctions (2019-2020): ~200,000 barrels/day (92% reduction) (IEA 2020)
 - Major importers (China, India, South Korea, Japan, Turkey, EU) ceased or drastically reduced purchases
 
 **Financial isolation**:
@@ -755,9 +755,9 @@ Launched 2015, CIPS processes cross-border renminbi (RMB) payments, positioning 
 
 China has made measured progress internationalizing the renminbi:
 
-**Reserve currency status**: ~2.7% of global reserves (2024), up from < 1% (2016). IMF included RMB in Special Drawing Rights basket (2016), granting reserve currency legitimacy.
+**Reserve currency status**: ~2.7% of global reserves (2024), up from < 1% (2016) (IMF COFER). IMF included RMB in Special Drawing Rights basket (2016), granting reserve currency legitimacy.
 
-**Trade settlement**: ~25% of China's trade settled in RMB (2024), up from ~10% (2015). China-Russia bilateral trade increasingly in local currencies (50%+ in RMB/ruble).
+**Trade settlement**: ~25% of China's trade settled in RMB (2024), up from ~10% (2015) (PBOC; SWIFT RMB Tracker). China-Russia bilateral trade increasingly in local currencies (50%+ in RMB/ruble).
 
 **Bond issuance**: "Panda bonds" (RMB bonds issued in China by foreign entities) and "Dim Sum bonds" (RMB bonds issued offshore) provide debt markets. However, combined issuance ~$100 billion—minuscule compared to $27 trillion U.S. Treasury market.
 
@@ -783,7 +783,7 @@ Capital controls prevent full convertibility—foreign holders cannot freely buy
 Chinese financial markets lack liquidity and depth of U.S. markets:
 - Chinese government bond market ~$20 trillion but fragmented, less liquid
 - Corporate bond market smaller, with default risks (property developers, local government financing vehicles)
-- Foreign holdings of Chinese bonds < 10% of market (compared to 30-40% foreign holdings of U.S. Treasuries)
+- Foreign holdings of Chinese bonds < 10% of market (BIS 2022; U.S. Treasury) (compared to 30-40% foreign holdings of U.S. Treasuries)
 
 **Rule of Law and Property Rights**
 
@@ -817,7 +817,7 @@ BRICS (Brazil, Russia, India, China, South Africa; expanded 2024 to include Iran
 **Challenges**:
 
 **Divergent Interests**:
-- **China** dominates BRICS economically (70%+ of combined GDP); RMB-centric system serves Chinese interests
+- **China** dominates BRICS economically (70%+ of combined GDP, per World Bank WDI); RMB-centric system serves Chinese interests
 - **India** wary of Chinese dominance; reluctant to embrace Chinese-led financial infrastructure
 - **Russia** needs alternatives urgently but peripheral economic player
 - **Brazil, South Africa** have closer economic ties to U.S./West than to China
@@ -854,9 +854,9 @@ China's digital yuan represents Beijing's most ambitious effort to reshape inter
 
 **Global CBDC Development**
 
-Over 100 countries (representing 95%+ of global GDP) exploring CBDCs; several operational:
+Over 100 countries (representing 95%+ of global GDP) exploring CBDCs (Atlantic Council CBDC Tracker 2024); several operational:
 
-- **China e-CNY (Digital Yuan)**: Pilot program since 2020; used by 260+ million people domestically. Cross-border pilots with Hong Kong, Thailand, UAE testing international CBDC transactions.
+- **China e-CNY (Digital Yuan)**: Pilot program since 2020; used by 260+ million people domestically (PBOC 2024). Cross-border pilots with Hong Kong, Thailand, UAE testing international CBDC transactions.
 - **Russia Digital Ruble**: Pilot launched 2023; aims to reduce sanctions vulnerability by enabling domestic and cross-border transactions outside U.S.-dominated infrastructure.
 - **EU Digital Euro**: Development phase; goals include efficiency, financial inclusion, and euro sovereignty (reducing dependence on U.S. payment providers like Visa, Mastercard).
 - **India e-Rupee**: Pilot since 2022; focuses on financial inclusion and domestic payment efficiency.
@@ -876,8 +876,8 @@ Over 100 countries (representing 95%+ of global GDP) exploring CBDCs; several op
 **Gold Reserves**
 
 Some states increased gold reserves to diversify away from dollars:
-- **Russia**: Accumulated gold reserves (20%+ of total reserves before 2022 invasion, sold some since to fund war)
-- **China**: Steady gold purchases; officially 4% of reserves but potentially underreported
+- **Russia**: Accumulated gold reserves (20%+ of total reserves before 2022 invasion, sold some since to fund war) (World Gold Council)
+- **China**: Steady gold purchases; officially 4% of reserves but potentially underreported (World Gold Council)
 - **Central banks globally**: Net purchasers since 2010 after decades of selling
 
 **Limitations**: Gold generates no yield, volatile, difficult to transact for modern commerce. Useful for value storage but not medium of exchange or unit of account. Can't build financial system on gold without returning to gold standard constraints (fixed exchange rates, monetary policy inflexibility).
@@ -893,7 +893,7 @@ Proposals to back BRICS currency with commodities (oil, gas, minerals) face simi
 **Bitcoin and Cryptocurrencies**
 
 Some sanctioned actors use cryptocurrencies to evade restrictions:
-- **North Korea**: Estimated $2+ billion stolen through cryptocurrency hacking/theft; used for regime financing
+- **North Korea**: Estimated $2+ billion stolen through cryptocurrency hacking/theft (UN Panel of Experts 2023); used for regime financing
 - **Iran**: Some oil sales conducted in cryptocurrency
 - **Russia**: Limited cryptocurrency use for sanctions evasion (most trade still requires traditional finance)
 
@@ -1155,22 +1155,22 @@ Contemporary scholars distinguish today's Global South strategy from Cold War no
 
 For developing nations, financial sovereignty means the capacity to conduct international trade and manage national reserves without vulnerability to unilateral foreign government decisions. The 2022 freezing of Russia's $300 billion in central bank reserves crystallized a concern that many Global South governments had long harbored: that dollar-denominated reserves, held in Western custodial institutions, are not truly sovereign wealth but conditional deposits subject to political seizure. This perception — whether fully justified or not — has driven concrete behavioral changes:
 
-- Central bank gold purchases surged to record levels in 2022-2024, as physical gold held domestically cannot be frozen by foreign governments
-- India and Russia shifted approximately 90% of bilateral trade to rupee-ruble settlement by 2024, up from near-zero before February 2022
-- Brazil and China signed a R$157 billion ($27.7 billion) currency swap agreement in May 2025; roughly 40% of bilateral trade now settles in yuan
-- China and Saudi Arabia completed their first yuan-denominated oil transaction in 2023, following a $6.98 billion currency swap agreement
+- Central bank gold purchases surged to record levels in 2022-2024 (World Gold Council), as physical gold held domestically cannot be frozen by foreign governments
+- India and Russia shifted approximately 90% of bilateral trade to rupee-ruble settlement by 2024 (Reserve Bank of India), up from near-zero before February 2022
+- Brazil and China signed a R$157 billion ($27.7 billion) currency swap agreement in May 2025 (PBOC); roughly 40% of bilateral trade now settles in yuan
+- China and Saudi Arabia completed their first yuan-denominated oil transaction in 2023 (Reuters), following a $6.98 billion currency swap agreement
 
 These bilateral arrangements remain small relative to global dollar flows. But their proliferation signals a systemic shift: countries are actively building the infrastructure for a post-dollar-dominant world, even if that world remains decades away.
 
 **South-South Cooperation and Institutional Alternatives**
 
-The Global South's response to perceived financial hegemony has been institutional as well as bilateral. The BRICS New Development Bank (NDB), headquartered in Shanghai and led since 2023 by former Brazilian President Dilma Rousseff, has approved $40 billion across 122 projects, with approximately 25% of lending denominated in local currencies rather than dollars — a direct challenge to the dollar-denominated lending model of the World Bank and regional development banks. The Asian Infrastructure Investment Bank (AIIB), with 110 member nations including major European states, approved $8.4 billion in 2024 alone, with cumulative approvals exceeding $60 billion.
+The Global South's response to perceived financial hegemony has been institutional as well as bilateral. The BRICS New Development Bank (NDB), headquartered in Shanghai and led since 2023 by former Brazilian President Dilma Rousseff, has approved $40 billion across 122 projects (NDB Annual Report 2024), with approximately 25% of lending denominated in local currencies rather than dollars — a direct challenge to the dollar-denominated lending model of the World Bank and regional development banks. The Asian Infrastructure Investment Bank (AIIB), with 110 member nations including major European states, approved $8.4 billion in 2024 alone, with cumulative approvals exceeding $60 billion (AIIB Annual Report 2024).
 
-These institutions do not yet rival Bretton Woods incumbents in scale — the World Bank lent approximately $73 billion in FY2024 — but they offer something Bretton Woods institutions often cannot: lending without Washington Consensus conditionality. For governments that experienced IMF structural adjustment programs as instruments of ideological discipline (privatization requirements, fiscal austerity mandates, market liberalization conditions), the NDB and AIIB represent not just alternative funding sources but alternative development philosophies.
+These institutions do not yet rival Bretton Woods incumbents in scale — the World Bank lent approximately $73 billion in FY2024 (World Bank Annual Report 2024) — but they offer something Bretton Woods institutions often cannot: lending without Washington Consensus conditionality. For governments that experienced IMF structural adjustment programs as instruments of ideological discipline (privatization requirements, fiscal austerity mandates, market liberalization conditions), the NDB and AIIB represent not just alternative funding sources but alternative development philosophies.
 
 **BRICS+ as Political Platform**
 
-BRICS has expanded rapidly from its original five members (Brazil, Russia, India, China, South Africa) to encompass Egypt, Ethiopia, Iran, the UAE, and Indonesia (joining January 2025), with nine additional partner nations (Belarus, Bolivia, Cuba, Kazakhstan, Malaysia, Nigeria, Thailand, Uganda, Uzbekistan) accepted at the October 2024 Kazan Summit. The expanded grouping encompasses roughly half the world's population and over 41% of global GDP (PPP).
+BRICS has expanded rapidly from its original five members (Brazil, Russia, India, China, South Africa) to encompass Egypt, Ethiopia, Iran, the UAE, and Indonesia (joining January 2025), with nine additional partner nations (Belarus, Bolivia, Cuba, Kazakhstan, Malaysia, Nigeria, Thailand, Uganda, Uzbekistan) accepted at the October 2024 Kazan Summit. The expanded grouping encompasses roughly half the world's population and over 41% of global GDP (PPP) (IMF WEO 2024).
 
 BRICS+ is not a military alliance or even a coherent economic bloc — its members' interests diverge on almost every specific issue. But it serves three functions relevant to financial statecraft:
 
@@ -1209,11 +1209,11 @@ The Western response to Russia's 2022 invasion of Ukraine has been the single mo
 - Seizing private assets on the basis of nationality
 - Imposing secondary sanctions forcing third countries to choose sides
 
-India, with $660 billion in foreign exchange reserves held substantially in Western institutions, drew immediate lessons. So did Saudi Arabia ($450 billion), Brazil ($350 billion), and dozens of smaller nations. The rational response — diversify reserves, build alternative payment channels, reduce dollar exposure — is not anti-American ideology but prudent risk management in a world where financial infrastructure has been weaponized.
+India, with $660 billion in foreign exchange reserves (Reserve Bank of India) held substantially in Western institutions, drew immediate lessons. So did Saudi Arabia ($450 billion), Brazil ($350 billion) (IMF data), and dozens of smaller nations. The rational response — diversify reserves, build alternative payment channels, reduce dollar exposure — is not anti-American ideology but prudent risk management in a world where financial infrastructure has been weaponized.
 
 ### The Limits of Global South Resistance
 
-Global South de-dollarization rhetoric outpaces reality. The dollar still accounts for approximately 57% of global reserves (down from 71% in 1999, but still dominant). The yuan's share of SWIFT payments remains just 2.7%, and its share of global reserves approximately 2.2%. China's CIPS processed $24.5 trillion in 2024 — impressive growth, but still reliant on SWIFT messaging for most transactions. The NDB's $40 billion portfolio is a rounding error beside the World Bank's cumulative lending.
+Global South de-dollarization rhetoric outpaces reality. The dollar still accounts for approximately 57% of global reserves (IMF COFER) (down from 71% in 1999, but still dominant). The yuan's share of SWIFT payments remains just 2.7% (SWIFT RMB Tracker 2024), and its share of global reserves approximately 2.2% (IMF COFER). China's CIPS processed $24.5 trillion in 2024 (PBOC) — impressive growth, but still reliant on SWIFT messaging for most transactions. The NDB's $40 billion portfolio is a rounding error beside the World Bank's cumulative lending.
 
 The structural barriers are formidable:
 

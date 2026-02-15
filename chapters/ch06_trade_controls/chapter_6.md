@@ -593,9 +593,9 @@ China enacted Export Control Law (2020) establishing authority to:
 
 **Specific Controls**:
 
-- **Rare earth export restrictions** (2023): Controls on gallium and germanium (used in semiconductors, solar cells, fiber optics). China produces 94% of global gallium, 83% of germanium. Restrictions raised prices and forced Western firms to stockpile.
-- **Graphite restrictions** (2023): Controls on certain graphite materials essential for lithium-ion battery anodes. China controls 65% of global graphite mining, 90% of processing.
-- **Antimony restrictions** (2024): Controls on antimony (used in semiconductors, solar panels, batteries, ammunition). China produces 48% globally, processes 63%.
+- **Rare earth export restrictions** (2023): Controls on gallium and germanium (used in semiconductors, solar cells, fiber optics). China produces 94% of global gallium, 83% of germanium (USGS 2024). Restrictions raised prices and forced Western firms to stockpile.
+- **Graphite restrictions** (2023): Controls on certain graphite materials essential for lithium-ion battery anodes. China controls 65% of global graphite mining, 90% of processing (USGS 2024).
+- **Antimony restrictions** (2024): Controls on antimony (used in semiconductors, solar panels, batteries, ammunition). China produces 48% globally, processes 63% (USGS 2024).
 
 **Unreliable Entity List (不可靠实体清单, bù kě kào shítǐ qīngdān)**
 

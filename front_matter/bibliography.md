@@ -50,6 +50,66 @@ Jentleson, Bruce W. *Pipeline Politics: The Complex Political Economy of East-We
 
 Szabo, Stephen F. *Germany, Russia, and the Rise of Geo-Economics*. Bloomsbury, 2015.
 
+Baldwin, David A. *Economic Statecraft*, New Edition. Princeton University Press, 2020.
+
+Blas, Javier, and Jack Farchy. *The World for Sale: Money, Power, and the Traders Who Barter the Earth's Resources*. Oxford University Press, 2021.
+
+Brands, Hal, and Michael Beckley. *Danger Zone: The Coming Conflict with China*. PublicAffairs, 2022.
+
+Breznitz, Dan, and Michael Murphree. *Run of the Red Queen: Government, Innovation, Globalization, and Economic Growth in China*. Yale University Press, 2011.
+
+Buchanan, Ben. *The Cybersecurity Dilemma: Hacking, Trust, and Fear Between Nations*. Oxford University Press, 2017.
+
+Deibert, Ronald J. *Reset: Reclaiming the Internet for Civil Society*. House of Anansi Press, 2020.
+
+Doshi, Rush. *The Long Game: China's Grand Strategy to Displace American Order*. Oxford University Press, 2021.
+
+Economy, Elizabeth C. *The Third Revolution: Xi Jinping and the New Chinese State*. Oxford University Press, 2018.
+
+Goldsmith, Jack, and Tim Wu. *Who Controls the Internet? Illusions of a Borderless World*. Oxford University Press, 2006.
+
+Kalantzakos, Sophia. *China and the Geopolitics of Rare Earths*. Oxford University Press, 2017.
+
+Klare, Michael T. *Resource Wars: The New Landscape of Global Conflict*. Metropolitan Books, 2001.
+
+Lee, Kai-Fu. *AI Superpowers: China, Silicon Valley, and the New World Order*. Houghton Mifflin Harcourt, 2018.
+
+Lécuyer, Christophe, and David C. Brock. *Makers of the Microchip: A Documentary History of Fairchild Semiconductor*. MIT Press, 2010.
+
+Maurer, Tim. *Cyber Mercenaries: The State, Hackers, and Power*. Cambridge University Press, 2018.
+
+Mitchell, Melanie. *Artificial Intelligence: A Guide for Thinking Humans*. Farrar, Straus and Giroux, 2019.
+
+Mueller, Milton L. *Will the Internet Fragment? Sovereignty, Globalization and Cyberspace*. Polity, 2017.
+
+Pitron, Guillaume. *The Rare Metals War: The Dark Side of Clean Energy and Digital Technologies*. Scribner, 2020.
+
+Rid, Thomas. *Active Measures: The Secret History of Disinformation and Political Warfare*. Farrar, Straus and Giroux, 2020.
+
+Schneier, Bruce. *Data and Goliath: The Hidden Battles to Collect Your Data and Control Your World*. W.W. Norton, 2015.
+
+Segal, Adam. *The Hacked World Order: How Nations Fight, Trade, Maneuver, and Manipulate in the Digital Age*. PublicAffairs, 2016.
+
+Yan Xuetong. *Leadership and the Rise of Great Powers*. Princeton University Press, 2019.
+
+Yergin, Daniel. *The New Map: Energy, Climate, and the Clash of Nations*. Penguin Press, 2020.
+
+Zittrain, Jonathan. *The Future of the Internet—And How to Stop It*. Yale University Press, 2008.
+
+Allison, Graham. *Destined for War: Can America and China Escape Thucydides's Trap?* Houghton Mifflin Harcourt, 2017.
+
+Blustein, Paul. *Schism: China, America, and the Fracturing of the Global Trading System*. CIGI Press, 2019.
+
+Bown, Chad P. *Self-Enforcing Trade: Developing Countries and WTO Dispute Settlement*. Brookings Institution Press, 2009.
+
+Economy, Elizabeth C. *The World According to China*. Polity, 2022.
+
+Gady, Franz-Stefan, and Kristin Ven Bruusgaard, eds. *The Cyber Operations Handbook*. Oxford University Press, 2024.
+
+Lindsay, Jon R., and Erik Gartzke, eds. *Cross-Domain Deterrence: Strategy in an Era of Complexity*. Oxford University Press, 2019.
+
+Weber, Steven, and Teri Takai, eds. *Technology and National Security*. MIT Press, 2023.
+
 ## Journal Articles and Reports {-}
 
 Allen, Gregory C. "Choking Off China's Access to the Future of AI." Center for Strategic and International Studies, October 2022.
@@ -122,6 +182,34 @@ Jackson, Van. "Rival Reputations: Coercion and Credibility in U.S.-North Korea R
 
 Rajagopalan, Rajeswari Pillai, and Joel Wuthnow. "India-China Border Tensions: Assessing Strategic Implications for the Region." *ORF Occasional Paper*, 2021.
 
+Bazilian, Morgan D. "The Mineral Foundation of the Energy Transition." *The Extractive Industries and Society* 5, no. 1 (2018): 93-97.
+
+Bergsten, C. Fred, and Joseph Gagnon. *Currency Conflict and Trade Policy: A New Strategy for the United States*. Peterson Institute for International Economics, 2017.
+
+Escribano, Gonzalo, et al. "Energy Dependency, Geopolitics, and Foreign Policy: The EU-Russia Natural Gas Trade." *Energy Research & Social Science* 68 (2020): 101528.
+
+Gartzke, Erik, and Jon R. Lindsay. "Thermonuclear Cyberwar." *Journal of Cybersecurity* 3, no. 1 (2017): 37-48.
+
+Grimes, William W., and Tsuneo Akaha. "Japan and the Rare Earth Crisis." *Asian Survey* 54, no. 6 (2014): 1011-1030.
+
+Khan, Saif M., and Carrick Flynn. "Maintaining China's Dependence on Democracies for Advanced Computer Chips." Brookings Institution, April 2020.
+
+Kleinhans, Jan-Peter, and Nurzat Baisakova. "The Global Semiconductor Value Chain: A Technology Primer for Policy Makers." Stiftung Neue Verantwortung, October 2020.
+
+Lebdioui, Amir. "Chile's Lithium Industry: Balancing Development and Sustainability Challenges." *The Extractive Industries and Society* 8, no. 3 (2021): 100935.
+
+Overland, Indra, et al. "The Geopolitics of Renewable Energy: Debunking Four Emerging Myths." *Energy Research & Social Science* 49 (2019): 36-40.
+
+Wang, Jisi. "China's Search for a Grand Strategy." *Foreign Affairs* 90, no. 2 (2011): 68-79.
+
+Blanchard, Emily J., Chad P. Bown, and Robert C. Johnson. "Global Supply Chains and Trade Policy." NBER Working Paper 26153, 2019.
+
+Bown, Chad P., and Douglas A. Irwin. "Trump's Assault on the Global Trading System—And Why Decoupling from China Will Change Everything." *Foreign Affairs* 98, no. 5 (2019): 125-136.
+
+Kilcrease, Emily, and Megan Lamberth. "Assessing the State of U.S. Export Controls: Towards Better Policy, Process, and Resources." Center for a New American Security, 2021.
+
+Stanford University. *Artificial Intelligence Index Report*. Stanford HAI, 2024.
+
 ## Government and International Organization Reports {-}
 
 National Academy of Sciences. "Balancing the National Interest: U.S. National Security Export Controls and Global Economic Competition." National Academies Press, 1987.
@@ -172,6 +260,20 @@ World Bank. *World Development Report 2020: Trading for Development in the Age o
 
 World Bank. *Groundswell Part 2: Acting on Internal Climate Migration*. World Bank, 2021.
 
+Department of Defense. "Securing Defense-Critical Supply Chains: An Action Plan Developed in Response to President Biden's Executive Order 14017." February 2022.
+
+Kennedy, Scott, and Sujai Shivakumar. *China's Digital Silk Road: Strategic Technological Competition and Exporting Political Illiberalism*. Center for Strategic and International Studies, 2022.
+
+U.S.-China Economic and Security Review Commission. Annual Reports, 2015-2024.
+
+Congressional Research Service. "Semiconductors: U.S. Industry, Global Competition, and Federal Policy." Updated regularly.
+
+U.S. Department of Commerce, Bureau of Industry and Security. "The Effect of Imports of Steel on the National Security." January 2018.
+
+U.S. Department of the Treasury. "Annual Report to Congress on CFIUS." Various years.
+
+European Commission. "Annual Report on the Screening of Foreign Direct Investments into the Union." 2024.
+
 ## Chinese Government and Academic Sources {-}
 
 National Development and Reform Commission (NDRC). "Made in China 2025." May 2015.
@@ -181,6 +283,12 @@ State Council Information Office, PRC. "China's International Development Cooper
 Xi Jinping. "Secure a Decisive Victory in Building a Moderately Prosperous Society in All Respects and Strive for the Great Success of Socialism with Chinese Characteristics for a New Era." Report to the 19th National Congress of the Communist Party of China, October 2017.
 
 余永定 (Yu Yongding). "人民币国际化与资本项目可兑换" [RMB Internationalization and Capital Account Convertibility]. *国际经济评论* [International Economic Review], 2015(4): 49-66.
+
+刘鹤 (Liu He). "加快构建以国内大循环为主体、国内国际双循环相互促进的新发展格局" [Accelerating the Construction of a New Development Pattern]. *People's Daily*, November 2020.
+
+王志乐 (Wang Zhile). "中国工业化进程中的产业安全问题研究" [Research on Industrial Security in China's Industrialization Process]. *China Industrial Economics*, 2018(5).
+
+中国电子信息产业发展研究院 (CCID). "中国集成电路产业发展报告" [China Integrated Circuit Industry Development Report]. Annual publication.
 
 ## Data Sources and Databases {-}
 
@@ -210,6 +318,8 @@ Stockholm International Peace Research Institute (SIPRI). "SIPRI Arms Transfers 
 
 U.S. Census Bureau. "Trade in Goods with China." Various years. https://www.census.gov/foreign-trade/balance/c5700.html
 
+U.S. Geological Survey (USGS). "Mineral Commodity Summaries." Various years. https://www.usgs.gov/centers/national-minerals-information-center/mineral-commodity-summaries
+
 U.S.-China Business Council. "US-China Trade Statistics." Annual Reports, 2000-2024.
 
 World Bank. "World Development Indicators." Various years. https://databank.worldbank.org
@@ -235,6 +345,16 @@ Council on Foreign Relations. "Sanctions Tracker." Accessed 2024. https://www.cf
 Hudson Institute. "China's Participation in the World Trade Organization." December 2021.
 
 Royal United Services Institute (RUSI). "Financial Sanctions and Anti-Money Laundering." Various reports.
+
+Boston Consulting Group. "Strengthening the Global Semiconductor Supply Chain in an Uncertain Era." April 2021.
+
+McKinsey & Company. "Battery 2030: Resilient, Sustainable, and Circular." January 2023.
+
+Atlantic Council. "CBDC Tracker." Various years. https://www.atlanticcouncil.org/cbdctracker/
+
+SWIFT. "RMB Tracker." Monthly reports. Various years.
+
+World Gold Council. "Gold Demand Trends." Quarterly reports, various years.
 
 ---
 

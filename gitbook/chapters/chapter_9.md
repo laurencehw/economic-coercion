@@ -110,7 +110,7 @@ The Soviet invasion of Afghanistan (December 1979) prompted President Carter to 
 - **Olympic boycott**: U.S. boycotted Moscow Summer Olympics (1980)
 - **Fishing rights suspension**: Revoked Soviet fishing permits in U.S. waters
 
-The grain embargo received most attention due to visible domestic impact on American farmers and strategic logic: Soviet Union was world's largest grain importer (importing 35-40 million tons annually), and U.S. was dominant supplier (providing 40-50% of Soviet imports in late 1970s).
+The grain embargo received most attention due to visible domestic impact on American farmers and strategic logic: Soviet Union was world's largest grain importer (importing 35-40 million tons annually), and U.S. was dominant supplier (providing 40-50% of Soviet imports in late 1970s) (Paarlberg 1980; USDA 1981).
 
 **Strategic Logic**
 
