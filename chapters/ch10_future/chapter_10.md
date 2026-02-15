@@ -146,7 +146,7 @@ De-dollarization doesn't eliminate U.S. financial sanctions power but constrains
 
 ## Climate, Resources, and the Security Nexus
 
-Climate change fundamentally reshapes economic coercion landscape through multiple mechanisms: altering resource availability and geographic distribution, creating new dependencies (critical minerals for clean energy), generating humanitarian crises exploitable for coercive purposes, and changing strategic calculations about long-term competition. Economic statecraft in 2035-2050 will increasingly intersect with climate adaptation, resource scarcity, and energy transitions.
+Climate change fundamentally reshapes the conditions for economic coercion through multiple mechanisms: altering resource availability and geographic distribution, creating new dependencies (critical minerals for clean energy), generating humanitarian crises exploitable for coercive purposes, and changing strategic calculations about long-term competition. Economic statecraft in 2035-2050 will increasingly intersect with climate adaptation, resource scarcity, and energy transitions.
 
 ### Critical Minerals and Clean Energy Dependencies
 

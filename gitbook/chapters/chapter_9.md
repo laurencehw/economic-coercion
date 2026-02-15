@@ -97,7 +97,7 @@ Despite limitations, scholarly consensus holds CoCom meaningfully degraded Sovie
 ### Grain Embargo (1980): Unilateral Failure
 
 <figure class="book-figure">
-  <img src="../../figures/figure_9_1_soviet_grain.png" alt="Soviet Grain Imports by Source Country (1975-1985)">
+  <img src="../../figures/fig_09_01_soviet_grain.png" alt="Soviet Grain Imports by Source Country (1975-1985)">
   <figcaption>Figure 9.1: Soviet Grain Imports by Source Country (1975-1985)</figcaption>
 </figure>
 

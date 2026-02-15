@@ -382,7 +382,7 @@ Semiconductor export controls illustrate how EAR authorities operate in practice
 
 **Phase 1: Entity List Additions (2019-2021)** targeted specific Chinese companies (Huawei, SMIC, Sugon, Phytium), blocking U.S. exports to designated entities. This proved insufficient—Chinese firms sourced from foreign suppliers or acquired older-generation technology not subject to restrictions.
 
-**Phase 2: Technology-Specific Controls (October 2022)** marked a paradigm shift from entity-based to capability-based restrictions. BIS imposed controls on manufacturing equipment for logic chips below 16nm, memory chips below specified thresholds (DRAM < 18nm half-pitch, NAND > 128 layers), and prohibited U.S. persons from supporting Chinese advanced chip development. These rules targeted China's semiconductor ecosystem broadly rather than individual firms.
+**Phase 2: Technology-Specific Controls (October 2022)** marked a fundamental reorientation from entity-based to capability-based restrictions. BIS imposed controls on manufacturing equipment for logic chips below 16nm, memory chips below specified thresholds (DRAM < 18nm half-pitch, NAND > 128 layers), and prohibited U.S. persons from supporting Chinese advanced chip development. These rules targeted China's semiconductor ecosystem broadly rather than individual firms.
 
 **Phase 3: Allied Coordination (2023-2024)** extended controls multilaterally through negotiations with the Netherlands and Japan (see below, "Multilateral Versus Unilateral Approaches"). October 2023 updates tightened node definitions, added over 100 Chinese chip firms to the Entity List, and expanded geographic scope to close transshipment routes through Macau and Hong Kong.
 

@@ -688,7 +688,7 @@ Aggressive U.S. use of financial sanctions—particularly freezing Russia's cent
 **Sanctions Vulnerability**
 
 <figure class="book-figure">
-  <img src="../../figures/figure_7_4_russian_frozen_assets.png" alt="Russian Central Bank Assets Frozen in 2022">
+  <img src="../../figures/fig_07_04_russian_frozen_assets.png" alt="Russian Central Bank Assets Frozen in 2022">
   <figcaption>Figure 7.4: Russian Central Bank Assets Frozen in 2022</figcaption>
 </figure>
 

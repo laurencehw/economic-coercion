@@ -428,7 +428,7 @@ Initial approach focused on entity-specific restrictions: Adding Chinese compani
 
 **Phase 2: Technology-Specific Controls (October 2022)**
 
-October 7, 2022 marked paradigm shift: BIS imposed controls not on entities but on technological capabilities regardless of end-user:
+October 7, 2022 marked a fundamental reorientation: BIS imposed controls not on entities but on technological capabilities regardless of end-user:
 
 - **Logic chips**: Controls on manufacturing equipment for logic chips < 16nm (e.g., 14nm, 10nm, 7nm, 5nm, 3nm)
 - **Memory chips**: Controls on equipment for DRAM < 18nm half-pitch, NAND flash > 128 layers

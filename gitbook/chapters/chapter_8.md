@@ -477,7 +477,7 @@ China's National Integrated Circuit Industry Investment Fund (the "Big Fund") ex
 ### Comparing Approaches: Market-Driven vs. State-Directed
 
 <figure class="book-figure">
-  <img src="../../figures/figure_8_3_industrial_policy.png" alt="Industrial Policy Spending: U.S. vs China">
+  <img src="../../figures/fig_08_03_industrial_policy.png" alt="Industrial Policy Spending: U.S. vs China">
   <figcaption>Figure 8.3: Industrial Policy Spending: U.S. vs China</figcaption>
 </figure>
 
