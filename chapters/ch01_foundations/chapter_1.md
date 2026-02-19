@@ -6,7 +6,7 @@ On October 7, 2022, the United States imposed sweeping export controls targeting
 
 We have entered the era of geoeconomics—a polite term for a messy reality: the firewall between "making money" and "making war" has burned down. For thirty years, policymakers pretended that buying cheap goods from rivals was a kind of peace treaty. It turns out it was just a long line of credit, now coming due. Trade relationships, supply chains, technology standards, and financial flows have become instruments of statecraft. Economic coercion—the use of economic measures to compel behavioral changes in other states—has become central to how great powers compete. For policymakers, business leaders, and citizens caught up in these shifts, understanding the dynamics is no longer optional.
 
-This book provides a comprehensive guide to economic coercion in the context of US-China strategic competition. It examines how states use economic tools to pursue security objectives, why such measures succeed or fail, and what the proliferation of economic statecraft means for the international system. The focus is practical: each chapter explains specific tools available to governments, analyzes real-world cases, and explores decision-making through tabletop exercises. But the book also takes seriously the need for strategic empathy—understanding how different actors perceive threats, opportunities, and constraints.
+This book examines economic coercion in the context of US-China strategic competition. It examines how states use economic tools to pursue security objectives, why such measures succeed or fail, and what the proliferation of economic statecraft means for the international system. The focus is practical: each chapter explains specific tools available to governments, analyzes real-world cases, and explores decision-making through tabletop exercises. But the book also takes seriously the need for strategic empathy—understanding how different actors perceive threats, opportunities, and constraints.
 
 Three core arguments organize our analysis. First, contemporary economic coercion reflects the structural condition of weaponized interdependence. Global networks for finance, technology, and trade create chokepoints—nodes of asymmetric dependency that can be exploited for coercive leverage. The United States benefits from centrality in dollar-denominated finance, internet infrastructure, and semiconductor supply chains. China increasingly holds comparable positions in critical minerals, electric vehicle batteries, and manufacturing capacity. Understanding where these chokepoints exist and how they can be leveraged is fundamental to modern statecraft.
 
@@ -16,7 +16,7 @@ Third, and perhaps most importantly, effective strategy requires understanding a
 
 This chapter establishes foundations. It defines key concepts—geoeconomics, economic statecraft, weaponized interdependence, and economic coercion—and explains how they relate. It traces the arc of US-China economic relations from engagement through growing competition. It introduces analytical frameworks used throughout the book. And critically, it presents both American and Chinese perspectives on economic statecraft, explaining how different historical experiences produce different strategic logics. The chapter includes two detailed case studies—the Cold War-era Coordinating Committee for Multilateral Export Controls (CoCom) and the 2022 exclusion of Russian banks from SWIFT—that illustrate how economic coercion works in practice.
 
-This matters beyond academic interest. How the United States and China manage their economic interdependence while competing strategically may determine whether this century sees managed rivalry or something far worse. Get it wrong, and a trade dispute over memory chips could spiral into a shooting war over Taiwan. Get it right, and economic competition might channel superpower rivalry into domains less likely to incinerate cities. Understanding the tools, limitations, and logic of economic coercion is essential for navigating that challenge.
+This matters beyond academic interest. How the United States and China manage their economic interdependence while competing strategically may determine whether this century sees managed rivalry or something far worse. Get it wrong, and a trade dispute over memory chips could spiral into a shooting war over Taiwan. Get it right, and economic competition might channel superpower rivalry into domains less likely to incinerate cities. Understanding the tools, limitations, and logic of economic coercion is essential for meeting that challenge.
 
 ---
 
@@ -46,7 +46,7 @@ These hub positions create what Farrell and Newman call "panopticon" and "chokep
 
 The result is a fundamental tension. Economic integration does constrain: sanctioning China's semiconductor industry imposes costs on American firms (lost sales, reduced economies of scale) and allies (disrupted supply chains, technology restrictions). But integration also empowers: without reliance on U.S. semiconductor equipment, American controls would have no bite. The same interdependence that creates peace constituencies also creates coercive leverage.
 
-This paradox generates strategic dilemmas. How much economic integration is optimal when potential adversaries are involved? Should states prioritize economic efficiency or strategic autonomy? Can chokepoint dependencies be maintained without provoking retaliation or accelerating rivals' efforts at self-sufficiency? These questions have no easy answers, but understanding the dual nature of interdependence is essential for navigating them.
+This paradox generates strategic dilemmas. How much economic integration is optimal when potential adversaries are involved? Should states prioritize economic efficiency or strategic autonomy? Can chokepoint dependencies be maintained without provoking retaliation or accelerating rivals' efforts at self-sufficiency? These questions have no easy answers, but understanding the dual nature of interdependence is essential for addressing them.
 
 ### Why Now? Four Structural Drivers
 
@@ -61,8 +61,6 @@ Economic coercion is not new. Imperial Britain used trade restrictions and naval
 **Fourth: The blurring of economic and security domains.** Emerging technologies increasingly have dual-use applications: artificial intelligence enhances both facial recognition apps and autonomous weapons systems; quantum computing promises breakthroughs in drug discovery and code-breaking; biotechnology enables personalized medicine and biological weapons. This dual-use character means that commercial competition in cutting-edge technologies is inseparable from security competition. States cannot afford to treat trade, investment, and technology development as purely economic matters when those same capabilities determine military effectiveness and intelligence dominance.
 
 Together, these four factors—peer economic competition with China, networked digital economies, fragmentation of the liberal order, and dual-use technology convergence—create an environment where economic coercion is both more feasible and more necessary as a tool of statecraft. Understanding this structural context is essential for making sense of specific policy choices, from semiconductor export controls to rare earth restrictions to financial sanctions.
-
-The remainder of this chapter builds on this foundation. We first define key concepts precisely (geoeconomics, economic statecraft, weaponized interdependence, economic coercion). We then examine the arc of US-China economic relations and the specific strategic perspectives each side brings. Finally, we develop analytical frameworks for understanding when and how economic coercion works—frameworks that will be applied throughout the book's subsequent chapters.
 
 ---
 
@@ -220,13 +218,11 @@ The US-China economic competition differs from Cold War precedent in several cru
 
 The competition is likely to persist regardless of which parties govern in Washington or Beijing. Structural factors—China's determination to achieve technology self-sufficiency, American concerns about dependence on a strategic competitor, the dual-use nature of emerging technologies—create enduring drivers for economic statecraft. How the two powers manage this competition while maintaining sufficient cooperation in areas of shared interest (climate change, pandemic response, financial stability) is the central challenge of contemporary international relations.
 
-The next sections examine how analysts can systematically assess economic coercion efforts in this context, what tools governments employ, and how different perspectives shape strategic choices.
-
 ---
 
 ## Conceptual Framework for Analyzing Economic Coercion
 
-Having defined key concepts and examined the US-China strategic context, we now need analytical tools for systematically assessing specific instances of economic coercion. This framework, applied throughout subsequent chapters, organizes analysis across four dimensions: **domain**, **target**, **objective**, and **intensity**.
+Analyzing specific instances of economic coercion requires systematic analytical tools. This framework, applied throughout subsequent chapters, organizes analysis across four dimensions: **domain**, **target**, **objective**, and **intensity**.
 
 <figure class="book-figure">
   <img src="../../figures/fig_01_01_framework.png" alt="Conceptual Framework for Analyzing Economic Coercion">
@@ -289,13 +285,11 @@ Beyond the mechanics of economic coercion, several strategic factors shape effec
 
 **Time Horizons:** Targets with longer time horizons (China accepting decades to achieve semiconductor independence) can endure short-term pain better than those facing immediate crises. Coercing states with short political timelines (electoral cycles) struggle to maintain pressure against targets planning in decades.
 
-This conceptual framework—analyzing domain, target, objective, and intensity while assessing effectiveness across multiple criteria and strategic considerations—provides tools for understanding economic coercion in practice. The case studies, government tools boxes, and analyses in subsequent chapters apply this framework systematically.
-
 ---
 
 ## Roadmap for the Book
 
-This book examines economic coercion in the context of US-China strategic competition through ten chapters organized into five parts. Each chapter applies the conceptual framework developed above, includes government tools boxes explaining specific authorities, presents Chinese and other relevant perspectives, analyzes case studies, and provides tabletop exercises for active learning.
+This book examines economic coercion in the context of US-China strategic competition through ten chapters organized into four parts. Each chapter applies the conceptual framework developed above, includes government tools boxes explaining specific authorities, presents Chinese and other relevant perspectives, analyzes case studies, and provides tabletop exercises for active learning.
 
 **Part I: Foundations and Context** (Chapters 1-2) establishes conceptual foundations and examines the structural basis of economic coercion. This chapter has provided definitions, historical context, and analytical frameworks. Chapter 2 examines supply chain vulnerabilities and dependencies—the physical infrastructure of weaponized interdependence. It maps where chokepoints exist (semiconductor manufacturing, rare earth processing, pharmaceutical ingredients), how they developed, and how states are attempting to reduce critical dependencies through reshoring, friend-shoring, and diversification.
 
@@ -307,19 +301,17 @@ Chapter 4 addresses **technology and innovation competition**—the most consequ
 
 Chapter 5 examines **information, standards, and digital infrastructure**—often overlooked but increasingly important domains of economic statecraft. It covers control of submarine cables and internet routing, cloud computing and data localization requirements, technology standards-setting (5G, AI governance), social media platforms and information ecosystems, and digital currency competition. Chinese perspectives on cyber sovereignty and digital silk road are integrated throughout.
 
-**Part III: Tools and Mechanisms** (Chapters 6-7) provides practitioner-focused analysis of specific instruments governments use.
+**Part III: Tools and Mechanisms** (Chapters 6-8) provides practitioner-focused analysis of specific instruments governments use.
 
 Chapter 6 covers **trade controls and tariffs**—from traditional trade remedies (anti-dumping, countervailing duties) through Section 232 national security tariffs, Section 301 unfair trade practice responses, export licensing and deemed exports, to import bans and forced labor concerns. It examines WTO constraints and workarounds, Chinese retaliatory tariffs and the Phase One trade deal, and effectiveness of trade measures in changing target behavior versus signaling resolve.
 
 Chapter 7 analyzes **financial statecraft and sanctions**—the most powerful but also most controversial domain. It explains SWIFT architecture and exclusion mechanisms, correspondent banking and dollar clearing, asset freezes and Specially Designated Nationals, secondary sanctions and extraterritorial reach, and blocking statutes and anti-coercion tools. Government tools boxes detail IEEPA, OFAC authorities, and the Magnitsky Act. The chapter examines Chinese development of alternative payment systems (CIPS), digital yuan internationalization, and the Anti-Foreign Sanctions Law.
 
-**Part IV: Strategic Implications** (Chapters 8-9) examines broader consequences of economic coercion for international order and strategic stability.
-
 Chapter 8 addresses **investment screening and industrial policy**—the intersection of defensive measures (preventing strategic dependencies) and offensive measures (building domestic capabilities). It analyzes CFIUS evolution and expanded jurisdiction, European investment screening mechanisms, Chinese outbound investment restrictions, the CHIPS and Science Act and Inflation Reduction Act subsidy competitions, and effectiveness of industrial policy in achieving technology leadership. Chinese perspectives on "technological hegemony" and development rights are central.
 
-Chapter 9 provides **historical and comparative cases** to contextualize contemporary competition. It examines CoCom and Cold War technology denial in depth, economic sanctions on the Soviet Union and energy pipeline conflicts, Japan-US semiconductor competition in the 1980s-90s, contemporary sanctions on Iran and North Korea, and the comprehensive sanctions on Russia following its 2022 Ukraine invasion. Each case is analyzed using the four-dimension framework, with lessons learned for current policy.
+**Part IV: Looking Back and Looking Forward** (Chapters 9-10) draws on historical experience and examines future trajectories.
 
-**Part V: Looking Forward** (Chapter 10) synthesizes insights and examines future trajectories.
+Chapter 9 provides **historical and comparative cases** to contextualize contemporary competition. It examines CoCom and Cold War technology denial in depth, economic sanctions on the Soviet Union and energy pipeline conflicts, Japan-US semiconductor competition in the 1980s-90s, contemporary sanctions on Iran and North Korea, and the comprehensive sanctions on Russia following its 2022 Ukraine invasion. Each case is analyzed using the four-dimension framework, with lessons learned for current policy.
 
 Chapter 10 explores scenarios for how US-China economic competition might evolve: managed competition with partial decoupling in strategic sectors, comprehensive economic confrontation approaching Cold War separation, crisis escalation where economic coercion triggers military conflict, or cooperative frameworks that establish guardrails and crisis management mechanisms. It examines wild cards (Taiwan contingency, pandemic recurrence, climate crisis forcing cooperation) and assesses policy options for managing competition while maintaining essential cooperation.
 
@@ -335,7 +327,7 @@ Chapter 10 explores scenarios for how US-China economic competition might evolve
 
 **The Argument:** Across these chapters, the book makes several interconnected arguments. Economic coercion has become central to great power competition because military conflict is too costly and interdependence creates exploitable chokepoints. Effectiveness depends not just on material capabilities but on understanding target decision-making, managing allied coordination, and anticipating retaliation. The US-China competition differs fundamentally from the Cold War because it occurs within deep economic integration—creating both opportunities (leverage) and constraints (mutual vulnerability). Chinese perspectives, rooted in historical experiences of foreign economic coercion, shape Beijing's responses in ways Western policymakers must understand even if they don't endorse. How these two powers manage economic interdependence while competing strategically will determine whether this century sees stable competition or catastrophic conflict.
 
-The next sections of this chapter—government tools boxes on IEEPA and the National Emergencies Act, and case studies on CoCom and SWIFT exclusion—preview the analytical approach applied throughout the book. A companion tabletop exercise on a Taiwan crisis scenario can be found in Appendix A.
+A companion tabletop exercise on a Taiwan crisis scenario can be found in Appendix A.
 
 ---
 
@@ -606,8 +598,8 @@ However, the Soviet Union achieved technological parity or superiority in specif
 
 ### Key Lessons for Contemporary Policy
 
-**1. Long-term technology denial is feasible when:
-** - Alliance controls critical chokepoints (CoCom members produced virtually all advanced technology)
+**1. Long-term technology denial is feasible when:**
+- Alliance controls critical chokepoints (CoCom members produced virtually all advanced technology)
 - Target lacks alternative suppliers or indigenous capabilities
 - Political will sustained through clear ideological/security threat perception
 - Objectives are capability degradation rather than behavioral change
@@ -807,7 +799,7 @@ Understanding economic coercion requires access to reliable data on sanctions, t
 
 ## Key Insights
 
-- **Interdependence is a double-edged sword:** The same global supply chains, financial networks, and technology flows that were expected to promote peace among trading partners have become instruments of coercion. Economic integration creates both mutual benefit and exploitable chokepoints, meaning deeper ties with a strategic rival simultaneously constrain and empower both sides.
+- **Interdependence enables coercion as much as it constrains it:** The same global supply chains, financial networks, and technology flows that were expected to promote peace among trading partners have become instruments of coercion. Economic integration creates both mutual benefit and exploitable chokepoints, meaning deeper ties with a strategic rival simultaneously constrain and empower both sides.
 
 - **Weaponized interdependence depends on network structure, not just economic size:** Coercive leverage comes from occupying hub positions in global networks -- controlling SWIFT messaging, semiconductor design tools, or rare earth processing -- rather than from GDP alone. A smaller economy that controls a critical node can exert disproportionate influence over a larger one.
 

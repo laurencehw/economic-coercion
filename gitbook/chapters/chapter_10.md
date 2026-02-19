@@ -2,56 +2,19 @@
 
 ## Executive Summary
 
-In March 2023, China and Brazil announced bilateral trade settlement in yuan and reais, bypassing the U.S. dollar for transactions worth tens of billions annually. Within months, similar announcements followed: Russia and China expanding yuan-ruble trade to circumvent sanctions, Saudi Arabia accepting yuan for oil sales, ASEAN countries establishing local currency settlement mechanisms.
+In March 2023, China and Brazil announced bilateral trade settlement in yuan and reais, bypassing the U.S. dollar for transactions worth tens of billions annually. Within months, similar announcements followed: Russia and China expanding yuan-ruble trade to circumvent sanctions, Saudi Arabia accepting yuan for oil sales, ASEAN countries establishing local currency settlement mechanisms. Individually, each announcement represented modest shifts—bilateral trade between specific partners, limited commodity categories. Collectively, they signaled accelerating de-dollarization: gradual erosion of the dollar's monopoly as global reserve currency and medium of exchange (Farrell and Newman 2019). American policymakers faced uncomfortable questions: Would weaponizing dollar dominance through sanctions ultimately destroy the source of that power? Could alternative payment systems (China's CIPS, cryptocurrency, central bank digital currencies) provide viable substitutes? How long would the dollar's "exorbitant privilege" persist if adversaries and even allies systematically reduced dollar dependence? The dollar's power was like a loaded gun: you could use it, but every shot reminded everyone else to find their own weapons.
 
-Individually, each announcement represented modest shifts—bilateral trade between specific partners, limited commodity categories. Collectively, they signaled accelerating de-dollarization: gradual erosion of the dollar's monopoly as global reserve currency and medium of exchange (Farrell and Newman 2019).
+This is the paradox of economic statecraft: every weapon, once used, teaches adversaries how to defend against it. Financial sanctions excluding Russia from SWIFT and freezing $300+ billion in reserves demonstrated American power—and accelerated Chinese, Russian, Indian, and Brazilian efforts to build alternative financial infrastructure. Export controls degrading adversary capabilities spur indigenous innovation. Investment screening blocks technology access but fragments the global markets that enriched Western economies. The tools of strategic competition undermine the very system that made the West powerful enough to wield them.
 
-American policymakers faced uncomfortable questions: Would weaponizing dollar dominance through sanctions ultimately destroy the source of that power? Could alternative payment systems (China's CIPS, cryptocurrency, central bank digital currencies) provide viable substitutes? How long would the dollar's "exorbitant privilege" persist if adversaries and even allies systematically reduced dollar dependence? The dollar's power, it turned out, was like a loaded gun: you could use it, but every shot reminded everyone else to find their own weapons.
+What happens next? Projecting forward to 2035-2050, the trends point in unsettling directions.
 
-The de-dollarization trend exemplifies how contemporary economic statecraft creates future risks alongside immediate advantages. Financial sanctions excluding Russia from SWIFT and freezing $300+ billion in reserves demonstrated American financial power's coercive potential. Yet these very actions accelerated efforts by China, Russia, India, Brazil, and others to build alternative financial infrastructure reducing dollar vulnerability.
+**First, current trends point toward increasing economic fragmentation—partial decoupling between rival blocs, parallel technological ecosystems, competing financial architectures—rather than complete autarky or renewed integration.** Full decoupling is economically prohibitive: even hostile powers maintain trade in non-strategic sectors (China-U.S. bilateral goods trade remains approximately $575-580 billion annually, down from the 2022 peak of $690 billion, despite tensions), and global supply chains resist comprehensive restructuring. But selective decoupling accelerates: semiconductors, AI, biotechnology, critical minerals face strategic controls; financial systems develop redundancies; standards and protocols diverge. The resulting "partially fragmented globalization" combines sectoral decoupling (strategic domains) with continued integration (commodity trade, consumer goods) forcing firms and policymakers to manage operations across bifurcated markets.
 
-Strategic competition's tools—export controls degrading adversary capabilities, investment screening blocking technology access, industrial policy reshaping supply chains—similarly generate long-term blowback: spurring indigenous innovation, fragmenting global markets, undermining the open economic system that enabled Western prosperity. Understanding future trajectories requires analyzing how current policies create path dependencies, how emerging technologies reshape competitive landscapes, and how geopolitical alignments evolve.
+**Second, emerging technologies—artificial intelligence, quantum computing, biotechnology, clean energy, space systems—will become central battlegrounds for strategic competition, with economic coercion tools adapted to control technology diffusion.** Unlike semiconductors (where chokepoints concentrate in specific equipment and materials), AI development distributes across talent, algorithms, data, and computing infrastructure. Quantum computing remains early-stage, with uncertain timelines for practical applications but potentially revolutionary implications for cryptography, optimization, and sensing. Biotechnology advancements (CRISPR gene editing, synthetic biology, personalized medicine) create dual-use capabilities with economic and security dimensions. Each technology requires tailored coercion strategies: talent restrictions for AI, specialized equipment controls for quantum, data sovereignty for biotech. Yet technology's rapid evolution, diffusion speed, and software-centricity resist traditional export controls designed for physical goods.
 
-{% hint style="info" %}
-**Key Concept: Economic Security**
+**Third, alliance structures will prove decisive in determining economic statecraft effectiveness, with competition between U.S.-led networks and alternative coalitions shaping global economic governance.** The post-1945 order presumed Western economic dominance enabling rule-setting: IMF/World Bank governing finance, WTO managing trade, dollar-denominated transactions, English-language internet protocols. China's rise, Russia's resistance, and Global South agency challenge this structure. Alternative institutions (AIIB, BRICS New Development Bank, SCO) provide parallel financial infrastructure. Digital currencies and payment systems (e-CNY, cryptocurrencies, bilateral settlement) reduce dollar dependence. Technology standards competition (5G, AI governance, internet protocols) fragments global systems. The future likely features competing economic blocs with varying degrees of integration, overlap, and conflict—multipolar economic order replacing unipolar Western dominance.
 
-**Economic security** encompasses the protection of a nation's economic foundations from external threats and coercion. It includes: (1) supply chain resilience—ensuring access to critical goods and materials; (2) technology sovereignty—maintaining competitive capabilities in strategic industries; (3) financial system integrity—protecting against monetary manipulation and sanctions vulnerability; and (4) critical infrastructure protection—securing essential systems from disruption. Economic security has emerged as a central organizing principle for 21st-century statecraft.
-{% endhint %}
-
-This chapter examines future scenarios for economic statecraft through 2035-2050, assessing likely trajectories, critical uncertainties, and policy implications. Three core arguments structure our analysis.
-
-{% hint style="info" %}
-**Key Concept: Decoupling vs. De-Risking**
-
-**Decoupling** refers to comprehensive separation of economic ties between nations—severing trade, investment, and technology flows across all sectors. **De-risking** is the more targeted approach of reducing dependencies only in strategic sectors (semiconductors, AI, critical minerals) while maintaining beneficial economic integration elsewhere. Current policy debates center on whether complete decoupling is feasible or desirable, or whether selective de-risking better balances security and prosperity.
-{% endhint %}
-
-**First, current trends point toward increasing economic fragmentation—partial decoupling between rival blocs, parallel technological ecosystems, competing financial architectures—rather than complete autarky or renewed integration.** Full decoupling is economically prohibitive: even hostile powers maintain trade in non-strategic sectors (China-U.S. bilateral trade remains $690 billion annually despite tensions), and global supply chains resist comprehensive restructuring. But selective decoupling accelerates: semiconductors, AI, biotechnology, critical minerals face strategic controls; financial systems develop redundancies; standards and protocols diverge. The resulting "partially fragmented globalization" combines sectoral decoupling (strategic domains) with continued integration (commodity trade, consumer goods) creating complexity for firms and policymakers navigating bifurcated markets.
-
-**Second, emerging technologies—artificial intelligence, quantum computing, biotechnology, clean energy, space systems—will become central battlegrounds for strategic competition, with economic coercion tools adapted to control technology diffusion.**
-
-Unlike semiconductors (where chokepoints concentrate in specific equipment and materials), AI development distributes across talent, algorithms, data, and computing infrastructure. Quantum computing remains early-stage, with uncertain timelines for practical applications but potentially revolutionary implications for cryptography, optimization, and sensing. Biotechnology advancements (CRISPR gene editing, synthetic biology, personalized medicine) create dual-use capabilities with economic and security dimensions.
-
-Each technology requires tailored coercion strategies: talent restrictions for AI, specialized equipment controls for quantum, data sovereignty for biotech. Yet technology's rapid evolution, diffusion speed, and software-centricity resist traditional export controls designed for physical goods.
-
-**Third, alliance structures will prove decisive in determining economic statecraft effectiveness, with competition between U.S.-led networks and alternative coalitions shaping global economic governance.**
-
-The post-1945 order presumed Western economic dominance enabling rule-setting: IMF/World Bank governing finance, WTO managing trade, dollar-denominated transactions, English-language internet protocols. China's rise, Russia's resistance, and Global South agency challenge this structure.
-
-Alternative institutions (AIIB, BRICS New Development Bank, SCO) provide parallel financial infrastructure. Digital currencies and payment systems (e-CNY, cryptocurrencies, bilateral settlement) reduce dollar dependence. Technology standards competition (5G, AI governance, internet protocols) fragments global systems. The future likely features competing economic blocs with varying degrees of integration, overlap, and conflict—multipolar economic order replacing unipolar Western dominance.
-
-The chapter proceeds through five main sections. Section 1 examines **de-dollarization trajectories**, analyzing dollar privilege erosion, alternative reserve currencies, payment systems evolution, and implications for financial sanctions. Section 2 explores **climate and resource security nexus**, assessing how climate change reshapes economic coercion through water scarcity, agricultural disruption, critical mineral competition, and energy transitions. Section 3 analyzes **emerging technologies' strategic implications**, focusing on AI, quantum computing, biotechnology, and space systems as future competition domains. Section 4 investigates **alliance evolution**, comparing Western coordination (G7, NATO, AUKUS) versus alternative coalitions (BRICS+, SCO, Global South frameworks) and implications for economic coercion effectiveness. Section 5 presents **scenario analysis for 2035-2050**, developing four alternative futures (Managed Competition, Economic Cold War, Crisis-Driven Fragmentation, Renewed Integration) with policy implications.
-
-A Chinese Perspective Box explores Beijing's vision for future order: **multipolarity** (多极化, duōjíhuà), **de-Westernization** of global governance, **technology self-reliance** as achieved reality, and **alternative development models** offering Global South choices beyond Western frameworks.
-
-The chapter concludes with policy recommendations balancing competitive strategy against risks of fragmentation, emphasizing:
-- Multilateral coordination to sustain effective sanctions while limiting blowback
-- Technology leadership investment to maintain competitive advantages
-- Selective integration to preserve economic benefits while protecting security
-- Alliance strengthening through burden-sharing and value demonstration
-- Strategic patience recognizing that economic competition spans decades
-
-Future economic statecraft will operate in an environment shaped by decisions made today. Weaponizing interdependence through sanctions, export controls, and investment restrictions yields short-term advantages but risks fragmenting the integrated global economy that generated Western prosperity. We are sawing off the branch we're sitting on, confident that we'll land on our feet. Managing this trade-off—maintaining competitive advantages while preserving beneficial integration—represents the central challenge for policymakers navigating the next three decades of strategic competition. Get it right, and managed rivalry becomes the foundation for a stable, if tense, world order. Get it wrong, and the edifice of globalization collapses, taking much of our prosperity with it.
+Future economic statecraft will operate in an environment shaped by decisions made today. Weaponizing interdependence through sanctions, export controls, and investment restrictions yields short-term advantages but risks fragmenting the integrated global economy that generated Western prosperity. We are sawing off the branch we're sitting on, confident that we'll land on our feet. Managing this trade-off—maintaining competitive advantages while preserving beneficial integration—represents the central challenge for policymakers over the next three decades of strategic competition. Get it right, and managed rivalry becomes the foundation for a stable, if tense, world order. Get it wrong, and the edifice of globalization collapses, taking much of our prosperity with it.
 
 ---
 
@@ -62,18 +25,13 @@ The U.S. dollar's role as global reserve currency and dominant medium of exchang
 ### Dollar Privilege and Its Vulnerabilities
 
 <figure class="book-figure">
-  <img src="../../figures/fig_10_01_dollar_reserves.png" alt="Projected Dollar Share of Global Reserves (Scenarios 2024-2050)">
-  <figcaption>Figure 10.1: Projected Dollar Share of Global Reserves (Scenarios 2024-2050)</figcaption>
+  <img src="../../figures/fig_10_01_dollar_reserves.png" alt="Projected dollar share of global reserves under different scenarios from 2024-2050.">
+  <figcaption>Figure 10.1: Projected dollar share of global reserves under different scenarios from 2024-2050.</figcaption>
 </figure>
 
 **Current Dollar Dominance**
 
-As of 2024:
-- **Reserve currency**: Dollar comprises ~60% of global foreign exchange reserves (down from 71% in 2000)
-- **Trade invoicing**: Approximately 50% of cross-border trade invoiced in dollars (including ~80% of oil transactions)
-- **Foreign exchange**: Dollar represents ~90% of currency transactions globally
-- **Debt issuance**: Over 60% of international bonds and loans denominated in dollars
-- **SWIFT**: ~42% of SWIFT international payment messages involve dollars
+As of 2024, the dollar's dominance spans every dimension of international finance. It comprises approximately 58% of global foreign exchange reserves, down from 71% in 2000 (IMF COFER 2024), and roughly 50% of cross-border trade is invoiced in dollars, including approximately 80% of oil transactions. The dollar's role in foreign exchange markets is even more pronounced, representing roughly 90% of currency transactions globally. Over 60% of international bonds and loans are denominated in dollars, and approximately 42% of SWIFT international payment messages involve the currency.
 
 This dominance provides U.S. with:
 - **Seigniorage**: Profit from printing currency used globally
@@ -94,7 +52,7 @@ Every use of financial sanctions demonstrates dollar vulnerability, incentivizin
 **2. Alternative payment systems emerging**
 
 Technology enables competing infrastructure:
-- **CIPS** (China Cross-Border Interbank Payment System): Yuan-denominated alternative to SWIFT, processing $13+ trillion annually (2024), growing 50%+ yearly
+- **CIPS** (China Cross-Border Interbank Payment System): Yuan-denominated payment system processing approximately $24 trillion annually (RMB 175 trillion in 2024), with 40-43% year-on-year growth, though still relying on SWIFT messaging for over 80% of transactions (PBOC 2025)
 - **SPFS** (Russia System for Transfer of Financial Messages): Russian SWIFT alternative, limited international adoption but functional
 - **Cryptocurrency and stablecoins**: Decentralized alternatives avoiding state control, though volatile and limited in scale
 - **Central Bank Digital Currencies (CBDCs)**: Over 130 countries exploring or piloting, with China's e-CNY furthest advanced
@@ -159,6 +117,11 @@ Baseline expectation combines slow structural decline with crisis-driven jumps. 
 - Euro: 20-25% (vs. ~20% today)
 - Other (gold, SDRs, digital currencies): 15-20%
 
+{% hint style="info" %}
+**The 2050 Currency Projection**
+If current trends continue, the global reserve currency landscape in 2050 will look fundamentally different from today. The dollar won't collapse—but it will share the stage. A multipolar currency system with the dollar at 35-45% of reserves (down from 60% today) means the U.S. retains significant privilege but cannot unilaterally dictate global financial terms. Sanctions will require genuine multilateral coalitions to be effective. The era of American financial hegemony is ending; the question is whether it ends gradually and manageably, or suddenly and chaotically.
+{% endhint %}
+
 ### Implications for Financial Sanctions
 
 De-dollarization doesn't eliminate U.S. financial sanctions power but constrains it:
@@ -171,12 +134,6 @@ De-dollarization doesn't eliminate U.S. financial sanctions power but constrains
 
 **Sectoral limitations**: Financial sanctions may retain effectiveness in specific domains (cutting off high-tech firms needing Western capital markets) while losing power over commodity trade (payable in yuan/rupees).
 
-{% hint style="warning" %}
-**Strategic Paradox: The Sanctions Dilemma**
-
-Every use of financial sanctions demonstrates American power but simultaneously incentivizes adversaries to build alternatives. This creates a fundamental trade-off: aggressive sanctions yield short-term leverage while accelerating long-term erosion of dollar privilege. Policymakers must weigh immediate coercion benefits against cumulative damage to the financial architecture enabling that coercion.
-{% endhint %}
-
 **Strategic trade-off**: Aggressive sanctions hasten de-dollarization, gradually eroding future sanctions power. Restraint preserves privilege longer but foregoes near-term coercion. Managing this trade-off requires:
 - **Targeting**: Focus sanctions on highest-priority objectives, avoid overuse
 - **Multilateralization**: Coordinate with allies so sanctions don't rely solely on dollar
@@ -187,7 +144,7 @@ Every use of financial sanctions demonstrates American power but simultaneously 
 
 ## Climate, Resources, and the Security Nexus
 
-Climate change fundamentally reshapes the conditions for economic coercion through multiple mechanisms: altering resource availability and geographic distribution, creating new dependencies (critical minerals for clean energy), generating humanitarian crises exploitable for coercive purposes, and changing strategic calculations about long-term competition. Economic statecraft in 2035-2050 will increasingly intersect with climate adaptation, resource scarcity, and energy transitions.
+Climate change is reshaping the conditions for economic coercion. It alters resource availability and geographic distribution, creates new dependencies (critical minerals for clean energy), generates humanitarian crises exploitable for coercive purposes, and changes strategic calculations about long-term competition. Economic statecraft in 2035-2050 will increasingly intersect with climate adaptation, resource scarcity, and energy transitions.
 
 ### Critical Minerals and Clean Energy Dependencies
 
@@ -211,18 +168,17 @@ Decarbonization requires massive increases in specific mineral production (IEA 2
 
 **Nickel, copper, graphite, manganese**: All require 2-5x production increases
 
-{% hint style="warning" %}
-**Critical Vulnerability: Green Transition Dependencies**
-
-The clean energy transition does not eliminate strategic dependencies—it reshapes them. Critical minerals for batteries, solar panels, and wind turbines are more geographically concentrated than oil, with China controlling 60-85% of processing capacity. This creates potential "green chokepoints" that could be weaponized in future competition.
-{% endhint %}
-
 **New Dependencies Replace Old**
 
 Transitioning from fossil fuels to renewables doesn't eliminate strategic dependencies—it relocates them. We trade the oil sheikhs for the lithium barons:
 - **Geographic concentration**: Critical mineral processing even more concentrated than oil production (OPEC produced ~40% of oil; China processes 60-85% of key minerals)
 - **Refining chokepoints**: Mining dispersed globally but processing concentrated in China due to economies of scale, environmental externalization, integrated supply chains
 - **Technology dependencies**: Battery manufacturing, solar panel production, wind turbine assembly concentrated in China (60-80% global market share)
+
+{% hint style="warning" %}
+**Trading Oil Sheikhs for Lithium Barons**
+The green energy transition doesn't end resource-based strategic vulnerabilities—it transforms them. China's dominance of critical mineral processing (60-85% of lithium, cobalt, rare earths) exceeds OPEC's historical control of oil (40%). The 1970s oil shocks demonstrated how resource concentration enables coercion. The 2010 rare earth embargo (Chapter 9) previewed what's possible. Unless the West builds alternative processing capacity—a costly, environmentally challenging, decade-long project—the clean energy future runs through Beijing.
+{% endhint %}
 
 **Strategic Implications**
 
@@ -236,16 +192,7 @@ Transitioning from fossil fuels to renewables doesn't eliminate strategic depend
 
 **Mitigation Strategies**
 
-- **Diversification**: Western investments in alternative mining (U.S., Canada, Australia) and processing capacity
-- **Recycling**: Battery recycling could provide 25-30% of lithium/cobalt needs by 2040, reducing virgin material requirements
-- **Technology substitution**: Sodium-ion batteries, rare-earth-free motors, alternative chemistries
-- **Strategic reserves**: Stockpiling critical minerals as strategic resources
-- **Friend-shoring**: Developing supply chains through allied countries (Australia, Canada, Chile, Peru)
-
-<figure class="book-figure">
-  <img src="../figures/fig_10_05_new_dependencies.png" alt="New Strategic Dependencies: Critical Minerals and Clean Energy Supply Chains">
-  <figcaption>Figure 10.5: New Strategic Dependencies: Critical Minerals and Clean Energy Supply Chains</figcaption>
-</figure>
+Western nations are pursuing diversification through investments in alternative mining in the United States, Canada, and Australia, along with expanded processing capacity. Recycling offers a complementary pathway, with battery recycling projected to provide 25-30% of lithium and cobalt needs by 2040, reducing virgin material requirements. Technology substitution—including sodium-ion batteries, rare-earth-free motors, and alternative chemistries—could further diminish dependence on concentrated supply sources. Governments are also stockpiling critical minerals as strategic reserves, and friend-shoring efforts aim to develop supply chains through allied countries such as Australia, Canada, Chile, and Peru.
 
 ### Water Scarcity and Agricultural Leverage
 
@@ -265,6 +212,11 @@ By 2040-2050:
 - **Mekong**: China's upstream dams control flow to Vietnam, Thailand, Laos, Cambodia. Chinese dam operations (water retention, sudden releases) cause downstream flooding, droughts. Potential coercive tool in regional disputes.
 
 - **Tigris-Euphrates**: Turkey controls flows to Syria and Iraq through dam construction. Used as leverage in past conflicts.
+
+{% hint style="danger" %}
+**The Ultimate Chokepoint: Upstream Dam Leverage**
+Water is the one resource with no substitute. A country controlling upstream water flows holds existential leverage over downstream neighbors. Ethiopia's Grand Renaissance Dam could reduce Egypt's water supply by up to 25% during filling—threatening food production for 100 million people. China's Mekong dams already cause droughts and floods in Vietnam, Thailand, Laos, and Cambodia. Unlike oil (which has alternatives) or semiconductors (which can eventually be produced elsewhere), water leverage cannot be circumvented. When water becomes weapon, the consequences can be measured in famines.
+{% endhint %}
 
 **Agricultural Dependencies**
 
@@ -320,8 +272,8 @@ Economic coercion tools must adapt to control these technologies' strategic diff
 ### Artificial Intelligence: The Defining Technology Competition
 
 <figure class="book-figure">
-  <img src="../../figures/fig_10_03_ai_indicators.png" alt="AI Development Indicators: U.S. vs China">
-  <figcaption>Figure 10.3: AI Development Indicators: U.S. vs China</figcaption>
+  <img src="../../figures/fig_10_03_ai_indicators.png" alt="AI development indicators comparing U.S. and China across research, talent, compute, and applications.">
+  <figcaption>Figure 10.3: AI development indicators comparing U.S. and China across research, talent, compute, and applications.</figcaption>
 </figure>
 
 **AI Strategic Significance**
@@ -349,13 +301,18 @@ Success requires combining:
 - U.S. advantages: Leading AI chip designs (Nvidia H100, AMD), semiconductor equipment export controls restrict Chinese access
 - China vulnerabilities: Dependent on imports for advanced chips, domestic alternatives (Huawei Ascend) lag performance, SMIC fabrication 2-3 generations behind TSMC/Samsung
 
+{% hint style="info" %}
+**The Compute Chokepoint**
+AI development has a bottleneck that export controls can target: computing power. Training frontier AI models like GPT-4 requires thousands of cutting-edge GPUs that cost tens of millions of dollars. Nvidia's H100 chips—the gold standard for AI training—are designed in the U.S. and manufactured in Taiwan with American equipment. By restricting these chips and the equipment to make them, the U.S. can directly constrain adversaries' AI capabilities. This compute chokepoint is currently the most effective lever for slowing Chinese AI development.
+{% endhint %}
+
 **4. Algorithms and models**: Neural network architectures, training techniques, foundation models
 - Diffuse globally: Research published openly, Chinese papers match or exceed U.S. volume
 - U.S. edge in frontier models (GPT-4, Claude, Gemini) but narrowing
 
 **AI Export Controls and Coercion**
 
-U.S. semiconductor export controls evolved rapidly from 2022 to 2025, revealing the inherent tensions in using technology denial as a coercive instrument:
+U.S. semiconductor export controls evolved rapidly from 2022 to 2025, revealing the inherent tensions in using technology denial as a coercive instrument (see Chapter 4 for detailed analysis of these controls, including mechanisms, allied coordination, and Chinese countermeasures):
 - **October 2022-2024 (Biden era)**: Blanket restrictions on advanced AI chips (Nvidia A100/H100, AMD MI250), semiconductor manufacturing equipment, and U.S. persons supporting Chinese chip development. Progressive tightening closed loopholes (October 2023 updates banned "China-compliant" variants like the A800/H800).
 - **January 2025**: Outgoing Biden administration issued a global "AI Diffusion Rule" creating three-tier country licensing framework — an attempt to prevent third-country circumvention.
 - **2025 (Trump era)**: Rescinded the AI Diffusion Rule and shifted to case-by-case licensing for advanced chips (Nvidia H200, AMD MI325X) to approved Chinese customers, while simultaneously adding 140 PRC entities to the Entity List.
@@ -417,6 +374,11 @@ Quantum computers exploiting quantum mechanics (superposition, entanglement) cou
 **1. Long timelines reduce urgency**: Unlike AI (deployed now), quantum's transformative applications remain years/decades away, limiting immediate competition intensity.
 
 **2. "Quantum surprise" risk**: Breakthrough could suddenly make adversary communications readable, financial systems vulnerable. Post-quantum cryptography transition required before quantum computers achieve RSA-breaking capability (NIST standardizing post-quantum algorithms).
+
+{% hint style="warning" %}
+**The Cryptography Threat**
+When (not if) cryptographically relevant quantum computers arrive, they will break the encryption protecting virtually all digital communications, financial transactions, and classified information. Adversaries are already harvesting encrypted communications today with the intention of decrypting them once quantum computers mature—a strategy called "harvest now, decrypt later." The transition to post-quantum cryptography must happen before quantum computers achieve this capability, but the timeline is uncertain (estimates range from 2030s to 2050s). The country that achieves quantum supremacy first gains a potentially decisive intelligence advantage.
+{% endhint %}
 
 **3. Quantum communication and sensing**: Near-term applications (quantum key distribution for secure communications, quantum sensors) deployable sooner than general quantum computing.
 
@@ -492,7 +454,7 @@ Space systems provide:
 
 ## Alliance Evolution and Institutional Competition
 
-Future economic coercion effectiveness depends critically on alliance structures and institutional alignments. Western-led order (G7, NATO, IMF/World Bank, WTO) faces challenges from alternative coalitions (BRICS+, SCO, regional frameworks) and neutral Global South countries avoiding alignment. Economic statecraft's future operates within this evolving geopolitical landscape.
+Future economic coercion effectiveness depends on alliance structures and institutional alignments. Western-led order (G7, NATO, IMF/World Bank, WTO) faces challenges from alternative coalitions (BRICS+, SCO, regional frameworks) and neutral Global South countries avoiding alignment. Economic statecraft's future depends on how these alignments evolve.
 
 ### Western Coordination: Strengths and Strains
 
@@ -514,6 +476,11 @@ U.S., Canada, UK, France, Germany, Italy, Japan coordinate economic policies thr
 **1. Cost distribution disputes**: Burden-sharing tensions (defense spending, sanctions costs) create friction. U.S. frustration with European free-riding; Europeans resist U.S. extraterritoriality.
 
 **2. China exposure asymmetries**: European firms more dependent on Chinese market than U.S. (Germany exports $100B+ to China); Asian allies (South Korea, Japan) face acute trade-offs between U.S. alliance and Chinese economic ties.
+
+{% hint style="info" %}
+**Divergent Threat Perceptions**
+Alliance coordination on China faces a fundamental asymmetry: the U.S. sees China as an existential threat to its global position, while European allies see China primarily as an economic partner with some security concerns. Germany exports over $100 billion annually to China; for German industry, "decoupling" means lost profits and jobs. South Korea and Japan face even sharper trade-offs—geographically closer to China, more economically intertwined, yet depending on U.S. security guarantees. Maintaining alliance cohesion requires acknowledging these different perspectives rather than demanding uniform alignment with U.S. priorities.
+{% endhint %}
 
 **3. Policy divergences**:
 - Climate policy (U.S. lagged Europe until IRA; divergent carbon pricing approaches)
@@ -608,17 +575,6 @@ Projecting 25 years into an uncertain future requires scenario analysis: develop
 
 Combining these dimensions generates four scenarios:
 
-<figure class="book-figure">
-  <img src="../figures/fig_10_04_decoupling_scenarios.png" alt="Decoupling Scenarios: Future Economic Integration Pathways">
-  <figcaption>Figure 10.4: Decoupling Scenarios: Future Economic Integration Pathways</figcaption>
-</figure>
-
-{% hint style="info" %}
-**Key Concept: Managed Competition**
-
-**Managed competition** describes a strategic relationship where rivals maintain intense competition across multiple domains while establishing rules, norms, and communication channels to prevent escalation to conflict. Key features include: (1) sectoral differentiation—competing in some domains while cooperating in others; (2) crisis management mechanisms—diplomatic channels to de-escalate tensions; (3) accepted boundaries—implicit or explicit limits on competitive actions; and (4) institutional frameworks—international organizations facilitating rule-based rivalry. Managed competition contrasts with both Cold War-style comprehensive confrontation and the cooperative interdependence of the post-1991 era.
-{% endhint %}
-
 ### Scenario A: Managed Competition with Selective Integration (Baseline - 40% probability)
 
 **Description**
@@ -651,17 +607,16 @@ U.S. and China maintain intense but managed strategic competition, combining sec
 
 ### Scenario B: Economic Cold War with Deep Fragmentation (25% probability)
 
-{% hint style="warning" %}
-**High-Risk Scenario Alert**
-
-This scenario represents the most dangerous trajectory, with potential for catastrophic economic disruption and elevated military conflict risk. Key warning signs include: Taiwan crisis escalation, comprehensive technology embargoes, coordinated de-dollarization by BRICS+ nations, or financial system weaponization triggering sudden capital flight.
-{% endhint %}
-
 **Description**
 
 U.S.-China confrontation escalates into comprehensive economic warfare following major crisis (Taiwan conflict, South China Sea clash, tech cold war spiral). Rival blocs emerge with minimal cross-bloc trade, parallel institutions, incompatible technology standards. Risk of military conflict elevated.
 
 **Trigger events**: Taiwan crisis (military confrontation or reunification), comprehensive U.S. tech embargo triggers Chinese retaliation, financial crisis weaponizes dollar leading to sudden de-dollarization
+
+{% hint style="warning" %}
+**Cold War Triggers**
+An economic cold war wouldn't happen gradually—it would be triggered by a specific crisis that makes continued integration politically impossible. The most likely trigger: a Taiwan confrontation. If China blockades or invades Taiwan, the U.S. would face pressure for comprehensive sanctions; China would retaliate with export restrictions and debt weaponization; allies would be forced to choose sides. Other triggers include: a South China Sea military clash, a catastrophic cyberattack attributed to state actors, or a financial crisis that's weaponized by either side. The path to Scenario B runs through one of these crisis points.
+{% endhint %}
 
 **Economic patterns**:
 - U.S.-China trade collapses to <$100B annually (mostly agriculture, raw materials)
@@ -717,18 +672,12 @@ Series of crises (pandemic, financial shock, regional conflicts) fragment global
 **Policy implications**:
 - Prioritize regional partnerships over global frameworks
 - Accept reduced global influence, focus on vital interests
-- Diversify dependencies (technology, resources, finance) to navigate fragmented world
+- Diversify dependencies (technology, resources, finance) to operate in a fragmented world
 - Maintain flexibility to adapt as regional dynamics shift
 
 **Probability**: 20% (plausible but requires specific crisis sequence)
 
 ### Scenario D: Renewed Integration and Managed Competition (15% probability)
-
-{% hint style="warning" %}
-**Optimistic but Low-Probability Scenario**
-
-This scenario requires either catastrophic shared threats forcing cooperation (climate disaster, deadly pandemic, financial collapse) or unlikely political realignment in major powers. While offering the most beneficial outcomes, it should not be treated as the planning baseline.
-{% endhint %}
 
 **Description**
 
@@ -762,12 +711,6 @@ Major shared threats (climate crisis exceeding worst projections, pandemic deadl
 
 ### Cross-Scenario Lessons
 
-{% hint style="warning" %}
-**Strategic Planning Imperative**
-
-The uncertainty across these scenarios reinforces the case for robust strategies that perform reasonably well regardless of which future materializes. Rather than optimizing for one scenario, policymakers should prioritize adaptability, early warning monitoring, and maintaining strategic options.
-{% endhint %}
-
 **Robust strategies effective across scenarios**:
 
 **1. Technology leadership**: Whether competition managed or intense, technology advantages provide leverage
@@ -788,17 +731,13 @@ The uncertainty across these scenarios reinforces the case for robust strategies
 
 **Monitoring indicators** (early warning signs):
 
-- **Technology ecosystems**: Standardization battles outcomes (5G, 6G, AI governance)
-- **Financial flows**: Reserve currency composition, payment system adoption (CIPS growth rate)
-- **Trade volumes**: Bilateral U.S.-China trade trajectory, friend-shoring progress
-- **Alliance cohesion**: G7 coordination quality, BRICS+ institutionalization depth
-- **Crisis management**: Taiwan, South China Sea, cyber incidents—whether managed or escalating
+Policymakers should track several key indicators as early warning signs. In technology ecosystems, the outcomes of standardization battles over 5G, 6G, and AI governance will signal the direction of bifurcation or integration. Financial flows—particularly reserve currency composition and payment system adoption, including the growth rate of China's CIPS—will reveal whether dollar alternatives are gaining meaningful traction. Bilateral U.S.-China trade volumes and friend-shoring progress will indicate the pace of economic reorientation. Alliance cohesion, measured through the quality of G7 coordination and the institutionalization depth of BRICS+, will shape the structural landscape. Finally, crisis management around flashpoints such as Taiwan, the South China Sea, and cyber incidents will reveal whether great-power tensions are being managed or escalating toward confrontation.
 
 ---
 
 ## Chinese Perspective Box: China's Vision for Future Order
 
-*This perspective box explores how Chinese strategic thinkers envision future global order, technology development, and China's role in shaping international economic architecture.*
+*Chinese strategic thinkers envision a future global order shaped by multipolarity, technology self-reliance, and China's role in reshaping international economic architecture.*
 
 **Multipolarity (多极化, duōjíhuà) as Inevitable Trajectory**
 
@@ -872,7 +811,7 @@ Western analysts should recognize diversity of Chinese strategic thinking:
 
 **Implications for Western Strategy**
 
-Understanding Chinese perspectives doesn't require accepting their validity but illuminates strategic choices:
+Understanding Chinese perspectives doesn't require accepting their validity but clarifies strategic choices:
 
 **1. Time horizons**: Chinese strategic thinking operates over decades and centuries. Expecting short-term Chinese capitulation to economic pressure ignores historical patience.
 
@@ -992,19 +931,13 @@ Strategic competition spans decades, requiring institutional capacity and politi
 
 ### Final Reflections
 
-Economic coercion is neither panacea nor futile gesture. Historical cases reveal that sanctions, export controls, investment restrictions, and industrial policies achieve strategic objectives under specific conditions: comprehensive multilateral coordination, target vulnerabilities, combined pressure across domains, realistic objectives, and sustained commitment.
-
-When these conditions exist, economic statecraft degrades adversary capabilities, imposes costs, and shapes behavior. When conditions are absent—unilateral actions, autarkic targets, standalone measures, maximalist goals, short time horizons—coercion disappoints initial expectations.
+Economic coercion has a mixed historical record. The cases examined throughout this book reveal that sanctions, export controls, investment restrictions, and industrial policies achieve strategic objectives under specific conditions: comprehensive multilateral coordination, target vulnerabilities, combined pressure across domains, realistic objectives, and sustained commitment. When these conditions exist, economic statecraft degrades adversary capabilities, imposes costs, and shapes behavior. When conditions are absent—unilateral actions, autarkic targets, standalone measures, maximalist goals, short time horizons—coercion disappoints initial expectations.
 
 Contemporary U.S.-China competition occurs in context of deep economic interdependence historically unprecedented among great power rivals. Weaponizing this interdependence through financial sanctions, technology restrictions, and supply chain restructuring yields leverage but risks destroying the integrated global economy that enabled Western prosperity. Managing this paradox—competing strategically while preserving beneficial integration—requires sophisticated calibration beyond simple escalation or accommodation.
 
-Future economic statecraft will operate in increasingly complex environment: multipolar power distribution, fragmenting technology ecosystems, climate disruption reshaping resource geography, emergence of AI and quantum computing as strategic domains.
+Future economic statecraft will operate in an environment defined by multipolar power distribution, fragmenting technology ecosystems, climate disruption reshaping resource geography, and the emergence of AI and quantum computing as strategic domains. Policymakers confronting these challenges need clear strategic objectives, realistic assessments of tools' effectiveness and limitations, sustained coordination with allies, and recognition that economic competition is marathon, not sprint.
 
-Policymakers confronting these challenges need clear strategic objectives, realistic assessments of tools' effectiveness and limitations, sustained coordination with allies, and recognition that economic competition is marathon, not sprint.
-
-The scenarios developed in this chapter—Managed Competition, Economic Cold War, Crisis-Driven Fragmentation, Renewed Integration—represent alternative futures depending on strategic choices and contingent events. Robust strategies effective across scenarios emphasize technology leadership, alliance resilience, economic diversification, and strategic patience. Scenario-contingent strategies require monitoring early warning indicators and adapting as trajectories clarify.
-
-Economic coercion will remain central to 21st-century statecraft. Understanding its possibilities and limitations, learning from historical precedent, and adapting to emerging challenges is the essential task for leaders, analysts, and citizens grappling with the transformation of global order. The choices made today will shape not just contemporary policy outcomes but the structure of international politics for decades to come.
+Economic coercion will remain central to 21st-century statecraft. Understanding its possibilities and limitations—and adapting as conditions change—will define economic statecraft for the next generation.
 
 ---
 
@@ -1063,285 +996,39 @@ Economic coercion will remain central to 21st-century statecraft. Understanding 
 - **Center for a New American Security (CNAS)**: Technology and national security
 - **Royal United Services Institute (RUSI)**: European perspectives on economic security
 
+## Key Insights
+
+- **Every weapon of economic statecraft, once used, teaches adversaries how to defend against it:** Financial sanctions drive de-dollarization, export controls spur indigenous innovation, and investment screening fragments the global markets that enriched Western economies. The central paradox is that the tools of strategic competition undermine the very integrated system that made the West powerful enough to wield them.
+
+- **Current trends point toward partial fragmentation rather than complete decoupling or renewed integration:** Full decoupling is economically prohibitive (U.S.-China bilateral trade remains approximately $575-580 billion annually despite tensions), but selective decoupling accelerates in semiconductors, AI, biotechnology, and critical minerals. The result is a "partially fragmented globalization" where strategic domains decouple while commodity trade and consumer goods remain integrated.
+
+- **De-dollarization is gradual but structurally accelerating:** The dollar's share of global reserves has declined from 71% in 2000 to 58% in 2024, and alternative payment systems (CIPS, bilateral currency agreements, CBDCs) continue growing. While no single alternative approaches dollar dominance, the cumulative effect of many small shifts could fundamentally reshape financial architecture by 2035-2050, reducing U.S. sanctions leverage.
+
+- **Climate change will create new vectors of economic coercion that compound existing vulnerabilities:** Water scarcity enabling upstream dam leverage (Ethiopia over Egypt, China over Mekong nations), agricultural disruption concentrating food exports in fewer countries, critical mineral competition for the energy transition, and climate-driven migration all represent emerging coercion domains that current policy frameworks are unprepared to address.
+
+- **Emerging technologies resist traditional export controls designed for physical goods:** AI development distributes across talent, algorithms, data, and computing infrastructure rather than concentrating in specific equipment. Quantum computing timelines remain uncertain. Biotechnology's dual-use character is even more pronounced than semiconductors. Each technology requires tailored coercion strategies, but rapid evolution and software-centricity overwhelm control frameworks designed for hardware.
+
+- **Alliance structures will prove decisive in determining economic statecraft effectiveness:** The post-1945 order presumed Western economic dominance enabling rule-setting through IMF, WTO, and dollar-denominated systems. China's rise, BRICS expansion, and Global South agency challenge this structure. The future likely features competing economic blocs with varying degrees of integration -- multipolar economic order replacing unipolar Western dominance.
+
+- **Strategic patience is essential because economic competition spans decades, not election cycles:** Technology denial, industrial policy, and alliance building produce results over 10-30 year horizons. Policymakers operating under short electoral timelines face structural disadvantages against competitors planning in decades, suggesting the need for bipartisan institutional frameworks that sustain strategy across administrations.
+
+## Discussion Questions
+
+1. The chapter presents four scenarios for 2035-2050: Managed Competition, Economic Cold War, Crisis-Driven Fragmentation, and Renewed Integration. Which scenario do you consider most likely, and what policy decisions in the next five years would most influence which scenario materializes? Are there hybrid outcomes the four-scenario framework fails to capture?
+
+2. De-dollarization threatens to erode the foundation of U.S. financial sanctions power. Should the United States accept some reduction in sanctions effectiveness to preserve dollar dominance by using sanctions more sparingly, or should it maximize near-term leverage even at the cost of accelerating alternatives? Is there a middle path?
+
+3. Climate change will reshape economic coercion through water scarcity, agricultural disruption, and critical mineral competition. How should international institutions prepare for climate-driven coercion? Are existing frameworks (WTO, UN, G7) adequate, or do we need new institutions specifically designed for climate-related economic security?
+
+4. The chapter argues that emerging technologies like AI and biotechnology resist traditional export controls. Propose an alternative regulatory framework for controlling the diffusion of strategically significant technologies that exist primarily as software, algorithms, and data rather than physical goods. What would enforcement look like?
+
+5. BRICS expansion, the AIIB, and bilateral currency agreements represent institutional alternatives to the Western-led economic order. How seriously should U.S. policymakers take these institutions as competitors to the IMF, World Bank, and WTO? What reforms to existing institutions might slow the shift toward parallel systems?
+
+6. The book's overarching argument is that how the United States and China manage economic interdependence while competing strategically may determine whether this century sees managed rivalry or catastrophic conflict. Based on the evidence across all ten chapters, what single policy recommendation would you prioritize for reducing the risk of economic competition spiraling into military confrontation?
+
 ---
 
-
----
-
-## Tabletop Exercise: Multi-Domain Crisis in 2030
-
-**Chapter:** 10 - Future Scenarios and Policy Implications
-
-**Duration:** 60-90 minutes
-
-**Learning Objectives:**
-- Anticipate emerging forms of economic coercion using future technologies
-- Manage simultaneous crises across multiple domains (cyber, space, economic, climate)
-- Evaluate novel policy tools for 21st century geoeconomic competition
-- Assess systemic risks and cascade effects in interconnected global systems
-
-### Scenario Overview
-
-**Date: June 2030**
-
-The United States faces an unprecedented multi-domain crisis as tensions with China escalate across economic, technological, and environmental spheres. Unlike historical crises centered on single events or domains, this challenge involves simultaneous pressure across interconnected systems, creating cascading risks and novel policy dilemmas.
-
-The crisis unfolds across five interrelated dimensions:
-1. **Climate:** Extreme weather disrupts critical supply chains
-2. **Digital:** Cyber attacks target economic infrastructure
-3. **Space:** Anti-satellite weapons threaten GPS and communications
-4. **Financial:** Digital currency warfare and payment system fragmentation
-5. **Biotech:** Synthetic biology enabling new forms of coercion
-
-You are convened as the Strategic Competition Policy Committee to manage escalating tensions and develop integrated response strategies for 21st century economic statecraft.
-
-### Participant Roles
-
-**Deputy National Security Advisor**
-- Responsibilities: Coordinate across domains, manage escalation
-- Interests: Preventing conflict, protecting U.S. interests
-- Constraints: Novel threats exceed existing policy frameworks
-
-**Deputy Secretary of Treasury (Digital Currency Lead)**
-- Responsibilities: Financial system stability, digital currency policy
-- Interests: Preserving dollar dominance, preventing financial system fragmentation
-- Constraints: Limited control over decentralized technologies
-
-**Deputy Secretary of Commerce (Technology Security Lead)**
-- Responsibilities: Emerging technology controls, space commerce
-- Interests: U.S. technological leadership
-- Constraints: Rapid technology change outpaces regulatory frameworks
-
-**CISA Director (Infrastructure Lead)**
-- Responsibilities: Critical infrastructure protection across cyber-physical systems
-- Interests: Resilience of interconnected systems
-- Constraints: Public-private sector coordination challenges
-
-**Space Force Representative**
-- Responsibilities: Space domain awareness and security
-- Interests: Protecting critical space infrastructure
-- Constraints: Limited international norms for space conflict
-
-**Climate Envoy**
-- Responsibilities: Climate policy, green technology supply chains
-- Interests: Climate transition while protecting security
-- Constraints: Climate cooperation needs compete with strategic rivalry
-
-### Timeline and Injects
-
-### Phase 1: Climate-Supply Chain Nexus (Minutes 0-20)
-
-**Inject 1: Green Technology Chokepoint**
-
-Catastrophic flooding in southern China (climate change-amplified typhoon) damages critical infrastructure for:
-- 60% of global solar panel production (primarily Xinjiang region)
-- 70% of rare earth processing facilities
-- Major EV battery component manufacturing
-
-Global green energy transition suddenly faces 12-18 month delays. Prices for solar panels, batteries, and critical minerals spike 300-400%.
-
-**Chinese Response:**
-China announces "Climate Emergency Resource Allocation System":
-- Prioritizes clean energy exports to "climate cooperation partners"
-- Countries supporting U.S. climate technology export controls to China face reduced access
-- Offers climate finance and technology access in exchange for diplomatic concessions on Taiwan, South China Sea
-
-**Complicated Dynamics:**
-- U.S. needs Chinese green technology for climate targets
-- China uses climate emergency to gain geopolitical leverage
-- Global South countries caught between U.S. and Chinese climate offers
-
-**Key Questions:**
-1. Should climate cooperation be conditioned on Chinese political behavior, or are climate stakes too high?
-2. How do you build alternative green technology supply chains when China dominates and climate timeline is urgent?
-3. Can the U.S. use climate finance and technology sharing as counter-coercion tool?
-
-### Phase 2: Digital Currency Warfare (Minutes 20-40)
-
-**Inject 2: Payment System Fragmentation**
-
-China accelerates digital yuan internationalization following coordination with Russia, Iran, and Saudi Arabia:
-- **BRICS+ Digital Currency Network:** New payment system for 40+ countries (40% global GDP)
-- **Commodity-backed settlement:** Oil, gas, minerals priced in digital currency basket
-- **Alternative to SWIFT:** Real-time cross-border payments bypassing dollar system
-
-Simultaneously:
-- Several countries announce plans to hold digital yuan reserves
-- China offers preferential trade financing for digital yuan users
-- Crypto-based payment systems gain traction for sanctions evasion
-
-**U.S. Financial System Impact:**
-- Dollar's share of global reserves declines from 58% to 50% in six months
-- Treasury market volatility as foreign holdings decline
-- Reduced effectiveness of financial sanctions as alternatives proliferate
-
-**Fed and Treasury Assessment:**
-- U.S. digital dollar 2+ years from implementation
-- Banning competing digital currencies likely drives them underground
-- Financial sanctions losing potency as alternative systems mature
-
-**Key Questions:**
-1. How do you respond to emerging payment system competition: accelerate U.S. digital dollar, restrict alternatives, or accept multipolar financial system?
-2. Can financial sanctions remain effective when targets have viable alternatives?
-3. Should U.S. prioritize preserving dollar dominance or gracefully manage transition to multipolar system?
-
-### Phase 3: Cyber-Physical Systems Attack (Minutes 40-60)
-
-**Inject 3: Infrastructure Cascade**
-
-A sophisticated cyber attack (attribution unclear but suspected Chinese origin) targets U.S. critical infrastructure:
-- **Power Grid:** Malware disrupts renewable energy systems (solar, wind) causing grid instability
-- **Logistics:** Port automation systems compromised; cargo routing chaos
-- **Financial:** Clearing systems for equities and derivatives experience delays
-- **Telecommunications:** 5G networks experience intermittent outages
-
-Attack exploits vulnerabilities in:
-- Internet of Things (IoT) devices manufactured in China
-- Software supply chains with compromised open-source components
-- AI-powered infrastructure management systems
-
-**Cascading Effects:**
-- Economic losses: $50 billion+ in first week
-- Public panic: Bank runs, hoarding behavior
-- Political pressure: Demands for retaliation
-
-**Attribution Challenge:**
-- Attack routed through multiple countries
-- Malware includes code fragments from multiple sources
-- China denies involvement; suggests "criminal actors"
-- No definitive proof of state sponsorship
-
-**Key Questions:**
-1. How do you respond to catastrophic cyber attack without certain attribution?
-2. What constitutes proportional cyber retaliation, and what escalation risks does it create?
-3. How do you secure cyber-physical infrastructure when supply chains are globally interdependent?
-
-### Phase 4: Space and Biotech Dimensions (Minutes 60-80)
-
-**Inject 4: Anti-Satellite Demonstration**
-
-China conducts "debris removal test" using anti-satellite capability, destroying defunct satellite near U.S. GPS constellation. While technically targeting space junk, the demonstration:
-- Proves Chinese capability to disable U.S. space infrastructure
-- Creates debris field threatening commercial satellites
-- Sends message: "Your precision-guided weapons, financial systems, and communications depend on space assets we can threaten"
-
-Simultaneously, Chinese space station begins commercial operations offering:
-- Manufacturing in zero-gravity (advanced materials)
-- Earth observation services competing with U.S. commercial satellites
-- Space-based solar power research (potential energy revolution)
-
-**Inject 5: Synthetic Biology Leverage**
-
-Intelligence reveals Chinese biotech advances:
-- CRISPR-based agricultural technology creating drought/pest-resistant crops
-- Synthetic biology for rare molecule production (pharmaceutical precursors, industrial chemicals)
-- Genetic database containing genomic information on billions of individuals
-
-China offers:
-- Agricultural technology to climate-vulnerable countries (creating dependencies)
-- Pharmaceutical precursor access based on political alignment
-- Genomic research collaboration (with data sharing requirements)
-
-**Strategic Implications:**
-- Biotech creates novel forms of leverage (food security, medicine access, genetic information)
-- Space denial capabilities threaten entire infrastructure domains
-- U.S. lacks comparable biotech leverage or space resilience
-
-**Decision Required:** Integrated strategy addressing:
-1. **Immediate crisis management:** Cyber response, infrastructure resilience, market stabilization
-2. **Domain-specific strategies:** Climate/green tech, digital currency, cyber security, space, biotech
-3. **Cross-cutting approaches:** Supply chain resilience, technology controls, allied coordination
-4. **Escalation management:** Preventing crisis spiral across multiple domains simultaneously
-5. **Long-term adaptation:** How to compete in multi-domain strategic environment
-
-**Key Questions:**
-1. How do you prioritize when crises span multiple domains simultaneously?
-2. What new policy tools are needed for emerging technologies (digital currency, synthetic biology, space commerce)?
-3. How do you build resilience against novel coercion forms you haven't encountered before?
-4. Can traditional frameworks (sanctions, export controls) adapt to decentralized, rapidly evolving technologies?
-
-### Phase 5: Debrief and Future Policy (Minutes 80-90)
-
-**Discussion Questions:**
-
-1. **Multi-Domain Complexity:** How did simultaneous crises across domains complicate decision-making? What coordination mechanisms are needed?
-
-2. **Novel Coercion Forms:** Which emerging technologies (digital currency, synthetic biology, space, AI, quantum) create new coercion opportunities? How do you defend against threats you've never faced?
-
-3. **Interconnection Vulnerabilities:** How do cascading effects across interconnected systems (cyber-physical, climate-economic, space-terrestrial) create systemic risks?
-
-4. **Policy Tool Adequacy:** Are existing tools (sanctions, export controls, investment screening) sufficient for future competition? What new authorities or capabilities are needed?
-
-5. **Resilience vs. Leverage:** Should strategy emphasize building resilience (reducing dependencies) or developing counter-leverage (new chokepoints)?
-
-6. **Cooperation vs. Competition:** In domains requiring cooperation (climate, pandemics, space debris), how do you cooperate with strategic competitors?
-
-7. **Scenario Planning:** What other future scenarios should policymakers prepare for:
-   - Quantum computing breaking encryption
-   - Artificial general intelligence (AGI) breakthroughs
-   - Climate tipping points forcing cooperation
-   - Global economic decoupling into blocs
-   - Proliferation of autonomous weapons
-
-8. **Adaptation Strategy:** How should U.S. policy evolve to address 2030s challenges:
-   - Institutional reforms (new agencies, authorities)?
-   - Allied coordination mechanisms?
-   - Public-private partnerships?
-   - Technology investment and development?
-   - Education and workforce development?
-
-### Background Materials
-
-**Emerging Technologies:**
-- Digital currencies (CBDCs, cryptocurrencies, stablecoins)
-- Synthetic biology and CRISPR gene editing
-- Quantum computing and communications
-- Artificial intelligence and machine learning
-- Space commerce and cislunar economy
-- Climate geoengineering technologies
-
-**Future Trends:**
-- Climate change accelerating (4-6°C scenarios by 2100)
-- Technological change exponential (AI, biotech, quantum)
-- Geopolitical fragmentation (bloc formation, partial decoupling)
-- Demographic shifts (aging in developed world, youth bulges in developing world)
-- Resource scarcity (water, rare earths, agricultural land)
-
-**Policy Frameworks:**
-- Emerging technology governance (AI safety, biotech regulation, space traffic management)
-- Climate finance and technology transfer
-- Digital economy governance (data flows, cross-border e-commerce)
-- Critical infrastructure protection for cyber-physical systems
-
-### Learning Outcomes
-
-1. **Anticipate future coercion forms** using emerging technologies
-2. **Manage complexity** of simultaneous multi-domain crises
-3. **Identify policy gaps** where existing tools are inadequate
-4. **Design adaptive strategies** for rapidly changing technological landscape
-5. **Balance cooperation and competition** in shared challenge domains
-
-### Further Reading
-
-**On Future of Economic Statecraft:**
-- Blackwill, Robert D., and Jennifer M. Harris. "War by Other Means: Geoeconomics and Statecraft." Harvard UP, 2016
-- Wright, Thomas. "All Measures Short of War." Yale UP, 2017
-
-**On Emerging Technologies:**
-- Schmidt, Eric, et al. "National Security Commission on AI Final Report." 2021
-- Klare, Michael T. "The Race for What's Left." Metropolitan Books, 2012
-- Burrows, Mathew J., and Robert A. Manning. "How 5G, AI, and Quantum Computing Are About to Transform Warfare." *Atlantic Council*, 2020
-
-**On Future Scenarios:**
-- National Intelligence Council. "Global Trends 2040: A More Contested World." 2021
-- Schwab, Klaus. "The Fourth Industrial Revolution." Currency, 2017
-
-**Policy Documents:**
-- National Security Strategy updates (latest version)
-- DoD technology strategy documents
-- Treasury digital currency reports
-- Space policy directives
-
+> **Tabletop Exercise:** The tabletop exercise for this chapter — *Multi-Domain Crisis in 2030* — can be found in **Appendix A: Tabletop Exercises**.
 
 ---
 
@@ -1370,3 +1057,4 @@ China offers:
 10. Allison, Graham. *Destined for War: Can America and China Escape Thucydides's Trap?* Houghton Mifflin Harcourt, 2017.
 
 ---
+

@@ -108,7 +108,7 @@ Data sovereignty refers to the principle that data is subject to the laws and go
 
 ### China's Data Security Framework: From Ambiguity to Control
 
-Data localization requirements—mandating that data about domestic citizens or activities be stored within national borders and subject to domestic legal jurisdiction—represent a form of economic coercion with profound implications for global digital integration. These requirements force foreign firms to invest in local infrastructure, subject operations to host government oversight and potential manipulation, and fragment global data flows that have enabled seamless digital services. China's evolving data security legal framework illustrates how information domain policies serve multiple objectives: legitimate privacy and security concerns, protectionist industrial policy favoring domestic firms, and state control over information flows.
+Data localization requirements—mandating that data about domestic citizens or activities be stored within national borders and subject to domestic legal jurisdiction—represent a form of economic coercion that threatens global digital integration. These requirements force foreign firms to invest in local infrastructure, subject operations to host government oversight and potential manipulation, and fragment global data flows that have enabled seamless digital services. China's evolving data security legal framework illustrates how information domain policies serve multiple objectives: legitimate privacy and security concerns, protectionist industrial policy favoring domestic firms, and state control over information flows.
 
 **The progression of Chinese data regulation** from ambiguous requirements to comprehensive frameworks spans the past decade. Early regulations were vague and inconsistently enforced: the 2016 Cybersecurity Law nominally required "critical information infrastructure operators" to store data domestically and submit to security reviews, but definitions remained unclear and enforcement selective. Foreign firms operating in China faced uncertainty about compliance requirements, with government agencies providing conflicting guidance and applying rules differently across sectors and firms. This ambiguity itself functioned as leverage—foreign firms uncertain about legal requirements often chose conservative interpretations (localizing data, accepting government access requests) to avoid regulatory troubles.
 
@@ -304,7 +304,7 @@ Digital fragmentation creates tradeoffs between resilience and efficiency that p
 
 The trajectory remains uncertain. Full splinternet—completely separate digital ecosystems with no interoperability—appears implausible given economic interdependencies and technical complexity. But continued fragmentation through incompatible regulations, content blocking, alternative infrastructure, and geopolitical tensions seems likely. The question is degree: will fragmentation remain modest (separate content in different jurisdictions but interoperable infrastructure) or accelerate toward substantive separation (incompatible technical standards, isolated networks, competing governance systems)?
 
-Answers depend on broader geopolitical trajectories: deepening U.S.-China strategic competition suggests accelerating fragmentation, while economic interdependencies and shared challenges (climate, pandemics, technology governance) create incentives for maintaining connectivity. The information domain thus serves as both arena of strategic competition and potential site of cooperation—a duality defining contemporary international relations.
+Answers depend on broader geopolitical trajectories: deepening U.S.-China strategic competition suggests accelerating fragmentation, while economic interdependencies and shared challenges (climate, pandemics, technology governance) create incentives for maintaining connectivity. The information domain thus serves as both arena of strategic competition and potential site of cooperation—a tension that runs through contemporary international relations.
 
 ---
 
@@ -633,8 +633,6 @@ U.S. policy responses must acknowledge that some nations will choose digital sov
 
 ## Case Study 2: 5G Standards Competition and the Huawei Challenge
 
-*[This case study expands on material from Section 3.2, applying the four-dimension framework specifically]*
-
 ### Background: Huawei's Rise to 5G Leadership
 
 Huawei Technologies, founded 1987 as telecommunications equipment reseller, evolved into global leader in wireless infrastructure through sustained R&D investment, aggressive international expansion, and strategic standards engagement. By 2018-2019, Huawei had achieved dominant positions in 4G equipment markets and led 5G technology development—contributing approximately 15-20% of 5G standard-essential patents, more than any other single firm, and positioning itself to capture significant share of global 5G equipment deployments worth hundreds of billions in total market value.
@@ -866,6 +864,6 @@ U.S.-China Economic and Security Review Commission. *2023 Annual Report to Congr
 
 Weber, Steven, and Teri Takai, editors. *Technology and National Security*. MIT Press, 2023.
 
-Zittrain, Jonathan. *The Future of the Internetâ€”And How to Stop It*. Yale University Press, 2008.       
+Zittrain, Jonathan. *The Future of the Internet—And How to Stop It*. Yale University Press, 2008.       
 
 ---

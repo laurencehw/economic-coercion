@@ -20,14 +20,11 @@
 
 * [Chapter 6: Trade Controls - Tariffs, Quotas, and Export Controls](chapters/chapter_6.md)
 * [Chapter 7: Financial Statecraft and Sanctions](chapters/chapter_7.md)
-
-## Part IV: Strategic Implications
-
 * [Chapter 8: Investment Screening, Industrial Policy, and Strategic Assets](chapters/chapter_8.md)
+
+## Part IV: Looking Back and Looking Forward
+
 * [Chapter 9: Historical Cases and Contemporary Applications](chapters/chapter_9.md)
-
-## Part V: Looking Forward
-
 * [Chapter 10: The Future of Economic Coercion](chapters/chapter_10.md)
 
 ## Appendices
