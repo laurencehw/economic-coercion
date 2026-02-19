@@ -226,7 +226,7 @@ Freezing Russia's central bank reserves (2022) shocked many observers—calling 
 
 ## OFAC Sanctions Architecture
 
-The Office of Foreign Assets Control (OFAC) within the U.S. Department of Treasury administers and enforces economic sanctions against targeted foreign countries, entities, and individuals. With fewer than 200 staff members, OFAC wields authority over trillions of dollars in transactions, maintaining sanctions programs affecting over 10,000 targets across 30+ countries. Understanding OFAC's structure, authorities, and mechanisms illuminates how financial sanctions translate from policy objectives into economic pressure.
+The Office of Foreign Assets Control (OFAC) within the U.S. Department of Treasury administers and enforces economic sanctions against targeted foreign countries, entities, and individuals. With fewer than 200 staff members, OFAC wields authority over trillions of dollars in transactions, maintaining sanctions programs affecting over 10,000 targets across 30+ countries. Understanding OFAC's structure, authorities, and mechanisms shows how financial sanctions translate from policy objectives into economic pressure.
 
 ### Legal Authorities
 
@@ -897,7 +897,7 @@ Some propose "green" currencies backed by carbon neutrality or renewable energy 
 
 ### Understanding Chinese Views on Financial Coercion
 
-Chinese perspectives on financial sanctions and dollar dominance reflect deep concerns about vulnerability to U.S. coercion, historical memories of Western financial imperialism, and determination to build independent financial infrastructure. Understanding these views illuminates China's strategic choices in financial system development and sanctions countermeasures.
+Chinese perspectives on financial sanctions and dollar dominance reflect deep concerns about vulnerability to U.S. coercion, historical memories of Western financial imperialism, and determination to build independent financial infrastructure. Understanding these views explains China's strategic choices in financial system development and sanctions countermeasures.
 
 ### Historical Context and Financial Strategic Objectives
 

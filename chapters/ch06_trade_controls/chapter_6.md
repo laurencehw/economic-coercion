@@ -390,7 +390,7 @@ Chapter 4 provides a detailed analysis of these controls' strategic logic, allie
 
 ### Lessons from Cold War Export Controls: CoCom
 
-Historical context illuminates current challenges. The Coordinating Committee for Multilateral Export Controls (CoCom, 1949-1994) coordinated Western export controls denying Soviet bloc access to advanced technologies.
+Historical parallels inform current challenges. The Coordinating Committee for Multilateral Export Controls (CoCom, 1949-1994) coordinated Western export controls denying Soviet bloc access to advanced technologies.
 
 **Structure**:
 - Seventeen members (NATO minus Iceland, plus Japan, Australia)
@@ -1359,7 +1359,7 @@ Tariffs generated substantial unintended costs:
 
 ### Background and Structure
 
-The Coordinating Committee for Multilateral Export Controls (CoCom) coordinated Western export controls denying the Soviet bloc access to advanced technologies during the Cold War. This historical case illuminates current challenges in technology denial, demonstrating both possibilities and limitations of long-term multilateral export restrictions.
+The Coordinating Committee for Multilateral Export Controls (CoCom) coordinated Western export controls denying the Soviet bloc access to advanced technologies during the Cold War. This historical case clarifies current challenges in technology denial, demonstrating both possibilities and limitations of long-term multilateral export restrictions.
 
 **Formation and Members**:
 

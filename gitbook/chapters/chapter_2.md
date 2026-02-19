@@ -4,25 +4,15 @@
 
 In March 2020, as COVID-19 spread globally, American hospitals confronted a jarring reality: the world's richest country could not obtain N95 masks, ventilators, or testing supplies. The shortages stemmed not from insufficient American manufacturing capacity historically, but from a decades-long shift that had concentrated production of personal protective equipment overwhelmingly in China. The logic of globalization—let each country do what it does cheaply, and trade for the rest—had seemed elegant in economics seminars. Now it looked like a strategic blunder of the first order. Within weeks, officials across the U.S. government were asking hard questions about supply chain vulnerabilities they had previously ignored: Which other critical goods came predominantly from potential adversaries? Could these dependencies be weaponized? How quickly could production be reshored?
 
-The pandemic revealed what specialists had long warned: global supply chains, optimized for efficiency and cost minimization, had created acute concentration risks in strategically critical sectors. This chapter maps those vulnerabilities and examines how states are responding to the recognition that economic interdependence creates not only mutual prosperity but also exploitable chokepoints.
+The pandemic confirmed what specialists had long warned: supply chains optimized for efficiency had created acute concentration risks in strategically critical sectors. Now governments face an uncomfortable reckoning with chokepoints they ignored for decades.
 
-{% hint style="info" %}
-**Definition: Supply Chain Resilience**
+What makes a chokepoint? Four conditions must converge: geographic or corporate concentration, technical difficulty of substitution, criticality to downstream industries, and years required to build alternatives. Semiconductors meet all four—Taiwan's TSMC produces 90% of the world's advanced chips (SIA 2023). So do rare earths, where China controls 85% of global processing (USGS 2024). Pharmaceutical ingredients, too: China and India supply 80% of active pharmaceutical ingredients to American patients (FDA). And critical minerals for the energy transition, where China dominates lithium, cobalt, and graphite processing despite not controlling the mines.
 
-Supply chain resilience refers to the ability of a supply chain to anticipate, prepare for, respond to, and recover from disruptions while maintaining continuous operations. Resilient supply chains incorporate redundancy, diversification, and flexibility rather than optimizing solely for cost efficiency. Building resilience often involves accepting higher costs in exchange for reduced vulnerability to shocks.
-{% endhint %}
+These chokepoints did not emerge through comparative advantage alone. Specific industrial policies created them. Environmental externalization accelerated them. Just-in-time manufacturing locked them in. China's rare earth dominance reflects deliberate government support combined with Western firms happy to offshore environmentally damaging processing. Taiwan's semiconductor leadership stems from massive TSMC investments backed by government incentives. The lesson: what policy created, policy cannot easily undo.
 
-Three arguments organize our analysis. First, supply chain chokepoints exist where production is geographically or corporately concentrated, substitution is technically difficult, criticality to downstream industries is high, and alternative capacity takes years to build. These conditions describe semiconductors (where Taiwan's TSMC produces 90% of the world's advanced chips (SIA 2023)), rare earth processing (where China controls 85% of global capacity (USGS 2024)), pharmaceutical ingredients (where China and India supply 80% of active pharmaceutical ingredients to the U.S. (FDA)), and critical minerals for the energy transition (where China dominates processing of lithium, cobalt, and graphite despite not dominating raw material extraction).
+Every proposed fix involves painful tradeoffs. Reshoring semiconductor fabrication requires tens of billions in subsidies and a decade to achieve meaningful scale. Friend-shoring sounds elegant until you realize allies face the same Chinese dependencies. Diversification reduces single-point-of-failure risks but cannot eliminate exposure to a dominant supplier. No solution is costless.
 
-Second, these chokepoints developed not through natural comparative advantage alone, but through specific industrial policies, environmental externalization, and the logic of just-in-time manufacturing that prioritized efficiency over redundancy. China's dominance in rare earth processing reflects both geological endowment and deliberate government support, combined with Western firms' willingness to offshore environmentally damaging processing. Taiwan's semiconductor leadership stems from massive TSMC investments supported by government incentives, combined with high barriers to entry in advanced chip manufacturing. Understanding how chokepoints emerged is essential to assessing whether they can be unwound—and at what cost.
-
-Third, strategies for reducing supply chain vulnerabilities—reshoring, friend-shoring, diversification, strategic stockpiling, and technology substitution—all involve difficult tradeoffs between security and economics. Bringing semiconductor fabrication back to the United States may enhance national security but requires tens of billions in subsidies, faces persistent cost disadvantages, and will take a decade to achieve meaningful scale. Friend-shoring to allied nations may seem to balance security and efficiency, but many allies face the same Chinese dependencies as the U.S. Diversification across multiple suppliers reduces single-point-of-failure risks but adds complexity and may not eliminate exposure to a dominant supplier. No solution is costless, and all require sustained political commitment despite economic headwinds.
-
-This chapter proceeds in five main sections. Section 1 defines what makes a supply chain chokepoint and maps the most critical concentrations in global production. Section 2 examines semiconductor supply chains in detail—the quintessential chokepoint where Taiwan's dominance creates systemic vulnerabilities for the entire global economy. Section 3 analyzes critical minerals essential for the energy transition, where China's processing dominance creates leverage even when raw materials come from other countries. Section 4 explores pharmaceutical and medical supply chains, where the COVID-19 pandemic exposed acute dependencies. Section 5 evaluates competing strategies for reducing vulnerabilities, analyzing the strengths and limitations of each approach.
-
-The chapter includes two Government Tools Boxes explaining the Defense Production Act (which grants the President authority to direct industrial production for national security) and CFIUS (which reviews foreign acquisitions for security implications). Three case studies apply the analytical framework from Chapter 1: the 2010 China-Japan rare earth crisis (when Beijing used export restrictions to signal displeasure over a territorial dispute), COVID-19 PPE shortages (exposing concentrated dependencies), and Taiwan's TSMC concentration (creating systemic risk from a potential cross-strait crisis). A Chinese Perspective Box explains Beijing's view on supply chain security—emphasizing historical vulnerabilities from foreign embargoes, the strategic logic of "indigenous innovation" (自主创新, zìzhǔ chuàngxīn), and the "dual circulation" (双循环, shuāng xúnhuán) strategy balancing domestic self-sufficiency with continued international engagement.
-
-This is not abstract policy analysis. Supply chain dependencies determine which countries can sustain advanced manufacturing, deploy next-generation technologies, respond to public health emergencies, and maintain military capabilities during crises. Control the chokepoints, and you can strangle an adversary's economy without firing a shot. Recognition of these vulnerabilities is driving the most significant restructuring of global supply chains since the end of the Cold War. Understanding where chokepoints exist, how they developed, and what can realistically be done about them is essential for both policymakers navigating strategic competition and businesses operating in an increasingly geoeconomic world.
+Control the chokepoints, and you can strangle an adversary's economy without firing a shot. This recognition drives the most significant restructuring of global supply chains since the Cold War's end—a transformation that will shape which countries can sustain advanced manufacturing, deploy next-generation technologies, and maintain military capabilities in crisis.
 
 ---
 
@@ -33,12 +23,11 @@ This is not abstract policy analysis. Supply chain dependencies determine which 
 Not all supply chain dependencies create strategic vulnerabilities. The United States imports coffee, bananas, and cocoa primarily from abroad, but these dependencies pose little coercive leverage: alternative suppliers are readily available, substitutes exist, and interruption would not cripple critical infrastructure or military capabilities. Strategic chokepoints have four defining characteristics that distinguish them from ordinary trade dependencies.
 
 {% hint style="info" %}
-**Definition: Chokepoint**
-
-A strategic chokepoint is a point of concentration in a supply chain where production is controlled by a small number of locations, firms, or countries, making disruption or denial capable of affecting a large share of global supply. Strategic chokepoints are characterized by: (1) geographic or corporate concentration, (2) difficulty of substitution, (3) criticality to downstream industries, and (4) long lead times to build alternative capacity.
+**What Makes a Strategic Chokepoint?**
+A strategic chokepoint exists when four conditions converge: geographic or corporate concentration of production, technical difficulty of substitution, criticality to downstream industries, and extended time required to build alternative capacity. Unlike ordinary trade dependencies (coffee, bananas), strategic chokepoints create exploitable vulnerabilities where disruption or denial can cripple entire economic sectors or military capabilities.
 {% endhint %}
 
-**Geographic or corporate concentration** is the first requirement. Production must be concentrated in a small number of locations or firms, such that disruption or denial affects a large share of global supply. Taiwan's TSMC manufactures approximately 90% of the world's most advanced semiconductors (chips at 5 nanometer nodes and below) (Khan, Mann, and Peterson 2021; Miller 2022). China processes roughly 85% of rare earth elements, even though it produces only 60% of raw rare earth ore (U.S. Geological Survey 2023). The Netherlands' ASML is the sole manufacturer of extreme ultraviolet (EUV) lithography machines essential for producing cutting-edge chips. This concentration means that disruption—whether from geopolitical crisis, natural disaster, or deliberate restriction—cannot easily be compensated by ramping up production elsewhere.
+**Geographic or corporate concentration** is the first requirement. Production must be concentrated in a small number of locations or firms, such that disruption or denial affects a large share of global supply. Taiwan's TSMC manufactures approximately 90% of the world's most advanced semiconductors (chips at 5 nanometer nodes and below) (Khan, Mann, and Peterson 2021; Miller 2022). China processes roughly 85% of rare earth elements, even though it produces only 60% of raw rare earth ore (U.S. Geological Survey 2023). The Netherlands' ASML (Advanced Semiconductor Materials Lithography) is the sole manufacturer of extreme ultraviolet (EUV) lithography machines essential for producing cutting-edge chips. This concentration means that disruption—whether from geopolitical crisis, natural disaster, or deliberate restriction—cannot easily be compensated by ramping up production elsewhere.
 
 **Difficulty of substitution** amplifies the strategic significance of concentration. Some concentrated production can be rapidly replaced if interrupted. Others face technical barriers, massive capital requirements, or long lead times that make substitution infeasible in the short to medium term. Building a semiconductor fabrication facility capable of producing advanced chips requires $15-20 billion in capital investment and 3-5 years of construction and testing (Khan, Mann, and Peterson 2021). Developing rare earth processing capacity involves not only mining but also complex chemical separation processes that take years to establish and generate substantial environmental hazards. These barriers to entry mean that even wealthy countries with strong technical capabilities cannot quickly reduce dependencies when geopolitical circumstances change.
 
@@ -50,28 +39,39 @@ These four characteristics—concentration, difficulty of substitution, critical
 
 ### Mapping Critical Chokepoints
 
-Armed with a framework for identifying chokepoints, we can now map the most strategically significant concentrations in global supply chains. While comprehensive supply chain mapping is beyond the scope of any single chapter (the Biden administration's 100-day supply chain review produced hundreds of pages on just four sectors (White House 2021)), several concentrations stand out for their scale, strategic importance, and centrality to U.S.-China competition.
+Comprehensive supply chain mapping is beyond the scope of any single chapter—the Biden administration's 100-day supply chain review produced hundreds of pages on just four sectors (White House 2021)—but several concentrations stand out for their scale, strategic importance, and centrality to U.S.-China competition.
 
 **Semiconductors** represent the most consequential chokepoint in the global economy. The semiconductor supply chain is a marvel of specialization: design happens primarily in the United States (Intel, AMD, Nvidia, Qualcomm, Apple), Europe (ARM), and increasingly China (Huawei's HiSilicon before U.S. sanctions); electronic design automation (EDA) software that makes chip design possible comes exclusively from three American companies (Synopsys, Cadence, Mentor Graphics/Siemens); manufacturing equipment comes from the U.S. (Applied Materials, Lam Research, KLA), the Netherlands (ASML with monopoly on EUV lithography), and Japan (Tokyo Electron, Screen Holdings); and fabrication is dominated by Taiwan (TSMC with 54% of the foundry market and approximately 90% of advanced chips), South Korea (Samsung, SK Hynix with strength in memory chips), and the U.S. (Intel, though struggling in recent years). China remains weak in fabrication, producing less than 10% of global chips and predominantly at mature technology nodes (28 nanometers and above), despite massive investments through the Big Fund (大基金) industrial policy initiative exceeding $100 billion.
 
 <figure class="book-figure">
-  <img src="../figures/fig_02_01_semiconductor_geography.png" alt="Critical locations in the global semiconductor supply chain. Red circles indicate chokepoint facilities where disruption would cascade through global technology industries. TSMC's Taiwan fabs, ASML's Netherlands lithography equipment, and Japanese materials suppliers each represent single points of failure.">
+  <img src="../../figures/fig_02_01_semiconductor_geography.png" alt="Critical locations in the global semiconductor supply chain. Red circles indicate chokepoint facilities where disruption would cascade through global technology industries. TSMC's Taiwan fabs, ASML's Netherlands lithography equipment, and Japanese materials suppliers each represent single points of failure.">
   <figcaption>Figure 2.1: Critical locations in the global semiconductor supply chain. Red circles indicate chokepoint facilities where disruption would cascade through global technology industries. TSMC's Taiwan fabs, ASML's Netherlands lithography equipment, and Japanese materials suppliers each represent single points of failure.</figcaption>
 </figure>
 
-This geographic and corporate concentration creates multiple chokepoints. TSMC's dominance in advanced nodes means that any disruption to Taiwan—whether from earthquake, Chinese military action, or semiconductor-specific targeting—would cripple global technology sectors. ASML's monopoly on EUV lithography means that the Netherlands holds a chokepoint on the most advanced semiconductor manufacturing equipment. The concentration of EDA software in three American firms means the U.S. can deny design capabilities to rivals. Each chokepoint can be weaponized: the October 2022 U.S. semiconductor export controls leveraged American positions in equipment and software to constrain China's chip capabilities, even for chips not manufactured in the United States.
-
-{% hint style="info" %}
-**Definition: Rare Earth Elements**
-
-Rare earth elements (REEs) are a group of 17 metallic elements with unique magnetic, phosphorescent, and catalytic properties essential for advanced technologies. Despite the name, they are not geologically rare but are difficult to extract and process economically. Key applications include permanent magnets (neodymium, dysprosium), phosphors for displays (europium, terbium), and catalysts (cerium).
+{% hint style="warning" %}
+**Taiwan Concentration Risk: The World's Most Dangerous Dependency**
+Approximately 90% of the world's most advanced semiconductors (5nm and below) are manufactured by a single company (TSMC) on an island (Taiwan) that China claims as its territory and has not ruled out seizing by force. A natural disaster, military conflict, or blockade affecting Taiwan would immediately cripple global technology sectors, from smartphones and data centers to advanced weapons systems and medical equipment.
 {% endhint %}
 
-**Rare earth elements and critical minerals** present a different type of chokepoint—one where China's dominance stems primarily from processing rather than geological monopoly. Rare earth elements (a group of 17 elements including neodymium, dysprosium, and europium) are essential for permanent magnets used in wind turbines, electric vehicle motors, computer hard drives, and military applications from F-35 fighter jet engines to precision-guided missiles. China produces approximately 60% of global rare earth ore, but more critically, processes roughly 85% of rare earths into usable forms. This processing dominance developed over decades as Western firms offshored environmentally damaging refining operations, and Chinese state-backed companies consolidated market share through vertical integration and subsidies.
+This geographic and corporate concentration creates multiple chokepoints. TSMC's dominance in advanced nodes means that any disruption to Taiwan—whether from earthquake, Chinese military action, or semiconductor-specific targeting—would cripple global technology sectors. ASML's monopoly on EUV lithography means that the Netherlands holds a chokepoint on the most advanced semiconductor manufacturing equipment. The concentration of EDA software in three American firms means the U.S. can deny design capabilities to rivals. Each chokepoint can be weaponized: the October 2022 U.S. semiconductor export controls leveraged American positions in equipment and software to constrain China's chip capabilities, even for chips not manufactured in the United States.
 
-Beyond rare earths, China's dominance extends to other minerals critical for the energy transition. China controls approximately 60% of lithium processing (despite Australia and Chile leading in mining), 80% of cobalt refining (though the Democratic Republic of Congo produces 70% of ore), and 80% of natural graphite processing (a critical battery component). The pattern is consistent: China does not monopolize raw material extraction but dominates the midstream processing that converts ore into materials usable in batteries, magnets, and electronics. This positioning reflects deliberate industrial policy identifying critical mineral processing as a strategic sector worthy of state support, combined with willingness to tolerate environmental costs that Western nations regulated away.
+**Rare earth elements and critical minerals** present a different type of chokepoint—one where China's dominance stems primarily from processing rather than geological monopoly. Rare earth elements (a group of 17 elements including neodymium, dysprosium, and europium) are essential for permanent magnets used in wind turbines, electric vehicle motors, computer hard drives, and military applications from F-35 fighter jet engines to precision-guided missiles. China produces approximately 60% of global rare earth ore, but more critically, processes roughly 85-90% of rare earths into usable forms (USGS 2023). This processing dominance developed over decades as Western firms offshored environmentally damaging refining operations, and Chinese state-backed companies consolidated market share through vertical integration and subsidies.
+
+Beyond rare earths, China's dominance extends to other minerals critical for the energy transition. China controls approximately 60% of lithium processing (despite Australia and Chile leading in mining), 80% of cobalt refining (though the Democratic Republic of Congo produces 70% of ore), and 80% of natural graphite processing (a critical battery component). The pattern is consistent: China does not monopolize raw material extraction but dominates the midstream processing that converts ore into materials usable in batteries, magnets, and electronics.
+
+{% hint style="info" %}
+**China's Processing Dominance: The Midstream Chokepoint**
+China's critical minerals leverage stems primarily from processing dominance rather than mining. Even when raw materials are extracted in Australia, Chile, or the DRC, they typically flow to Chinese refineries for processing into battery-grade materials. This midstream control means that diversifying mining sources alone is insufficient—countries seeking supply chain security must also build refining and processing capacity, a far more capital-intensive and environmentally challenging undertaking.
+{% endhint %}
+
+This positioning reflects deliberate industrial policy identifying critical mineral processing as a strategic sector worthy of state support, combined with willingness to tolerate environmental costs that Western nations regulated away.
 
 **Pharmaceutical ingredients** constitute a third critical chokepoint, one dramatically exposed by the COVID-19 pandemic. China and India together supply approximately 80% of active pharmaceutical ingredients (APIs) used in U.S. medications (White House 2021). China is particularly dominant in antibiotics—roughly 90% of antibiotics used in the United States depend on precursors manufactured in China. For some generic drugs, dependence approaches 100%. This concentration developed gradually as American and European pharmaceutical companies pursued cost savings by offshoring API production to countries with lower labor costs and less stringent environmental regulations. The process accelerated after India and China joined the World Trade Organization, enabling easier global trade in pharmaceutical products.
+
+{% hint style="warning" %}
+**Pharmaceutical API Concentration: A Hidden National Security Vulnerability**
+Unlike semiconductor shortages that unfold over quarters, pharmaceutical supply disruptions can create immediate public health crises. Hospitals typically maintain only days to weeks of medication inventory, meaning API cutoffs translate rapidly into empty pharmacy shelves and treatment interruptions. The 2020 Indian export restrictions on hydroxychloroquine demonstrated how quickly pharmaceutical nationalism can cascade into shortages affecting millions of patients.
+{% endhint %}
 
 The strategic implications became apparent during COVID-19 when shortages emerged not only in personal protective equipment (N95 masks produced overwhelmingly in China) but also in pharmaceutical precursors, testing supplies, and even basic medications. China's export restrictions in early 2020, ostensibly for domestic health needs, raised fears about deliberate leverage—fears intensified when Chinese government officials suggested restricting pharmaceutical exports to the U.S. as retaliation for other disputes. Even absent deliberate weaponization, quality control concerns have emerged repeatedly: the 2008 heparin contamination incident that caused deaths in the U.S. traced to Chinese suppliers, and fentanyl precursors that fuel America's opioid epidemic come predominantly from Chinese chemical manufacturers.
 
@@ -103,19 +103,13 @@ Pharmaceutical API production followed similar patterns. Manufacturing APIs invo
 
 This dynamic creates a paradox for reshoring efforts: bringing production back may require either substantial subsidies to offset higher environmental compliance costs, or relaxation of environmental standards—a politically fraught choice. The economics that drove offshoring don't disappear because supply chain vulnerabilities are recognized.
 
-{% hint style="info" %}
-**Definition: Just-in-Time Manufacturing**
-
-Just-in-time (JIT) manufacturing is a production strategy that minimizes inventory by receiving materials and components only as needed for immediate production. While JIT reduces storage costs and waste, it also eliminates buffer stocks that could absorb supply disruptions, making supply chains more fragile during crises.
-{% endhint %}
-
 **Just-in-time manufacturing and efficiency optimization** complete the explanation for concentrated supply chains. Beginning in the 1980s and accelerating with digital supply chain management tools, corporations adopted just-in-time practices that minimized inventory, reduced redundancy, and optimized for cost efficiency rather than resilience. Maintaining multiple suppliers for critical components, or holding large inventories as buffers against disruption, appeared wasteful when supply chains functioned smoothly. The result was ever-longer, ever-more-complex supply chains with minimal slack.
 
 The logic was economically rational in stable geopolitical environments. Why pay for redundancy if disruptions are rare and brief? Why maintain expensive domestic capacity if offshore production costs 30-50% less? CFOs made these decisions with spreadsheets, not strategy maps. The misalignment between corporate optimization (focused on shareholder returns and quarterly results) and national strategic needs (focused on resilience and security) is the original sin of contemporary supply chain vulnerability. Shareholders demanded efficiency; nations needed resilience. For thirty years, efficiency won—until it didn't.
 
 The COVID-19 pandemic shattered assumptions underlying just-in-time optimization. When demand surged and borders closed, the absence of redundancy and inventory buffers created cascading shortages. The lesson—that efficiency and resilience can conflict—now drives reshoring debates. But translating this lesson into policy requires addressing the economic incentives that created concentrated supply chains in the first place, either through regulatory requirements (mandating redundancy despite costs) or subsidies (compensating firms for maintaining less efficient but more resilient supply chains). Both approaches face political and economic headwinds.
 
-Understanding these five factors—comparative advantage, economies of scale, industrial policy, environmental externalization, and just-in-time optimization—reveals why supply chain restructuring is so challenging. Chokepoints did not emerge randomly or through temporary distortions. They reflect deep structural forces, deliberate government strategies, and decades of accumulated advantages. Unwinding them requires confronting these root causes, not just providing one-time subsidies or imposing temporary restrictions. The next sections examine specific chokepoints in detail, beginning with semiconductors—the most strategically consequential dependency in the global economy.
+These five factors—comparative advantage, economies of scale, industrial policy, environmental externalization, and just-in-time optimization—explain why supply chain restructuring is so challenging. Chokepoints did not emerge randomly or through temporary distortions. They reflect deep structural forces, deliberate government strategies, and decades of accumulated advantages. Unwinding them requires confronting these root causes, not just providing one-time subsidies or imposing temporary restrictions.
 
 ---
 
@@ -129,15 +123,9 @@ Semiconductor production involves one of the most complex supply chains in the g
 
 **Design** is the first stage, where companies conceive new chips and translate requirements into detailed specifications. This stage is dominated by American firms: Intel designs and manufactures its own chips (an integrated model), while "fabless" companies like AMD, Nvidia, Qualcomm, Broadcom, and Apple design chips but outsource manufacturing to specialized foundries. Britain's ARM (owned by Japan's SoftBank, though potentially facing sale) licenses chip architectures used in virtually all smartphones. Chinese firms, particularly Huawei's HiSilicon division before U.S. sanctions, also design chips but depend on foreign manufacturing. Design requires sophisticated software tools—Electronic Design Automation (EDA) software—controlled by just three companies: Synopsys and Cadence (both American) and Mentor Graphics (American, now owned by Germany's Siemens). This concentration gives the United States extraordinary leverage: denying access to EDA tools effectively prevents sophisticated chip design, as China discovered when U.S. export controls cut HiSilicon off from software updates.
 
-**Manufacturing equipment** is the next critical stage. Producing modern semiconductors requires hundreds of specialized machines, each costing tens of millions of dollars, arranged in extraordinarily precise sequences. The United States maintains strength in several categories: Applied Materials, Lam Research, and KLA Corporation dominate deposition equipment (laying down thin films of materials), etching equipment (removing material to create circuit patterns), and inspection equipment (checking for defects). But the most critical chokepoint belongs to the Netherlands: ASML is the sole manufacturer of extreme ultraviolet (EUV) lithography machines, which use light with wavelengths just 13.5 nanometers to etch transistor features smaller than viruses onto silicon wafers.
+**Manufacturing equipment** is the next critical stage. Producing modern semiconductors requires hundreds of specialized machines, each costing tens of millions of dollars, arranged in extraordinarily precise sequences. The United States maintains strength in several categories: Applied Materials, Lam Research, and KLA Corporation dominate deposition equipment (laying down thin films of materials), etching equipment (removing material to create circuit patterns), and inspection equipment (checking for defects). But the most critical chokepoint belongs to the Netherlands: ASML is the sole manufacturer of extreme ultraviolet (EUV) lithography machines, which use light with wavelengths just 13.5 nanometers to etch transistor features smaller than viruses onto silicon wafers. Each EUV machine costs approximately $150 million, requires three Boeing 747s to ship, and represents the pinnacle of optical engineering (Miller 2022)—mirrors polished to atomic-scale smoothness, lasers generating 50,000 pulses per second vaporizing tin droplets to produce EUV light. No other company has successfully produced EUV lithography, and without it, manufacturing chips at 7nm, 5nm, or 3nm nodes (the leading edge) is impossible. Japan also maintains significant equipment strength through Tokyo Electron (etching and coating equipment) and Screen Holdings (cleaning equipment).
 
-{% hint style="info" %}
-**Definition: EUV Lithography**
-
-Extreme Ultraviolet (EUV) lithography is the cutting-edge technology required to manufacture the most advanced semiconductors (7nm and below). EUV machines use light with 13.5nm wavelength to print circuit patterns far smaller than visible light could achieve. Only one company in the world - ASML of the Netherlands - can manufacture EUV machines. Each costs approximately $150 million and requires three Boeing 747s to ship.
-{% endhint %} Each EUV machine costs approximately $150 million, requires three Boeing 747s to ship, and represents the pinnacle of optical engineering (Miller 2022)—mirrors polished to atomic-scale smoothness, lasers generating 50,000 pulses per second vaporizing tin droplets to produce EUV light. No other company has successfully produced EUV lithography, and without it, manufacturing chips at 7nm, 5nm, or 3nm nodes (the leading edge) is impossible. Japan also maintains significant equipment strength through Tokyo Electron (etching and coating equipment) and Screen Holdings (cleaning equipment).
-
-This equipment concentration creates extraordinary leverage. The 2019-2022 U.S. campaign to prevent ASML from selling EUV machines to China's SMIC (Semiconductor Manufacturing International Corporation) exemplifies this leverage in action. After years of diplomatic pressure on the Dutch government, ASML has not delivered EUV machines to any Chinese customer, effectively capping Chinese chip manufacturing at 7nm nodes without EUV-enabled production.
+This equipment concentration creates extraordinary leverage. The 2019-2022 U.S. campaign to prevent ASML from selling EUV machines to China's SMIC (Semiconductor Manufacturing International Corporation) exemplifies this leverage in action. After years of diplomatic pressure on the Dutch government, ASML has not delivered EUV machines to any Chinese customer, effectively capping Chinese chip manufacturing at 7nm nodes without EUV-enabled production. (Chapter 4 examines the October 2022 export controls that broadened these restrictions, and Chapter 6 details the legal architecture of export control authorities.)
 
 **Fabrication** is where silicon wafers become functioning chips—and where Taiwan's dominance creates the most acute vulnerability. TSMC holds approximately 54% of the global foundry market (outsourced chip manufacturing), but more critically, produces roughly 90% of the world's most advanced chips at 5nm nodes and below. South Korea's Samsung has approximately 16% of the foundry market and can produce at leading-edge nodes, though it typically trails TSMC by 1-2 years in introducing each new process generation and has faced yield challenges (the percentage of chips that function correctly). Intel, historically dominant in semiconductor manufacturing, has struggled in recent years, falling behind TSMC's process technology—a failure that prompted the company's CEO to resign in 2020 and led to Intel's new strategy of becoming a foundry for other companies' designs (Intel Foundry Services). China's SMIC can produce at 14nm and, reportedly, 7nm through multi-patterning techniques that don't require EUV, but faces yield challenges, much higher costs than TSMC, and cannot approach 5nm or 3nm.
 
@@ -152,8 +140,8 @@ This complexity means that no single country can produce advanced semiconductors
 ### Why Taiwan Matters
 
 <figure class="book-figure">
-  <img src="../figures/fig_02_02_tsmc_dominance.png" alt="TSMC Global Market Share and Tech Dominance">
-  <figcaption>Figure 2.2: TSMC Global Market Share and Tech Dominance</figcaption>
+  <img src="../../figures/fig_02_02_tsmc_dominance.png" alt="TSMC's dominant global market share in advanced semiconductor manufacturing.">
+  <figcaption>Figure 2.2: TSMC's dominant global market share in advanced semiconductor manufacturing.</figcaption>
 </figure>
 
 Taiwan Semiconductor Manufacturing Company—TSMC—stands at the center of global semiconductor dependence, and by extension, at the center of tensions between the United States and China. Understanding TSMC's dominance and the barriers to replicating it is essential for assessing supply chain vulnerability and restructuring possibilities.
@@ -180,7 +168,7 @@ This vulnerability explains U.S. efforts to constrain China's indigenous semicon
 
 But this strategy faces its own vulnerabilities. If U.S. controls are too aggressive, they may accelerate Chinese determination to achieve semiconductor self-sufficiency regardless of cost—and given sufficient time (potentially a decade or more) and resources (tens or hundreds of billions), China may succeed in developing at least mid-range capabilities even without foreign equipment access. If controls are too weak, they may fail to prevent China from reaching parity, eliminating the dependence that protects Taiwan. The challenge is calibrating restrictions to maintain Chinese dependence without provoking a crash program at self-sufficiency that might eventually succeed. This calibration is extraordinarily difficult, involves substantial uncertainty, and must account for Chinese perspectives examined later in this chapter.
 
-### 2.3 U.S. and Chinese Strategies
+### U.S. and Chinese Strategies
 
 Both the United States and China recognize semiconductor dependence as a critical vulnerability and have launched ambitious programs to address it—though with different objectives, constraints, and prospects for success.
 
@@ -231,8 +219,8 @@ The global energy transition—the shift from fossil fuels to renewable energy a
 ### Minerals for Energy Transition
 
 <figure class="book-figure">
-  <img src="../figures/fig_02_03_critical_minerals.png" alt="Critical Minerals Supply Chain Concentration">
-  <figcaption>Figure 2.3: Critical Minerals Supply Chain Concentration</figcaption>
+  <img src="../../figures/fig_02_03_critical_minerals.png" alt="Critical minerals supply chain concentration showing China's dominance in processing.">
+  <figcaption>Figure 2.3: Critical minerals supply chain concentration showing China's dominance in processing.</figcaption>
 </figure>
 
 The International Energy Agency estimates that reaching net-zero emissions by 2050 will require six times more mineral inputs in 2040 than today. This demand surge reflects the mineral intensity of clean energy technologies: an electric vehicle requires six times the mineral inputs of a conventional car (primarily lithium, nickel, cobalt, and graphite for batteries, plus rare earths for motors); an onshore wind farm requires nine times the mineral resources of a gas-fired power plant (copper, rare earths for magnets, steel); solar panels require substantial silicon, silver, and other materials. The energy transition is, fundamentally, a materials transition—and control over these materials confers strategic leverage.
@@ -315,12 +303,6 @@ The COVID-19 pandemic delivered a stark lesson in pharmaceutical supply chain vu
 
 ### Active Pharmaceutical Ingredients (APIs): The Hidden Dependency
 
-{% hint style="info" %}
-**Definition: Active Pharmaceutical Ingredient (API)**
-
-An Active Pharmaceutical Ingredient (API) is the biologically active compound in a medication that produces the intended therapeutic effect. APIs are the core chemical substances that make drugs work, as distinct from inactive ingredients (excipients) used for binding, flavoring, or delivery. Most APIs for U.S. medications are manufactured abroad, primarily in China and India.
-{% endhint %}
-
 When Americans fill prescriptions, few consider where the drugs were manufactured. The label typically shows a U.S. pharmaceutical company (Pfizer, Merck, Johnson & Johnson), creating an impression of domestic production. The reality is more complex: while final formulation (combining ingredients into pills or liquids) and packaging often occur domestically, the active pharmaceutical ingredients—the chemical compounds that make drugs effective—predominantly come from abroad.
 
 China and India together supply approximately 80% of active pharmaceutical ingredients used in U.S. medications. For some drug categories, dependence is even higher: roughly 90-95% of antibiotics and their precursors come from China. Common medications for blood pressure (enalapril, valsartan), cholesterol (atorvastatin), diabetes (metformin), and other chronic conditions rely heavily on APIs manufactured in China and India. Generic drugs—which account for 90% of prescriptions in the U.S.—are particularly dependent on foreign APIs, as generic manufacturers compete primarily on price and thus source ingredients wherever costs are lowest.
@@ -379,18 +361,7 @@ The realistic outcome is likely hybrid: modest reshoring of truly critical medic
 
 Recognition of supply chain chokepoints has triggered a global rethinking of trade and industrial policy. The previous consensus—that economic efficiency should drive sourcing decisions and governments should minimize intervention in markets—has fractured. In its place, several strategies have emerged for reducing dependencies on potential adversaries. Each involves distinct tradeoffs between security and economics, and each faces implementation challenges that limit effectiveness. This section evaluates five approaches: reshoring (onshoring), friend-shoring (ally-shoring), diversification, strategic stockpiling, and technology substitution.
 
-<figure class="book-figure">
-  <img src="../figures/fig_02_04_supply_chain_risk.png" alt="Supply Chain Risk Matrix: Vulnerability Assessment Across Critical Sectors">
-  <figcaption>Figure 2.4: Supply Chain Risk Matrix: Vulnerability Assessment Across Critical Sectors</figcaption>
-</figure>
-
 ### Reshoring (Onshoring)
-
-{% hint style="info" %}
-**Definition: Reshoring (Onshoring)**
-
-Reshoring refers to the practice of bringing manufacturing and production activities back to the home country from overseas locations. Also called "onshoring," this strategy prioritizes domestic production capacity over cost efficiency to reduce dependence on foreign suppliers, particularly for strategically critical goods.
-{% endhint %}
 
 **Definition and logic**: Reshoring means bringing production back to the home country—in the American context, manufacturing semiconductors, pharmaceuticals, batteries, and other critical goods domestically rather than relying on imports. The logic is straightforward: domestic production eliminates foreign dependencies, ensures supply during crises, maintains quality control, and preserves industrial capabilities that might otherwise atrophy.
 
@@ -406,17 +377,11 @@ Pharmaceutical reshoring has seen more limited progress. MP Materials is buildin
 
 The realistic outcome is partial reshoring of the most critical inputs—advanced semiconductors for defense and AI, essential medications with no substitutes, rare earth processing for military applications—while accepting continued dependence for less critical goods where cost considerations dominate. This requires sustained political will to maintain subsidies, regulatory reforms to accelerate permitting, and tolerance for economic inefficiency in service of security objectives.
 
-<figure class="book-figure">
-  <img src="../figures/fig_02_05_reshoring_map.png" alt="Global Reshoring and Friend-shoring Initiatives">
-  <figcaption>Figure 2.5: Global Reshoring and Friend-shoring Initiatives</figcaption>
-</figure>
-
 ### Friend-shoring (Ally-shoring)
 
-{% hint style="info" %}
-**Definition: Friend-shoring (Ally-shoring)**
-
-Friend-shoring is the strategy of relocating supply chains to countries that are geopolitical allies or trusted partners, rather than to potential adversaries. This approach seeks to balance economic efficiency (by maintaining some benefits of international specialization) with strategic security (by ensuring supply comes from reliable partners).
+{% hint style="success" %}
+**Friend-shoring vs. Near-shoring vs. Reshoring: Understanding the Terms**
+**Reshoring** (onshoring) brings production back to the home country entirely. **Near-shoring** moves production to geographically proximate countries (e.g., Mexico for U.S. firms). **Friend-shoring** (ally-shoring) prioritizes supply chain relocation to geopolitically aligned nations regardless of geography. Each strategy involves different tradeoffs: reshoring maximizes control but costs most; near-shoring balances proximity and cost; friend-shoring leverages allied capabilities while accepting some geographic vulnerability.
 {% endhint %}
 
 **Definition and logic**: Friend-shoring involves shifting supply chains from potential adversaries to trusted allies and partners—for example, sourcing semiconductors from Taiwan or South Korea, rare earths from Australia, pharmaceuticals from European or Indian allies. The logic is balancing security and economics: allied countries provide more reliable supply than adversaries while maintaining some of the cost advantages and specialization benefits that pure domestic production cannot match.
@@ -450,12 +415,6 @@ Progress is real but limited. Diversification within existing geographies (multi
 The realistic outcome is diversification where possible combined with acceptance of remaining chokepoints. This involves mapping supply chains systematically, identifying single points of failure, and directing investment toward building alternative sources—but recognizing that some chokepoints will persist for years or decades.
 
 ### Strategic Stockpiling
-
-{% hint style="info" %}
-**Definition: Strategic Stockpiling**
-
-Strategic stockpiling is the practice of governments maintaining reserves of critical materials, components, or finished goods to provide buffer against supply disruptions. Examples include the U.S. Strategic Petroleum Reserve (oil), National Defense Stockpile (critical minerals), and Strategic National Stockpile (medical supplies). Stockpiles provide time during crises but face challenges including cost, obsolescence, and finite capacity.
-{% endhint %}
 
 **Definition and logic**: Strategic stockpiling involves governments maintaining reserves of critical materials, components, or finished goods to buffer supply disruptions. The U.S. Strategic Petroleum Reserve exemplifies this approach: 700+ million barrels of oil stored in underground caverns provide months of supply during emergencies. Similar logic could apply to semiconductors, rare earths, pharmaceuticals, and other critical inputs.
 
@@ -511,14 +470,6 @@ Whether democratic political systems can maintain such commitment across multipl
 
 To understand Chinese approaches to supply chain security requires appreciating historical experiences fundamentally different from American perspectives. Where American policymakers worry about emerging dependencies on China, Chinese strategists look back on a century of vulnerability to foreign embargoes, technology denial, and economic coercion—experiences that profoundly shape contemporary threat perceptions and policy responses.
 
-{% hint style="warning" %}
-**Chinese Historical Context: Century of Humiliation**
-
-**百年国耻** (bǎinián guóchǐ) - the "Century of Humiliation" (approximately 1839-1949)
-
-This period of foreign domination shapes Chinese strategic culture profoundly. The experience of technological inferiority leading to military defeat and national subjugation creates deep resolve to never again be vulnerable to foreign pressure through economic or technological dependence.
-{% endhint %}
-
 **The Century of Humiliation** (百年国耻, bǎinián guóchǐ) remains central to Chinese strategic thinking. From the Opium Wars (1839-1842, 1856-1860) through foreign concessions, the unequal treaties, Japanese invasion, and civil war lasting until 1949, China experienced repeated subjugation by technologically superior foreign powers. British gunboats enforced opium imports despite Chinese opposition. Foreign powers controlled Chinese ports, extracted territorial concessions, and imposed extraterritorial legal jurisdiction. Japan's invasion and occupation killed tens of millions. These experiences created deep collective memory of weakness stemming from technological backwardness and dependence on foreign powers.
 
 The Cold War reinforced these lessons. The Soviet Union withdrew technical advisors in 1960, halting hundreds of industrial projects mid-construction and forcing China to develop indigenous capabilities despite enormous costs. The United States and its allies maintained comprehensive embargoes on technology exports to China through CoCom restrictions, denying access to advanced manufacturing equipment, computers, and countless dual-use technologies. These embargoes were not abstract policy—they meant that China could not obtain semiconductor manufacturing equipment, advanced machine tools, aerospace technology, or telecommunications equipment from the West. Chinese engineers and scientists had to reverse-engineer foreign technology or develop alternatives from scratch, processes that took decades and cost enormous resources.
@@ -529,41 +480,17 @@ Post-1978 reform and opening brought economic growth and technology transfer, bu
 
 Contemporary Chinese discourse on supply chain security employs specific concepts that reflect this historical experience and shape policy responses.
 
-{% hint style="warning" %}
-**Chinese Strategic Concept: Chokepoint**
-
-**卡脖子** (qiǎ bózi) - literally "strangling the neck" or "getting choked by the throat"
-
-This term has become ubiquitous in Chinese strategic discourse to describe technological dependencies that adversaries can exploit. The visceral metaphor conveys how foreign control over critical inputs can "strangle" Chinese development. Xi Jinping personally uses this term repeatedly, signaling the highest-level attention to these vulnerabilities.
-{% endhint %}
-
 **Chokepoint** (卡脖子, qiǎ bózi), literally "strangling the neck" or "getting choked by the throat," has become ubiquitous in Chinese strategic and technical discussions. The metaphor conveys visceral vulnerability: dependencies on foreign technology, components, or materials that adversaries can exploit to strangle Chinese development. State media, academic journals, and official documents obsessively catalog chokepoints across technologies and industries. Xi Jinping personally uses the term repeatedly, signaling top-level attention.
 
 These chokepoints include semiconductors (dependence on foreign equipment, EDA software, advanced chips), aerospace (aircraft engines, avionics), industrial software (EDA, CAD/CAM, operating systems), scientific instruments (high-precision measurement equipment, electron microscopes), materials (specialty chemicals, high-performance alloys), and medical technology (high-end medical equipment, certain APIs despite China's manufacturing dominance). Chinese technical literature analyzes each chokepoint in detail: which foreign firms dominate, what alternatives exist, what investments are required to develop indigenous capabilities, and what timeframes are realistic.
 
 The chokepoint concept frames supply chain dependencies as national security threats requiring urgent government action. It provides political justification for massive industrial policy investments, tolerance of economic inefficiency in service of security, and willingness to sacrifice short-term growth for long-term technological independence. When Xi Jinping declares that China must achieve breakthroughs in chokepoint technologies, it mobilizes resources across government, state-owned enterprises, private firms, and research institutions.
 
-{% hint style="warning" %}
-**Chinese Strategic Concept: Indigenous Innovation**
-
-**自主创新** (zìzhǔ chuàngxīn) - literally "independent/autonomous innovation"
-
-This policy framework describes China's strategy for achieving technological self-reliance by developing domestic capabilities in critical technologies. Rather than relying on foreign suppliers, China aims to create substitutable (可替代, kě tìdài) alternatives that can replace foreign imports if access is restricted. The goal is not complete autarky but strategic insurance against foreign leverage.
-{% endhint %}
-
 **Indigenous innovation** (自主创新, zìzhǔ chuàngxīn), literally "independent/autonomous innovation," describes China's strategy for overcoming chokepoints. The term means developing technologies domestically rather than relying on foreign alternatives—creating Chinese semiconductor equipment rather than importing from the U.S. or Netherlands, developing Chinese EDA software rather than licensing from American firms, producing Chinese aerospace engines rather than purchasing from Western suppliers.
 
 Indigenous innovation doesn't mean autarky or rejection of all foreign technology. Rather, it means ensuring that for critical technologies, Chinese alternatives exist that can substitute for foreign imports if necessary. This "substitutable" (可替代, kě tìdài) capability provides strategic insurance: if foreign suppliers restrict access, Chinese firms can fall back on domestic alternatives. The alternatives may be inferior in performance or more expensive, but "good enough" suffices when the alternative is complete dependence.
 
 Critics within China debate the costs and feasibility of indigenous innovation. Economists argue that pursuing autarky sacrifices gains from specialization and trade, raising costs and slowing growth. Technical experts note that many advanced technologies require decades to master, and attempting to develop everything domestically stretches resources. Business leaders worry that forcing use of inferior domestic technologies makes Chinese firms uncompetitive internationally. Yet security hawks prevail in current debates: the risks of dependence are judged to exceed the costs of indigenous development, especially after U.S. sanctions on Huawei, SMIC, and others demonstrated willingness to weaponize chokepoints.
-
-{% hint style="warning" %}
-**Chinese Strategic Concept: Dual Circulation**
-
-**双循环** (shuāng xúnhuán) - the "dual circulation development paradigm" (双循环发展格局)
-
-Announced by Xi Jinping in May 2020, this strategy balances **internal circulation** (内循环, nèi xúnhuán) - strengthening domestic production and consumption to reduce foreign dependence - with **external circulation** (外循环, wài xúnhuán) - maintaining international engagement on terms that reduce Chinese vulnerabilities while building asymmetric dependencies where others rely on Chinese supply chains.
-{% endhint %}
 
 **Dual circulation** (双循环, shuāng xúnhuán), officially the "dual circulation development paradigm" (双循环发展格局, shuāng xúnhuán fāzhǎn géjú), represents China's strategic response to supply chain vulnerabilities revealed by U.S.-China competition. Announced by Xi Jinping in May 2020 and formalized in China's 14th Five-Year Plan (2021-2025), dual circulation calls for:
 
@@ -698,248 +625,35 @@ Supply chain dynamics evolve rapidly—policies change, new facilities open, tec
 
 The intersection of supply chains, technology, and geopolitics remains dynamic. Yesterday's analysis may be outdated by tomorrow's policy shift or technology breakthrough. Rigorous research requires combining multiple data sources, verifying claims across independent sources, and maintaining humility about uncertainties in rapidly changing domains.
 
+## Key Insights
+
+- **Strategic chokepoints require four converging conditions:** Geographic or corporate concentration, difficulty of substitution, criticality to downstream industries, and extended time to build alternatives must all be present for a supply chain dependency to create genuine coercive leverage. Ordinary trade dependencies (coffee, bananas) lack one or more of these characteristics and pose limited strategic risk.
+
+- **Chokepoints are products of policy, not just markets:** Semiconductor concentration in Taiwan, rare earth processing dominance in China, and pharmaceutical API offshoring all resulted from deliberate industrial policies, environmental externalization, and just-in-time optimization -- not inevitable market forces. This means reversing them requires comparable or greater government intervention, not simply market corrections.
+
+- **Taiwan's semiconductor dominance represents the most acute single-point-of-failure in the global economy:** TSMC manufactures roughly 90% of the world's most advanced chips, and no amount of near-term investment can replicate Taiwan's accumulated expertise, ecosystem lock-in, and scale advantages. The CHIPS Act will reduce absolute U.S. dependence but cannot eliminate Taiwan's centrality for at least a decade.
+
+- **China's supply chain leverage is concentrated in midstream processing, not mining:** China dominates the refining and processing of rare earths, lithium, cobalt, and graphite -- even when raw materials are extracted elsewhere. Diversifying mining sources alone is insufficient; building refining capacity is far more capital-intensive and environmentally challenging.
+
+- **Reshoring and friend-shoring involve painful and persistent trade-offs:** Rebuilding domestic semiconductor fabrication costs tens of billions and takes years to achieve meaningful scale. Manufacturing in the United States costs 30-50% more than in Taiwan or South Korea. No proposed fix -- reshoring, friend-shoring, diversification -- is costless or complete, and each creates its own political and economic complications.
+
+- **Export controls create a strategic calibration dilemma:** Restrictions that are too aggressive may accelerate Chinese determination to achieve self-sufficiency, eventually succeeding despite enormous cost. Restrictions that are too weak may fail to prevent parity. Calibrating denial to maintain dependence without provoking a crash indigenous development program is extraordinarily difficult.
+
+## Discussion Questions
+
+1. TSMC's dominance in advanced semiconductor fabrication creates what some analysts call a "silicon shield" for Taiwan -- the idea that the island's economic indispensability deters Chinese military aggression. Evaluate this argument. Does semiconductor dependence genuinely deter conflict, or could it motivate Beijing to seize the source of its vulnerability?
+
+2. The chapter identifies five factors that created contemporary supply chain chokepoints: comparative advantage, economies of scale, industrial policy, environmental externalization, and just-in-time optimization. Which of these factors presents the greatest obstacle to supply chain restructuring, and why?
+
+3. China's critical minerals processing dominance developed partly because Western countries regulated away environmentally damaging refining operations. Should the United States and Europe relax environmental standards to reshore mineral processing, or accept higher costs and slower timelines to maintain environmental protections? How should policymakers weigh these trade-offs?
+
+4. The CHIPS Act provides $52 billion for domestic semiconductor manufacturing, but TSMC's Arizona fabs will cost 30-50% more to operate than comparable facilities in Taiwan. Is this a sustainable model for supply chain security, or does it create permanent subsidy dependence? What happens when subsidies expire?
+
+5. Allied coordination on semiconductor export controls requires balancing U.S. security imperatives against the commercial interests of the Netherlands (ASML), Japan (Tokyo Electron), and South Korea (Samsung, SK Hynix). How should alliance managers handle cases where allies' economic losses from cooperation significantly exceed their perceived security benefits?
+
 ---
 
-
----
-
-## Tabletop Exercise: Semiconductor Chokepoint Crisis
-
-**Chapter:** 2 - Supply Chain Vulnerabilities and Dependencies
-
-**Duration:** 60-90 minutes
-
-**Learning Objectives:**
-- Analyze chokepoint vulnerabilities in global supply chains
-- Evaluate tools for supply chain resilience and diversification
-- Understand trade-offs between economic efficiency and strategic autonomy
-- Assess effectiveness of export controls and investment restrictions in protecting critical supply chains
-
-### Scenario Overview
-
-**Date: March 2027**
-
-A major earthquake measuring 7.8 on the Richter scale strikes central Taiwan, causing significant damage to infrastructure in Hsinchu Science Park, home to Taiwan Semiconductor Manufacturing Company (TSMC) and dozens of supporting firms. While TSMC's advanced fabs have earthquake protection, several critical facilities suffer damage that will take 4-6 months to fully repair. TSMC announces that production of advanced 3nm and 5nm chips will be reduced by approximately 40% for at least four months.
-
-Global markets react with panic. Within 48 hours, major automotive manufacturers announce production slowdowns due to anticipated chip shortages. Apple, NVIDIA, AMD, and Qualcomm stocks drop 15-20%. The White House receives urgent calls from industry leaders requesting government intervention.
-
-Simultaneously, intelligence reports indicate that China is considering using this crisis as a "window of opportunity" to pressure Taiwan, potentially by offering emergency semiconductor supplies in exchange for political concessions. Chinese state media emphasizes that "the reunification of the motherland would prevent such vulnerabilities."
-
-You are members of the National Economic Council and National Security Council convened to develop both immediate crisis response and longer-term supply chain resilience strategies.
-
-### Participant Roles
-
-**Director of National Economic Council (NEC)**
-- Responsibilities: Coordinate economic policy response, balance industry and security interests
-- Interests: Economic stability, minimizing disruption, long-term competitiveness
-- Constraints: Limited ability to quickly increase production, industry resistance to government direction
-
-**Deputy Secretary of Commerce**
-- Responsibilities: Export controls, domestic semiconductor policy, industry liaison
-- Interests: Supporting U.S. semiconductor industry, maintaining technology leadership
-- Constraints: CHIPS Act funding already allocated, limited leverage over private firms
-
-**Deputy Secretary of Defense**
-- Responsibilities: Defense industrial base, military systems dependent on advanced chips
-- Interests: Ensuring military access to cutting-edge semiconductors, preventing Chinese advantage
-- Constraints: Defense programs face multi-year delays if chip supplies interrupted
-
-**Deputy Secretary of State**
-- Responsibilities: Diplomatic coordination with Taiwan, allies, and China
-- Interests: Supporting Taiwan, managing China relations, allied coordination
-- Constraints: Taiwan is sovereign in semiconductor decisions, allies have competing interests
-
-**Deputy Secretary of Treasury**
-- Responsibilities: Market stability, economic impact assessment, sanctions if needed
-- Interests: Preventing market panic, maintaining economic growth
-- Constraints: Cannot directly control private markets, fiscal limits on subsidies
-
-**CEO Representative (Private Sector Advisor)**
-- Responsibilities: Represent major tech firms dependent on TSMC supply
-- Interests: Restoring chip supply, protecting market position, avoiding government overreach
-- Constraints: No authority over TSMC, competitive pressures, shareholder accountability
-
-### Timeline and Injects
-
-### Phase 1: Immediate Crisis (Minutes 0-20)
-
-**Inject 1: Supply Chain Assessment**
-
-Initial assessments indicate:
-- Apple: 60% of advanced chips sourced from damaged facilities; iPhone production at risk
-- Auto industry: Already fragile chip supplies; this will force plant closures within weeks
-- Defense contractors: Weapons systems requiring advanced chips face delays
-- Data center operators: AI chip shortages will slow cloud infrastructure expansion
-
-TSMC requests U.S. assistance with specialized equipment and materials to accelerate repairs. Japanese and Dutch lithography equipment manufacturers are offering expedited support, but Chinese firms are offering immediate alternative production capacity at older nodes.
-
-**Key Questions:**
-1. What immediate steps should the U.S. government take to manage the crisis: emergency CHIPS Act funding, Defense Production Act authorities, diplomatic coordination?
-2. Should the U.S. encourage or discourage firms from using Chinese alternative production capacity?
-3. How do you balance market forces (allowing firms to source chips wherever available) against security concerns (preventing Chinese leverage over U.S. tech industry)?
-
-### Phase 2: Chinese Pressure and Allied Divergence (Minutes 20-45)
-
-**Inject 2: China's Strategic Offer**
-
-China's government announces an emergency program offering to prioritize semiconductor production for "Chinese and friendly markets" to compensate for Taiwan's disruption. Chinese state-owned firms contact major U.S. tech companies offering guaranteed chip supplies for the next 12 months at favorable prices.
-
-Taiwan's government reports that Beijing has quietly communicated that "unnecessary tensions and provocations" could affect China's willingness to provide economic assistance during Taiwan's recovery. Intelligence suggests China may be preparing to restrict rare earth exports needed for semiconductor manufacturing as additional leverage.
-
-**Inject 3: Allied Semiconductor Competition**
-
-- **South Korea:** Samsung announces major production expansion but prioritizes Korean and European customers; hints that U.S. export control cooperation depends on preferential access
-- **Japan:** Willing to expedite equipment to Taiwan but requests U.S. reconsider restrictions on Japanese firms selling to Chinese customers
-- **EU:** Announces €20 billion emergency semiconductor fund; Commissioner publicly criticizes U.S. "America First" semiconductor policy
-
-**Key Questions:**
-1. How do you prevent Chinese economic leverage over U.S. firms without driving them to bankruptcy?
-2. What incentives or requirements should accompany any government assistance to industry?
-3. How do you coordinate with allies who have competing semiconductor ambitions?
-
-### Phase 3: Long-Term Strategy Decision (Minutes 45-70)
-
-**Inject 4: Strategic Choices**
-
-Intelligence assessment projects:
-- TSMC Taiwan recovery: 4-6 months to 80% capacity, 12-18 months to full capacity
-- China accelerating indigenous semiconductor development; may achieve 7nm production within 2 years
-- U.S. domestic fab construction (CHIPS Act funded): Still 2-3 years from volume production
-
-Industry coalition proposes:
-1. $50 billion emergency fund for domestic fab acceleration
-2. Waiver of certain environmental reviews to speed construction
-3. Government-backed insurance for semiconductor supply disruptions
-4. Relaxation of export controls to allow U.S. firms to maintain Chinese market share
-
-National security team proposes:
-1. Mandatory supply chain diversification requirements for critical industries
-2. Stricter export controls to prevent any advanced technology reaching China
-3. Strategic reserve of critical semiconductors (similar to oil reserve)
-4. Accelerated TSMC Arizona production even at higher costs
-
-**Inject 5: Taiwan Vulnerability**
-
-Taiwan's president publicly states that the earthquake demonstrates the need for international support for Taiwan's security, linking semiconductor supply reliability to Taiwan's political status. This draws sharp Chinese condemnation and veiled military threats.
-
-U.S. firms express concern that overly politicizing semiconductors will damage business relationships and innovation ecosystems. Some suggest the U.S. should separate economic and security issues to maintain industry competitiveness.
-
-**Decision Required:** Recommendations for:
-1. Immediate crisis mitigation (0-6 months)
-2. Medium-term resilience building (1-3 years)
-3. Long-term supply chain restructuring (3-10 years)
-4. Policy toward China's semiconductor industry and firms using Chinese capacity
-5. Allied coordination and burden-sharing
-
-**Key Questions:**
-1. How much economic inefficiency and cost is acceptable to achieve supply chain security?
-2. Should the government mandate private sector behavior (e.g., prohibit using Chinese chips) or rely on incentives?
-3. What is the right balance between allied diversification (Europe, Japan, Korea) and domestic reshoring?
-4. How do you handle the tension between maintaining U.S. semiconductor competitiveness and denying China access to advanced technology?
-
-### Phase 4: Debrief and Analysis (Minutes 70-90)
-
-**Discussion Questions:**
-
-1. **Chokepoint Vulnerability:** What made Taiwan semiconductors such a critical chokepoint? Could this vulnerability have been reduced through prior policy choices?
-
-2. **Resilience vs. Efficiency:** How did you balance the economic costs of diversification/reshoring against security benefits? What metrics should guide this trade-off?
-
-3. **Private Sector Coordination:** How did you align private sector incentives (profitability, market share) with national security objectives? Were mandates or incentives more effective?
-
-4. **Allied Coordination:** Why is coordinating semiconductor policy among allies difficult? How did you structure burden-sharing?
-
-5. **China Strategic Leverage:** How did you prevent China from using the crisis to gain leverage over Taiwan or U.S. firms? Did your approach reduce or increase long-term Chinese leverage?
-
-6. **Unintended Consequences:** What second-order effects might your policies create:
-   - Impact on U.S. tech industry innovation and competitiveness
-   - Chinese response (accelerated self-reliance, retaliation)
-   - Allied relations and trust
-   - Global semiconductor market structure
-
-7. **Timeframe Mismatches:** How did you manage the gap between immediate needs (chips now), medium-term buildout (2-3 years), and long-term restructuring (5-10 years)?
-
-### Background Materials
-
-**Key Authorities:**
-- CHIPS and Science Act of 2022, Pub. L. 117-167
-- Defense Production Act, 50 U.S.C. § 4501 et seq.
-- Export Control Reform Act (ECRA), 50 U.S.C. § 4811 et seq.
-- Foreign Direct Product Rule (FDPR) for semiconductors
-
-**Supply Chain Data:**
-- Taiwan market share: ~60% global semiconductor foundry capacity, 90% most advanced chips
-- U.S. dependencies: ~75% of U.S. semiconductor purchases from Asia
-- Defense systems: F-35, satellite systems, missile guidance all require advanced chips
-- China market: ~35% of global semiconductor consumption
-- Leading-edge fabs: TSMC (Taiwan), Samsung (Korea), Intel (U.S.)
-
-**Economic Impact:**
-- Semiconductor industry: $600 billion annually
-- Dependent industries: $8 trillion+ (electronics, auto, aerospace, medical devices)
-- 2021 chip shortage: Estimated $240 billion in lost auto industry revenue
-- Average fab construction time: 3-5 years, $10-20 billion cost
-
-**Recent Precedents:**
-- 2021-2022 global chip shortage following COVID-19 disruptions
-- October 2022 U.S. semiconductor export controls on China
-- CHIPS Act $52 billion in subsidies for domestic semiconductor production
-- TSMC Arizona fab construction (2024-2025 target for production)
-
-### Facilitator Notes
-
-**Setup:**
-- Have participants review semiconductor supply chain basics before exercise
-- Provide simple map showing global semiconductor production nodes
-- Consider inviting private sector guest to play CEO role for added realism
-
-**Time Management:**
-- Phase 1: Focus on immediate triage; prevent lengthy technical discussions
-- Phase 2: Emphasize difficult choices between security and competitiveness
-- Phase 3: Force specific recommendations with timelines and resource allocations
-- Phase 4: Extract generalizable lessons about chokepoint vulnerabilities
-
-**Common Pitfalls:**
-- Assuming domestic production can quickly replace Taiwan (it cannot)
-- Underestimating costs of supply chain restructuring ($100s of billions, many years)
-- Treating "allied coordination" as automatic (allies have competing interests)
-- Neglecting innovation impacts of restricting global collaboration
-
-**Extension Options:**
-- Add China military pressure on Taiwan during crisis
-- Include second natural disaster (e.g., drought affecting Taiwan fab water supply)
-- Simulate industry resistance to government mandates (strikes, lawsuits)
-- Add congressional hearing where participants must defend their choices
-
-### Learning Outcomes
-
-After completing this exercise, participants should be able to:
-
-1. **Identify chokepoint vulnerabilities** in complex supply chains and assess systemic risks
-
-2. **Evaluate resilience strategies** including diversification, reshoring, stockpiling, and redundancy
-
-3. **Balance competing objectives** of economic efficiency, national security, allied coordination, and industry competitiveness
-
-4. **Understand limitations** of government tools to rapidly restructure global supply chains
-
-5. **Assess long-term strategic** implications of supply chain policy for U.S.-China competition and allied relationships
-
-### Further Reading
-
-**On Semiconductor Supply Chains:**
-- Khan, Saif M., et al. "The Semiconductor Supply Chain: Assessing National Competitiveness." CSET, 2021
-- Miller, Chris. "Chip War: The Fight for the World's Most Critical Technology." Scribner, 2022
-
-**On Supply Chain Resilience:**
-- Bown, Chad P. "How the United States Marched the Semiconductor Industry into Its Trade War with China." PIIE, 2020
-- Scissors, Derek. "Partial Decoupling from China." AEI, 2020
-
-**Policy Documents:**
-- CHIPS and Science Act: https://www.congress.gov/bill/117th-congress/house-bill/4346
-- Semiconductor export controls: https://www.bis.doc.gov/index.php/policy-guidance/product-guidance/semiconductors
-- National Security Strategy on critical supply chains: https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/08/fact-sheet-biden-harris-administration-announces-supply-chain-disruptions-task-force-to-address-short-term-supply-chain-discontinuities/
-
+> **Tabletop Exercise:** The tabletop exercise for this chapter — *Semiconductor Chokepoint Crisis* — can be found in **Appendix A: Tabletop Exercises**.
 
 ---
 
@@ -1018,3 +732,5 @@ TSMC. Annual Reports. Available at tsmc.com/english/investorRelations.
 - *Nature Materials*, *Science*, *Nature Energy* - Cutting-edge research on battery technology, materials science, substitution research
 
 ---
+
+

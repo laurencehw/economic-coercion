@@ -658,7 +658,7 @@ For countries like South Korea, ASEAN states, and others with high China trade d
 
 ## Chinese Perspective Box: Industrial Policy, SOEs, and Reciprocity
 
-*This perspective box presents Chinese government and elite viewpoints on investment screening, industrial policy, state-owned enterprises, and informal coercion. Understanding these perspectives is essential for strategic empathy—recognizing how policies appear from Chinese vantage point, even while maintaining Western analytical frameworks.*
+*This perspective box presents Chinese government and elite viewpoints on investment screening, industrial policy, state-owned enterprises, and informal coercion. These perspectives show how policies appear from China's vantage point, even as we maintain Western analytical frameworks.*
 
 **Industrial Policy as Legitimate Development Tool (产业政策, chǎnyè zhèngcè)**
 

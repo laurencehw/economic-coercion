@@ -39,7 +39,7 @@ These four characteristics—concentration, difficulty of substitution, critical
 
 ### Mapping Critical Chokepoints
 
-Armed with a framework for identifying chokepoints, we can now map the most strategically significant concentrations in global supply chains. While comprehensive supply chain mapping is beyond the scope of any single chapter (the Biden administration's 100-day supply chain review produced hundreds of pages on just four sectors (White House 2021)), several concentrations stand out for their scale, strategic importance, and centrality to U.S.-China competition.
+Comprehensive supply chain mapping is beyond the scope of any single chapter—the Biden administration's 100-day supply chain review produced hundreds of pages on just four sectors (White House 2021)—but several concentrations stand out for their scale, strategic importance, and centrality to U.S.-China competition.
 
 **Semiconductors** represent the most consequential chokepoint in the global economy. The semiconductor supply chain is a marvel of specialization: design happens primarily in the United States (Intel, AMD, Nvidia, Qualcomm, Apple), Europe (ARM), and increasingly China (Huawei's HiSilicon before U.S. sanctions); electronic design automation (EDA) software that makes chip design possible comes exclusively from three American companies (Synopsys, Cadence, Mentor Graphics/Siemens); manufacturing equipment comes from the U.S. (Applied Materials, Lam Research, KLA), the Netherlands (ASML with monopoly on EUV lithography), and Japan (Tokyo Electron, Screen Holdings); and fabrication is dominated by Taiwan (TSMC with 54% of the foundry market and approximately 90% of advanced chips), South Korea (Samsung, SK Hynix with strength in memory chips), and the U.S. (Intel, though struggling in recent years). China remains weak in fabrication, producing less than 10% of global chips and predominantly at mature technology nodes (28 nanometers and above), despite massive investments through the Big Fund (大基金) industrial policy initiative exceeding $100 billion.
 
@@ -62,7 +62,9 @@ Beyond rare earths, China's dominance extends to other minerals critical for the
 {% hint style="info" %}
 **China's Processing Dominance: The Midstream Chokepoint**
 China's critical minerals leverage stems primarily from processing dominance rather than mining. Even when raw materials are extracted in Australia, Chile, or the DRC, they typically flow to Chinese refineries for processing into battery-grade materials. This midstream control means that diversifying mining sources alone is insufficient—countries seeking supply chain security must also build refining and processing capacity, a far more capital-intensive and environmentally challenging undertaking.
-{% endhint %} This positioning reflects deliberate industrial policy identifying critical mineral processing as a strategic sector worthy of state support, combined with willingness to tolerate environmental costs that Western nations regulated away.
+{% endhint %}
+
+This positioning reflects deliberate industrial policy identifying critical mineral processing as a strategic sector worthy of state support, combined with willingness to tolerate environmental costs that Western nations regulated away.
 
 **Pharmaceutical ingredients** constitute a third critical chokepoint, one dramatically exposed by the COVID-19 pandemic. China and India together supply approximately 80% of active pharmaceutical ingredients (APIs) used in U.S. medications (White House 2021). China is particularly dominant in antibiotics—roughly 90% of antibiotics used in the United States depend on precursors manufactured in China. For some generic drugs, dependence approaches 100%. This concentration developed gradually as American and European pharmaceutical companies pursued cost savings by offshoring API production to countries with lower labor costs and less stringent environmental regulations. The process accelerated after India and China joined the World Trade Organization, enabling easier global trade in pharmaceutical products.
 
@@ -107,7 +109,7 @@ The logic was economically rational in stable geopolitical environments. Why pay
 
 The COVID-19 pandemic shattered assumptions underlying just-in-time optimization. When demand surged and borders closed, the absence of redundancy and inventory buffers created cascading shortages. The lesson—that efficiency and resilience can conflict—now drives reshoring debates. But translating this lesson into policy requires addressing the economic incentives that created concentrated supply chains in the first place, either through regulatory requirements (mandating redundancy despite costs) or subsidies (compensating firms for maintaining less efficient but more resilient supply chains). Both approaches face political and economic headwinds.
 
-Understanding these five factors—comparative advantage, economies of scale, industrial policy, environmental externalization, and just-in-time optimization—reveals why supply chain restructuring is so challenging. Chokepoints did not emerge randomly or through temporary distortions. They reflect deep structural forces, deliberate government strategies, and decades of accumulated advantages. Unwinding them requires confronting these root causes, not just providing one-time subsidies or imposing temporary restrictions. The next sections examine specific chokepoints in detail, beginning with semiconductors—the most strategically consequential dependency in the global economy.
+These five factors—comparative advantage, economies of scale, industrial policy, environmental externalization, and just-in-time optimization—explain why supply chain restructuring is so challenging. Chokepoints did not emerge randomly or through temporary distortions. They reflect deep structural forces, deliberate government strategies, and decades of accumulated advantages. Unwinding them requires confronting these root causes, not just providing one-time subsidies or imposing temporary restrictions.
 
 ---
 
@@ -166,7 +168,7 @@ This vulnerability explains U.S. efforts to constrain China's indigenous semicon
 
 But this strategy faces its own vulnerabilities. If U.S. controls are too aggressive, they may accelerate Chinese determination to achieve semiconductor self-sufficiency regardless of cost—and given sufficient time (potentially a decade or more) and resources (tens or hundreds of billions), China may succeed in developing at least mid-range capabilities even without foreign equipment access. If controls are too weak, they may fail to prevent China from reaching parity, eliminating the dependence that protects Taiwan. The challenge is calibrating restrictions to maintain Chinese dependence without provoking a crash program at self-sufficiency that might eventually succeed. This calibration is extraordinarily difficult, involves substantial uncertainty, and must account for Chinese perspectives examined later in this chapter.
 
-### 2.3 U.S. and Chinese Strategies
+### U.S. and Chinese Strategies
 
 Both the United States and China recognize semiconductor dependence as a critical vulnerability and have launched ambitious programs to address it—though with different objectives, constraints, and prospects for success.
 
