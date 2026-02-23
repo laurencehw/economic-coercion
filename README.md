@@ -40,7 +40,10 @@ Each chapter includes:
 ## Repository Structure
 
 ```
-chapters/           Main chapter content (Markdown)
+gitbook/            Canonical publishing source (chapters, front matter, summary, styles)
+gitbook/chapters/   Canonical chapter content (Markdown)
+gitbook/front_matter/ Canonical preface, glossary, bibliography
+chapters/           Legacy mirror (archival/generated; do not edit directly)
 figures/            Data visualizations (PNG + PDF)
 R/                  R scripts for figure generation
 data/               Datasets and sources
@@ -48,6 +51,11 @@ exercises/          Tabletop exercises by chapter
 front_matter/       Preface, glossary, bibliography
 templates/          Chapter and content templates
 ```
+
+## Source of Truth
+
+- Edit book content in `gitbook/chapters/` and `gitbook/front_matter/`.
+- Treat `chapters/` as a legacy mirror for archival/backward compatibility workflows.
 
 ## Building
 

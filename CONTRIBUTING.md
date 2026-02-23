@@ -4,6 +4,11 @@ This is primarily a single-author academic project, but feedback, corrections, a
 
 ## How to Contribute
 
+### Canonical Content Paths
+
+- Canonical manuscript content lives in `gitbook/chapters/` and `gitbook/front_matter/`.
+- `chapters/` is a legacy mirror and should not be edited directly for new content.
+
 ### Reporting Issues
 
 Open a GitHub Issue for:

@@ -38,6 +38,7 @@ docs/
 # Build scripts and templates
 *.ps1
 *.latex
+!scripts/qa_gitbook_content.ps1
 
 # Old Python figure scripts (migrated to R)
 figures/*.py

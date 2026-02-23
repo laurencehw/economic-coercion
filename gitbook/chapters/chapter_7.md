@@ -25,7 +25,7 @@ Financial sanctions' effectiveness derives from the U.S. dollar's dominant posit
 ### The Dollar's Privileged Position
 
 <figure class="book-figure">
-  <img src="../../figures/fig_07_03_treasury_holdings.png" alt="Foreign holdings of U.S. Treasury securities by country, showing the scale of dollar-denominated asset accumulation.">
+  <img src="../figures/fig_07_03_treasury_holdings.png" alt="Foreign holdings of U.S. Treasury securities by country, showing the scale of dollar-denominated asset accumulation.">
   <figcaption>Figure 7.3: Foreign holdings of U.S. Treasury securities by country, showing the scale of dollar-denominated asset accumulation.</figcaption>
 </figure>
 
@@ -83,7 +83,7 @@ Approximately $13 trillion in non-U.S. dollar-denominated debt exists (2024) (BI
 **Society for Worldwide Interbank Financial Telecommunication (SWIFT)**
 
 <figure class="book-figure">
-  <img src="../../figures/fig_07_01_swift_currencies.png" alt="Currency share of global payments via SWIFT, demonstrating dollar and euro dominance in international transactions.">
+  <img src="../figures/fig_07_01_swift_currencies.png" alt="Currency share of global payments via SWIFT, demonstrating dollar and euro dominance in international transactions.">
   <figcaption>Figure 7.1: Currency share of global payments via SWIFT, demonstrating dollar and euro dominance in international transactions.</figcaption>
 </figure>
 
@@ -273,7 +273,7 @@ When UN Security Council adopts sanctions resolutions (e.g., North Korea, Iran h
 ### Types of Sanctions Programs
 
 <figure class="book-figure">
-  <img src="../../figures/fig_07_02_sanctions_programs.png" alt="Active U.S. sanctions programs by type, showing the growth of comprehensive and targeted sanctions over time.">
+  <img src="../figures/fig_07_02_sanctions_programs.png" alt="Active U.S. sanctions programs by type, showing the growth of comprehensive and targeted sanctions over time.">
   <figcaption>Figure 7.2: Active U.S. sanctions programs by type, showing the growth of comprehensive and targeted sanctions over time.</figcaption>
 </figure>
 
@@ -653,7 +653,7 @@ Aggressive U.S. use of financial sanctions—particularly freezing Russia's cent
 **Sanctions Vulnerability**
 
 <figure class="book-figure">
-  <img src="../../figures/fig_07_04_russian_frozen_assets.png" alt="Russian central bank assets frozen in 2022, showing the geographic distribution of $300+ billion in immobilized reserves.">
+  <img src="../figures/fig_07_04_russian_frozen_assets.png" alt="Russian central bank assets frozen in 2022, showing the geographic distribution of $300+ billion in immobilized reserves.">
   <figcaption>Figure 7.4: Russian central bank assets frozen in 2022, showing the geographic distribution of $300+ billion in immobilized reserves.</figcaption>
 </figure>
 
@@ -1193,6 +1193,23 @@ The Global South perspective suggests several strategic considerations:
 5. **The "coalitions of the aggrieved" are real**: When 101 countries identify as "new neutrals" and BRICS+ membership applications multiply, this represents not a conspiracy against the dollar but a market signal: the political cost of dollar weaponization is rising. Prudent strategy would seek to lower this cost rather than dismiss the signal
 
 Global South perspectives on financial sanctions are neither uniformly hostile nor uniformly coherent. They range from India's pragmatic hedging to Iran's ideological opposition to Brazil's principled multilateralism. What unites them is a shared conviction that the international financial architecture should serve all participants, not function as a coercive instrument of any single power — and an increasing willingness to build alternatives when it does.
+
+---
+
+## Data Sources and Further Research
+
+### Financial Infrastructure and Sanctions Data
+
+- U.S. Department of the Treasury (OFAC): sanctions program listings, SDN updates, and enforcement actions
+- SWIFT RMB Tracker: currency shares in international payment messaging
+- IMF COFER database: reserve currency composition over time
+- BIS and ECB statistical releases: cross-border banking and payment trends
+
+### Case Documentation
+
+- U.S. Treasury and G7 announcements on Russia-related financial measures (2022-present)
+- National sanctions authorities (EU, UK, Canada, Japan) for coordinated program design and implementation details
+- Major central bank publications (PBOC, RBI, ECB, Bank of Russia) for de-dollarization and reserve management signals
 
 ---
 

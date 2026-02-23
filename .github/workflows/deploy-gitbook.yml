@@ -8,9 +8,8 @@ on:
       - master
     paths:
       - 'gitbook/**'
-      - 'chapters/**'
-      - 'appendices/**'
       - 'figures/**'
+      - 'scripts/qa_gitbook_content.ps1'
       - '.github/workflows/deploy-gitbook.yml'
   workflow_dispatch:
 
@@ -59,37 +58,10 @@ jobs:
             echo "Warning: No figures found to copy"
           fi
 
-      - name: Copy chapters to GitBook
+      - name: Run content QA checks
+        shell: pwsh
         run: |
-          mkdir -p gitbook/chapters
-          copied=0
-          if [ -d "chapters" ]; then
-            for dir in chapters/ch*/; do
-              [ -d "$dir" ] || continue
-              chapter_name=$(basename "$dir")
-              # POSIX-compliant: use sed instead of grep -oP
-              chapter_num=$(printf '%s\n' "$chapter_name" | sed 's/[^0-9]//g')
-              src_file="$dir/chapter_${chapter_num}.md"
-              if [ -f "$src_file" ]; then
-                cp "$src_file" "gitbook/chapters/"
-                copied=$((copied + 1))
-              fi
-            done
-          fi
-          echo "Copied $copied chapter files to gitbook/chapters/"
-          if [ "$copied" -eq 0 ]; then
-            echo "Warning: No chapter files were copied"
-          fi
-
-      - name: Copy appendices to GitBook
-        run: |
-          mkdir -p gitbook/appendices
-          if [ -d "appendices" ] && [ "$(ls -A appendices 2>/dev/null)" ]; then
-            cp -r appendices/* gitbook/appendices/
-            echo "Copied $(ls appendices | wc -l) appendix files to gitbook/appendices/"
-          else
-            echo "Warning: No appendix files found to copy"
-          fi
+          ./scripts/qa_gitbook_content.ps1
 
       - name: Build GitBook
         working-directory: ./gitbook

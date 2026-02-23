@@ -19,7 +19,7 @@ Government Tools Boxes detail CFIUS procedures, FIRRMA expansion, and industrial
 These themes reveal economic statecraft's evolution beyond traditional trade and financial tools. Capital flows, industrial capabilities, and even market access have become contested domains—with implications extending well beyond bilateral U.S.-China competition to allied policy coordination, development finance, and the future shape of globalization.
 
 <figure class="book-figure">
-  <img src="../../figures/fig_08_01_bri_infrastructure.png" alt="Key Belt and Road Initiative infrastructure investments. Port investments (blue) extend Chinese maritime presence; rail projects (red) create overland connectivity; corridor investments (orange) integrate regional economies. Size indicates investment scale in USD billions.">
+  <img src="../figures/fig_08_01_bri_infrastructure.png" alt="Key Belt and Road Initiative infrastructure investments. Port investments (blue) extend Chinese maritime presence; rail projects (red) create overland connectivity; corridor investments (orange) integrate regional economies. Size indicates investment scale in USD billions.">
   <figcaption>Figure 8.1: Key Belt and Road Initiative infrastructure investments. Port investments (blue) extend Chinese maritime presence; rail projects (red) create overland connectivity; corridor investments (orange) integrate regional economies. Size indicates investment scale in USD billions.</figcaption>
 </figure>
 
@@ -124,7 +124,7 @@ FIRRMA authorized increased CFIUS staffing and funding (from ~20 full-time emplo
 ### Impact on Chinese Investment: Near-Total Collapse
 
 <figure class="book-figure">
-  <img src="../../figures/fig_08_02_chinese_fdi.png" alt="Chinese foreign direct investment in U.S. and Europe from 2008-2024, showing the dramatic collapse after FIRRMA.">
+  <img src="../figures/fig_08_02_chinese_fdi.png" alt="Chinese foreign direct investment in U.S. and Europe from 2008-2024, showing the dramatic collapse after FIRRMA.">
   <figcaption>Figure 8.2: Chinese foreign direct investment in U.S. and Europe from 2008-2024, showing the dramatic collapse after FIRRMA.</figcaption>
 </figure>
 
@@ -388,7 +388,7 @@ The **results** of these investments have been mixed. The Chinese semiconductor 
 ### Comparing Approaches: Market-Driven vs. State-Directed
 
 <figure class="book-figure">
-  <img src="../../figures/fig_08_03_industrial_policy.png" alt="Industrial policy spending comparison between the U.S. and China across key technology sectors.">
+  <img src="../figures/fig_08_03_industrial_policy.png" alt="Industrial policy spending comparison between the U.S. and China across key technology sectors.">
   <figcaption>Figure 8.3: Industrial policy spending comparison between the U.S. and China across key technology sectors.</figcaption>
 </figure>
 
@@ -1154,7 +1154,7 @@ The case is particularly instructive for this chapter's themes because it illust
 
 4. U.S. Congress, CHIPS and Science Act of 2022, Public Law 117-167.
 
-5. BIOSECURE Act, Section 851 of the National Defense Authorization Act for Fiscal Year 2026, Pub. L. No. 119-XXX (December 18, 2025); originally H.R. 8333, 118th Congress (2024).
+5. BIOSECURE Act, Section 851 of the National Defense Authorization Act for Fiscal Year 2026 (December 18, 2025); originally H.R. 8333, 118th Congress (2024).
 
 6. Australian Bureau of Statistics, "International Trade in Goods and Services," various releases 2020-2024.
 

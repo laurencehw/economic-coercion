@@ -141,7 +141,7 @@ American policymakers embraced a theory of transformative engagement: integratin
 China's accession to the World Trade Organization in 2001 accelerated integration dramatically. Trade between the US and China grew from $116 billion in 2000 to over $560 billion by 2008 (U.S. Census Bureau). American companies invested heavily in Chinese manufacturing, taking advantage of low labor costs and increasingly sophisticated supply chains. China became "the world's factory," integral to global production networks for electronics, apparel, machinery, and countless other goods. The relationship appeared to validate the liberal assumption that economic interdependence promotes cooperation.
 
 <figure class="book-figure">
-  <img src="../../figures/fig_01_02_us_china_trade.png" alt="US-China Trade Volume and Key Events (2000-2024)">
+  <img src="../figures/fig_01_02_us_china_trade.png" alt="US-China Trade Volume and Key Events (2000-2024)">
   <figcaption>Figure 1.2: US-China Trade Volume and Key Events (2000-2024)</figcaption>
 </figure>
 
@@ -168,7 +168,7 @@ The Trump administration's arrival in 2017 marked a decisive shift from engageme
 Economic statecraft became the primary domain of competition. The Trump administration imposed sweeping tariffs on Chinese goods (eventually covering roughly $370 billion in imports), justified partly on trade grounds (reducing the bilateral deficit) but increasingly on strategic grounds (protecting American technology, reducing dependencies). China retaliated with tariffs on American agricultural products and industrial goods. The "trade war" of 2018-2019 demonstrated both sides' willingness to impose substantial economic costs in pursuit of strategic objectives.
 
 <figure class="book-figure">
-  <img src="../../figures/fig_01_04_timeline.png" alt="Timeline of Major Economic Coercion Events">
+  <img src="../figures/fig_01_04_timeline.png" alt="Timeline of Major Economic Coercion Events">
   <figcaption>Figure 1.4: Timeline of Major Economic Coercion Events</figcaption>
 </figure>
 
@@ -225,7 +225,7 @@ The competition is likely to persist regardless of which parties govern in Washi
 Analyzing specific instances of economic coercion requires systematic analytical tools. This framework, applied throughout subsequent chapters, organizes analysis across four dimensions: **domain**, **target**, **objective**, and **intensity**.
 
 <figure class="book-figure">
-  <img src="../../figures/fig_01_01_framework.png" alt="Conceptual Framework for Analyzing Economic Coercion">
+  <img src="../figures/fig_01_01_framework.png" alt="Conceptual Framework for Analyzing Economic Coercion">
   <figcaption>Figure 1.1: Conceptual Framework for Analyzing Economic Coercion</figcaption>
 </figure>
 
