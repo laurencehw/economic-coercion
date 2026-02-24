@@ -38,6 +38,8 @@ These chapters examine the specific tools governments use to exercise economic c
 
 Chapter 9 examines historical cases of economic coercion to extract lessons about what works, what doesn't, and why. Cases range from Cold War-era grain embargoes to contemporary sanctions on Iran, North Korea, and Russia. Chapter 10 looks forward, considering how emerging technologies, climate change, and shifting power dynamics will shape the future of economic coercion and geoeconomic competition.
 
+**Appendix A: Tabletop Exercises** collects ten scenario-based simulation exercises (one per chapter) in a standalone appendix, providing 60-90 minute active learning experiences that can be used flexibly alongside any chapter.
+
 ## How to Use This Book
 
 **For Instructors:**
