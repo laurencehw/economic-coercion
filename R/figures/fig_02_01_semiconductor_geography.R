@@ -92,6 +92,19 @@ semi_locations <- tibble(
 # Create sf object
 semi_sf <- st_as_sf(semi_locations, coords = c("lon", "lat"), crs = 4326)
 
+# Focus labels on the most strategic chokepoints to keep text readable in book layout.
+label_points <- semi_sf %>%
+  filter(name %in% c(
+    "TSMC Hsinchu",
+    "Samsung Pyeongtaek",
+    "ASML Veldhoven",
+    "Tokyo Electron",
+    "SMIC Shanghai"
+  )) %>%
+  mutate(
+    label = c("TSMC", "Samsung", "ASML", "TEL", "SMIC")
+  )
+
 # ============================================================================
 # 2. CREATE TMAP VISUALIZATION
 # ============================================================================
@@ -108,8 +121,8 @@ type_colors <- c(
   "Expansion" = "#17becf"
 )
 
-# Create the map - focus on key regions
-map <- tm_shape(world, bbox = c(-130, 10, 145, 60)) +
+# Create the map - focus on key regions where chokepoints are concentrated.
+map <- tm_shape(world, bbox = c(-130, 18, 145, 60)) +
   tm_polygons(
     fill = "#e8e8e8",
     col = "white",
@@ -127,7 +140,7 @@ map <- tm_shape(world, bbox = c(-130, 10, 145, 60)) +
   # Semiconductor locations
   tm_shape(semi_sf) +
   tm_symbols(
-    size = 1,
+    size = 0.9,
     fill = "type",
     fill.scale = tm_scale_categorical(values = type_colors),
     fill.legend = tm_legend(title = "Facility Type"),
@@ -143,54 +156,47 @@ map <- tm_shape(world, bbox = c(-130, 10, 145, 60)) +
     fill = NA,
     col = "#d62728",
     shape = 1,
-    lwd = 2
+    lwd = 1.8
   ) +
 
-  # Labels for key facilities
-  tm_shape(semi_sf %>% filter(type %in% c("Leading Fab", "Equipment") | name %in% c("SMIC Shanghai"))) +
+  # Labels for a small set of strategic nodes.
+  tm_shape(label_points) +
   tm_text(
-    text = "company",
-    size = 0.5,
+    text = "label",
+    size = 0.7,
     col = "black",
     fontface = "bold",
-    ymod = 1.2,
+    xmod = 0.35,
+    ymod = 0.9,
     bg.color = "white",
-    bg.alpha = 0.7
-  ) +
-
-  # Cartographic elements
-  tm_scalebar(
-    position = c("left", "bottom"),
-    text.size = 0.5,
-    breaks = c(0, 2000, 4000)
-  ) +
-
-  tm_compass(
-    position = c("right", "top"),
-    size = 1.2
+    bg.alpha = 0.85
   ) +
 
   # Layout
   tm_title("Semiconductor Supply Chain: Critical Chokepoints") +
 
   tm_layout(
-    main.title.size = 1.1,
+    main.title.size = 1.2,
     main.title.fontface = "bold",
     bg.color = "#d4e8f7",
     frame = TRUE,
     frame.lwd = 1,
-    legend.outside = TRUE,
-    legend.outside.position = "right",
-    legend.frame = FALSE,
+    legend.outside = FALSE,
+    legend.position = c("left", "top"),
+    legend.frame = TRUE,
     legend.bg.color = "white",
-    legend.bg.alpha = 0.8,
-    attr.outside = TRUE
+    legend.bg.alpha = 0.9,
+    legend.title.size = 0.9,
+    legend.text.size = 0.8,
+    attr.outside = TRUE,
+    attr.position = c("left", "bottom"),
+    inner.margins = c(0.04, 0.02, 0.06, 0.02)
   ) +
 
   tm_credits(
-    "Source: SIA, TechInsights, Company Reports (2024)\nRed circles indicate critical chokepoint facilities",
+    "Source: SIA, TechInsights, Company Reports (2024)  |  Red rings indicate critical chokepoints",
     position = c("left", "bottom"),
-    size = 0.5
+    size = 0.62
   )
 
 # ============================================================================
@@ -200,16 +206,16 @@ map <- tm_shape(world, bbox = c(-130, 10, 145, 60)) +
 tmap_save(
   map,
   filename = here("figures", "fig_02_01_semiconductor_geography.png"),
-  width = 14,
-  height = 8,
+  width = 15,
+  height = 6,
   dpi = 300
 )
 
 tmap_save(
   map,
   filename = here("figures", "fig_02_01_semiconductor_geography.pdf"),
-  width = 14,
-  height = 8
+  width = 15,
+  height = 6
 )
 
 cat("\nFigure 2.1: Semiconductor Geography map created successfully!\n")
