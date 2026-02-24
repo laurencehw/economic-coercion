@@ -98,15 +98,21 @@ In exchange:
 
 COVID-19 pandemic derailed implementation. China purchased only 58% of committed goods in 2020 and 71% over 2020-2021 combined—a $140 billion shortfall (Bown 2022). Neither side invoked enforcement provisions, effectively rendering the agreement dormant by 2022.
 
-**Phase 4: Biden Continuity and Expansion (2021-early 2026)**
+**Phase 4: Biden Continuity and Expansion (2021-2024)**
 
-The Biden administration conducted a Section 301 tariff review in 2021-2022, maintained nearly all Trump-era tariffs, and then implemented targeted escalations and administrative adjustments:
+The Biden administration conducted a Section 301 tariff review in 2021-2022, maintained nearly all Trump-era tariffs, and implemented targeted escalations:
 
 - **May 2022**: Removed tariffs on 352 excluded product categories (mainly inputs for U.S. manufacturers)
 - **September 2022**: Initiated a new Section 301 investigation into China's semiconductor, maritime, and logistics policies
 - **May 2024**: Announced major tariff increases for strategic sectors (including EVs, batteries, solar cells, steel/aluminum, and selected medical products)
-- **September 27, 2024 and January 1, 2025**: Implemented staged rate increases under the Section 301 four-year review, including higher rates on semiconductors and selected critical-input products
-- **November 2025-March 2026**: Suspended the proposed Section 301 maritime/logistics action for one year (through November 10, 2026) while extending certain machinery exclusions through November 10, 2026
+- **September 27, 2024**: Finalized staged Section 301 rate increases, with some increases scheduled to take effect on January 1, 2025
+
+**Phase 5: Trump Second-Term Administrative Adjustment (January 2025-March 2026)**
+
+After inauguration on **January 20, 2025**, the second Trump administration kept the core Section 301 architecture and adjusted implementation at the margin:
+
+- **January 1, 2025 (effective date)**: Additional staged rate increases from the September 27, 2024 determination took effect
+- **November 2025-March 2026**: The Trump administration suspended the proposed Section 301 maritime/logistics action for one year (through November 10, 2026) while extending certain machinery exclusions through November 10, 2026
 
 As of early 2026, the core tariff architecture remains in place: U.S. Section 301 tariffs still cover roughly the same broad Chinese import basket as in 2018-2024, while Chinese retaliatory tariffs still affect most U.S. goods exports to China. The policy mix has shifted toward higher rates in strategic sectors and narrower, time-limited exclusions.
 
@@ -1228,7 +1234,7 @@ The U.S.-China trade war represents the largest bilateral trade conflict in mode
 - **August-September 2019**: Additional $112 billion at 15%; China retaliates; yuan depreciates below 7.0
 - **January 2020**: Phase One Agreement; U.S. reduces some tariffs to 7.5% but maintains 25% on $250 billion
 - **2021-2024**: Biden maintains Trump tariffs and announces targeted increases (EVs to 100%, solar to 50%, batteries, steel/aluminum, medical products)
-- **January 2025 onward**: Additional staged Section 301 increases enter into force for semiconductors and selected critical inputs; exclusions narrow and become more explicitly temporary
+- **January 2025 onward (Trump second term after January 20, 2025)**: Additional staged Section 301 increases enter into force for semiconductors and selected critical inputs; exclusions narrow and become more explicitly temporary
 
 **Peak Impact**: U.S. tariffs affected $360 billion Chinese imports (66% of total); effective average rate 19.3%. Chinese retaliatory tariffs affected $185 billion U.S. exports (72% of total); average rate 20.7%.
 

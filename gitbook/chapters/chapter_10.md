@@ -314,7 +314,7 @@ AI development has a bottleneck that export controls can target: computing power
 
 U.S. semiconductor export controls evolved rapidly from 2022 to 2025, revealing the inherent tensions in using technology denial as a coercive instrument (see Chapter 4 for detailed analysis of these controls, including mechanisms, allied coordination, and Chinese countermeasures):
 - **October 2022-2024 (Biden era)**: Blanket restrictions on advanced AI chips (Nvidia A100/H100, AMD MI250), semiconductor manufacturing equipment, and U.S. persons supporting Chinese chip development. Progressive tightening closed loopholes (October 2023 updates banned "China-compliant" variants like the A800/H800).
-- **January 2025**: Outgoing Biden administration issued a global "AI Diffusion Rule" creating three-tier country licensing framework — an attempt to prevent third-country circumvention.
+- **Early January 2025 (pre-inauguration)**: Outgoing Biden administration issued a global "AI Diffusion Rule" creating three-tier country licensing framework — an attempt to prevent third-country circumvention before the **January 20, 2025** transition.
 - **2025 (Trump era)**: Rescinded the AI Diffusion Rule and shifted to case-by-case licensing for advanced chips (Nvidia H200, AMD MI325X) to approved Chinese customers, while simultaneously adding 140 PRC entities to the Entity List.
 
 **Effectiveness**:

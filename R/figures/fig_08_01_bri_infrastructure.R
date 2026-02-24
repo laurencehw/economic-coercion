@@ -75,26 +75,47 @@ bri_projects <- tibble(
 # Create sf object
 bri_sf <- st_as_sf(bri_projects, coords = c("lon", "lat"), crs = 4326)
 
-# Define simplified BRI corridors as lines
-corridors <- tribble(
-  ~name, ~start_lon, ~start_lat, ~end_lon, ~end_lat,
-  "Maritime Silk Road", 121.47, 31.23, 23.65, 37.94,
-  "China-Pakistan Corridor", 75.5, 35, 62.33, 25.12,
-  "China-Europe Rail", 116.4, 39.9, 6.76, 51.43,
-  "China-Indochina", 108.2, 22.8, 100.5, 13.75,
-  "East Africa Route", 79.85, 6.93, -4.04, 39.67
+# Define stylized BRI corridors as waypoint paths (reduces arbitrary straight cuts)
+corridor_vertices <- tribble(
+  ~route, ~seq, ~lon, ~lat,
+  "Maritime Silk Road", 1, 121.47, 31.23,   # Shanghai
+  "Maritime Silk Road", 2, 103.82, 1.29,    # Singapore / Malacca approach
+  "Maritime Silk Road", 3, 79.85, 6.93,     # Colombo
+  "Maritime Silk Road", 4, 43.15, 11.59,    # Djibouti
+  "Maritime Silk Road", 5, 32.55, 29.90,    # Suez approach
+  "Maritime Silk Road", 6, 23.65, 37.94,    # Piraeus
+
+  "China-Pakistan Economic Corridor", 1, 76.00, 39.50,  # Kashgar area
+  "China-Pakistan Economic Corridor", 2, 73.06, 33.69,  # Islamabad
+  "China-Pakistan Economic Corridor", 3, 62.33, 25.12,  # Gwadar
+
+  "China-Europe Rail", 1, 108.94, 34.34,   # Xi'an
+  "China-Europe Rail", 2, 76.89, 43.24,    # Almaty
+  "China-Europe Rail", 3, 37.62, 55.75,    # Moscow
+  "China-Europe Rail", 4, 6.76, 51.43,     # Duisburg
+
+  "China-Indochina Corridor", 1, 102.83, 24.88,  # Kunming
+  "China-Indochina Corridor", 2, 102.13, 19.86,  # China-Laos rail node
+  "China-Indochina Corridor", 3, 100.50, 13.75,  # Bangkok
+
+  "Indian Ocean Link", 1, 93.55, 19.42,    # Kyaukpyu
+  "Indian Ocean Link", 2, 81.12, 6.12,     # Hambantota
+  "Indian Ocean Link", 3, 79.85, 6.93,     # Colombo
+  "Indian Ocean Link", 4, 43.15, 11.59     # Djibouti
 )
 
-corridor_lines <- corridors %>%
-  rowwise() %>%
-  mutate(
-    geometry = st_sfc(
-      st_linestring(matrix(c(start_lon, end_lon, start_lat, end_lat), ncol = 2)),
-      crs = 4326
-    )
-  ) %>%
-  ungroup() %>%
-  st_as_sf()
+corridor_vertices <- corridor_vertices %>%
+  arrange(route, seq)
+
+corridor_geoms <- lapply(
+  split(corridor_vertices, corridor_vertices$route),
+  function(df) st_linestring(as.matrix(df[, c("lon", "lat")]))
+)
+
+corridor_lines <- st_sf(
+  route = names(corridor_geoms),
+  geometry = st_sfc(corridor_geoms, crs = 4326)
+)
 
 # ============================================================================
 # 2. CREATE TMAP VISUALIZATION
@@ -135,9 +156,9 @@ map <- tm_shape(world, bbox = c(-20, -35, 145, 60)) +
   # BRI Corridors (simplified routes)
   tm_shape(corridor_lines) +
   tm_lines(
-    col = "#d62728",
-    lwd = 2,
-    lty = "dashed"
+    col = "#b85c38",
+    lwd = 1.6,
+    lty = "solid"
   ) +
 
   # BRI Projects
@@ -198,7 +219,7 @@ map <- tm_shape(world, bbox = c(-20, -35, 145, 60)) +
   ) +
 
   tm_credits(
-    "Source: AidData, CSIS Reconnecting Asia, Green Finance & Development Center (2024)\nDashed lines show simplified corridor routes",
+    "Source: AidData, CSIS Reconnecting Asia, Green Finance & Development Center (2024)\nCorridor lines indicate stylized BRI route pathways",
     position = c("left", "bottom"),
     size = 0.45
   )
