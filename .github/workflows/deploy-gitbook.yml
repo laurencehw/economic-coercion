@@ -7,8 +7,14 @@ on:
       - main
       - master
     paths:
-      - 'gitbook/**'
+      - 'chapters/**'
+      - 'front_matter/**'
+      - 'appendices/**'
       - 'figures/**'
+      - 'SUMMARY.md'
+      - 'INTRODUCTION.md'
+      - 'book.json'
+      - 'styles.css'
       - 'scripts/qa_gitbook_content.ps1'
       - '.github/workflows/deploy-gitbook.yml'
   workflow_dispatch:
@@ -42,20 +48,9 @@ jobs:
           gitbook fetch 3.2.3
 
       - name: Install GitBook plugins
-        working-directory: ./gitbook
         run: |
           if [ -f "book.json" ]; then
             gitbook install
-          fi
-
-      - name: Copy figures to GitBook
-        run: |
-          mkdir -p gitbook/figures
-          if [ -d "figures" ] && [ "$(ls -A figures 2>/dev/null)" ]; then
-            cp -r figures/* gitbook/figures/
-            echo "Copied $(ls figures | wc -l) figures to gitbook/figures/"
-          else
-            echo "Warning: No figures found to copy"
           fi
 
       - name: Run content QA checks
@@ -64,14 +59,13 @@ jobs:
           ./scripts/qa_gitbook_content.ps1
 
       - name: Build GitBook
-        working-directory: ./gitbook
         run: |
           gitbook build . ./public
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: ./gitbook/public
+          path: ./public
 
   deploy:
     environment:

@@ -21,16 +21,22 @@ Rscript R/figures/fig_01_02_us_china_trade.R
 ## Repository Structure
 
 ```
-chapters/ch0X_*/       Chapter content (Markdown)
+chapters/              Chapter content (Markdown, 10 chapters)
+front_matter/          Preface, bibliography, glossary
+appendices/            Appendix A (tabletop exercises)
+figures/               Output figures (PNG + PDF)
 R/figures/             R scripts for visualizations
 R/setup_theme.R        Shared ggplot2 theme
-figures/               Output figures (PNG + PDF)
 data/                  Datasets and sources
-appendices/            Appendix A (tabletop exercises)
 exercises/ch0X/        Original exercise files by chapter
-front_matter/          Preface, bibliography, glossary
+editorial_review/      Editorial reviews and citation audits
 templates/             Chapter and content templates
+SUMMARY.md             GitBook table of contents
+book.json              GitBook configuration
+INTRODUCTION.md        Book landing page (GitBook home)
 ```
+
+The book is deployed via GitBook web (GitHub sync). `.gitbook.yaml` points to the repo root.
 
 ## Figure Generation (R)
 

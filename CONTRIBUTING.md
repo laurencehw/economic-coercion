@@ -6,8 +6,8 @@ This is primarily a single-author academic project, but feedback, corrections, a
 
 ### Canonical Content Paths
 
-- Canonical manuscript content lives in `gitbook/chapters/` and `gitbook/front_matter/`.
-- `chapters/` is a legacy mirror and should not be edited directly for new content.
+- Chapter content lives in `chapters/`.
+- Front matter (preface, glossary, bibliography) lives in `front_matter/`.
 
 ### Reporting Issues
 
