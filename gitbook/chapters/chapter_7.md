@@ -6,7 +6,7 @@ On February 26, 2022, four days after Russia's full-scale invasion of Ukraine, t
 
 Financial sanctions do not destroy factories or blockade ports. They work in the abstract realm of money, payments, and capital—digits on screens, messages blocked from transmission, accounts frozen in an instant. Yet their impacts can be more devastating than bombs. A firm denied dollar-denominated payments faces existential crisis overnight. A state cut off from global banking confronts economic strangulation without a shot fired. Understanding how this power works—and how it might unravel—requires grappling with three dynamics:
 
-**First, U.S. financial power rests on structural advantages in the international monetary system, not simply economic size.** The dollar's role as dominant reserve currency (58% of global foreign exchange reserves), invoicing currency (42% of SWIFT payments), and safe haven asset creates network effects (IMF 2024) and path dependencies that competitors cannot easily replicate. Control of financial infrastructure—SWIFT, Euroclear, correspondent banking—amplifies this power. These structural foundations provide the jurisdictional basis for coercion while simultaneously defining the system's points of failure.
+**First, U.S. financial power rests on structural advantages in the international monetary system, not simply economic size.** The dollar's role as dominant reserve currency (56.92% of allocated global foreign exchange reserves in 2025Q3), payment currency (50.49% of global SWIFT payments by value in December 2025; 58.62% excluding euro-area internal payments), and safe haven asset creates network effects (IMF COFER, December 19, 2025; SWIFT RMB Tracker, January 2026) and path dependencies that competitors cannot easily replicate. Control of financial infrastructure—SWIFT, Euroclear, correspondent banking—amplifies this power. These structural foundations provide the jurisdictional basis for coercion while simultaneously defining the system's points of failure.
 
 **Second, U.S. financial coercion has expanded in scope and ambition, moving from targeted individuals and entities to entire economies and financial systems.** Traditional sanctions blocked specific terrorists, narcotics traffickers, or proliferators from U.S. financial system access. Modern sanctions impose comprehensive restrictions on entire countries (Iran, North Korea, Venezuela), freeze central bank reserves (Russia, Afghanistan), and employ secondary sanctions forcing third parties to choose between U.S. and target markets. This escalation raises questions about sustainability and blowback.
 
@@ -31,9 +31,9 @@ Financial sanctions' effectiveness derives from the U.S. dollar's dominant posit
 
 **Reserve Currency Status**
 
-The U.S. dollar comprises approximately 58% of allocated global foreign exchange reserves (2024) (IMF COFER 2024), far exceeding the U.S. share of global GDP (~25%) or trade (~11%) (World Bank WDI). This reserve status means:
+The U.S. dollar comprises 56.92% of allocated global foreign exchange reserves (2025Q3) (IMF COFER Data Brief, December 19, 2025), far exceeding the U.S. share of global GDP (~25%) or trade (~11%) (World Bank WDI). This reserve status means:
 
-- **Central banks hold dollars**: Foreign governments maintain dollar reserves to stabilize exchange rates, service dollar-denominated debts, and conduct international transactions. As of 2024, foreign official holdings of U.S. Treasury securities exceed $7.6 trillion (U.S. Treasury).
+- **Central banks hold dollars**: Foreign governments maintain dollar reserves to stabilize exchange rates, service dollar-denominated debts, and conduct international transactions. As of 2025, foreign official holdings of U.S. Treasury securities remain in the multi-trillion-dollar range (U.S. Treasury TIC).
 
 - **Safe haven demand**: During crises, capital flows into dollar assets (especially U.S. Treasuries) as investors seek safety. This "exorbitant privilege" enables U.S. borrowing at lower rates than economic fundamentals alone would justify.
 
@@ -44,13 +44,11 @@ The U.S. dollar comprises approximately 58% of allocated global foreign exchange
 The dollar's dominance creates a powerful feedback loop: because everyone uses dollars, dollar markets are the most liquid; because they're the most liquid, transaction costs are lowest; because costs are lowest, everyone prefers dollars. This network effect means displacing the dollar requires not just a better alternative, but coordinated mass adoption—something like convincing everyone to switch from QWERTY keyboards simultaneously. Even countries hostile to U.S. policy find themselves trapped in dollar dependence by this logic.
 {% endhint %}
 
-**Reserve Currency Composition (2024)**:
-- U.S. Dollar: 58.4%
-- Euro: 20.5%
-- Japanese Yen: 5.5%
-- British Pound: 4.9%
-- Chinese Renminbi: 2.7%
-- Other: 7.9%
+**Reserve Currency Composition (2025Q3, IMF COFER)**:
+- U.S. Dollar: 56.92%
+- Euro: 20.33%
+- Chinese Renminbi: 1.93%
+- Other currencies (combined): 20.82%
 
 The euro's 20% share (representing EU's ~17% of global GDP, per World Bank WDI) suggests currency share can exceed GDP share if backed by deep financial markets and institutional credibility. Yet the euro faces structural challenges (lack of unified fiscal authority, fragmented bond markets) limiting its reserve currency appeal.
 
@@ -60,7 +58,7 @@ China's renminbi remains distant third despite China's 18% of global GDP (World 
 
 Beyond reserves, the dollar dominates international trade invoicing and settlement:
 
-- **SWIFT data (2024)**: 42% of international payments by value denominated in dollars, 31% in euros, 4% in renminbi (SWIFT RMB Tracker 2024)
+- **SWIFT RMB Tracker (January 2026, reporting December 2025)**: Global payments by value were 50.49% USD, 21.90% EUR, and 2.73% CNY; excluding euro-area internal payments, shares were 58.62% USD, 13.68% EUR, and 2.13% CNY
 - **Trade invoicing**: Estimated 40% of global trade invoiced in dollars, including trade not involving U.S. parties (Gopinath et al. 2020)
 - **Commodities**: Oil, gas, metals, agricultural products predominantly priced in dollars (the "petrodollar" system)
 
@@ -96,7 +94,7 @@ SWIFT is not a payment system but a secure messaging network transmitting paymen
 
 **SWIFT and U.S. sanctions**: While SWIFT is not U.S.-controlled, several factors give U.S. leverage:
 
-1. **Dollar dominance**: 42% of SWIFT messages involve dollar transactions requiring clearing through U.S. banks
+1. **Dollar dominance**: About half of global SWIFT payment value is USD-denominated (and 58.62% excluding euro-area internal payments), requiring clearing through U.S.-connected banks
 2. **U.S. market access**: SWIFT members want access to U.S. financial system; compliance with U.S. sanctions required
 3. **EU coordination**: European authorities (SWIFT's home jurisdiction) generally coordinate with U.S. on sanctions
 4. **CIA access controversy**: 2006 revelations showed U.S. Treasury accessed SWIFT data for counterterrorism, confirming U.S. reach
@@ -685,10 +683,10 @@ Some initiatives reflect economic rather than security motivations:
 
 Launched 2015, CIPS processes cross-border renminbi (RMB) payments, positioning as alternative to SWIFT for RMB transactions:
 
-**Participants** (2024):
-- 143 direct participants (mainly Chinese banks, some foreign banks)
-- 1,300+ indirect participants (financial institutions globally using direct participants for clearing)
-- Covers 180+ countries and regions
+**Participants** (as of December 2025):
+- 193 direct participants
+- 1,573 indirect participants
+- Participants in 124 countries and regions; business coverage across 5,000+ banking institutions in 190 countries and regions
 
 **Volume**: Daily average ~$50-60 billion (2024), up from ~$5 billion (2018). However, SWIFT processes ~$5-7 trillion daily—CIPS is 1% of SWIFT volume.
 
@@ -1005,7 +1003,7 @@ China systematically developing alternatives to U.S.-dominated financial systems
 
 **Cross-Border Interbank Payment System (CIPS)**:
 - Launched 2015 to process RMB cross-border payments
-- 143 direct participants, 1,300+ indirect participants (2024)
+- 193 direct participants, 1,573 indirect participants (as of December 2025)
 - Daily volume ~$50-60 billion (growing but still 1% of SWIFT)
 - Eventually aims for full independence from SWIFT messaging
 
@@ -1215,7 +1213,7 @@ Global South perspectives on financial sanctions are neither uniformly hostile n
 
 ## Key Insights
 
-- **Dollar dominance rests on self-reinforcing network effects, not just economic size:** The dollar's share of global reserves (58%) far exceeds the U.S. share of global GDP (25%) because liquidity, low transaction costs, and deep capital markets create a feedback loop that competitors cannot easily break. Displacing the dollar requires coordinated mass adoption of an alternative -- something like convincing everyone to switch from QWERTY keyboards simultaneously.
+- **Dollar dominance rests on self-reinforcing network effects, not just economic size:** The dollar's share of global reserves (56.92% in 2025Q3) far exceeds the U.S. share of global GDP (25%) because liquidity, low transaction costs, and deep capital markets create a feedback loop that competitors cannot easily break. Displacing the dollar requires coordinated mass adoption of an alternative -- something like convincing everyone to switch from QWERTY keyboards simultaneously.
 
 - **Financial sanctions are the sharpest but most self-undermining tool in the U.S. economic coercion arsenal:** Each deployment -- freezing central bank reserves, excluding banks from SWIFT, imposing secondary sanctions -- demonstrates dollar vulnerability and incentivizes adversaries and even neutral parties to develop alternatives. The more effective the sanction, the greater the incentive for system-wide exit.
 
@@ -1225,7 +1223,7 @@ Global South perspectives on financial sanctions are neither uniformly hostile n
 
 - **OFAC administers extraordinary power with minimal staff and limited democratic accountability:** Fewer than 200 staff members at the Office of Foreign Assets Control maintain sanctions programs affecting over 10,000 targets across 30+ countries, with penalties sufficient to destroy major financial institutions. This concentration of coercive authority in a small bureaucratic unit raises questions about proportionality and oversight.
 
-- **China's alternative financial infrastructure is growing but remains far from displacing dollar systems:** CIPS processes approximately $24 trillion annually — rapid growth from near-zero in 2015, but still a fraction of SWIFT volume and reliant on SWIFT messaging for over 80% of transactions. The renminbi's 2.7% share of global reserves reflects capital controls, limited convertibility, and rule-of-law concerns that constrain international adoption regardless of China's economic size.
+- **China's alternative financial infrastructure is growing but remains far from displacing dollar systems:** CIPS processed roughly RMB 175 trillion (about $24 trillion) in 2024 and had 193 direct and 1,573 indirect participants by December 2025, but still remains much smaller than SWIFT and partly reliant on SWIFT messaging. The renminbi's 1.93% reserve share (2025Q3 IMF COFER) reflects capital controls, limited convertibility, and rule-of-law concerns that constrain international adoption regardless of China's economic size.
 
 - **Comprehensive sanctions can devastate economies without changing regime behavior:** The Russia case demonstrates that financial coercion imposed severe immediate costs (ruble collapse, market shutdown, capital flight) but failed to compel withdrawal from Ukraine. Determined adversaries with alternative trading partners and authoritarian political systems can absorb economic pain that democratic societies might find intolerable.
 

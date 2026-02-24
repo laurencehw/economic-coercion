@@ -8,7 +8,7 @@ This is the paradox of economic statecraft: every weapon, once used, teaches adv
 
 What happens next? Projecting forward to 2035-2050, the trends point in unsettling directions.
 
-**First, current trends point toward increasing economic fragmentation—partial decoupling between rival blocs, parallel technological ecosystems, competing financial architectures—rather than complete autarky or renewed integration.** Full decoupling is economically prohibitive: even hostile powers maintain trade in non-strategic sectors (China-U.S. bilateral goods trade remains approximately $575-580 billion annually, down from the 2022 peak of $690 billion, despite tensions), and global supply chains resist comprehensive restructuring. But selective decoupling accelerates: semiconductors, AI, biotechnology, critical minerals face strategic controls; financial systems develop redundancies; standards and protocols diverge. The resulting "partially fragmented globalization" combines sectoral decoupling (strategic domains) with continued integration (commodity trade, consumer goods) forcing firms and policymakers to manage operations across bifurcated markets.
+**First, current trends point toward increasing economic fragmentation—partial decoupling between rival blocs, parallel technological ecosystems, competing financial architectures—rather than complete autarky or renewed integration.** Full decoupling is economically prohibitive: even hostile powers maintain trade in non-strategic sectors (U.S.-China goods trade was $414.7 billion in calendar year 2025, with $106.3 billion in U.S. exports and $308.4 billion in U.S. imports, according to BEA's February 5, 2026 release), and global supply chains resist comprehensive restructuring. But selective decoupling accelerates: semiconductors, AI, biotechnology, critical minerals face strategic controls; financial systems develop redundancies; standards and protocols diverge. The resulting "partially fragmented globalization" combines sectoral decoupling (strategic domains) with continued integration (commodity trade, consumer goods) forcing firms and policymakers to manage operations across bifurcated markets.
 
 **Second, emerging technologies—artificial intelligence, quantum computing, biotechnology, clean energy, space systems—will become central battlegrounds for strategic competition, with economic coercion tools adapted to control technology diffusion.** Unlike semiconductors (where chokepoints concentrate in specific equipment and materials), AI development distributes across talent, algorithms, data, and computing infrastructure. Quantum computing remains early-stage, with uncertain timelines for practical applications but potentially revolutionary implications for cryptography, optimization, and sensing. Biotechnology advancements (CRISPR gene editing, synthetic biology, personalized medicine) create dual-use capabilities with economic and security dimensions. Each technology requires tailored coercion strategies: talent restrictions for AI, specialized equipment controls for quantum, data sovereignty for biotech. Yet technology's rapid evolution, diffusion speed, and software-centricity resist traditional export controls designed for physical goods.
 
@@ -31,7 +31,7 @@ The U.S. dollar's role as global reserve currency and dominant medium of exchang
 
 **Current Dollar Dominance**
 
-As of 2024, the dollar's dominance spans every dimension of international finance. It comprises approximately 58% of global foreign exchange reserves, down from 71% in 2000 (IMF COFER 2024), and roughly 50% of cross-border trade is invoiced in dollars, including approximately 80% of oil transactions. The dollar's role in foreign exchange markets is even more pronounced, representing roughly 90% of currency transactions globally. Over 60% of international bonds and loans are denominated in dollars, and approximately 42% of SWIFT international payment messages involve the currency.
+As of 2025Q3 and December 2025, the dollar's dominance spans every dimension of international finance. It comprises 56.92% of allocated global foreign exchange reserves (down from 71% in 2000, IMF COFER Data Brief published December 19, 2025), and SWIFT payment data (published January 2026 for December 2025 flows) shows USD at 50.49% of global payment value and 58.62% when euro-area internal payments are excluded. The dollar's role in foreign exchange markets remains even more pronounced, representing roughly 90% of FX transactions globally, and over 60% of international bonds and loans remain dollar-denominated.
 
 This dominance provides U.S. with:
 - **Seigniorage**: Profit from printing currency used globally
@@ -52,7 +52,7 @@ Every use of financial sanctions demonstrates dollar vulnerability, incentivizin
 **2. Alternative payment systems emerging**
 
 Technology enables competing infrastructure:
-- **CIPS** (China Cross-Border Interbank Payment System): Yuan-denominated payment system processing approximately $24 trillion annually (RMB 175 trillion in 2024), with 40-43% year-on-year growth, though still relying on SWIFT messaging for over 80% of transactions (PBOC 2025)
+- **CIPS** (China Cross-Border Interbank Payment System): Yuan-denominated payment system processing approximately $24 trillion annually (RMB 175 trillion in 2024), with 40-43% year-on-year growth; by December 2025, CIPS reported 193 direct and 1,573 indirect participants, though it still relies on SWIFT messaging for a substantial share of transactions
 - **SPFS** (Russia System for Transfer of Financial Messages): Russian SWIFT alternative, limited international adoption but functional
 - **Cryptocurrency and stablecoins**: Decentralized alternatives avoiding state control, though volatile and limited in scale
 - **Central Bank Digital Currencies (CBDCs)**: Over 130 countries exploring or piloting, with China's e-CNY furthest advanced
@@ -73,7 +73,7 @@ Dollar share declines slowly (1-2% annually) through incremental shifts:
 - Bilateral trade increasingly settles in local currencies
 - Regional payment systems handle intra-regional transactions
 
-**Timeline**: Dollar drops from 60% of reserves (2024) to 45-50% (2035) to 35-40% (2050)
+**Timeline**: Dollar drops from ~57% of reserves (2025Q3) to 45-50% (2035) to 35-40% (2050)
 
 **Implications**:
 - U.S. borrows slightly more expensively but remains privileged
@@ -112,14 +112,14 @@ Digital currencies (CBDCs, cryptocurrencies) displace dollar through superior te
 **Most Likely Scenario: Gradual Erosion with Periodic Acceleration**
 
 Baseline expectation combines slow structural decline with crisis-driven jumps. Major events (financial sanctions expansions, geopolitical crises) temporarily accelerate de-dollarization, followed by stabilization. By 2050:
-- Dollar: 35-45% of reserves (vs. 60% today)
+- Dollar: 35-45% of reserves (vs. ~57% today)
 - Yuan: 15-20% (vs. ~3% today)
 - Euro: 20-25% (vs. ~20% today)
 - Other (gold, SDRs, digital currencies): 15-20%
 
 {% hint style="info" %}
 **The 2050 Currency Projection**
-If current trends continue, the global reserve currency landscape in 2050 will look fundamentally different from today. The dollar won't collapse—but it will share the stage. A multipolar currency system with the dollar at 35-45% of reserves (down from 60% today) means the U.S. retains significant privilege but cannot unilaterally dictate global financial terms. Sanctions will require genuine multilateral coalitions to be effective. The era of American financial hegemony is ending; the question is whether it ends gradually and manageably, or suddenly and chaotically.
+If current trends continue, the global reserve currency landscape in 2050 will look fundamentally different from today. The dollar won't collapse—but it will share the stage. A multipolar currency system with the dollar at 35-45% of reserves (down from roughly 57% today) means the U.S. retains significant privilege but cannot unilaterally dictate global financial terms. Sanctions will require genuine multilateral coalitions to be effective. The era of American financial hegemony is ending; the question is whether it ends gradually and manageably, or suddenly and chaotically.
 {% endhint %}
 
 ### Implications for Financial Sanctions
@@ -1000,9 +1000,9 @@ Economic coercion will remain central to 21st-century statecraft. Understanding 
 
 - **Every weapon of economic statecraft, once used, teaches adversaries how to defend against it:** Financial sanctions drive de-dollarization, export controls spur indigenous innovation, and investment screening fragments the global markets that enriched Western economies. The central paradox is that the tools of strategic competition undermine the very integrated system that made the West powerful enough to wield them.
 
-- **Current trends point toward partial fragmentation rather than complete decoupling or renewed integration:** Full decoupling is economically prohibitive (U.S.-China bilateral trade remains approximately $575-580 billion annually despite tensions), but selective decoupling accelerates in semiconductors, AI, biotechnology, and critical minerals. The result is a "partially fragmented globalization" where strategic domains decouple while commodity trade and consumer goods remain integrated.
+- **Current trends point toward partial fragmentation rather than complete decoupling or renewed integration:** Full decoupling is economically prohibitive (U.S.-China goods trade still reached $414.7 billion in 2025), but selective decoupling accelerates in semiconductors, AI, biotechnology, and critical minerals. The result is a "partially fragmented globalization" where strategic domains decouple while commodity trade and consumer goods remain integrated.
 
-- **De-dollarization is gradual but structurally accelerating:** The dollar's share of global reserves has declined from 71% in 2000 to 58% in 2024, and alternative payment systems (CIPS, bilateral currency agreements, CBDCs) continue growing. While no single alternative approaches dollar dominance, the cumulative effect of many small shifts could fundamentally reshape financial architecture by 2035-2050, reducing U.S. sanctions leverage.
+- **De-dollarization is gradual but structurally accelerating:** The dollar's share of global reserves has declined from 71% in 2000 to 56.92% in 2025Q3, and alternative payment systems (CIPS, bilateral currency agreements, CBDCs) continue growing. While no single alternative approaches dollar dominance, the cumulative effect of many small shifts could fundamentally reshape financial architecture by 2035-2050, reducing U.S. sanctions leverage.
 
 - **Climate change will create new vectors of economic coercion that compound existing vulnerabilities:** Water scarcity enabling upstream dam leverage (Ethiopia over Egypt, China over Mekong nations), agricultural disruption concentrating food exports in fewer countries, critical mineral competition for the energy transition, and climate-driven migration all represent emerging coercion domains that current policy frameworks are unprepared to address.
 
