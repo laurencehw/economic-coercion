@@ -61,7 +61,7 @@ Section 301 requires USTR investigation (initiated by petition or self-initiated
   <figcaption>Figure 6.1: U.S.-China tariff rates and trade flows from 2018-2024, showing the escalation of the trade war.</figcaption>
 </figure>
 
-The 2018-2024 U.S.-China trade war illustrates modern tariff-based coercion dynamics. What began as targeted technology-sector tariffs escalated through tit-for-tat retaliation into economy-wide restrictions affecting consumer goods, agricultural products, and industrial inputs.
+The 2018-present U.S.-China trade war illustrates modern tariff-based coercion dynamics. What began as targeted technology-sector tariffs escalated through tit-for-tat retaliation into economy-wide restrictions affecting consumer goods, agricultural products, and industrial inputs.
 
 **Phase 1: Initial Escalation (2018)**
 
@@ -98,15 +98,17 @@ In exchange:
 
 COVID-19 pandemic derailed implementation. China purchased only 58% of committed goods in 2020 and 71% over 2020-2021 combined—a $140 billion shortfall (Bown 2022). Neither side invoked enforcement provisions, effectively rendering the agreement dormant by 2022.
 
-**Phase 4: Biden Continuity and Expansion (2021-2024)**
+**Phase 4: Biden Continuity and Expansion (2021-early 2026)**
 
-The Biden administration conducted a Section 301 tariff review in 2021-2022, ultimately maintaining nearly all Trump-era tariffs while announcing targeted changes:
+The Biden administration conducted a Section 301 tariff review in 2021-2022, maintained nearly all Trump-era tariffs, and then implemented targeted escalations and administrative adjustments:
 
 - **May 2022**: Removed tariffs on 352 excluded product categories (mainly inputs for U.S. manufacturers)
-- **September 2022**: Initiated new Section 301 investigation into China's semiconductor, maritime, agriculture policies
-- **May 2024**: Announced quadrupling of tariffs on Chinese electric vehicles (from 25% to 100%), doubling tariffs on solar cells (to 50%), and increasing tariffs on batteries, steel, aluminum, and medical equipment
+- **September 2022**: Initiated a new Section 301 investigation into China's semiconductor, maritime, and logistics policies
+- **May 2024**: Announced major tariff increases for strategic sectors (including EVs, batteries, solar cells, steel/aluminum, and selected medical products)
+- **September 27, 2024 and January 1, 2025**: Implemented staged rate increases under the Section 301 four-year review, including higher rates on semiconductors and selected critical-input products
+- **November 2025-March 2026**: Suspended the proposed Section 301 maritime/logistics action for one year (through November 10, 2026) while extending certain machinery exclusions through November 10, 2026
 
-As of 2024, U.S. tariffs affect $360 billion in Chinese imports (average effective rate 19.3%); Chinese retaliatory tariffs affect $180 billion in U.S. exports (average 20.7%). Both countries granted some exclusions and exemptions, particularly for products lacking domestic alternatives.
+As of early 2026, the core tariff architecture remains in place: U.S. Section 301 tariffs still cover roughly the same broad Chinese import basket as in 2018-2024, while Chinese retaliatory tariffs still affect most U.S. goods exports to China. The policy mix has shifted toward higher rates in strategic sectors and narrower, time-limited exclusions.
 
 ### Economic Impacts of the Trade War
 
@@ -194,7 +196,7 @@ Applying our four-dimension framework:
 
 **Cost Imposition (Moderate)**: Tariffs imposed direct costs (~0.5-0.8% GDP for China, 0.3-0.5% for U.S.), but China tolerated these costs without major policy concessions. Agricultural sector losses ($27 billion) created political pressure but were offset by government subsidies.
 
-**Sustainability (Moderate)**: Both sides sustained tariffs for six years (2018-2024) with no resolution. However, U.S. inflation (2021-2023) created pressure to remove tariffs as anti-inflationary measure. China's economic slowdown (2023-2024) created pressure for trade normalization.
+**Sustainability (Moderate)**: Both sides have sustained tariffs for roughly eight years (2018-early 2026) with no structural resolution. However, U.S. inflation (2021-2023) created pressure to remove tariffs as an anti-inflationary measure, and China's growth slowdown (2023-2025) created pressure for trade normalization.
 
 **Collateral Damage (Moderate-High)**: U.S. consumers bore costs through higher prices. U.S. exporters (especially agriculture) suffered retaliatory tariffs. Global supply chains disrupted, reducing efficiency. Allies (EU, Japan, Korea) faced pressure to choose sides, complicating coordination.
 
@@ -328,7 +330,7 @@ Items not on CCL are designated **EAR99**—low-technology consumer goods genera
 
 **Entity List: Targeted Denials**
 
-The **Commerce Department's Entity List** (Supplement No. 4 to Part 744 of the Export Administration Regulations) identifies foreign entities subject to specific license requirements due to proliferation concerns, weapons development, human rights violations, or other national security threats. As of 2024, over 600 Chinese entities appear on the Entity List, including:
+The **Commerce Department's Entity List** (Supplement No. 4 to Part 744 of the Export Administration Regulations) identifies foreign entities subject to specific license requirements due to proliferation concerns, weapons development, human rights violations, or other national security threats. The China-focused portion of the list has continued to expand; in March 2025 alone, BIS added 80 entities globally, with more than 50 entries from China, including:
 
 - **Huawei Technologies** (2019): Telecommunications equipment and services, security and foreign policy concerns
 - **SMIC (Semiconductor Manufacturing International Corporation)** (2020): China's leading chip manufacturer, military diversion risk
@@ -374,7 +376,7 @@ ECRA codified and strengthened export controls, adding focus on "emerging and fo
 - **Emerging technologies**: Biotechnology, AI/machine learning, position/navigation/timing, microprocessor technology, advanced computing, quantum information/sensing, logistics technology, additive manufacturing, robotics, brain-computer interfaces, hypersonics, advanced materials, advanced surveillance
 - **Foundational technologies**: Technologies emerging from or enabling emerging technologies (interpreted broadly)
 
-ECRA directed Commerce to establish controls for these technologies in coordination with Defense, State, and Energy departments. Implementation proceeded slowly due to definitional challenges and industry opposition. As of 2024, controls established for some categories (quantum, certain AI chips, some additive manufacturing) but many emerging technologies lack clear controls.
+ECRA directed Commerce to establish controls for these technologies in coordination with Defense, State, and Energy departments. Implementation proceeded slowly due to definitional challenges and industry opposition. As of early 2026, controls are established for key categories (advanced AI chips, semiconductor manufacturing equipment, quantum-related items, and some additive manufacturing), but many emerging technologies still face scope and definitional ambiguity.
 
 ### Technology-Specific Controls: Semiconductor Case Study
 
@@ -384,7 +386,7 @@ Semiconductor export controls illustrate how EAR authorities operate in practice
 
 **Phase 2: Technology-Specific Controls (October 2022)** marked a fundamental reorientation from entity-based to capability-based restrictions. BIS imposed controls on manufacturing equipment for logic chips below 16nm, memory chips below specified thresholds (DRAM < 18nm half-pitch, NAND > 128 layers), and prohibited U.S. persons from supporting Chinese advanced chip development. These rules targeted China's semiconductor ecosystem broadly rather than individual firms.
 
-**Phase 3: Allied Coordination (2023-2024)** extended controls multilaterally through negotiations with the Netherlands and Japan (see below, "Multilateral Versus Unilateral Approaches"). October 2023 updates tightened node definitions, added over 100 Chinese chip firms to the Entity List, and expanded geographic scope to close transshipment routes through Macau and Hong Kong.
+**Phase 3: Allied Coordination (2023-2025)** extended controls multilaterally through negotiations with the Netherlands and Japan (see below, "Multilateral Versus Unilateral Approaches"). October 2023 updates tightened node definitions, added over 100 Chinese chip firms to the Entity List, and expanded geographic scope to close transshipment routes through Macau and Hong Kong. March 2025 additions to the Entity List further expanded this network-focused approach.
 
 Chapter 4 provides a detailed analysis of these controls' strategic logic, allied coordination dynamics, Chinese responses, and effectiveness assessment across five criteria. From an export control architecture perspective, the semiconductor case demonstrates both the power and limits of EAR authorities: ECCN-based controls can restrict specific technological capabilities, the FDPR can extend jurisdiction extraterritorially, and Entity List designations can target specific actors—but effectiveness depends on allied coordination that lies beyond any single government's legal authority.
 
@@ -610,7 +612,7 @@ Listed entities face:
 - Denial of work permits for personnel
 - Fines and other penalties
 
-As of 2024, few entities publicly listed (Lockheed Martin, Raytheon for Taiwan arms sales), but threat used to deter foreign compliance with U.S. restrictions. Many firms face difficult choice: Comply with U.S. export controls (losing Chinese market access) or maintain China ties (facing U.S. penalties).
+As of early 2026, only a limited number of entities have been publicly listed (including U.S. defense firms linked to Taiwan arms sales), but the threat is used to deter foreign compliance with U.S. restrictions. Many firms face a difficult choice: comply with U.S. export controls (and risk Chinese market losses) or maintain China ties (and risk U.S. penalties).
 
 **Effectiveness of Chinese Counter-Controls**
 
@@ -710,8 +712,8 @@ China challenged U.S. Section 301 tariffs (2018) arguing:
 - Not justified by Article XX (not necessary for public morals or health)
 - Violate dispute settlement understanding (U.S. unilaterally determined violations and imposed remedies rather than using WTO dispute process)
 
-**Panel ruling** (2024, expected):
-Delayed due to COVID-19 and procedural issues. Panel likely to rule against U.S., but U.S. expected to appeal to void, preventing enforcement. Even if China wins, no mechanism to force U.S. tariff removal. China could retaliate with authorized countermeasures, but already imposing equivalent tariffs.
+**Panel and appellate status** (2020-present):
+The WTO panel report in the Section 301 dispute was circulated on September 15, 2020 and found against the United States on key claims. The U.S. appealed on October 26, 2020 to a non-functioning Appellate Body ("appeal into the void"), preventing adoption and enforcement. The case has become a central example of dispute-settlement paralysis in the post-Appellate-Body era.
 
 **China's Technology Transfer and Subsidy Practices**
 
@@ -947,7 +949,7 @@ Presidential determinations receive substantial deference; judicial review extre
 
 - **Investigation launched**: May 2018
 - **Commerce findings**: February 2019 (not publicly released) - imports and declining domestic production threaten national security
-- **Presidential action**: May 2019 - delayed action for 180 days to pursue negotiations; subsequently delayed indefinitely; no tariffs imposed as of 2024
+- **Presidential action**: May 2019 - delayed action for 180 days to pursue negotiations; subsequently delayed indefinitely; no tariffs imposed as of early 2026
 - **Stated concerns**: Auto imports (47% of U.S. market); production shifting abroad; skills and supplier base eroding; defense mobility requirements (tactical vehicles share technology with commercial vehicles)
 
 **Uranium Investigation (2019)**:
@@ -1130,7 +1132,7 @@ License applications reviewed by Commerce's Bureau of Industry and Security (BIS
 
 Identifies foreign persons (individuals, companies, organizations, governments) posing proliferation, terrorism, or national security risks. Entity List designation requires exporters to obtain licenses for specified items (often all EAR-controlled items); licenses typically denied.
 
-As of 2024, Entity List contains 1,000+ entities from 50+ countries. China accounts for 600+ listings, including:
+As of early 2026, the Entity List contains well over 1,000 entities from 50+ countries, with China still accounting for the largest country share, including:
 - **Telecommunications**: Huawei, ZTE, Semiconductor Manufacturing International Corporation (SMIC)
 - **Surveillance**: Hikvision, Dahua, SenseTime, Megvii, CloudWalk, iFlytek
 - **Supercomputing**: Sugon, Phytium, Sunway
@@ -1225,7 +1227,8 @@ The U.S.-China trade war represents the largest bilateral trade conflict in mode
 - **May 2019**: Tariffs on $200 billion increased from 10% to 25% as negotiations fail
 - **August-September 2019**: Additional $112 billion at 15%; China retaliates; yuan depreciates below 7.0
 - **January 2020**: Phase One Agreement; U.S. reduces some tariffs to 7.5% but maintains 25% on $250 billion
-- **2021-2024**: Biden maintains Trump tariffs; adds targeted increases (EVs to 100%, solar to 50%, batteries, steel)
+- **2021-2024**: Biden maintains Trump tariffs and announces targeted increases (EVs to 100%, solar to 50%, batteries, steel/aluminum, medical products)
+- **January 2025 onward**: Additional staged Section 301 increases enter into force for semiconductors and selected critical inputs; exclusions narrow and become more explicitly temporary
 
 **Peak Impact**: U.S. tariffs affected $360 billion Chinese imports (66% of total); effective average rate 19.3%. Chinese retaliatory tariffs affected $185 billion U.S. exports (72% of total); average rate 20.7%.
 
@@ -1308,7 +1311,7 @@ Neither side faced intolerable costs forcing capitulation. Mutual tolerance for 
 
 **4. Sustainability: MODERATE-HIGH**
 
-Both sides sustained tariffs six years (2018-2024) without resolution, demonstrating political sustainability:
+Both sides sustained tariffs for roughly eight years (2018-early 2026) without structural resolution, demonstrating political sustainability:
 
 **Factors supporting sustainability**:
 - **U.S.**: Bipartisan consensus on China threat; Biden maintained Trump tariffs to avoid appearing "soft"; removing tariffs politically costly (framed as concession)
@@ -1317,10 +1320,10 @@ Both sides sustained tariffs six years (2018-2024) without resolution, demonstra
 
 **Pressures for de-escalation**:
 - **U.S. inflation** (2021-2023): Consumer price increases created pressure to remove tariffs as anti-inflationary measure; Biden Treasury Secretary Yellen advocated removal
-- **Chinese growth slowdown** (2023-2024): Economic weakness, property crisis, and export decline created pressure for trade normalization
+- **Chinese growth slowdown** (2023-2025): Economic weakness, property stress, and export volatility created pressure for trade normalization
 - **Allied pressure**: EU, Japan, Korea seek clarity on U.S. trade strategy; inconsistent tariff policy complicates coordination
 
-Despite pressures, tariffs remain as of 2024, suggesting high political sustainability absent major crisis or leadership change.
+Despite pressures, tariffs remain in place as of early 2026, suggesting high political sustainability absent major crisis or leadership change.
 
 **5. Collateral Damage: MODERATE-HIGH**
 
@@ -1836,7 +1839,15 @@ Emily J. Blanchard, Chad P. Bown, and Robert C. Johnson, "Global Supply Chains a
 
 U.S. Trade Representative, "Findings of the Investigation into China's Acts, Policies, and Practices Related to Technology Transfer, Intellectual Property, and Innovation Under Section 301 of the Trade Act of 1974" (March 22, 2018)
 
+U.S. Trade Representative, "Notice of Determination in the Four-Year Review of the Actions in the Section 301 Investigation: China's Acts, Policies, and Practices Related to Technology Transfer, Intellectual Property, and Innovation" (December 2024), including staged implementation dates through January 1, 2025.
+
+U.S. Trade Representative, "USTR Extends Exclusions in China Section 301 Investigation Until November 10, 2026" (November 11, 2025).
+
+U.S. Trade Representative, "USTR Announces Decision to Suspend Proposed Section 301 Maritime Action for One Year While Monitoring Progress Toward Targeted Commitments" (November 10, 2025).
+
 U.S. Department of Commerce Bureau of Industry and Security, "The Effect of Imports of Steel on the National Security" (January 11, 2018)
+
+U.S. Department of Commerce Bureau of Industry and Security, "Department of Commerce Strengthens Restrictions on Advanced Computing Semiconductors, Manufacturing Equipment, and Supercomputing Items to Countries of Concern" (March 25, 2025) [Entity List additions].
 
 Congressional Research Service, "Section 232 Investigations: Overview and Issues for Congress" (Updated regularly)
 
@@ -1845,6 +1856,8 @@ Congressional Research Service, "U.S.-China Trade and Economic Relations: Overvi
 Congressional Research Service, "The Export Administration Regulations: Overview and Related Issues" (Updated regularly)
 
 White House, "Building Resilient Supply Chains, Revitalizing American Manufacturing, and Fostering Broad-Based Growth: 100-Day Reviews under Executive Order 14017" (June 2021)
+
+World Trade Organization, DS543 (United States — Tariff Measures on Certain Goods from China): panel report circulated September 15, 2020; appeal notified October 26, 2020.
 
 ### Think Tank and Policy Analysis
 

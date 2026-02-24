@@ -4,7 +4,7 @@
 
 On August 6, 2020, President Trump issued an executive order giving ByteDance, the Chinese parent company of TikTok, 45 days to divest the popular video-sharing app or face a complete ban in the United States. The order cited national security concerns: TikTok's collection of American users' data, algorithmic content curation controlled by a Chinese company potentially subject to Chinese government influence, and risks of Chinese intelligence exploitation of the platform's vast user base (100 million Americans, predominantly young). ByteDance attempted negotiations, proposing technical solutions and partnership structures, but the Committee on Foreign Investment in the United States (CFIUS) determined that only complete divestment—selling TikTok's U.S. operations to American owners—would address security concerns.
 
-Four years and multiple legal battles later, TikTok remains Chinese-owned, operating under perpetual threat of forced sale or ban. The standoff captures a fundamental transformation underway: investment screening has mutated from sleepy bureaucratic review into an active weapon targeting specific countries, entire sectors, and companies already operating on domestic soil. Meanwhile, governments once allergic to industrial policy now embrace it with gusto. The United States—long a champion of free markets and skeptic of state intervention—committed over $500 billion through the CHIPS and Science Act, Inflation Reduction Act, and Infrastructure Investment and Jobs Act (Rasser et al. 2022) to remake semiconductor production and clean energy supply chains. China doubles down on Made in China 2025 and Big Fund semiconductor investments exceeding $100 billion. The invisible hand has been replaced by the visible fist.
+After years of litigation and negotiation, the TikTok case moved from threatened ban to forced restructuring under U.S. ownership and governance constraints in 2025-2026. The standoff captures a fundamental transformation underway: investment screening has mutated from sleepy bureaucratic review into an active weapon targeting specific countries, entire sectors, and companies already operating on domestic soil. Meanwhile, governments once allergic to industrial policy now embrace it with gusto. The United States—long a champion of free markets and skeptic of state intervention—committed over $500 billion through the CHIPS and Science Act, Inflation Reduction Act, and Infrastructure Investment and Jobs Act to remake semiconductor production and clean energy supply chains. China continues to double down on long-horizon technology policy through Made in China 2025 successor efforts and large semiconductor state funds. The invisible hand has been replaced by the visible fist.
 
 Investment controls and industrial policy now rank alongside tariffs and sanctions as primary instruments of economic coercion. Governments wield them to shape capital flows, dictate ownership structures, and rebuild industrial capabilities they once happily offshored.
 
@@ -155,12 +155,12 @@ The near-total collapse of Chinese foreign direct investment in the United State
 
 **CFIUS Statistics Reflecting Increased Scrutiny**
 
-CFIUS annual reports document transformed review patterns:
+Treasury's CY2024 report shows high and sustained review activity:
 
-- **Total notices**: Declined from 237 (2016) to approximately 150-180 annually (2019-2024) as Chinese filings disappeared
-- **Chinese transactions**: Comprised 23% of CFIUS reviews (2016) vs. 7-10% (2024)
-- **Withdrawn transactions**: Chinese deals withdrawn or abandoned after CFIUS intervention rose from 1-2 annually (pre-2018) to 8-12 annually (post-FIRRMA)
-- **Presidential blocks**: Rare but concentrated on Chinese deals (2012: Ralls wind farm project near naval base; 2017: Lattice Semiconductor; 2018: Broadcom-Qualcomm to prevent Huawei 5G advantage; 2020: TikTok)
+- **Declarations**: 116 declarations assessed in 2024
+- **Notices**: 209 written notices reviewed in 2024
+- **China share**: 26 notices (12%) involved Chinese acquirers, down from 23% of reviewed transactions in 2016
+- **Withdrawals/abandonment**: 49 notices were withdrawn in 2024, including 15 transactions abandoned after withdrawal
 
 **Forced Divestments**
 
@@ -184,7 +184,7 @@ The United States is not alone in expanding investment screening. European Union
 
 The EU implemented a framework for screening foreign direct investments in October 2020, establishing coordination among member states while preserving national sovereignty over investment decisions. Key features:
 
-- **Voluntary national screening**: Member states may establish investment review mechanisms but aren't required to. As of 2024, 25 of 27 EU members have screening regimes, with varying scope and rigor.
+- **Voluntary national screening**: Member states may establish investment review mechanisms but are not required to. As of end-2024, 24 of 27 EU members had active screening regimes, while the remaining states were in legislative processes.
 
 - **Coordination mechanism**: When a member state reviews a transaction, other members and the European Commission can provide opinions if the investment affects their security interests or EU-wide projects (Horizon Europe research, Galileo satellite navigation, etc.)
 
@@ -339,9 +339,9 @@ The Creating Helpful Incentives to Produce Semiconductors (CHIPS) and Science Ac
 CHIPS Act "guardrails" force companies to make a fundamental choice: take U.S. subsidies or expand in China—not both. Any company receiving CHIPS funding is prohibited from materially expanding semiconductor manufacturing capacity in China for 10 years. For companies like Intel, TSMC, and Samsung that have existing China operations, this creates difficult strategic trade-offs. The guardrails effectively weaponize subsidies, turning industrial policy into a tool for accelerating decoupling.
 {% endhint %}
 
-Several **major projects announced** as of 2024 illustrate the scale of investment catalyzed by the CHIPS Act. **TSMC** committed $65 billion (with $6.6 billion in CHIPS funding) for two fabrication plants in Arizona producing 4nm and 3nm chips, targeting production between 2025 and 2028. **Intel** announced a potential $100+ billion investment over a decade for two advanced logic chip fabs in Ohio, receiving $8.5 billion in CHIPS funding. **Samsung** is expanding its Austin, Texas fabrication facility for advanced logic production at a cost of approximately $25 billion. **Micron** plans two memory chip fabs in New York representing $100 billion in investment over 20 years, supported by $6.1 billion in CHIPS funding. **GlobalFoundries** received $1.5 billion in CHIPS funding for expansion of its Malta, New York fab.
+By early 2026, several flagship CHIPS projects had moved from announcement to finalized award terms. **TSMC** received up to $6.6 billion in direct CHIPS funding and up to $5 billion in potential loans; in March 2025 it announced plans to increase its U.S. investment to $165 billion, adding a third Arizona fab plus advanced packaging and R&D capacity. **Intel** signed a preliminary CHIPS award of up to $7.865 billion in direct funding plus up to $11 billion in loans across Arizona, New Mexico, Ohio, and Oregon. **Samsung** signed a preliminary award of up to $4.745 billion in direct funding and up to $1.458 billion in loans for Central Texas investments exceeding $37 billion. **Micron** signed a preliminary CHIPS award of up to $6.165 billion tied to long-run memory fab expansion in New York and Idaho. **GlobalFoundries** received up to $1.5 billion in direct funding to support more than $12 billion in expansion in New York and Vermont.
 
-These projects face significant **challenges**, however. **Cost overruns** plague the effort, as U.S. fab construction costs run 30-50% higher than equivalent facilities in Taiwan or Korea due to labor, regulatory, and materials expenses. **Talent shortages** compound the difficulty: the United States lacks sufficient semiconductor engineers and technicians, forcing TSMC to bring staff from Taiwan to its Arizona operations. Even when completed, the Arizona TSMC fabs will produce chips 2-3 generations behind Taiwan's leading edge, reflecting a persistent **technology lag**. Questions of **subsidy dependency** loom large, since without ongoing government support, the economics continue to favor offshore production. Finally, **timeline delays** have affected multiple projects, with TSMC Arizona's initial production pushed from 2024 to 2025-2026.
+These projects still face significant **challenges**. **Cost overruns** remain common, as U.S. fab construction costs run materially above equivalent facilities in Taiwan or Korea due to labor, regulatory, and materials expenses. **Talent shortages** remain binding in engineering and technician roles. Questions of **subsidy dependency** also persist: without continuing public support, private economics still favor lower-cost offshore production in many segments. Finally, **timeline risk** remains substantial; original schedules for multiple projects slipped, and ramp quality/yield execution has become at least as important as groundbreaking announcements.
 
 **Inflation Reduction Act (August 2022)**
 
@@ -817,21 +817,22 @@ Common mitigation approaches:
 - **Annual certifications**: Ongoing reporting requirements
 - **Violation consequences**: Fines, divestment, criminal penalties
 
-**Statistics (2024)**
+**Statistics (CY2024 Treasury report)**
 
-- **Total filings**: ~150-180 annually
-- **Investigation rate**: ~15-20% of notices proceed to Phase II
-- **Withdrawal rate**: ~5-10% (often indicating anticipated blocks)
-- **Presidential blocks**: Rare (<5 since 2012), but shadow effect means parties withdraw before formal decision
-- **Mitigation agreements**: ~20-30 annually
+- **Declarations**: 116
+- **Written notices**: 209
+- **Declarations cleared in first stage**: 58 (50%)
+- **Declarations moved to notices**: 43
+- **Withdrawn notices**: 49 (including 15 abandoned transactions)
+- **China-linked notices**: 26 (12%)
 
 **FIRRMA Impact**
 
 Post-FIRRMA changes:
-- **Mandatory declarations**: 200-300 annually (new category)
-- **Increased staff**: From ~20 to 70+ FTEs
-- **Longer timelines**: Average case duration increased from 60 days to 80+ days
-- **Chinese transaction collapse**: From 23% of cases (2016) to 7-10% (2024)
+- **Mandatory declaration channel institutionalized**: Declarations are now a durable, high-volume front door (116 in CY2024)
+- **Increased staffing and enforcement capacity**: CFIUS has more resources than the pre-FIRRMA era, but case complexity also rose
+- **Longer and more iterative case timelines**: Notice withdrawals/refilings are frequently used to resolve concerns
+- **Chinese transaction collapse**: From 23% of reviewed transactions (2016) to 12% of notices (CY2024)
 
 **Challenges and Criticisms**
 
@@ -1112,7 +1113,7 @@ The case is particularly instructive for this chapter's themes because it illust
 
 ## Key Insights
 
-- **Investment screening has evolved from passive bureaucratic review to active economic coercion:** Traditional CFIUS review focused on narrow security concerns with a 99%+ approval rate. FIRRMA's 2018 expansion transformed the process into a mechanism for strategic decoupling, and Chinese investment in U.S. technology plummeted 95% from a 2016 peak of $45.6 billion to $2.5 billion in 2024 -- a decline driven by policy intent, not market forces.
+- **Investment screening has evolved from passive bureaucratic review to active economic coercion:** Traditional CFIUS review focused on narrow security concerns with a 99%+ approval rate. FIRRMA's 2018 expansion transformed the process into a mechanism for strategic decoupling, and Chinese investment in U.S. technology plummeted 95% from a 2016 peak of $45.6 billion to about $2.5 billion by 2024 -- a decline driven by policy intent, not market forces.
 
 - **The return of industrial policy represents a paradigm shift in Western economic governance:** The United States -- long a champion of free markets and skeptic of state intervention -- committed over $500 billion through the CHIPS Act, Inflation Reduction Act, and infrastructure legislation to reshape critical supply chains. The mantra "government shouldn't pick winners" gave way after China picked winners and they won, particularly in renewable energy, batteries, and telecommunications.
 
@@ -1132,7 +1133,7 @@ The case is particularly instructive for this chapter's themes because it illust
 
 3. China's informal economic coercion against Australia operated through administrative measures and "quality concerns" rather than explicit sanctions, allowing plausible deniability and avoiding WTO mechanisms. How should international institutions adapt to address this form of coercion? Is a new institutional framework needed, or can existing trade law evolve?
 
-4. The TikTok divestiture case has dragged on for years through multiple administrations and legal challenges. Does the inability to resolve this case suggest fundamental limitations of investment screening as a coercion tool? What does it reveal about the tension between national security authorities and due process protections in a constitutional system?
+4. The TikTok case required years of litigation, negotiation, and eventually forced restructuring in 2025-2026. What does that timeline reveal about the practical limits and strengths of investment screening? How should policymakers balance national security authorities with due process protections in a constitutional system?
 
 5. Belt and Road Initiative lending creates dependencies that may constrain recipient countries' foreign policy autonomy. How does development finance differ from -- or overlap with -- economic coercion? At what point does a financing relationship become a leverage relationship, and how should recipient countries manage this risk?
 
@@ -1146,7 +1147,7 @@ The case is particularly instructive for this chapter's themes because it illust
 
 ## References
 
-1. U.S. Department of the Treasury, "Annual Report to Congress on CFIUS," various years, https://home.treasury.gov/policy-issues/international/cfius-reports-and-tables
+1. U.S. Department of the Treasury, "Annual Report to Congress on CFIUS, Calendar Year 2024" (published August 2025), https://home.treasury.gov/policy-issues/international/cfius-reports-and-tables
 
 2. Rhodium Group, "Two-Way Street: 2024 Update on US-China Investment Trends," Thilo Hanemann, Daniel H. Rosen, et al., May 2024.
 
@@ -1154,17 +1155,21 @@ The case is particularly instructive for this chapter's themes because it illust
 
 4. U.S. Congress, CHIPS and Science Act of 2022, Public Law 117-167.
 
-5. BIOSECURE Act, Section 851 of the National Defense Authorization Act for Fiscal Year 2026 (December 18, 2025); originally H.R. 8333, 118th Congress (2024).
+5. U.S. Department of Commerce, CHIPS Program Office award announcements: Intel (March 2024), TSMC Arizona (April 2024), GlobalFoundries (February 2024), Micron (April 2024), and Samsung Texas (December 2024).
 
-6. Australian Bureau of Statistics, "International Trade in Goods and Services," various releases 2020-2024.
+6. The White House, "Fact Sheet: President Donald J. Trump Secures Historic $100 Billion U.S. Investment from TSMC" (March 3, 2025).
 
-7. State Council of the People's Republic of China, "Made in China 2025," 2015.
+7. BIOSECURE Act, Section 851 of the National Defense Authorization Act for Fiscal Year 2026 (December 18, 2025); originally H.R. 8333, 118th Congress (2024).
 
-8. Miller, Chris. *Chip War: The Fight for the World's Most Critical Technology.* New York: Scribner, 2022.
+8. Australian Bureau of Statistics, "International Trade in Goods and Services," various releases 2020-2024.
 
-9. European Commission, "Annual Report on the screening of foreign direct investments into the Union," 2024.
+9. State Council of the People's Republic of China, "Made in China 2025," 2015.
 
-10. American Enterprise Institute, "China Global Investment Tracker," https://www.aei.org/china-global-investment-tracker/
+10. Miller, Chris. *Chip War: The Fight for the World's Most Critical Technology.* New York: Scribner, 2022.
+
+11. European Commission, "Report from the Commission to the European Parliament and the Council: Tenth annual report on the screening of foreign direct investments into the Union (2024)," COM(2025) 330 final (June 2025).
+
+12. American Enterprise Institute, "China Global Investment Tracker," https://www.aei.org/china-global-investment-tracker/
 
 ---
 
