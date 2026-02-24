@@ -552,6 +552,141 @@ The fundamental challenge is that both sides view their supply chain policies as
 
 ---
 
+## Government Tools Box 1: Defense Production Act — Supply Chain Authorities
+
+### Legal Authority
+
+**Statute:** 50 U.S.C. §§ 4501-4568 (originally enacted 1950, reauthorized and amended multiple times, most recently 2024)
+
+The **Defense Production Act (DPA)** is the primary statutory authority through which the U.S. government shapes domestic productive capacity for national defense and emergency preparedness. While originally enacted during the Korean War to ensure military supply, the DPA's authorities have been invoked with increasing frequency for supply chain resilience — particularly since the COVID-19 pandemic revealed how decades of offshoring had concentrated critical production in potential adversaries.
+
+Three titles are most relevant to supply chain policy:
+
+- **Title I — Priorities and Allocations**: Authorizes the President to require companies to prioritize government contracts and allocate materials for national defense. Administered through the Defense Priorities and Allocations System (DPAS), which assigns priority ratings to contracts, compelling suppliers to fulfill government orders before commercial ones.
+
+- **Title III — Expansion of Productive Capacity**: Authorizes the President to provide loans, loan guarantees, purchase commitments, and direct investments to expand domestic production of critical materials and technologies. This is the primary tool for building new supply chains.
+
+- **Title VII — General Provisions**: Includes authorities for voluntary agreements among competitors (antitrust exemptions for supply chain coordination) and the Committee on Foreign Investment in the United States (CFIUS), which reviews foreign acquisitions for national security risks (see Chapter 8, Government Tools Box 1).
+
+### Implementing Agencies
+
+- **Department of Defense** (primary Title III administrator for defense-related materials)
+- **Department of Health and Human Services** (medical supply chain, pharmaceutical production)
+- **Department of Energy** (critical minerals processing, nuclear materials, battery supply chains)
+- **Department of Commerce** (industrial base assessments, DPAS administration)
+- **Federal Emergency Management Agency** (disaster-related supply chain mobilization)
+
+### How It Works
+
+**Title I — Priority Ratings:**
+1. Government agency identifies a supply need critical to national defense or emergency preparedness
+2. Agency assigns a priority rating (DX for highest priority, DO for standard) to the contract
+3. Rated orders take legal precedence over unrated commercial orders — suppliers must accept and fulfill them ahead of other business
+4. Non-compliance is a federal offense (fines up to $10,000 per violation)
+
+**Title III — Production Expansion:**
+1. President determines that a material or technology is essential for national defense and domestic supply is inadequate
+2. Designated agency (typically DoD, DOE, or HHS) solicits proposals from private companies
+3. Government provides financial support: purchase commitments (guaranteed demand), loans, loan guarantees, or direct capital investments
+4. Companies build or expand production facilities, with government bearing part of the financial risk
+5. Government may take equity positions in supported projects
+
+### Recent Applications
+
+**COVID-19 Pandemic Response (2020-2021)**
+
+President Trump invoked Title I to compel manufacturers to prioritize ventilator production (General Motors, Ford) and N95 respirator manufacturing (3M). Title III funds supported domestic production of testing supplies, pharmaceuticals, and vaccine manufacturing capacity. The pandemic marked the broadest DPA activation since the Korean War, with over 80 rated orders issued in 2020 alone.
+
+**Critical Minerals (2022-present)**
+
+In March 2022, President Biden invoked Title III for five critical minerals essential to the energy transition and defense supply chains: **lithium, nickel, cobalt, graphite, and manganese**. This determination authorized DoD to fund domestic mining and processing projects — directly addressing the processing concentration risks discussed earlier in this chapter. Specific investments include:
+
+- $35 million to Albemarle Corporation for lithium refining expansion in North Carolina
+- Funding for rare earth element separation and processing (MP Materials, Lynas)
+- Grants for battery-grade graphite and manganese production
+
+**Pharmaceutical APIs (2020-present)**
+
+Title III authority supported domestic production of essential medications and active pharmaceutical ingredients, including investments in sterile injectable drug production and antibiotic precursor manufacturing — targeting the vulnerabilities examined in Section 4.
+
+### Strengths
+
+1. **Speed**: Title I priority ratings can redirect supply chains within days, far faster than market signals alone
+2. **Flexibility**: Broad "national defense" definition allows application to emerging threats (pandemics, critical minerals, climate) beyond traditional military needs
+3. **Risk-sharing**: Title III purchase commitments reduce private sector risk in building facilities that may not be commercially competitive, enabling investment that markets alone would not support
+4. **Proven track record**: Successfully mobilized PPE, ventilator, and vaccine production during COVID-19; historical precedent stretching back to Korean War industrial mobilization
+
+### Limitations
+
+1. **Temporary demand signal**: DPA purchase commitments are time-limited; companies may hesitate to build permanent capacity based on government contracts that could end with a new administration
+2. **Scale mismatch**: DPA investments (tens of millions per project) are dwarfed by Chinese state subsidies (tens of billions for critical minerals processing). Title III can seed domestic capacity but cannot achieve cost competitiveness with established Chinese supply chains
+3. **Permitting bottlenecks**: DPA can fund a lithium refinery, but cannot accelerate the 7-12 year environmental permitting process required to build one. Production expansion often bottlenecks on regulatory approval rather than financing
+4. **No demand mandate**: DPA cannot force private companies to *buy* domestically produced materials if foreign alternatives remain cheaper. Without complementary policies (tariffs, procurement requirements, tax credits), DPA-funded facilities may struggle commercially once government purchase commitments expire
+5. **Coordination challenges**: Multiple agencies administer DPA authorities with overlapping jurisdictions. DoD, DOE, HHS, and Commerce each manage different supply chain priorities, sometimes with inconsistent strategies
+
+**Cross-reference:** For DPA's interaction with industrial policy authorities (CHIPS Act, Inflation Reduction Act, Buy America provisions), see Chapter 8, Government Tools Box 2.
+
+---
+
+## Government Tools Box 2: U.S. International Development Finance Corporation (DFC)
+
+### Legal Authority
+
+**Statute:** BUILD Act of 2018 (Better Utilization of Investments Leading to Development Act), Public Law 115-254, Title VI
+
+The **U.S. International Development Finance Corporation (DFC)** was established in 2019 by consolidating the Overseas Private Investment Corporation (OPIC) and USAID's Development Credit Authority into a single agency with expanded tools and authorities. DFC is the U.S. government's development finance institution — its mission is to mobilize private capital in developing countries to advance U.S. foreign policy. In practice, DFC has become a primary instrument of **"friendshoring"**: financing alternative supply chains in allied and partner countries to reduce concentration in China.
+
+**FY26 NDAA Expansion (2025):** Congress substantially expanded DFC's authorities, lifting geographic limitations in strategic sectors (allowing investments in upper-middle and high-income countries for critical minerals), increasing the investment cap from $60 billion to **$205 billion**, and strengthening equity investment authorities through a new revolving equity fund.
+
+### Implementing Agency
+
+- **DFC** (independent U.S. government agency)
+- **Board of Directors**: Chaired by Secretary of State, includes USAID Administrator, Secretary of the Treasury, Secretary of Commerce, and others — ensuring alignment with foreign policy, development, and economic security objectives
+- **Interagency coordination**: Works with State Department (diplomatic relationships), Commerce (critical minerals strategy), Defense (supply chain security assessments)
+
+### Key Tools
+
+1. **Direct Loans**: DFC provides debt financing to private projects in eligible countries. Loans can be substantial — up to hundreds of millions per project — at terms competitive with commercial lending.
+
+2. **Loan Guarantees**: DFC guarantees loans made by private lenders, reducing risk and enabling projects that commercial banks would not finance alone.
+
+3. **Equity Investments**: DFC takes equity stakes in funds and companies, sharing upside risk. The FY26 NDAA's revolving equity fund strengthened this tool, allowing DFC to recycle returns into new investments.
+
+4. **Political Risk Insurance**: Covers investors against expropriation, currency inconvertibility, and political violence — critical for mining and processing projects in unstable jurisdictions.
+
+5. **Technical Development**: Pre-investment support for project feasibility studies and development.
+
+### Recent Applications: Critical Minerals
+
+DFC has made critical minerals supply chain diversification a strategic priority, deploying billions in investments designed to build Western-aligned alternatives to Chinese processing dominance:
+
+**Orion Critical Minerals Consortium (2025-2026):** DFC invested $600 million in a landmark $1.8 billion public-private partnership with Orion Resource Partners and Abu Dhabi's ADQ sovereign wealth fund. The consortium invests in critical mineral projects across DFC-eligible countries, targeting minerals essential for defense and energy transition applications.
+
+**Serra Verde Rare Earths, Brazil (2025):** DFC signed a $565 million loan to expand the Pela Ema rare earths mine — developing a Western-aligned source of rare earth elements including heavy rare earths currently dominated by Chinese processing.
+
+**Kazakhstan Tungsten (2025):** Letters of intent for up to $700 million in financing for the Severniy Katpar Tungsten Mine — diversifying supply of a mineral critical for defense applications (armor-piercing ammunition, cutting tools, aerospace alloys).
+
+**DRC Mining and Rail Infrastructure (2025):** Following the DRC-Rwanda peace agreement, DFC announced investments in both mining and railroad rehabilitation in southern DRC — addressing the infrastructure bottlenecks that have historically limited non-Chinese access to Congolese cobalt and copper.
+
+**TechMet Equity Investment:** DFC made an early equity investment in TechMet, a fund focused on critical minerals production across multiple countries, including Brazilian nickel and Rwandan tungsten operations.
+
+### Strengths
+
+1. **Leverages private capital**: DFC mobilizes multiples of its own investment from private co-investors. A $600 million DFC commitment attracted $1.2 billion in additional private capital in the Orion CMC deal — multiplying impact beyond what government spending alone achieves
+2. **Diplomatic tool**: DFC investments strengthen relationships with partner countries by offering alternatives to Chinese infrastructure financing (BRI), creating economic incentives for alignment with U.S. supply chain strategies
+3. **Expanded scale**: The $205 billion investment cap positions DFC to compete more credibly with China Development Bank and China Exim Bank, which collectively deploy hundreds of billions in development finance
+4. **Risk mitigation**: Political risk insurance addresses a key barrier to private investment in mining jurisdictions with governance challenges (DRC, Mozambique, Central Asia)
+
+### Limitations
+
+1. **Development-security tension**: DFC's statutory mandate prioritizes development impact in low-income countries, but critical minerals are often located in middle-income countries. The FY26 NDAA partially addressed this with strategic sector waivers, but the fundamental mission tension persists — mixing development and minerals security objectives means neither is optimized (CSIS 2024)
+2. **Scale gap**: Even at $205 billion, DFC's portfolio remains modest against the scale of Chinese state investment in minerals processing. China invested an estimated $100 billion+ in minerals processing infrastructure over two decades; DFC's entire critical minerals portfolio is under $5 billion
+3. **Timeline mismatch**: Mining and processing projects take 5-10 years from investment to production. DFC investments made in 2025 will not meaningfully alter supply chain concentration until the early 2030s — too late to address near-term vulnerabilities
+4. **No processing mandate**: DFC can finance mines and refineries, but cannot guarantee that materials will be processed in Western-aligned facilities rather than shipped to China for refining (the persistent midstream processing gap discussed in Section 3)
+5. **Partner country sovereignty**: DFC-funded projects operate in sovereign nations whose governments may shift alignment, impose export restrictions, or renegotiate terms — risks that political risk insurance mitigates but does not eliminate
+
+---
+
 ## Data Sources and Further Research
 
 For practitioners, researchers, and policymakers seeking to deepen understanding of supply chain vulnerabilities, several categories of data sources and analytical resources prove particularly valuable.
