@@ -22,35 +22,16 @@ Tariffs—taxes on imported goods—represent the oldest form of trade policy, p
 
 ### Legal Authorities for U.S. Tariffs
 
-The United States employs multiple statutory authorities to impose tariffs, each with distinct procedural requirements and substantive standards:
+The United States employs multiple statutory authorities to impose tariffs, each with distinct procedural requirements, substantive standards, and strategic applications. Three statutes have been central to the trade war era (detailed legal analysis of each appears in the Government Tools Boxes later in this chapter):
 
-**Section 232 of the Trade Expansion Act of 1962** (19 U.S.C. § 1862) authorizes the President to adjust imports of articles and derivatives if the Secretary of Commerce determines such imports threaten to impair national security. This remarkably broad authority requires no congressional approval and faces minimal judicial review. The Commerce Department's Bureau of Industry and Security conducts investigations considering:
-
-- Domestic production needed for projected national defense requirements
-- Capacity of domestic industries to meet those requirements
-- Existing and anticipated availabilities of human resources, products, raw materials, and production equipment
-- Growth requirements of domestic industries
-- Impact of foreign competition on specific industries
-- Displacement of any domestic products causing substantial unemployment
-- Serious effects upon national security from imports
-
-The Trump administration expansively interpreted "national security" to include economic security, using Section 232 to impose 25% tariffs on steel imports (March 2018) and 10% on aluminum imports, affecting imports from close allies including the European Union, Canada, and Mexico. The Biden administration maintained these tariffs while negotiating exceptions for allies, demonstrating bipartisan acceptance of broad Section 232 application.
+**Section 232 of the Trade Expansion Act of 1962** (19 U.S.C. § 1862) authorizes the President to adjust imports threatening national security—a remarkably broad authority requiring no congressional approval. The Trump administration expansively interpreted "national security" to include economic security, using Section 232 to impose 25% tariffs on steel imports (March 2018) and 10% on aluminum imports, affecting imports from close allies including the European Union, Canada, and Mexico. The Biden administration maintained these tariffs while negotiating exceptions for allies, demonstrating bipartisan acceptance of broad Section 232 application. (See *Government Tools Box 1: Section 232 of the Trade Expansion Act.*)
 
 {% hint style="warning" %}
 **Precedent Alert: The "National Security" Loophole**
 The Trump administration's broad interpretation of "national security" under Section 232 set a dangerous precedent. By including economic security and industrial base concerns, this interpretation opened the door for virtually any import restriction to be justified on national security grounds. Other countries have since followed suit, invoking similar security exceptions for their own trade restrictions—eroding the rules-based trading system that the U.S. itself built.
 {% endhint %}
 
-**Section 301 of the Trade Act of 1974** (19 U.S.C. § 2411) authorizes the U.S. Trade Representative (USTR) to investigate and take action against foreign government practices that are "unjustifiable," "unreasonable," or "discriminatory" and burden U.S. commerce. Unlike Section 232's national security focus, Section 301 addresses unfair trade practices including:
-
-- Intellectual property rights violations
-- Denial of market opportunities
-- Export targeting or market distortion
-- Practices failing to provide adequate market access
-- Technology transfer requirements
-- Trade agreement violations
-
-Section 301 requires USTR investigation (initiated by petition or self-initiated), public comment periods, and consultation with foreign governments. If USTR determines violations exist and diplomatic resolution fails, the President may impose retaliatory measures including tariffs, import restrictions, or suspension of trade agreement benefits. The Trump administration's August 2017 Section 301 investigation into China's technology transfer practices culminated in tariffs affecting over $360 billion in Chinese imports (USTR 2018; Bown and Kolb 2021)—the largest Section 301 action in history.
+**Section 301 of the Trade Act of 1974** (19 U.S.C. § 2411) authorizes the U.S. Trade Representative to investigate and take action against foreign trade practices that are "unjustifiable," "unreasonable," or "discriminatory." Unlike Section 232's national security focus, Section 301 targets unfair trade practices—intellectual property violations, forced technology transfer, market access denials—and was the primary legal authority for the U.S.-China trade war. The Trump administration's August 2017 Section 301 investigation into China's technology transfer practices culminated in tariffs affecting over $360 billion in Chinese imports (USTR 2018; Bown and Kolb 2021)—the largest Section 301 action in history. (See *Government Tools Box 2: Section 301 of the Trade Act of 1974.*)
 
 **Section 201 of the Trade Act of 1974** (19 U.S.C. § 2251) provides "safeguard" relief for domestic industries seriously injured by imports, regardless of whether foreign practices are unfair. The International Trade Commission investigates injury claims and recommends remedies; the President decides whether to impose restrictions. Recent applications include solar panel tariffs (2018, later mostly removed) and washing machine tariffs (2018-2023). Section 201 applies on a most-favored-nation basis (affecting all countries), unlike the country-specific targeting possible under Section 232 or 301.
 
@@ -294,7 +275,7 @@ AG faces fundamental challenge: Most controlled chemicals and equipment have leg
 
 ### U.S. Unilateral Export Controls: The Export Administration Regulations
 
-The United States maintains the world's most extensive unilateral export control system, codified in the **Export Administration Regulations (EAR)**, 15 C.F.R. Part 730 et seq. The Commerce Department's Bureau of Industry and Security (BIS) administers EAR based on statutory authority from the **Export Control Reform Act of 2018** (ECRA), 50 U.S.C. § 4801 et seq.
+The United States maintains the world's most extensive unilateral export control system, codified in the **Export Administration Regulations (EAR)**, 15 C.F.R. Part 730 et seq. The Commerce Department's Bureau of Industry and Security (BIS) administers EAR based on statutory authority from the **Export Control Reform Act of 2018** (ECRA), 50 U.S.C. § 4801 et seq. (For detailed legal analysis of EAR authorities, jurisdiction, enforcement, and the Entity List, see *Government Tools Box 3: Export Administration Regulations and Entity List.*)
 
 <figure class="book-figure">
   <img src="../figures/fig_06_03_entity_list.png" alt="Entity List additions by administration, showing the growth of export control restrictions.">
