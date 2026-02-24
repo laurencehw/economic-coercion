@@ -22,35 +22,16 @@ Tariffs—taxes on imported goods—represent the oldest form of trade policy, p
 
 ### Legal Authorities for U.S. Tariffs
 
-The United States employs multiple statutory authorities to impose tariffs, each with distinct procedural requirements and substantive standards:
+The United States employs multiple statutory authorities to impose tariffs, each with distinct procedural requirements, substantive standards, and strategic applications. Three statutes have been central to the trade war era (detailed legal analysis of each appears in the Government Tools Boxes later in this chapter):
 
-**Section 232 of the Trade Expansion Act of 1962** (19 U.S.C. § 1862) authorizes the President to adjust imports of articles and derivatives if the Secretary of Commerce determines such imports threaten to impair national security. This remarkably broad authority requires no congressional approval and faces minimal judicial review. The Commerce Department's Bureau of Industry and Security conducts investigations considering:
-
-- Domestic production needed for projected national defense requirements
-- Capacity of domestic industries to meet those requirements
-- Existing and anticipated availabilities of human resources, products, raw materials, and production equipment
-- Growth requirements of domestic industries
-- Impact of foreign competition on specific industries
-- Displacement of any domestic products causing substantial unemployment
-- Serious effects upon national security from imports
-
-The Trump administration expansively interpreted "national security" to include economic security, using Section 232 to impose 25% tariffs on steel imports (March 2018) and 10% on aluminum imports, affecting imports from close allies including the European Union, Canada, and Mexico. The Biden administration maintained these tariffs while negotiating exceptions for allies, demonstrating bipartisan acceptance of broad Section 232 application.
+**Section 232 of the Trade Expansion Act of 1962** (19 U.S.C. § 1862) authorizes the President to adjust imports threatening national security—a remarkably broad authority requiring no congressional approval. The Trump administration expansively interpreted "national security" to include economic security, using Section 232 to impose 25% tariffs on steel imports (March 2018) and 10% on aluminum imports, affecting imports from close allies including the European Union, Canada, and Mexico. The Biden administration maintained these tariffs while negotiating exceptions for allies, demonstrating bipartisan acceptance of broad Section 232 application. (See *Government Tools Box 1: Section 232 of the Trade Expansion Act.*)
 
 {% hint style="warning" %}
 **Precedent Alert: The "National Security" Loophole**
 The Trump administration's broad interpretation of "national security" under Section 232 set a dangerous precedent. By including economic security and industrial base concerns, this interpretation opened the door for virtually any import restriction to be justified on national security grounds. Other countries have since followed suit, invoking similar security exceptions for their own trade restrictions—eroding the rules-based trading system that the U.S. itself built.
 {% endhint %}
 
-**Section 301 of the Trade Act of 1974** (19 U.S.C. § 2411) authorizes the U.S. Trade Representative (USTR) to investigate and take action against foreign government practices that are "unjustifiable," "unreasonable," or "discriminatory" and burden U.S. commerce. Unlike Section 232's national security focus, Section 301 addresses unfair trade practices including:
-
-- Intellectual property rights violations
-- Denial of market opportunities
-- Export targeting or market distortion
-- Practices failing to provide adequate market access
-- Technology transfer requirements
-- Trade agreement violations
-
-Section 301 requires USTR investigation (initiated by petition or self-initiated), public comment periods, and consultation with foreign governments. If USTR determines violations exist and diplomatic resolution fails, the President may impose retaliatory measures including tariffs, import restrictions, or suspension of trade agreement benefits. The Trump administration's August 2017 Section 301 investigation into China's technology transfer practices culminated in tariffs affecting over $360 billion in Chinese imports (USTR 2018; Bown and Kolb 2021)—the largest Section 301 action in history.
+**Section 301 of the Trade Act of 1974** (19 U.S.C. § 2411) authorizes the U.S. Trade Representative to investigate and take action against foreign trade practices that are "unjustifiable," "unreasonable," or "discriminatory." Unlike Section 232's national security focus, Section 301 targets unfair trade practices—intellectual property violations, forced technology transfer, market access denials—and was the primary legal authority for the U.S.-China trade war. The Trump administration's August 2017 Section 301 investigation into China's technology transfer practices culminated in tariffs affecting over $360 billion in Chinese imports (USTR 2018; Bown and Kolb 2021)—the largest Section 301 action in history. (See *Government Tools Box 2: Section 301 of the Trade Act of 1974.*)
 
 **Section 201 of the Trade Act of 1974** (19 U.S.C. § 2251) provides "safeguard" relief for domestic industries seriously injured by imports, regardless of whether foreign practices are unfair. The International Trade Commission investigates injury claims and recommends remedies; the President decides whether to impose restrictions. Recent applications include solar panel tariffs (2018, later mostly removed) and washing machine tariffs (2018-2023). Section 201 applies on a most-favored-nation basis (affecting all countries), unlike the country-specific targeting possible under Section 232 or 301.
 
@@ -294,7 +275,7 @@ AG faces fundamental challenge: Most controlled chemicals and equipment have leg
 
 ### U.S. Unilateral Export Controls: The Export Administration Regulations
 
-The United States maintains the world's most extensive unilateral export control system, codified in the **Export Administration Regulations (EAR)**, 15 C.F.R. Part 730 et seq. The Commerce Department's Bureau of Industry and Security (BIS) administers EAR based on statutory authority from the **Export Control Reform Act of 2018** (ECRA), 50 U.S.C. § 4801 et seq.
+The United States maintains the world's most extensive unilateral export control system, codified in the **Export Administration Regulations (EAR)**, 15 C.F.R. Part 730 et seq. The Commerce Department's Bureau of Industry and Security (BIS) administers EAR based on statutory authority from the **Export Control Reform Act of 2018** (ECRA), 50 U.S.C. § 4801 et seq. (For detailed legal analysis of EAR authorities, jurisdiction, enforcement, and the Entity List, see *Government Tools Box 3: Export Administration Regulations and Entity List.*)
 
 <figure class="book-figure">
   <img src="../../figures/fig_06_03_entity_list.png" alt="Entity List additions by administration, showing the growth of export control restrictions.">
@@ -892,6 +873,73 @@ Western policymakers expecting Chinese concessions through economic pressure und
 
 ---
 
+## European Perspective Box: Strategic Autonomy and the Politics of Extraterritoriality
+
+### Understanding European Views on Trade-Based Coercion
+
+European perspectives on economic coercion occupy a distinctive third position — neither the American view (coercion as legitimate tool of primacy) nor the Chinese view (coercion as Western containment). The EU experiences economic coercion from *both* directions: as a target of Chinese pressure and as collateral damage from American extraterritoriality. This dual exposure has produced a European approach emphasizing institutional rules, multilateral frameworks, and a growing — if still incomplete — commitment to strategic autonomy.
+
+### Historical Context: From Rule-Taker to Rule-Maker
+
+The European Union was built on trade rules. The Single Market, the customs union, the Common Commercial Policy — these represent the world's most ambitious experiment in rules-based economic integration. Europeans internalized the lesson of the 1930s: that unilateral trade restrictions and beggar-thy-neighbor policies lead to political catastrophe. This institutional DNA shapes European reactions to both American and Chinese economic coercion: a reflexive preference for WTO adjudication, multilateral coordination, and proportionate response over unilateral escalation.
+
+But this rules-based instinct has been tested. The Trump administration's Section 232 steel and aluminum tariffs (2018) — imposed on allies under a "national security" justification that Europeans found insulting and pretextual — demonstrated that rule-following provides no protection when a major partner abandons multilateral norms. China's informal economic coercion against Lithuania (2021-2022), after Vilnius permitted Taiwan to open a "Taiwanese Representative Office," demonstrated that rules-based economies are vulnerable to state-capitalist pressure tactics that operate below the threshold of formal trade disputes.
+
+### Key European Concepts
+
+**Strategic Autonomy (*autonomie stratégique*)**
+
+European strategic autonomy — a concept originally articulated by French President Macron and adopted in modified form by the European Commission — describes the EU's aspiration to act independently in defense of its economic interests without dependence on American security guarantees or vulnerability to Chinese leverage. In its trade dimension, strategic autonomy encompasses:
+
+- **Reduced dependence on single suppliers**: Diversifying critical supply chains away from both Chinese and, in some cases, American dominance
+- **Defensive trade instruments**: Building the EU's own capacity to respond to economic coercion, rather than relying on American protection
+- **Technology sovereignty**: Developing European capabilities in semiconductors, AI, cloud computing, and other strategic sectors — neither American nor Chinese, but European
+
+Strategic autonomy remains contested within the EU. France champions robust autonomy; Germany worries it will damage transatlantic trade and investment; smaller member states fear it reduces their leverage within the alliance. The concept has nonetheless shifted European policy from passive rule-following toward active economic security, codified in the European Commission's 2023 European Economic Security Strategy.
+
+**The Blocking Statute (1996, updated 2018)**
+
+The EU Blocking Statute, originally adopted in 1996 in response to U.S. extraterritorial sanctions on Cuba, Iran, and Libya, prohibits EU persons from complying with specified U.S. secondary sanctions and nullifies the effect of foreign court judgments based on them. The statute was updated in August 2018 after the Trump administration's withdrawal from the Iran nuclear deal (JCPOA) and reimposition of secondary sanctions on European firms doing legitimate business with Iran.
+
+The Blocking Statute embodies the EU's core legal objection to extraterritoriality: that U.S. secondary sanctions violate international law by extending American jurisdiction to transactions involving no U.S. persons, no U.S. territory, and no U.S.-origin goods. It has, however, proven largely ineffective in practice — European firms, faced with the choice between compliance with EU law and access to dollar-denominated markets, overwhelmingly chose compliance with U.S. sanctions. The BNP Paribas case (2014, $8.9 billion fine for sanctions violations) and the mass withdrawal of European firms from Iran after 2018 demonstrated that American financial market access trumps European legal obligations. The statute's failure catalyzed the search for more effective instruments.
+
+**The Anti-Coercion Instrument (ACI, December 2023)**
+
+The ACI represents the EU's most significant response to economic coercion, adopted in November 2023 and entering into force on December 27, 2023. It was directly inspired by China's economic pressure on Lithuania and Australia, but its architecture is deliberately non-country-specific:
+
+- **Definition**: Economic coercion exists when a third country applies or threatens trade/investment measures to pressure the EU or a member state into making a particular policy choice
+- **Procedure**: The Commission investigates, proposes a determination to the Council (which decides by qualified majority — critically, no single-member veto), engages in dialogue with the coercing country, and if dialogue fails, adopts countermeasures
+- **Response measures**: Tariffs, import/export restrictions, exclusion from public procurement, limits on financial market access, restrictions on intellectual property rights — a comprehensive toolkit
+- **Deterrence logic**: The ACI is designed to deter coercion before it occurs, signaling that the EU can impose costs on coercers rather than simply absorbing pressure
+
+The ACI has not yet been formally invoked as of early 2026, but its existence has already reshaped diplomatic calculations. Its adoption by qualified majority voting — removing the single-member veto that previously paralyzed EU trade responses — represents a significant institutional evolution.
+
+### European Critiques of U.S. and Chinese Economic Coercion
+
+**On American Extraterritoriality**
+
+European frustration with U.S. extraterritorial sanctions runs deep and crosses the political spectrum:
+
+- **JCPOA withdrawal**: The U.S. unilateral exit from the Iran nuclear deal and reimposition of secondary sanctions forced European firms out of a market that the EU had collectively negotiated to open — demonstrating that European commercial interests are subordinate to American domestic politics
+- **Secondary sanctions as coercion**: Europeans view secondary sanctions as the United States coercing allies, not adversaries. When a French bank, a German automaker, or an Italian energy company must abandon legal business because Washington changed policy, Europeans experience this as American economic coercion dressed in the language of alliance solidarity
+- **Dollar weaponization**: The dollar's role as global reserve currency gives the U.S. jurisdiction over virtually any transaction touching the dollar clearing system — a structural asymmetry that Europeans resent but cannot easily escape
+
+**On Chinese Economic Coercion**
+
+European views on Chinese coercion have hardened significantly since 2020:
+
+- **Lithuania precedent**: China's de facto trade embargo on Lithuania (2021-2022) over a Taiwan representation office — including blocking Lithuanian goods transiting through other EU member states — was understood as a direct attack on EU single market integrity and member state sovereignty
+- **"Divide and conquer"**: Europeans recognize Chinese strategy of targeting individual member states to fracture EU solidarity, creating pressure on smaller economies (Greece, Hungary, Czech Republic) to block collective EU positions on China
+- **Systemic rivalry**: The European Commission's 2019 designation of China as a "systemic rival" alongside "partner" and "competitor" reflected growing recognition that Chinese economic practices — subsidies, forced technology transfer, market access restrictions — represent structural challenges, not solvable through WTO dispute settlement
+
+### Implications for Transatlantic Coordination
+
+The EU's development of autonomous economic security tools creates both opportunities and tensions in the transatlantic relationship. On one hand, European investment screening (the EU FDI Screening Regulation), export controls (the EU's dual-use regulation), and the ACI expand the toolkit available for coordinated Western responses to Chinese economic coercion. On the other, European strategic autonomy explicitly aims to reduce dependence on American decisions — the EU does not want to be dragged into economic confrontations driven by American domestic politics, as occurred with Iran.
+
+The central European dilemma: how to coordinate with the United States on China (where interests substantially overlap) while protecting against American extraterritoriality (where interests directly conflict). This balancing act — partner on Monday, target on Tuesday — defines the European experience of 21st-century economic coercion and explains why European policy responses emphasize rules, institutions, and process over the unilateral exercises of power that characterize both American and Chinese approaches.
+
+---
+
 ## Government Tools Box 1: Section 232 of the Trade Expansion Act
 
 ### Legal Authority and Statutory Basis
@@ -993,106 +1041,108 @@ Presidential determinations receive substantial deference; judicial review extre
 
 7. **Economic costs**: Tariffs function as taxes on domestic consumers and import-using firms. Studies estimate steel/aluminum tariffs cost U.S. economy $900,000 per job saved in steel/aluminum production—far exceeding average steel worker wages.
 
-## European Perspective Box: Strategic Autonomy and the Politics of Extraterritoriality
+## Government Tools Box 2: Section 301 of the Trade Act of 1974
 
-### Understanding European Views on Trade-Based Coercion
+### Legal Authority and Statutory Basis
 
-European perspectives on economic coercion occupy a distinctive third position — neither the American view (coercion as legitimate tool of primacy) nor the Chinese view (coercion as Western containment). The EU experiences economic coercion from *both* directions: as a target of Chinese pressure and as collateral damage from American extraterritoriality. This dual exposure has produced a European approach emphasizing institutional rules, multilateral frameworks, and a growing — if still incomplete — commitment to strategic autonomy.
+**Section 301 of the Trade Act of 1974**, codified at 19 U.S.C. § 2411-2420, authorizes the U.S. Trade Representative (USTR) to investigate and take action against foreign government acts, policies, and practices that are "unjustifiable," "unreasonable," or "discriminatory" and burden or restrict U.S. commerce. Section 301 is the primary legal authority behind the U.S.-China trade war tariffs and represents the most consequential trade remedy tool employed in modern strategic competition.
 
-### Historical Context: From Rule-Taker to Rule-Maker
+### Key Provisions
 
-The European Union was built on trade rules. The Single Market, the customs union, the Common Commercial Policy — these represent the world's most ambitious experiment in rules-based economic integration. Europeans internalized the lesson of the 1930s: that unilateral trade restrictions and beggar-thy-neighbor policies lead to political catastrophe. This institutional DNA shapes European reactions to both American and Chinese economic coercion: a reflexive preference for WTO adjudication, multilateral coordination, and proportionate response over unilateral escalation.
+**Investigation Process**:
 
-But this rules-based instinct has been tested. The Trump administration's Section 232 steel and aluminum tariffs (2018) — imposed on allies under a "national security" justification that Europeans found insulting and pretextual — demonstrated that rule-following provides no protection when a major partner abandons multilateral norms. China's informal economic coercion against Lithuania (2021-2022), after Vilnius permitted Taiwan to open a "Taiwanese Representative Office," demonstrated that rules-based economies are vulnerable to state-capitalist pressure tactics that operate below the threshold of formal trade disputes.
+1. **Initiation**: USTR may self-initiate investigations or respond to petitions from interested persons (19 U.S.C. § 2412). Self-initiated investigations require no external trigger—USTR can act on its own assessment of foreign practices.
 
-### Key European Concepts
+2. **Scope of actionable practices**:
+   - **Unjustifiable practices** (§ 2411(a)): Violations of international trade agreements or actions that deny internationally recognized rights (mandatory retaliation)
+   - **Unreasonable practices** (§ 2411(b)): Practices that are inequitable or unfair but not necessarily illegal under international law, including denial of market opportunities, toleration of anticompetitive behavior, inadequate IP protection, and denial of worker rights (discretionary retaliation)
+   - **Discriminatory practices**: Practices that deny national treatment or most-favored-nation treatment to U.S. goods, services, or investment (discretionary retaliation)
 
-**Strategic Autonomy (*autonomie stratégique*)**
+3. **Procedural requirements**: USTR must request consultations with the foreign government, provide public notice, accept public comments, and hold hearings if requested. Investigation period is typically 12-18 months.
 
-European strategic autonomy — a concept originally articulated by French President Macron and adopted in modified form by the European Commission — describes the EU's aspiration to act independently in defense of its economic interests without dependence on American security guarantees or vulnerability to Chinese leverage. In its trade dimension, strategic autonomy encompasses:
+4. **Presidential action**: If USTR determines actionable practices exist and consultations fail, the President may:
+   - Impose duties or import restrictions on goods of the foreign country
+   - Withdraw or suspend trade agreement concessions
+   - Enter into binding agreements with the foreign government to eliminate the practices
+   - Restrict service sector access
 
-- **Reduced dependence on single suppliers**: Diversifying critical supply chains away from both Chinese and, in some cases, American dominance
-- **Defensive trade instruments**: Building the EU's own capacity to respond to economic coercion, rather than relying on American protection
-- **Technology sovereignty**: Developing European capabilities in semiconductors, AI, cloud computing, and other strategic sectors — neither American nor Chinese, but European
+### Implementing Agencies
 
-Strategic autonomy remains contested within the EU. France champions robust autonomy; Germany worries it will damage transatlantic trade and investment; smaller member states fear it reduces their leverage within the alliance. The concept has nonetheless shifted European policy from passive rule-following toward active economic security, codified in the European Commission's 2023 European Economic Security Strategy.
+**U.S. Trade Representative (USTR)**: Leads investigations, conducts consultations with foreign governments, determines whether actionable practices exist, and recommends action to the President. USTR's Office of the General Counsel provides legal analysis; the Section 301 Committee coordinates interagency review.
 
-**The Blocking Statute (1996, updated 2018)**
+**Interagency Section 301 Committee**: Representatives from Commerce, State, Treasury, Agriculture, Labor, Defense, and other agencies review investigation findings, public comments, and proposed actions.
 
-The EU Blocking Statute, originally adopted in 1996 in response to U.S. extraterritorial sanctions on Cuba, Iran, and Libya, prohibits EU persons from complying with specified U.S. secondary sanctions and nullifies the effect of foreign court judgments based on them. The statute was updated in August 2018 after the Trump administration's withdrawal from the Iran nuclear deal (JCPOA) and reimposition of secondary sanctions on European firms doing legitimate business with Iran.
+**Customs and Border Protection (CBP)**: Implements and enforces tariff actions once imposed. Processes exclusion requests for specific products.
 
-The Blocking Statute embodies the EU's core legal objection to extraterritoriality: that U.S. secondary sanctions violate international law by extending American jurisdiction to transactions involving no U.S. persons, no U.S. territory, and no U.S.-origin goods. It has, however, proven largely ineffective in practice — European firms, faced with the choice between compliance with EU law and access to dollar-denominated markets, overwhelmingly chose compliance with U.S. sanctions. The BNP Paribas case (2014, $8.9 billion fine for sanctions violations) and the mass withdrawal of European firms from Iran after 2018 demonstrated that American financial market access trumps European legal obligations. The statute's failure catalyzed the search for more effective instruments.
+### Recent Applications
 
-**The Anti-Coercion Instrument (ACI, December 2023)**
+**China Technology Transfer Investigation (2017-2018)**:
 
-The ACI represents the EU's most significant response to economic coercion, adopted in November 2023 and entering into force on December 27, 2023. It was directly inspired by China's economic pressure on Lithuania and Australia, but its architecture is deliberately non-country-specific:
+- **Investigation launched**: August 14, 2017 (self-initiated by USTR)
+- **USTR findings**: March 22, 2018 — China engaged in four categories of unfair practices:
+  1. Forced technology transfer through foreign ownership restrictions and administrative review processes
+  2. Discriminatory licensing restrictions depriving U.S. technology owners of ability to bargain
+  3. State-directed acquisition of U.S. technology through systematic investment in and acquisition of U.S. firms
+  4. Unauthorized intrusion into U.S. commercial computer networks and cyber-enabled theft of IP
+- **Presidential action**: Tariffs imposed in escalating waves:
+  - July 2018: 25% on $34 billion (List 1)
+  - August 2018: 25% on $16 billion (List 2)
+  - September 2018: 10% on $200 billion (List 3, later raised to 25% in May 2019)
+  - September 2019: 15% on $112 billion (List 4A, later reduced to 7.5% under Phase One)
+- **Phase One Agreement**: January 2020 — China committed to $200 billion in additional purchases, IP protections, technology transfer reforms. Purchase commitments went largely unfulfilled.
+- **Biden administration review (2021-2024)**: Maintained all tariffs; added targeted increases in strategic sectors (EVs to 100%, solar cells to 50%, semiconductors to 50%, steel/aluminum to 25%, batteries to 25%)
+- **Trump second term (2025-2026)**: Maintained core tariff architecture; suspended Section 301 maritime/logistics action; narrowed exclusions
 
-- **Definition**: Economic coercion exists when a third country applies or threatens trade/investment measures to pressure the EU or a member state into making a particular policy choice
-- **Procedure**: The Commission investigates, proposes a determination to the Council (which decides by qualified majority — critically, no single-member veto), engages in dialogue with the coercing country, and if dialogue fails, adopts countermeasures
-- **Response measures**: Tariffs, import/export restrictions, exclusion from public procurement, limits on financial market access, restrictions on intellectual property rights — a comprehensive toolkit
-- **Deterrence logic**: The ACI is designed to deter coercion before it occurs, signaling that the EU can impose costs on coercers rather than simply absorbing pressure
+**EU Digital Services Tax Investigation (2019-2021)**:
 
-The ACI has not yet been formally invoked as of early 2026, but its existence has already reshaped diplomatic calculations. Its adoption by qualified majority voting — removing the single-member veto that previously paralyzed EU trade responses — represents a significant institutional evolution.
+- **Investigation launched**: July 2019 (self-initiated) targeting French digital services tax
+- **Expanded**: To Austria, India, Italy, Spain, Turkey, UK digital services taxes
+- **Action**: Tariffs proposed but suspended pending OECD/G20 negotiations on international tax framework
+- **Resolution**: Suspended indefinitely following progress on OECD Pillar One/Pillar Two framework
 
-### European Critiques of U.S. and Chinese Economic Coercion
+**Vietnam Currency Practices Investigation (2020-2021)**:
 
-**On American Extraterritoriality**
+- **Investigation launched**: October 2020 under Section 301 and enhanced engagement process
+- **Resolution**: July 2021 agreement with Vietnam to address currency practices; no tariffs imposed
 
-European frustration with U.S. extraterritorial sanctions runs deep and crosses the political spectrum:
+### Strengths
 
-- **JCPOA withdrawal**: The U.S. unilateral exit from the Iran nuclear deal and reimposition of secondary sanctions forced European firms out of a market that the EU had collectively negotiated to open — demonstrating that European commercial interests are subordinate to American domestic politics
-- **Secondary sanctions as coercion**: Europeans view secondary sanctions as the United States coercing allies, not adversaries. When a French bank, a German automaker, or an Italian energy company must abandon legal business because Washington changed policy, Europeans experience this as American economic coercion dressed in the language of alliance solidarity
-- **Dollar weaponization**: The dollar's role as global reserve currency gives the U.S. jurisdiction over virtually any transaction touching the dollar clearing system — a structural asymmetry that Europeans resent but cannot easily escape
+1. **Broad scope**: Covers virtually any foreign government practice affecting U.S. commerce — not limited to national security (unlike Section 232) or specific trade agreement violations
 
-**On Chinese Economic Coercion**
+2. **Flexible remedies**: USTR can tailor tariff rates, covered products, and exclusions to maximize leverage while minimizing domestic harm
 
-European views on Chinese coercion have hardened significantly since 2020:
+3. **Leverage for negotiations**: Threat of Section 301 tariffs creates bargaining leverage; can be calibrated (raised, lowered, paused) to reward or punish negotiating behavior
 
-- **Lithuania precedent**: China's de facto trade embargo on Lithuania (2021-2022) over a Taiwan representation office — including blocking Lithuanian goods transiting through other EU member states — was understood as a direct attack on EU single market integrity and member state sovereignty
-- **"Divide and conquer"**: Europeans recognize Chinese strategy of targeting individual member states to fracture EU solidarity, creating pressure on smaller economies (Greece, Hungary, Czech Republic) to block collective EU positions on China
-- **Systemic rivalry**: The European Commission's 2019 designation of China as a "systemic rival" alongside "partner" and "competitor" reflected growing recognition that Chinese economic practices — subsidies, forced technology transfer, market access restrictions — represent structural challenges, not solvable through WTO dispute settlement
+4. **Product-specific targeting**: Tariff lists can target adversary's high-value exports while excluding products critical to U.S. supply chains
 
-### Implications for Transatlantic Coordination
+5. **Exclusion process**: Product exclusion mechanism enables case-by-case relief for U.S. firms demonstrating harm from tariffs, reducing domestic collateral damage
 
-The EU's development of autonomous economic security tools creates both opportunities and tensions in the transatlantic relationship. On one hand, European investment screening (the EU FDI Screening Regulation), export controls (the EU's dual-use regulation), and the ACI expand the toolkit available for coordinated Western responses to Chinese economic coercion. On the other, European strategic autonomy explicitly aims to reduce dependence on American decisions — the EU does not want to be dragged into economic confrontations driven by American domestic politics, as occurred with Iran.
+6. **Bipartisan sustainability**: Both Trump and Biden administrations maintained Section 301 tariffs, demonstrating political durability across party lines
 
-The central European dilemma: how to coordinate with the United States on China (where interests substantially overlap) while protecting against American extraterritoriality (where interests directly conflict). This balancing act — partner on Monday, target on Tuesday — defines the European experience of 21st-century economic coercion and explains why European policy responses emphasize rules, institutions, and process over the unilateral exercises of power that characterize both American and Chinese approaches.
+### Limitations
+
+1. **WTO illegality**: Section 301 actions likely violate WTO rules by imposing unilateral remedies rather than using WTO dispute settlement. China challenged Section 301 tariffs at WTO; panels expected to rule against U.S. However, with Appellate Body non-functional, WTO rulings are unenforceable.
+
+2. **Tariff incidence on domestic economy**: Economic research consistently finds U.S. consumers and firms bear nearly 100% of tariff costs through higher prices. Chinese exporters did not reduce prices to absorb tariffs (Amiti, Redding, and Weinstein 2019).
+
+3. **Retaliation**: China imposed equivalent retaliatory tariffs targeting politically sensitive U.S. sectors (agriculture, energy, aircraft), creating domestic political costs and reducing net coercive leverage.
+
+4. **Limited compellence success**: Despite $360 billion in tariffed goods, China made minimal structural reforms. Phase One purchase commitments went unfulfilled without consequence. Tariffs proved more effective at signaling and supply chain diversification than at compelling behavioral change.
+
+5. **Administrative burden**: Exclusion process generated over 50,000 requests (2018-2020), overwhelming USTR resources and creating inconsistent outcomes. Many small businesses unable to navigate complex application process.
+
+6. **Escalation dynamics**: Tit-for-tat retaliation creates "tariff trap" — domestic political costs of removing tariffs without reciprocal concessions prevent de-escalation even when both sides face net losses.
+
+### Further Reading
+
+- **Statute**: 19 U.S.C. § 2411-2420 (Sections 301-310 of the Trade Act of 1974)
+- **USTR**: Section 301 investigation reports, Federal Register notices, exclusion process guidance (ustr.gov)
+- **Congressional Research Service**: "Section 301 of the Trade Act of 1974: Origin, Evolution, and Use"
+- **Analysis**: Chad P. Bown, "US-China Trade War Tariffs: An Up-to-Date Chart," Peterson Institute for International Economics (updated monthly); Mary E. Lovely and Jeffrey J. Schott, "The US-China Trade War: A Breakdown" (2019)
 
 ---
 
-## Key Insights
-
-- **Trade policy has transformed from an economic tool to a strategic weapon:** Historically, tariffs served revenue generation and infant industry protection. Today's trade measures increasingly target specific countries and technologies for national security reasons, blurring the distinction between economic policy and security policy. The bipartisan consensus maintaining Trump-era tariffs under the Biden administration confirms this transformation is structural, not partisan.
-
-- **The U.S.-China trade war achieved limited compellence but contributed to broader strategic objectives:** China made minimal structural reforms in response to tariffs, and Phase One purchase commitments went unfulfilled. However, the trade war accelerated supply chain diversification ("China+1" strategies), signaled U.S. willingness to impose costs, and shifted the political economy of trade toward strategic competition. The mismatch between stated objectives and actual achievements is characteristic of tariff-based coercion.
-
-- **Export controls are precision instruments, but precision requires constant adaptation:** Unlike tariffs' broad economic impacts, export controls surgically target specific technologies and recipients. However, their effectiveness depends on multilateral coordination, enforcement capacity, and the ability to update controls faster than adversaries develop workarounds or circumvention networks through third countries.
-
-- **The multilateral trade architecture is eroding under strategic competition:** The WTO's dispute resolution system faces paralysis as major powers invoke expansive "national security" exceptions. The Trump administration's broad interpretation of Section 232 set a precedent that other countries have adopted to justify their own trade restrictions, accelerating the erosion of rules-based trade.
-
-- **The dual-use dilemma makes clean technology restrictions impossible:** The same AI chips powering consumer chatbots train military targeting systems. The same gene-editing tools treating cancer could create bioweapons. This inseparability forces governments into an impossible choice between restricting broadly (crippling legitimate commerce) and restricting narrowly (watching controlled technologies flow to adversaries through commercial channels).
-
-- **Multilateral export control regimes face structural challenges from non-member producers and intangible technology:** The Wassenaar Arrangement and other regimes were designed for a world where advanced technology concentrated in Western hands and transferred through physical exports. China's exclusion from most regimes, growing non-Western technology producers, and the shift to digital technology transfer through cloud computing and remote access all undermine traditional frameworks.
-
-## Discussion Questions
-
-1. The U.S.-China trade war imposed estimated GDP costs of 0.5-0.8% on China and 0.3-0.5% on the United States, yet produced minimal structural reform from Beijing. Under what circumstances can tariff-based coercion compel policy changes from a large economy with high pain tolerance? Are there alternative policy designs that could have been more effective?
-
-2. Section 232 steel and aluminum tariffs were justified on national security grounds, but studies estimate they cost the U.S. economy $900,000 per job saved. How should policymakers weigh the economic costs of trade restrictions against their strategic benefits? Is there a principled framework for determining when "national security" justifications for trade restrictions are legitimate versus pretextual?
-
-3. The Wassenaar Arrangement operates by consensus with no binding obligations, and its 42 members can grant export licenses that others would deny. Given these structural weaknesses, should the United States pursue a new, smaller export control alliance among like-minded technology producers (a "Tech 10" or "Chip 4"), or work to reform existing multilateral regimes? What are the trade-offs?
-
-4. China's retaliatory tariffs during the trade war strategically targeted U.S. agricultural products from politically important states. How does the political economy of retaliation -- the ability to target politically sensitive sectors in the coercing country -- constrain the design and sustainability of trade-based coercion?
-
-5. Export controls on dual-use technologies face a fundamental tension: restricting too broadly stifles scientific collaboration and commercial innovation, while restricting too narrowly allows military-relevant capabilities to flow to adversaries. Using semiconductors or AI as a case, propose a framework for drawing the line between permissible commercial trade and restricted strategic technology.
-
----
-
-> **Tabletop Exercise:** The tabletop exercise for this chapter — *Tariff Escalation and Trade War Dynamics* — can be found in **Appendix A: Tabletop Exercises**.
-
----
-
-## Government Tools Box 2: Export Administration Regulations and Entity List
+## Government Tools Box 3: Export Administration Regulations and Entity List
 
 ### Legal Authority and Statutory Basis
 
@@ -1802,6 +1852,38 @@ CoCom's lessons for current U.S./Allied export controls on China:
 2. State media: Global Times, China Daily for nationalist commentary
 3. Think tanks: Carnegie-Tsinghua Center, Brookings China experts for analysis
 4. Academic journals: China Quarterly, Journal of Contemporary China for research
+
+---
+
+## Key Insights
+
+- **Trade policy has transformed from an economic tool to a strategic weapon:** Historically, tariffs served revenue generation and infant industry protection. Today's trade measures increasingly target specific countries and technologies for national security reasons, blurring the distinction between economic policy and security policy. The bipartisan consensus maintaining Trump-era tariffs under the Biden administration confirms this transformation is structural, not partisan.
+
+- **The U.S.-China trade war achieved limited compellence but contributed to broader strategic objectives:** China made minimal structural reforms in response to tariffs, and Phase One purchase commitments went unfulfilled. However, the trade war accelerated supply chain diversification ("China+1" strategies), signaled U.S. willingness to impose costs, and shifted the political economy of trade toward strategic competition. The mismatch between stated objectives and actual achievements is characteristic of tariff-based coercion.
+
+- **Export controls are precision instruments, but precision requires constant adaptation:** Unlike tariffs' broad economic impacts, export controls surgically target specific technologies and recipients. However, their effectiveness depends on multilateral coordination, enforcement capacity, and the ability to update controls faster than adversaries develop workarounds or circumvention networks through third countries.
+
+- **The multilateral trade architecture is eroding under strategic competition:** The WTO's dispute resolution system faces paralysis as major powers invoke expansive "national security" exceptions. The Trump administration's broad interpretation of Section 232 set a precedent that other countries have adopted to justify their own trade restrictions, accelerating the erosion of rules-based trade.
+
+- **The dual-use dilemma makes clean technology restrictions impossible:** The same AI chips powering consumer chatbots train military targeting systems. The same gene-editing tools treating cancer could create bioweapons. This inseparability forces governments into an impossible choice between restricting broadly (crippling legitimate commerce) and restricting narrowly (watching controlled technologies flow to adversaries through commercial channels).
+
+- **Multilateral export control regimes face structural challenges from non-member producers and intangible technology:** The Wassenaar Arrangement and other regimes were designed for a world where advanced technology concentrated in Western hands and transferred through physical exports. China's exclusion from most regimes, growing non-Western technology producers, and the shift to digital technology transfer through cloud computing and remote access all undermine traditional frameworks.
+
+## Discussion Questions
+
+1. The U.S.-China trade war imposed estimated GDP costs of 0.5-0.8% on China and 0.3-0.5% on the United States, yet produced minimal structural reform from Beijing. Under what circumstances can tariff-based coercion compel policy changes from a large economy with high pain tolerance? Are there alternative policy designs that could have been more effective?
+
+2. Section 232 steel and aluminum tariffs were justified on national security grounds, but studies estimate they cost the U.S. economy $900,000 per job saved. How should policymakers weigh the economic costs of trade restrictions against their strategic benefits? Is there a principled framework for determining when "national security" justifications for trade restrictions are legitimate versus pretextual?
+
+3. The Wassenaar Arrangement operates by consensus with no binding obligations, and its 42 members can grant export licenses that others would deny. Given these structural weaknesses, should the United States pursue a new, smaller export control alliance among like-minded technology producers (a "Tech 10" or "Chip 4"), or work to reform existing multilateral regimes? What are the trade-offs?
+
+4. China's retaliatory tariffs during the trade war strategically targeted U.S. agricultural products from politically important states. How does the political economy of retaliation -- the ability to target politically sensitive sectors in the coercing country -- constrain the design and sustainability of trade-based coercion?
+
+5. Export controls on dual-use technologies face a fundamental tension: restricting too broadly stifles scientific collaboration and commercial innovation, while restricting too narrowly allows military-relevant capabilities to flow to adversaries. Using semiconductors or AI as a case, propose a framework for drawing the line between permissible commercial trade and restricted strategic technology.
+
+---
+
+> **Tabletop Exercise:** The tabletop exercise for this chapter — *Tariff Escalation and Trade War Dynamics* — can be found in **Appendix A: Tabletop Exercises**.
 
 ---
 
