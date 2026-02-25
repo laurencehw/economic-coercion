@@ -40,17 +40,16 @@ jobs:
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: '10.24.1'
+          node-version: '20'
 
-      - name: Install GitBook CLI
+      - name: Install HonKit
         run: |
-          npm install -g gitbook-cli
-          gitbook fetch 3.2.3
+          npm install honkit
 
       - name: Install GitBook plugins
         run: |
           if [ -f "book.json" ]; then
-            gitbook install
+            npx honkit install
           fi
 
       - name: Run content QA checks
@@ -60,7 +59,7 @@ jobs:
 
       - name: Build GitBook
         run: |
-          gitbook build . ./public
+          npx honkit build . ./public
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
