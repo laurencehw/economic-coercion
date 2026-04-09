@@ -374,7 +374,9 @@ The broader pattern is industrial policy convergence: both the United States and
 
 ### Historical Context: Foreign Technology Denial as National Trauma
 
-The Century of Humiliation narrative (introduced in Chapter 2) takes on particular intensity in the technology domain. For Chinese elites, the lesson is direct: British gunboats, Japanese industrial superiority, and CoCom restrictions all demonstrated that nations lacking indigenous technological capabilities face exploitation and subjugation. The 1960 Sino-Soviet split—when Soviet advisors were withdrawn overnight, crippling industrial programs—reinforced the imperative for self-reliance. China's response, the "Two Bombs, One Satellite" program (两弹一星, liǎngdàn yīxīng), demonstrated that determined state effort could achieve technological breakthroughs from positions of profound backwardness.
+Chinese strategic thinking about technology is fundamentally shaped by the **Century of Humiliation** (百年国耻, bǎinián guóchǐ)—the period from the 1840s Opium Wars through 1949 when technological backwardness enabled foreign domination. British gunboats defeated Qing dynasty forces because superior Western industrial technology produced weapons China could not match. Japanese invasion during World War II exploited this same vulnerability: modern Japanese industry produced aircraft, ships, and armaments that technologically backward China could not counter. For Chinese elites, this historical experience carries a clear lesson: nations lacking indigenous technological capabilities face exploitation, occupation, and destruction of sovereignty.
+
+The early People's Republic reinforced these imperatives. CoCom restrictions denied China access to advanced manufacturing equipment, computers, and dual-use technologies. Soviet technical assistance during the 1950s proved temporary—the Sino-Soviet split in 1960 saw Soviet advisors withdrawn overnight, crippling industrial programs dependent on foreign inputs. China's response was enforced self-reliance. The "Two Bombs, One Satellite" program (两弹一星, liǎngdàn yīxīng) developed nuclear weapons, ballistic missiles, and satellites despite Western embargo and Soviet abandonment, demonstrating that determined state effort could achieve technological breakthroughs from positions of profound backwardness.
 
 ### Key Chinese Terms in Technology Strategy
 
@@ -422,9 +424,15 @@ The doctrine reflects recognition that dual-use technologies—semiconductors, A
 
 Civil-military fusion creates complications. Western firms and researchers increasingly avoid Chinese collaboration, international partnerships face restrictions, and Chinese firms dependent on foreign markets must balance government mandates against regulatory risks abroad. American export controls explicitly target civil-military fusion, treating all Chinese technology development as potentially military-relevant.
 
-### Dual Circulation Applied to Technology
+### Dual Circulation Strategy
 
-The **Dual Circulation** strategy (introduced in Chapter 2) takes on particular urgency in technology: internal circulation means building complete domestic supply chains for semiconductors, AI, and aerospace, while external circulation maintains international engagement from a position of reduced dependence. Technology export controls are precisely the scenario dual circulation was designed to address—if integration creates vulnerability, strategic sectors must have domestic alternatives.
+Post-2020, China's **Dual Circulation** (双循环, shuāng xúnhuán) strategy restructured economic priorities in response to technology coercion risks:
+
+**Internal Circulation** (国内大循环, guónèi dà xúnhuán) emphasizes domestic consumption and production, building complete supply chains for strategic sectors (semiconductors, pharmaceuticals, aerospace) within China. This reduces vulnerability to foreign pressure but requires accepting efficiency losses from smaller scale and reduced specialization.
+
+**External Circulation** (国际循环, guójì xúnhuán) maintains international engagement but from a position of strength rather than dependence. China continues participating in global trade and investment, but strategic sectors must have domestic alternatives ensuring that external disruptions cannot paralyze critical industries.
+
+Dual circulation directly responds to U.S. weaponization of interdependence. If integration creates vulnerability, China must rebalance toward domestic self-sufficiency while maintaining beneficial external relationships where risks are manageable.
 
 ### Implications for Understanding Chinese Responses
 

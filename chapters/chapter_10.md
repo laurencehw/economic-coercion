@@ -741,61 +741,28 @@ Policymakers should track several key indicators as early warning signs. In tech
 
 **Multipolarity (多极化, duōjíhuà) as Inevitable Trajectory**
 
-Chinese analysts view multipolarity—a world with multiple great powers rather than U.S. hegemony—as historical inevitability. Key arguments:
-
-**Declining U.S. hegemony**: American share of global GDP fell from 50% (1945) to 25% (2024) and projected to decline further. Unipolar moment (1991-2010s) was temporary aberration; multipolarity is historical norm.
-
-**Rise of multiple powers**: China, India, Russia, Brazil, Indonesia, European Union all constitute independent power centers resisting U.S. dominance. Collective GDP, population, and agency challenge Washington's ability to set rules unilaterally.
-
-**Institutional reform needed**: Post-WWII institutions (UN, IMF, World Bank, WTO) reflect 1945 power distribution, giving disproportionate influence to U.S. and Europe. Reform should increase Chinese, Indian, developing country representation to match contemporary power realities.
+Chinese analysts view multipolarity—a world with multiple great powers rather than U.S. hegemony—as historical inevitability. American share of global GDP fell from 50% (1945) to 25% (2024) and is projected to decline further; the unipolar moment (1991-2010s) was a temporary aberration. China, India, Russia, Brazil, Indonesia, and the European Union all constitute independent power centers whose collective weight challenges Washington's ability to set rules unilaterally. Post-WWII institutions (UN, IMF, World Bank, WTO) reflect 1945 power distribution and require reform to match contemporary realities.
 
 **De-Westernization of Global Governance**
 
 Chinese vision for future international order emphasizes:
 
-**1. Sovereignty and non-interference**: Primacy of state sovereignty over humanitarian intervention, democracy promotion. Internal affairs (governance, human rights, economic systems) are national prerogatives, not subjects for external pressure.
-
-**2. Development diversity**: Multiple development models should coexist (Chinese state-directed capitalism, Western market economies, mixed systems). No universal "correct" path; countries choose models fitting their circumstances.
-
-**3. Institutional alternatives**: Parallel institutions (AIIB, NDB, BRICS mechanisms) provide choices beyond Western-dominated IMF/World Bank. Competition improves all institutions.
-
-**4. Cultural equality**: Reject Western cultural/ideological superiority claims. Chinese civilization's continuity (5,000 years), philosophical traditions (Confucianism), governance systems have equal legitimacy to Western models.
+1. **Sovereignty and non-interference**: Primacy of state sovereignty over humanitarian intervention and democracy promotion. Internal affairs are national prerogatives, not subjects for external pressure.
+2. **Development diversity**: Multiple development models should coexist. No universal "correct" path; countries choose models fitting their circumstances.
+3. **Institutional alternatives**: Parallel institutions (AIIB, NDB, BRICS mechanisms) provide choices beyond Western-dominated bodies. Competition improves all institutions.
+4. **Cultural equality**: Reject Western cultural/ideological superiority claims. Chinese civilization's continuity, philosophical traditions, and governance systems have equal legitimacy.
 
 **Technology Self-Reliance as Achieved Reality (by 2035-2050)**
 
-Chinese projections envision technology independence:
-
-**Semiconductors**: Indigenous equipment (lithography, etching, deposition), materials, fabrication achieving parity with Western capabilities. Made in China 2025 70% self-sufficiency target met or exceeded.
-
-**AI leadership**: Chinese AI matching or exceeding U.S. capabilities through:
-- Larger data resources (population scale, weak privacy constraints)
-- State coordination concentrating resources on strategic applications
-- Global talent recruitment and domestic STEM education investments
-- Commercial applications (surveillance, social credit, smart cities) providing development advantages
-
-**Quantum, biotech, space**: Chinese programs achieving global leadership or near-parity through sustained state investment, reducing Western technology leverage.
-
-**Strategic logic**: Technology self-reliance eliminates Western coercion leverage (export controls, sanctions lose power), enables China to support developing countries (technology transfer without political conditions), and validates state-directed model superiority.
+Chinese projections envision technology independence: indigenous semiconductor equipment and fabrication achieving parity with Western capabilities; AI leadership through population-scale data resources, state coordination, and commercial applications; and global leadership or near-parity in quantum computing, biotech, and space through sustained state investment. The strategic logic: technology self-reliance eliminates Western coercion leverage (export controls and sanctions lose power), enables China to support developing countries through technology transfer without political conditions, and validates state-directed model superiority.
 
 **Alternative Development Model Success**
 
-Chinese perspective expects:
-
-**1. Developing countries embrace Chinese model**: State-directed development, infrastructure-focused growth, authoritarian stability appeals to Global South leaders prioritizing rapid development over democratic process. Belt and Road Initiative demonstrates Chinese willingness to invest without political conditions.
-
-**2. Western model failures**: Financial crises, political polarization, inequality, COVID-19 mismanagement undermine Western system attractiveness. Chinese centralized system appears more effective at long-term planning, crisis response, collective mobilization.
-
-**3. Norm shift**: Chinese concepts (cyber sovereignty, development rights over political rights, harmonious world vs. confrontation) gain acceptance as China's influence grows.
+Chinese perspectives expect developing countries to embrace the Chinese model of state-directed development and infrastructure-focused growth, particularly as Western model credibility suffers from financial crises, political polarization, inequality, and COVID-19 mismanagement. Belt and Road Initiative demonstrates Chinese willingness to invest without political conditions. Chinese concepts (cyber sovereignty, development rights over political rights, "harmonious world") gain acceptance as China's influence grows.
 
 **Peaceful Multipolarity vs. Containment Resistance**
 
-Chinese strategic narrative offers:
-
-**Peaceful rise**: China seeks development, not hegemony. Unlike Western imperialism/colonialism, China respects sovereignty, pursues win-win cooperation, shares development opportunities.
-
-**Defensive resistance**: Economic coercion (sanctions, export controls, investment restrictions) represents U.S. efforts to contain Chinese rise, repeating historical pattern of established powers suppressing challengers. China must resist to protect sovereignty, development rights, and provide alternative model for Global South.
-
-**"Community of common destiny for mankind" (人类命运共同体, rénlèi mìngyùn gòngtóngtǐ)**: Xi Jinping's vision of interconnected world facing shared challenges (climate change, pandemics, terrorism, economic crises) requiring cooperation not confrontation.
+The Chinese strategic narrative frames China as seeking development, not hegemony—respecting sovereignty and pursuing win-win cooperation, unlike Western imperialism. Economic coercion (sanctions, export controls, investment restrictions) represents U.S. efforts to contain Chinese rise, repeating the historical pattern of established powers suppressing challengers. Xi Jinping's **"Community of common destiny for mankind"** (人类命运共同体, rénlèi mìngyùn gòngtóngtǐ) envisions an interconnected world facing shared challenges requiring cooperation, not confrontation.
 
 **Internal Debates and Alternative Views**
 
@@ -805,7 +772,7 @@ Western analysts should recognize diversity of Chinese strategic thinking:
 
 **Economic pragmatists**: Warn that excessive confrontation risks development goals; maintaining trade and technology access more important than ideological victories; accommodation sometimes prudent.
 
-**Regionalists**: Argue China should focus on Asian regional leadership rather than global competition with U.S.; consolidate sphere of influence before challenging global order.
+**Regionalists**: Argue China should focus on Asian regional leadership rather than global competition with the U.S.; consolidate sphere of influence before challenging global order.
 
 **Institutionalists**: Favor working within existing institutions (WTO, IMF) to gradually shift rules rather than building parallel systems; reform more effective than revolution.
 
@@ -813,15 +780,11 @@ Western analysts should recognize diversity of Chinese strategic thinking:
 
 Understanding Chinese perspectives doesn't require accepting their validity but clarifies strategic choices:
 
-**1. Time horizons**: Chinese strategic thinking operates over decades and centuries. Expecting short-term Chinese capitulation to economic pressure ignores historical patience.
-
-**2. Technology competition**: Chinese commitment to self-reliance is ideological and strategic, not merely economic. Export controls may spur indigenous innovation rather than compelling dependence.
-
-**3. Institutional competition**: China seeks alternatives to U.S.-dominated order, not integration into Western system. AIIB, BRICS, SCO reflect genuine alternative vision, not simply anti-Western positioning.
-
-**4. Development model**: Chinese believe their approach works and benefits Global South. Development finance without democracy conditions appeals to many governments.
-
-**5. Non-zero-sum opportunities**: Despite competition, shared interests exist (climate change, pandemic preparedness, financial stability, nuclear non-proliferation). Identifying cooperation opportunities while competing in other domains defines effective strategy.
+1. **Time horizons**: Chinese strategic thinking operates over decades and centuries. Expecting short-term capitulation to economic pressure ignores historical patience.
+2. **Technology competition**: Chinese commitment to self-reliance is ideological and strategic, not merely economic. Export controls may spur indigenous innovation rather than compelling dependence.
+3. **Institutional competition**: China seeks alternatives to U.S.-dominated order, not integration into Western system. AIIB, BRICS, SCO reflect genuine alternative vision, not simply anti-Western positioning.
+4. **Development model**: Chinese believe their approach works and benefits the Global South. Development finance without democracy conditions appeals to many governments.
+5. **Non-zero-sum opportunities**: Despite competition, shared interests exist (climate change, pandemic preparedness, financial stability, nuclear non-proliferation). Identifying cooperation opportunities while competing in other domains defines effective strategy.
 
 ---
 

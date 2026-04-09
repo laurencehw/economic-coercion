@@ -57,6 +57,34 @@ jobs:
         run: |
           ./scripts/qa_gitbook_content.ps1
 
+      - name: Convert GitBook Cloud hint tags to blockquotes
+        run: |
+          # GitBook Cloud supports {% hint %} natively, but HonKit does not.
+          # Convert to blockquotes so the HonKit build succeeds.
+          STYLE_MAP_info="ℹ️ **Info**"
+          STYLE_MAP_warning="⚠️ **Warning**"
+          STYLE_MAP_danger="🚨 **Danger**"
+          STYLE_MAP_success="✅ **Success**"
+          STYLE_MAP_tip="💡 **Tip**"
+          for f in $(find . -name '*.md' -not -path './node_modules/*'); do
+            if grep -q '{% hint' "$f"; then
+              python3 -c "
+          import re, sys
+          style_map = {'info': '$STYLE_MAP_info', 'warning': '$STYLE_MAP_warning', 'danger': '$STYLE_MAP_danger', 'success': '$STYLE_MAP_success', 'tip': '$STYLE_MAP_tip'}
+          text = open(sys.argv[1]).read()
+          def replace_hint(m):
+              style = m.group(1)
+              content = m.group(2).strip()
+              label = style_map.get(style, '**Note**')
+              lines = content.split('\n')
+              quoted = '\n'.join('> ' + l for l in lines)
+              return f'> {label}\n>\n{quoted}'
+          text = re.sub(r'\{%\s*hint\s+style=\"(\w+)\"\s*%\}\s*\n(.*?)\{%\s*endhint\s*%\}', replace_hint, text, flags=re.DOTALL)
+          open(sys.argv[1], 'w').write(text)
+          " "$f"
+            fi
+          done
+
       - name: Build GitBook
         run: |
           npx honkit build . ./public

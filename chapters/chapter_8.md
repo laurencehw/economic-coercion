@@ -649,206 +649,25 @@ Understanding these perspectives doesn't require accepting their validity—sign
 
 ## Government Tools Box 1: CFIUS Procedures and FIRRMA Expansion
 
-**Legal Authority**
+The **Committee on Foreign Investment in the United States (CFIUS)**, chaired by Treasury with nine Cabinet-level voting members, reviews foreign transactions for national security risks under Section 721 of the Defense Production Act. FIRRMA (2018) substantially expanded jurisdiction beyond traditional control transactions to cover non-controlling investments in Technology, Infrastructure, or Data (TID) businesses, real estate near sensitive facilities, and changes in foreign investor rights. (For FIRRMA's substantive provisions, see Chapter 5, Government Tools Box 2.)
 
-- **Primary statute**: Section 721 of the Defense Production Act of 1950, as amended
-- **Major amendments**:
-  - Exon-Florio Amendment (1988): Granted President authority to block foreign acquisitions
-  - FINSA 2007: Codified CFIUS procedures, required Congressional notification
-  - FIRRMA 2018: Expanded jurisdiction, mandatory declarations, added real estate and TID sectors
+**Review process**: Parties submit voluntary notices or mandatory declarations (required for foreign government interests of 25%+ in TID businesses). Initial review (45 days) leads to clearance, mitigation conditions, or full investigation (45 days), potentially escalating to presidential decision (15 days). Mitigation measures include board governance restrictions, data firewalls, and compliance monitoring. CFIUS retains 5-year look-back authority for non-notified transactions.
 
-**Committee Composition**
-
-CFIUS consists of nine voting members (Cabinet-level):
-- Treasury (Chair)
-- Defense
-- State
-- Commerce
-- Homeland Security
-- Justice
-- Energy
-- Office of Science and Technology Policy
-- U.S. Trade Representative
-
-Plus non-voting members: Office of Management and Budget, Council of Economic Advisers, National Security Council
-
-**Covered Transactions**
-
-Traditional CFIUS jurisdiction:
-- **Control transactions**: Foreign person acquiring control of U.S. business
-
-FIRRMA expanded jurisdiction:
-- **Non-controlling TID investments**: Foreign person (especially government-controlled) acquiring non-controlling interest in Technology, Infrastructure, or Data (TID) U.S. business
-- **Real estate**: Foreign person purchasing/leasing real estate near sensitive facilities
-- **Change in foreign investor rights**: Modifications to existing investments expanding foreign access
-
-**Review Process**
-
-**1. Voluntary Notice or Mandatory Declaration**
-
-- **Voluntary notice**: Parties may file if seeking CFIUS clearance
-- **Mandatory declaration** required for:
-  - Foreign government substantial interest (25%+) in TID business
-  - Critical technology companies where foreign person gains specific rights
-  - Failure to file mandatory declaration results in penalties and potential forced divestment
-
-**2. Initial Review (45 days from acceptance)**
-
-- CFIUS members review for national security concerns
-- Three outcomes:
-  - **Cleared**: Transaction proceeds without conditions
-  - **Mitigation agreement**: Conditions imposed (governance structures, security protocols, data protections)
-  - **Investigation**: Proceed to Phase II
-
-**3. Investigation (45 days)**
-
-- Detailed interagency assessment
-- Parties provide additional information
-- Mitigation negotiations
-- Outcomes:
-  - Cleared with or without mitigation
-  - Parties withdraw (often indicates anticipated block)
-  - Proceed to Presidential decision
-
-**4. Presidential Decision (15 days)**
-
-- President may:
-  - Approve transaction
-  - Approve with conditions
-  - Block transaction
-  - Require divestment (if already closed)
-
-**5. Post-Transaction Monitoring and Enforcement**
-
-- CFIUS can review non-notified transactions (5-year look-back)
-- Monitor compliance with mitigation agreements
-- Enforce through penalties, divestment orders
-
-**Mitigation Measures**
-
-Common mitigation approaches:
-- **Board governance**: Independent directors, government observers, foreign person voting restrictions
-- **Data security**: Firewalls preventing foreign access to sensitive information
-- **Physical security**: Limiting foreign personnel access to facilities
-- **Export controls**: Enhanced compliance programs
-- **Annual certifications**: Ongoing reporting requirements
-- **Violation consequences**: Fines, divestment, criminal penalties
-
-**Statistics (CY2024 Treasury report)**
-
-- **Declarations**: 116
-- **Written notices**: 209
-- **Declarations cleared in first stage**: 58 (50%)
-- **Declarations moved to notices**: 43
-- **Withdrawn notices**: 49 (including 15 abandoned transactions)
-- **China-linked notices**: 26 (12%)
-
-**FIRRMA Impact**
-
-Post-FIRRMA changes:
-- **Mandatory declaration channel institutionalized**: Declarations are now a durable, high-volume front door (116 in CY2024)
-- **Increased staffing and enforcement capacity**: CFIUS has more resources than the pre-FIRRMA era, but case complexity also rose
-- **Longer and more iterative case timelines**: Notice withdrawals/refilings are frequently used to resolve concerns
-- **Chinese transaction collapse**: From 23% of reviewed transactions (2016) to 12% of notices (CY2024)
-
-**Challenges and Criticisms**
-
-- **Lack of transparency**: CFIUS decisions classified; limited public explanation
-- **Resource constraints**: Despite increases, staff struggles with volume and complexity
-- **Interagency disagreements**: Members occasionally divide on risk assessments
-- **Legal uncertainty**: Scope of "national security" undefined, creating unpredictability
-- **Allied tensions**: Extraterritorial reach (blocking foreign-to-foreign deals with U.S. nexus) causes friction
+**Statistics (CY2024)**: 116 declarations and 209 written notices; 50% of declarations cleared in first stage; 49 withdrawn notices (including 15 abandoned transactions); China-linked notices fell from 23% of reviews (2016) to 12% (CY2024). **Challenges**: Classified decisions limit transparency; resource constraints despite increased staffing; undefined scope of "national security" creates unpredictability; and extraterritorial reach (blocking foreign-to-foreign deals with U.S. nexus) strains allied relationships.
 
 ---
 
 ## Government Tools Box 2: Industrial Policy Authorities
 
-**CHIPS and Science Act Implementation**
+The U.S. industrial policy toolkit for strategic competition combines several authorities:
 
-**Legal authority**: Public Law 117-167 (August 2022)
+**CHIPS and Science Act** (2022): Commerce Department's CHIPS Program Office administers direct grants, loans (up to $75 billion), and a 25% advanced manufacturing investment tax credit. Key guardrails prohibit recipients from expanding semiconductor manufacturing in China for 10 years and include excess profits clawback provisions. Awards are tied to construction and production milestones.
 
-**Implementing agencies**:
-- **Department of Commerce** (primary): CHIPS Program Office administers manufacturing incentives
-- **National Science Foundation**: R&D investments
-- **Department of Energy**: Materials research, workforce development
-- **Department of Defense**: Trusted foundry program
+**Defense Production Act Title III**: Expands productive capacity through purchase commitments, loans, and production support for national defense materials. Recent applications include critical minerals (rare earths, lithium, graphite), pharmaceutical APIs, and defense industrial base components.
 
-**Funding mechanisms**:
-- **Direct grants**: Awarded through application process to qualified semiconductor projects
-- **Loans and loan guarantees**: Up to $75 billion via Commerce Department
-- **Investment tax credit**: 25% advanced manufacturing investment tax credit (IRS administered)
+**Inflation Reduction Act**: Clean energy manufacturing incentives include battery production credits ($35/kWh for cells), solar/wind domestic content bonuses, and EV consumer credits ($7,500, conditioned on North American assembly and battery sourcing requirements). These provisions embed supply chain security into climate policy by requiring critical mineral sourcing from North America or free-trade agreement partners.
 
-**Guardrails**:
-- **China restrictions**: Recipients prohibited from expanding semiconductor manufacturing in China for 10 years
-- **Excess profits clawback**: If projects exceed projected profits significantly, government may recoup portion
-- **Transparency requirements**: Recipients must report financials, employment, production
-
-**Review and approval process**:
-1. Company submits application detailing project scope, investment, jobs, technology node
-2. Commerce Department evaluates: Economic and national security benefits, financial viability, guardrail compliance
-3. Conditional award negotiated (subsidies, conditions, milestones)
-4. Environmental reviews, community engagement
-5. Final award and disbursement tied to construction/production milestones
-
-**Defense Production Act Title III**
-
-**Legal authority**: 50 U.S.C. § 4501 et seq., Title III
-
-**Purpose**: Expand productive capacity and supply for national defense critical materials and technologies
-
-**Mechanisms**:
-- **Purchase commitments**: Government commits to purchase materials/products to incentivize production
-- **Loans and loan guarantees**: Finance expansion of production capacity
-- **Technological and production expansion**: Support development of new production techniques
-
-**Recent applications**:
-- **Semiconductors**: Title III investments in domestic chip production before CHIPS Act
-- **Critical minerals**: Rare earths, lithium, graphite mining and processing
-- **Pharmaceuticals**: API production capacity post-COVID
-- **Defense industrial base**: Munitions, shipbuilding, aerospace components
-
-**Administration**: Department of Defense, Department of Energy (for nuclear materials)
-
-**Inflation Reduction Act Industrial Components**
-
-**Legal authority**: Public Law 117-169 (August 2022)
-
-**Clean energy manufacturing incentives**:
-- **Advanced Manufacturing Production Credit**: $35/kWh for battery cells, $10/kWh for modules
-- **Solar/wind component credits**: Domestic content bonuses for U.S.-manufactured components
-- **Critical mineral sourcing**: Requirements for North American or free-trade agreement partner sourcing
-
-**Electric vehicle credits**:
-- **Consumer credits**: $7,500 per vehicle, conditioned on North American assembly and battery component/mineral sourcing requirements
-- **Commercial vehicle credits**: $40,000 for heavy vehicles, similar sourcing requirements
-
-**Implementation**: IRS (tax credits), Department of Energy (loan programs), Treasury (guidance on sourcing requirements)
-
-**Buy America Provisions**
-
-Various statutes require federal procurement and federally-funded projects use domestically manufactured goods:
-- **Infrastructure Investment and Jobs Act**: Buy America requirements for infrastructure projects
-- **Berry Amendment**: Defense Department procurement must use U.S.-manufactured items
-- **Trade Agreements Act**: Federal procurement restricted to designated countries (excluding China)
-
-**Implementation challenges**:
-- **Domestic unavailability waivers**: Many products not manufactured domestically require waivers
-- **Cost thresholds**: Domestic content requirements vary (often 55-60% domestic content)
-- **Enforcement limitations**: Tracking supply chains and verifying compliance difficult
-
-**Coordinating Mechanisms**
-
-**U.S.-EU Trade and Technology Council (TTC)**:
-- Coordinates industrial policy, investment screening, export controls
-- Working groups on semiconductors, AI, clean technology
-- Goal: Align allied subsidies to avoid subsidy races and coordinate China policies
-
-**Indo-Pacific Economic Framework (IPEF)**:
-- Supply chain resilience pillar coordinates friend-shoring
-- Critical mineral and semiconductor cooperation
-- Limited participation (not comprehensive trade agreement)
-
-**Multilateral export control regimes** (Wassenaar, etc.): Coordinate advanced technology export restrictions (covered in Chapter 6)
+**Buy America provisions** across multiple statutes require domestically manufactured goods for federal procurement, though domestic unavailability waivers remain common. Allied coordination mechanisms include the U.S.-EU Trade and Technology Council (aligning subsidies and China policies) and the Indo-Pacific Economic Framework (supply chain resilience).
 
 ---
 
