@@ -228,45 +228,7 @@ The Office of Foreign Assets Control (OFAC) within the U.S. Department of Treasu
 
 ### Legal Authorities
 
-OFAC operates under multiple statutory authorities granting the President power to impose economic sanctions:
-
-**International Emergency Economic Powers Act (IEEPA)**
-
-The primary legal basis for modern sanctions, IEEPA (50 U.S.C. §§ 1701-1706) authorizes the President to:
-
-- Declare a national emergency with respect to an "unusual and extraordinary threat"
-- Block transactions and freeze assets of foreign persons or entities
-- Prohibit imports and exports
-- Regulate foreign exchange, banking, and property transfers
-
-**Process**:
-1. President issues Executive Order declaring national emergency and identifying threat
-2. Executive Order cites IEEPA authority
-3. OFAC issues implementing regulations (31 C.F.R. Parts 500-599)
-4. Congress can terminate national emergency by joint resolution (never successfully done)
-
-**Scope**: IEEPA grants nearly unlimited discretion. "National emergency" is self-defined by President; "unusual and extraordinary threat" interpreted broadly. Courts provide minimal review, treating national security determinations as non-justiciable political questions.
-
-**Current IEEPA-based programs** (2024): Russia, Iran, North Korea, Syria, Venezuela, South Sudan, Yemen, Burma, Libya, Somalia, Democratic Republic of Congo, Central African Republic, Burundi, Nicaragua, Belarus, Ethiopia, and others.
-
-**Trading with the Enemy Act (TWEA)**
-
-Enacted 1917, TWEA (50 U.S.C. §§ 4301-4341) authorizes wartime sanctions. Much broader than IEEPA but now only applies to Cuba (grandfathered under TWEA before IEEPA's 1977 enactment). Requires congressional authorization for new programs, limiting utility.
-
-**Specific Sanctions Statutes**
-
-Congress has enacted country-specific and issue-specific sanctions laws:
-
-- **Comprehensive Iran Sanctions, Accountability, and Divestment Act (CISADA) 2010**: Mandated sanctions on entities facilitating Iran's petroleum sector; authorized secondary sanctions
-- **Countering America's Adversaries Through Sanctions Act (CAATSA) 2017**: Mandated sanctions on Russia, Iran, North Korea; limited presidential waiver authority
-- **Magnitsky Act 2012 and Global Magnitsky Act 2016**: Target human rights abusers and corrupt officials globally
-- **Hong Kong Autonomy Act 2020**: Sanctions on Chinese officials and entities undermining Hong Kong autonomy
-
-These statutes constrain presidential discretion by mandating specific sanctions, limiting waivers, or requiring reports to Congress. However, presidents retain broad IEEPA authority for additional sanctions beyond statutory minimums.
-
-**United Nations Security Council Resolutions**
-
-When UN Security Council adopts sanctions resolutions (e.g., North Korea, Iran historically, Taliban, Al-Qaeda), U.S. implements through OFAC. However, U.S. sanctions typically exceed UNSC minimums, adding unilateral restrictions beyond multilateral baseline.
+OFAC operates under multiple statutory authorities. The primary basis is **IEEPA** (detailed in Chapter 1's Government Tools Box), which grants the President broad power to block transactions, freeze assets, and regulate economic activity during declared national emergencies. Additional authorities include **TWEA** (Trading with the Enemy Act, now applicable only to Cuba), **country-specific statutes** (CISADA for Iran, CAATSA for Russia/Iran/North Korea, the Magnitsky Acts for human rights abusers), and **UN Security Council resolutions**. These statutes sometimes constrain presidential discretion by mandating specific sanctions or limiting waivers, but IEEPA provides broad residual authority for additional measures.
 
 ### Types of Sanctions Programs
 
@@ -317,84 +279,20 @@ Secondary sanctions extend U.S. reach globally, forcing third parties to choose 
 
 ### Designation Process
 
-**SDN Designations**
-
-OFAC adds individuals and entities to the SDN List through a multi-stage administrative process. The process begins with intelligence gathering, in which agencies such as the CIA, NSA, FBI, DHS, State Department, and Commerce Department identify targets that meet sanctions criteria. These agencies then coordinate through a Treasury-chaired interagency review, with input from the Departments of State, Justice, Commerce, and others. OFAC, with the approval of the Treasury Secretary or a designated delegate, makes the final designation decision. Once a determination is reached, OFAC publicly lists the designation on the SDN List along with identifying information, including names, aliases, addresses, dates of birth, passport numbers, and vessel or aircraft identifiers. Upon publication, U.S. financial institutions holding the designated party's assets must immediately freeze those assets and report them to OFAC. All U.S. persons are then prohibited from engaging in transactions with the designated party, and foreign financial institutions risk secondary sanctions exposure if the designated individual or entity is subject to a secondary sanctions program.
-
-Designation criteria vary by program but span a broad range of prohibited activities. Terrorism-related designations target those providing material support to Foreign Terrorist Organizations (FTOs) or Specially Designated Global Terrorists (SDGTs), while proliferation designations address contributions to weapons of mass destruction programs, particularly those of North Korea and Iran. Narcotics trafficking designations cover individuals and entities playing a significant role in the international drug trade, and human rights abuses are addressed through Magnitsky Act designations for serious violations. Additional criteria encompass malicious cyber actors under Executive Order 13694, officials engaging in public corruption, and foreign interference in elections or other efforts to undermine democratic institutions.
-
-**50% Rule**: If sanctioned entity owns 50%+ of another entity (directly or indirectly), the subsidiary is automatically subject to same restrictions even if not listed. This prevents evasion through corporate structures.
+OFAC adds individuals and entities to the SDN List through interagency review: intelligence agencies identify targets, Treasury chairs the review, and OFAC makes the final designation. Upon publication, U.S. financial institutions must immediately freeze designated parties' assets and all U.S. persons are prohibited from transacting with them. Criteria span terrorism, WMD proliferation, narcotics trafficking, human rights abuses (Magnitsky Act), malicious cyber activity, and corruption.
 
 {% hint style="info" %}
 **The 50% Rule Explained**
 OFAC's "50% Rule" is a crucial anti-evasion mechanism. If a sanctioned entity owns 50% or more of a company—even a company not explicitly listed on any sanctions list—that company is automatically sanctioned too. The rule applies to chains of ownership: if Sanctioned Company A owns 60% of Company B, and Company B owns 80% of Company C, then Company C is also sanctioned (even though it's two steps removed). Banks must trace ownership structures carefully, which is why compliance costs are so high.
 {% endhint %}
 
-**Evidentiary Standards**: Designations based on "administrative record" reviewed internally; courts provide limited review. Designated parties rarely see underlying intelligence. This low procedural threshold enables rapid designations but raises due process concerns.
-
-**Delisting Process**
-
-Designated parties may petition OFAC for removal:
-
-1. Submit request with evidence demonstrating no longer meeting designation criteria
-2. OFAC reviews (can take months to years; no statutory deadline)
-3. OFAC may grant, deny, or request additional information
-4. Judicial review available but courts typically defer to OFAC's national security determinations
-
-Delisting is difficult; presumption favors maintaining designations. Burden on petitioner to prove changed circumstances.
+Evidentiary standards are low (internal "administrative record," limited judicial review), enabling rapid designations but raising due process concerns. Delisting is difficult: designated parties bear the burden of proving changed circumstances, with no statutory review deadline.
 
 ### Licensing and Compliance
 
-**General Licenses**
+OFAC manages sanctions flexibility through **general licenses** (authorizing categories of transactions without applications—humanitarian aid, personal remittances, diplomatic activities, telecommunications) and **specific licenses** (case-by-case approvals for compelling exceptions like medical treatment or contract wind-downs).
 
-OFAC issues general licenses authorizing categories of transactions without individual applications:
-
-- **Humanitarian transactions**: Medicine, medical devices, food, agricultural commodities generally authorized (even to comprehensive sanctions targets)
-- **Personal remittances**: Individuals may send limited funds to family members in sanctioned countries
-- **Informational materials**: First Amendment protections for publishing, importing/exporting informational materials
-- **Diplomatic activities**: UN, embassies, consulates authorized to conduct official business
-- **Telecommunications**: Services enabling internet, phone communication generally authorized (promotes information freedom)
-
-General licenses balance sanctions pressure with humanitarian concerns, constitutional rights, and diplomatic necessities.
-
-**Specific Licenses**
-
-For transactions not covered by general licenses, U.S. persons may apply for specific licenses:
-
-- **Application**: Submit to OFAC with detailed transaction description, parties involved, purpose, economic impact
-- **Review**: OFAC evaluates consistency with sanctions policy objectives, humanitarian factors, foreign policy considerations
-- **Determination**: OFAC may approve, deny, or approve with conditions (reporting requirements, transaction limits)
-- **Timeline**: No statutory deadline; can take weeks to many months
-
-Specific licenses enable flexibility for compelling cases (medical treatment, legal fees, winding down contracts) while maintaining default prohibition.
-
-**Compliance Requirements for Financial Institutions**
-
-U.S. financial institutions must implement robust sanctions compliance programs:
-
-**Screening**:
-- Screen all customers, transactions, and counterparties against OFAC SDN List and other sanctions lists
-- Screen transaction descriptions, beneficiaries, originators for sanctions nexus
-- Real-time or near-real-time screening before processing transactions
-
-**Blocking**:
-- Immediately freeze assets of designated persons if discovered
-- File Blocked Property Report with OFAC within 10 days
-- Reject transactions involving designated persons
-
-**Reporting**:
-- Report blocked property annually
-- Report suspicious activity to FinCEN (overlapping AML requirements)
-- Respond to OFAC information requests
-
-**Internal controls**:
-- Designated sanctions compliance officer
-- Regular employee training
-- Independent audit function
-- Policies and procedures manual
-- Recordkeeping (5+ years)
-
-**Consequences of non-compliance**: Massive civil and criminal penalties (as noted above - BNP Paribas $8.9 billion, Standard Chartered $1.1 billion). This incentivizes over-compliance: banks often block transactions with tenuous sanctions connections to avoid enforcement risk.
+U.S. financial institutions must screen all transactions against OFAC lists in real-time, immediately freeze designated parties' assets, and maintain comprehensive compliance programs (dedicated officers, training, audit, recordkeeping). Consequences of non-compliance are severe—BNP Paribas paid $8.9 billion, Standard Chartered $1.1 billion—which incentivizes over-compliance: banks routinely block transactions with even tenuous sanctions connections to avoid enforcement risk.
 
 ### Humanitarian Exceptions and Challenges
 

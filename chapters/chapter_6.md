@@ -416,66 +416,13 @@ Export controls face a fundamental dilemma: Unilateral measures risk competitive
 
 ### The Case for Multilateral Coordination
 
-**Market Coverage and Effectiveness**
+For export controls to meaningfully constrain adversary capabilities, they must cover sufficient market share that substitutes are unavailable. In semiconductor equipment, the U.S. holds ~40% market share, Japan ~30%, and the Netherlands controls 100% of EUV lithography. Unilateral U.S. controls leave 60% of the equipment market accessible; coordinated controls close access to ~85%.
 
-For export controls to meaningfully constrain adversary capabilities, they must cover sufficient market share that substitutes are unavailable or prohibitively expensive. Consider semiconductor manufacturing equipment:
-
-- **Netherlands (ASML)**: 100% market share for EUV lithography (essential for sub-7nm chips)
-- **United States (Applied Materials, Lam Research, KLA)**: ~40% market share for deposition, etching, and inspection equipment
-- **Japan (Tokyo Electron, Screen, Kokusai Electric)**: ~30% market share for etching and cleaning equipment
-- **Others (Europe, Korea)**: ~30% combined
-
-Unilateral U.S. controls leave Japan and Netherlands equipment available. If Japan and Netherlands don't coordinate, Chinese fabs can access 60% of equipment market. Coordinated controls by all three close access to ~85%, making indigenous development or evasion much harder.
-
-**Reducing Commercial Disadvantage**
-
-Firms complying with unilateral export controls lose market share to foreign competitors selling to restricted destinations. This creates:
-
-1. **Immediate revenue losses**: U.S. semiconductor equipment firms lost $10-15 billion annually (2022-2024) from China restrictions
-2. **Long-term market position erosion**: Chinese customers develop relationships with non-U.S. suppliers; even if restrictions lifted, U.S. firms may not regain market share
-3. **R&D funding constraints**: Reduced revenues limit R&D spending, potentially ceding technological leadership over time
-4. **Political opposition**: Affected firms lobby against controls or for exemptions, weakening policy sustainability
-
-Multilateral controls level the playing field: All major suppliers face same restrictions, minimizing competitive distortions. This enhances political sustainability as firms cannot circumvent controls by relocating to less restrictive jurisdictions.
-
-**Signaling and Normative Effects**
-
-Multilateral action carries greater political weight than unilateral measures. When multiple governments coordinate export denials, it:
-
-- **Signals severity**: Demonstrates threat assessment shared across allies, not unilateral U.S. paranoia
-- **Creates stigma**: Targets face reputational costs when multiple advanced democracies deny access
-- **Establishes norms**: Repeated multilateral denials for specific end-uses (e.g., surveillance technologies for human rights abuses) strengthen nonproliferation norms
+Multilateral coordination also reduces commercial disadvantage (all suppliers face the same restrictions, leveling the playing field), enhances political sustainability (firms cannot circumvent by relocating), and signals shared threat assessment rather than unilateral American action. U.S. semiconductor equipment firms lost $10-15 billion annually (2022-2024) from China restrictions—losses that generate intense lobbying for exemptions absent allied burden-sharing.
 
 ### Challenges to Multilateral Coordination
 
-Despite theoretical advantages, achieving and maintaining multilateral coordination faces severe obstacles:
-
-**Divergent Threat Perceptions**
-
-Allies often disagree on threat severity or prioritization:
-
-- **Geographic proximity**: European allies prioritize Russia threat; Asian allies prioritize China; U.S. addresses both globally
-- **Economic ties**: Germany's deep economic integration with China (largest trade partner) creates different cost-benefit calculus than U.S.
-- **Historical relations**: Japan and Korea have complicated histories with China affecting willingness to antagonize
-- **Domestic politics**: Governing coalitions in parliamentary systems may include parties opposing confrontational policies
-
-**Commercial Interests and Lobbying**
-
-Firms facing revenue losses lobby home governments for exemptions:
-
-- **ASML (Netherlands)** lobbied against broad lithography restrictions; Dutch government initially limited controls to only most advanced EUV systems, permitting older DUV sales generating substantial revenues
-- **Samsung and SK Hynix (Korea)** secured exemptions for their China fabs, allowing equipment imports and U.S. personnel support despite broader controls
-- **Tokyo Electron (Japan)** advocated for narrow controls preserving sales of all but newest-generation equipment
-
-Lobbying more effective in smaller countries where individual firms represent larger share of economy and political influence.
-
-**Consensus Requirements and Lowest-Common-Denominator**
-
-Multilateral regimes requiring consensus (Wassenaar, MTCR, NSG) can only adopt controls acceptable to all members. This creates:
-
-- **Delay**: Negotiations drag on as holdouts extract concessions or exemptions
-- **Ambiguity**: Compromise language may be vague, enabling divergent interpretations and inconsistent implementation
-- **Loopholes**: Exemptions to secure consensus create exploitable gaps
+Despite these advantages, coordination faces severe obstacles. **Divergent threat perceptions**: European allies prioritize Russia, Asian allies prioritize China, and Germany's deep economic integration with China creates a different cost-benefit calculus. **Commercial lobbying**: ASML lobbied against broad lithography restrictions, Samsung and SK Hynix secured exemptions for their China fabs, and Tokyo Electron advocated for narrow controls preserving most sales. Lobbying is more effective in smaller countries where individual firms represent a larger share of the economy. **Consensus regimes** (Wassenaar, MTCR) can only adopt controls acceptable to all members, creating delay, ambiguity, and exploitable loopholes.
 
 Example: Wassenaar took three years (2013-2016) to add intrusion software and surveillance technology controls, and final language contained exemptions enabling continued sales to authoritarian regimes.
 
