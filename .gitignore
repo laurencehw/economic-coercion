@@ -50,6 +50,11 @@ figures/*.py
 .DS_Store
 Thumbs.db
 
+# Node.js (HonKit local testing)
+node_modules/
+package.json
+package-lock.json
+
 # Build outputs
 /build
 /dist
