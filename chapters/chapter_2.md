@@ -261,7 +261,7 @@ Western initiatives to reduce reliance on Chinese processing have achieved modes
 
 **Recycling** (10-20% of needs by 2030-2035) and **substitution research** (LFP batteries eliminating cobalt/nickel, sodium-ion alternatives, rare-earth-free motors) can reduce vulnerability at the margins but cannot eliminate dependence in strategically relevant timeframes.
 
-The pattern is consistent: progress is possible but slow, expensive, and partial. Western strategies realistically aim for reduced dependence rather than independence—security through redundancy. Whether democratic political systems can sustain the required commitment across election cycles remains uncertain. Section 5 below evaluates these strategies in detail.
+The pattern is consistent: progress is possible but slow, expensive, and partial. Western strategies realistically aim for reduced dependence rather than independence—security through redundancy. Whether democratic political systems can sustain the required commitment across election cycles remains uncertain. The following sections evaluate these strategies in detail.
 
 ---
 

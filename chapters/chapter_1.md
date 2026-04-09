@@ -158,7 +158,6 @@ The 2017 National Security Strategy designated China a "strategic competitor" se
 <figure class="book-figure">
   <img src="../figures/fig_01_04_timeline.png" alt="Timeline of Major Economic Coercion Events">
   <figcaption>Figure 1.4: Timeline of Major Economic Coercion Events</figcaption>
-</invoke>
 </figure>
 
 The Trump administration imposed tariffs covering ~$370 billion in Chinese imports; China retaliated against American agriculture and industrial goods. But tariffs were the most visible, not the most consequential, component. The 2018 ECRA and FIRRMA expanded technology export controls and investment screening. Entity List additions blocked Huawei, ZTE, SMIC, and YMTC from American technology. The October 2022 semiconductor controls represented the culmination—comprehensive capability-based restrictions analyzed in Chapter 4.
