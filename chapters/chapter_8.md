@@ -414,98 +414,15 @@ State-owned enterprises (SOEs) and sovereign wealth funds (SWFs) function as ext
 
 ### Chinese SOEs: Scale and Strategic Role
 
-China's state-owned enterprises dominate key sectors of its economy and increasingly operate globally as instruments of state policy. As of 2024:
+China's 157 centrally-managed SOEs (combined assets over $35 trillion, 20+ million direct employees) span energy, telecommunications, banking, aerospace, shipping, and nuclear sectors. They operate under a **dual mandate**: commercial profitability and political objectives including industrial policy implementation, resource security, BRI infrastructure, and—when directed—economic coercion.
 
-- **157 centrally-managed SOEs** under State-owned Assets Supervision and Administration Commission (SASAC)
-- **Combined assets**: Over $35 trillion (larger than many countries' GDP)
-- **Employment**: 20+ million workers directly, tens of millions more in subsidiaries and supply chains
-- **Sectors**: Energy (Sinopec, PetroChina, CNOOC), telecommunications (China Mobile, China Unicom, China Telecom), banking (ICBC, Bank of China, China Construction Bank), aerospace (AVIC, CASC), shipping (COSCO), nuclear (CNNC)
+**Resource acquisition** has been aggressive: CNOOC's attempted Unocal acquisition (blocked 2005), PetroChina's global oil investments, ChemChina's $43 billion Syngenta purchase (2017), and extensive mining acquisitions across Latin America, Africa, and Australia for lithium, cobalt, and rare earths. **Technology acquisition** operates through joint venture requirements, state-backed global expansion (Huawei), and SOE partnerships with Western aerospace, rail, and manufacturing firms.
 
-**Dual Mandate: Commercial and Political**
+### Sovereign Wealth Funds and Western Responses
 
-Chinese SOEs operate under dual mandate:
+Chinese SWFs—the China Investment Corporation (~$1.4 trillion AUM), SAFE Investment Company ($1+ trillion), and the National Social Security Fund ($440 billion)—operate with less transparency than Norwegian or Singaporean counterparts, raising concerns about strategic motivations. CIC holds stakes in Blackstone, Morgan Stanley, and commodity firms, increasingly targeting technology and strategic sectors.
 
-**Commercial objectives**: Profitability, efficiency, competitiveness (increasingly emphasized since Xi Jinping's SOE reforms requiring better performance)
-
-**Political objectives**:
-- Implementing industrial policy (Made in China 2025 sectors)
-- Ensuring resource security (energy, minerals, food)
-- Supporting Belt and Road Initiative infrastructure
-- Advancing technology self-reliance
-- Executing economic coercion when directed
-
-The tension between commercial and political objectives creates complexity: SOEs must generate profits to avoid becoming fiscal drains while simultaneously pursuing strategic goals that may not maximize returns.
-
-**Resource Acquisition**
-
-Chinese SOEs have aggressively acquired global resources to secure supply:
-
-**Energy**:
-- CNOOC's failed attempt to acquire Unocal (blocked by U.S. Congress, 2005)
-- PetroChina investments in Canadian oil sands, Venezuelan heavy oil, African offshore fields
-- Strategic petroleum reserves stockpiling (world's second-largest after U.S.)
-
-**Mining and Minerals**:
-- Chinalco's stake in Rio Tinto (2008-2009, ultimately reduced after political resistance)
-- Multiple acquisitions of lithium, cobalt, rare earth, copper mines in Latin America, Africa, Australia
-- China Molybdenum acquisition of cobalt mine in DRC
-
-**Agriculture**:
-- ChemChina acquisition of Syngenta (Swiss agribusiness, $43 billion, 2017)
-- COFCO investments in grain trading and processing globally
-- Farmland acquisitions in Africa, South America, Eastern Europe (though facing resistance)
-
-**Technology Acquisition**
-
-SOEs serve as vehicles for accessing foreign technology:
-- Joint venture requirements force foreign firms to partner with Chinese SOEs and transfer technology
-- Huawei's relationship with state (government contracts, financial support) enables global telecommunications expansion
-- AVIC (aviation SOE) partnerships with Boeing, Airbus, GE to acquire aerospace technology
-- CRRC (rail SOE) acquisitions of foreign rail manufacturers
-
-### Sovereign Wealth Funds as Investment Vehicles
-
-**China Investment Corporation (CIC)**
-
-Established 2007 with $200 billion initial capital (now ~$1.4 trillion AUM), CIC invests China's foreign exchange reserves:
-- Portfolio includes stakes in Blackstone, Morgan Stanley, commodity firms, infrastructure
-- Increasingly focused on technology and strategic sectors
-- Subject to CFIUS and allied investment screening, limiting U.S./European access
-
-**Other Chinese SWFs**:
-- SAFE Investment Company ($1+ trillion, manages forex reserves)
-- National Social Security Fund ($440 billion, domestic focus)
-
-**Compared to other major SWFs**:
-- Norway Government Pension Fund: $1.4 trillion (ethical guidelines, transparent)
-- Abu Dhabi Investment Authority: ~$700 billion
-- Singapore GIC: ~$700 billion, Temasek: ~$280 billion
-
-Chinese SWFs operate with less transparency than Norwegian/Singaporean counterparts, raising Western concerns about strategic rather than purely commercial motivations.
-
-### Western Responses: Reciprocity and Screening
-
-**Reciprocity Arguments**
-
-U.S. and European critics argue for reciprocal market access: if Chinese SOEs invest freely in Western markets while Chinese markets remain restricted to foreign firms, this creates asymmetric advantages. Proposals include:
-
-- **Conditional market access**: Deny Chinese SOE acquisitions unless China opens equivalent sectors to Western firms
-- **Subsidies countervailing**: Treat Chinese SOE advantages from subsidized financing as unfair trade requiring countervailing duties
-- **WTO reforms**: Strengthen disciplines on SOEs to prevent distortionary advantages
-
-**Investment Screening** (covered in Section 1)
-
-CFIUS and allied mechanisms increasingly target SOE investments:
-- SOE-controlled investors face mandatory declarations for TID sectors
-- Presumption of government control raises security concerns
-- Several high-profile SOE acquisitions blocked: CNOOC-Unocal (2005), State Grid-AES wind farms (2012)
-
-**SOE Reform Pressure**
-
-Western governments and multilateral institutions pressure China to reform SOEs:
-- IMF, World Bank, OECD all recommend reducing SOE role, subjecting them to market disciplines
-- U.S.-China trade negotiations include SOE subsidy reduction demands
-- China has consolidated, merged, and partially privatized some SOEs but retains strategic control
+Western responses center on **reciprocity arguments** (if Chinese SOEs invest freely in Western markets while Chinese markets remain restricted, this creates asymmetric advantage), **investment screening** (CFIUS and allied mechanisms now target SOE investments with mandatory declarations and presumptions of government control), and **reform pressure** through multilateral institutions. China has consolidated and partially privatized some SOEs but retains strategic control over key sectors.
 
 ---
 

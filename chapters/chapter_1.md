@@ -134,51 +134,38 @@ The trajectory from partnership to competition unfolded over four decades in thr
 
 #### Phase 1: Strategic Engagement (1979-2008)
 
-The normalization of US-China relations in 1979 opened an era of deepening economic integration premised on shared strategic interests and mutual benefit. Initially, the relationship was primarily geopolitical: both countries sought to balance against the Soviet Union. But economic engagement quickly became central to the relationship's logic.
+American policymakers embraced transformative engagement: integrating China into the global economy would promote political liberalization and responsible international behavior. As President Clinton argued in 2000 when advocating for WTO accession, China was "agreeing to import one of democracy's most cherished values: economic freedom."
 
-American policymakers embraced a theory of transformative engagement: integrating China into the global economy and international institutions would not only create prosperity but would also promote political liberalization and responsible international behavior. As President Clinton argued in 2000 when advocating for China's WTO accession, "by joining the WTO, China is not simply agreeing to import more of our products; it is agreeing to import one of democracy's most cherished values: economic freedom... When individuals have the power... to realize their dreams, they will demand a greater say."
-
-China's accession to the World Trade Organization in 2001 accelerated integration dramatically. Trade between the US and China grew from $116 billion in 2000 to over $560 billion by 2008 (U.S. Census Bureau). American companies invested heavily in Chinese manufacturing, taking advantage of low labor costs and increasingly sophisticated supply chains. China became "the world's factory," integral to global production networks for electronics, apparel, machinery, and countless other goods. The relationship appeared to validate the liberal assumption that economic interdependence promotes cooperation.
+China's WTO accession in 2001 accelerated integration dramatically. Trade grew from $116 billion (2000) to over $560 billion (2008) (U.S. Census Bureau). China became "the world's factory," and the relationship appeared to validate the liberal assumption that economic interdependence promotes cooperation.
 
 <figure class="book-figure">
   <img src="../figures/fig_01_02_us_china_trade.png" alt="US-China Trade Volume and Key Events (2000-2024)">
   <figcaption>Figure 1.2: US-China Trade Volume and Key Events (2000-2024)</figcaption>
 </figure>
 
-But integration also created structural dependencies and distributional consequences that would later fuel tensions. American manufacturing employment declined sharply—research by Autor, Dorn, and Hanson estimated that competition from Chinese imports eliminated 2.4 million U.S. jobs between 1999 and 2011 (Autor, Dorn, and Hanson 2016). China accumulated massive foreign exchange reserves ($2 trillion by 2008, per IMF data) and became the largest foreign holder of U.S. Treasury securities, creating mutual financial dependencies. Technology transfer—sometimes voluntary through joint ventures, sometimes coerced through requirements for market access, sometimes illicit through cyber espionage—accelerated China's industrial upgrading.
-
-For China, this period represented a strategic opportunity. Deng Xiaoping's guidance to "hide capabilities and bide time" (韬光养晦, tāoguāng yǎnghuì) meant avoiding confrontation while building comprehensive national power. Economic growth became the foundation for eventual great power status. The strategy worked remarkably: China sustained average annual GDP growth above 10%, lifting hundreds of millions out of poverty while building infrastructure and industrial capacity on an unprecedented scale.
+But integration also created structural dependencies and distributional consequences. Research by Autor, Dorn, and Hanson estimated Chinese import competition eliminated 2.4 million U.S. jobs between 1999 and 2011. China accumulated $2 trillion in foreign exchange reserves by 2008 (IMF), becoming the largest foreign holder of U.S. Treasuries. Technology transfer—sometimes voluntary, sometimes coerced, sometimes illicit—accelerated China's industrial upgrading. For China, following Deng Xiaoping's guidance to "hide capabilities and bide time" (韬光养晦, tāoguāng yǎnghuì), this period of sustained 10%+ GDP growth built the foundation for great power status.
 
 #### Phase 2: Growing Tensions (2008-2016)
 
-The 2008 financial crisis marked an inflection point. As Western economies struggled, China maintained growth through massive fiscal stimulus. Chinese leaders drew the lesson that the Western model was not inevitable and that China's state-guided approach might be superior for certain developmental challenges. Confidence grew that the "East is rising, West is declining" (东升西降, dōng shēng xī jiàng).
+The 2008 financial crisis was the inflection point. China maintained growth through massive fiscal stimulus while Western economies struggled, breeding confidence that the "East is rising, West is declining" (东升西降, dōng shēng xī jiàng). This manifested in more assertive economic statecraft: informal rare earth export restrictions against Japan (2010), retaliatory investigations against EU wine imports (2012), and growing state-backed cyber espionage campaigns (exposed by the 2013 Mandiant report on PLA Unit 61398).
 
-This confidence manifested in more assertive Chinese economic statecraft. In 2010, following Japan's detention of a Chinese fishing captain near the disputed Senkaku/Diaoyu Islands, China imposed informal restrictions on rare earth exports to Japan—a clear instance of economic coercion. In 2012, after the EU imposed anti-dumping duties on Chinese solar panels, Beijing launched an investigation into European wine exports. These episodes signaled willingness to use economic leverage for geopolitical purposes.
-
-Simultaneously, American concerns about Chinese economic practices intensified. Complaints centered on several issues: intellectual property theft through cyber espionage (highlighted by the 2013 Mandiant report on PLA Unit 61398), forced technology transfer requirements for firms operating in China, industrial subsidies that created overcapacity in strategic sectors (steel, aluminum, solar), and currency manipulation that disadvantaged American manufacturers. The Obama administration pursued these concerns through WTO dispute settlement and diplomatic pressure, but frustration mounted that China was not playing by expected rules despite WTO membership.
-
-China's announcement of "Made in China 2025" in 2015 crystallized Western anxieties. The industrial policy aimed for Chinese leadership in ten strategic sectors: information technology, robotics, aerospace, maritime equipment, advanced rail, new energy vehicles, power equipment, agricultural machinery, new materials, and biopharma. Western analysts saw this not as normal industrial policy but as a blueprint for technological dominance backed by massive state subsidies, technology transfer requirements, and possible exclusion of foreign competitors. The program made explicit China's intention to reduce dependence on Western technology while capturing commanding heights in emerging industries.
-
-Economically, interdependence continued deepening. By 2016, US-China trade exceeded $650 billion annually (U.S. Census Bureau). American companies earned substantial revenue in China (Apple, GM, Boeing, Starbucks all counted China as a top-three market). Chinese firms increasingly operated in the US, from Lenovo's acquisition of IBM's PC business to growing Chinese direct investment in American real estate, technology, and infrastructure. But the political consensus supporting engagement had fractured.
+American concerns intensified around IP theft, forced technology transfer, industrial subsidies creating overcapacity (steel, aluminum, solar), and currency manipulation. "Made in China 2025" (2015)—targeting Chinese leadership in ten strategic sectors—crystallized Western anxieties by making explicit China's intention to reduce dependence on Western technology. By 2016, trade exceeded $650 billion annually (U.S. Census Bureau), but the political consensus supporting engagement had fractured.
 
 #### Phase 3: Strategic Competition (2017-Present)
 
-The Trump administration's arrival in 2017 marked a decisive shift from engagement to competition. The 2017 National Security Strategy explicitly designated China a "strategic competitor" seeking to "challenge American power, influence, and interests" and to "erode American security and prosperity" (White House 2017). This represented a fundamental reframing: China was no longer a partner to be integrated but a rival to be countered.
-
-Economic statecraft became the primary domain of competition. The Trump administration imposed sweeping tariffs on Chinese goods (eventually covering roughly $370 billion in imports), justified partly on trade grounds (reducing the bilateral deficit) but increasingly on strategic grounds (protecting American technology, reducing dependencies). China retaliated with tariffs on American agricultural products and industrial goods. The "trade war" of 2018-2019 demonstrated both sides' willingness to impose substantial economic costs in pursuit of strategic objectives.
+The 2017 National Security Strategy designated China a "strategic competitor" seeking to "erode American security and prosperity" (White House 2017)—a fundamental reframing from partner to rival. Economic statecraft became the primary domain of competition.
 
 <figure class="book-figure">
   <img src="../figures/fig_01_04_timeline.png" alt="Timeline of Major Economic Coercion Events">
   <figcaption>Figure 1.4: Timeline of Major Economic Coercion Events</figcaption>
+</invoke>
 </figure>
 
-But tariffs were only the most visible component. More consequentially, the U.S. began systematically restricting Chinese access to advanced technology. The 2018 Export Control Reform Act (ECRA) and Foreign Investment Risk Review Modernization Act (FIRRMA) expanded authority to control technology exports and screen foreign investment. Commerce Department's Bureau of Industry and Security added Chinese firms to the Entity List, blocking access to American technology: Huawei and ZTE in 2018-2019, advanced semiconductor firms SMIC and YMTC in 2020-2022. The October 2022 semiconductor controls, discussed earlier, represented the culmination of this approach—comprehensive effort to prevent China from accessing chokepoint technologies for advanced computing.
+The Trump administration imposed tariffs covering ~$370 billion in Chinese imports; China retaliated against American agriculture and industrial goods. But tariffs were the most visible, not the most consequential, component. The 2018 ECRA and FIRRMA expanded technology export controls and investment screening. Entity List additions blocked Huawei, ZTE, SMIC, and YMTC from American technology. The October 2022 semiconductor controls represented the culmination—comprehensive capability-based restrictions analyzed in Chapter 4.
 
-The Biden administration maintained and expanded this technology competition despite relaxing some tariffs. The 2022 CHIPS and Science Act provided $52 billion for domestic semiconductor manufacturing and research, with explicit prohibitions on recipients expanding advanced semiconductor production in China. The 2022 Inflation Reduction Act included substantial subsidies for electric vehicle and battery production, with requirements limiting Chinese content to qualify for benefits. Export controls expanded to cover quantum computing, advanced AI chips, and biotech equipment. The framework shifted from simply restricting China to proactively building American and allied advantages in strategic technologies—what National Security Advisor Jake Sullivan called "running faster" while maintaining "as large a lead as possible."
+The Biden administration maintained technology competition while shifting toward proactively building advantages: the CHIPS Act ($52 billion for domestic semiconductors), the Inflation Reduction Act (clean energy subsidies with Chinese content restrictions), and expanded controls on quantum computing, AI chips, and biotech. China responded with its own "dual circulation" strategy, counter-legislation (Export Control Law 2020, Anti-Foreign Sanctions Law 2021), critical mineral export restrictions (gallium, germanium), and massive semiconductor self-sufficiency investment.
 
-China responded with its own measures. Beijing accelerated implementation of its "dual circulation" strategy (双循环, shuāng xúnhuán), emphasizing domestic consumption and indigenous innovation to reduce vulnerability to external pressure. It passed the Export Control Law (2020), the Data Security Law (2021), and the Anti-Foreign Sanctions Law (2021), creating legal frameworks for economic countermeasures. It imposed export restrictions on critical minerals (gallium, germanium, rare earths) and launched security reviews of American firms operating in China (Micron banned from critical infrastructure in 2023). Most importantly, it made semiconductor self-sufficiency a national priority, investing massive resources in domestic chip production despite technical challenges.
-
-The result is a partial decoupling: selective disengagement from specific dependencies deemed strategically risky, while maintaining broader economic integration where both sides benefit. Total bilateral trade actually increased to over $750 billion by 2022 despite tensions (U.S. Census Bureau). But the composition is changing—trade in advanced technology products declining, scrutiny of investment intensifying, and both sides building redundancy in critical supply chains.
+The result is partial decoupling: selective disengagement from strategically risky dependencies while maintaining broader integration. Bilateral trade actually increased to over $750 billion by 2022 (U.S. Census Bureau), but the composition is shifting—advanced technology trade declining, investment scrutiny intensifying, and both sides building redundancy in critical supply chains.
 
 ### China's Economic Power and Strategic Objectives
 
@@ -452,83 +439,11 @@ Effectiveness decreases when:
 
 ## Government Tools Box 2: National Emergencies Act (NEA)
 
-### Legal Authority
-
 **Statute:** 50 U.S.C. §§ 1601-1651 (enacted 1976)
 
-**Key Provisions:** The National Emergencies Act (NEA) establishes procedural requirements for presidential declarations of national emergencies. It does not itself grant emergency powers but provides the framework through which the President invokes statutory authorities that become available during declared emergencies, including IEEPA. The NEA requires:
+The National Emergencies Act provides the procedural framework through which IEEPA is activated. It does not itself grant emergency powers but requires presidential declarations specifying which statutory authorities are being invoked, Congressional notification via Federal Register publication, and annual renewal (emergencies automatically terminate after one year unless renewed). As of 2024, the United States maintains over 40 active national emergencies—including Iran (since 1995), terrorism (since 2001), Russia/Ukraine (since 2014, dramatically escalated 2022), and multiple China-related emergencies (Hong Kong 2020, military-industrial complex 2021, semiconductors 2022).
 
-- Presidential declaration specifying which statutory authorities are being invoked
-- Immediate transmission of declaration to Congress and publication in Federal Register
-- Annual renewal of emergency declarations (emergencies automatically terminate after one year unless renewed)
-- Congressional oversight and termination procedures
-- Maintenance of records and reporting on expenditures
-
-**Context:** NEA was enacted in 1976 following concerns about unchecked executive emergency powers. It terminated four existing national emergencies declared without clear statutory authority and established systematic procedures for future emergencies.
-
-### How It Works with IEEPA
-
-NEA and IEEPA work in tandem. The typical sequence:
-
-1. **Declaration:** President issues Executive Order under both NEA and IEEPA, declaring a national emergency and specifying the "unusual and extraordinary threat"
-2. **Notification:** Executive Order transmitted to Congress and published in Federal Register
-3. **Invocation:** President invokes specific IEEPA authorities (asset blocking, transaction prohibition, etc.)
-4. **Implementation:** OFAC and other agencies implement specific sanctions programs
-5. **Renewal:** Annually, President must publish notice in Federal Register continuing the emergency
-6. **Termination:** Emergency ends if (a) President terminates it, (b) Congress passes joint resolution terminating it (subject to presidential veto, requiring 2/3 override), or (c) President fails to renew annually
-
-### Current National Emergencies Related to Economic Statecraft
-
-As of 2024, the United States maintains over 40 active national emergencies declared under NEA. Many invoke IEEPA for sanctions programs. Key emergencies related to economic coercion include:
-
-**Long-Standing Emergencies:**
-- **Iran (March 1995):** "Unusual and extraordinary threat" posed by Iranian actions and policies. Renewed annually for 29 years.
-- **International Terrorism (September 2001):** Post-9/11 emergency enabling sanctions on terrorists and supporters. Renewed for 23 years.
-- **Weapons Proliferation (November 2001):** Targeting WMD proliferation, including North Korea. Renewed for 23 years.
-- **Syria (May 2004):** Addressing Syrian government actions and support for terrorism. Renewed for 20 years.
-- **Drug Trafficking (April 2015):** Targeting transnational criminal organizations. Renewed for 9 years.
-
-**Recent Emergencies:**
-- **Venezuela (March 2015):** Unusual and extraordinary threat posed by Venezuelan government. Renewed annually.
-- **Cyber Threats (April 2015):** Enabling sanctions on entities engaged in malicious cyber activities. Renewed annually.
-- **South Sudan (April 2014):** Responding to conflict and humanitarian crisis. Renewed annually.
-- **Russia/Ukraine (March 2014, escalated 2022):** Initially addressing Crimea annexation, dramatically expanded following 2022 invasion. Renewed and expanded annually.
-- **China (Various dates):** Multiple emergencies addressing different Chinese actions—Hong Kong (2020), military-industrial complex (2021), semiconductors (2022).
-- **Myanmar (February 2021):** Following military coup. Renewed annually.
-
-### Congressional Oversight and Termination
-
-**Reporting Requirements:** The President must report to Congress at least every six months on total expenditures directly related to each emergency. OMB prepares annual reports to Congress on all active emergencies.
-
-**Congressional Termination:** Under the 2019 amendments to NEA, Congress can terminate national emergencies through joint resolution requiring majority vote in both chambers. However, presidential veto power means effective termination requires 2/3 supermajority in both chambers to override veto—a high bar rarely achieved.
-
-**In Practice:** Congressional termination authority is largely symbolic. No emergency has been terminated by Congress over presidential objection. The 2019 amendment was enacted specifically to address President Trump's February 2019 border wall emergency, but the joint resolution to terminate it was vetoed and the override vote failed.
-
-### Strengths and Limitations
-
-**Strengths:**
-- **Procedural Clarity:** NEA provides clear framework for declaring, maintaining, and terminating emergencies
-- **Transparency:** Public declaration and Federal Register publication ensure visibility
-- **Sunset Provision:** Annual renewal requirement prevents indefinite emergencies without affirmative presidential action
-- **Congressional Role:** Reporting and termination procedures provide some legislative oversight
-
-**Limitations:**
-- **Proliferation of Emergencies:** Over 40 active emergencies, some decades old, suggest "emergency" has become routine instrument of policy rather than exceptional measure
-- **Weak Congressional Check:** Supermajority requirement for termination over presidential veto means Congress rarely exercises oversight effectively
-- **Judicial Deference:** Courts almost never invalidate emergency declarations, deferring to executive branch national security determinations
-- **Definition Ambiguity:** "Unusual and extraordinary threat" is undefined and interpreted expansively—routine foreign policy disagreements framed as emergencies
-- **Perpetual Renewal:** Emergencies originally framed as temporary (Iran 1995, terrorism 2001) have been renewed for decades without reassessment
-
-### Policy Debates and Reform Proposals
-
-**Debate 1: Emergency Proliferation**
-Critics argue that maintaining 40+ "emergencies," some for decades, trivializes genuine crises and grants unchecked presidential power. Defenders counter that complex threats (terrorism, proliferation) are genuinely long-term and require sustained authorities.
-
-**Debate 2: Congressional Role**
-Some propose lowering the bar for congressional termination (simple majority without presidential veto) or requiring affirmative congressional approval to continue emergencies beyond initial period. Others argue this would undermine executive flexibility in foreign policy.
-
-**Debate 3: Judicial Review**
-Current judicial deference to executive branch emergency determinations means effectively no check on presidential assertions of threats. Some scholars advocate for more robust judicial review of proportionality and necessity.
+**Key limitation:** Congressional termination of a presidential emergency requires a 2/3 supermajority to override a veto—a bar never achieved. The proliferation of decades-old "emergencies" has effectively normalized what was designed as exceptional executive authority, raising constitutional concerns about unchecked presidential power in economic statecraft.
 
 **Reform Proposals:**
 - **Sunset After Fixed Period:** Require congressional reauthorization after 2-5 years rather than allowing indefinite presidential renewal
