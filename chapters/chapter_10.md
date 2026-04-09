@@ -737,15 +737,54 @@ Policymakers should track several key indicators as early warning signs. In tech
 
 ## Chinese Perspective Box: China's Vision for Future Order
 
-*Chinese strategic thinkers envision a future order shaped by multipolarity, technology self-reliance, and reshaped international architecture.*
+*Chinese strategic thinkers envision a future global order shaped by multipolarity, technology self-reliance, and China's role in reshaping international economic architecture.*
 
-**Multipolarity as Inevitable**: Chinese analysts view the unipolar moment (1991-2010s) as a temporary aberration. With American GDP share declining from 50% (1945) to 25% (2024), multiple power centers (China, India, EU, Russia, Brazil) challenge Washington's ability to set rules unilaterally. Chinese vision emphasizes sovereignty and non-interference over humanitarian intervention, development model diversity rather than Western universalism, institutional alternatives (AIIB, NDB, BRICS) alongside Western-dominated bodies, and cultural equality rejecting Western ideological superiority claims.
+**Multipolarity (多极化, duōjíhuà) as Inevitable Trajectory**
 
-**Technology Self-Reliance (2035-2050)**: Chinese projections envision indigenous semiconductor parity with Western capabilities, AI leadership through population-scale data and state coordination, and near-parity in quantum computing, biotech, and space. The strategic logic: self-reliance eliminates Western coercion leverage (export controls lose power), enables technology transfer to developing countries without political conditions, and validates state-directed model superiority.
+Chinese analysts view multipolarity—a world with multiple great powers rather than U.S. hegemony—as historical inevitability. American share of global GDP fell from 50% (1945) to 25% (2024) and is projected to decline further; the unipolar moment (1991-2010s) was a temporary aberration. China, India, Russia, Brazil, Indonesia, and the European Union all constitute independent power centers whose collective weight challenges Washington's ability to set rules unilaterally. Post-WWII institutions (UN, IMF, World Bank, WTO) reflect 1945 power distribution and require reform to match contemporary realities.
 
-**Alternative Development Model**: Chinese leaders expect Global South countries to embrace state-directed development and infrastructure-focused growth, particularly as Western model credibility suffers from financial crises, polarization, and inequality. Xi Jinping's "community of common destiny" (人类命运共同体) frames this as cooperative development, contrasting with Western confrontation. Belt and Road provides the infrastructure.
+**De-Westernization of Global Governance**
 
-**Internal Debates**: Western analysts should recognize diversity in Chinese strategic thinking—**nationalist hardliners** advocate aggressive confrontation; **economic pragmatists** warn against risking development goals; **regionalists** favor consolidating Asian influence before global competition; and **institutionalists** prefer reforming existing bodies over building parallel systems. Understanding these perspectives clarifies that Chinese commitment to self-reliance is ideological and strategic, that time horizons operate over decades, and that despite systemic competition, shared interests (climate, pandemics, financial stability, nonproliferation) create genuine cooperation opportunities.
+Chinese vision for future international order emphasizes:
+
+1. **Sovereignty and non-interference**: Primacy of state sovereignty over humanitarian intervention and democracy promotion. Internal affairs are national prerogatives, not subjects for external pressure.
+2. **Development diversity**: Multiple development models should coexist. No universal "correct" path; countries choose models fitting their circumstances.
+3. **Institutional alternatives**: Parallel institutions (AIIB, NDB, BRICS mechanisms) provide choices beyond Western-dominated bodies. Competition improves all institutions.
+4. **Cultural equality**: Reject Western cultural/ideological superiority claims. Chinese civilization's continuity, philosophical traditions, and governance systems have equal legitimacy.
+
+**Technology Self-Reliance as Achieved Reality (by 2035-2050)**
+
+Chinese projections envision technology independence: indigenous semiconductor equipment and fabrication achieving parity with Western capabilities; AI leadership through population-scale data resources, state coordination, and commercial applications; and global leadership or near-parity in quantum computing, biotech, and space through sustained state investment. The strategic logic: technology self-reliance eliminates Western coercion leverage (export controls and sanctions lose power), enables China to support developing countries through technology transfer without political conditions, and validates state-directed model superiority.
+
+**Alternative Development Model Success**
+
+Chinese perspectives expect developing countries to embrace the Chinese model of state-directed development and infrastructure-focused growth, particularly as Western model credibility suffers from financial crises, political polarization, inequality, and COVID-19 mismanagement. Belt and Road Initiative demonstrates Chinese willingness to invest without political conditions. Chinese concepts (cyber sovereignty, development rights over political rights, "harmonious world") gain acceptance as China's influence grows.
+
+**Peaceful Multipolarity vs. Containment Resistance**
+
+The Chinese strategic narrative frames China as seeking development, not hegemony—respecting sovereignty and pursuing win-win cooperation, unlike Western imperialism. Economic coercion (sanctions, export controls, investment restrictions) represents U.S. efforts to contain Chinese rise, repeating the historical pattern of established powers suppressing challengers. Xi Jinping's **"Community of common destiny for mankind"** (人类命运共同体, rénlèi mìngyùn gòngtóngtǐ) envisions an interconnected world facing shared challenges requiring cooperation, not confrontation.
+
+**Internal Debates and Alternative Views**
+
+Western analysts should recognize diversity of Chinese strategic thinking:
+
+**Nationalist hardliners**: Advocate more aggressive responses to Western pressure, accelerated military modernization, comprehensive confrontation if necessary to secure Chinese interests.
+
+**Economic pragmatists**: Warn that excessive confrontation risks development goals; maintaining trade and technology access more important than ideological victories; accommodation sometimes prudent.
+
+**Regionalists**: Argue China should focus on Asian regional leadership rather than global competition with the U.S.; consolidate sphere of influence before challenging global order.
+
+**Institutionalists**: Favor working within existing institutions (WTO, IMF) to gradually shift rules rather than building parallel systems; reform more effective than revolution.
+
+**Implications for Western Strategy**
+
+Understanding Chinese perspectives doesn't require accepting their validity but clarifies strategic choices:
+
+1. **Time horizons**: Chinese strategic thinking operates over decades and centuries. Expecting short-term capitulation to economic pressure ignores historical patience.
+2. **Technology competition**: Chinese commitment to self-reliance is ideological and strategic, not merely economic. Export controls may spur indigenous innovation rather than compelling dependence.
+3. **Institutional competition**: China seeks alternatives to U.S.-dominated order, not integration into Western system. AIIB, BRICS, SCO reflect genuine alternative vision, not simply anti-Western positioning.
+4. **Development model**: Chinese believe their approach works and benefits the Global South. Development finance without democracy conditions appeals to many governments.
+5. **Non-zero-sum opportunities**: Despite competition, shared interests exist (climate change, pandemic preparedness, financial stability, nuclear non-proliferation). Identifying cooperation opportunities while competing in other domains defines effective strategy.
 
 ---
 

@@ -374,11 +374,19 @@ The broader pattern is industrial policy convergence: both the United States and
 
 ### Historical Context: Foreign Technology Denial as National Trauma
 
-The Century of Humiliation narrative (introduced in Chapter 2) takes on particular intensity in the technology domain. For Chinese elites, the lesson is direct: British gunboats, Japanese industrial superiority, and CoCom restrictions all demonstrated that nations lacking indigenous technological capabilities face exploitation and subjugation. The 1960 Sino-Soviet split—when Soviet advisors were withdrawn overnight, crippling industrial programs—reinforced the imperative for self-reliance. China's response, the "Two Bombs, One Satellite" program (两弹一星, liǎngdàn yīxīng), demonstrated that determined state effort could achieve technological breakthroughs from positions of profound backwardness.
+Chinese strategic thinking about technology is fundamentally shaped by the **Century of Humiliation** (百年国耻, bǎinián guóchǐ)—the period from the 1840s Opium Wars through 1949 when technological backwardness enabled foreign domination. British gunboats defeated Qing dynasty forces because superior Western industrial technology produced weapons China could not match. Japanese invasion during World War II exploited this same vulnerability: modern Japanese industry produced aircraft, ships, and armaments that technologically backward China could not counter. For Chinese elites, this historical experience carries a clear lesson: nations lacking indigenous technological capabilities face exploitation, occupation, and destruction of sovereignty.
+
+The early People's Republic reinforced these imperatives. CoCom restrictions denied China access to advanced manufacturing equipment, computers, and dual-use technologies. Soviet technical assistance during the 1950s proved temporary—the Sino-Soviet split in 1960 saw Soviet advisors withdrawn overnight, crippling industrial programs dependent on foreign inputs. China's response was enforced self-reliance. The "Two Bombs, One Satellite" program (两弹一星, liǎngdàn yīxīng) developed nuclear weapons, ballistic missiles, and satellites despite Western embargo and Soviet abandonment, demonstrating that determined state effort could achieve technological breakthroughs from positions of profound backwardness.
 
 ### Key Chinese Terms in Technology Strategy
 
-Contemporary Chinese technology policy employs vocabulary reflecting historical trauma: **Technological Self-Reliance** (科技自立自强, kējì zìlì zìqiáng) frames indigenous capability as national survival, not merely economic preference; **Stranglehold/Chokepoint** (卡脖子, qiǎ bózi, "strangling the neck") describes foreign control over critical inputs—when Huawei lost TSMC access, commentators framed it through Century of Humiliation memories; and **Domestic Substitution** (国产替代, guóchǎn tìdài) drives massive investment in indigenous alternatives, accepting higher costs as acceptable for eliminating vulnerabilities.
+Contemporary Chinese technology policy employs specific vocabulary reflecting historical experience and current strategic priorities:
+
+**Technological Self-Reliance and Self-Strengthening** (科技自立自强, kējì zìlì zìqiáng) represents the core strategic imperative: China must develop indigenous capabilities in critical technologies to eliminate foreign leverage. This term, elevated to policy prominence under Xi Jinping, emphasizes that self-reliance is not merely economic preference but national survival requirement.
+
+**Stranglehold/Chokepoint** (卡脖子, qiǎ bózi, literally "strangling the neck") describes foreign control over critical technology inputs that could be weaponized against China. When Huawei lost access to Google services and TSMC fabrication, Chinese commentators framed this as Americans "strangling China's neck." The term resonates deeply with Century of Humiliation memories of foreign powers controlling China's destiny through superior technology.
+
+**Domestic Substitution** (国产替代, guóchǎn tìdài) refers to replacing imported technologies with domestically-produced alternatives. This policy priority drives massive investment in indigenous semiconductors, operating systems, EDA software, and manufacturing equipment—accepting higher costs and lower quality as acceptable prices for eliminating chokepoint vulnerabilities.
 
 ### October 2022 Controls as Technological Containment
 
@@ -398,11 +406,33 @@ Western backlash to Made in China 2025 led Chinese officials to de-emphasize exp
 
 ### Big Fund Investments and State-Directed Innovation
 
-The **National Integrated Circuit Industry Investment Fund** ("Big Fund" or 大基金) exemplifies state-directed development: Big Fund I ($21 billion, 2014) supported SMIC, YMTC, and packaging firms; Big Fund II ($29 billion, 2019) focused on EDA tools and equipment; Big Fund III (estimated $47 billion, 2024) targets advanced chips and AI processors. These investments reflect willingness to accept inefficiency for sovereignty—even if domestic chips cost more, eliminating chokepoints justifies the premium. Corruption scandals (multiple executives arrested) highlight governance challenges but have not diminished commitment to the model.
+The **National Integrated Circuit Industry Investment Fund** (国家集成电路产业投资基金, commonly called "Big Fund" or 大基金) exemplifies state-directed technology development:
 
-### Civil-Military Fusion and Dual Circulation
+- **Big Fund I (2014)**: $21 billion supporting SMIC, Hua Hong, Yangtze Memory Technologies Corporation (YMTC), and packaging firms
+- **Big Fund II (2019)**: $29 billion focusing on design tools (EDA), equipment manufacturing, and materials
+- **Big Fund III (2024)**: Estimated $47 billion targeting advanced chips, AI processors, and domestic equipment
 
-**Civil-Military Fusion** (军民融合, jūnmín rónghé) mandates integration between civilian technology and military applications, recognizing that dual-use technologies advance both simultaneously—the same chips powering smartphones enable missile guidance. This creates complications: Western firms increasingly avoid Chinese collaboration, and American export controls explicitly target civil-military fusion, treating all Chinese technology development as potentially military-relevant. The **Dual Circulation** strategy (introduced in Chapter 2) takes on particular urgency here: internal circulation means building complete domestic supply chains for semiconductors, AI, and aerospace, while external circulation maintains international engagement from a position of reduced dependence.
+These investments reflect Chinese willingness to accept inefficiency for sovereignty. Even if domestically-produced chips cost 30-50% more than imports, eliminating foreign chokepoints justifies the premium. Learning-by-doing builds expertise and human capital with long-term payoffs beyond immediate products.
+
+Big Fund corruption scandals (multiple executives arrested for embezzlement) highlight governance challenges in state-directed investment, but have not diminished commitment to the model. Chinese leadership views market-driven approaches as inadequate for technologies where established Western firms dominate and commercial incentives favor continued offshoring.
+
+### Civil-Military Fusion Doctrine
+
+**Civil-Military Fusion** (军民融合, jūnmín rónghé) mandates integration between civilian technology development and military applications. Under Xi Jinping, this became national strategy requiring private technology firms to support military modernization, share research relevant to defense applications, and accept People's Liberation Army involvement in ostensibly civilian projects.
+
+The doctrine reflects recognition that dual-use technologies—semiconductors, AI, quantum computing, biotechnology—advance both economic competitiveness and military capabilities simultaneously. Separating civilian from military applications is artificial: the same chips powering smartphones enable missile guidance systems.
+
+Civil-military fusion creates complications. Western firms and researchers increasingly avoid Chinese collaboration, international partnerships face restrictions, and Chinese firms dependent on foreign markets must balance government mandates against regulatory risks abroad. American export controls explicitly target civil-military fusion, treating all Chinese technology development as potentially military-relevant.
+
+### Dual Circulation Strategy
+
+Post-2020, China's **Dual Circulation** (双循环, shuāng xúnhuán) strategy restructured economic priorities in response to technology coercion risks:
+
+**Internal Circulation** (国内大循环, guónèi dà xúnhuán) emphasizes domestic consumption and production, building complete supply chains for strategic sectors (semiconductors, pharmaceuticals, aerospace) within China. This reduces vulnerability to foreign pressure but requires accepting efficiency losses from smaller scale and reduced specialization.
+
+**External Circulation** (国际循环, guójì xúnhuán) maintains international engagement but from a position of strength rather than dependence. China continues participating in global trade and investment, but strategic sectors must have domestic alternatives ensuring that external disruptions cannot paralyze critical industries.
+
+Dual circulation directly responds to U.S. weaponization of interdependence. If integration creates vulnerability, China must rebalance toward domestic self-sufficiency while maintaining beneficial external relationships where risks are manageable.
 
 ### Implications for Understanding Chinese Responses
 

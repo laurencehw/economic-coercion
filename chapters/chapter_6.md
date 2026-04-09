@@ -740,39 +740,122 @@ Managed fragmentation for now, but with risk of escalation into broader mercanti
 
 ## Chinese Perspective Box: Trade War as Containment
 
-From the Chinese perspective, Section 301 tariffs represented not legitimate trade enforcement but **economic aggression** (霸凌主义, bàlíng zhǔyì) designed to contain China's rise. Chinese critiques emphasized three dimensions: unilateral action bypassing WTO dispute settlement while claiming to defend the "rules-based order"; pretextual justifications (IP concerns masking strategic containment fears as Chinese firms approached technological frontiers); and maximum-pressure escalation resembling sanctions campaigns against Iran and North Korea rather than trade negotiations.
+### Section 301 Tariffs: Economic Aggression and the Breaking of Trust
 
-Chinese discourse deployed distinctive framing: **trade war** (贸易战) emphasized American aggression; **decoupling** (脱钩) warned of deliberate economic separation; and **legitimate development rights** (合法发展权利) positioned the conflict as "ladder-kicking"—developed countries denying developing nations the same path to prosperity. The Phase One Agreement was viewed as coerced concession under duress, with unequal obligations and unrealistic purchase targets ($200 billion) that both sides knew were unachievable.
+From the Chinese perspective, the Section 301 tariffs imposed in 2018 represented not legitimate trade enforcement but **economic aggression** designed to contain China's rise. Chinese officials and state media characterized the tariffs as **bullying** (霸凌主义, bàlíng zhǔyì)—the abuse of American economic power to coerce a competitor. The **trade war** (贸易战, màoyì zhàn) label, used freely in Chinese discourse, framed the conflict as deliberate American hostility rather than dispute resolution.
+
+Chinese critiques emphasized several dimensions of perceived illegitimacy:
+
+**Unilateral action bypassing WTO**: The United States determined Chinese violations and imposed remedies without WTO dispute resolution. From Beijing's perspective, Washington claimed to defend the "rules-based international order" while systematically violating those rules when convenient.
+
+**Pretextual justifications**: Chinese officials argued that intellectual property and technology transfer concerns were pretexts for economic containment. China had made substantial progress on IP protection since WTO accession; the sudden escalation reflected strategic competition fears as Chinese firms approached technological frontiers.
+
+**Maximum pressure tactics**: The escalating tariff waves (25% on $50 billion, then $200 billion, then threats on remaining $300+ billion) resembled sanctions campaigns rather than trade negotiations. Chinese commentators compared this to American pressure tactics against Iran and North Korea—economic warfare designed to impose capitulation rather than negotiate mutual accommodation.
+
+### Key Chinese Terms in Trade Conflict
+
+**Trade War** (贸易战, màoyì zhàn): Unlike American officials who initially avoided this term, Chinese discourse embraced it explicitly. Framing the conflict as "war" emphasized American aggression and justified comprehensive mobilization in response.
+
+**Bullying/Hegemonic Bullying** (霸凌主义, bàlíng zhǔyì): This term appeared constantly in Chinese official statements, portraying the United States as global bully using economic power to intimidate competitors. The framing resonated domestically, tapping nationalist resentment of perceived American arrogance.
+
+**Decoupling** (脱钩, tuōgōu): Chinese officials warned that American policy aimed at **decoupling**—deliberately severing economic integration to contain Chinese development. China rhetorically committed to continued integration while preparing for forced separation.
+
+**Legitimate Development Rights** (合法发展权利, héfǎ fāzhǎn quánlì): Chinese framing positioned the conflict as American denial of China's "legitimate development rights"—the entitlement of developing countries to industrialize, adopt technologies, and improve living standards. American restrictions represented "ladder-kicking": developed countries that climbed to prosperity now denying the same path to others.
+
+### Phase One Deal: Forced Concessions Under Duress
+
+Chinese perspectives on the January 2020 Phase One deal differ markedly from American triumphalism. Chinese commentary emphasized: the deal was signed under economic duress with tariffs still in place (**coerced agreement**, not mutual accommodation); China committed to specific purchase targets while the United States merely promised to consider tariff reductions (**unequal obligations**); the $200 billion purchase commitments were economically unrealistic (**impossible targets**); and Phase One addressed symptoms while ignoring causes—American containment strategy and structural competition (**core issues unresolved**). China viewed the deal as temporary ceasefire, not durable settlement.
 
 ### Chinese Counter-Measures: The Legal Framework
 
-China constructed a systematic retaliation architecture: the **Unreliable Entity List** (2019/2021) mirrors the American Entity List, penalizing foreign firms that cut supplies for political reasons; the **Export Control Law** (2020) established comprehensive authority over dual-use items with extraterritorial application, providing legal basis for restricting critical minerals (gallium, germanium, rare earths) where China holds dominant positions; and the **Anti-Foreign Sanctions Law** (2021) requires Chinese entities to implement counter-sanctions, placing firms in impossible positions where complying with American restrictions triggers Chinese penalties.
+China responded to American economic coercion by constructing legal frameworks enabling systematic retaliation:
 
-### Implications
+**Unreliable Entity List** (不可靠实体清单): Announced in 2019 and implemented in 2021, this directly mirrored the American Entity List. Foreign entities that cut off supplies to Chinese firms for non-commercial reasons face trade restrictions, investment prohibitions, and fines. The concept of "unreliability" emphasizes that politically-motivated supply disruptions make partners fundamentally untrustworthy—a pointed critique of American firms complying with Entity List restrictions.
 
-Chinese perspectives produce predictable patterns: escalation triggers proportional retaliation; coercion strengthens resolve rather than extracting concessions; economic pain is tolerable given nationalist framing and authoritarian governance. The trade war confirmed Chinese narratives about American hostility, validated self-reliance strategies, and accelerated counter-coercion capabilities. Western policymakers expecting concessions through economic pressure underestimate Beijing's cost tolerance and determination to resist perceived containment.
+**Export Control Law of 2020** (出口管制法): Established comprehensive authority for Chinese export controls with control lists for dual-use items, end-user controls, extraterritorial application to items containing Chinese-origin content, and explicit authorization for retaliatory measures against countries "abusing export control measures." The law provides legal basis for restricting critical minerals (gallium, germanium, antimony, graphite), rare earth elements, and pharmaceutical precursors where China holds dominant market positions.
+
+**Anti-Foreign Sanctions Law of 2021** (反外国制裁法): Authorizes counter-measures against foreign individuals and organizations implementing discriminatory restrictions against Chinese entities. Critically, it requires Chinese entities to implement counter-sanctions—placing firms in impossible positions where complying with American restrictions triggers Chinese penalties. The law transforms individual American coercive acts into occasions for systematic Chinese retaliation.
+
+### Zero-Sum Thinking Versus Legitimate Development
+
+Chinese discourse frames the trade conflict as reflecting fundamentally different worldviews. Chinese commentators argue Washington views international economics through a Cold War competitive lens—any Chinese gain represents American loss—producing containment policies rather than fair competition. Beijing presents an alternative vision of mutual benefit: China's rise benefits the global economy through manufacturing efficiency, market expansion, and innovation. At a deeper level, the conflict reflects tension between developing country rights to industrialize and developed country desire to maintain technological hierarchy—what Chinese analysts frame as perpetuating colonial-era patterns of North-South exploitation.
+
+### Belt and Road Initiative: Building Alternative Systems
+
+China positions the **Belt and Road Initiative** (一带一路, yīdài yīlù) as constructive alternative to Western-dominated systems: infrastructure financing without Western political conditions; alternative payment systems (CIPS for yuan-denominated transactions, digital currency pilots, bilateral currency swaps reducing dollar dependence); spread of Chinese technical standards in telecommunications and construction; and South-South solidarity positioning China as leader of the developing world. This framing resonates in countries with historical grievances against Western colonialism and frustrations with IMF/World Bank conditionality.
+
+### Implications for Understanding Chinese Responses
+
+Chinese perspectives on the trade war produce predictable response patterns: escalation of American restrictions triggers proportional Chinese retaliation; coercive tactics strengthen rather than weaken Chinese resolve; economic pain is tolerable given nationalist framing and authoritarian governance; and long-term strategic competition replaces hopes for mutual accommodation.
+
+Western policymakers expecting Chinese concessions through economic pressure underestimate Beijing's tolerance for costs and determination to resist perceived containment. The trade war confirmed Chinese narratives about American hostility, validated self-reliance strategies, and accelerated development of counter-coercion capabilities. Whether this serves long-term Chinese interests remains debatable, but understanding these perspectives enables more realistic assessment of policy options and their likely consequences.
 
 ---
 
 ## European Perspective Box: Strategic Autonomy and the Politics of Extraterritoriality
 
-The EU occupies a distinctive third position: experiencing economic coercion from *both* directions—as a target of Chinese pressure and collateral damage from American extraterritoriality. This dual exposure has produced a European approach emphasizing institutional rules, multilateral frameworks, and growing commitment to strategic autonomy.
+### Understanding European Views on Trade-Based Coercion
 
-The EU's rules-based instinct was forged from 1930s lessons about unilateral trade restrictions but has been tested by both sides. Section 232 tariffs (2018) demonstrated that rule-following provides no protection when Washington abandons multilateral norms. China's informal embargo on Lithuania (2021-2022) over a Taiwan representation office showed vulnerability to state-capitalist pressure operating below formal trade dispute thresholds.
+European perspectives on economic coercion occupy a distinctive third position — neither the American view (coercion as legitimate tool of primacy) nor the Chinese view (coercion as Western containment). The EU experiences economic coercion from *both* directions: as a target of Chinese pressure and as collateral damage from American extraterritoriality. This dual exposure has produced a European approach emphasizing institutional rules, multilateral frameworks, and a growing — if still incomplete — commitment to strategic autonomy.
+
+### Historical Context: From Rule-Taker to Rule-Maker
+
+The European Union was built on trade rules. The Single Market, the customs union, the Common Commercial Policy — these represent the world's most ambitious experiment in rules-based economic integration. Europeans internalized the lesson of the 1930s: that unilateral trade restrictions and beggar-thy-neighbor policies lead to political catastrophe. This institutional DNA shapes European reactions to both American and Chinese economic coercion: a reflexive preference for WTO adjudication, multilateral coordination, and proportionate response over unilateral escalation.
+
+But this rules-based instinct has been tested. The Trump administration's Section 232 steel and aluminum tariffs (2018) — imposed on allies under a "national security" justification that Europeans found insulting and pretextual — demonstrated that rule-following provides no protection when a major partner abandons multilateral norms. China's informal economic coercion against Lithuania (2021-2022), after Vilnius permitted Taiwan to open a "Taiwanese Representative Office," demonstrated that rules-based economies are vulnerable to state-capitalist pressure tactics that operate below the threshold of formal trade disputes.
 
 ### Key European Concepts
 
-**Strategic autonomy** describes the EU's aspiration to defend its economic interests independently—diversifying supply chains, building defensive trade instruments, and developing European technology capabilities. The concept remains contested (France champions it; Germany and smaller states worry about transatlantic damage) but has shifted policy toward active economic security, codified in the 2023 European Economic Security Strategy.
+**Strategic Autonomy (*autonomie stratégique*)**
 
-The **Blocking Statute** (1996, updated 2018) prohibits EU companies from complying with U.S. extraterritorial sanctions, but proved ineffective as firms universally prioritized American market access over EU legal obligations. This failure catalyzed the **Anti-Coercion Instrument (ACI, December 2023)**—the EU's most significant response, enabling countermeasures (tariffs, procurement exclusion, financial market restrictions) against any country using economic pressure to coerce EU policy choices. Critically, ACI decisions use qualified majority voting, removing the single-member veto that previously paralyzed EU trade responses. Though not yet invoked as of early 2026, its existence has already reshaped diplomatic calculations.
+European strategic autonomy — a concept originally articulated by French President Macron and adopted in modified form by the European Commission — describes the EU's aspiration to act independently in defense of its economic interests without dependence on American security guarantees or vulnerability to Chinese leverage. In its trade dimension, strategic autonomy encompasses:
 
-### European Critiques
+- **Reduced dependence on single suppliers**: Diversifying critical supply chains away from both Chinese and, in some cases, American dominance
+- **Defensive trade instruments**: Building the EU's own capacity to respond to economic coercion, rather than relying on American protection
+- **Technology sovereignty**: Developing European capabilities in semiconductors, AI, cloud computing, and other strategic sectors — neither American nor Chinese, but European
 
-**On American extraterritoriality**: The JCPOA withdrawal forced European firms out of a collectively negotiated market, demonstrating that European commercial interests are subordinate to American domestic politics. Europeans view secondary sanctions as coercing allies, not adversaries, and resent the structural asymmetry of dollar weaponization.
+Strategic autonomy remains contested within the EU. France champions robust autonomy; Germany worries it will damage transatlantic trade and investment; smaller member states fear it reduces their leverage within the alliance. The concept has nonetheless shifted European policy from passive rule-following toward active economic security, codified in the European Commission's 2023 European Economic Security Strategy.
 
-**On Chinese coercion**: European views hardened after the Lithuania embargo (seen as attacking single market integrity), recognition of Chinese "divide and conquer" tactics targeting individual member states, and the European Commission's 2019 designation of China as "systemic rival."
+**The Blocking Statute (1996, updated 2018)**
 
-The central European dilemma: coordinating with the United States on China (where interests overlap) while protecting against American extraterritoriality (where interests conflict). This balancing act—partner on Monday, target on Tuesday—explains why European responses emphasize rules and institutions over unilateral power.
+The EU Blocking Statute, originally adopted in 1996 in response to U.S. extraterritorial sanctions on Cuba, Iran, and Libya, prohibits EU persons from complying with specified U.S. secondary sanctions and nullifies the effect of foreign court judgments based on them. The statute was updated in August 2018 after the Trump administration's withdrawal from the Iran nuclear deal (JCPOA) and reimposition of secondary sanctions on European firms doing legitimate business with Iran.
+
+The Blocking Statute embodies the EU's core legal objection to extraterritoriality: that U.S. secondary sanctions violate international law by extending American jurisdiction to transactions involving no U.S. persons, no U.S. territory, and no U.S.-origin goods. It has, however, proven largely ineffective in practice — European firms, faced with the choice between compliance with EU law and access to dollar-denominated markets, overwhelmingly chose compliance with U.S. sanctions. The BNP Paribas case (2014, $8.9 billion fine for sanctions violations) and the mass withdrawal of European firms from Iran after 2018 demonstrated that American financial market access trumps European legal obligations. The statute's failure catalyzed the search for more effective instruments.
+
+**The Anti-Coercion Instrument (ACI, December 2023)**
+
+The ACI represents the EU's most significant response to economic coercion, adopted in November 2023 and entering into force on December 27, 2023. It was directly inspired by China's economic pressure on Lithuania and Australia, but its architecture is deliberately non-country-specific:
+
+- **Definition**: Economic coercion exists when a third country applies or threatens trade/investment measures to pressure the EU or a member state into making a particular policy choice
+- **Procedure**: The Commission investigates, proposes a determination to the Council (which decides by qualified majority — critically, no single-member veto), engages in dialogue with the coercing country, and if dialogue fails, adopts countermeasures
+- **Response measures**: Tariffs, import/export restrictions, exclusion from public procurement, limits on financial market access, restrictions on intellectual property rights — a comprehensive toolkit
+- **Deterrence logic**: The ACI is designed to deter coercion before it occurs, signaling that the EU can impose costs on coercers rather than simply absorbing pressure
+
+The ACI has not yet been formally invoked as of early 2026, but its existence has already reshaped diplomatic calculations. Its adoption by qualified majority voting — removing the single-member veto that previously paralyzed EU trade responses — represents a significant institutional evolution.
+
+### European Critiques of U.S. and Chinese Economic Coercion
+
+**On American Extraterritoriality**
+
+European frustration with U.S. extraterritorial sanctions runs deep and crosses the political spectrum:
+
+- **JCPOA withdrawal**: The U.S. unilateral exit from the Iran nuclear deal and reimposition of secondary sanctions forced European firms out of a market that the EU had collectively negotiated to open — demonstrating that European commercial interests are subordinate to American domestic politics
+- **Secondary sanctions as coercion**: Europeans view secondary sanctions as the United States coercing allies, not adversaries. When a French bank, a German automaker, or an Italian energy company must abandon legal business because Washington changed policy, Europeans experience this as American economic coercion dressed in the language of alliance solidarity
+- **Dollar weaponization**: The dollar's role as global reserve currency gives the U.S. jurisdiction over virtually any transaction touching the dollar clearing system — a structural asymmetry that Europeans resent but cannot easily escape
+
+**On Chinese Economic Coercion**
+
+European views on Chinese coercion have hardened significantly since 2020:
+
+- **Lithuania precedent**: China's de facto trade embargo on Lithuania (2021-2022) over a Taiwan representation office — including blocking Lithuanian goods transiting through other EU member states — was understood as a direct attack on EU single market integrity and member state sovereignty
+- **"Divide and conquer"**: Europeans recognize Chinese strategy of targeting individual member states to fracture EU solidarity, creating pressure on smaller economies (Greece, Hungary, Czech Republic) to block collective EU positions on China
+- **Systemic rivalry**: The European Commission's 2019 designation of China as a "systemic rival" alongside "partner" and "competitor" reflected growing recognition that Chinese economic practices — subsidies, forced technology transfer, market access restrictions — represent structural challenges, not solvable through WTO dispute settlement
+
+### Implications for Transatlantic Coordination
+
+The EU's development of autonomous economic security tools creates both opportunities and tensions in the transatlantic relationship. On one hand, European investment screening (the EU FDI Screening Regulation), export controls (the EU's dual-use regulation), and the ACI expand the toolkit available for coordinated Western responses to Chinese economic coercion. On the other, European strategic autonomy explicitly aims to reduce dependence on American decisions — the EU does not want to be dragged into economic confrontations driven by American domestic politics, as occurred with Iran.
+
+The central European dilemma: how to coordinate with the United States on China (where interests substantially overlap) while protecting against American extraterritoriality (where interests directly conflict). This balancing act — partner on Monday, target on Tuesday — defines the European experience of 21st-century economic coercion and explains why European policy responses emphasize rules, institutions, and process over the unilateral exercises of power that characterize both American and Chinese approaches.
 
 ---
 
