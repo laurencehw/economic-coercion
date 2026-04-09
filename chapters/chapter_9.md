@@ -571,100 +571,13 @@ Governments sometimes impose sanctions to appear active while avoiding difficult
 
 ## Chinese Perspective Box: Historical Victimization and Resistance to Coercion
 
-*Chinese historical experience and strategic objectives shape contemporary attitudes toward economic coercion. Both the historical narrative and China's forward-looking aims inform Chinese responses to economic pressure.*
+*Chinese historical experience and strategic objectives shape contemporary attitudes toward economic coercion.*
 
-**Historical Context: Century of Humiliation**
+**Historical Context**: Chinese leaders interpret contemporary economic pressure through the Century of Humiliation (百年国耻, 1839-1949), when Western powers imposed unequal treaties and economic exploitation. Post-1949 U.S. trade embargoes, CoCom controls, the 1960 Soviet advisor withdrawal, and the post-Tiananmen arms embargo reinforced the lesson that foreign powers will use economic tools to constrain China. These experiences drive the commitment to technology self-sufficiency and the recurring fear of being "strangled" (卡脖子) by foreign control of critical technologies.
 
-Chinese leaders and citizens interpret contemporary economic pressure through the lens of the Century of Humiliation (百年国耻, bǎinián guóchǐ, roughly 1839-1949), when Western powers and Japan imposed unequal treaties, territorial concessions, and economic exploitation following military defeats. Key lessons drawn from this period include: weakness invites predation (requiring comprehensive national strength), economic coercion as a tool of domination (making sovereignty paramount), and skepticism toward Western appeals to international rules. While this historical narrative remains important, contemporary Chinese strategy is driven primarily by forward-looking strategic objectives rather than grievance alone.
+**Strategic Objectives**: Contemporary Chinese strategy is driven by forward-looking aims, not merely historical grievance. These include: building **comprehensive national power** (综合国力) with technology leadership in AI, quantum computing, and semiconductors; pursuing **Taiwan unification** while developing capacity to withstand Western sanctions; securing **maritime claims** and regional influence through Belt and Road economic dependencies; **reforming global institutions** (building AIIB, BRICS, SCO as alternatives to Western-dominated systems); and achieving **technology sovereignty** eliminating dependencies on foreign inputs. Economic coercion targeting these goals (export controls, investment restrictions) is viewed as containment requiring strategic resistance, not economic grievances inviting compromise.
 
-**Postwar Technology Denial**
-
-Following Communist victory (1949), China faced U.S. trade embargoes and CoCom technology controls, reinforcing the lesson that foreign powers would use economic tools to constrain China's development. The 1960 Soviet withdrawal of technical advisors and the post-Tiananmen arms embargo (still in effect) further demonstrated vulnerability to technology denial. These experiences drive China's commitment to technology self-sufficiency, captured in the recurring fear of being "strangled" (卡脖子, qiǎ bózi) by foreign control of critical technologies.
-
-**China's Strategic Objectives: Beyond Historical Grievance**
-
-Contemporary Chinese strategy is driven by clear forward-looking objectives, not merely reactions to historical victimization. These aims shape Chinese responses to economic coercion:
-
-**1. Comprehensive National Power and Economic Strength**
-
-China seeks to build "comprehensive national power" (综合国力, zōnghé guólì) integrating economic capability, technological innovation, military strength, and international influence. Economic goals include:
-- Maintaining high-quality growth and avoiding the "middle-income trap"
-- Achieving technology leadership in strategic sectors (AI, quantum computing, biotechnology, clean energy)
-- Developing indigenous capabilities in semiconductors, commercial aircraft, and other industries where China remains dependent on foreign suppliers
-- Transitioning from "factory of the world" to innovation leader
-
-Economic coercion targeting these development goals (semiconductor export controls, investment restrictions) is viewed as attempts to trap China in permanent technological subordination, making resistance a strategic necessity rather than emotional reaction.
-
-**2. Taiwan Unification**
-
-Achieving reunification with Taiwan remains a core objective, viewed as unfinished business from the Chinese Civil War and essential to national rejuvenation. Economic strategy toward Taiwan includes:
-- Making Taiwan economically dependent on mainland markets and supply chains
-- Demonstrating to Taiwanese citizens the costs of separation and benefits of integration
-- Developing economic tools to isolate Taiwan internationally and punish countries supporting Taiwanese autonomy
-- Building capabilities to withstand potential Western sanctions following any military action toward Taiwan
-
-Western economic support for Taiwan (arms sales, semiconductor cooperation, trade agreements) is viewed as interference in China's internal affairs and obstruction of legitimate unification goals.
-
-**3. Maritime Claims and Regional Influence**
-
-China asserts sovereignty over vast maritime areas via the "nine-dash line" in the South China Sea, encompassing critical shipping lanes and resource-rich waters. Strategic objectives include:
-- Securing energy transit routes and maritime resources
-- Establishing regional hegemony in East and Southeast Asia
-- Reducing U.S. military presence and influence in the Western Pacific
-- Building economic dependencies among Southeast Asian nations through Belt and Road Initiative infrastructure investments and market access
-
-Economic statecraft (infrastructure loans, market access incentives, trade restrictions) serves these territorial and influence objectives.
-
-**4. Reforming Global Institutions and Governance**
-
-China seeks greater influence in international institutions and rules-setting to reflect its economic weight and strategic interests:
-- Increasing voting shares and leadership positions in IMF, World Bank, and other Bretton Woods institutions
-- Building alternative institutions (Asian Infrastructure Investment Bank, BRICS, Shanghai Cooperation Organization) to reduce dependence on Western-dominated systems
-- Shaping technology standards (5G, AI governance, digital currencies) to favor Chinese firms and values
-- Challenging Western dominance in defining "international rules" and "universal values"
-
-Economic coercion by Western institutions (IMF conditionality, World Bank lending restrictions) motivates Chinese efforts to create parallel systems and rules.
-
-**5. Technology Sovereignty and Indigenous Innovation**
-
-Building on the "two bombs, one satellite" (两弹一星) legacy of developing nuclear weapons independently after Soviet withdrawal, China pursues technology self-reliance (自主创新, zìzhǔ chuàngxīn) across strategic sectors:
-- Eliminating dependencies on foreign semiconductors, software, equipment that could be used as "strangling" leverage
-- Achieving breakthroughs in AI, quantum computing, biotechnology to lead global innovation
-- Developing domestic alternatives to GPS, SWIFT, internet infrastructure controlled by potential adversaries
-- Creating resilient supply chains immune to Western export controls
-
-Contemporary export controls validate rather than deter these self-reliance efforts, as they confirm the risks of foreign dependency.
-
-**Resistance to Coercion as Strategic Calculation**
-
-Chinese resistance to economic coercion reflects both historical identity and rational strategic calculation:
-
-**Sovereignty as paramount**: Chinese leadership prioritizes policy autonomy over short-term economic costs. This reflects both historical experience (where capitulation to foreign pressure led to exploitation) and current Party legitimacy (which partly rests on protecting Chinese sovereignty and dignity).
-
-**Long-term resilience**: China's authoritarian system, large domestic market, and historical experience with hardship create capacity to endure economic pain longer than Western democracies might expect. This asymmetry in pain tolerance shapes Chinese willingness to engage in prolonged economic competition.
-
-**Strategic Approach to Economic Competition**
-
-Chinese strategic objectives shape distinctive approaches to economic coercion:
-
-1. **Long-term perspective**: Chinese leaders think in terms of decades and centuries, not electoral cycles, creating willingness to endure short-term costs for strategic objectives like Taiwan unification or technology leadership.
-
-2. **Self-reliance in critical sectors**: Commitment to indigenous capabilities in semiconductors, aerospace, and other strategic industries, accepting inefficiencies to avoid foreign dependencies that could be exploited.
-
-3. **Counter-coercion capabilities**: Development of asymmetric leverage (rare earths, market access, supply chain dependencies) to deter Western economic pressure and demonstrate that economic competition imposes mutual costs.
-
-4. **Alternative institutional architecture**: Building AIIB, BRICS, and other platforms to reduce dependence on Western-dominated institutions and create options for countries seeking alternatives to Western-led systems.
-
-**Western Policy Implications**
-
-Understanding Chinese strategic objectives and historical narratives provides insight into why Chinese responses to economic coercion may differ from Western expectations:
-
-- Technology restrictions may accelerate self-reliance efforts rather than compelling dependence, as they validate Chinese concerns about foreign "strangling"
-- China's strategic aims (Taiwan, regional influence, technology leadership, institutional reform) are viewed as core interests worth enduring significant economic costs
-- Multilateral coordination is harder with China than it was with the Soviet Union, given China's deep integration into the global economy
-- Chinese counter-coercion reflects both capability (chokepoint leverage in rare earths, manufacturing, markets) and strategic calculation about relative pain tolerance
-
-Economic competition with China operates in a context shaped by clear Chinese strategic objectives, asymmetric time horizons, and different assessments of acceptable costs for core interests.
+**Resistance as Strategic Calculation**: Chinese resistance reflects both historical identity and rational calculation. The authoritarian system, large domestic market ($17 trillion GDP), and historical experience with hardship create capacity to endure economic pain longer than Western democracies expect. Leadership prioritizes policy autonomy over short-term costs, thinks in decades rather than electoral cycles, develops counter-coercion capabilities (rare earths, market access leverage), and builds alternative institutional architecture. For Western policymakers, the implication is clear: technology restrictions may accelerate self-reliance rather than compelling dependence, and China's core interests (Taiwan, technology leadership, institutional reform) are viewed as worth enduring significant economic costs.
 
 ---
 
