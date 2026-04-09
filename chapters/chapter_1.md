@@ -452,83 +452,11 @@ Effectiveness decreases when:
 
 ## Government Tools Box 2: National Emergencies Act (NEA)
 
-### Legal Authority
-
 **Statute:** 50 U.S.C. §§ 1601-1651 (enacted 1976)
 
-**Key Provisions:** The National Emergencies Act (NEA) establishes procedural requirements for presidential declarations of national emergencies. It does not itself grant emergency powers but provides the framework through which the President invokes statutory authorities that become available during declared emergencies, including IEEPA. The NEA requires:
+The National Emergencies Act provides the procedural framework through which IEEPA is activated. It does not itself grant emergency powers but requires presidential declarations specifying which statutory authorities are being invoked, Congressional notification via Federal Register publication, and annual renewal (emergencies automatically terminate after one year unless renewed). As of 2024, the United States maintains over 40 active national emergencies—including Iran (since 1995), terrorism (since 2001), Russia/Ukraine (since 2014, dramatically escalated 2022), and multiple China-related emergencies (Hong Kong 2020, military-industrial complex 2021, semiconductors 2022).
 
-- Presidential declaration specifying which statutory authorities are being invoked
-- Immediate transmission of declaration to Congress and publication in Federal Register
-- Annual renewal of emergency declarations (emergencies automatically terminate after one year unless renewed)
-- Congressional oversight and termination procedures
-- Maintenance of records and reporting on expenditures
-
-**Context:** NEA was enacted in 1976 following concerns about unchecked executive emergency powers. It terminated four existing national emergencies declared without clear statutory authority and established systematic procedures for future emergencies.
-
-### How It Works with IEEPA
-
-NEA and IEEPA work in tandem. The typical sequence:
-
-1. **Declaration:** President issues Executive Order under both NEA and IEEPA, declaring a national emergency and specifying the "unusual and extraordinary threat"
-2. **Notification:** Executive Order transmitted to Congress and published in Federal Register
-3. **Invocation:** President invokes specific IEEPA authorities (asset blocking, transaction prohibition, etc.)
-4. **Implementation:** OFAC and other agencies implement specific sanctions programs
-5. **Renewal:** Annually, President must publish notice in Federal Register continuing the emergency
-6. **Termination:** Emergency ends if (a) President terminates it, (b) Congress passes joint resolution terminating it (subject to presidential veto, requiring 2/3 override), or (c) President fails to renew annually
-
-### Current National Emergencies Related to Economic Statecraft
-
-As of 2024, the United States maintains over 40 active national emergencies declared under NEA. Many invoke IEEPA for sanctions programs. Key emergencies related to economic coercion include:
-
-**Long-Standing Emergencies:**
-- **Iran (March 1995):** "Unusual and extraordinary threat" posed by Iranian actions and policies. Renewed annually for 29 years.
-- **International Terrorism (September 2001):** Post-9/11 emergency enabling sanctions on terrorists and supporters. Renewed for 23 years.
-- **Weapons Proliferation (November 2001):** Targeting WMD proliferation, including North Korea. Renewed for 23 years.
-- **Syria (May 2004):** Addressing Syrian government actions and support for terrorism. Renewed for 20 years.
-- **Drug Trafficking (April 2015):** Targeting transnational criminal organizations. Renewed for 9 years.
-
-**Recent Emergencies:**
-- **Venezuela (March 2015):** Unusual and extraordinary threat posed by Venezuelan government. Renewed annually.
-- **Cyber Threats (April 2015):** Enabling sanctions on entities engaged in malicious cyber activities. Renewed annually.
-- **South Sudan (April 2014):** Responding to conflict and humanitarian crisis. Renewed annually.
-- **Russia/Ukraine (March 2014, escalated 2022):** Initially addressing Crimea annexation, dramatically expanded following 2022 invasion. Renewed and expanded annually.
-- **China (Various dates):** Multiple emergencies addressing different Chinese actions—Hong Kong (2020), military-industrial complex (2021), semiconductors (2022).
-- **Myanmar (February 2021):** Following military coup. Renewed annually.
-
-### Congressional Oversight and Termination
-
-**Reporting Requirements:** The President must report to Congress at least every six months on total expenditures directly related to each emergency. OMB prepares annual reports to Congress on all active emergencies.
-
-**Congressional Termination:** Under the 2019 amendments to NEA, Congress can terminate national emergencies through joint resolution requiring majority vote in both chambers. However, presidential veto power means effective termination requires 2/3 supermajority in both chambers to override veto—a high bar rarely achieved.
-
-**In Practice:** Congressional termination authority is largely symbolic. No emergency has been terminated by Congress over presidential objection. The 2019 amendment was enacted specifically to address President Trump's February 2019 border wall emergency, but the joint resolution to terminate it was vetoed and the override vote failed.
-
-### Strengths and Limitations
-
-**Strengths:**
-- **Procedural Clarity:** NEA provides clear framework for declaring, maintaining, and terminating emergencies
-- **Transparency:** Public declaration and Federal Register publication ensure visibility
-- **Sunset Provision:** Annual renewal requirement prevents indefinite emergencies without affirmative presidential action
-- **Congressional Role:** Reporting and termination procedures provide some legislative oversight
-
-**Limitations:**
-- **Proliferation of Emergencies:** Over 40 active emergencies, some decades old, suggest "emergency" has become routine instrument of policy rather than exceptional measure
-- **Weak Congressional Check:** Supermajority requirement for termination over presidential veto means Congress rarely exercises oversight effectively
-- **Judicial Deference:** Courts almost never invalidate emergency declarations, deferring to executive branch national security determinations
-- **Definition Ambiguity:** "Unusual and extraordinary threat" is undefined and interpreted expansively—routine foreign policy disagreements framed as emergencies
-- **Perpetual Renewal:** Emergencies originally framed as temporary (Iran 1995, terrorism 2001) have been renewed for decades without reassessment
-
-### Policy Debates and Reform Proposals
-
-**Debate 1: Emergency Proliferation**
-Critics argue that maintaining 40+ "emergencies," some for decades, trivializes genuine crises and grants unchecked presidential power. Defenders counter that complex threats (terrorism, proliferation) are genuinely long-term and require sustained authorities.
-
-**Debate 2: Congressional Role**
-Some propose lowering the bar for congressional termination (simple majority without presidential veto) or requiring affirmative congressional approval to continue emergencies beyond initial period. Others argue this would undermine executive flexibility in foreign policy.
-
-**Debate 3: Judicial Review**
-Current judicial deference to executive branch emergency determinations means effectively no check on presidential assertions of threats. Some scholars advocate for more robust judicial review of proportionality and necessity.
+**Key limitation:** Congressional termination of a presidential emergency requires a 2/3 supermajority to override a veto—a bar never achieved. The proliferation of decades-old "emergencies" has effectively normalized what was designed as exceptional executive authority, raising constitutional concerns about unchecked presidential power in economic statecraft.
 
 **Reform Proposals:**
 - **Sunset After Fixed Period:** Require congressional reauthorization after 2-5 years rather than allowing indefinite presidential renewal

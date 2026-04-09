@@ -367,15 +367,9 @@ ECRA directed Commerce to establish controls for these technologies in coordinat
 
 ### Technology-Specific Controls: Semiconductor Case Study
 
-Semiconductor export controls illustrate how EAR authorities operate in practice. Advanced semiconductors enable AI, quantum computing, autonomous weapons, and supercomputers—dual-use technologies where the commercial/military distinction collapses entirely. Controls evolved through three phases, each reflecting lessons from the previous approach's limitations:
+Semiconductor export controls illustrate how EAR authorities operate in practice. Advanced semiconductors enable AI, quantum computing, autonomous weapons, and supercomputers—dual-use technologies where the commercial/military distinction collapses entirely. Controls evolved from targeted entity restrictions (2019-2021) through comprehensive capability-based controls (October 2022) to multilateral coordination with the Netherlands and Japan (2023-2025). Chapter 4 provides a detailed analysis of this evolution, including strategic logic, allied coordination dynamics, Chinese responses, and effectiveness assessment.
 
-**Phase 1: Entity List Additions (2019-2021)** targeted specific Chinese companies (Huawei, SMIC, Sugon, Phytium), blocking U.S. exports to designated entities. This proved insufficient—Chinese firms sourced from foreign suppliers or acquired older-generation technology not subject to restrictions.
-
-**Phase 2: Technology-Specific Controls (October 2022)** marked a fundamental reorientation from entity-based to capability-based restrictions. BIS imposed controls on manufacturing equipment for logic chips below 16nm, memory chips below specified thresholds (DRAM < 18nm half-pitch, NAND > 128 layers), and prohibited U.S. persons from supporting Chinese advanced chip development. These rules targeted China's semiconductor ecosystem broadly rather than individual firms.
-
-**Phase 3: Allied Coordination (2023-2025)** extended controls multilaterally through negotiations with the Netherlands and Japan (see below, "Multilateral Versus Unilateral Approaches"). October 2023 updates tightened node definitions, added over 100 Chinese chip firms to the Entity List, and expanded geographic scope to close transshipment routes through Macau and Hong Kong. March 2025 additions to the Entity List further expanded this network-focused approach.
-
-Chapter 4 provides a detailed analysis of these controls' strategic logic, allied coordination dynamics, Chinese responses, and effectiveness assessment across five criteria. From an export control architecture perspective, the semiconductor case demonstrates both the power and limits of EAR authorities: ECCN-based controls can restrict specific technological capabilities, the FDPR can extend jurisdiction extraterritorially, and Entity List designations can target specific actors—but effectiveness depends on allied coordination that lies beyond any single government's legal authority.
+From an export control architecture perspective, the semiconductor case demonstrates both the power and limits of EAR authorities: ECCN-based controls can restrict specific technological capabilities, the FDPR can extend jurisdiction extraterritorially, and Entity List designations can target specific actors—but effectiveness depends on allied coordination that lies beyond any single government's legal authority.
 
 ### Lessons from Cold War Export Controls: CoCom
 

@@ -875,19 +875,7 @@ Network effects mean collective action problem: Everyone benefits if all switch,
 De-dollarization faces a classic collective action problem: while many countries might benefit if everyone stopped using dollars, any individual country switching alone bears all the costs (higher transaction fees, reduced liquidity, exchange rate volatility) while gaining few benefits. It's like being trapped in a language everyone speaks—even if a "better" language existed, coordinating a global switch would be nearly impossible. This is why most realistic projections show gradual erosion of dollar dominance over decades, not sudden collapse.
 {% endhint %}
 
-**Realistic Scenarios**:
-
-**Baseline (Most Likely)**: Gradual erosion of dollar dominance, not collapse. Dollar share of reserves, trade invoicing, and debt gradually declines from 55-60% toward 40-50% over 2-3 decades. RMB, euro, and others gain share but no single challenger emerges. Multipolar currency system with dollar as first among equals.
-
-**Partial Fragmentation**: Geopolitical blocs use regional currencies—China-led bloc transacts in RMB, U.S.-led bloc in dollars, European bloc in euros. Trade between blocs requires currency exchange, increasing transaction costs. Resembles Cold War bifurcation but with more complex geometry.
-
-**Status Quo+**: U.S. Digital Dollar and improved payment infrastructure strengthen dollar dominance. CBDC enables faster, cheaper cross-border transactions, making dollar even more attractive. U.S. financial market depth and Fed credibility sustain reserve currency status.
-
-**Collapse (Low Probability)**: Major U.S. policy errors (debt crisis, hyperinflation, loss of Fed independence) or catastrophic geopolitical event (Taiwan conflict triggering comprehensive financial war) could precipitate rapid dollar abandonment. Absent such shocks, gradual evolution more likely than sudden collapse.
-
-**Wild Card: Climate and Transition Risk**:
-
-Some propose "green" currencies backed by carbon neutrality or renewable energy capacity. European Central Bank discussing environmental factors in reserve management. If climate transition reshapes global economy, new financial architectures could emerge—but speculative.
+**Bottom Line**: The most likely trajectory is gradual erosion—not collapse—of dollar dominance, with no single challenger emerging. A multipolar currency system with the dollar as first among equals is plausible by 2040-2050, but requires decades to materialize given network effects and collective action problems. Chapter 10 develops detailed de-dollarization scenarios and their implications for U.S. economic statecraft.
 
 ---
 

@@ -382,9 +382,7 @@ The broader pattern is industrial policy convergence: both the United States and
 
 ### Historical Context: Foreign Technology Denial as National Trauma
 
-Chinese strategic thinking about technology is fundamentally shaped by the **Century of Humiliation** (百年国耻, bǎinián guóchǐ)—the period from the 1840s Opium Wars through 1949 when technological backwardness enabled foreign domination. British gunboats defeated Qing dynasty forces because superior Western industrial technology produced weapons China could not match. Japanese invasion during World War II exploited this same vulnerability: modern Japanese industry produced aircraft, ships, and armaments that technologically backward China could not counter. For Chinese elites, this historical experience carries a clear lesson: nations lacking indigenous technological capabilities face exploitation, occupation, and destruction of sovereignty.
-
-The early People's Republic reinforced these imperatives. CoCom restrictions denied China access to advanced manufacturing equipment, computers, and dual-use technologies. Soviet technical assistance during the 1950s proved temporary—the Sino-Soviet split in 1960 saw Soviet advisors withdrawn overnight, crippling industrial programs dependent on foreign inputs. China's response was enforced self-reliance. The "Two Bombs, One Satellite" program (两弹一星, liǎngdàn yīxīng) developed nuclear weapons, ballistic missiles, and satellites despite Western embargo and Soviet abandonment, demonstrating that determined state effort could achieve technological breakthroughs from positions of profound backwardness.
+The Century of Humiliation narrative (introduced in Chapter 2) takes on particular intensity in the technology domain. For Chinese elites, the lesson is direct: British gunboats, Japanese industrial superiority, and CoCom restrictions all demonstrated that nations lacking indigenous technological capabilities face exploitation and subjugation. The 1960 Sino-Soviet split—when Soviet advisors were withdrawn overnight, crippling industrial programs—reinforced the imperative for self-reliance. China's response, the "Two Bombs, One Satellite" program (两弹一星, liǎngdàn yīxīng), demonstrated that determined state effort could achieve technological breakthroughs from positions of profound backwardness.
 
 ### Key Chinese Terms in Technology Strategy
 
@@ -432,15 +430,9 @@ The doctrine reflects recognition that dual-use technologies—semiconductors, A
 
 Civil-military fusion creates complications. Western firms and researchers increasingly avoid Chinese collaboration, international partnerships face restrictions, and Chinese firms dependent on foreign markets must balance government mandates against regulatory risks abroad. American export controls explicitly target civil-military fusion, treating all Chinese technology development as potentially military-relevant.
 
-### Dual Circulation Strategy
+### Dual Circulation Applied to Technology
 
-Post-2020, China's **Dual Circulation** (双循环, shuāng xúnhuán) strategy restructured economic priorities in response to technology coercion risks:
-
-**Internal Circulation** (国内大循环, guónèi dà xúnhuán) emphasizes domestic consumption and production, building complete supply chains for strategic sectors (semiconductors, pharmaceuticals, aerospace) within China. This reduces vulnerability to foreign pressure but requires accepting efficiency losses from smaller scale and reduced specialization.
-
-**External Circulation** (国际循环, guójì xúnhuán) maintains international engagement but from a position of strength rather than dependence. China continues participating in global trade and investment, but strategic sectors must have domestic alternatives ensuring that external disruptions cannot paralyze critical industries.
-
-Dual circulation directly responds to U.S. weaponization of interdependence. If integration creates vulnerability, China must rebalance toward domestic self-sufficiency while maintaining beneficial external relationships where risks are manageable.
+The **Dual Circulation** strategy (introduced in Chapter 2) takes on particular urgency in technology: internal circulation means building complete domestic supply chains for semiconductors, AI, and aerospace, while external circulation maintains international engagement from a position of reduced dependence. Technology export controls are precisely the scenario dual circulation was designed to address—if integration creates vulnerability, strategic sectors must have domestic alternatives.
 
 ### Implications for Understanding Chinese Responses
 
@@ -533,13 +525,7 @@ In January 2023, the U.S., Japan, and Netherlands reached an understanding — n
 
 ### Background and Strategic Context
 
-The October 7, 2022 semiconductor export controls represented the culmination of escalating U.S.-China technology competition and a fundamental shift in American export control philosophy from targeted entity-specific restrictions to comprehensive capability-based controls. Understanding this shift requires tracing the evolution from earlier incremental measures to the sweeping October 2022 rules and subsequent updates.
-
-Prior to October 2022, U.S. semiconductor restrictions targeted specific Chinese firms deemed national security threats. Huawei's Entity List designation in May 2019 restricted sales of American semiconductors and equipment, expanded in May 2020 to cover foreign-made chips using U.S. technology (Foreign Direct Product Rule). SMIC joined the Entity List in December 2020 due to military ties. These targeted restrictions achieved narrow objectives (degrading Huawei's smartphone and 5G equipment competitiveness, constraining SMIC's most advanced production) but left most Chinese semiconductor industry accessible to American chips and equipment. Chinese AI firms purchased Nvidia GPUs without restriction, Chinese fabs bought ASML DUV tools freely, and American engineers worked for Chinese semiconductor companies legally.
-
-The strategic logic for comprehensive controls emerged from several assessments. First, targeted restrictions proved inadequate: SMIC continued advancing despite Entity List status, achieving 7nm production demonstrated later. Chinese firms not on Entity Lists developed AI capabilities using unrestricted chips. Second, dual-use technologies meant that commercial sales inevitably supported military applications through civil-military fusion. Third, U.S. officials concluded that preventing Chinese semiconductor self-sufficiency served American interests more than maintaining commercial semiconductor sales revenue. Fourth, growing Congressional pressure and bipartisan consensus on China competition created political momentum for aggressive action.
-
-The October 2022 controls imposed three complementary restrictions: (1) advanced AI chip export prohibitions targeting compute capabilities and interconnect bandwidths, (2) semiconductor manufacturing equipment export restrictions targeting tools capable of producing sub-14nm chips, and (3) U.S. person prohibitions banning American citizens and permanent residents from supporting Chinese advanced semiconductor development without licenses. These rules aimed to prevent China from developing cutting-edge chips regardless of which specific firms attempted development.
+This case study applies the chapter's analytical framework to the October 2022 semiconductor export controls discussed above. The controls—targeting AI chips, manufacturing equipment, and U.S. person support for Chinese semiconductor development—represented the shift from entity-specific to comprehensive capability-based restrictions detailed in the preceding sections.
 
 ### Analytical Framework Application
 
@@ -564,11 +550,7 @@ The October 2022 controls imposed three complementary restrictions: (1) advanced
 
 ### Implementation and Allied Coordination
 
-Implementation required addressing multiple technical and diplomatic challenges. Commerce Department Bureau of Industry and Security (BIS) published 139 pages of regulations defining controlled capabilities, establishing licensing procedures, and providing compliance guidance. Definitions of "advanced computing chips" evolved as Nvidia and AMD developed "China-compliant" variants (A800, H800) that technically met specifications while maintaining substantial capabilities. October 2023 updates tightened definitions, closing loopholes and banning compliant chips.
-
-Allied coordination proved essential but challenging. Netherlands controls ASML lithography equipment, Japan produces critical materials and equipment (Tokyo Electron, JSR), and South Korea's Samsung and SK Hynix operate fabs in China. Extended negotiations produced Dutch export restrictions (January 2023) covering advanced DUV tools, Japanese controls (March 2023) on 23 equipment categories, and South Korean exemptions allowing continued American support for Korean firms' Chinese operations.
-
-Enforcement mechanisms include export licensing requirements, customs inspections, end-use verification, and penalties for violations. However, circumvention through third-country procurement, smuggling, and cloud computing access continues. Commerce Department lacks resources for comprehensive enforcement, and distinguishing prohibited from permitted transactions requires technical expertise not readily available.
+As detailed in the preceding allied coordination section, implementation required BIS to publish 139 pages of regulations and navigate the cat-and-mouse dynamic of "China-compliant" chip variants, while allied negotiations produced Dutch (January 2023), Japanese (March 2023), and South Korean controls with varying degrees of comprehensiveness. Enforcement remains challenging: circumvention through third-country procurement, smuggling, and cloud computing access continues, and BIS lacks resources for comprehensive monitoring.
 
 ### Effectiveness Assessment: Five Criteria
 
