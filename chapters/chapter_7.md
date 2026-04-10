@@ -90,7 +90,7 @@ SWIFT is not a payment system but a secure messaging network transmitting paymen
 - **Cooperative structure**: Belgian-based cooperative owned by member banks; not controlled by single government
 - **Message standardization**: Provides common formats for payment orders, confirmations, securities transfers
 - **Network effects**: Universal adoption means avoiding SWIFT is extremely difficult; alternatives lack coverage
-- **Daily volume**: Processes ~45 million messages daily valued at trillions of dollars
+- **Daily volume**: Processes ~45 million messages daily valued at trillions of dollars (SWIFT 2024 annual activity statistics)
 
 **SWIFT and U.S. sanctions**: While SWIFT is not U.S.-controlled, several factors give U.S. leverage:
 

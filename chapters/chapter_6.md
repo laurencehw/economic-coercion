@@ -109,9 +109,9 @@ U.S. imports from China fell from $539.5 billion (2018) to $452.2 billion (2019)
 - Total U.S. imports declined only 1.7% (2018-2019), indicating trade diversion rather than import reduction
 
 Chinese imports from U.S. fell from $134 billion (2017) to $107 billion (2019), a 20% decline concentrated in agriculture:
-- U.S. soybean exports to China fell 75% (2018-2019) as China sourced from Brazil
-- Aircraft deliveries fell 47%
-- Energy product exports fell 54%
+- U.S. soybean exports to China fell 75% (2018-2019) as China sourced from Brazil (USDA Foreign Agricultural Service 2020; U.S. Census Bureau 2020)
+- Aircraft deliveries fell 47% (U.S. Census Bureau 2020)
+- Energy product exports fell 54% (U.S. Energy Information Administration 2020)
 
 **Incidence: Who Paid the Tariffs?**
 
@@ -131,7 +131,7 @@ Contrary to political rhetoric suggesting tariffs "punish" foreign exporters, ec
 
 **Supply Chain Reconfiguration**
 
-Beyond static trade impacts, tariffs accelerated supply chain reconfiguration. Multinational firms adopted **"China+1" strategies**, diversifying production to Vietnam, Thailand, India, and Mexico to avoid tariffs—Apple, Samsung, Intel, Dell, and HP all announced production shifts. Many of these moves proved permanent: sunk costs of relocating production mean that even if tariffs were removed, Flaaen and Pierce (2024) estimate 30-40% of trade flow changes are irreversible. The shift produced clear winners and losers. Vietnam's exports to the U.S. surged from $49 billion (2017) to $115 billion (2023), making it the 8th largest U.S. trade partner, while Mexico became the largest U.S. trade partner in 2023, partly from Chinese firms routing production through Mexican plants. On the losing side, Chinese manufacturing employment growth slowed, and sectors like furniture and electronics lost global market share permanently.
+Beyond static trade impacts, tariffs accelerated supply chain reconfiguration. Multinational firms adopted **"China+1" strategies**, diversifying production to Vietnam, Thailand, India, and Mexico to avoid tariffs—Apple, Samsung, Intel, Dell, and HP all announced production shifts. Many of these moves proved permanent: sunk costs of relocating production mean that even if tariffs were removed, Flaaen and Pierce (2024) estimate 30-40% of trade flow changes are irreversible. The shift produced clear winners and losers. Vietnam's exports to the U.S. surged from $49 billion (2017) to $115 billion (2023), making it the 8th largest U.S. trade partner (U.S. Census Bureau 2024), while Mexico became the largest U.S. trade partner in 2023 (U.S. Census Bureau 2024), partly from Chinese firms routing production through Mexican plants. On the losing side, Chinese manufacturing employment growth slowed, and sectors like furniture and electronics lost global market share permanently.
 
 **Aggregate Economic Impacts**
 
