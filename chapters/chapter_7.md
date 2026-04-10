@@ -618,6 +618,68 @@ De-dollarization faces a classic collective action problem: while many countries
 
 ---
 
+## European Perspective Box: Euro, INSTEX, and the Limits of Financial Autonomy
+
+*European perspectives on financial sanctions and dollar dominance reflect a distinctive position: European economies suffer collateral damage from both U.S. extraterritorial sanctions and Chinese economic pressure, yet European financial markets lack the depth and liquidity to mount a credible alternative to the dollar. The euro's incomplete internationalization and INSTEX's failure demonstrate the gap between European aspirations to financial autonomy and structural realities of dollar dependence.*
+
+### The Euro's Incomplete Internationalization
+
+The euro, launched in 1999, represented Europe's attempt to create a currency rivaling the dollar. However, twenty-five years later, the euro remains a regional rather than global currency:
+
+**Reserve currency status**: The euro accounts for approximately 20% of global foreign exchange reserves (IMF COFER 2024)—second to the dollar's 58%, but far from parity. This share has remained stable for a decade, suggesting the euro has reached its ceiling absent fundamental changes.
+
+**Trade invoicing**: Most eurozone trade is invoiced in euros, but global trade remains dollar-dominant. Even European firms conducting trade outside the eurozone typically use dollars.
+
+**Financial market depth**: Euro-denominated bond markets are smaller and less liquid than U.S. Treasury markets. During crises, investors still flock to dollar assets, not euros—demonstrating the euro hasn't achieved "safe haven" status comparable to the dollar.
+
+**Why the euro stalled**: Multiple factors constrain euro internationalization:
+- **Fiscal fragmentation**: 20+ eurozone members with different fiscal positions create uncertainty about euro stability
+- **No eurobonds**: Unlike U.S. Treasuries, no unified eurozone debt instrument exists; German bunds serve as de facto safe asset but in limited supply
+- **Banking fragmentation**: European banking remains nationally segmented, reducing euro financial market depth
+- **ECB reluctance**: European Central Bank historically prioritized domestic monetary policy over international currency promotion
+
+The euro's limited internationalization means European firms remain dollar-dependent even within Europe—reducing European autonomy from U.S. financial pressure.
+
+### INSTEX and the Failure of European Financial Autonomy
+
+INSTEX (Instrument in Support of Trade Exchanges), established in 2019, represented Europe's boldest attempt to circumvent U.S. sanctions—specifically, maintaining humanitarian trade with Iran after Trump withdrew from the JCPOA and reimposed secondary sanctions.
+
+**INSTEX's architecture**: A special purpose vehicle facilitating trade without using dollars or touching U.S. financial institutions—European firms could trade with Iran, INSTEX would net transactions, and no dollars would change hands. France, Germany, and UK jointly established it as a symbol of European sovereignty.
+
+**INSTEX's failure**: By 2024, INSTEX had processed negligible trade volumes. Why it failed:
+- **No major firms participated**: European companies (Total, Airbus, Daimler, Siemens) with U.S. market exposure feared losing access to American markets—dollar revenues mattered more than INSTEX-enabled Iranian sales
+- **Limited scope**: Initially restricted to humanitarian goods, later expanded to all goods, but still excluded oil—Iran's primary export
+- **No Chinese or Russian participation**: For INSTEX to matter, major economies needed to join; they declined, preferring bilateral arrangements
+- **U.S. pressure**: Washington made clear INSTEX users faced potential sanctions, deterring participation
+
+The INSTEX failure demonstrated European vulnerability: Europe lacked sufficient economic weight to create credible alternatives to dollar-based finance when U.S. opposition was determined.
+
+### European Perspectives on Dollar Dominance
+
+European attitudes toward dollar hegemony differ from both American and Chinese positions:
+
+**Resentment of extraterritoriality**: European governments and firms bitterly resent U.S. secondary sanctions extending American law to European territory, transactions, and persons. European leaders have repeatedly protested that U.S. sanctions violate international law by asserting jurisdiction over activities with no U.S. nexus.
+
+**Pragmatic accommodation**: Despite resentment, European firms overwhelmingly comply with U.S. sanctions because losing dollar market access is commercially fatal. The BNP Paribas case ($8.9 billion fine for Iran sanctions violations) demonstrated that European legal challenges provide no protection.
+
+**Preference for multilateralism**: Europeans generally support UN-authorized sanctions over unilateral U.S. measures, though this preference doesn't prevent compliance with U.S. secondary sanctions when imposed.
+
+**Euro-promotion ambivalence**: European governments rhetorically support euro internationalization, but Germany fears losing safe-haven status, France worries about exchange rate appreciation hurting exports, and peripheral eurozone members prioritize monetary stability over internationalization.
+
+### The European Financial Autonomy Paradox
+
+Europe's position creates a distinctive paradox: as the world's third-largest economy, Europe possesses economic weight to demand financial autonomy; yet as a collection of nation-states with a still-developing fiscal union, Europe lacks institutional capacity to achieve it.
+
+European responses to U.S.-China financial competition thus remain pragmatic and transactional:
+- **Building defensive tools** (ACI, economic security strategy) to resist Chinese coercion
+- **Supporting multilateral financial institutions** (IMF, World Bank) to dilute unilateral U.S. dominance
+- **Rhetorical euro-promotion** without sustained political commitment to market-building
+- **Quiet compliance** with U.S. sanctions while publicly protesting extraterritoriality
+
+The European perspective suggests that financial autonomy requires not just currency issuance but also unified fiscal capacity, deep financial markets, and willingness to accept costs of confronting dominant currencies. Europe possesses the first but not yet the latter three—making true financial autonomy aspirational rather than imminent.
+
+---
+
 ## Chinese Perspective Box: Financial Sovereignty and Dollar Hegemony
 
 ### Understanding Chinese Views on Financial Coercion

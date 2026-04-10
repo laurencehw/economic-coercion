@@ -200,11 +200,58 @@ But American strategy faces distinctive constraints. **Commercial interests** of
 
 The resulting U.S. approach is asymmetric restriction: comprehensive controls on chokepoint technologies critical for advanced computing and AI, combined with continued economic engagement in less sensitive domains. This attempts to slow Chinese advancement in strategic technologies while avoiding complete decoupling that would impose prohibitive costs on American firms and consumers.
 
-### The Logic of Economic Competition
+---
 
-The US-China economic competition differs from Cold War precedent in several crucial ways. First, it occurs within deep interdependence rather than separate economic blocs. This creates mutual vulnerabilities and domestic constituencies opposing decoupling. Second, it centers on technology and innovation rather than ideology. The competition is about who masters AI, quantum computing, and biotechnology—domains with both commercial and military applications. Third, it involves a broader toolkit than traditional sanctions. Export controls, investment screening, standard-setting, talent restrictions, development finance, and regulatory investigations all serve strategic purposes.
+## European Perspective Box: Strategic Autonomy Between Washington and Beijing
 
-The competition is likely to persist regardless of which parties govern in Washington or Beijing. Structural factors—China's determination to achieve technology self-sufficiency, American concerns about dependence on a strategic competitor, the dual-use nature of emerging technologies—create enduring drivers for economic statecraft. How the two powers manage this competition while maintaining sufficient cooperation in areas of shared interest (climate change, pandemic response, financial stability) is the central challenge of contemporary international relations.
+*European Union member states face distinctive structural constraints in U.S.-China economic competition. Unlike the United States, which frames the competition in existential terms, or China, which pursues comprehensive national rejuvenation, Europe navigates between economic interdependence with China and security dependence on the United States. This positioning creates both vulnerabilities and opportunities for European strategic autonomy.*
+
+### Structural Position: Economic China, Security America
+
+Europe's fundamental strategic dilemma is captured in the phrase "economic China, security America" (*Wirtschaftlich China, sicherheitspolitisch Amerika*). European economies are deeply integrated with China:
+
+- **Germany**: Exports €100+ billion annually to China; automotive sector (Volkswagen, BMW, Mercedes) derives 25-35% of profits from Chinese sales; chemical industry (BASF) operates massive Chinese production facilities.
+- **France**: Luxury goods (LVMH, Kering, Hermès) derive 30-40% of revenue from Chinese consumers; aerospace (Airbus) counts China as largest market.
+- **Netherlands**: ASML (sole EUV lithography producer) derives 15-20% of revenue from China despite export controls; agricultural exports depend on Chinese demand.
+
+Simultaneously, European security remains dependent on the United States:
+- NATO's Article 5 security guarantee remains Europe's primary defense against Russian threats
+- U.S. military presence (50,000+ troops in Germany alone) provides deterrence Europe cannot replicate
+- Extended nuclear deterrence depends on U.S. strategic forces
+
+This creates Europe's fundamental dilemma: economic interests push toward engagement with China; security dependence pushes toward alignment with U.S. containment strategy. Europeans must navigate between "de-risking" (reducing strategic dependencies) and "decoupling" (comprehensive economic separation), generally preferring the former.
+
+### European Strategic Autonomy Initiatives
+
+The European Union has emphasized "strategic autonomy" since 2019—building capacity for independent action in trade, technology, and defense:
+
+**Economic resilience:**
+- **European Chips Act (2023)**: €43 billion to double EU semiconductor production to 20% of global output by 2030
+- **Critical Raw Materials Act (2023)**: Reducing dependencies on single-country imports for strategic materials
+- **Net-Zero Industry Act**: Supporting clean energy manufacturing
+
+**Defense autonomy:**
+- **PESCO**: Coordinating defense procurement among 25 member states
+- **European Defense Fund**: €8 billion for collaborative R&D
+- **Strategic Compass (2022)**: Roadmap for EU defense integration
+
+**Financial sovereignty:**
+- **INSTEX**: Attempted special purpose vehicle to maintain Iran trade despite U.S. sanctions (limited effectiveness)
+- **Euro internationalization**: ECB efforts to increase euro share in global reserves
+
+However, strategic autonomy faces constraints: 27 member states with divergent interests, military dependence on NATO, and the reality that European semiconductor subsidies compete with CHIPS Act subsidies rather than complementing them.
+
+### The European Calculus: Transactional Alignment
+
+European policy reflects transactional calculation:
+
+**When interests align:** Europe coordinates with U.S.—semiconductor export controls (despite ASML revenue losses), Russia sanctions (despite energy costs), human rights pressure on China.
+
+**When interests diverge:** Europe resists U.S. pressure—China investment screening (less stringent than CFIUS), Huawei 5G restrictions (varied by country), Iran nuclear deal (maintained after U.S. withdrawal until 2022).
+
+**Balancing act:** Europe attempts to maintain both relationships—deepening transatlantic coordination on security while preserving Chinese economic engagement. This may prove unsustainable if U.S.-China confrontation intensifies.
+
+Europe's structural position—as the world's third-largest economy, technological power, and regulatory superpower ("Brussels Effect")—makes it the critical swing actor. Neither Washington nor Beijing can achieve strategic objectives without European cooperation or acquiescence.
 
 ---
 
