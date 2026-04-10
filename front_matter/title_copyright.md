@@ -1,80 +1,54 @@
----
-title: "Economic Coercion in the 21st Century"
-subtitle: "Tools, Strategies, and Great Power Competition"
-author: "Laurence Wilse-Samson"
-affiliation: "Columbia School of International and Public Affairs"
-date: "November 2025"
----
-
-\newpage
-
-# Copyright and Publication Information {-}
+# Copyright and Publication Information
 
 **Economic Coercion in the 21st Century: Tools, Strategies, and Great Power Competition**
+
+**Author:** Laurence Wilse-Samson
+**Affiliation:** Columbia School of International and Public Affairs
+**Date:** November 2025
+
+---
 
 Copyright © 2025 Laurence Wilse-Samson
 
 All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means, including photocopying, recording, or other electronic or mechanical methods, without the prior written permission of the author, except in the case of brief quotations embodied in critical reviews and certain other noncommercial uses permitted by copyright law.
 
-**Interior Design and Typesetting:** LaTeX/Pandoc
+**Data Visualizations:** All figures created using R (ggplot2) from publicly available data sources. Data sources and reproduction code available at: [github.com/laurencehw/economic-coercion](https://github.com/laurencehw/economic-coercion)
 
-**Data Visualizations:** All figures created using R (ggplot2) and Python (matplotlib, pandas, seaborn) from publicly available data sources. Data sources and reproduction code available at: https://github.com/laurencehw/economic-coercion
+---
+
+## AI Disclosure
+
+> **Artificial intelligence tools (Claude by Anthropic) were used in the generation, research, and editing of portions of this book.** All content has been reviewed and edited by the author. While effort has been made to ensure accuracy, the rapidly evolving nature of economic policy and international relations means that some details may become dated. Readers should consult current sources for the latest developments.
+
+---
 
 ## Disclaimer
 
 The views and opinions expressed in this book do not necessarily reflect the official policy or position of any government agency, academic institution, or organization with which the author has been affiliated.
 
-Artificial intelligence was used for the generation of large portions of the book. While effort has been made to ensure the accuracy of information presented in this book, the rapidly evolving nature of economic policy, international relations, and global affairs means that some details may become dated.  Readers should consult current sources for the latest developments.
+This book is intended for educational and informational purposes. It should not be construed as legal, financial, or policy advice.
 
-This book is intended for educational and informational purposes. It should not be construed as legal, financial, or policy advice. Readers making decisions based on information in this book should consult appropriate professional advisors.
-
+---
 
 ## Acknowledgments
 
-This work draws on publicly available data from the following institutions and organizations:
+This work draws on publicly available data from:
 
 - World Bank and International Monetary Fund (economic and trade data)
 - U.S. Department of Commerce, Bureau of Industry and Security (export control data)
 - U.S. Department of Treasury, Office of Foreign Assets Control (sanctions data)
 - Bank for International Settlements (financial data)
 - Peterson Institute for International Economics (sanctions research)
-- Stockholm International Peace Research Institute (SIPRI - defense and technology data)
+- Stockholm International Peace Research Institute (SIPRI)
 - Rhodium Group and American Enterprise Institute (Chinese investment data)
 - Center for Strategic and International Studies (policy analysis)
 - Council on Foreign Relations (international relations analysis)
-- Various official government sources (U.S., China, EU, international organizations)
 
-Academic research cited throughout draws on scholarship in international relations, political economy, economics, and strategic studies from universities and research institutions worldwide.
-
-## Technical Notes
-
-**Software and Tools:**
-- Manuscript preparation: Markdown, Pandoc
-- Data analysis and visualization: Python 3.12, pandas, matplotlib, seaborn
-- Typesetting: LaTeX via Pandoc, XeLaTeX for Unicode support
-- Version control: Git, GitHub
-
-**Data Reproducibility:**
-All data sources, visualization scripts, and raw datasets used in this book are available in the companion GitHub repository at https://github.com/laurencehw/economic-coercion. This supports transparency, allows readers to verify claims, and enables instructors and researchers to build on this work.
-
-**Chinese Language:**
-Chinese terms are presented in simplified characters with pinyin romanization. Translations prioritize accuracy and context over literal meaning. For scholarly work requiring primary sources, readers should consult original Chinese-language documents.
+---
 
 ## About the Author
 
 Laurence Wilse-Samson teaches understanding emerging technologies at Columbia University's School of International and Public Affairs (SIPA).
 
-## Contact Information
-
-For questions, corrections, or feedback:
-
-- Email: lhw2110@columbia.edu
-- GitHub: github.com/laurencehw/economic-coercion
-
-
----
-
-**First Draft:** November 2025
-
-
-\newpage
+**Contact:** lhw2110@columbia.edu
+**Repository:** [github.com/laurencehw/economic-coercion](https://github.com/laurencehw/economic-coercion)

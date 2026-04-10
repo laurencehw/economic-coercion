@@ -7,8 +7,14 @@ on:
       - main
       - master
     paths:
-      - 'gitbook/**'
+      - 'chapters/**'
+      - 'front_matter/**'
+      - 'appendices/**'
       - 'figures/**'
+      - 'SUMMARY.md'
+      - 'INTRODUCTION.md'
+      - 'book.json'
+      - 'styles.css'
       - 'scripts/qa_gitbook_content.ps1'
       - '.github/workflows/deploy-gitbook.yml'
   workflow_dispatch:
@@ -34,28 +40,16 @@ jobs:
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: '10.24.1'
+          node-version: '20'
 
-      - name: Install GitBook CLI
+      - name: Install HonKit
         run: |
-          npm install -g gitbook-cli
-          gitbook fetch 3.2.3
+          npm install honkit
 
       - name: Install GitBook plugins
-        working-directory: ./gitbook
         run: |
           if [ -f "book.json" ]; then
-            gitbook install
-          fi
-
-      - name: Copy figures to GitBook
-        run: |
-          mkdir -p gitbook/figures
-          if [ -d "figures" ] && [ "$(ls -A figures 2>/dev/null)" ]; then
-            cp -r figures/* gitbook/figures/
-            echo "Copied $(ls figures | wc -l) figures to gitbook/figures/"
-          else
-            echo "Warning: No figures found to copy"
+            npx honkit install
           fi
 
       - name: Run content QA checks
@@ -63,15 +57,42 @@ jobs:
         run: |
           ./scripts/qa_gitbook_content.ps1
 
-      - name: Build GitBook
-        working-directory: ./gitbook
+      - name: Convert GitBook Cloud hint tags to blockquotes
         run: |
-          gitbook build . ./public
+          # GitBook Cloud supports {% hint %} natively, but HonKit does not.
+          # Convert to blockquotes so the HonKit build succeeds.
+          STYLE_MAP_info="ℹ️ **Info**"
+          STYLE_MAP_warning="⚠️ **Warning**"
+          STYLE_MAP_danger="🚨 **Danger**"
+          STYLE_MAP_success="✅ **Success**"
+          STYLE_MAP_tip="💡 **Tip**"
+          for f in $(find . -name '*.md' -not -path './node_modules/*'); do
+            if grep -q '{% hint' "$f"; then
+              python3 -c "
+          import re, sys
+          style_map = {'info': '$STYLE_MAP_info', 'warning': '$STYLE_MAP_warning', 'danger': '$STYLE_MAP_danger', 'success': '$STYLE_MAP_success', 'tip': '$STYLE_MAP_tip'}
+          text = open(sys.argv[1]).read()
+          def replace_hint(m):
+              style = m.group(1)
+              content = m.group(2).strip()
+              label = style_map.get(style, '**Note**')
+              lines = content.split('\n')
+              quoted = '\n'.join('> ' + l for l in lines)
+              return f'> {label}\n>\n{quoted}'
+          text = re.sub(r'\{%\s*hint\s+style=\"(\w+)\"\s*%\}\s*\n(.*?)\{%\s*endhint\s*%\}', replace_hint, text, flags=re.DOTALL)
+          open(sys.argv[1], 'w').write(text)
+          " "$f"
+            fi
+          done
+
+      - name: Build GitBook
+        run: |
+          npx honkit build . ./public
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: ./gitbook/public
+          path: ./public
 
   deploy:
     environment:

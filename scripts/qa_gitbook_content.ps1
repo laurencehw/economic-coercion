@@ -1,9 +1,8 @@
 $ErrorActionPreference = "Stop"
 
 $repoRoot = (Resolve-Path ".").Path
-$gitbookChapters = Join-Path $repoRoot "gitbook/chapters"
-$rootFigures = Join-Path $repoRoot "figures"
-$gitbookFigures = Join-Path $repoRoot "gitbook/figures"
+$chaptersDir = Join-Path $repoRoot "chapters"
+$figuresDir = Join-Path $repoRoot "figures"
 $workflowPath = Join-Path $repoRoot ".github/workflows/deploy-gitbook.yml"
 
 $errors = New-Object System.Collections.Generic.List[string]
@@ -13,14 +12,14 @@ function Add-Error {
     $errors.Add($Message)
 }
 
-if (-not (Test-Path $gitbookChapters)) {
-    throw "Missing directory: $gitbookChapters"
+if (-not (Test-Path $chaptersDir)) {
+    throw "Missing directory: $chaptersDir"
 }
 
-$chapterFiles = Get-ChildItem $gitbookChapters -Filter "chapter_*.md" | Sort-Object Name
+$chapterFiles = Get-ChildItem $chaptersDir -Filter "chapter_*.md" | Sort-Object Name
 
 if ($chapterFiles.Count -eq 0) {
-    throw "No chapter files found in $gitbookChapters"
+    throw "No chapter files found in $chaptersDir"
 }
 
 # 1) Placeholder checks.
@@ -63,26 +62,25 @@ foreach ($file in $chapterFiles) {
             }
 
             $figureName = Split-Path $src -Leaf
-            $inRootFigures = Test-Path (Join-Path $rootFigures $figureName)
-            $inGitbookFigures = Test-Path (Join-Path $gitbookFigures $figureName)
-            if (-not ($inRootFigures -or $inGitbookFigures)) {
+            $inFigures = Test-Path (Join-Path $figuresDir $figureName)
+            if (-not $inFigures) {
                 Add-Error("$($file.Name):$lineNo Referenced figure not found in figures/: $figureName")
             }
         }
 
         # Guard against escaped root references.
         if ($line -match '\.\./\.\./figures/') {
-            Add-Error("$($file.Name):$lineNo Escapes gitbook root with ../../figures path")
+            Add-Error("$($file.Name):$lineNo Escapes repo root with ../../figures path")
         }
     }
 }
 
 # 4) Stale metric guardrails from citation remediation.
 $staleChecks = @(
-    @{ Path = "gitbook/chapters/chapter_6.md"; Pattern = '\$539 billion \(2018\) to \$427 billion \(2019\), a 21% decline'; Message = "Outdated import decline figure still present" },
-    @{ Path = "gitbook/chapters/chapter_10.md"; Pattern = 'bilateral trade remains \$690 billion annually despite tensions'; Message = "Outdated U.S.-China trade total still present" },
-    @{ Path = "gitbook/chapters/chapter_10.md"; Pattern = 'processing \$13\+ trillion annually \(2024\), growing 50%\+ yearly'; Message = "Outdated CIPS volume still present" },
-    @{ Path = "gitbook/chapters/chapter_7.md"; Pattern = 'invoicing currency \(40% of SWIFT payments\)'; Message = "Outdated SWIFT share still present" }
+    @{ Path = "chapters/chapter_6.md"; Pattern = '\$539 billion \(2018\) to \$427 billion \(2019\), a 21% decline'; Message = "Outdated import decline figure still present" },
+    @{ Path = "chapters/chapter_10.md"; Pattern = 'bilateral trade remains \$690 billion annually despite tensions'; Message = "Outdated U.S.-China trade total still present" },
+    @{ Path = "chapters/chapter_10.md"; Pattern = 'processing \$13\+ trillion annually \(2024\), growing 50%\+ yearly'; Message = "Outdated CIPS volume still present" },
+    @{ Path = "chapters/chapter_7.md"; Pattern = 'invoicing currency \(40% of SWIFT payments\)'; Message = "Outdated SWIFT share still present" }
 )
 
 foreach ($check in $staleChecks) {
@@ -94,13 +92,6 @@ foreach ($check in $staleChecks) {
     }
 }
 
-# 5) Workflow guardrail: do not overwrite canonical gitbook chapters from legacy chapters/.
-if (Test-Path $workflowPath) {
-    if (Select-String -Path $workflowPath -Pattern 'Copy chapters to GitBook' -Quiet) {
-        Add-Error(".github/workflows/deploy-gitbook.yml: legacy chapter copy step still present")
-    }
-}
-
 if ($errors.Count -gt 0) {
     Write-Host "QA FAILED ($($errors.Count) issue(s))" -ForegroundColor Red
     foreach ($err in $errors) {
@@ -109,4 +100,4 @@ if ($errors.Count -gt 0) {
     exit 1
 }
 
-Write-Host "QA PASSED: canonical GitBook content checks succeeded." -ForegroundColor Green
+Write-Host "QA PASSED: content checks succeeded." -ForegroundColor Green
