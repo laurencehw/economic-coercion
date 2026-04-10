@@ -70,7 +70,7 @@ The 2018-present U.S.-China trade war illustrates modern tariff-based coercion d
 - **September 2018**: U.S. imposes 10% tariffs on $200 billion in Chinese goods (consumer products, textiles)
 - **December 2018**: 90-day truce announced at G20; China agrees to purchase more U.S. agricultural products
 
-By year-end, U.S. tariffs affected $250 billion in Chinese imports; Chinese retaliatory tariffs affected $110 billion in U.S. exports. U.S. tariffs averaged 12% on Chinese goods (up from 3% pre-escalation); Chinese tariffs averaged 18% on U.S. goods (up from 8%).
+By year-end, U.S. tariffs affected $250 billion in Chinese imports; Chinese retaliatory tariffs affected $110 billion in U.S. exports. U.S. tariffs averaged 12% on Chinese goods (up from 3% pre-escalation); Chinese tariffs averaged 18% on U.S. goods (up from 8%) (Bown and Kolb 2021; PIIE 2019).
 
 **Phase 2: Maximum Pressure (2019)**
 
@@ -154,7 +154,7 @@ Beyond static trade impacts, tariffs accelerated supply chain reconfiguration. M
 
 **Aggregate Economic Impacts**
 
-The macroeconomic costs were substantial across all parties. Studies estimate a 0.3-0.5% reduction in U.S. GDP from tariffs and retaliation (2018-2020), with the agricultural sector suffering $27 billion in lost exports partially offset by $23 billion in government subsidies while manufacturing employment gains remained negligible. China experienced an estimated 0.5-0.8% GDP reduction, though its simultaneous growth slowdown from debt deleveraging and COVID-19 makes trade war effects difficult to isolate. Globally, the IMF (2019) estimated the trade war could reduce world GDP by 0.8% by 2020 through trade disruptions, uncertainty, and financial market impacts.
+The macroeconomic costs were substantial across all parties. Studies estimate a 0.3-0.5% reduction in U.S. GDP from tariffs and retaliation (2018-2020) (Amiti, Redding, and Weinstein 2019; Fajgelbaum et al. 2020), with the agricultural sector suffering $27 billion in lost exports partially offset by $23 billion in government subsidies (USDA 2020; Congressional Research Service 2021) while manufacturing employment gains remained negligible. China experienced an estimated 0.5-0.8% GDP reduction, though its simultaneous growth slowdown from debt deleveraging and COVID-19 makes trade war effects difficult to isolate. Globally, the IMF (2019) estimated the trade war could reduce world GDP by 0.8% by 2020 through trade disruptions, uncertainty, and financial market impacts.
 
 ### Political Economy of Tariff-Based Coercion
 
