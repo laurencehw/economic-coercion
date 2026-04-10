@@ -149,15 +149,18 @@ This audit identifies **~380 orphan statistics** across all chapters requiring i
 
 ---
 
-## CROSS-CHAPTER CONSISTENCY CHECKS
+## CROSS-CHAPTER CONSISTENCY CHECKS - STATUS: COMPLETED
 
-The following claims appear multiple times - verify consistency:
+The following claims have been standardized across chapters:
 
-1. **Reserve currency share**: Standardize to "~58%" (IMF COFER Q4 2024)
-2. **SWIFT payment percentages**: Clarify messages vs. value vs. invoicing
-3. **Big Fund total**: $100B+ (Phases I: $21B, II: $29B, III: $47.5B)
-4. **TSMC 90%**: Specify "advanced chips (5nm and below)"
-5. **Rare earth processing**: Standardize "85-90%" (already fixed)
+1. ✅ **Reserve currency share**: Standardized to "~58%" (IMF COFER Q4 2024)
+2. ✅ **SWIFT payment percentages**: Clarified messages vs. value vs. invoicing in Chapter 7
+3. ✅ **Big Fund total**: Standardized to "$100B+ (Phases I: $21B, II: $29B, III: $47.5B)"
+4. ✅ **TSMC 90%**: Specified "advanced chips (5nm and below)" with TechInsights 2024
+5. ✅ **Rare earth processing**: Standardized "85-90%" with USGS 2024
+6. ✅ **Iran oil exports**: Standardized to "300-500k bpd" (TankerTrackers 2020)
+7. ✅ **British energy bills**: Standardized to "roughly doubled" (UK ONS 2023)
+8. ✅ **Autor-Dorn-Hanson 2.4M jobs**: Added contested note across chapters
 
 ---
 
