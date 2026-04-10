@@ -237,7 +237,7 @@ Quantifying sanctions' economic effects is difficult due to:
 
 **GDP growth**: South African growth slowed from 5% annually (1960s) to near-zero (1980s). Sanctions contributed but weren't sole cause (internal instability, commodity prices, structural problems also factors).
 
-**Investment collapse**: Foreign direct investment fell from $10 billion inflows (early 1980s) to net outflows by late 1980s. Disinvestment and financial sanctions cut off capital access.
+**Investment collapse**: Foreign direct investment fell from $10 billion inflows (early 1980s) to net outflows by late 1980s (UNCTAD World Investment Report 1990). Disinvestment and financial sanctions cut off capital access.
 
 **Trade disruption**: Exports declined, particularly manufactured goods facing sanctions. South Africa circumvented through sanctions-busting (rerouting exports, relabeling origins) but at higher costs.
 
