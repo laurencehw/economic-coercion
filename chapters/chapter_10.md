@@ -199,7 +199,7 @@ Western nations are pursuing diversification through investments in alternative 
 **Projected Water Stress**
 
 By 2040-2050:
-- **5 billion people** (>50% of global population) projected to face water scarcity at least one month annually
+- **5 billion people** (>50% of global population) projected to face water scarcity at least one month annually by 2050 (United Nations World Water Development Report 2023; World Resources Institute Aqueduct 2024)
 - **Transboundary river disputes**: Over 260 rivers cross international borders; water stress increases conflict risks
 - **Agricultural impacts**: Water scarcity reduces crop yields, threatening food security in water-stressed regions
 
