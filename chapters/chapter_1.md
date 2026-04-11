@@ -143,7 +143,7 @@ China's WTO accession in 2001 accelerated integration dramatically. Trade grew f
   <figcaption>Figure 1.2: US-China Trade Volume and Key Events (2000-2024)</figcaption>
 </figure>
 
-But integration also created structural dependencies and distributional consequences that would later fuel tensions. American manufacturing employment declined sharply—research by Autor, Dorn, and Hanson estimated that competition from Chinese imports eliminated 2.4 million U.S. jobs between 1999 and 2011 (Autor, Dorn, and Hanson 2016), though this estimate remains contested (some researchers attribute only 10-20% of manufacturing decline to trade, with automation and other factors explaining the remainder; Acemoglu et al. 2016; Pierce and Schott 2020). China accumulated massive foreign exchange reserves ($2 trillion by 2008, per IMF data) and became the largest foreign holder of U.S. Treasury securities, creating mutual financial dependencies. Technology transfer—sometimes voluntary through joint ventures, sometimes coerced through requirements for market access, sometimes illicit through cyber espionage—accelerated China's industrial upgrading.
+But integration also created structural dependencies and distributional consequences that would later fuel tensions. American manufacturing employment declined sharply—research by Autor, Dorn, and Hanson estimated that competition from Chinese imports eliminated 2.4 million U.S. jobs between 1999 and 2011 (Autor, Dorn, and Hanson 2016), though the overall role of trade versus automation remains contested (some researchers attribute a smaller share of manufacturing decline to trade, with automation and other factors explaining the remainder). China accumulated massive foreign exchange reserves ($2 trillion by 2008, per IMF data) and became the largest foreign holder of U.S. Treasury securities, creating mutual financial dependencies. Technology transfer—sometimes voluntary through joint ventures, sometimes coerced through requirements for market access, sometimes illicit through cyber espionage—accelerated China's industrial upgrading.
 
 For China, this period represented a strategic opportunity. Deng Xiaoping's guidance to "hide capabilities and bide time" (韬光养晦, tāoguāng yǎnghuì) meant avoiding confrontation while building comprehensive national power. Economic growth became the foundation for eventual great power status. The strategy worked remarkably: China sustained average annual GDP growth above 10%, lifting hundreds of millions out of poverty while building infrastructure and industrial capacity on an unprecedented scale.
 
@@ -210,13 +210,13 @@ The resulting U.S. approach is asymmetric restriction: comprehensive controls on
 
 Europe's fundamental strategic dilemma is captured in the phrase "economic China, security America" (*Wirtschaftlich China, sicherheitspolitisch Amerika*). European economies are deeply integrated with China:
 
-- **Germany**: Exports €100+ billion annually to China; automotive sector (Volkswagen, BMW, Mercedes) derives 25-35% of profits from Chinese sales; chemical industry (BASF) operates massive Chinese production facilities.
+- **Germany**: Has exported €87-123 billion annually to China in recent years (peaking around 2021-2022); automotive sector (Volkswagen, BMW, Mercedes) derives 25-35% of profits from Chinese sales; chemical industry (BASF) operates massive Chinese production facilities.
 - **France**: Luxury goods (LVMH, Kering, Hermès) derive 30-40% of revenue from Chinese consumers; aerospace (Airbus) counts China as largest market.
-- **Netherlands**: ASML (sole EUV lithography producer) derives 15-20% of revenue from China despite export controls; agricultural exports depend on Chinese demand.
+- **Netherlands**: ASML (sole EUV lithography producer) derives a substantial share of revenue from China (29% in 2023, surging higher in 2024 as customers stockpiled DUV machines before restrictions tightened); agricultural exports depend on Chinese demand.
 
 Simultaneously, European security remains dependent on the United States:
 - NATO's Article 5 security guarantee remains Europe's primary defense against Russian threats
-- U.S. military presence (50,000+ troops in Germany alone) provides deterrence Europe cannot replicate
+- U.S. military presence (approximately 35,000 active-duty troops in Germany) provides deterrence Europe cannot replicate
 - Extended nuclear deterrence depends on U.S. strategic forces
 
 This creates Europe's fundamental dilemma: economic interests push toward engagement with China; security dependence pushes toward alignment with U.S. containment strategy. Europeans must navigate between "de-risking" (reducing strategic dependencies) and "decoupling" (comprehensive economic separation), generally preferring the former.
@@ -231,7 +231,7 @@ The European Union has emphasized "strategic autonomy" since 2019—building cap
 - **Net-Zero Industry Act**: Supporting clean energy manufacturing
 
 **Defense autonomy:**
-- **PESCO**: Coordinating defense procurement among 25 member states
+- **PESCO**: Coordinating defense procurement among 26 member states
 - **European Defense Fund**: €8 billion for collaborative R&D
 - **Strategic Compass (2022)**: Roadmap for EU defense integration
 

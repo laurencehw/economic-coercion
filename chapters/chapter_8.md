@@ -414,13 +414,13 @@ State-owned enterprises (SOEs) and sovereign wealth funds (SWFs) function as ext
 
 ### Chinese SOEs: Scale and Strategic Role
 
-China's 157 centrally-managed SOEs (combined assets over $35 trillion, 20+ million direct employees) span energy, telecommunications, banking, aerospace, shipping, and nuclear sectors. They operate under a **dual mandate**: commercial profitability and political objectives including industrial policy implementation, resource security, BRI infrastructure, and—when directed—economic coercion.
+China's approximately 96 centrally-managed SOE groups under SASAC (combined assets over $12 trillion, millions of direct employees) span energy, telecommunications, banking, aerospace, shipping, and nuclear sectors. They operate under a **dual mandate**: commercial profitability and political objectives including industrial policy implementation, resource security, BRI infrastructure, and—when directed—economic coercion.
 
-**Resource acquisition** has been aggressive: CNOOC's attempted Unocal acquisition (blocked 2005), PetroChina's global oil investments, ChemChina's $43 billion Syngenta purchase (2017), and extensive mining acquisitions across Latin America, Africa, and Australia for lithium, cobalt, and rare earths. **Technology acquisition** operates through joint venture requirements, state-backed global expansion (Huawei), and SOE partnerships with Western aerospace, rail, and manufacturing firms.
+**Resource acquisition** has been aggressive: CNOOC's attempted Unocal acquisition (withdrawn under Congressional pressure, 2005), PetroChina's global oil investments, ChemChina's $43 billion Syngenta purchase (2017), and extensive mining acquisitions across Latin America, Africa, and Australia for lithium, cobalt, and rare earths. **Technology acquisition** operates through joint venture requirements, state-backed global expansion (Huawei), and SOE partnerships with Western aerospace, rail, and manufacturing firms.
 
 ### Sovereign Wealth Funds and Western Responses
 
-Chinese SWFs—the China Investment Corporation (~$1.4 trillion AUM as of 2024), SAFE Investment Company ($1+ trillion), and the National Social Security Fund ($440 billion)—operate with less transparency than Norwegian or Singaporean counterparts, raising concerns about strategic motivations. CIC holds stakes in Blackstone, Morgan Stanley, and commodity firms, increasingly targeting technology and strategic sectors (Sovereign Wealth Fund Institute 2024; Bloomberg data).
+Chinese SWFs—the China Investment Corporation (~$1.33 trillion AUM as of 2023), SAFE Investment Company ($1+ trillion), and the National Social Security Fund (~$415 billion)—operate with less transparency than Norwegian or Singaporean counterparts, raising concerns about strategic motivations. CIC holds stakes in Blackstone, Morgan Stanley, and commodity firms, increasingly targeting technology and strategic sectors (Sovereign Wealth Fund Institute 2024; Bloomberg data).
 
 Western responses center on **reciprocity arguments** (if Chinese SOEs invest freely in Western markets while Chinese markets remain restricted, this creates asymmetric advantage), **investment screening** (CFIUS and allied mechanisms now target SOE investments with mandatory declarations and presumptions of government control), and **reform pressure** through multilateral institutions. China has consolidated and partially privatized some SOEs but retains strategic control over key sectors.
 
@@ -653,7 +653,7 @@ The **Committee on Foreign Investment in the United States (CFIUS)**, chaired by
 
 **Review process**: Parties submit voluntary notices or mandatory declarations (required for foreign government interests of 25%+ in TID businesses). Initial review (45 days) leads to clearance, mitigation conditions, or full investigation (45 days), potentially escalating to presidential decision (15 days). Mitigation measures include board governance restrictions, data firewalls, and compliance monitoring. CFIUS retains 5-year look-back authority for non-notified transactions.
 
-**Statistics (CY2024)**: 116 declarations and 209 written notices; 50% of declarations cleared in first stage; 49 withdrawn notices (including 15 abandoned transactions); China-linked notices fell from 23% of reviews (2016) to 12% (CY2024). **Challenges**: Classified decisions limit transparency; resource constraints despite increased staffing; undefined scope of "national security" creates unpredictability; and extraterritorial reach (blocking foreign-to-foreign deals with U.S. nexus) strains allied relationships.
+**Statistics (CY2024)**: 116 declarations and 209 written notices; 78% of declarations cleared in first stage; 49 withdrawn notices (including 7 abandoned transactions); China-linked notices fell from approximately 31% of reviews (2016) to 12% (CY2024). **Challenges**: Classified decisions limit transparency; resource constraints despite increased staffing; undefined scope of "national security" creates unpredictability; and extraterritorial reach (blocking foreign-to-foreign deals with U.S. nexus) strains allied relationships.
 
 ---
 

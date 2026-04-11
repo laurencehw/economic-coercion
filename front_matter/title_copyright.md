@@ -48,10 +48,7 @@ This work draws on publicly available data from:
 
 ## About the Author
 
-**Laurence Wilse-Samson** teaches understanding emerging technology at Columbia University's School of International and Public Affairs (SIPA). He has a PhD in economics and his research interestes include development, economic history, and industrial policy.
-
-
-He holds degrees from Columbia University, the London School of Economics, and the University of Cape Town.
+**Laurence Wilse-Samson** teaches understanding emerging technology at Columbia University's School of International and Public Affairs (SIPA).
 
 **Contact:** lhw2110@columbia.edu
 **Repository:** [github.com/laurencehw/economic-coercion](https://github.com/laurencehw/economic-coercion)

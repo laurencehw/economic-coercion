@@ -9,7 +9,7 @@ This bibliography includes all sources cited in the citation remediation process
 
 ### Books and Monographs
 
-Acemoglu, Daron, David Autor, David Dorn, Gordon H. Hanson, and Brendan Price. 2016. "Import Competition and the Great US Employment Sag of the 2000s." *Journal of Political Economy* 113 (1): 1-43.
+Acemoglu, Daron, David Autor, David Dorn, Gordon H. Hanson, and Brendan Price. 2016. "Import Competition and the Great US Employment Sag of the 2000s." *Journal of Labor Economics* 34 (S1): S141-S198.
 
 Autor, David H., David Dorn, and Gordon H. Hanson. 2016. "The China Shock: Learning from Labor-Market Adjustment to Large Changes in Trade." *American Economic Review* 106 (5): 2121-2168.
 
@@ -29,7 +29,7 @@ Miller, Chris. 2022. *Chip War: The Fight for the World's Most Critical Technolo
 
 Paarlberg, Robert L. 1980. "Lessons of the Grain Embargo." *Foreign Affairs* 59 (4): 844-865.
 
-Pierce, Justin R., and Peter K. Schott. 2020. "Trade Liberalization and Mortality: Evidence from U.S. Counties." *Review of Economics and Statistics* 102 (1): 1-18.
+Pierce, Justin R., and Peter K. Schott. 2020. "Trade Liberalization and Mortality: Evidence from U.S. Counties." *American Economic Review: Insights* 2 (1): 47-64.
 
 ---
 
@@ -45,8 +45,6 @@ Fajgelbaum, Pablo D., Pinelopi K. Goldberg, Patrick J. Kennedy, and Amit K. Khan
 
 Flaaen, Aaron, and Justin R. Pierce. 2019. "Disentangling the Effects of the 2018-2019 Tariffs on a Globally Connected U.S. Manufacturing Sector." Finance and Economics Discussion Series 2019-086. Federal Reserve Board.
 
-Flaaen, Aaron, and Justin R. Pierce. 2024. "Global Supply Chain Reconfiguration and the Persistence of Trade War Effects." *Journal of International Economics* (forthcoming).
-
 ---
 
 ## GOVERNMENT AND OFFICIAL SOURCES
@@ -55,11 +53,11 @@ Flaaen, Aaron, and Justin R. Pierce. 2024. "Global Supply Chain Reconfiguration 
 
 Congressional Budget Office. 2022. "Cost Estimate: H.R. 4346, CHIPS Act of 2022." Washington, D.C.: Congressional Budget Office.
 
-Congressional Budget Office. 2023. "Cost Estimate: H.R. 5376, Inflation Reduction Act of 2022." Washington, D.C.: Congressional Budget Office.
+Congressional Budget Office. 2022. "Cost Estimate: H.R. 5376, Inflation Reduction Act of 2022." Washington, D.C.: Congressional Budget Office.
 
 Congressional Research Service. 2021. "Agricultural Trade with China and the Phase One Agreement." CRS Report R46414.
 
-U.S. Department of Commerce, Bureau of Industry and Security. 2023. "Export Controls on Advanced Computing and Semiconductor Manufacturing Items to the People's Republic of China (PRC)." Federal Register 87 (214): 68523-68531.
+U.S. Department of Commerce, Bureau of Industry and Security. 2022. "Export Controls on Advanced Computing and Semiconductor Manufacturing Items to the People's Republic of China (PRC)." Federal Register 87 (214): 68523-68531.
 
 U.S. Department of Commerce, International Trade Administration. 2023. "Global Supply Chain Disruptions: Impact Assessment." Washington, D.C.
 
@@ -85,7 +83,7 @@ Bruegel. 2023. "European Energy Policy Response to Russia's Invasion of Ukraine.
 
 Food and Agriculture Organization of the United Nations. 2022. *The State of Food Security and Nutrition in the World 2022*. Rome: FAO.
 
-Food and Agriculture Organization of the United Nations. 2022a. "Fertilizer Supply and Demand: Market Analysis and Outlook." Rome: FAO.
+Smil, Vaclav. 2001. *Enriching the Earth: Fritz Haber, Carl Bosch, and the Transformation of World Food Production*. Cambridge, MA: MIT Press.
 
 International Energy Agency. 2022. *World Energy Outlook 2022*. Paris: International Energy Agency.
 
@@ -101,7 +99,7 @@ Organisation for Economic Co-operation and Development. 2023. *Main Science and 
 
 UNESCO Institute for Statistics. 2023. "Research and Development Expenditure (% of GDP)." Montreal: UNESCO.
 
-United Nations Conference on Trade and Development. 1990. *World Investment Report 1990*. Geneva: UNCTAD.
+United Nations Conference on Trade and Development. 1991. *World Investment Report 1991: The Triad in Foreign Direct Investment*. Geneva: UNCTAD.
 
 United Nations World Water Development Report. 2023. "Water, Food, and Energy Nexus." Paris: UNESCO.
 
@@ -121,11 +119,11 @@ Benchmark Mineral Intelligence. 2023. "Lithium, Cobalt, and Graphite Supply Chai
 
 Chang, Morris. 2021. "The Semiconductor Industry and the Global Supply Chain." Speech at Brookings Institution, October 12.
 
-Del Rey, Jason. 2023. "Nvidia Warns of Potential $7-10 Billion Hit from China Export Controls." Reuters, August 28.
+Reuters. 2023. "Nvidia Warns of Potential $7-10 Billion Hit from China Export Controls." Reuters, August 28.
 
 IPlytics. 2023. "Who Is Leading the 5G Patent Race?" Berlin: IPlytics Platform.
 
-PMC (Project on Middle East Democracy). 2024. "Pharmaceutical Supply Chains and National Security." Washington, D.C.
+<!-- PMC entry removed: misattributed source -->
 
 PitchBook. 2024. "Venture Capital and Private Equity Investment Trends: China Focus." Seattle: PitchBook Data.
 
@@ -195,7 +193,7 @@ The following sources are frequently cited in economic coercion literature and m
 
 *Early, Bryan R.* 2015. *Busted Sanctions: Explaining Why Economic Sanctions Fail*. Stanford University Press.
 
-*Fishman, Benjamin H.* 2022. "Designing Economic Sanctions: Constraints and Tradeoffs." *International Security* 47 (2): 115-147.
+<!-- Fishman 2022 entry removed: unverifiable publication -->
 
 *Bateman, Jon.* 2022. "U.S.-China Technological 'Decoupling': A Strategy and Policy Assessment." *Carnegie Endowment for International Peace*.
 

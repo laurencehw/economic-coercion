@@ -237,7 +237,7 @@ Quantifying sanctions' economic effects is difficult due to:
 
 **GDP growth**: South African growth slowed from 5% annually (1960s) to near-zero (1980s). Sanctions contributed but weren't sole cause (internal instability, commodity prices, structural problems also factors).
 
-**Investment collapse**: Foreign direct investment fell from $10 billion inflows (early 1980s) to net outflows by late 1980s (UNCTAD World Investment Report 1990). Disinvestment and financial sanctions cut off capital access.
+**Investment collapse**: Foreign direct investment slowed dramatically during the 1980s and turned to net outflows by the late 1980s as disinvestment campaigns took hold. Financial sanctions and voluntary bank withdrawals cut off capital access.
 
 **Trade disruption**: Exports declined, particularly manufactured goods facing sanctions. South Africa circumvented through sanctions-busting (rerouting exports, relabeling origins) but at higher costs.
 
@@ -335,7 +335,7 @@ The sanctions regime pursued multiple, shifting objectives over thirteen years: 
 
 ### Economic Devastation and Humanitarian Catastrophe
 
-The sanctions devastated the Iraqi economy. GDP contracted by over 60% from 1990-1996 (World Bank estimates). Oil exports collapsed from $17 billion (1989) to effectively zero, eliminating government revenue and foreign exchange. Inflation exceeded 1,000% annually. Industrial production collapsed; infrastructure deteriorated; agricultural productivity declined.
+The sanctions devastated the Iraqi economy. GDP contracted by over 60% from 1990-1996 (World Bank estimates). Oil exports collapsed from an estimated $12-15 billion (1989) to effectively zero, eliminating government revenue and foreign exchange. Inflation exceeded 1,000% annually. Industrial production collapsed; infrastructure deteriorated; agricultural productivity declined.
 
 Human development indicators reversed: infant mortality rose, malnutrition increased, and medical supplies dwindled. UNICEF estimated that 500,000+ Iraqi children died as a result of sanctions (Gordon 2010; though this figure remains contested). Denis Halliday, UN Humanitarian Coordinator in Iraq (1997-1998), resigned in protest, calling sanctions "genocidal." Madeleine Albright's 1996 statement that the price of containing Saddam was "worth it" when questioned about child deaths became a touchstone for sanctions critics.
 
@@ -349,7 +349,7 @@ The Oil-for-Food Programme (1996-2003), allowing limited oil exports for humanit
 
 **Objectives Achieved: Failed**
 
-Sanctions achieved withdrawal from Kuwait—but only because military force compelled it. They failed to compel full Iraqi compliance with weapons inspections: Hussein obstructed inspectors, hid weapons programs, and expelled UN inspectors in 1998. Sanctions failed to achieve regime change: Hussein remained in power until the 2003 U.S. invasion. The sanctions regime collapsed under its own weight—political pressure, humanitarian concerns, and widespread smuggling undermined enforcement.
+Sanctions achieved withdrawal from Kuwait—but only because military force compelled it. They failed to compel full Iraqi compliance with weapons inspections: Hussein obstructed inspectors, hid weapons programs, and obstructed inspections and UN inspectors were withdrawn in 1998. Sanctions failed to achieve regime change: Hussein remained in power until the 2003 U.S. invasion. The sanctions regime collapsed under its own weight—political pressure, humanitarian concerns, and widespread smuggling undermined enforcement.
 
 **Cost Imposition: Severe but Counterproductive**
 

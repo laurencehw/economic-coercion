@@ -90,7 +90,7 @@ SWIFT is not a payment system but a secure messaging network transmitting paymen
 - **Cooperative structure**: Belgian-based cooperative owned by member banks; not controlled by single government
 - **Message standardization**: Provides common formats for payment orders, confirmations, securities transfers
 - **Network effects**: Universal adoption means avoiding SWIFT is extremely difficult; alternatives lack coverage
-- **Daily volume**: Processes ~45 million messages daily valued at trillions of dollars (SWIFT 2024 annual activity statistics)
+- **Daily volume**: Processes ~50 million messages daily valued at trillions of dollars (SWIFT 2024 annual activity statistics)
 
 **SWIFT and U.S. sanctions**: While SWIFT is not U.S.-controlled, several factors give U.S. leverage:
 
@@ -320,7 +320,7 @@ Despite exemptions, humanitarian actors face obstacles:
 Banks don't just comply with sanctions—they over-comply. The threat of billion-dollar fines (BNP Paribas paid $8.9 billion) makes banks extremely risk-averse. Rather than carefully evaluate whether a transaction is permitted, many banks simply refuse all transactions with any connection to sanctioned countries. This "de-risking" behavior blocks legal humanitarian aid, prevents families from sending remittances, and makes it nearly impossible for NGOs to operate in sanctioned countries—even when their activities are explicitly permitted by law.
 {% endhint %}
 
-**2019-2020 Examples**: U.S. humanitarian exports to Iran fell 90% during 2017-2019 (U.S. Treasury 2020; humanitarian organization reports) despite exemptions, as pharmaceutical companies and banks avoided transactions. The 2012-2015 period, when secondary sanctions were most aggressively applied, saw similar de-risking behavior (Nephew 2017). COVID-19 pandemic exacerbated problems, with Iran facing difficulty importing medical equipment and medicine. Treasury eventually issued additional guidance and specific licenses, but damage to Iran's pandemic response occurred.
+**2019-2020 Examples**: U.S. humanitarian exports to Iran declined sharply during 2017-2019, with pharmaceutical exports falling approximately 67% (Georgetown Journal of International Affairs; humanitarian organization reports) despite exemptions, as pharmaceutical companies and banks avoided transactions. The 2012-2015 period, when secondary sanctions were most aggressively applied, saw similar de-risking behavior (Nephew 2017). COVID-19 pandemic exacerbated problems, with Iran facing difficulty importing medical equipment and medicine. Treasury eventually issued additional guidance and specific licenses, but damage to Iran's pandemic response occurred.
 
 **Reform Efforts**: NGOs, humanitarian organizations, and some policymakers advocate for:
 - Enhanced general licenses for humanitarian transactions
@@ -359,13 +359,13 @@ Secondary sanctions force foreign companies into an impossible choice: the U.S. 
 
 Iran secondary sanctions evolved through CISADA (2010, targeting foreign financial institutions conducting petroleum transactions), the NDAA (2012, expanding to Central Bank transactions), and additional Executive Orders—then suspended under the JCPOA (2015) before reimposition following U.S. withdrawal (2018). The mechanism forces foreign banks to choose between U.S. correspondent banking access and Iran business. "Significant transaction" is intentionally left vague, incentivizing maximum compliance through uncertainty.
 
-**Impact**: Iran's oil exports fell from ~2.5 million barrels/day (2017) to ~200,000 barrels/day (2019-2020)—a 92% reduction (IEA 2020). Major global banks (HSBC, Standard Chartered, Deutsche Bank, BNP Paribas) ceased Iran transactions; SWIFT disconnected Iranian banks (2012, 2018); Iran could not access $100+ billion in frozen oil revenue. GDP fell approximately 8% (2018-2020). European companies (Total, Shell, Peugeot, Siemens, Airbus) withdrew from Iranian projects post-2018 despite EU opposition and the European Blocking Statute—companies universally prioritized U.S. market access. China continued purchases at discounted prices under covert arrangements, but even Chinese banks were constrained by their correspondent banking relationships requiring U.S. access.
+**Impact**: Iran's oil exports fell from ~2.5 million barrels/day (2017) to approximately 300,000-500,000 barrels/day (2019-2020)—a reduction of roughly 80% (IEA 2020; Kpler 2021). Major global banks (HSBC, Standard Chartered, Deutsche Bank, BNP Paribas) ceased Iran transactions; SWIFT disconnected Iranian banks (2012, 2018); Iran could not access $100+ billion in frozen oil revenue. GDP fell approximately 8% cumulatively (2018-2020) (World Bank estimates). European companies (Total, Shell, Peugeot, Siemens, Airbus) withdrew from Iranian projects post-2018 despite EU opposition and the European Blocking Statute—companies universally prioritized U.S. market access. China continued purchases at discounted prices under covert arrangements, but even Chinese banks were constrained by their correspondent banking relationships requiring U.S. access.
 
 ### Russia Secondary Sanctions (CAATSA)
 
 The **Countering America's Adversaries Through Sanctions Act (CAATSA, 2017)** mandates secondary sanctions on foreign persons engaging in "significant transactions" with Russian defense/intelligence sectors (Section 231) and energy pipeline construction (Section 232, targeting Nord Stream 2).
 
-Application revealed the political constraints on secondary sanctions against major powers. India's $5 billion S-400 purchase triggered mandatory sanctions but received waivers given India's strategic importance. Turkey's S-400 acquisition led to CAATSA sanctions on Turkey's defense procurement agency (2020)—a rare case of sanctioning a NATO ally, also resulting in Turkey's removal from the F-35 program. China-Russia arms sanctions had limited impact given minimal U.S. exposure. On Nord Stream 2, sanctions forced Swiss pipelay company Allseas to withdraw (delaying construction), but the Biden administration ultimately waived sanctions to repair EU relations before reimposing them after Ukraine's invasion.
+Application revealed the political constraints on secondary sanctions against major powers. India's $5.4 billion S-400 purchase triggered mandatory sanctions but received waivers given India's strategic importance. Turkey's S-400 acquisition led to CAATSA sanctions on Turkey's defense procurement agency (2020)—a rare case of sanctioning a NATO ally, also resulting in Turkey's removal from the F-35 program. China-Russia arms sanctions had limited impact given minimal U.S. exposure. On Nord Stream 2, sanctions forced Swiss pipelay company Allseas to withdraw (delaying construction), but the Biden administration ultimately waived sanctions to repair EU relations before reimposing them after Ukraine's invasion.
 
 Compared to Iran, Russia secondary sanctions were narrower (defense/intelligence sectors vs. economy-wide), more constrained by geopolitical considerations, and implemented inconsistently through frequent waivers.
 
@@ -646,7 +646,7 @@ INSTEX (Instrument in Support of Trade Exchanges), established in 2019, represen
 
 **INSTEX's architecture**: A special purpose vehicle facilitating trade without using dollars or touching U.S. financial institutions—European firms could trade with Iran, INSTEX would net transactions, and no dollars would change hands. France, Germany, and UK jointly established it as a symbol of European sovereignty.
 
-**INSTEX's failure**: By 2024, INSTEX had processed negligible trade volumes. Why it failed:
+**INSTEX's failure**: Before its dissolution in March 2023, INSTEX had processed only a single transaction (approximately EUR 500,000 in medical goods in March 2020). Why it failed:
 - **No major firms participated**: European companies (Total, Airbus, Daimler, Siemens) with U.S. market exposure feared losing access to American markets—dollar revenues mattered more than INSTEX-enabled Iranian sales
 - **Limited scope**: Initially restricted to humanitarian goods, later expanded to all goods, but still excluded oil—Iran's primary export
 - **No Chinese or Russian participation**: For INSTEX to matter, major economies needed to join; they declined, preferring bilateral arrangements

@@ -253,7 +253,7 @@ The strategic applications driving investment are profound:
 
 **Optimization problems**: Quantum algorithms promise advantages for supply chain optimization, financial portfolio management, logistics, and machine learning—applications with immediate commercial and military relevance (optimizing military logistics, improving radar detection, enhancing AI training).
 
-**Current capabilities** remain far from these promises. As of 2024, the most advanced quantum computers contain hundreds to low-thousands of physical qubits: IBM's Quantum System One (1,000+ qubits), Google's Sycamore (70 qubits, achieving "quantum supremacy" on a specific problem in 2019), and Chinese Jiuzhang (photonic quantum computer with 76 qubits). However, these are "noisy intermediate-scale quantum" (NISQ) devices—limited by error rates, short coherence times (qubits maintaining quantum states for microseconds to milliseconds), and connectivity constraints between qubits.
+**Current capabilities** remain far from these promises. As of 2024, the most advanced quantum computers contain hundreds to low-thousands of physical qubits: IBM's Condor processor (1,121 qubits, announced 2023), Google's Sycamore (53 qubits, achieving "quantum supremacy" on a specific problem in 2019), and Chinese Jiuzhang (photonic quantum computer detecting 76 photons in a Gaussian boson sampling experiment). However, these are "noisy intermediate-scale quantum" (NISQ) devices—limited by error rates, short coherence times (qubits maintaining quantum states for microseconds to milliseconds), and connectivity constraints between qubits.
 
 **Technical barriers** to practical quantum computing include:
 
@@ -301,10 +301,10 @@ Whether quantum communications provide genuine strategic advantages over post-qu
 
 **Export Controls on Quantum Technologies**
 
-Export controls on quantum technologies remain limited but expanding. The October 2022 semiconductor export controls included restrictions on quantum computing equipment and materials, though specific applications remain classified. The December 2023 U.S.-Japan-Netherlands agreement expanded quantum technology controls, targeting:
+Export controls on quantum technologies remain limited but expanding. The October 2022 semiconductor export controls included restrictions on quantum computing equipment and materials, though specific applications remain classified. The January 2023 U.S.-Japan-Netherlands agreement on semiconductor equipment export controls primarily targeted advanced lithography and chipmaking equipment rather than quantum technologies specifically, though subsequent BIS rules have begun addressing quantum-related items. Potential future quantum-specific controls may target:
 
 - Cryogenic cooling systems (required for superconducting quantum computers)
-- Specialized control electronics ( microwave generators, arbitrary waveform generators)
+- Specialized control electronics (microwave generators, arbitrary waveform generators)
 - Precision manufacturing equipment for quantum device fabrication
 - Quantum computing software and algorithms (control and optimization software)
 
