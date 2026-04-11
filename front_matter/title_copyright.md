@@ -48,9 +48,8 @@ This work draws on publicly available data from:
 
 ## About the Author
 
-**Laurence Wilse-Samson** is a political economist and policy analyst specializing in international economic statecraft, technology competition, and U.S.-China strategic relations. He is a Fellow at Columbia University's School of International and Public Affairs (SIPA), where he teaches courses on economic coercion, emerging technologies, and great power competition. His research focuses on the intersection of economic policy and national security, particularly export controls, financial sanctions, supply chain vulnerabilities, and industrial policy.
+**Laurence Wilse-Samson** teaches understanding emerging technology at Columbia University's School of International and Public Affairs (SIPA). He has a PhD in economics and his research interestes include development, economic history, and industrial policy.
 
-Previously, he worked as an economist at the Council on Foreign Relations and served as a policy advisor on international trade and technology issues. His work has been published in leading policy journals and presented at the National Bureau of Economic Research, the Brookings Institution, and the Center for Strategic and International Studies.
 
 He holds degrees from Columbia University and the London School of Economics, with additional graduate work at Harvard Kennedy School and Peking University.
 
