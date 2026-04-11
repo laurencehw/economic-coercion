@@ -117,7 +117,7 @@ ASML. 2023. *Annual Report 2023*. Veldhoven, Netherlands: ASML Holding N.V.
 
 Benchmark Mineral Intelligence. 2023. "Lithium, Cobalt, and Graphite Supply Chain Analysis." London: Benchmark Mineral Intelligence.
 
-Chang, Morris. 2021. "The Semiconductor Industry and the Global Supply Chain." Speech at Brookings Institution, October 12.
+Chang, Morris. 2021. Remarks on the semiconductor industry and geopolitics. Various public appearances, 2021.
 
 Reuters. 2023. "Nvidia Warns of Potential $7-10 Billion Hit from China Export Controls." Reuters, August 28.
 

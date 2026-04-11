@@ -4,7 +4,7 @@
 
 **Asset Freeze**: A form of financial sanction that prevents a targeted individual, entity, or government from accessing or transferring assets held in the sanctioning country's financial system.
 
-**ASML (Advanced Semiconductor Materials Lithography)**: Dutch company with monopoly on extreme ultraviolet (EUV) lithography machines essential for manufacturing advanced semiconductors.
+**ASML**: Dutch company (originally Advanced Semiconductor Materials Lithography, now simply ASML) with monopoly on extreme ultraviolet (EUV) lithography machines essential for manufacturing advanced semiconductors.
 
 **Autocracy**: A system of government in which power is concentrated in the hands of a single leader or small elite group, with limited political pluralism or democratic accountability.
 

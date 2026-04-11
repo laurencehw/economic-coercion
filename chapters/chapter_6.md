@@ -51,7 +51,7 @@ The 2018-present U.S.-China trade war illustrates modern tariff-based coercion d
 - **September 2018**: U.S. imposes 10% tariffs on $200 billion in Chinese goods (consumer products, textiles)
 - **December 2018**: 90-day truce announced at G20; China agrees to purchase more U.S. agricultural products
 
-By year-end, U.S. tariffs affected $250 billion in Chinese imports; Chinese retaliatory tariffs affected $110 billion in U.S. exports. U.S. tariffs averaged 12% on Chinese goods (up from 3% pre-escalation); Chinese tariffs averaged 18% on U.S. goods (up from 8%) (Bown and Kolb 2021; PIIE 2019).
+By year-end, U.S. tariffs affected $250 billion in Chinese imports; Chinese retaliatory tariffs affected $110 billion in U.S. exports. U.S. tariffs averaged 12% on Chinese goods (up from 3% pre-escalation); Chinese tariffs averaged 18% on U.S. goods (up from 8%) (Bown and Kolb 2021; PIIE trade war tariff tracker).
 
 **Phase 2: Maximum Pressure (2019)**
 
