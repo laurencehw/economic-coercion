@@ -51,7 +51,7 @@ The 2018-present U.S.-China trade war illustrates modern tariff-based coercion d
 - **September 2018**: U.S. imposes 10% tariffs on $200 billion in Chinese goods (consumer products, textiles)
 - **December 2018**: 90-day truce announced at G20; China agrees to purchase more U.S. agricultural products
 
-By year-end, U.S. tariffs affected $250 billion in Chinese imports; Chinese retaliatory tariffs affected $110 billion in U.S. exports. U.S. tariffs averaged 12% on Chinese goods (up from 3% pre-escalation); Chinese tariffs averaged 18% on U.S. goods (up from 8%) (Bown and Kolb 2021; PIIE 2019).
+By year-end, U.S. tariffs affected $250 billion in Chinese imports; Chinese retaliatory tariffs affected $110 billion in U.S. exports. U.S. tariffs averaged 12% on Chinese goods (up from 3% pre-escalation); Chinese tariffs averaged 18% on U.S. goods (up from 8%) (Bown and Kolb 2021; PIIE trade war tariff tracker).
 
 **Phase 2: Maximum Pressure (2019)**
 
@@ -109,7 +109,7 @@ U.S. imports from China fell from $539.5 billion (2018) to $452.2 billion (2019)
 - Total U.S. imports declined only 1.7% (2018-2019), indicating trade diversion rather than import reduction
 
 Chinese imports from U.S. fell from $134 billion (2017) to $107 billion (2019), a 20% decline concentrated in agriculture:
-- U.S. soybean exports to China fell 75% (2018-2019) as China sourced from Brazil (USDA Foreign Agricultural Service 2020; U.S. Census Bureau 2020)
+- U.S. soybean exports to China fell 75% (2017-2018) as China sourced from Brazil, with partial recovery in 2019 (USDA Foreign Agricultural Service 2020; U.S. Census Bureau 2020)
 - Aircraft deliveries fell 47% (U.S. Census Bureau 2020)
 - Energy product exports fell 54% (U.S. Energy Information Administration 2020)
 
@@ -117,10 +117,10 @@ Chinese imports from U.S. fell from $134 billion (2017) to $107 billion (2019), 
 
 Economic theory predicts tariff incidence depends on elasticities of demand and supply. Empirical studies found:
 
-- **Amiti, Redding, and Weinstein (2019, AER)**: U.S. tariffs had complete pass-through to U.S. import prices; negligible reduction in Chinese export prices. U.S. consumers and firms bore nearly 100% of tariff costs.
-- **Fajgelbaum et al. (2020, JPE)**: Aggregate U.S. real income fell 0.04% from tariffs and Chinese retaliation combined. Costs distributed unevenly: import-competing industries gained; import-using industries and consumers lost.
+- **Amiti, Redding, and Weinstein (2019, JEP)**: U.S. tariffs had complete pass-through to U.S. import prices; negligible reduction in Chinese export prices. U.S. consumers and firms bore nearly 100% of tariff costs.
+- **Fajgelbaum et al. (2020, QJE)**: Aggregate U.S. real income fell 0.04% from tariffs and Chinese retaliation combined. Costs distributed unevenly: import-competing industries gained; import-using industries and consumers lost.
 - **Flaaen and Pierce (2019, Fed Working Paper)**: Manufacturing employment in tariff-protected industries showed no significant increase; employment in tariff-affected input-using industries declined.
-- **Cavallo et al. (2021, AEJ)**: Retail prices for tariffed goods rose nearly one-for-one with tariffs; no evidence of Chinese exporters reducing prices or U.S. retailers absorbing costs.
+- **Cavallo et al. (2021, AER: Insights)**: Retail prices for tariffed goods rose nearly one-for-one with tariffs; no evidence of Chinese exporters reducing prices or U.S. retailers absorbing costs.
 
 The uncomfortable conclusion: U.S. tariffs functioned as a domestic tax on U.S. consumers and firms, not as costs imposed on China. Chinese tariffs similarly represented Chinese taxes on Chinese consumers. Each country was punching itself in the face, insisting the other would soon cry uncle.
 
@@ -131,11 +131,11 @@ Contrary to political rhetoric suggesting tariffs "punish" foreign exporters, ec
 
 **Supply Chain Reconfiguration**
 
-Beyond static trade impacts, tariffs accelerated supply chain reconfiguration. Multinational firms adopted **"China+1" strategies**, diversifying production to Vietnam, Thailand, India, and Mexico to avoid tariffs—Apple, Samsung, Intel, Dell, and HP all announced production shifts. Many of these moves proved permanent: sunk costs of relocating production mean that even if tariffs were removed, Flaaen and Pierce (2024) estimate 30-40% of trade flow changes are irreversible. The shift produced clear winners and losers. Vietnam's exports to the U.S. surged from $49 billion (2017) to $115 billion (2023), making it the 8th largest U.S. trade partner (U.S. Census Bureau 2024), while Mexico became the largest U.S. trade partner in 2023 (U.S. Census Bureau 2024), partly from Chinese firms routing production through Mexican plants. On the losing side, Chinese manufacturing employment growth slowed, and sectors like furniture and electronics lost global market share permanently.
+Beyond static trade impacts, tariffs accelerated supply chain reconfiguration. Multinational firms adopted **"China+1" strategies**, diversifying production to Vietnam, Thailand, India, and Mexico to avoid tariffs—Apple, Samsung, Intel, Dell, and HP all announced production shifts. Many of these moves proved durable: once firms incur the sunk costs of relocating production, they are unlikely to reverse those decisions even if tariffs are later reduced or removed. The shift produced clear winners and losers. Vietnam's exports to the U.S. surged from $49 billion (2017) to $115 billion (2023), making it the 8th largest U.S. trade partner (U.S. Census Bureau 2024), while Mexico became the largest U.S. trade partner in 2023 (U.S. Census Bureau 2024), partly from Chinese firms routing production through Mexican plants. On the losing side, Chinese manufacturing employment growth slowed, and sectors like furniture and electronics lost global market share permanently.
 
 **Aggregate Economic Impacts**
 
-The macroeconomic costs were substantial across all parties. Studies estimate a 0.3-0.5% reduction in U.S. GDP from tariffs and retaliation (2018-2020) (Amiti, Redding, and Weinstein 2019; Fajgelbaum et al. 2020), with the agricultural sector suffering $27 billion in lost exports partially offset by $23 billion in government subsidies (USDA 2020; Congressional Research Service 2021) while manufacturing employment gains remained negligible. China experienced an estimated 0.5-0.8% GDP reduction, though its simultaneous growth slowdown from debt deleveraging and COVID-19 makes trade war effects difficult to isolate. Globally, the IMF (2019) estimated the trade war could reduce world GDP by 0.8% by 2020 through trade disruptions, uncertainty, and financial market impacts.
+The macroeconomic costs were substantial across all parties. Studies estimate aggregate real income losses of approximately 0.04% from tariffs directly (Amiti, Redding, and Weinstein 2019; Fajgelbaum et al. 2020), with broader macroeconomic models suggesting total GDP effects of 0.3-0.5% when accounting for uncertainty, investment, and retaliation (Oxford Economics; Tax Foundation), with the agricultural sector suffering $27 billion in lost exports partially offset by $23 billion in government subsidies (USDA 2020; Congressional Research Service 2021) while manufacturing employment gains remained negligible. China experienced an estimated 0.5-0.8% GDP reduction, though its simultaneous growth slowdown from debt deleveraging and COVID-19 makes trade war effects difficult to isolate. Globally, the IMF (2019) estimated the trade war could reduce world GDP by 0.8% by 2020 through trade disruptions, uncertainty, and financial market impacts.
 
 ### Political Economy of Tariff-Based Coercion
 

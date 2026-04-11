@@ -4,7 +4,7 @@
 
 **Asset Freeze**: A form of financial sanction that prevents a targeted individual, entity, or government from accessing or transferring assets held in the sanctioning country's financial system.
 
-**ASML (Advanced Semiconductor Materials Lithography)**: Dutch company with monopoly on extreme ultraviolet (EUV) lithography machines essential for manufacturing advanced semiconductors.
+**ASML**: Dutch company (originally Advanced Semiconductor Materials Lithography, now simply ASML) with monopoly on extreme ultraviolet (EUV) lithography machines essential for manufacturing advanced semiconductors.
 
 **Autocracy**: A system of government in which power is concentrated in the hands of a single leader or small elite group, with limited political pluralism or democratic accountability.
 
@@ -88,23 +88,29 @@
 
 **Unilateral Sanctions**: Economic sanctions imposed by a single country acting alone rather than as part of a multilateral coalition.
 
+**Value Chain**: The full range of activities that firms and workers perform to bring a product from conception to delivery, including design, production, marketing, and distribution. In geoeconomic competition, control over key value chain segments creates leverage.
+
+**Weaponization**: The use of economic interdependencies, institutions, or tools as instruments of coercion or geopolitical pressure.
+
+**Weaponized Interdependence**: Concept (Farrell and Newman 2019) describing how states with control over critical network hubs can exploit mutual economic dependencies for coercive purposes through two mechanisms: the "panopticon effect" (surveillance via network centrality) and the "chokepoint effect" (denial of network access to compel compliance).
+
+**Yuan/Renminbi (CNY)**: Official currency of China, increasingly used in bilateral trade settlement and central bank reserves, though limited by capital controls from becoming major international reserve currency.
+
+---
+
+### Additional Key Terms {-}
+
 **Correspondent Banking**: Banking relationship where one financial institution maintains accounts at another bank (often in a different country) to enable cross-border payments and services. U.S. correspondent banks' dominance creates chokepoint for dollar-denominated transactions and sanctions enforcement.
 
-**De-risking**: Practice where financial institutions avoid transactions with customers or regions perceived as high-risk for sanctions violations or compliance problems, often resulting in over-compliance that blocks even permitted humanitarian trade.
-
 **Decoupling**: Comprehensive separation of economic ties between countries, particularly U.S.-China, involving trade restrictions, investment screening, technology controls, and supply chain restructuring to reduce interdependence.
+
+**De-risking (Financial)**: Practice where financial institutions avoid transactions with customers or regions perceived as high-risk for sanctions violations or compliance problems, often resulting in over-compliance that blocks even permitted humanitarian trade.
 
 **De-risking (Strategic)**: European policy approach emphasizing reducing vulnerabilities in strategic sectors through diversification and reshoring, while maintaining economic engagement—distinguished from comprehensive decoupling.
 
 **Foreign Direct Product Rule (FDPR)**: U.S. export control regulation extending restrictions to foreign-made items incorporating controlled U.S.-origin technology or software, effectively extraterritorial application of U.S. export controls.
 
 **Friend-Shoring**: Policy of relocating supply chains to allied or politically aligned countries to reduce dependence on adversarial states while maintaining economic integration.
-
-**Weaponized Interdependence**: Concept describing how mutual economic dependencies can be leveraged for coercive purposes, where parties with control over critical nodes (financial systems, technology, resources) use that leverage to extract political concessions.
-
-**Yuan/Renminbi (CNY)**: Official currency of China, increasingly used in bilateral trade settlement and central bank reserves, though limited by capital controls from becoming major international reserve currency.
-
-**Weaponization**: The use of economic interdependencies, institutions, or tools as instruments of coercion or geopolitical pressure.
 
 ## Acronyms and Abbreviations {-}
 
