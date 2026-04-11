@@ -335,7 +335,7 @@ The sanctions regime pursued multiple, shifting objectives over thirteen years: 
 
 ### Economic Devastation and Humanitarian Catastrophe
 
-The sanctions devastated the Iraqi economy. GDP contracted by over 60% from 1990-1996 (World Bank estimates). Oil exports collapsed from an estimated $12-15 billion (1989) to effectively zero, eliminating government revenue and foreign exchange. Inflation exceeded 1,000% annually. Industrial production collapsed; infrastructure deteriorated; agricultural productivity declined.
+The sanctions devastated the Iraqi economy. GDP contracted by an estimated 50-60% from 1990-1996 (World Bank estimates; precise figures uncertain due to data limitations under sanctions). Oil exports collapsed from an estimated $12-15 billion (1989) to effectively zero, eliminating government revenue and foreign exchange. Inflation exceeded 1,000% annually. Industrial production collapsed; infrastructure deteriorated; agricultural productivity declined.
 
 Human development indicators reversed: infant mortality rose, malnutrition increased, and medical supplies dwindled. UNICEF estimated that 500,000+ Iraqi children died as a result of sanctions (Gordon 2010; though this figure remains contested). Denis Halliday, UN Humanitarian Coordinator in Iraq (1997-1998), resigned in protest, calling sanctions "genocidal." Madeleine Albright's 1996 statement that the price of containing Saddam was "worth it" when questioned about child deaths became a touchstone for sanctions critics.
 
@@ -349,7 +349,7 @@ The Oil-for-Food Programme (1996-2003), allowing limited oil exports for humanit
 
 **Objectives Achieved: Failed**
 
-Sanctions achieved withdrawal from Kuwait—but only because military force compelled it. They failed to compel full Iraqi compliance with weapons inspections: Hussein obstructed inspectors, hid weapons programs, and obstructed inspections and UN inspectors were withdrawn in 1998. Sanctions failed to achieve regime change: Hussein remained in power until the 2003 U.S. invasion. The sanctions regime collapsed under its own weight—political pressure, humanitarian concerns, and widespread smuggling undermined enforcement.
+Sanctions achieved withdrawal from Kuwait—but only because military force compelled it. They failed to compel full Iraqi compliance with weapons inspections: Hussein obstructed inspectors and hid weapons programs, contributing to the 1998 breakdown in inspections and the withdrawal of UN inspectors. Sanctions failed to achieve regime change: Hussein remained in power until the 2003 U.S. invasion. The sanctions regime collapsed under its own weight—political pressure, humanitarian concerns, and widespread smuggling undermined enforcement.
 
 **Cost Imposition: Severe but Counterproductive**
 

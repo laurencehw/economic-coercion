@@ -192,8 +192,9 @@ This document provides metadata and documentation for all CSV datasets used in t
 - Fiscal year vs. calendar year noted where relevant
 
 ### Country Codes
-- **ISO 3166-1 alpha-3** country codes used where applicable
-- "CHN" for China, "USA" for United States; "EU" or "EUR" used as non-standard aggregate codes for European Union/Eurozone data
+- Country and region identifiers follow the labels used in each dataset's column headers
+- Most datasets use readable names or abbreviations such as "China", "USA", "EU", or prefixed forms like "China_Publications"
+- Aggregate entities such as the European Union or Eurozone may appear as "EU", "EUR", or similar non-country labels
 
 ### Missing Data
 - **NA** for missing or unavailable data

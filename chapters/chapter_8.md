@@ -653,7 +653,7 @@ The **Committee on Foreign Investment in the United States (CFIUS)**, chaired by
 
 **Review process**: Parties submit voluntary notices or mandatory declarations (required for foreign government interests of 25%+ in TID businesses). Initial review (45 days) leads to clearance, mitigation conditions, or full investigation (45 days), potentially escalating to presidential decision (15 days). Mitigation measures include board governance restrictions, data firewalls, and compliance monitoring. CFIUS retains 5-year look-back authority for non-notified transactions.
 
-**Statistics (CY2024)**: 116 declarations and 209 written notices; 78% of declarations cleared in first stage; 49 withdrawn notices (including 7 abandoned transactions); China-linked notices fell from approximately 31% of reviews (2016) to 12% (CY2024). **Challenges**: Classified decisions limit transparency; resource constraints despite increased staffing; undefined scope of "national security" creates unpredictability; and extraterritorial reach (blocking foreign-to-foreign deals with U.S. nexus) strains allied relationships.
+**Statistics (CY2024)**: 195 declarations and 335 written notices; approximately 78% of declarations cleared in first stage; 85 withdrawn notices (including 7 abandoned transactions); China-linked notices declined from approximately 31% of reviews (2016) to an estimated 12% (CY2024). **Challenges**: Classified decisions limit transparency; resource constraints despite increased staffing; undefined scope of "national security" creates unpredictability; and extraterritorial reach (blocking foreign-to-foreign deals with U.S. nexus) strains allied relationships.
 
 ---
 

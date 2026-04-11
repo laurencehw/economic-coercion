@@ -320,7 +320,7 @@ Despite exemptions, humanitarian actors face obstacles:
 Banks don't just comply with sanctions—they over-comply. The threat of billion-dollar fines (BNP Paribas paid $8.9 billion) makes banks extremely risk-averse. Rather than carefully evaluate whether a transaction is permitted, many banks simply refuse all transactions with any connection to sanctioned countries. This "de-risking" behavior blocks legal humanitarian aid, prevents families from sending remittances, and makes it nearly impossible for NGOs to operate in sanctioned countries—even when their activities are explicitly permitted by law.
 {% endhint %}
 
-**2019-2020 Examples**: U.S. humanitarian exports to Iran declined sharply during 2017-2019, with pharmaceutical exports falling approximately 67% (Georgetown Journal of International Affairs; humanitarian organization reports) despite exemptions, as pharmaceutical companies and banks avoided transactions. The 2012-2015 period, when secondary sanctions were most aggressively applied, saw similar de-risking behavior (Nephew 2017). COVID-19 pandemic exacerbated problems, with Iran facing difficulty importing medical equipment and medicine. Treasury eventually issued additional guidance and specific licenses, but damage to Iran's pandemic response occurred.
+**2019-2020 Examples**: U.S. humanitarian exports to Iran declined sharply during 2017-2019 despite formal exemptions, as pharmaceutical companies and banks avoided transactions. The 2012-2015 period, when secondary sanctions were most aggressively applied, saw similar de-risking behavior (Nephew 2017). COVID-19 pandemic exacerbated problems, with Iran facing difficulty importing medical equipment and medicine. Treasury eventually issued additional guidance and specific licenses, but damage to Iran's pandemic response occurred.
 
 **Reform Efforts**: NGOs, humanitarian organizations, and some policymakers advocate for:
 - Enhanced general licenses for humanitarian transactions
@@ -646,7 +646,7 @@ INSTEX (Instrument in Support of Trade Exchanges), established in 2019, represen
 
 **INSTEX's architecture**: A special purpose vehicle facilitating trade without using dollars or touching U.S. financial institutions—European firms could trade with Iran, INSTEX would net transactions, and no dollars would change hands. France, Germany, and UK jointly established it as a symbol of European sovereignty.
 
-**INSTEX's failure**: Before its dissolution in March 2023, INSTEX had processed only a single transaction (approximately EUR 500,000 in medical goods in March 2020). Why it failed:
+**INSTEX's failure**: Before its dissolution in early 2023, INSTEX had processed negligible trade volumes. Why it failed:
 - **No major firms participated**: European companies (Total, Airbus, Daimler, Siemens) with U.S. market exposure feared losing access to American markets—dollar revenues mattered more than INSTEX-enabled Iranian sales
 - **Limited scope**: Initially restricted to humanitarian goods, later expanded to all goods, but still excluded oil—Iran's primary export
 - **No Chinese or Russian participation**: For INSTEX to matter, major economies needed to join; they declined, preferring bilateral arrangements

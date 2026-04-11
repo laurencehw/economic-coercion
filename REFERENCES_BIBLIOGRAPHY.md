@@ -9,13 +9,7 @@ This bibliography includes all sources cited in the citation remediation process
 
 ### Books and Monographs
 
-Acemoglu, Daron, David Autor, David Dorn, Gordon H. Hanson, and Brendan Price. 2016. "Import Competition and the Great US Employment Sag of the 2000s." *Journal of Labor Economics* 34 (S1): S141-S198.
-
-Autor, David H., David Dorn, and Gordon H. Hanson. 2016. "The China Shock: Learning from Labor-Market Adjustment to Large Changes in Trade." *American Economic Review* 106 (5): 2121-2168.
-
 Copeland, Dale C. 2015. *Economic Interdependence and War*. Princeton University Press.
-
-Farrell, Henry, and Abraham Newman. 2019. "Weaponized Interdependence: How Global Economic Networks Shape State Coercion." *International Security* 44 (1): 42-79.
 
 Hufbauer, Gary Clyde, Jeffrey J. Schott, Kimberly Ann Elliott, and Barbara Oegg. 2007. *Economic Sanctions Reconsidered*. 3rd ed. Peterson Institute for International Economics.
 
@@ -27,15 +21,15 @@ Khan, Saif, Dahlia Peterson, and Emily Weinstein. 2021. "The AI Triad and What I
 
 Miller, Chris. 2022. *Chip War: The Fight for the World's Most Critical Technology*. Scribner.
 
-Paarlberg, Robert L. 1980. "Lessons of the Grain Embargo." *Foreign Affairs* 59 (4): 844-865.
-
-Pierce, Justin R., and Peter K. Schott. 2020. "Trade Liberalization and Mortality: Evidence from U.S. Counties." *American Economic Review: Insights* 2 (1): 47-64.
-
 ---
 
 ## JOURNAL ARTICLES AND WORKING PAPERS
 
+Acemoglu, Daron, David Autor, David Dorn, Gordon H. Hanson, and Brendan Price. 2016. "Import Competition and the Great US Employment Sag of the 2000s." *Journal of Labor Economics* 34 (S1): S141-S198.
+
 Amiti, Mary, Stephen J. Redding, and David E. Weinstein. 2019. "The Impact of the 2018 Tariffs on Prices and Welfare." *Journal of Economic Perspectives* 33 (4): 187-210.
+
+Autor, David H., David Dorn, and Gordon H. Hanson. 2016. "The China Shock: Learning from Labor-Market Adjustment to Large Changes in Trade." *American Economic Review* 106 (5): 2121-2168.
 
 Bown, Chad P. 2022. "US-China Trade War: Tariffs, Timeline, and Economic Impact." Peterson Institute for International Economics, Policy Brief 22-6.
 
@@ -43,7 +37,13 @@ Bown, Chad P., and Melina Kolb. 2021. "Trump's Trade War: Timeline of an Unneces
 
 Fajgelbaum, Pablo D., Pinelopi K. Goldberg, Patrick J. Kennedy, and Amit K. Khandelwal. 2020. "The Return to Protectionism." *Quarterly Journal of Economics* 135 (1): 1-55.
 
+Farrell, Henry, and Abraham Newman. 2019. "Weaponized Interdependence: How Global Economic Networks Shape State Coercion." *International Security* 44 (1): 42-79.
+
 Flaaen, Aaron, and Justin R. Pierce. 2019. "Disentangling the Effects of the 2018-2019 Tariffs on a Globally Connected U.S. Manufacturing Sector." Finance and Economics Discussion Series 2019-086. Federal Reserve Board.
+
+Paarlberg, Robert L. 1980. "Lessons of the Grain Embargo." *Foreign Affairs* 59 (4): 844-865.
+
+Pierce, Justin R., and Peter K. Schott. 2020. "Trade Liberalization and Mortality: Evidence from U.S. Counties." *American Economic Review: Insights* 2 (1): 47-64.
 
 ---
 
