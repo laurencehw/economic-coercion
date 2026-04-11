@@ -420,7 +420,7 @@ China's 157 centrally-managed SOEs (combined assets over $35 trillion, 20+ milli
 
 ### Sovereign Wealth Funds and Western Responses
 
-Chinese SWFs—the China Investment Corporation (~$1.4 trillion AUM), SAFE Investment Company ($1+ trillion), and the National Social Security Fund ($440 billion)—operate with less transparency than Norwegian or Singaporean counterparts, raising concerns about strategic motivations. CIC holds stakes in Blackstone, Morgan Stanley, and commodity firms, increasingly targeting technology and strategic sectors.
+Chinese SWFs—the China Investment Corporation (~$1.4 trillion AUM as of 2024), SAFE Investment Company ($1+ trillion), and the National Social Security Fund ($440 billion)—operate with less transparency than Norwegian or Singaporean counterparts, raising concerns about strategic motivations. CIC holds stakes in Blackstone, Morgan Stanley, and commodity firms, increasingly targeting technology and strategic sectors (Sovereign Wealth Fund Institute 2024; Bloomberg data).
 
 Western responses center on **reciprocity arguments** (if Chinese SOEs invest freely in Western markets while Chinese markets remain restricted, this creates asymmetric advantage), **investment screening** (CFIUS and allied mechanisms now target SOE investments with mandatory declarations and presumptions of government control), and **reform pressure** through multilateral institutions. China has consolidated and partially privatized some SOEs but retains strategic control over key sectors.
 
