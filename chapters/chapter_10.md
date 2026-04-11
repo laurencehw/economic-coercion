@@ -153,14 +153,14 @@ Climate change is reshaping the conditions for economic coercion. It alters reso
 Decarbonization requires massive increases in specific mineral production (IEA 2021):
 
 **Lithium** (EV batteries, grid storage):
-- Current production: ~130,000 tons/year (2024)
-- Required by 2050: 2-3 million tons/year
-- Major sources: Australia (50%), Chile (25%), China (15% production but 60% processing)
+- Current production: ~130,000 tons/year (2024) (USGS Mineral Commodity Summaries 2024)
+- Required by 2050: 2-3 million tons/year (IEA 2023; IEA Net Zero Roadmap)
+- Major sources: Australia (50%), Chile (25%), China (15% production but 60% processing) (USGS 2024; Benchmark Mineral Intelligence 2024)
 
 **Cobalt** (battery cathodes):
-- Current: ~200,000 tons/year
-- Required 2050: 500,000-700,000 tons
-- Sources: DRC (70%), Russia/China (25% combined)
+- Current: ~200,000 tons/year (2024) (USGS Mineral Commodity Summaries 2024; Cobalt Institute)
+- Required 2050: 500,000-700,000 tons (IEA 2023; IEA Net Zero Roadmap)
+- Sources: DRC (70%), Russia/China (25% combined) (USGS 2024; cobalt production data)
 
 **Rare earths** (wind turbine magnets, EV motors):
 - Already stressed supply (Chapter 2, Chapter 9 rare earth case)
