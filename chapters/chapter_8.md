@@ -452,19 +452,19 @@ Chinese officials and state media delivered warnings:
 Beginning May 2020, China imposed de facto restrictions on multiple Australian export sectors. Critically, these operated through administrative measures and unofficial guidance rather than formal tariff or ban announcements:
 
 **Barley (May 2020)**
-- **Action**: China imposed 80.5% anti-dumping and countervailing duties on Australian barley
-- **Impact**: Australian barley exports to China fell from $1.5 billion annually to near zero
+- **Action**: China imposed 80.5% anti-dumping and countervailing duties on Australian barley (MOFCOM Announcement No. 14 of 2020)
+- **Impact**: Australian barley exports to China fell from ~AUD 1.5 billion annually to near zero (Department of Foreign Affairs and Trade [DFAT], *Composition of Trade* 2021)
 - **Nominal justification**: Dumping investigation initiated 2018, but decision timing clearly political
-- **Australian response**: WTO dispute initiated (ultimately successful in 2024, with China removing tariffs)
+- **Australian response**: WTO dispute initiated (ultimately successful in 2024, with China removing tariffs; WTO Dispute DS598)
 
 **Beef (May-September 2020)**
-- **Action**: Four major Australian beef processors lost export licenses for "labeling violations," later expanded to more facilities
+- **Action**: Four major Australian beef processors lost export licenses for "labeling violations," later expanded to more facilities (GACC notices 2020; Australian Meat Industry Council statements 2020)
 - **Impact**: Reduced but didn't eliminate Australian beef exports (other facilities continued, though facing delays)
 - **Justification**: Technical compliance issues (labeling, health certificates)
 
 **Wine (November 2020)**
-- **Action**: Anti-dumping duties of 107-212% on bottled Australian wine
-- **Impact**: Australian wine exports to China collapsed from $1.2 billion (2019) to $12 million (2021)—99% decline. For Australian wineries, China had been largest export market (39% of exports).
+- **Action**: Anti-dumping duties of 107–212% on bottled Australian wine (MOFCOM Announcement No. 55 of 2020)
+- **Impact**: Australian wine exports to China collapsed from AUD 1.2 billion (2019) to AUD 12 million (2021)—a 99% decline. For Australian wineries, China had been the largest export market (~39% of exports) (Wine Australia *Export Report* 2021; DFAT 2022).
 - **Devastating sector impacts**: Treasury Wine Estates, Pernod Ricard Australia, and many smaller wineries faced revenue collapse, lay-offs, discounted inventory
 
 {% hint style="info" %}
@@ -473,8 +473,8 @@ Australia's wine industry faced perhaps the most devastating blow of China's inf
 {% endhint %}
 
 **Coal (October 2020-2022)**
-- **Action**: Unofficial import restrictions—Australian coal ships stuck at Chinese ports for months without customs clearance
-- **Impact**: Australian coal exports to China fell from $14 billion (2019) to $2.4 billion (2020) to near-zero (2021)
+- **Action**: Unofficial import restrictions—Australian coal ships stuck at Chinese ports for months without customs clearance (General Administration of Customs of the PRC [GACC] data; Lowy Institute 2021)
+- **Impact**: Australian coal exports to China fell from AUD 14 billion (2019) to AUD 2.4 billion (2020) to near-zero in 2021 (DFAT *Composition of Trade* 2022; Office of the Chief Economist, Department of Industry)
 - **No formal announcement**: Chinese officials denied restrictions; customs simply delayed or rejected clearances for unspecified "quality concerns"
 - **Strategic dimensions**: Coal restrictions hurt Australian exports but also created Chinese domestic energy shortages (winter 2020-2021 power crises), demonstrating costs of coercion
 

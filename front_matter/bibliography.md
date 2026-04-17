@@ -118,6 +118,44 @@ Triolo, Paul, and Robert Greene. "Will China's Chip Breakthrough Undermine U.S. 
 
 Rajagopalan, Rajeswari Pillai, and Joel Wuthnow. "India-China Border Tensions: Assessing Strategic Implications for the Region." Observer Research Foundation Occasional Paper, 2021.
 
+TeleGeography. *Submarine Cable Map*. TeleGeography, accessed 2026. https://www.submarinecablemap.com.
+
+Clement, J. "Number and Length of Submarine Communications Cables Worldwide." Statista / TeleGeography, March 2024.
+
+SWIFT. *2023 Annual Review*. Society for Worldwide Interbank Financial Telecommunication, 2023.
+
+Bank for International Settlements. "Triennial Central Bank Survey of Foreign Exchange and OTC Derivatives Markets: Cross-Border Payments and FX Settlement." BIS, 2022 (September 2022 data release) and 2023 update.
+
+Dell'Oro Group. "Worldwide Telecom Equipment Market Report: Huawei Leads Global Telecom Equipment Market in 2019–2020." Dell'Oro Group, 2020–2021.
+
+IHS Markit (now S&P Global). "Global Telecom Equipment Market Share Reports." IHS Markit, 2020.
+
+Fuller, Douglas B. *Paper Tigers, Hidden Dragons: Firms and the Political Economy of China's Technological Development*. Oxford University Press, 2016.
+
+Center for Strategic and International Studies. *China Chip Fund Tracker: Mapping Chinese Semiconductor State Investment*. CSIS, 2023.
+
+Ministry of Finance of the People's Republic of China. "Announcement on the Establishment of the National Integrated Circuit Industry Investment Fund Phase III" (关于国家集成电路产业投资基金三期成立的公告). May 24, 2024.
+
+Bloomberg News. "China Creates $47.5 Billion Chip Fund, Biggest to Date." Bloomberg, May 27, 2024.
+
+*Financial Times*. "China Launches $47bn Chip Fund in Bid to Ease US Sanctions." May 27, 2024.
+
+Nvidia Corporation. *Form 10-K Annual Report for Fiscal Year 2024*. U.S. Securities and Exchange Commission, filed February 2024.
+
+Reuters. "Nvidia CEO Says China Revenue Could Fall 'Significantly' Under Export Curbs." Reuters, August 24, 2023.
+
+Intel Corporation. "Pat Gelsinger Named New CEO of Intel; Bob Swan to Step Down on February 15." Intel press release, January 13, 2021.
+
+Wine Australia. *Export Report: Year Ending 31 December 2021*. Wine Australia, 2022.
+
+Department of Foreign Affairs and Trade (Australia). *Composition of Trade, Australia 2021* and *Composition of Trade, Australia 2022*. DFAT, 2021–2022.
+
+Lowy Institute. "The China Coal Ban: Strategic Signaling, Self-Inflicted Wound, or Both?" Lowy Institute Analysis, 2021.
+
+World Trade Organization. *China — Anti-Dumping and Countervailing Duty Measures on Barley from Australia* (DS598). WTO Dispute Settlement, 2020–2024.
+
+Ministry of Commerce of the People's Republic of China (MOFCOM). Announcements No. 14 of 2020 (barley) and No. 55 of 2020 (wine). MOFCOM, 2020.
+
 ## Government and International Organization Reports {-}
 
 National Academy of Sciences. "Balancing the National Interest: U.S. National Security Export Controls and Global Economic Competition." National Academies Press, 1987.
