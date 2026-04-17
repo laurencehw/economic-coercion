@@ -112,6 +112,34 @@
 
 **Friend-Shoring**: Policy of relocating supply chains to allied or politically aligned countries to reduce dependence on adversarial states while maintaining economic integration.
 
+**Near-Shoring**: Relocating supply chains to geographically proximate countries (e.g., U.S. firms moving production to Mexico) to shorten logistics and reduce dependence on distant adversaries.
+
+**Reshoring**: Returning manufacturing or supply chain activity to the home country, often supported by industrial policy subsidies such as the U.S. CHIPS Act (2022) and Inflation Reduction Act (2022).
+
+**Compellence**: Coercive strategy aimed at forcing a target to change current behavior or undo a prior action (Schelling 1966). Distinguished from deterrence, which seeks to prevent an action not yet taken.
+
+**Deterrence**: Strategy of dissuading an adversary from undertaking an action by credibly threatening unacceptable costs. In economic statecraft, deterrence operates through anticipated sanctions, export controls, or asset freezes.
+
+**Denial**: Strategy of preventing an adversary from obtaining or using capabilities (e.g., advanced chips) through export controls, investment screening, or technology blockades — contrasted with cost-imposition strategies.
+
+**Belt and Road Initiative (BRI, 一带一路, yīdài yīlù)**: China's international infrastructure and development strategy launched in 2013, encompassing ~150 countries and combining the Silk Road Economic Belt (overland) and 21st Century Maritime Silk Road.
+
+**Military-Civil Fusion (军民融合, jūnmín rónghé)**: Chinese national strategy formalized under Xi Jinping integrating civilian and defense industrial bases, particularly in dual-use technologies (AI, quantum, biotech, aerospace).
+
+**Central Bank Digital Currency (CBDC)**: Sovereign digital currency issued by a central bank. China's e-CNY (digital yuan) is the most advanced major-economy CBDC in deployment; potential future tool for reducing dollar dependence.
+
+**Anti-Coercion Instrument (ACI)**: EU regulation (in force December 2023) authorizing the European Commission to counter third-country economic coercion against EU member states through countermeasures including tariffs, investment restrictions, and service trade limits.
+
+**Tail Risk**: Low-probability, high-impact event in the extreme tail of a probability distribution. In economic statecraft, supply chain chokepoints and sanctions spillovers are archetypal tail-risk exposures.
+
+**Resource Nationalism**: Government policy asserting national ownership or control over natural resources, often through export restrictions, nationalization, or mandatory domestic processing (e.g., Indonesia's nickel export ban, 2020).
+
+**Dollar Dominance (Dollar Hegemony)**: The outsized role of the U.S. dollar as the primary global reserve currency, invoicing currency, and medium of international financial transactions — providing U.S. sanctioning leverage through correspondent banking and SWIFT access.
+
+**Chokepoint Effect**: Mechanism in weaponized interdependence (Farrell and Newman 2019) by which a state controlling a critical network hub (SWIFT, USD clearing, EUV lithography) can deny network access to coerce targets.
+
+**Panopticon Effect**: Mechanism in weaponized interdependence (Farrell and Newman 2019) by which a state controlling a critical network hub gains privileged surveillance over transactions flowing through the hub.
+
 ## Acronyms and Abbreviations {-}
 
 **AI**: Artificial Intelligence

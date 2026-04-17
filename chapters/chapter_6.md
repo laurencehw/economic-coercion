@@ -131,6 +131,13 @@ Contrary to political rhetoric suggesting tariffs "punish" foreign exporters, ec
 
 **Supply Chain Reconfiguration**
 
+Figure 6.2 traces the escalation ladder of the 2018–2025 trade war, superimposing announced tariff actions, retaliatory responses, and negotiated partial pauses.
+
+<figure class="book-figure">
+  <img src="../figures/fig_06_05_trade_war_escalation.png" alt="Escalation ladder of the 2018-2025 U.S.-China trade war, showing tariff actions, retaliation rounds, and partial pauses.">
+  <figcaption>Figure 6.2: U.S.–China trade war escalation ladder (2018–2025).</figcaption>
+</figure>
+
 Beyond static trade impacts, tariffs accelerated supply chain reconfiguration. Multinational firms adopted **"China+1" strategies**, diversifying production to Vietnam, Thailand, India, and Mexico to avoid tariffs—Apple, Samsung, Intel, Dell, and HP all announced production shifts. Many of these moves proved durable: once firms incur the sunk costs of relocating production, they are unlikely to reverse those decisions even if tariffs are later reduced or removed. The shift produced clear winners and losers. Vietnam's exports to the U.S. surged from $49 billion (2017) to $115 billion (2023), making it the 8th largest U.S. trade partner (U.S. Census Bureau 2024), while Mexico became the largest U.S. trade partner in 2023 (U.S. Census Bureau 2024), partly from Chinese firms routing production through Mexican plants. On the losing side, Chinese manufacturing employment growth slowed, and sectors like furniture and electronics lost global market share permanently.
 
 **Aggregate Economic Impacts**
@@ -291,7 +298,12 @@ EAR applies extraordinarily broadly:
 3. **Foreign Direct Product (FDP) Rule**: Foreign-made items produced using U.S.-origin technology or software, even if containing no U.S. components
 4. **U.S. persons**: U.S. citizens, permanent residents, and U.S. entities subject to EAR regardless of location
 
-This extraterritorial reach makes EAR a powerful tool: U.S. can restrict foreign sales of foreign-made goods if they contain U.S. technology or were produced using U.S. equipment.
+This extraterritorial reach makes EAR a powerful tool: U.S. can restrict foreign sales of foreign-made goods if they contain U.S. technology or were produced using U.S. equipment. Figure 6.4 maps the global reach of the Foreign Direct Product Rule, illustrating how a rule rooted in U.S. origin extends de facto jurisdiction over chip fabs in Taiwan, Korea, the Netherlands, and Japan.
+
+<figure class="book-figure">
+  <img src="../figures/fig_06_02_fdpr_reach.png" alt="Global reach of the U.S. Foreign Direct Product Rule, highlighting fabs and firms worldwide that produce items subject to U.S. export controls because they use U.S.-origin technology or software.">
+  <figcaption>Figure 6.4: Extraterritorial reach of the Foreign Direct Product Rule.</figcaption>
+</figure>
 
 **Commerce Control List (CCL)**
 
@@ -526,6 +538,11 @@ China enacted Export Control Law (2020) establishing authority to:
 - **Rare earth export restrictions** (2023): Controls on gallium and germanium (used in semiconductors, solar cells, fiber optics). China produces 94% of global gallium, 83% of germanium (USGS 2024). Restrictions raised prices and forced Western firms to stockpile.
 - **Graphite restrictions** (2023): Controls on certain graphite materials essential for lithium-ion battery anodes. China controls 65% of global graphite mining, 90% of processing (USGS 2024).
 - **Antimony restrictions** (2024): Controls on antimony (used in semiconductors, solar panels, batteries, ammunition). China produces 48% globally, processes 63% (USGS 2024).
+
+<figure class="book-figure">
+  <img src="../figures/fig_06_04_rare_earth_retaliation.png" alt="Chinese critical-mineral and rare-earth export retaliation measures 2010-2025, showing targeted controls on gallium, germanium, graphite, and antimony alongside global production shares.">
+  <figcaption>Figure 6.5: Chinese critical-mineral export restrictions and retaliation, 2010–2025.</figcaption>
+</figure>
 
 **Unreliable Entity List (不可靠实体清单, bù kě kào shítǐ qīngdān)**
 
@@ -875,6 +892,11 @@ The central European dilemma: how to coordinate with the United States on China 
 
 **Key application — the U.S.-China trade war**: USTR's August 2017 investigation found China engaged in forced technology transfer, discriminatory licensing, state-directed technology acquisition, and cyber-enabled IP theft. Tariffs escalated in waves: 25% on $50 billion (mid-2018), 10-25% on $200 billion (September 2018-May 2019), and 15% on $112 billion (September 2019). The January 2020 Phase One Agreement reduced some tariffs, but purchase commitments went largely unfulfilled. The Biden administration maintained all tariffs and added targeted increases (EVs to 100%, solar to 50%, semiconductors to 50%). At peak, tariffs affected $360 billion in Chinese imports (66% of total) at an effective average rate of 19.3%.
 
+<figure class="book-figure">
+  <img src="../figures/fig_06_06_section_301.png" alt="Section 301 tariff coverage by product category and administration, showing the expansion of coverage across Trump and Biden administrations.">
+  <figcaption>Figure 6.6: Section 301 tariff coverage by product category and administration (2018–2025).</figcaption>
+</figure>
+
 **Strengths**: Broad scope and flexible remedies; product-specific targeting with exclusion processes; bipartisan sustainability (both Trump and Biden maintained tariffs); negotiating leverage through calibrated escalation. **Limitations**: Likely WTO-illegal (unilateral remedies rather than dispute settlement); U.S. consumers bear nearly 100% of tariff costs through higher prices (Amiti, Redding, and Weinstein 2019); Chinese retaliation targeting politically sensitive U.S. sectors (agriculture, energy); limited compellence success despite massive tariff coverage; and escalation dynamics creating a "tariff trap" where domestic political costs prevent de-escalation even when both sides face net losses.
 
 ---
@@ -1046,8 +1068,8 @@ Key similarities include long-term competition requiring sustained technology de
 **National Bureau of Economic Research Working Papers**: (https://www.nber.org)
 - Academic studies on tariff incidence, trade war impacts, supply chain effects
 - Key papers:
-  * Amiti, Redding, Weinstein: "The Impact of the 2018 Tariffs on Prices and Welfare" (AER 2019)
-  * Fajgelbaum et al.: "The Return to Protectionism" (QJE 2020)
+  * Amiti, Redding, Weinstein: "The Impact of the 2018 Tariffs on Prices and Welfare" (*Journal of Economic Perspectives*, 2019)
+  * Fajgelbaum et al.: "The Return to Protectionism" (*Quarterly Journal of Economics*, 2020)
   * Flaaen and Pierce: "Disentangling the Effects of the 2018-2019 Tariffs" (Fed Working Paper)
   * Cavallo et al.: "Tariff Pass-Through at the Border and at the Store" (AEJ 2021)
 

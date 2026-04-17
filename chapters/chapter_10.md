@@ -170,6 +170,13 @@ Decarbonization requires massive increases in specific mineral production (IEA 2
 
 **New Dependencies Replace Old**
 
+Figure 10.2 visualizes the relocation of strategic dependencies: legacy hydrocarbon exposure concentrated in OPEC and Russia shifts toward critical-mineral processing concentrated overwhelmingly in the People's Republic of China.
+
+<figure class="book-figure">
+  <img src="../figures/fig_10_05_new_dependencies.png" alt="Shift in strategic dependencies from hydrocarbons to critical minerals, comparing OPEC's historical oil share with China's current processing share of lithium, cobalt, and rare earths.">
+  <figcaption>Figure 10.2: From oil to minerals — the relocation of strategic dependencies in the energy transition.</figcaption>
+</figure>
+
 Transitioning from fossil fuels to renewables doesn't eliminate strategic dependencies—it relocates them. We trade the oil sheikhs for the lithium barons:
 - **Geographic concentration**: Critical mineral processing even more concentrated than oil production (OPEC produced ~40% of oil; China processes 60-85% of key minerals)
 - **Refining chokepoints**: Mining dispersed globally but processing concentrated in China due to economies of scale, environmental externalization, integrated supply chains
@@ -573,7 +580,12 @@ Projecting 25 years into an uncertain future requires scenario analysis: develop
 - **Managed competition**: Rules-based rivalry, crisis management mechanisms, limited escalation
 - **Intense confrontation**: Economic warfare, comprehensive coercion, crisis-prone, risk of military conflict
 
-Combining these dimensions generates four scenarios:
+Combining these dimensions generates four scenarios. Figure 10.4 places each scenario on the two-dimensional uncertainty space and summarizes the bilateral trade, reserve-currency shares, and alliance configurations associated with each outcome.
+
+<figure class="book-figure">
+  <img src="../figures/fig_10_04_decoupling_scenarios.png" alt="Four-scenario matrix mapping economic integration against competition intensity, with probability weights and key indicators for each future.">
+  <figcaption>Figure 10.4: Four scenarios for U.S.–China economic competition, 2035–2050, mapped on the integration × intensity axes.</figcaption>
+</figure>
 
 ### Scenario A: Managed Competition with Selective Integration (Baseline - 40% probability)
 

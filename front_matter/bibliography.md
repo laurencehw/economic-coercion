@@ -22,9 +22,13 @@ Keohane, Robert O., and Joseph S. Nye. *Power and Interdependence*, 4th edition.
 
 Luttwak, Edward N. "From Geopolitics to Geo-Economics: Logic of Conflict, Grammar of Commerce." *The National Interest* 20 (1990): 17-23.
 
-Liao, Rebecca, and David Dollar. *China's Financial System: Growth and Inefficiency*. Brookings Institution Press, 2020.
-
 Mastanduno, Michael. *Economic Containment: CoCom and the Politics of East-West Trade*. Cornell University Press, 1992.
+
+Miller, Chris. *Chip War: The Fight for the World's Most Critical Technology*. Scribner, 2022.
+
+Mulder, Nicholas. *The Economic Weapon: The Rise of Sanctions as a Tool of Modern War*. Yale University Press, 2022.
+
+Nephew, Richard. *The Art of Sanctions: A View from the Field*. Columbia University Press, 2017.
 
 Norris, William J. *Chinese Economic Statecraft: Commercial Actors, Grand Strategy, and State Control*. Cornell University Press, 2016.
 
@@ -35,6 +39,20 @@ Pape, Robert A. *Bombing to Win: Air Power and Coercion in War*. Cornell Univers
 Roberts, Anthea, Henrique Choer Moraes, and Victor Ferguson. *Toward a Geoeconomic Order in International Trade and Investment*. Cambridge University Press, 2019.
 
 Wigell, Mikael, Sören Scholvin, and Mika Aaltola, eds. *Geo-Economics and Power Politics in the 21st Century: The Revival of Economic Statecraft*. Routledge, 2018.
+
+Jackson, Van. *Rival Reputations: Coercion and Credibility in US-North Korea Relations*. Cambridge University Press, 2016.
+
+Zarate, Juan C. *Treasury's War: The Unleashing of a New Era of Financial Warfare*. PublicAffairs, 2013.
+
+Early, Bryan R. *Busted Sanctions: Explaining Why Economic Sanctions Fail*. Stanford University Press, 2015.
+
+Gordon, Joy. *Invisible War: The United States and the Iraq Sanctions*. Harvard University Press, 2010.
+
+Biersteker, Thomas J., Sue E. Eckert, and Marcos Tourinho, eds. *Targeted Sanctions: The Impacts and Effectiveness of United Nations Action*. Cambridge University Press, 2016.
+
+Lester, Simon, Bryan Mercurio, and Arwel Davies. *World Trade Law: Text, Materials and Commentary*. 3rd ed. Hart Publishing, 2018.
+
+Acosta, Alberto. "Extractivism and Neoextractivism: Two Sides of the Same Curse." In *Beyond Development: Alternative Visions from Latin America*, edited by Miriam Lang and Dunia Mokrani, 61–86. Transnational Institute / Rosa Luxemburg Foundation, 2013.
 
 ## Journal Articles and Reports {-}
 
@@ -68,27 +86,37 @@ Khan, Saif M., Alexander Mann, and Dahlia Peterson. "The Semiconductor Supply Ch
 
 Lipton, David. "Sanctions and the Global Financial System." Remarks at the European Central Bank conference, March 2023.
 
-Miller, Chris. *Chip War: The Fight for the World's Most Critical Technology*. Scribner, 2022.
-
 Mozur, Paul. "One Month, 500,000 Face Scans: How China Is Using A.I. to Profile a Minority." *The New York Times*, April 14, 2019.
 
-Mulder, Nicholas. *The Economic Weapon: The Rise of Sanctions as a Tool of Modern War*. Yale University Press, 2022.
+Shane, Scott, and Daisuke Wakabayashi. "The Business of War: Google Employees Protest Work for the Pentagon." *The New York Times*, April 4, 2018.
 
-Nephew, Richard. *The Art of Sanctions: A View from the Field*. Columbia University Press, 2017.
+Amiti, Mary, Stephen J. Redding, and David E. Weinstein. "The Impact of the 2018 Tariffs on Prices and Welfare." *Journal of Economic Perspectives* 33, no. 4 (2019): 187–210.
+
+Fajgelbaum, Pablo D., Pinelopi K. Goldberg, Patrick J. Kennedy, and Amit K. Khandelwal. "The Return to Protectionism." *Quarterly Journal of Economics* 135, no. 1 (2020): 1–55.
+
+Cavallo, Alberto, Gita Gopinath, Brent Neiman, and Jenny Tang. "Tariff Pass-Through at the Border and at the Store: Evidence from US Trade Policy." *American Economic Review: Insights* 3, no. 1 (2021): 19–34.
+
+Bapat, Navin A., and T. Clifton Morgan. "Multilateral Versus Unilateral Sanctions Reconsidered: A Test Using New Data." *International Studies Quarterly* 53, no. 4 (2009): 1075–1094.
+
+Mastanduno, Michael. "Economic Statecraft, Interdependence, and National Security: Agendas for Research." In *Power and the Purse: Economic Statecraft, Interdependence, and National Security*, edited by Jean-Marc F. Blanchard, Edward D. Mansfield, and Norrin M. Ripsman. Frank Cass, 2000.
+
+Felbermayr, Gabriel, Aleksandra Kirilakha, Constantinos Syropoulos, Erdal Yalcin, and Yoto V. Yotov. "The Global Sanctions Data Base." *European Economic Review* 129 (2020): 103561.
+
+Hickel, Jason, and Dylan Sullivan. "How the Rich Are Robbing the Poor: Unequal Exchange and the Global Metabolism of Capitalism." *New Political Economy* 29, no. 3 (2024): 433–453.
+
+U.S. Pharmacopeia. *Medicine Supply Map: 2023 Report on Pharmaceutical Supply Chain Vulnerability*. USP, 2023.
+
+Fang, Yuqing, and Xiulian Chen. "The Globalization of Active Pharmaceutical Ingredient Manufacturing: Vulnerabilities and Policy Responses." PubMed Central (PMC), 2024.
+
+## Think-Tank, Government, and Press Reports {-}
 
 Rasser, Martijn, et al. "The CHIPS and Science Act: Here Comes the Hardest Part." Center for Strategic and International Studies, August 2022.
-
-Shane, Scott, and Daisuke Wakabayashi. "The Business of War: Google Employees Protest Work for the Pentagon." *The New York Times*, April 4, 2018.
 
 Sullivan, Jake. "Remarks by National Security Advisor Jake Sullivan at the Special Competitive Studies Project Global Emerging Technologies Summit." White House, September 16, 2022.
 
 Triolo, Paul, and Robert Greene. "Will China's Chip Breakthrough Undermine U.S. Tech Restrictions?" Carnegie Endowment for International Peace, September 2023.
 
-Zarate, Juan C. *Treasury's War: The Unleashing of a New Era of Financial Warfare*. Public Affairs, 2013.
-
-Jackson, Van. "Rival Reputations: Coercion and Credibility in U.S.-North Korea Relations." *Cambridge University Press*, 2020.
-
-Rajagopalan, Rajeswari Pillai, and Joel Wuthnow. "India-China Border Tensions: Assessing Strategic Implications for the Region." *ORF Occasional Paper*, 2021.
+Rajagopalan, Rajeswari Pillai, and Joel Wuthnow. "India-China Border Tensions: Assessing Strategic Implications for the Region." Observer Research Foundation Occasional Paper, 2021.
 
 ## Government and International Organization Reports {-}
 
@@ -140,6 +168,14 @@ Xi Jinping. "Secure a Decisive Victory in Building a Moderately Prosperous Socie
 
 余永定 (Yu Yongding). "人民币国际化与资本项目可兑换" [RMB Internationalization and Capital Account Convertibility]. *国际经济评论* [International Economic Review], 2015(4): 49-66.
 
+Chinese Academy of Social Sciences (中国社会科学院). *World Economy Yellow Book 2024: Analysis and Forecast of World Economic Situation* (世界经济黄皮书：2024年世界经济形势分析与预测). Social Sciences Academic Press (China), 2024.
+
+State Council of the People's Republic of China. *Central Economic Work Conference Communiqué, December 2024* (中央经济工作会议公报). Xinhua News Agency release, December 2024; and *Central Economic Work Conference Communiqué, December 2025*, Xinhua News Agency release, December 2025.
+
+Ministry of Commerce of the People's Republic of China. *White Paper on China's Export Controls* (中国的出口管制). State Council Information Office, December 2022.
+
+Rosen, Daniel H. "The Chinese Economy's Reality Check." *Foreign Affairs*, September/October 2023.
+
 ## Data Sources and Databases {-}
 
 Bank for International Settlements (BIS). "Triennial Central Bank Survey of Foreign Exchange and OTC Derivatives Markets." Various years.
@@ -176,13 +212,21 @@ American Enterprise Institute. "China Global Investment Tracker." Various years.
 
 Atlantic Council. "The Rise of Strategic Dependencies: Risks and Responses in a More Contested World." 2022.
 
-Brookings Institution. Various reports on U.S.-China economic relations and technology competition, 2018-2024.
+Dollar, David. "China's Rise as a Regional and Global Power: The AIIB and the 'One Belt, One Road.'" Brookings Institution, Summer 2015.
 
-Carnegie Endowment for International Peace. Various reports on sanctions and economic statecraft, 2015-2024.
+Dollar, David, and Ryan Hass. "Has China Fallen from the Middle Class or is it a US Miscalculation?" Brookings Institution, March 2024.
 
-Center for a New American Security. "Economic Statecraft Series." Various reports, 2019-2024.
+Prasad, Eswar. "Has the Dollar Lost Ground as the Dominant International Currency?" Brookings Institution, September 2023.
 
-Center for Strategic and International Studies. "Renewing America's Advantages" series on semiconductors, advanced manufacturing, and industrial policy, 2021-2024.
+Shih, Gerry, and Lindsay Maizland. "How China Reshaped the Global Internet." Brookings Institution and CFR joint report, 2022.
+
+Lardy, Nicholas R. "The State Strikes Back: The End of Economic Reform in China?" Peterson Institute for International Economics, 2019.
+
+Carnegie Endowment for International Peace. "Senior Fellow Reports on Sanctions Effectiveness and the Russia Campaign." Selected reports, 2022–2025.
+
+Center for a New American Security. "Economic Statecraft Series." Selected reports by Emily Kilcrease, Emily Benson, and Edward Fishman, 2022–2025.
+
+Center for Strategic and International Studies. "Renewing America's Advantages" series on semiconductors, advanced manufacturing, and industrial policy. CSIS, 2021–2025.
 
 Council on Foreign Relations. "Sanctions Tracker." Accessed 2024. https://www.cfr.org/sanctions
 
