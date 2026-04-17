@@ -131,11 +131,11 @@ Contrary to political rhetoric suggesting tariffs "punish" foreign exporters, ec
 
 **Supply Chain Reconfiguration**
 
-Figure 6.5 traces the escalation ladder of the 2018–2025 trade war, superimposing announced tariff actions, retaliatory responses, and negotiated partial pauses.
+Figure 6.2 traces the escalation ladder of the 2018–2025 trade war, superimposing announced tariff actions, retaliatory responses, and negotiated partial pauses.
 
 <figure class="book-figure">
   <img src="../figures/fig_06_05_trade_war_escalation.png" alt="Escalation ladder of the 2018-2025 U.S.-China trade war, showing tariff actions, retaliation rounds, and partial pauses.">
-  <figcaption>Figure 6.5: U.S.–China trade war escalation ladder (2018–2025).</figcaption>
+  <figcaption>Figure 6.2: U.S.–China trade war escalation ladder (2018–2025).</figcaption>
 </figure>
 
 Beyond static trade impacts, tariffs accelerated supply chain reconfiguration. Multinational firms adopted **"China+1" strategies**, diversifying production to Vietnam, Thailand, India, and Mexico to avoid tariffs—Apple, Samsung, Intel, Dell, and HP all announced production shifts. Many of these moves proved durable: once firms incur the sunk costs of relocating production, they are unlikely to reverse those decisions even if tariffs are later reduced or removed. The shift produced clear winners and losers. Vietnam's exports to the U.S. surged from $49 billion (2017) to $115 billion (2023), making it the 8th largest U.S. trade partner (U.S. Census Bureau 2024), while Mexico became the largest U.S. trade partner in 2023 (U.S. Census Bureau 2024), partly from Chinese firms routing production through Mexican plants. On the losing side, Chinese manufacturing employment growth slowed, and sectors like furniture and electronics lost global market share permanently.
@@ -298,11 +298,11 @@ EAR applies extraordinarily broadly:
 3. **Foreign Direct Product (FDP) Rule**: Foreign-made items produced using U.S.-origin technology or software, even if containing no U.S. components
 4. **U.S. persons**: U.S. citizens, permanent residents, and U.S. entities subject to EAR regardless of location
 
-This extraterritorial reach makes EAR a powerful tool: U.S. can restrict foreign sales of foreign-made goods if they contain U.S. technology or were produced using U.S. equipment. Figure 6.2 maps the global reach of the Foreign Direct Product Rule, illustrating how a rule rooted in U.S. origin extends de facto jurisdiction over chip fabs in Taiwan, Korea, the Netherlands, and Japan.
+This extraterritorial reach makes EAR a powerful tool: U.S. can restrict foreign sales of foreign-made goods if they contain U.S. technology or were produced using U.S. equipment. Figure 6.4 maps the global reach of the Foreign Direct Product Rule, illustrating how a rule rooted in U.S. origin extends de facto jurisdiction over chip fabs in Taiwan, Korea, the Netherlands, and Japan.
 
 <figure class="book-figure">
   <img src="../figures/fig_06_02_fdpr_reach.png" alt="Global reach of the U.S. Foreign Direct Product Rule, highlighting fabs and firms worldwide that produce items subject to U.S. export controls because they use U.S.-origin technology or software.">
-  <figcaption>Figure 6.2: Extraterritorial reach of the Foreign Direct Product Rule.</figcaption>
+  <figcaption>Figure 6.4: Extraterritorial reach of the Foreign Direct Product Rule.</figcaption>
 </figure>
 
 **Commerce Control List (CCL)**
@@ -541,7 +541,7 @@ China enacted Export Control Law (2020) establishing authority to:
 
 <figure class="book-figure">
   <img src="../figures/fig_06_04_rare_earth_retaliation.png" alt="Chinese critical-mineral and rare-earth export retaliation measures 2010-2025, showing targeted controls on gallium, germanium, graphite, and antimony alongside global production shares.">
-  <figcaption>Figure 6.4: Chinese critical-mineral export restrictions and retaliation, 2010–2025.</figcaption>
+  <figcaption>Figure 6.5: Chinese critical-mineral export restrictions and retaliation, 2010–2025.</figcaption>
 </figure>
 
 **Unreliable Entity List (不可靠实体清单, bù kě kào shítǐ qīngdān)**

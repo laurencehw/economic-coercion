@@ -46,7 +46,7 @@ These hub positions create what Farrell and Newman call "panopticon" and "chokep
 
 <figure class="book-figure">
   <img src="../figures/fig_01_05_interdependence_network.png" alt="Network diagram of weaponized interdependence showing U.S. and Chinese hub positions across finance, technology, energy, and digital infrastructure.">
-  <figcaption>Figure 1.5: Weaponized interdependence — hub positions of the United States and China across critical economic networks.</figcaption>
+  <figcaption>Figure 1.1: Weaponized interdependence — hub positions of the United States and China across critical economic networks.</figcaption>
 </figure>
 
 The result is a fundamental tension. Economic integration does constrain: sanctioning China's semiconductor industry imposes costs on American firms (lost sales, reduced economies of scale) and allies (disrupted supply chains, technology restrictions). But integration also empowers: without reliance on U.S. semiconductor equipment, American controls would have no bite. The same interdependence that creates peace constituencies also creates coercive leverage.
@@ -164,7 +164,7 @@ The 2017 National Security Strategy designated China a "strategic competitor" se
 
 <figure class="book-figure">
   <img src="../figures/fig_01_04_timeline.png" alt="Timeline of Major Economic Coercion Events">
-  <figcaption>Figure 1.4: Timeline of Major Economic Coercion Events</figcaption>
+  <figcaption>Figure 1.3: Timeline of Major Economic Coercion Events</figcaption>
 </figure>
 
 The Trump administration imposed tariffs covering ~$370 billion in Chinese imports; China retaliated against American agriculture and industrial goods. But tariffs were the most visible, not the most consequential, component. The 2018 ECRA and FIRRMA expanded technology export controls and investment screening. Entity List additions blocked Huawei, ZTE, SMIC, and YMTC from American technology. The October 2022 semiconductor controls represented the culmination—comprehensive capability-based restrictions analyzed in Chapter 4.
@@ -272,7 +272,7 @@ For roughly three decades after 1978, Chinese foreign-economic strategy operated
 
 **1. Economic coercion as "bullying" (经济霸凌, jīngjì bàlíng).** Chinese official and academic commentary frames Western sanctions, export controls, and investment screening not as neutral regulatory tools but as a coordinated effort to "contain" (遏制, èzhì) China's legitimate development. The Ministry of Commerce's 2022 *White Paper on China's Export Controls* and subsequent statements position the Entity List, FDPR, and ICTS restrictions as discriminatory protectionism dressed in national-security language. This framing shapes Chinese counter-measures — the Unreliable Entity List, Anti-Foreign Sanctions Law (2021), and rare-earth/gallium/germanium/graphite/antimony export controls (2023–2024) — which Beijing presents as mirror-image responses rather than escalation.
 
-**2. Self-reliance as strategic imperative (科技自立自强, kējì zìlì zìqiáng).** Chinese strategic thinking treats dependency on Western technology as a survival-level risk, not merely an efficiency problem. The lesson drawn from the 1960 Soviet withdrawal of technical advisors, the post-1989 arms embargo, and the 2019–2024 U.S. semiconductor controls is the same: foreign suppliers will condition access on political compliance when stakes are high enough. The response — massive state investment through the "Big Fund" (国家集成电路产业投资基金), Made in China 2025 sectoral targets, and the post-2023 "new productive forces" (新质生产力, xīn zhì shēnglì) framework — treats indigenous capability as a form of strategic insurance whose value justifies substantial economic inefficiency.
+**2. Self-reliance as strategic imperative (科技自立自强, kējì zìlì zìqiáng).** Chinese strategic thinking treats dependency on Western technology as a survival-level risk, not merely an efficiency problem. The lesson drawn from the 1960 Soviet withdrawal of technical advisors, the post-1989 arms embargo, and the 2019–2024 U.S. semiconductor controls is the same: foreign suppliers will condition access on political compliance when stakes are high enough. The response — massive state investment through the "Big Fund" (国家集成电路产业投资基金), Made in China 2025 sectoral targets, and the post-2023 "new productive forces" (新质生产力, xīn zhì shēngchǎnlì) framework — treats indigenous capability as a form of strategic insurance whose value justifies substantial economic inefficiency.
 
 **3. Comprehensive national power (综合国力, zōnghé guólì).** Beijing explicitly rejects the separation of "economics" and "security" that structures most Western analysis. Chinese strategic documents treat economic scale, technological frontier position, military modernization, discursive power (话语权, huàyǔ quán), and cultural influence as facets of a single variable. This integration has two operational consequences that Western policymakers often miss. First, economic costs imposed on China are tolerated at levels that would be politically unsustainable in most democracies if Beijing judges that capability gains or sovereignty protections justify them (Rosen 2023). Second, seemingly "commercial" decisions — BRI project financing, standards-setting in ITU and IEC, CBDC pilots through mBridge — are evaluated by Beijing for their contribution to comprehensive power, not narrow returns.
 
@@ -288,7 +288,7 @@ Analyzing specific instances of economic coercion requires systematic analytical
 
 <figure class="book-figure">
   <img src="../figures/fig_01_01_framework.png" alt="Conceptual Framework for Analyzing Economic Coercion">
-  <figcaption>Figure 1.1: Conceptual Framework for Analyzing Economic Coercion</figcaption>
+  <figcaption>Figure 1.4: Conceptual Framework for Analyzing Economic Coercion</figcaption>
 </figure>
 
 ### Four Dimensions of Economic Coercion
@@ -353,11 +353,11 @@ Beyond the mechanics of economic coercion, several strategic factors shape effec
 
 This book examines economic coercion in the context of US-China strategic competition through ten chapters organized into four parts. Each chapter applies the conceptual framework developed above, includes government tools boxes explaining specific authorities, presents Chinese and other relevant perspectives, analyzes case studies, and provides tabletop exercises for active learning.
 
-Figure 1.3 previews the full "toolbox" of instruments covered in the chapters that follow, grouped by the four domains introduced above (trade, finance, investment, and technology).
+Figure 1.5 previews the full "toolbox" of instruments covered in the chapters that follow, grouped by the four domains introduced above (trade, finance, investment, and technology).
 
 <figure class="book-figure">
   <img src="../figures/fig_01_03_toolbox_diagram.png" alt="Toolbox diagram of instruments of economic statecraft, organized by domain (trade, finance, investment, technology) and coercion intensity.">
-  <figcaption>Figure 1.3: The economic-statecraft toolbox — instruments by domain and intensity, previewing the subsequent chapters.</figcaption>
+  <figcaption>Figure 1.5: The economic-statecraft toolbox — instruments by domain and intensity, previewing the subsequent chapters.</figcaption>
 </figure>
 
 **Part I: Foundations and Context** (Chapters 1-2) establishes conceptual foundations and examines the structural basis of economic coercion. This chapter has provided definitions, historical context, and analytical frameworks. Chapter 2 examines supply chain vulnerabilities and dependencies—the physical infrastructure of weaponized interdependence. It maps where chokepoints exist (semiconductor manufacturing, rare earth processing, pharmaceutical ingredients), how they developed, and how states are attempting to reduce critical dependencies through reshoring, friend-shoring, and diversification.

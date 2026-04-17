@@ -608,21 +608,21 @@ Governments sometimes impose sanctions to appear active while avoiding difficult
 
 <figure class="book-figure">
   <img src="../figures/fig_09_03_sanctions_success.png" alt="Sanctions success rates by objective and era, showing variation based on goal type and historical period.">
-  <figcaption>Figure 9.3: Sanctions success rates by objective and era, showing variation based on goal type and historical period.</figcaption>
+  <figcaption>Figure 9.2: Sanctions success rates by objective and era, showing variation based on goal type and historical period.</figcaption>
 </figure>
 
-A **decision framework** for selecting coercive instruments is summarized in Figure 9.4, which distils the lessons of the historical cases into a branching logic keyed on objective type (compellence vs. denial), target regime type, and availability of multilateral support.
+A **decision framework** for selecting coercive instruments is summarized in Figure 9.3, which distils the lessons of the historical cases into a branching logic keyed on objective type (compellence vs. denial), target regime type, and availability of multilateral support.
 
 <figure class="book-figure">
   <img src="../figures/fig_09_04_sanctions_decision_tree.png" alt="Decision tree for selecting economic coercion instruments given objectives, target characteristics, and coalition support.">
-  <figcaption>Figure 9.4: Decision tree for selecting among economic coercion instruments, synthesizing lessons from historical cases.</figcaption>
+  <figcaption>Figure 9.3: Decision tree for selecting among economic coercion instruments, synthesizing lessons from historical cases.</figcaption>
 </figure>
 
-Figure 9.5 aggregates observed outcomes across the major twentieth- and twenty-first-century sanctions episodes covered in this chapter, contrasting stated objectives against realized political outcomes.
+Figure 9.4 aggregates observed outcomes across the major twentieth- and twenty-first-century sanctions episodes covered in this chapter, contrasting stated objectives against realized political outcomes.
 
 <figure class="book-figure">
   <img src="../figures/fig_09_05_historical_outcomes.png" alt="Historical outcomes of major sanctions regimes, comparing stated objectives with realized political and economic effects.">
-  <figcaption>Figure 9.5: Historical outcomes across major sanctions regimes, stated objectives vs. realized effects.</figcaption>
+  <figcaption>Figure 9.4: Historical outcomes across major sanctions regimes, stated objectives vs. realized effects.</figcaption>
 </figure>
 
 **Measurement challenges**:

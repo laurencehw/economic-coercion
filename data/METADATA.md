@@ -1,6 +1,6 @@
 # Dataset Provenance and Metadata {-}
 
-This file documents the source, coverage, and known limitations of each dataset under `data/sources/`. Figures rendered in `figures/` are built from these files via scripts in `R/figures/`. Access dates are given in ISO-8601 format; where a series is maintained by a public agency, readers should re-fetch for current vintages.
+This file documents the source, coverage, and known limitations of each dataset under `data/sources/`. Figures rendered in `figures/` are built from these files via scripts in `R/figures/`. Access dates below are given to month precision (YYYY-MM) because most underlying series are monthly or annual; where a series is maintained by a public agency, readers should re-fetch for current vintages.
 
 ---
 

@@ -44,7 +44,17 @@ Jackson, Van. *Rival Reputations: Coercion and Credibility in US-North Korea Rel
 
 Zarate, Juan C. *Treasury's War: The Unleashing of a New Era of Financial Warfare*. PublicAffairs, 2013.
 
-## Journal Articles {-}
+Early, Bryan R. *Busted Sanctions: Explaining Why Economic Sanctions Fail*. Stanford University Press, 2015.
+
+Gordon, Joy. *Invisible War: The United States and the Iraq Sanctions*. Harvard University Press, 2010.
+
+Biersteker, Thomas J., Sue E. Eckert, and Marcos Tourinho, eds. *Targeted Sanctions: The Impacts and Effectiveness of United Nations Action*. Cambridge University Press, 2016.
+
+Lester, Simon, Bryan Mercurio, and Arwel Davies. *World Trade Law: Text, Materials and Commentary*. 3rd ed. Hart Publishing, 2018.
+
+Acosta, Alberto. "Extractivism and Neoextractivism: Two Sides of the Same Curse." In *Beyond Development: Alternative Visions from Latin America*, edited by Miriam Lang and Dunia Mokrani, 61–86. Transnational Institute / Rosa Luxemburg Foundation, 2013.
+
+## Journal Articles and Reports {-}
 
 Allen, Gregory C. "Choking Off China's Access to the Future of AI." Center for Strategic and International Studies, October 2022.
 
@@ -88,17 +98,15 @@ Cavallo, Alberto, Gita Gopinath, Brent Neiman, and Jenny Tang. "Tariff Pass-Thro
 
 Bapat, Navin A., and T. Clifton Morgan. "Multilateral Versus Unilateral Sanctions Reconsidered: A Test Using New Data." *International Studies Quarterly* 53, no. 4 (2009): 1075–1094.
 
-Early, Bryan R. *Busted Sanctions: Explaining Why Economic Sanctions Fail*. Stanford University Press, 2015.
-
-Gordon, Joy. *Invisible War: The United States and the Iraq Sanctions*. Harvard University Press, 2010.
-
 Mastanduno, Michael. "Economic Statecraft, Interdependence, and National Security: Agendas for Research." In *Power and the Purse: Economic Statecraft, Interdependence, and National Security*, edited by Jean-Marc F. Blanchard, Edward D. Mansfield, and Norrin M. Ripsman. Frank Cass, 2000.
 
 Felbermayr, Gabriel, Aleksandra Kirilakha, Constantinos Syropoulos, Erdal Yalcin, and Yoto V. Yotov. "The Global Sanctions Data Base." *European Economic Review* 129 (2020): 103561.
 
-Biersteker, Thomas J., Sue E. Eckert, and Marcos Tourinho, eds. *Targeted Sanctions: The Impacts and Effectiveness of United Nations Action*. Cambridge University Press, 2016.
+Hickel, Jason, and Dylan Sullivan. "How the Rich Are Robbing the Poor: Unequal Exchange and the Global Metabolism of Capitalism." *New Political Economy* 29, no. 3 (2024): 433–453.
 
-Lester, Simon, Bryan Mercurio, and Arwel Davies. *World Trade Law: Text, Materials and Commentary*. 3rd ed. Hart Publishing, 2018.
+U.S. Pharmacopeia. *Medicine Supply Map: 2023 Report on Pharmaceutical Supply Chain Vulnerability*. USP, 2023.
+
+Fang, Yuqing, and Xiulian Chen. "The Globalization of Active Pharmaceutical Ingredient Manufacturing: Vulnerabilities and Policy Responses." PubMed Central (PMC), 2024.
 
 ## Think-Tank, Government, and Press Reports {-}
 
@@ -159,6 +167,14 @@ State Council Information Office, PRC. "China's International Development Cooper
 Xi Jinping. "Secure a Decisive Victory in Building a Moderately Prosperous Society in All Respects and Strive for the Great Success of Socialism with Chinese Characteristics for a New Era." Report to the 19th National Congress of the Communist Party of China, October 2017.
 
 余永定 (Yu Yongding). "人民币国际化与资本项目可兑换" [RMB Internationalization and Capital Account Convertibility]. *国际经济评论* [International Economic Review], 2015(4): 49-66.
+
+Chinese Academy of Social Sciences (中国社会科学院). *World Economy Yellow Book 2024: Analysis and Forecast of World Economic Situation* (世界经济黄皮书：2024年世界经济形势分析与预测). Social Sciences Academic Press (China), 2024.
+
+State Council of the People's Republic of China. *Central Economic Work Conference Communiqué, December 2024* (中央经济工作会议公报). Xinhua News Agency release, December 2024; and *Central Economic Work Conference Communiqué, December 2025*, Xinhua News Agency release, December 2025.
+
+Ministry of Commerce of the People's Republic of China. *White Paper on China's Export Controls* (中国的出口管制). State Council Information Office, December 2022.
+
+Rosen, Daniel H. "The Chinese Economy's Reality Check." *Foreign Affairs*, September/October 2023.
 
 ## Data Sources and Databases {-}
 

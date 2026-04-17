@@ -170,11 +170,11 @@ Decarbonization requires massive increases in specific mineral production (IEA 2
 
 **New Dependencies Replace Old**
 
-Figure 10.5 visualizes the relocation of strategic dependencies: legacy hydrocarbon exposure concentrated in OPEC and Russia shifts toward critical-mineral processing concentrated overwhelmingly in the People's Republic of China.
+Figure 10.2 visualizes the relocation of strategic dependencies: legacy hydrocarbon exposure concentrated in OPEC and Russia shifts toward critical-mineral processing concentrated overwhelmingly in the People's Republic of China.
 
 <figure class="book-figure">
   <img src="../figures/fig_10_05_new_dependencies.png" alt="Shift in strategic dependencies from hydrocarbons to critical minerals, comparing OPEC's historical oil share with China's current processing share of lithium, cobalt, and rare earths.">
-  <figcaption>Figure 10.5: From oil to minerals — the relocation of strategic dependencies in the energy transition.</figcaption>
+  <figcaption>Figure 10.2: From oil to minerals — the relocation of strategic dependencies in the energy transition.</figcaption>
 </figure>
 
 Transitioning from fossil fuels to renewables doesn't eliminate strategic dependencies—it relocates them. We trade the oil sheikhs for the lithium barons:
