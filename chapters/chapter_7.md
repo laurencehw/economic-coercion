@@ -427,7 +427,7 @@ Launched 2015, CIPS processes cross-border renminbi (RMB) payments, positioning 
 - 1,573 indirect participants
 - Participants in 124 countries and regions; business coverage across 5,000+ banking institutions in 190 countries and regions
 
-**Volume**: Daily average ~$50-60 billion (2024), up from ~$5 billion (2018). However, SWIFT processes ~$5-7 trillion daily—CIPS is 1% of SWIFT volume.
+**Volume**: CIPS processed approximately RMB 175 trillion in 2024 (about USD 24 trillion at end-2024 exchange rates), implying a daily value throughput of roughly USD 65–95 billion on trading days — up from an equivalent of roughly USD 5 billion daily in 2018 (People's Bank of China 2025; CIPS Annual Report 2024). For comparison, SWIFT carries messaging for an estimated USD 5–7 trillion in daily cross-border value across all currencies. The gap is wider than a headline comparison suggests, because a significant share of CIPS flows still ride on SWIFT messaging rails (discussed below) and because SWIFT is a messaging service while CIPS combines messaging with settlement. A conservative way to read the ratio: CIPS-native value is on the order of ~1–2% of SWIFT's total cross-currency throughput, though that share is rising quickly.
 
 **Currency settlement**: Only RMB-denominated transactions. Cannot process dollar, euro, or multi-currency transactions like SWIFT.
 
@@ -793,7 +793,7 @@ China systematically developing alternatives to U.S.-dominated financial systems
 **Cross-Border Interbank Payment System (CIPS)**:
 - Launched 2015 to process RMB cross-border payments
 - 193 direct participants, 1,573 indirect participants (as of December 2025)
-- Daily volume ~$50-60 billion (growing but still 1% of SWIFT)
+- Annual throughput ~USD 24 trillion in 2024 (RMB 175 trillion), implying daily value of ~USD 65–95 billion on trading days; ~1–2% of SWIFT cross-currency throughput, but growing 40%+ year-on-year
 - Eventually aims for full independence from SWIFT messaging
 
 **Digital Yuan (e-CNY)**:

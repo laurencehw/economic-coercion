@@ -348,6 +348,20 @@ The fundamental challenge is that both the United States and China view resource
 
 ---
 
+## Global South Perspective Box: Resource Sovereignty and the "Refusal to Choose"
+
+*A preview; Chapters 8 and 10 return to Global South agency in the context of BRI, industrial policy, and scenario analysis.*
+
+**Resource sovereignty as unfinished decolonization.** For most resource-exporting states in the Global South, the contemporary debate over "critical minerals" is a second episode of a much older story. The first — copper in Chile and Zambia, oil in the Middle East and Venezuela, bauxite in Jamaica and Guinea — produced the 1974 UN General Assembly Declaration on the Establishment of a New International Economic Order and its companion Charter of Economic Rights and Duties of States, both asserting permanent sovereignty over natural resources and the right to nationalize, regulate, or condition foreign investment. That project was largely absorbed into the post-1980 Washington Consensus. Today's actors — Indonesia (nickel export ban, 2020), Chile (lithium nationalization, 2023), Zimbabwe (lithium concentrate export ban, 2022), Mexico (lithium nationalization, 2022), Bolivia (long-standing state lithium policy), and the DRC (cobalt smuggling crackdowns and revised mining code) — draw an explicit line of descent from that earlier NIEO vocabulary (Acosta 2013; Hickel and Sullivan 2024).
+
+**The "refusal to choose."** A defining feature of Global South behavior in the current competition is strategic non-alignment — what South African, Indonesian, Brazilian, and Indian officials have variously described as the "refusal to choose" between Washington and Beijing. This is not neutrality in a classical Non-Aligned-Movement sense. It is a calculated extraction of concessions from both patrons: accepting U.S. security assistance and development finance (DFC, PGII, Build Back Better World) while simultaneously accepting Chinese infrastructure financing (BRI, AIIB), buying Russian oil at discounts (India), trading in non-dollar currencies with China (Brazil, Argentina), and resisting secondary-sanctions pressure on Iran and Russia trade (UAE, Türkiye, India). Empirically, BRICS-plus expansion (to include Iran, UAE, Egypt, Ethiopia, Indonesia) and the proliferation of bilateral currency-swap agreements indicate that the refusal-to-choose posture is strengthening rather than weakening.
+
+**Asymmetric costs of Western coercion.** From a Global South vantage, the costs of Western economic coercion on third parties are systematically under-weighted in U.S. and European policy. Secondary sanctions on Iran raised food and fuel prices across South Asia and the Gulf; the Russia sanctions regime spiked wheat and fertilizer prices across North Africa and Sub-Saharan Africa, deepening food insecurity reported by WFP and FAO; COVID-era export restrictions on PPE and vaccines from wealthy states and China alike hit low-income importers hardest (WFP 2023; FAO 2024). These spillovers inform Global South skepticism toward "rules-based order" language when rule-making bodies (UNSC, WTO Appellate Body, IMF quotas) do not reflect Global South representation.
+
+**Implications for effective Western statecraft.** Three operational lessons follow for U.S. and European policymakers. First, **Global South states are players, not tokens** — their domestic political economies, electoral cycles, and regional rivalries determine alignment at least as much as great-power pressure. Second, **infrastructure and industrial finance offers, not sanctions threats, are the binding constraint** on alignment in most cases: countries that can borrow elsewhere will. Third, **humanitarian spillovers of sanctions are strategic costs, not side effects** — they erode Global South support for the sanctioning coalition, often durably. Chapters 7 and 8 return to these dynamics in the specific contexts of financial sanctions, BRI debt, and industrial-policy subsidy competition.
+
+---
+
 ## Data Sources and Further Research
 
 **Food Security and Agriculture:**

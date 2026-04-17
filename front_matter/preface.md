@@ -40,6 +40,8 @@ Chapter 9 examines historical cases of economic coercion to extract lessons abou
 
 **Appendix A: Tabletop Exercises** collects ten scenario-based simulation exercises (one per chapter) in a standalone appendix, providing 60-90 minute active learning experiences that can be used flexibly alongside any chapter.
 
+**Companion Game — EconWar.** A browser-based strategy game, *EconWar* ([econwar.vercel.app](https://econwar.vercel.app/)), accompanies this book. It allows readers to move beyond the instructor-led tabletop exercises and play out economic-coercion scenarios from multiple national perspectives — U.S., Chinese, European, and Global South — operationalizing the four-dimension framework developed in Chapter 1. The game is designed to be used either as a self-directed supplement to the tabletops in Appendix A or as an in-class complement that compresses a full tabletop into a shorter, solo or small-group session.
+
 ## How to Use This Book
 
 **For Instructors:**
@@ -96,4 +98,4 @@ This book provides the tools to think systematically about economic coercion: it
 
 **Laurence Wilse-Samson**
 Columbia School of International and Public Affairs
-November 2025
+November 2025 (revised April 2026)

@@ -1,11 +1,19 @@
 # Economic Coercion: A Handbook of Strategic Competition
 
 **Author:** Laurence Wilse-Samson
-**Affiliation:** NYU Wagner School of Public Policy
+**Affiliation:** Columbia School of International and Public Affairs (SIPA)
 
 ---
 
 This comprehensive textbook examines economic coercion by states in the context of strategic competition, with primary focus on US-China rivalry and applications to other geographies including US-Soviet Cold War cases and contemporary examples. The book combines academic rigor with practical policy relevance.
+
+## Companion Game
+
+A companion browser-based strategy game, **EconWar**, lets readers play out economic-coercion scenarios from multiple national perspectives — including U.S., Chinese, European, and Global South decision-makers — operationalizing the frameworks developed in this book.
+
+Play the game: [econwar.vercel.app](https://econwar.vercel.app/)
+
+The game is designed to be used alongside the tabletop exercises in Appendix A, allowing readers to move from structured classroom simulations to open-ended solo play.
 
 ## Purpose
 
@@ -29,4 +37,4 @@ Each chapter includes:
 
 ---
 
-*Last Updated: January 2026*
+*Last Updated: April 2026*

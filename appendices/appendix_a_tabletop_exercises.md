@@ -3,6 +3,15 @@
 
 This appendix collects all ten tabletop exercises from the book. Each exercise is a self-contained 60-90 minute scenario designed for classroom use, policy workshops, or professional development. Exercises are listed in chapter order and cross-reference the analytical frameworks and case material from their corresponding chapters.
 
+## Companion Game: EconWar {-}
+
+A browser-based strategy game, **EconWar** ([econwar.vercel.app](https://econwar.vercel.app/)), extends the exercises in this appendix to solo and small-group play from multiple national perspectives — U.S., Chinese, European, and Global South. The game operationalizes the four-dimension framework (domain, target, objective, intensity) and the five effectiveness criteria from Chapter 1, and is particularly useful for:
+
+- **Red-teaming the tabletops below.** After playing a U.S.-centered NSC tabletop, students can run the same scenario in EconWar from the PRC, EU, or Global South seat to surface blind spots in the centered American perspective.
+- **Asynchronous / flipped classroom use.** Instructors can assign a 30-minute EconWar session before class to prime students on constraints and trade-offs before a live tabletop.
+- **Comparative case analysis.** Playing multiple EconWar scenarios in sequence lets students compare how the same tool (e.g., secondary sanctions) performs under different targets, objectives, and coalition structures.
+
+Throughout this appendix, look for the **"→ EconWar variant"** pointer at the end of each exercise, which suggests a complementary scenario to run in the game.
 
 ---
 
