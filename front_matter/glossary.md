@@ -122,6 +122,14 @@
 
 **Denial**: Strategy of preventing an adversary from obtaining or using capabilities (e.g., advanced chips) through export controls, investment screening, or technology blockades — contrasted with cost-imposition strategies.
 
+**Containment**: Coercive objective that seeks to degrade or limit a target's capabilities over time rather than extract a specific concession; the rationale behind technology export controls aimed at slowing a rival's development.
+
+**Signaling**: Coercive objective in which a measure's main purpose is to communicate resolve, values, or alliance commitment to domestic or international audiences rather than to change the target's behavior directly.
+
+**Four-Dimension Framework**: The scheme used throughout this book (developed in Chapter 1) for describing any instance of economic coercion along four dimensions: domain (trade, finance, investment, technology), target (state, sector, entity, or individual), objective (deterrence, compellence, containment, signaling, or regime change), and intensity (a five-level spectrum from diplomatic pressure to economic warfare).
+
+**Effectiveness Criteria**: The five standards used in this book to judge whether a coercive episode succeeds: target compliance, capability degradation, cost imposition, sustainability, and collateral damage. Distinct from the four descriptive dimensions, since an episode may satisfy some criteria while failing others.
+
 **Belt and Road Initiative (BRI, 一带一路, yīdài yīlù)**: China's international infrastructure and development strategy launched in 2013, encompassing ~150 countries and combining the Silk Road Economic Belt (overland) and 21st Century Maritime Silk Road.
 
 **Military-Civil Fusion (军民融合, jūnmín rónghé)**: Chinese national strategy formalized under Xi Jinping integrating civilian and defense industrial bases, particularly in dual-use technologies (AI, quantum, biotech, aerospace).

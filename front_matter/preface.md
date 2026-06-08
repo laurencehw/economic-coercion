@@ -2,7 +2,7 @@
 
 ## Purpose and Motivation
 
-Economic coercion has emerged as one of the defining features of 21st-century international relations. From sweeping sanctions on Russia following its invasion of Ukraine to export controls on advanced semiconductors to China, from the weaponization of the SWIFT financial messaging system to strategic dependencies in critical mineral supply chains, governments increasingly use economic tools to achieve foreign policy objectives that once required military force or diplomatic pressure alone.
+Economic coercion has become one of the defining features of 21st-century international relations. From the sanctions imposed on Russia after its invasion of Ukraine to export controls on advanced semiconductors bound for China, and from the weaponization of the SWIFT financial messaging system to the strategic dependencies embedded in critical mineral supply chains, governments increasingly use economic tools to pursue objectives that once required military force or diplomatic pressure alone.
 
 This textbook provides a comprehensive introduction to the theory, practice, and evolving landscape of economic coercion in an era of intensifying great power competition. It is designed for graduate students, policy practitioners, and anyone seeking to understand how economic interdependence—long celebrated as a force for peace and prosperity—has become simultaneously a source of leverage, vulnerability, and strategic contestation.
 
@@ -26,7 +26,7 @@ The book is organized into ten chapters that build progressively from foundation
 
 **Part I: Foundations and Domains (Chapters 1-5)**
 
-Chapter 1 introduces the analytical framework that guides the entire book, defining economic coercion and examining it across four key dimensions: instruments and tools, objectives and goals, target characteristics, and effectiveness factors. This framework provides a systematic way to analyze any case of economic coercion.
+Chapter 1 introduces the analytical framework that guides the entire book. It defines economic coercion and sets out the four dimensions along which any case can be described: the domain in which coercion operates (trade, finance, investment, technology), the target (from entire states down to individual officials), the objective (deterrence, compellence, containment, signaling, or regime change), and the intensity of the measures (a spectrum from diplomatic pressure to full economic warfare). A separate set of five criteria—target compliance, capability degradation, cost imposition, sustainability, and collateral damage—is then used to assess whether a given episode succeeds.
 
 Chapters 2-5 examine critical domains where economic coercion operates: global supply chains (semiconductors, critical minerals, rare earths), critical sectors (energy, food, infrastructure chokepoints), high-technology competition (AI, quantum computing, biotechnology), and the information and digital sphere (telecommunications networks, data governance, standards-setting).
 
@@ -90,9 +90,9 @@ Special thanks are due to the many researchers, policy analysts, and economists 
 
 ## Looking Ahead
 
-Economic coercion is not a passing phenomenon but a central feature of international politics in an era of renewed great power competition. Understanding how it works—and how it doesn't—is essential for anyone seeking to navigate the increasingly turbulent waters of 21st-century global affairs.
+Economic coercion is now a central feature of international politics in an era of renewed great power competition, and it is unlikely to recede. Understanding how it works, and how often it fails, has become part of the basic equipment for thinking about global affairs.
 
-This book provides the tools to think systematically about economic coercion: its logic, its instruments, its effectiveness, and its future. Whether you are a student, practitioner, business leader, or engaged citizen, I hope it equips you to analyze these critical issues with rigor, nuance, and strategic insight.
+This book aims to provide that equipment: a systematic way to reason about the logic of economic coercion, the instruments through which it operates, the conditions under which it succeeds, and the directions in which it is heading. I hope readers come away able to analyze these questions with more precision and less reflexive certainty than the public debate usually allows.
 
 ---
 
