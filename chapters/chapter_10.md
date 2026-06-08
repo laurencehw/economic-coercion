@@ -31,7 +31,7 @@ The U.S. dollar's role as global reserve currency and dominant medium of exchang
 
 **Current Dollar Dominance**
 
-As of 2025Q3 and December 2025, the dollar's dominance spans every dimension of international finance. It comprises 56.92% of allocated global foreign exchange reserves (down from 71% in 2000, IMF COFER Data Brief published December 19, 2025), and SWIFT payment data (published January 2026 for December 2025 flows) shows USD at 50.49% of global payment value and 58.62% when euro-area internal payments are excluded. The dollar's role in foreign exchange markets remains even more pronounced, representing roughly 90% of FX transactions globally, and over 60% of international bonds and loans remain dollar-denominated.
+As of 2025Q3 and December 2025, the dollar's dominance spans every dimension of international finance. It comprises 56.92% of allocated global foreign exchange reserves (down from 71% in 2000, IMF COFER Data Brief published December 19, 2025), and SWIFT payment data (published January 2026 for December 2025 flows) shows USD at 50.49% of global payment value and 58.62% when euro-area internal payments are excluded. The dollar's role in foreign exchange markets remains even more pronounced, representing roughly 90% of FX transactions globally, and over 60% of international bonds and loans remain dollar-denominated (BIS 2022; Prasad 2023).
 
 This dominance provides U.S. with:
 - **Seigniorage**: Profit from printing currency used globally

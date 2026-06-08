@@ -24,7 +24,7 @@ Tariffs, taxes on imported goods, are the oldest form of trade policy, predating
 
 The United States employs multiple statutory authorities to impose tariffs, each with distinct procedural requirements, substantive standards, and strategic applications. Three statutes have been central to the trade war era (detailed legal analysis of each appears in the Government Tools Boxes later in this chapter):
 
-**Section 232 of the Trade Expansion Act of 1962** (19 U.S.C. § 1862) authorizes the President to adjust imports threatening national security, a broad authority requiring no congressional approval. The Trump administration expansively interpreted "national security" to include economic security, using Section 232 to impose 25% tariffs on steel imports (March 2018) and 10% on aluminum imports, affecting imports from close allies including the European Union, Canada, and Mexico. The Biden administration maintained these tariffs while negotiating exceptions for allies, demonstrating bipartisan acceptance of broad Section 232 application. (See *Government Tools Box 1: Section 232 of the Trade Expansion Act.*)
+**Section 232 of the Trade Expansion Act of 1962** (19 U.S.C. § 1862) authorizes the President to adjust imports threatening national security, a broad authority requiring no congressional approval. The Trump administration expansively interpreted "national security" to include economic security, using Section 232 to impose 25% tariffs on steel imports (March 2018) and 10% on aluminum imports, affecting imports from close allies including the European Union, Canada, and Mexico (Bown and Kolb 2021). The Biden administration maintained these tariffs while negotiating exceptions for allies, demonstrating bipartisan acceptance of broad Section 232 application. (See *Government Tools Box 1: Section 232 of the Trade Expansion Act.*)
 
 {% hint style="warning" %}
 **Precedent Alert: The "National Security" Loophole**
@@ -60,7 +60,7 @@ By year-end, U.S. tariffs affected $250 billion in Chinese imports; Chinese reta
 - **August 2019**: China allows yuan to depreciate below 7.0 per dollar; U.S. Treasury designates China a "currency manipulator"
 - **September 2019**: U.S. imposes 15% tariffs on $112 billion (consumer electronics, apparel, footwear); delays tariffs on remainder
 
-Peak U.S. tariff levels: 25% on $250 billion in imports, 15% on $112 billion, affecting $362 billion total (66% of U.S. imports from China). China retaliated with tariffs ranging from 5% to 25% on $185 billion in U.S. exports (over 70% of U.S. exports to China).
+Peak U.S. tariff levels: 25% on $250 billion in imports, 15% on $112 billion, affecting $362 billion total (66% of U.S. imports from China). China retaliated with tariffs ranging from 5% to 25% on $185 billion in U.S. exports (over 70% of U.S. exports to China) (Bown and Kolb 2021).
 
 **Phase 3: "Phase One" Agreement (2020)**
 
@@ -329,7 +329,7 @@ Items not on CCL are designated **EAR99**, low-technology consumer goods general
 
 **Entity List: Targeted Denials**
 
-The **Commerce Department's Entity List** (Supplement No. 4 to Part 744 of the Export Administration Regulations) identifies foreign entities subject to specific license requirements due to proliferation concerns, weapons development, human rights violations, or other national security threats. The China-focused portion of the list has continued to expand; in March 2025 alone, BIS added 80 entities globally, with more than 50 entries from China, including:
+The **Commerce Department's Entity List** (Supplement No. 4 to Part 744 of the Export Administration Regulations) identifies foreign entities subject to specific license requirements due to proliferation concerns, weapons development, human rights violations, or other national security threats. The China-focused portion of the list has continued to expand; in March 2025 alone, BIS added 80 entities globally, with more than 50 entries from China (BIS 2025), including:
 
 - **Huawei Technologies** (2019): Telecommunications equipment and services, security and foreign policy concerns
 - **SMIC (Semiconductor Manufacturing International Corporation)** (2020): China's leading chip manufacturer, military diversion risk
@@ -473,7 +473,7 @@ Technologies with strong network effects create lock-in that unilateral controls
 
 Some goods lack ready substitutes due to technical complexity or economies of scale:
 
-- **Rare earth processing** (China): Despite rare earths mined globally, China processes 85%. Chinese export restrictions force others to develop processing (slow, expensive, environmentally challenging) or pay premium prices.
+- **Rare earth processing** (China): Despite rare earths mined globally, China processes 85% (USGS 2024). Chinese export restrictions force others to develop processing (slow, expensive, environmentally challenging) or pay premium prices.
 - **Pharmaceutical precursors**: Consolidation of API production in China/India creates dependencies exploitable through export restrictions
 - **Specialized aerospace components**: Single-source suppliers for certain aircraft and satellite components enable unilateral controls
 
@@ -919,7 +919,7 @@ The **Entity List** identifies foreign persons posing national security risks; d
 
 The U.S.-China trade war represents the largest bilateral trade conflict in modern history, affecting over $600 billion in annual trade and $360 billion in tariffed goods. What began as targeted tariffs on specific sectors escalated through tit-for-tat retaliation into comprehensive trade restrictions affecting consumer goods, agricultural products, and critical industrial inputs.
 
-**Origins**: Trump administration's August 2017 Section 301 investigation concluded China engaged in unfair trade practices: forced technology transfer requirements for market access, discriminatory licensing restrictions, cyber espionage to steal intellectual property, and massive state subsidies to strategic industries. USTR estimated Chinese practices cost U.S. economy $50+ billion annually in lost innovation and competitiveness.
+**Origins**: Trump administration's August 2017 Section 301 investigation concluded China engaged in unfair trade practices: forced technology transfer requirements for market access, discriminatory licensing restrictions, cyber espionage to steal intellectual property, and massive state subsidies to strategic industries. USTR estimated Chinese practices cost U.S. economy $50+ billion annually in lost innovation and competitiveness (USTR 2018).
 
 **Escalation Timeline**:
 
@@ -933,7 +933,7 @@ The U.S.-China trade war represents the largest bilateral trade conflict in mode
 - **2021-2024**: Biden maintains Trump tariffs and announces targeted increases (EVs to 100%, solar to 50%, batteries, steel/aluminum, medical products)
 - **January 2025 onward (Trump second term after January 20, 2025)**: Additional staged Section 301 increases enter into force for semiconductors and selected critical inputs; exclusions narrow and become more explicitly temporary
 
-**Peak Impact**: U.S. tariffs affected $360 billion Chinese imports (66% of total); effective average rate 19.3%. Chinese retaliatory tariffs affected $185 billion U.S. exports (72% of total); average rate 20.7%.
+**Peak Impact**: U.S. tariffs affected $360 billion Chinese imports (66% of total); effective average rate 19.3%. Chinese retaliatory tariffs affected $185 billion U.S. exports (72% of total); average rate 20.7% (Bown and Kolb 2021).
 
 ### Applying the Four-Dimension Framework
 
@@ -941,9 +941,9 @@ The U.S.-China trade war represents the largest bilateral trade conflict in mode
 
 ### Effectiveness Assessment
 
-**Target Compliance: LOW.** The trade war failed to achieve structural reforms. Forced technology transfer, IP enforcement, and market access saw minimal improvement. Chinese subsidies *increased* (Big Fund III, EV subsidies). Phase One purchase commitments went $288 billion below target with no enforcement. China assessed that tolerating tariff costs was preferable to compromising its state-directed economic model.
+**Target Compliance: LOW.** The trade war failed to achieve structural reforms. Forced technology transfer, IP enforcement, and market access saw minimal improvement. Chinese subsidies *increased* (Big Fund III, EV subsidies). Phase One purchase commitments went $288 billion below target with no enforcement (Bown 2022). China assessed that tolerating tariff costs was preferable to compromising its state-directed economic model.
 
-**Capability Degradation: MODERATE.** Tariffs contributed to supply chain reconfiguration: Chinese export share to the U.S. fell from 21.6% (2017) to 16.5% (2023), with Vietnam ($49 billion to $115 billion in U.S. exports) and Mexico capturing share. Combined with semiconductor export controls, tariffs accelerated technology ecosystem bifurcation. However, China's $17 trillion domestic market, 28% share of global manufacturing, and increased dominance in critical sectors (solar, batteries, rare earths) limit the effect.
+**Capability Degradation: MODERATE.** Tariffs contributed to supply chain reconfiguration: Chinese export share to the U.S. fell from 21.6% (2017) to 16.5% (2023), with Vietnam ($49 billion to $115 billion in U.S. exports) and Mexico capturing share (U.S. Census Bureau 2024). Combined with semiconductor export controls, tariffs accelerated technology ecosystem bifurcation. However, China's $17 trillion domestic market, 28% share of global manufacturing, and increased dominance in critical sectors (solar, batteries, rare earths) limit the effect.
 
 **Cost Imposition: MODERATE.** Chinese GDP fell an estimated 0.5-0.8% ($65-100 billion), with 1-3 million manufacturing jobs lost. U.S. GDP fell 0.3-0.5% ($60-100 billion), with average households paying $800-1,300 annually in tariff costs and agriculture losing $27 billion in exports (partially offset by $23 billion in government subsidies). Neither side faced intolerable costs forcing capitulation.
 

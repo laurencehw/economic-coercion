@@ -90,3 +90,46 @@ candidates for an explicit source:
 These are reasonable to leave with a general source (industry trackers, company filings)
 rather than a precise citation, but each should at least trace to the chapter's Data
 Sources list.
+
+---
+
+## E. Citation pass (Ch.2–10): quantitative claims still needing a source
+
+During the chapter-by-chapter citation pass, the claims below were left uncited because
+no source already in the book genuinely covers them. They need a source the author can
+supply (or a decision to soften/cut). This is the durable "author to verify" worklist.
+
+**Ch.2** — Ukraine ~50% of global semiconductor-grade neon (softened in text to an estimate).
+
+**Ch.3** — Suez transit-fee revenue ($6–7B/yr); Ukraine gas-transit-fee revenue ($2–3B/yr);
+Russian gas export revenue ($150–200B; 30–40% of the federal budget); Chinese clean-energy
+manufacturing "30–50% cheaper"; Jordan ~90% energy imports; Chinese phosphate export
+tonnage (7–8 Mt → 1–2 Mt); China strategic petroleum reserve ~545M barrels (2020).
+
+**Ch.4** — quantum-computing publication share (20–25%); space-launch economics (SpaceX
+$/kg, China 60+ orbital launches/yr, Starlink 5,000+ sats, Guowang 13,000 sats); biotech
+publication share (20%+); US/China venture-capital totals ($200–300B / $100–150B);
+Chinese talent returnee rate (25% → 50%+).
+
+**Ch.5** — SenseTime IPO valuation ($767M); GDPR fine totals (Google €8B+, Amazon €746M);
+Huawei revenue ($140B→$100B) and pricing (20–30% underbid); Great Firewall ~1B users.
+
+**Ch.9** — Europe ~40% Russian gas dependence (exec summary); apartheid-era structural
+demographics (Black majority ~75%; whites ~20% holding 87% of land / 90% of formal economy;
+13% of territory; Black per-capita income <10% of white); South African GDP growth
+(5% 1960s → ~0 1980s); rand depreciation (R1=$1.30 1980 → R2.50 1989); Turkey 3.7M Syrian
+refugees / 6M+ total; Soviet Jewish emigration (~400/yr early 1970s → 51,000 in 1979).
+
+**Ch.10** — Russia 2022 reserve freeze ($300B+); Russia dollar-reserve composition
+(40% 2018 → 10% 2024); China dollar reserves (~60%, est.); CIPS volumes/participants
+(PBoC listed only as an undated database — needs a datable entry); CBDCs "130+ countries";
+China U.S. Treasury holdings (~$850B, 2024); grain exporters ~80% of wheat/corn/soy;
+economic-weight stats (G7 ~45% of GDP; BRICS+ ~37% GDP / ~45% population / ~25% trade;
+China ~70% of BRICS+ GDP; German exports $100B+ to China; NDB ~$30B). Forward 2035–2050
+projections were intentionally left uncited (author's scenario analysis, not sourced facts).
+
+**Ch.6** — tariffs "80–95% of federal revenue" before the income tax (historical); China trade-war GDP/employment impact (−0.5–0.8% GDP; $65–100B; 1–3M manufacturing jobs); semiconductor-equipment market shares (U.S. ~40%, Japan ~30%, Netherlands 100% of EUV; coordinated controls cover ~85%); U.S. equipment-firm losses ($10–15B/yr, 2022–24); gallium/germanium "6–12 month disruptions / 20–30% price increases"; China "$17T domestic market, 28% of global manufacturing."
+
+**Ch.7** — U.S. corporate bond market (~$10T) and European (~$4T); U.S. equity market cap (~$50T, ~40% of global), Apple ($3T), Saudi Aramco IPO ($29B); Panda/Dim Sum bond issuance (~$100B); Chinese government bond market (~$20T).
+
+**Ch.8** — IRA "$100B+ clean-energy investment announced" and solar 80% / EV-battery 75% global shares; China semiconductor capacity (12% 2015 → 24% 2024) and SMIC 7nm yields (40–50%); central SOEs (96 SASAC groups, ~$12T assets); China = 35% of Australian exports; WuXi AppTec (20–30% of U.S. biotech; $5.4B revenue); BIOSECURE economics (~$20B market-cap loss, $5–15B U.S. cost, $40–60B Chinese revenue loss); "$40–50B lost investment annually" estimate.
