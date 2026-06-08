@@ -2,23 +2,27 @@
 
 ## Books and Monographs {-}
 
+Acemoglu, Daron. "When Does Labor Scarcity Encourage Innovation?" *Journal of Political Economy* 118, no. 6 (2010): 1037–1078.
+
 Autor, David H., David Dorn, and Gordon H. Hanson. "The China Shock: Learning from Labor-Market Adjustment to Large Changes in Trade." *Annual Review of Economics* 8 (2016): 205-240.
 
 Baldwin, David A. *Economic Statecraft*. Princeton University Press, 1985.
 
-Acemoglu, Daron. "When Does Labor Scarcity Encourage Innovation?" *Journal of Political Economy* 118, no. 6 (2010): 1037–1078.
+Blackwill, Robert D., and Jennifer M. Harris. *War by Other Means: Geoeconomics and Statecraft*. Harvard University Press, 2016.
 
 Bradford, Anu. *The Brussels Effect: How the European Union Rules the World*. Oxford University Press, 2020.
 
-Blackwill, Robert D., and Jennifer M. Harris. *War by Other Means: Geoeconomics and Statecraft*. Harvard University Press, 2016.
+Copeland, Dale C. *Economic Interdependence and War*. Princeton University Press, 2015.
 
 Drezner, Daniel W. *The Sanctions Paradox: Economic Statecraft and International Relations*. Cambridge University Press, 1999.
 
 Farrell, Henry, and Abraham L. Newman. *Underground Empire: How America Weaponized the World Economy*. Henry Holt and Co., 2023.
 
-Hirschman, Albert O. *National Power and the Structure of Foreign Trade*. University of California Press, 1945.
-
 Habakkuk, H. J. *American and British Technology in the Nineteenth Century: The Search for Labour-Saving Inventions*. Cambridge University Press, 1962.
+
+Heckscher, Eli F. *The Continental System: An Economic Interpretation*. Oxford University Press, 1922.
+
+Hirschman, Albert O. *National Power and the Structure of Foreign Trade*. University of California Press, 1945.
 
 Hornbeck, Richard, and Suresh Naidu. "When the Levee Breaks: Black Migration and Economic Development in the American South." *American Economic Review* 104, no. 3 (2014): 963–990.
 
@@ -44,6 +48,8 @@ Pape, Robert A. *Bombing to Win: Air Power and Coercion in War*. Cornell Univers
 
 Roberts, Anthea, Henrique Choer Moraes, and Victor Ferguson. *Toward a Geoeconomic Order in International Trade and Investment*. Cambridge University Press, 2019.
 
+Smil, Vaclav. *Enriching the Earth: Fritz Haber, Carl Bosch, and the Transformation of World Food Production*. MIT Press, 2001.
+
 Wigell, Mikael, Sören Scholvin, and Mika Aaltola, eds. *Geo-Economics and Power Politics in the 21st Century: The Revival of Economic Statecraft*. Routledge, 2018.
 
 Jackson, Van. *Rival Reputations: Coercion and Credibility in US-North Korea Relations*. Cambridge University Press, 2016.
@@ -59,12 +65,6 @@ Biersteker, Thomas J., Sue E. Eckert, and Marcos Tourinho, eds. *Targeted Sancti
 Lester, Simon, Bryan Mercurio, and Arwel Davies. *World Trade Law: Text, Materials and Commentary*. 3rd ed. Hart Publishing, 2018.
 
 Acosta, Alberto. "Extractivism and Neoextractivism: Two Sides of the Same Curse." In *Beyond Development: Alternative Visions from Latin America*, edited by Miriam Lang and Dunia Mokrani, 61–86. Transnational Institute / Rosa Luxemburg Foundation, 2013.
-
-Copeland, Dale C. *Economic Interdependence and War*. Princeton University Press, 2015.
-
-Heckscher, Eli F. *The Continental System: An Economic Interpretation*. Oxford University Press, 1922.
-
-Smil, Vaclav. *Enriching the Earth: Fritz Haber, Carl Bosch, and the Transformation of World Food Production*. MIT Press, 2001.
 
 ## Journal Articles and Reports {-}
 
@@ -120,13 +120,13 @@ U.S. Pharmacopeia. *Medicine Supply Map: 2023 Report on Pharmaceutical Supply Ch
 
 Fang, Yuqing, and Xiulian Chen. "The Globalization of Active Pharmaceutical Ingredient Manufacturing: Vulnerabilities and Policy Responses." PubMed Central (PMC), 2024.
 
-Paarlberg, Robert L. "Lessons of the Grain Embargo." *Foreign Affairs* 59, no. 1 (1980).
-
 Bellemare, Marc F. "Rising Food Prices, Food Price Volatility, and Social Unrest." *American Journal of Agricultural Economics* 97, no. 1 (2015): 1–21.
+
+Brinkman, Henk-Jan, and Cullen S. Hendrix. "Food Insecurity and Violent Conflict: Causes, Consequences, and Addressing the Challenges." World Food Programme Occasional Paper, 2011.
 
 Hendrix, Cullen S., and Stephan Haggard. "Global Food Prices, Regime Type, and Urban Unrest in the Developing World." *Journal of Peace Research* 52, no. 2 (2015): 143–157.
 
-Brinkman, Henk-Jan, and Cullen S. Hendrix. "Food Insecurity and Violent Conflict: Causes, Consequences, and Addressing the Challenges." World Food Programme Occasional Paper, 2011.
+Paarlberg, Robert L. "Lessons of the Grain Embargo." *Foreign Affairs* 59, no. 1 (1980).
 
 ## Think-Tank, Government, and Press Reports {-}
 

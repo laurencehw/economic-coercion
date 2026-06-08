@@ -2,7 +2,7 @@
 
 ## Purpose and Motivation
 
-Economic coercion has become one of the defining features of twenty-first-century international relations. From the sanctions imposed on Russia after its invasion of Ukraine to export controls on advanced semiconductors bound for China, and from the weaponization of the SWIFT financial messaging system to the strategic dependencies embedded in critical mineral supply chains, governments increasingly use economic tools to pursue objectives that once required military force or diplomatic pressure alone.
+Economic coercion has become one of the defining features of 21st-century international relations. From the sanctions imposed on Russia after its invasion of Ukraine to export controls on advanced semiconductors bound for China, and from the weaponization of the SWIFT financial messaging system to the strategic dependencies embedded in critical mineral supply chains, governments increasingly use economic tools to pursue objectives that once required military force or diplomatic pressure alone.
 
 This textbook provides a comprehensive introduction to the theory, practice, and evolving landscape of economic coercion in an era of intensifying great power competition. It is designed for graduate students, policy practitioners, and anyone seeking to understand how economic interdependence—long celebrated as a force for peace and prosperity—has become simultaneously a source of leverage, vulnerability, and strategic contestation.
 

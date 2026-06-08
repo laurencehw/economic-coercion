@@ -1,6 +1,6 @@
 # Citation Audit
 
-*Purpose:* support roadmap item #5 (sourcing depth). This file records (a) what was
+*Purpose:* strengthen the manuscript's sourcing. This file records (a) what was
 added to the central bibliography in this pass, (b) in-text scholarly citations that
 still need a full reference, (c) institutional/data sources each chapter cites that
 should appear in that chapter's "Data Sources and Further Research" section, and

@@ -408,7 +408,7 @@ Chapter 8's analysis of the BIOSECURE Act (enacted December 2025) demonstrated h
 **CRISPR gene editing**: Potential applications include:
 - Agricultural enhancement (drought-resistant crops, higher yields)
 - Medical treatments (curing genetic diseases, personalized medicine)
-- Bioweapons (engineered pathogens, targeting specific populations, 禁止生物武器公约 concerns)
+- Bioweapons (engineered pathogens, targeting specific populations, Biological Weapons Convention (BWC) concerns)
 
 **Synthetic biology**: Designing organisms from scratch enables:
 - Biomanufacturing (producing chemicals, materials, pharmaceuticals through engineered organisms)
