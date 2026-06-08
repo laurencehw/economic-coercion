@@ -481,8 +481,8 @@ Western backlash to Made in China 2025 led Chinese officials to de-emphasize exp
 
 The **National Integrated Circuit Industry Investment Fund** (国家集成电路产业投资基金, commonly called "Big Fund" or 大基金) exemplifies state-directed technology development:
 
-- **Big Fund I (2014)**: RMB 138.7 billion (~$21 billion) supporting SMIC, Hua Hong, Yangtze Memory Technologies Corporation (YMTC), and packaging firms (National Development and Reform Commission 2014; Fuller 2016)
-- **Big Fund II (2019)**: RMB 204.1 billion (~$29 billion) focusing on design tools (EDA), equipment manufacturing, and materials (NDRC 2019; CSIS *China Chip Fund Tracker*, 2023)
+- **Big Fund I (2014)**: RMB 138.7 billion (~$21 billion) supporting SMIC, Hua Hong, Yangtze Memory Technologies Corporation (YMTC), and packaging firms (Fuller 2016; CSIS *China Chip Fund Tracker*, 2023)
+- **Big Fund II (2019)**: RMB 204.1 billion (~$29 billion) focusing on design tools (EDA), equipment manufacturing, and materials (CSIS *China Chip Fund Tracker*, 2023)
 - **Big Fund III (May 2024)**: RMB 344 billion (~$47.5 billion) targeting advanced chips, AI processors, and domestic equipment — the largest single tranche to date (Ministry of Finance PRC 2024; Financial Times 2024; Bloomberg 2024)
 
 These investments reflect Chinese willingness to accept inefficiency for sovereignty. Even if domestically-produced chips cost 30-50% more than imports, eliminating foreign chokepoints justifies the premium. Learning-by-doing builds expertise and human capital with long-term payoffs beyond immediate products.

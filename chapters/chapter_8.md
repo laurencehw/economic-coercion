@@ -464,7 +464,7 @@ Beginning May 2020, China imposed de facto restrictions on multiple Australian e
 
 **Wine (November 2020)**
 - **Action**: Anti-dumping duties of 107–212% on bottled Australian wine (MOFCOM Announcement No. 55 of 2020)
-- **Impact**: Australian wine exports to China collapsed from AUD 1.2 billion (2019) to AUD 12 million (2021)—a 99% decline. For Australian wineries, China had been the largest export market (~39% of exports) (Wine Australia *Export Report* 2021; DFAT 2022).
+- **Impact**: Australian wine exports to China collapsed from AUD 1.2 billion (2019) to AUD 12 million (2021)—a 99% decline. For Australian wineries, China had been the largest export market (~39% of exports) (Wine Australia *Export Report* 2022; DFAT 2022).
 - **Devastating sector impacts**: Treasury Wine Estates, Pernod Ricard Australia, and many smaller wineries faced revenue collapse, lay-offs, discounted inventory
 
 {% hint style="info" %}

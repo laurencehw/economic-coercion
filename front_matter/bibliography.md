@@ -158,7 +158,7 @@ Ministry of Finance of the People's Republic of China. "Announcement on the Esta
 
 Bloomberg News. "China Creates $47.5 Billion Chip Fund, Biggest to Date." Bloomberg, May 27, 2024.
 
-*Financial Times*. "China Launches $47bn Chip Fund in Bid to Ease US Sanctions." May 27, 2024.
+Financial Times. "China Launches $47bn Chip Fund in Bid to Ease US Sanctions." May 27, 2024.
 
 Nvidia Corporation. *Form 10-K Annual Report for Fiscal Year 2024*. U.S. Securities and Exchange Commission, filed February 2024.
 
@@ -175,6 +175,14 @@ Lowy Institute. "The China Coal Ban: Strategic Signaling, Self-Inflicted Wound, 
 World Trade Organization. *China — Anti-Dumping and Countervailing Duty Measures on Barley from Australia* (DS598). WTO Dispute Settlement, 2020–2024.
 
 Ministry of Commerce of the People's Republic of China (MOFCOM). Announcements No. 14 of 2020 (barley) and No. 55 of 2020 (wine). MOFCOM, 2020.
+
+Wall Street Journal. "Intel Names Pat Gelsinger CEO, Replacing Bob Swan." January 13, 2021.
+
+General Administration of Customs of the People's Republic of China (GACC). Customs suspension notices for designated Australian export establishments and monthly trade statistics. 2020–2021. http://english.customs.gov.cn
+
+Australian Meat Industry Council (AMIC). Public statements on China's suspension of Australian beef export establishments. 2020. https://www.amic.org.au
+
+Australian Government, Department of Industry, Science and Resources, Office of the Chief Economist. *Resources and Energy Quarterly*. Various issues, 2020–2022. https://www.industry.gov.au
 
 ## Government and International Organization Reports {-}
 
