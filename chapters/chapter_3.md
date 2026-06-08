@@ -451,6 +451,12 @@ Bazilian, Morgan D. "The Mineral Foundation of the Energy Transition." *The Extr
 
 Escribano, Gonzalo, et al. "Energy Dependency, Geopolitics, and Foreign Policy: The EU-Russia Natural Gas Trade." *Energy Research & Social Science* 68 (2020): 101528.
 
+Bellemare, Marc F. "Rising Food Prices, Food Price Volatility, and Social Unrest." *American Journal of Agricultural Economics* 97, no. 1 (2015): 1–21.
+
+Organization of the Petroleum Exporting Countries (OPEC). *Annual Statistical Bulletin*. Various years.
+
+U.S. Energy Information Administration (EIA). "World Oil Transit Chokepoints" and international energy statistics. Various years.
+
 ---
 
 

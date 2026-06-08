@@ -713,6 +713,8 @@ Department of Defense. "Securing Defense-Critical Supply Chains: An Action Plan 
 
 Khan, Saif M., and Carrick Flynn. "Maintaining China's Dependence on Democracies for Advanced Computer Chips." Brookings Institution, April 2020.
 
+Khan, Saif M., Alexander Mann, and Dahlia Peterson. "The Semiconductor Supply Chain: Assessing National Competitiveness." Center for Security and Emerging Technology, January 2021.
+
 Allen, Gregory C. "Choking Off China's Access to the Future of AI." Center for Strategic and International Studies, October 2022.
 
 Kleinhans, Jan-Peter, and Nurzat Baisakova. "The Global Semiconductor Value Chain: A Technology Primer for Policy Makers." Stiftung Neue Verantwortung, October 2020.

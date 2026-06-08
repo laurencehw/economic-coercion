@@ -213,7 +213,7 @@ The UK's NSI Act, effective January 2022, represents post-Brexit recalibration o
 
 - **Mandatory notification**: Acquisitions in 17 defined sensitive sectors (AI, quantum, semiconductors, nuclear, defense, communications) must be notified even for acquisitions as small as 15% ownership or material influence
 - **Call-in powers**: Government can review any transaction in any sector if national security concerns exist, with retroactive reach up to 5 years
-- **Volume**: Over 1,800 notifications in first two years, with ~1% subject to detailed review and handful blocked (UK Investment Security Unit)
+- **Volume**: Over 1,800 notifications in first two years, with ~1% subject to detailed review and handful blocked
 - **Chinese focus**: Particularly scrutinizes Chinese investments in technology and infrastructure, though maintains openness to non-sensitive sectors
 
 **Australia: FIRB and Critical Infrastructure**
@@ -906,6 +906,14 @@ The case is particularly instructive for this chapter's themes because it illust
 11. European Commission, "Report from the Commission to the European Parliament and the Council: Tenth annual report on the screening of foreign direct investments into the Union (2024)," COM(2025) 330 final (June 2025).
 
 12. American Enterprise Institute, "China Global Investment Tracker," https://www.aei.org/china-global-investment-tracker/
+
+13. Rasser, Martijn, et al. "The CHIPS and Science Act: Here Comes the Hardest Part." Center for Strategic and International Studies, August 2022.
+
+14. Center for Strategic and International Studies. *China Chip Fund Tracker: Mapping Chinese Semiconductor State Investment.* CSIS, 2023.
+
+15. Bloomberg News. "China Creates $47.5 Billion Chip Fund, Biggest to Date." Bloomberg, May 27, 2024.
+
+16. Congressional Budget Office. Cost estimates and budgetary analyses of the CHIPS and Science Act, Inflation Reduction Act, and Infrastructure Investment and Jobs Act. 2022–2023.
 
 ---
 

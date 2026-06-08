@@ -329,7 +329,7 @@ Items not on CCL are designated **EAR99**, low-technology consumer goods general
 
 **Entity List: Targeted Denials**
 
-The **Commerce Department's Entity List** (Supplement No. 4 to Part 744 of the Export Administration Regulations) identifies foreign entities subject to specific license requirements due to proliferation concerns, weapons development, human rights violations, or other national security threats. The China-focused portion of the list has continued to expand; in March 2025 alone, BIS added 80 entities globally, with more than 50 entries from China (BIS 2025), including:
+The **Commerce Department's Entity List** (Supplement No. 4 to Part 744 of the Export Administration Regulations) identifies foreign entities subject to specific license requirements due to proliferation concerns, weapons development, human rights violations, or other national security threats. The China-focused portion of the list has continued to expand; in March 2025 alone, BIS added 80 entities globally, with more than 50 entries from China (Bureau of Industry and Security 2025), including:
 
 - **Huawei Technologies** (2019): Telecommunications equipment and services, security and foreign policy concerns
 - **SMIC (Semiconductor Manufacturing International Corporation)** (2020): China's leading chip manufacturer, military diversion risk

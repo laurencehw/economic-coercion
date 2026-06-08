@@ -1008,6 +1008,8 @@ Migration policy increasingly viewed as strategic tool in technology competition
 
 10. Farrell, Henry, and Abraham L. Newman. "Weaponized Interdependence: How Global Economic Networks Shape State Coercion." *International Security* 44, no. 1 (Summer 2019): 42-79.
 
+11. Gordon, Joy. *Invisible War: The United States and the Iraq Sanctions.* Harvard University Press, 2010.
+
 ---
 
 

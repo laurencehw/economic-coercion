@@ -813,7 +813,7 @@ China's digital yuan (e-CNY) represents the most ambitious central bank digital 
 - Bilateral currency swap agreements with 40+ central banks ($550+ billion)
 - Encouraging BRI countries to use RMB for trade and investment
 - Shanghai-Hong Kong Stock Connect, Bond Connect increasing foreign access to RMB assets
-- RMB now ~2.7% of global reserves, ~25% of China's trade settlement (IMF COFER; SWIFT RMB Tracker)
+- RMB now ~2.7% of global reserves, ~25% of China's trade settlement (IMF COFER; SWIFT RMB Tracker 2024)
 
 **Gold Reserves and Commodities**:
 - Steady gold accumulation (officially ~4% of reserves, potentially more)

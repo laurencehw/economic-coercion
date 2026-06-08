@@ -810,4 +810,8 @@ Triolo, Paul, and Robert Greene. "Will China's Chip Breakthrough Undermine U.S. 
 
 U.S. Department of Commerce, Bureau of Industry and Security. "2022 Export Controls: Taking the Long View." October 2022.
 
+Fuller, Douglas B. *Paper Tigers, Hidden Dragons: Firms and the Political Economy of China's Technological Development*. Oxford University Press, 2016.
+
+Center for Strategic and International Studies. *China Chip Fund Tracker: Mapping Chinese Semiconductor State Investment*. CSIS, 2023.
+
 

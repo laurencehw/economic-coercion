@@ -1031,5 +1031,9 @@ Economic coercion will remain central to 21st-century statecraft. Understanding 
 
 10. Allison, Graham. *Destined for War: Can America and China Escape Thucydides's Trap?* Houghton Mifflin Harcourt, 2017.
 
+11. Prasad, Eswar. "Has the Dollar Lost Ground as the Dominant International Currency?" Brookings Institution, September 2023.
+
+12. Bank for International Settlements. "Triennial Central Bank Survey of Foreign Exchange and OTC Derivatives Markets." Various years.
+
 ---
 
