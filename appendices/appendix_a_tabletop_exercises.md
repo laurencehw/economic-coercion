@@ -5,7 +5,7 @@ This appendix collects all ten tabletop exercises from the book. Each exercise i
 
 ## Companion Game: EconWar {-}
 
-A browser-based strategy game, **EconWar** ([econwar.vercel.app](https://econwar.vercel.app/)), extends the exercises in this appendix to solo and small-group play from multiple national perspectives — U.S., Chinese, European, and Global South. The game operationalizes the four-dimension framework (domain, target, objective, intensity) and the five effectiveness criteria from Chapter 1, and is particularly useful for:
+A browser-based strategy game, **EconWar** ([econwar.vercel.app](https://econwar.vercel.app/)), extends the exercises in this appendix to solo and small-group play from multiple national perspectives: U.S., Chinese, European, and Global South. The game operationalizes the four-dimension framework (domain, target, objective, intensity) and the five effectiveness criteria from Chapter 1, and is useful for several purposes:
 
 - **Red-teaming the tabletops below.** After playing a U.S.-centered NSC tabletop, students can run the same scenario in EconWar from the PRC, EU, or Global South seat to surface blind spots in the centered American perspective.
 - **Asynchronous / flipped classroom use.** Instructors can assign a 30-minute EconWar session before class to prime students on constraints and trade-offs before a live tabletop.
@@ -36,7 +36,7 @@ Taiwan's newly elected president has announced plans to pursue formal constituti
 
 The United States faces pressure from Taiwan, Japan, and other Indo-Pacific allies to respond with both security guarantees and economic measures. However, the U.S.-China economic relationship remains deeply intertwined: China holds $850 billion in U.S. Treasury securities, bilateral trade exceeds $700 billion annually, and U.S. firms depend on Chinese supply chains for critical inputs. China, meanwhile, remains dependent on Taiwan for advanced semiconductors, U.S. semiconductor equipment, and access to Western financial systems.
 
-You are members of the National Security Council Deputies Committee convened to develop economic response options for the President. The crisis is escalating, and decisions made in the next 48-72 hours may determine whether the situation resolves diplomatically, escalates to comprehensive economic warfare, or spirals into military conflict.
+You are members of the National Security Council Deputies Committee convened to develop economic response options for the President. The crisis is escalating, and decisions made in the next 48-72 hours will shape whether the situation resolves diplomatically, escalates to comprehensive economic conflict, or moves toward military confrontation.
 
 ### Participant Roles
 
@@ -282,7 +282,7 @@ When searching databases and academic literature, use these terms strategically:
 
 A major earthquake measuring 7.8 on the Richter scale strikes central Taiwan, causing significant damage to infrastructure in Hsinchu Science Park, home to Taiwan Semiconductor Manufacturing Company (TSMC) and dozens of supporting firms. While TSMC's advanced fabs have earthquake protection, several critical facilities suffer damage that will take 4-6 months to fully repair. TSMC announces that production of advanced 3nm and 5nm chips will be reduced by approximately 40% for at least four months.
 
-Global markets react with panic. Within 48 hours, major automotive manufacturers announce production slowdowns due to anticipated chip shortages. Apple, NVIDIA, AMD, and Qualcomm stocks drop 15-20%. The White House receives urgent calls from industry leaders requesting government intervention.
+Global markets react sharply. Within 48 hours, major automotive manufacturers announce production slowdowns in anticipation of chip shortages. Apple, NVIDIA, AMD, and Qualcomm stocks drop 15-20%. The White House receives urgent calls from industry leaders requesting government intervention.
 
 Simultaneously, intelligence reports indicate that China is considering using this crisis as a "window of opportunity" to pressure Taiwan, potentially by offering emergency semiconductor supplies in exchange for political concessions. Chinese state media emphasizes that "the reunification of the motherland would prevent such vulnerabilities."
 
@@ -1291,9 +1291,9 @@ China retaliates within 48 hours with:
 - 30% tariffs on U.S. energy exports (LNG, crude oil)
 - Initiation of anti-dumping and anti-monopoly investigations against U.S. firms
 
-Both sides frame their actions as defensive responses to the other's unfair practices. Global markets react with volatility. U.S. allies express concern about being caught in the crossfire.
+Both sides frame their actions as defensive responses to the other's unfair practices. Global markets turn volatile. U.S. allies express concern about the costs the dispute imposes on them.
 
-You are convened as the Trade Policy Review Group to assess the situation and develop next steps as the trade war threatens to spiral.
+You are convened as the Trade Policy Review Group to assess the situation and develop next steps as the trade conflict escalates.
 
 ### Participant Roles
 
@@ -2129,7 +2129,7 @@ Participants must design sanctions strategy addressing:
 
 **Date: June 2030**
 
-The United States faces an unprecedented multi-domain crisis as tensions with China escalate across economic, technological, and environmental spheres. Unlike historical crises centered on single events or domains, this challenge involves simultaneous pressure across interconnected systems, creating cascading risks and novel policy dilemmas.
+The United States faces a multi-domain crisis as tensions with China escalate across economic, technological, and environmental spheres. Where earlier crises tended to center on a single event or domain, this one involves simultaneous pressure across interconnected systems, which creates cascading risks and unfamiliar policy dilemmas.
 
 The crisis unfolds across five interrelated dimensions:
 1. **Climate:** Extreme weather disrupts critical supply chains
@@ -2183,7 +2183,7 @@ Catastrophic flooding in southern China (climate change-amplified typhoon) damag
 - 70% of rare earth processing facilities
 - Major EV battery component manufacturing
 
-Global green energy transition suddenly faces 12-18 month delays. Prices for solar panels, batteries, and critical minerals spike 300-400%.
+The global green energy transition faces 12-18 month delays. Prices for solar panels, batteries, and critical minerals spike 300-400%.
 
 **Chinese Response:**
 China announces "Climate Emergency Resource Allocation System":
@@ -2268,7 +2268,7 @@ Attack exploits vulnerabilities in:
 China conducts "debris removal test" using anti-satellite capability, destroying defunct satellite near U.S. GPS constellation. While technically targeting space junk, the demonstration:
 - Proves Chinese capability to disable U.S. space infrastructure
 - Creates debris field threatening commercial satellites
-- Sends message: "Your precision-guided weapons, financial systems, and communications depend on space assets we can threaten"
+- Signals that U.S. precision-guided weapons, financial systems, and communications rely on space assets China can hold at risk
 
 Simultaneously, Chinese space station begins commercial operations offering:
 - Manufacturing in zero-gravity (advanced materials)
