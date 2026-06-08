@@ -5,11 +5,11 @@
 
 ---
 
-This comprehensive textbook examines economic coercion by states in the context of strategic competition, with primary focus on US-China rivalry and applications to other geographies including US-Soviet Cold War cases and contemporary examples. The book combines academic rigor with practical policy relevance.
+This textbook examines economic coercion by states in the context of strategic competition. Its primary focus is the US-China rivalry, with applications to other geographies, including US-Soviet Cold War cases and contemporary examples.
 
 ## Companion Game
 
-A companion browser-based strategy game, **EconWar**, lets readers play out economic-coercion scenarios from multiple national perspectives — including U.S., Chinese, European, and Global South decision-makers — operationalizing the frameworks developed in this book.
+A companion browser-based strategy game, **EconWar**, lets readers play out economic-coercion scenarios from multiple national perspectives, including U.S., Chinese, European, and Global South decision-makers. It operationalizes the frameworks developed in this book.
 
 Play the game: [econwar.vercel.app](https://econwar.vercel.app/)
 
