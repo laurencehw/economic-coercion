@@ -26,7 +26,7 @@ The book is organized into ten chapters that build progressively from foundation
 
 **Part I: Foundations and Domains (Chapters 1-5)**
 
-Chapter 1 introduces the analytical framework that guides the entire book, defining economic coercion and examining it across four key dimensions: instruments and tools, objectives and goals, target characteristics, and effectiveness factors. This framework provides a systematic way to analyze any case of economic coercion.
+Chapter 1 introduces the analytical framework that guides the entire book. It defines economic coercion and sets out the four dimensions along which any case can be described: the domain in which coercion operates (trade, finance, investment, technology), the target (from entire states down to individual officials), the objective (deterrence, compellence, containment, signaling, or regime change), and the intensity of the measures (a spectrum from diplomatic pressure to full economic warfare). A separate set of five criteria—target compliance, capability degradation, cost imposition, sustainability, and collateral damage—is then used to assess whether a given episode succeeds.
 
 Chapters 2-5 examine critical domains where economic coercion operates: global supply chains (semiconductors, critical minerals, rare earths), critical sectors (energy, food, infrastructure chokepoints), high-technology competition (AI, quantum computing, biotechnology), and the information and digital sphere (telecommunications networks, data governance, standards-setting).
 
