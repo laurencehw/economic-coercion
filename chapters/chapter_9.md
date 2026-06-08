@@ -42,7 +42,7 @@ CoCom aimed to degrade Soviet military capabilities by denying access to Western
 
 Soviet military R&D sought Western computing capabilities, including supercomputers essential for nuclear weapons design, ballistic missile calculations, and cryptography. It also depended on advanced electronics such as integrated circuits, sensors, and guidance systems, as well as telecommunications technology for secure communications, electronic warfare, and signals intelligence. In the manufacturing domain, precision machine tools were critical for producing aircraft, submarines, and missiles, while advanced materials---including composites, special alloys, and ceramics---rounded out the key technology areas that CoCom sought to restrict.
 
-Soviet indigenous technology development lagged Western capabilities by estimated 5-10 years (longer in some fields like semiconductors and software). CoCom restrictions forced Soviet military to rely on domestic inferior technology or acquire through espionage (time-consuming, incomplete, risk of detection).
+Soviet indigenous technology development lagged Western capabilities by estimated 5-10 years (longer in some fields like semiconductors and software) (Mastanduno 1992). CoCom restrictions forced Soviet military to rely on domestic inferior technology or acquire through espionage (time-consuming, incomplete, risk of detection).
 
 **Effectiveness**
 
@@ -85,7 +85,7 @@ The grain embargo largely failed:
 
 **Circumvention**: Soviets purchased through intermediaries, rerouted shipments, and negotiated long-term contracts with alternative suppliers.
 
-**U.S. domestic costs**: American grain prices fell 10-20%, costing farmers and agribusiness billions. Political opposition mounted rapidly, particularly in farm states.
+**U.S. domestic costs**: American grain prices fell 10-20%, costing farmers and agribusiness billions (Paarlberg 1980). Political opposition mounted rapidly, particularly in farm states.
 
 **Minimal political impact**: Soviet leadership showed no signs of moderating Afghanistan policy due to embargo. Invasion continued until 1989 withdrawal driven by military losses, economic crisis, and Gorbachev reforms, not grain pressure.
 
@@ -105,7 +105,7 @@ The grain embargo illustrated critical limitations of unilateral trade sanctions
 1. **Substitution**: Commodities with multiple suppliers are easily replaceable; restricting one source shifts purchases to others
 2. **Allied defection**: Without coordination, third parties capture market share while target maintains supply
 3. **Domestic costs**: Export restrictions hurt domestic producers, creating political pressure for reversal
-4. **Limited leverage**: Even dominant market position (U.S. controlled 50% of global grain exports) provides insufficient leverage if alternatives exist
+4. **Limited leverage**: Even dominant market position (U.S. controlled 50% of global grain exports) provides insufficient leverage if alternatives exist (Paarlberg 1980)
 
 ### Siberian Pipeline Sanctions (1981-1982): Extraterritorial Overreach
 
@@ -226,7 +226,7 @@ Township uprisings (1984-1986), Sharpeville massacre anniversary protests, and i
 
 **Financial sanctions**: Banks (Citibank, Barclays) withdrew from South Africa, cutting off credit access and forcing debt renegotiations. Capital flight accelerated.
 
-**Disinvestment campaign**: Universities, pension funds, municipalities divested South African holdings, pressuring corporations to withdraw. By 1989, 200+ U.S. companies had exited South Africa.
+**Disinvestment campaign**: Universities, pension funds, municipalities divested South African holdings, pressuring corporations to withdraw. By 1989, 200+ U.S. companies had exited South Africa (Crawford and Klotz 1999).
 
 ### Economic Impact on South Africa
 
@@ -333,7 +333,7 @@ The sanctions regime pursued multiple, shifting objectives over thirteen years: 
 
 **Objective**: Sanctions pursued compellence (forcing compliance with UN resolutions) and implicitly, containment and regime change. However, objectives proved unachievable through economic means alone: Hussein calculated that maintaining power required retaining weapons capabilities that served domestic deterrence and regional influence, making compliance politically impossible even under severe economic pressure.
 
-**Intensity**: The Iraq sanctions represented maximum intensity—comprehensive trade embargo cutting 95% of pre-war trade, financial isolation blocking international transactions, and oil export restrictions removing virtually all hard currency earnings. This comprehensiveness generated maximum economic damage but also maximum civilian suffering.
+**Intensity**: The Iraq sanctions represented maximum intensity—comprehensive trade embargo cutting 95% of pre-war trade, financial isolation blocking international transactions, and oil export restrictions removing virtually all hard currency earnings (Gordon 2010). This comprehensiveness generated maximum economic damage but also maximum civilian suffering.
 
 ### Economic Devastation and Humanitarian Catastrophe
 
@@ -415,7 +415,7 @@ Yet circumvention proved endemic:
 
 The Continental System largely failed:
 
-**British economy survived**: Though exports to Europe declined 25-30% (1807-1809), Britain compensated by expanding trade with Latin America, Ottoman Empire, and global colonies. Economic stress occurred (1810-1811 recession) but not collapse.
+**British economy survived**: Though exports to Europe declined 25-30% (1807-1809), Britain compensated by expanding trade with Latin America, Ottoman Empire, and global colonies (Heckscher 1922). Economic stress occurred (1810-1811 recession) but not collapse.
 
 **European resistance**: Economic pain and nationalist resentment of French domination fueled resistance. Spain (1808), Russia (1812), and Germany (1813) revolted partly due to Continental System's costs.
 
@@ -743,7 +743,7 @@ China did not announce formal export ban, but Japanese firms reported:
 - Verbal instructions from Chinese officials to halt shipments to Japan
 - Rare earth export quotas tightened (though applicable to all countries, timing coincided with dispute)
 
-Japanese rare earth imports from China fell 35-40% in October-November 2010. Industrial users (automotive, electronics) faced supply shortages and price spikes (neodymium prices rose 300% within months).
+Japanese rare earth imports from China fell 35-40% in October-November 2010. Industrial users (automotive, electronics) faced supply shortages and price spikes (neodymium prices rose 300% within months) (Wübbeke 2013).
 
 **Japanese Responses**
 
@@ -765,7 +765,7 @@ Japan employed multiple countermeasures:
 
 **4. Diplomatic outreach**: Japan strengthened partnerships with alternative suppliers, promoted rare earth mining development in friendly countries (Australia, Canada, U.S.).
 
-By 2015:
+By 2015 (Wübbeke 2013):
 - China's share of Japan's rare earth imports fell from 97% (2010) to 58% (2015)
 - Diversified sources (Australia, U.S., Malaysia, India, France) reduced vulnerability
 - Japanese rare earth consumption declined 30% through substitution and efficiency
@@ -1007,6 +1007,8 @@ Migration policy increasingly viewed as strategic tool in technology competition
 9. Pape, Robert A. "Why Economic Sanctions Do Not Work." *International Security* 22, no. 2 (Fall 1997): 90-136.
 
 10. Farrell, Henry, and Abraham L. Newman. "Weaponized Interdependence: How Global Economic Networks Shape State Coercion." *International Security* 44, no. 1 (Summer 2019): 42-79.
+
+11. Gordon, Joy. *Invisible War: The United States and the Iraq Sanctions.* Harvard University Press, 2010.
 
 ---
 

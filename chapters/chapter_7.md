@@ -194,7 +194,7 @@ Despite formidable advantages, U.S. financial power faces vulnerabilities:
 **Overuse Risks**
 
 Expanding sanctions use creates incentives for alternatives:
-- As of 2024, over 30 countries face some form of U.S. sanctions (comprehensive or targeted)
+- As of 2024, over 30 countries face some form of U.S. sanctions (comprehensive or targeted) (OFAC 2024)
 - More than 10,000 individuals and entities on OFAC SDN List (OFAC 2024)
 - Estimated 30% of global GDP in countries under some U.S. sanctions (Atlantic Council 2022)
 
@@ -204,7 +204,7 @@ Widespread sanctions motivate targets and even neutral parties to develop altern
 
 Russia-China alignment creates critical mass for alternative systems:
 - Combined 20% of global GDP (World Bank WDI)
-- 40% of global population
+- 40% of global population (World Bank WDI)
 - Significant commodity production (oil, gas, minerals)
 
 If Russia-China-led bloc develops interoperable payment systems and trades in national currencies, could create parallel financial infrastructure reducing dollar centrality.
@@ -459,7 +459,7 @@ China has made measured progress internationalizing the renminbi:
 
 **Bond issuance**: "Panda bonds" (RMB bonds issued in China by foreign entities) and "Dim Sum bonds" (RMB bonds issued offshore) provide debt markets. However, combined issuance ~$100 billion—minuscule compared to $27 trillion U.S. Treasury market.
 
-**Currency swap agreements**: People's Bank of China established currency swap lines with 40+ central banks totaling ~$550 billion, enabling RMB liquidity provision.
+**Currency swap agreements**: People's Bank of China established currency swap lines with 40+ central banks totaling ~$550 billion, enabling RMB liquidity provision (PBOC).
 
 **Belt and Road Initiative**: China encourages BRI project financing in RMB, expanding currency use among developing countries.
 
@@ -725,7 +725,7 @@ Chinese Foreign Ministry statements routinely condemn U.S. "long-arm jurisdictio
 **Financial security** represents core Chinese national security priority alongside military, food, and energy security. Key dimensions:
 
 - **Payment system independence**: Ability to conduct international transactions without U.S./Western infrastructure dependencies
-- **Reserve safety**: Protecting foreign exchange reserves ($3.2 trillion, world's largest) from confiscation or freezing
+- **Reserve safety**: Protecting foreign exchange reserves ($3.2 trillion, world's largest) from confiscation or freezing (PBOC)
 - **Capital account control**: Managing cross-border capital flows to prevent destabilizing speculation or capital flight
 - **Systemic stability**: Preventing external shocks (sanctions, financial crises) from destabilizing domestic financial system
 
@@ -813,7 +813,7 @@ China's digital yuan (e-CNY) represents the most ambitious central bank digital 
 - Bilateral currency swap agreements with 40+ central banks ($550+ billion)
 - Encouraging BRI countries to use RMB for trade and investment
 - Shanghai-Hong Kong Stock Connect, Bond Connect increasing foreign access to RMB assets
-- RMB now ~2.7% of global reserves, ~25% of China's trade settlement
+- RMB now ~2.7% of global reserves, ~25% of China's trade settlement (IMF COFER; SWIFT RMB Tracker 2024)
 
 **Gold Reserves and Commodities**:
 - Steady gold accumulation (officially ~4% of reserves, potentially more)

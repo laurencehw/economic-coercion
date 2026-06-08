@@ -43,9 +43,9 @@ Through 2015, CFIUS operated with relatively limited scope and activity:
 
 - **Narrow security focus**: Reviews concentrated on traditional national security: defense contractors, classified programs, critical infrastructure vulnerable to sabotage (ports, telecommunications). Economic competitiveness, technology leadership, and data privacy were largely outside CFIUS purview.
 
-- **Rare rejections**: From 2008-2015, CFIUS reviewed 770 transactions, investigated 111 (14%), and only 5 were withdrawn or prohibited, a 99%+ approval rate. Most cases received approval with mitigation measures: requiring corporate governance changes, limiting foreign personnel access to sensitive facilities, or implementing cybersecurity protocols.
+- **Rare rejections**: From 2008-2015, CFIUS reviewed 770 transactions, investigated 111 (14%), and only 5 were withdrawn or prohibited, a 99%+ approval rate (U.S. Department of the Treasury, CFIUS Annual Reports to Congress). Most cases received approval with mitigation measures: requiring corporate governance changes, limiting foreign personnel access to sensitive facilities, or implementing cybersecurity protocols.
 
-- **Limited Chinese scrutiny**: Chinese investments grew dramatically from $1 billion annually (pre-2008) to $45.6 billion peak (2016), largely approved. High-profile acquisitions included Lenovo's purchase of IBM's PC business (2005), Chinese investments in U.S. real estate and entertainment (AMC Theatres, Legendary Entertainment), and technology sector venture capital.
+- **Limited Chinese scrutiny**: Chinese investments grew dramatically from $1 billion annually (pre-2008) to $45.6 billion peak (2016), largely approved (Rhodium Group 2024). High-profile acquisitions included Lenovo's purchase of IBM's PC business (2005), Chinese investments in U.S. real estate and entertainment (AMC Theatres, Legendary Entertainment), and technology sector venture capital.
 
 **Awakening to Strategic Competition (2012-2016)**
 
@@ -140,16 +140,16 @@ FIRRMA's impact on Chinese investment was immediate and severe. Chinese direct i
 - **2023**: $2.6 billion
 - **2024**: $2.5 billion (estimated)
 
-This represents a **95% decline from peak**, with 2024 investment returning to levels last seen in 2004, before China's emergence as major global investor. The collapse extends across sectors but concentrates in technology:
+This represents a **95% decline from peak**, with 2024 investment returning to levels last seen in 2004, before China's emergence as major global investor (Rhodium Group 2024). The collapse extends across sectors but concentrates in technology:
 
 {% hint style="info" %}
 **The 95% Collapse in Chinese FDI**
 The near-total collapse of Chinese foreign direct investment in the United States, from $45.6 billion in 2016 to just $2.5 billion in 2024, is among the largest investment reversals in modern history. It was a policy outcome rather than a market correction. FIRRMA's expanded jurisdiction, mandatory declarations, and aggressive enforcement created an environment in which Chinese capital could no longer access American technology companies. The intended signal was clear: Chinese money would not be welcome in U.S. innovation ecosystems.
 {% endhint %}
 
-**Technology sector**: Chinese VC investment in U.S. technology startups fell from $3.2 billion (2017) to less than $200 million (2024). Prominent Chinese VCs (Sequoia China, Hillhouse Capital) largely exited U.S. deals.
+**Technology sector**: Chinese VC investment in U.S. technology startups fell from $3.2 billion (2017) to less than $200 million (2024) (Rhodium Group 2024). Prominent Chinese VCs (Sequoia China, Hillhouse Capital) largely exited U.S. deals.
 
-**Real estate**: Chinese purchases of U.S. commercial and residential real estate declined from $46.2 billion peak (2016) to approximately $3 billion (2024), driven partly by CFIUS concerns about properties near sensitive sites but also Chinese capital controls and economic slowdown.
+**Real estate**: Chinese purchases of U.S. commercial and residential real estate declined from $46.2 billion peak (2016) to approximately $3 billion (2024), driven partly by CFIUS concerns about properties near sensitive sites but also Chinese capital controls and economic slowdown (Rhodium Group 2024).
 
 **Entertainment and consumer sectors**: High-profile Chinese acquisitions of AMC Theatres, Legendary Entertainment, and other entertainment assets ended. Consumer sector deals (food, retail) also largely ceased.
 
@@ -184,7 +184,7 @@ The United States is not alone in expanding investment screening. European Union
 
 The EU implemented a framework for screening foreign direct investments in October 2020, establishing coordination among member states while preserving national sovereignty over investment decisions. Key features:
 
-- **Voluntary national screening**: Member states may establish investment review mechanisms but are not required to. As of end-2024, 24 of 27 EU members had active screening regimes, while the remaining states were in legislative processes.
+- **Voluntary national screening**: Member states may establish investment review mechanisms but are not required to. As of end-2024, 24 of 27 EU members had active screening regimes, while the remaining states were in legislative processes (European Commission 2025).
 
 - **Coordination mechanism**: When a member state reviews a transaction, other members and the European Commission can provide opinions if the investment affects their security interests or EU-wide projects (Horizon Europe research, Galileo satellite navigation, etc.)
 
@@ -332,14 +332,14 @@ For nearly four decades, Western economic policy embraced market-driven allocati
 
 **CHIPS and Science Act (August 2022)**
 
-The Creating Helpful Incentives to Produce Semiconductors (CHIPS) and Science Act represents the United States' most significant industrial policy intervention in generations, committing $52.7 billion to rebuild domestic semiconductor manufacturing and R&D capabilities. The act allocates $39 billion in direct grants and loans as **manufacturing incentives** for fabrication facilities, supplemented by a 25% investment tax credit. An additional $13.2 billion supports **R&D investments** in semiconductor research, including the National Semiconductor Technology Center, the National Advanced Packaging Manufacturing Program, and expanded NSF and DOE research programs. The legislation dedicates $500 million to **workforce development** for semiconductor industry training. Critically, the act includes **guardrails** prohibiting recipients from expanding semiconductor manufacturing capacity in China for 10 years, preventing subsidized firms from simultaneously aiding Chinese competitors.
+The Creating Helpful Incentives to Produce Semiconductors (CHIPS) and Science Act represents the United States' most significant industrial policy intervention in generations, committing $52.7 billion to rebuild domestic semiconductor manufacturing and R&D capabilities. The act allocates $39 billion in direct grants and loans as **manufacturing incentives** for fabrication facilities, supplemented by a 25% investment tax credit. An additional $13.2 billion supports **R&D investments** in semiconductor research, including the National Semiconductor Technology Center, the National Advanced Packaging Manufacturing Program, and expanded NSF and DOE research programs. The legislation dedicates $500 million to **workforce development** for semiconductor industry training (Rasser et al. 2022). Critically, the act includes **guardrails** prohibiting recipients from expanding semiconductor manufacturing capacity in China for 10 years, preventing subsidized firms from simultaneously aiding Chinese competitors.
 
 {% hint style="warning" %}
 **The 10-Year China Ban**
 CHIPS Act "guardrails" force companies to make a fundamental choice: take U.S. subsidies or expand in China—not both. Any company receiving CHIPS funding is prohibited from materially expanding semiconductor manufacturing capacity in China for 10 years. For companies like Intel, TSMC, and Samsung that have existing China operations, this creates difficult strategic trade-offs. The guardrails effectively weaponize subsidies, turning industrial policy into a tool for accelerating decoupling.
 {% endhint %}
 
-By early 2026, several flagship CHIPS projects had moved from announcement to finalized award terms. **TSMC** received up to $6.6 billion in direct CHIPS funding and up to $5 billion in potential loans; in March 2025 it announced plans to increase its U.S. investment to $165 billion, adding a third Arizona fab plus advanced packaging and R&D capacity. **Intel** signed a preliminary CHIPS award of up to $7.865 billion in direct funding plus up to $11 billion in loans across Arizona, New Mexico, Ohio, and Oregon. **Samsung** signed a preliminary award of up to $4.745 billion in direct funding and up to $1.458 billion in loans for Central Texas investments exceeding $37 billion. **Micron** signed a preliminary CHIPS award of up to $6.165 billion tied to long-run memory fab expansion in New York and Idaho. **GlobalFoundries** received up to $1.5 billion in direct funding to support more than $12 billion in expansion in New York and Vermont.
+By early 2026, several flagship CHIPS projects had moved from announcement to finalized award terms. **TSMC** received up to $6.6 billion in direct CHIPS funding and up to $5 billion in potential loans; in March 2025 it announced plans to increase its U.S. investment to $165 billion, adding a third Arizona fab plus advanced packaging and R&D capacity. **Intel** signed a preliminary CHIPS award of up to $7.865 billion in direct funding plus up to $11 billion in loans across Arizona, New Mexico, Ohio, and Oregon. **Samsung** signed a preliminary award of up to $4.745 billion in direct funding and up to $1.458 billion in loans for Central Texas investments exceeding $37 billion. **Micron** signed a preliminary CHIPS award of up to $6.165 billion tied to long-run memory fab expansion in New York and Idaho. **GlobalFoundries** received up to $1.5 billion in direct funding to support more than $12 billion in expansion in New York and Vermont (U.S. Department of Commerce 2024; The White House 2025).
 
 These projects still face significant **challenges**. **Cost overruns** remain common, as U.S. fab construction costs run materially above equivalent facilities in Taiwan or Korea due to labor, regulatory, and materials expenses. **Talent shortages** remain binding in engineering and technician roles. Questions of **subsidy dependency** also persist: without continuing public support, private economics still favor lower-cost offshore production in many segments. Finally, **timeline risk** remains substantial; original schedules for multiple projects slipped, and ramp quality/yield execution has become at least as important as groundbreaking announcements.
 
@@ -351,9 +351,9 @@ The IRA's early **impact** has been substantial. Over $100 billion in clean ener
 
 **Infrastructure Investment and Jobs Act (November 2021)**
 
-The $1.2 trillion infrastructure bill includes significant industrial policy elements. It allocates $65 billion for broadband expansion, $42 billion for bridge repair and replacement, $39 billion for public transit modernization, and $7.5 billion for EV charging infrastructure. **"Buy America" provisions** requiring domestic content for infrastructure projects further reinforce the reshoring objectives shared across these legislative efforts.
+The $1.2 trillion infrastructure bill includes significant industrial policy elements. It allocates $65 billion for broadband expansion, $42 billion for bridge repair and replacement, $39 billion for public transit modernization, and $7.5 billion for EV charging infrastructure (Congressional Budget Office 2022; 2023). **"Buy America" provisions** requiring domestic content for infrastructure projects further reinforce the reshoring objectives shared across these legislative efforts.
 
-**Total U.S. Industrial Policy Commitment: ~$500 billion** across these three acts, representing fundamental shift from market-driven allocation to strategic state intervention.
+**Total U.S. Industrial Policy Commitment: ~$500 billion** across these three acts, representing fundamental shift from market-driven allocation to strategic state intervention (Congressional Budget Office 2022; 2023).
 
 ### China's State-Directed Model: Made in China 2025 and Beyond
 
@@ -373,7 +373,7 @@ Announced in 2015, Made in China 2025 targets ten strategic industries for Chine
 9. New materials (rare earths, composites)
 10. Biopharmaceuticals and medical devices
 
-The plan set **explicit self-sufficiency targets**: 40% domestic content by 2020, 70% domestic content by 2025, and global leadership in key sectors by 2049, the 100th anniversary of the People's Republic of China.
+The plan set **explicit self-sufficiency targets**: 40% domestic content by 2020, 70% domestic content by 2025, and global leadership in key sectors by 2049, the 100th anniversary of the People's Republic of China (State Council of the People's Republic of China 2015).
 
 The program operates through several reinforcing **mechanisms**. Central and local governments provide **subsidies** in the form of grants, below-market-rate loans, and tax incentives totaling hundreds of billions of dollars. **Government procurement** policies mandate preferential purchasing from domestic suppliers. **Technology transfer requirements** compel foreign firms seeking Chinese market access to partner with Chinese companies and share proprietary technology. **State-owned enterprises** are directed to invest in strategic sectors regardless of short-term profitability. Government-backed **venture capital** funds channel investment into startups in target sectors. And the **"Thousand Talents Plan"** actively recruits foreign scientists and engineers to bring expertise into Chinese institutions.
 
@@ -381,7 +381,7 @@ The program operates through several reinforcing **mechanisms**. Central and loc
 
 **Big Fund I, II, and III: Semiconductor Focus**
 
-China's National Integrated Circuit Industry Investment Fund (the "Big Fund") exemplifies state-directed capital allocation. **Big Fund I**, established in 2014 with $21 billion in capital, invested in foundries such as SMIC and Hua Hong, memory manufacturers like Yangtze Memory Technologies (YMTC), and packaging firms. **Big Fund II** followed in 2019 with $29 billion, shifting focus toward design tools (EDA software), equipment manufacturing, and materials. **Big Fund III**, launched in 2024 with an estimated $47 billion, targets advanced chips, AI processors, and domestic equipment development.
+China's National Integrated Circuit Industry Investment Fund (the "Big Fund") exemplifies state-directed capital allocation. **Big Fund I**, established in 2014 with $21 billion in capital, invested in foundries such as SMIC and Hua Hong, memory manufacturers like Yangtze Memory Technologies (YMTC), and packaging firms. **Big Fund II** followed in 2019 with $29 billion, shifting focus toward design tools (EDA software), equipment manufacturing, and materials. **Big Fund III**, launched in 2024 with an estimated $47 billion, targets advanced chips, AI processors, and domestic equipment development (Center for Strategic and International Studies 2023; Bloomberg News 2024).
 
 The **results** of these investments have been mixed. The Chinese semiconductor industry has expanded capacity dramatically, but significant technology gaps persist. SMIC achieved a notable milestone by demonstrating 7nm chip production for the Huawei Mate 60 Pro despite equipment restrictions, though yields reportedly remain low at 40-50%. Chinese firms produce mature-node manufacturing tools but lag 10-15 years behind the cutting edge in lithography, etching, and deposition equipment. China's share of global semiconductor production capacity rose from 12% in 2015 to 24% in 2024, but this growth concentrates in mature nodes (28nm and above), with advanced node production (14nm and below) remaining a small share. Questions of efficiency also cloud the picture: massive capital investment yielded progress but at high cost, and multiple Big Fund corruption scandals---with executives arrested for embezzlement---raise serious doubts about allocation efficiency.
 
@@ -906,6 +906,14 @@ The case is particularly instructive for this chapter's themes because it illust
 11. European Commission, "Report from the Commission to the European Parliament and the Council: Tenth annual report on the screening of foreign direct investments into the Union (2024)," COM(2025) 330 final (June 2025).
 
 12. American Enterprise Institute, "China Global Investment Tracker," https://www.aei.org/china-global-investment-tracker/
+
+13. Rasser, Martijn, et al. "The CHIPS and Science Act: Here Comes the Hardest Part." Center for Strategic and International Studies, August 2022.
+
+14. Center for Strategic and International Studies. *China Chip Fund Tracker: Mapping Chinese Semiconductor State Investment.* CSIS, 2023.
+
+15. Bloomberg News. "China Creates $47.5 Billion Chip Fund, Biggest to Date." Bloomberg, May 27, 2024.
+
+16. Congressional Budget Office. Cost estimates and budgetary analyses of the CHIPS and Science Act, Inflation Reduction Act, and Infrastructure Investment and Jobs Act. 2022–2023.
 
 ---
 
