@@ -60,6 +60,12 @@ Lester, Simon, Bryan Mercurio, and Arwel Davies. *World Trade Law: Text, Materia
 
 Acosta, Alberto. "Extractivism and Neoextractivism: Two Sides of the Same Curse." In *Beyond Development: Alternative Visions from Latin America*, edited by Miriam Lang and Dunia Mokrani, 61–86. Transnational Institute / Rosa Luxemburg Foundation, 2013.
 
+Copeland, Dale C. *Economic Interdependence and War*. Princeton University Press, 2015.
+
+Heckscher, Eli F. *The Continental System: An Economic Interpretation*. Oxford University Press, 1922.
+
+Smil, Vaclav. *Enriching the Earth: Fritz Haber, Carl Bosch, and the Transformation of World Food Production*. MIT Press, 2001.
+
 ## Journal Articles and Reports {-}
 
 Allen, Gregory C. "Choking Off China's Access to the Future of AI." Center for Strategic and International Studies, October 2022.
@@ -113,6 +119,14 @@ Hickel, Jason, and Dylan Sullivan. "How the Rich Are Robbing the Poor: Unequal E
 U.S. Pharmacopeia. *Medicine Supply Map: 2023 Report on Pharmaceutical Supply Chain Vulnerability*. USP, 2023.
 
 Fang, Yuqing, and Xiulian Chen. "The Globalization of Active Pharmaceutical Ingredient Manufacturing: Vulnerabilities and Policy Responses." PubMed Central (PMC), 2024.
+
+Paarlberg, Robert L. "Lessons of the Grain Embargo." *Foreign Affairs* 59, no. 1 (1980).
+
+Bellemare, Marc F. "Rising Food Prices, Food Price Volatility, and Social Unrest." *American Journal of Agricultural Economics* 97, no. 1 (2015): 1–21.
+
+Hendrix, Cullen S., and Stephan Haggard. "Global Food Prices, Regime Type, and Urban Unrest in the Developing World." *Journal of Peace Research* 52, no. 2 (2015): 143–157.
+
+Brinkman, Henk-Jan, and Cullen S. Hendrix. "Food Insecurity and Violent Conflict: Causes, Consequences, and Addressing the Challenges." World Food Programme Occasional Paper, 2011.
 
 ## Think-Tank, Government, and Press Reports {-}
 
@@ -211,6 +225,28 @@ U.S.-China Business Council. "US-China Trade Statistics." Annual Reports, 2000-2
 World Bank. "World Development Indicators." Various years. https://databank.worldbank.org
 
 World Trade Organization. "Trade Statistics." Various years.
+
+U.S. Geological Survey (USGS). *Mineral Commodity Summaries*. Annual. https://www.usgs.gov/centers/national-minerals-information-center
+
+SWIFT. *RMB Tracker* and annual activity statistics. Various months and years. https://www.swift.com
+
+International Monetary Fund (IMF). *Currency Composition of Official Foreign Exchange Reserves (COFER)* and *World Economic Outlook* databases. Various years. https://data.imf.org
+
+Organisation for Economic Co-operation and Development (OECD). Main Science and Technology Indicators and related databases. Various years. https://www.oecd.org
+
+Organization of the Petroleum Exporting Countries (OPEC). *Annual Statistical Bulletin*. Various years. https://www.opec.org
+
+United Nations. *UN Comtrade Database* (international merchandise trade statistics). https://comtrade.un.org
+
+World Food Programme (WFP). *Global Report on Food Crises* and related data. Various years. https://www.wfp.org
+
+TechInsights. Semiconductor teardown and process-node analyses. Various years. https://www.techinsights.com
+
+SemiAnalysis. Semiconductor industry research. Various years. https://www.semianalysis.com
+
+Benchmark Mineral Intelligence. Battery and critical-minerals price and supply-chain data. Various years. https://www.benchmarkminerals.com
+
+Congressional Research Service (CRS). Reports on U.S. trade, sanctions, and export-control policy. Various years. https://crsreports.congress.gov
 
 ## Think Tank and Policy Analysis {-}
 
