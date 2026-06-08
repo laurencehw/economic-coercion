@@ -385,6 +385,8 @@ The international legal question remains unresolved: the U.S. views secondary sa
 
 Aggressive U.S. use of financial sanctions—particularly freezing Russia's central bank reserves (2022)—accelerated efforts to reduce dollar dependence and build alternative financial infrastructure. This section examines de-dollarization initiatives, assessing whether challengers can create viable substitutes for dollar-dominated systems (see Chapter 10 for scenarios exploring de-dollarization trajectories and future financial system fragmentation).
 
+This is the substitution margin of Chapter 1 operating in the financial domain. The dollar's centrality is a chokepoint of unusual durability: network effects, deep and liquid markets, and the absence of a trusted alternative keep the replacement cost of dollar clearing very high, which is what gives the sanctions their bite. But that replacement cost is not fixed, and each conspicuous use of the dollar's centrality—above all the freezing of a G20 central bank's reserves—raises the return to building an escape route and lowers the political cost of being seen to do so. The result is the slow, partial construction of substitutes: CIPS for messaging and settlement, bilateral settlement in national currencies, reserve diversification, and central bank digital currencies. None is near displacing the dollar, and the substitution margin here is narrow and slow precisely because money runs on trust and scale rather than on a single piece of equipment that can be reverse-engineered. But the direction of travel is the one the lens predicts: coercion that works by exploiting a dependence also teaches the target, and everyone watching, to reduce it.
+
 ### Motivations for De-dollarization
 
 **Sanctions Vulnerability**

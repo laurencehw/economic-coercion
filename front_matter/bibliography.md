@@ -6,6 +6,8 @@ Autor, David H., David Dorn, and Gordon H. Hanson. "The China Shock: Learning fr
 
 Baldwin, David A. *Economic Statecraft*. Princeton University Press, 1985.
 
+Acemoglu, Daron. "When Does Labor Scarcity Encourage Innovation?" *Journal of Political Economy* 118, no. 6 (2010): 1037–1078.
+
 Bradford, Anu. *The Brussels Effect: How the European Union Rules the World*. Oxford University Press, 2020.
 
 Blackwill, Robert D., and Jennifer M. Harris. *War by Other Means: Geoeconomics and Statecraft*. Harvard University Press, 2016.
@@ -15,6 +17,10 @@ Drezner, Daniel W. *The Sanctions Paradox: Economic Statecraft and International
 Farrell, Henry, and Abraham L. Newman. *Underground Empire: How America Weaponized the World Economy*. Henry Holt and Co., 2023.
 
 Hirschman, Albert O. *National Power and the Structure of Foreign Trade*. University of California Press, 1945.
+
+Habakkuk, H. J. *American and British Technology in the Nineteenth Century: The Search for Labour-Saving Inventions*. Cambridge University Press, 1962.
+
+Hornbeck, Richard, and Suresh Naidu. "When the Levee Breaks: Black Migration and Economic Development in the American South." *American Economic Review* 104, no. 3 (2014): 963–990.
 
 Hufbauer, Gary Clyde, Jeffrey J. Schott, Kimberly Ann Elliott, and Barbara Oegg. *Economic Sanctions Reconsidered*, 3rd edition. Peterson Institute for International Economics, 2007.
 
