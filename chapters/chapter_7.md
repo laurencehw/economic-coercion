@@ -1092,7 +1092,11 @@ Nephew, Richard. *The Art of Sanctions: A View from the Field*. Columbia Univers
 
 Zarate, Juan C. *Treasury's War: The Unleashing of a New Era of Financial Warfare*. Public Affairs, 2013.
 
+Asian Infrastructure Investment Bank (AIIB). *AIIB Annual Report 2024*. Beijing: Asian Infrastructure Investment Bank, 2025. https://www.aiib.org
+
 AsianBondsOnline (Asian Development Bank). "People's Republic of China: Market Summary." Local-currency bond market data, 2025. https://asianbondsonline.adb.org
+
+Cross-Border Interbank Payment System (CIPS Co., Ltd.). *CIPS Annual Report 2024* (annual business statistics). Shanghai: CIPS Co., Ltd., 2025. https://www.cips.com.cn
 
 Bank for International Settlements. "Global Liquidity Indicators at End-December 2025." BIS Statistical Release, April 2026. https://www.bis.org/statistics/gli2604.htm
 
@@ -1101,6 +1105,8 @@ Federal Bureau of Investigation. "North Korea Responsible for $1.5 Billion Bybit
 Group of Seven (G7). "G7 Leaders' Statement on Extraordinary Revenue Acceleration (ERA) Loans." October 25, 2024.
 
 Le Maire, Bruno. Interview, France Info radio, March 1, 2022.
+
+New Development Bank (NDB). *Annual Report 2024*. Shanghai: New Development Bank, 2025. https://www.ndb.int
 
 S&P Global. "Saudi-China Ties and Renminbi-Based Oil Trade." Special Report, August 2024.
 
@@ -1111,6 +1117,8 @@ U.S. Congress. GENIUS Act (Guiding and Establishing National Innovation for U.S.
 U.S. Department of the Treasury (OFAC). "Treasury Sanctions Major Russian Oil Companies, Calls on Moscow to Immediately Agree to Ceasefire." Press Release, October 22, 2025.
 
 U.S. Department of the Treasury. "Disbursement of $20 Billion Loan to Benefit Ukraine, To Be Repaid with Proceeds Earned from Immobilized Russian Sovereign Assets." Press Release, December 2024.
+
+U.S. Department of the Treasury. "Treasury Prohibits Transactions with Central Bank of Russia and Imposes Sanctions on Key Sources of Russia's Wealth." Press Release JY0612, February 28, 2022.
 
 U.S. Department of the Treasury. "Sanctions Review." October 2021.
 

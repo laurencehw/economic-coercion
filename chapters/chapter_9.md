@@ -1063,6 +1063,8 @@ Migration policy increasingly viewed as strategic tool in technology competition
 
 15. U.S. Department of the Treasury, Office of Foreign Assets Control. "Treasury Sanctions Major Russian Oil Companies, Calls on Moscow to Immediately Agree to Ceasefire." Press release, October 22, 2025.
 
+16. U.S. Department of Agriculture, Economics and Statistics Service. *USSR Agricultural Situation: Review of 1980 and Outlook for 1981*. World Agricultural Situation Supplement 1 to WAS-24. Washington, DC: USDA, April 1981.
+
 ---
 
 

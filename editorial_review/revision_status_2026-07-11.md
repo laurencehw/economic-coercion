@@ -21,19 +21,24 @@
 
 ## NOT done (monthly spend limit hit mid-run)
 
-1. **Verification phase** — the four planned adversarial checks never ran: statistic-drift grep across all files, citation-resolution check (every in-text cite → bibliography entry), and two web-verified adversarial spot-checks of the agents' edits (+ remediation). **This is the priority when budget allows** — the revision added many 2025–26 factual claims that were web-verified by their authors but not independently re-checked.
+1. ~~**Verification phase**~~ — **COMPLETED later the same day** (workflow `wf_dcb00893-f3c`, 6 agents, ~430 checks). Results: the revision held up under adversarial re-verification — 89 spot-checked 2025–26 claims were confirmed accurate (incl. *Learning Resources v. Trump*, Busan truce, BIOSECURE = §851 FY2026 NDAA / P.L. 119-60 with WuXi AppTec added June 8 2026, OBBBA = P.L. 119-21, chip specs, CFIUS CY2024). 17 of 20 canonical statistics were fully conformed across all files. Fixed in the verification commit: US–China R&D market-rate gap (~double, not 40%), GERD fifth (not sixth) filling, China now THIRD-largest Treasury holder (behind Japan and the UK since March 2025 TIC), 9 previously-unresolvable citations given verified bibliography entries, two fabricated references replaced with real publications (Kennedy & Shivakumar "Competing for Critical Minerals" → Baskaran & Schwartz, CSIS; Triolo & Greene 2023 → Triolo 2024, *American Affairs*), Reuters Nvidia entry corrected (CFO Kress, not CEO), canonical RMB row set to 1.93% (COFER 2025Q3).
 2. **Not embedded (deliberate):** orphaned figures fig_06_07, fig_08_08, fig_10_02, fig_10_06 (generated but data vintage unverified — fig_08_08 prints "2023 Total Reviews: 380" which may conflict with the canonical CFIUS 2024 stats), plus ch4/ch7/ch8 orphans; legacy `create_figure_*.py` cruft in figures/ not purged.
 3. **Phase 5 (deferred by design):** de-duplication + voice pass (bold-bullet scaffolding → prose; ch7 as register benchmark).
 4. **Phase 6:** index, external expert reads, final automated QA.
 
-## Flagged by agents (author judgment needed)
+## Flagged by agents — RESOLVED by verification pass (2026-07-11, second workflow)
 
-- **RMB reserve share:** ch7 agent kept 1.93% (verified against IMF COFER 2025Q3 directly) over the canonical table's 2.1% — deliberate, documented deviation.
-- **Kennedy & Shivakumar "Competing for Critical Minerals" (CSIS 2023)** in appendix Ex3: could not be verified; review before print.
-- **Triolo & Greene 2023** (Carnegie): author confirmed real; exact article title/date unconfirmed.
-- **OBBBA public law number (119-21)** not confirmed against a primary source.
-- **BIOSECURE** enacted-status wording: verify against enrolled FY2026 NDAA before print.
-- Chapter agents' full flag lists: workflow journal at `~/.claude/projects/.../subagents/workflows/wf_dea597f6-151/journal.jsonl`.
+- **RMB reserve share:** 1.93% (COFER 2025Q3) CONFIRMED correct; canonical table updated to match.
+- **Kennedy & Shivakumar (CSIS 2023):** REFUTED — no such publication; replaced with Baskaran & Schwartz (CSIS) in appendix and exercises/ch03.
+- **Triolo & Greene 2023:** REFUTED — replaced with Triolo 2024, "A New Era for the Chinese Semiconductor Industry," *American Affairs* 8(1).
+- **OBBBA P.L. 119-21:** CONFIRMED (congress.gov).
+- **BIOSECURE:** CONFIRMED — §851 of FY2026 NDAA, P.L. 119-60 (Dec 18, 2025); WuXi AppTec designated June 8, 2026.
+
+## Remaining open items (author judgment)
+
+- **Phillips McDougall 2020** (ch3:100, agrochemical market concentration ~60–65%): real firm (now AgbioInvestor/S&P Global), but the specific 2020 publication is unverifiable — supply a citable source or re-attribute to AgbioInvestor/industry data.
+- Low-severity, deliberate-vintage items: ch1 dollar share "58% (COFER 2024)" vs ch7 "56.92% (2025Q3)" — both correct for their dates; ch7 SWIFT RMB share 2.73% (Dec 2025 Tracker) vs canonical ~2.9% (June 2025) — both real prints; "(SCMP 2024)" acronym never glossed.
+- Chapter agents' full flag lists: workflow journals `wf_dea597f6-151` and `wf_dcb00893-f3c` under `~/.claude/projects/.../subagents/workflows/`.
 
 ## Recommended next steps
 

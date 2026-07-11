@@ -179,7 +179,7 @@ Decarbonization requires massive increases in specific mineral production (IEA 2
 
 **Rare earths** (wind turbine magnets, EV motors):
 - Already stressed supply (Chapter 2, Chapter 9 rare earth case)
-- China: 85% of processing, 60% of mining
+- China: 85% of processing, 70% of mining
 
 **Nickel, copper, graphite, manganese**: All require 2-5x production increases
 
@@ -229,7 +229,7 @@ By 2040-2050:
 
 **Upstream control provides coercive leverage**:
 
-- **Nile**: Ethiopia's Grand Ethiopian Renaissance Dam (GERD) gives upstream control over water flows to Egypt and Sudan (roughly 90% of Egypt's water comes from the Nile). Through a decade of construction Cairo warned that filling the reservoir could sharply cut its supply, and repeatedly hinted at military action. In the event, the dam completed its sixth and final reservoir filling in October 2024 and was inaugurated on September 9, 2025 without the catastrophic downstream shortfall Egypt had feared—Ethiopia filled gradually and largely during high-flow years, and no binding tripartite agreement was ever reached. The episode is now a case study in coercive leverage that was brandished but, in the end, not exercised: the capability is permanent, but Ethiopia declined to weaponize it, and the leverage now lies latent in reservoir-management decisions for decades to come.
+- **Nile**: Ethiopia's Grand Ethiopian Renaissance Dam (GERD) gives upstream control over water flows to Egypt and Sudan (roughly 90% of Egypt's water comes from the Nile). Through a decade of construction Cairo warned that filling the reservoir could sharply cut its supply, and repeatedly hinted at military action. In the event, the dam completed its fifth and final reservoir filling in October 2024 and was inaugurated on September 9, 2025 without the catastrophic downstream shortfall Egypt had feared—Ethiopia filled gradually and largely during high-flow years, and no binding tripartite agreement was ever reached. The episode is now a case study in coercive leverage that was brandished but, in the end, not exercised: the capability is permanent, but Ethiopia declined to weaponize it, and the leverage now lies latent in reservoir-management decisions for decades to come.
 
 - **Mekong**: China's upstream dams control flow to Vietnam, Thailand, Laos, Cambodia. Chinese dam operations (water retention, sudden releases) cause downstream flooding, droughts. Potential coercive tool in regional disputes.
 
@@ -237,7 +237,7 @@ By 2040-2050:
 
 {% hint style="danger" %}
 **Upstream Dam Leverage**
-Water has no substitute, so a country controlling upstream flows holds substantial leverage over downstream neighbors. Egyptian analysts had modeled worst-case scenarios in which a rapid filling of Ethiopia's Grand Ethiopian Renaissance Dam might temporarily cut Egypt's water supply by as much as a quarter, threatening food production for 100 million people—but that worst case did not materialize: Ethiopia filled the reservoir gradually over six years, completing it in October 2024 and inaugurating the dam in September 2025 without a catastrophic downstream shortfall. The lesson is instructive. The coercive capability created by upstream infrastructure is real and permanent, yet its exercise remains a political choice, and the mere existence of the leverage reshaped a decade of regional diplomacy even though the leverage was never fully used. China's Mekong dams have caused droughts and floods in Vietnam, Thailand, Laos, and Cambodia. Unlike oil, which has alternatives, or semiconductors, which can eventually be produced elsewhere, water leverage is difficult to circumvent, and its consequences can extend to famine.
+Water has no substitute, so a country controlling upstream flows holds substantial leverage over downstream neighbors. Egyptian analysts had modeled worst-case scenarios in which a rapid filling of Ethiopia's Grand Ethiopian Renaissance Dam might temporarily cut Egypt's water supply by as much as a quarter, threatening food production for 100 million people—but that worst case did not materialize: Ethiopia filled the reservoir gradually over five years, completing it in October 2024 and inaugurating the dam in September 2025 without a catastrophic downstream shortfall. The lesson is instructive. The coercive capability created by upstream infrastructure is real and permanent, yet its exercise remains a political choice, and the mere existence of the leverage reshaped a decade of regional diplomacy even though the leverage was never fully used. China's Mekong dams have caused droughts and floods in Vietnam, Thailand, Laos, and Cambodia. Unlike oil, which has alternatives, or semiconductors, which can eventually be produced elsewhere, water leverage is difficult to circumvent, and its consequences can extend to famine.
 {% endhint %}
 
 **Agricultural Dependencies**

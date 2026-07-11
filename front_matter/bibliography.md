@@ -45,6 +45,8 @@ Hirschman, Albert O. 1945. *National Power and the Structure of Foreign Trade*. 
 
 Hufbauer, Gary Clyde, Jeffrey J. Schott, Kimberly Ann Elliott, and Barbara Oegg. 2007. *Economic Sanctions Reconsidered*. 3rd ed. Peterson Institute for International Economics.
 
+Irwin, Douglas A. 2017. *Clashing over Commerce: A History of U.S. Trade Policy*. University of Chicago Press.
+
 Jackson, Van. 2016. *Rival Reputations: Coercion and Credibility in US–North Korea Relations*. Cambridge University Press.
 
 Jentleson, Bruce W. 1986. *Pipeline Politics: The Complex Political Economy of East-West Energy Trade*. Cornell University Press.
@@ -205,8 +207,6 @@ Rajagopalan, Rajeswari Pillai, and Joel Wuthnow. 2021. "India-China Border Tensi
 
 Rasser, Martijn, et al. 2022. "The CHIPS and Science Act: Here Comes the Hardest Part." Center for Strategic and International Studies (CSIS), August.
 
-Reuters. 2023. "Nvidia CEO Says China Revenue Could Fall 'Significantly' Under Export Curbs." Reuters, August 24.
-
 Reuters. 2024. "China Launches Third Phase of Chip Fund with $47.5 Billion." Reuters, May 24.
 
 Rosen, Daniel H. 2023. "The Chinese Economy's Reality Check." *Foreign Affairs*, September/October.
@@ -217,11 +217,13 @@ Shane, Scott, and Daisuke Wakabayashi. 2018. "The Business of War: Google Employ
 
 Shih, Gerry, and Lindsay Maizland. 2022. "How China Reshaped the Global Internet." Brookings Institution and Council on Foreign Relations joint report.
 
+South China Morning Post. 2023. "Nvidia Sees Permanent Loss of Opportunities from China Export Curbs." *South China Morning Post*, August 24.
+
 South China Morning Post. 2024. "China's Third Phase 'Big Fund' Raises $47.5 Billion for Semiconductor Self-Sufficiency." *South China Morning Post*, May.
 
 Sullivan, Jake. 2022. "Remarks by National Security Advisor Jake Sullivan at the Special Competitive Studies Project Global Emerging Technologies Summit." White House, September 16.
 
-Triolo, Paul, and Robert Greene. 2023. "Will China's Chip Breakthrough Undermine U.S. Tech Restrictions?" Carnegie Endowment for International Peace, September.
+Triolo, Paul. 2024. "A New Era for the Chinese Semiconductor Industry: Beijing Responds to Export Controls." *American Affairs* 8, no. 1 (Spring).
 
 U.S.-China Economic and Security Review Commission (USCC). 2019. *2019 Report to Congress*. Washington, DC.
 
@@ -300,6 +302,8 @@ U.S. National Security Strategy. 2022. The White House, October.
 U.S. Pharmacopeia (USP). 2023. *Medicine Supply Map: 2023 Report on Pharmaceutical Supply Chain Vulnerability*.
 
 White House. 2015. "U.S.-China Joint Presidential Statement on Climate Change." September 25.
+
+White House. 2017. *National Security Strategy of the United States of America*. December.
 
 White House. 2021. "Building Resilient Supply Chains, Revitalizing American Manufacturing, and Fostering Broad-Based Growth." June.
 

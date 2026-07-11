@@ -235,7 +235,7 @@ After completing this exercise, participants should be able to:
 
 **On Rare Earth Supply Chains:**
 - Hurst, Cindy. "China's Rare Earth Elements Industry." TRADOC G-2, 2010
-- Kennedy, Scott, and Sujai Shivakumar. "Competing for Critical Minerals." CSIS, 2023
+- Baskaran, Gracelin, and Meredith Schwartz. "The Consequences of China's New Rare Earths Export Restrictions." CSIS, 2025
 
 **Case Studies:**
 - 2010 China-Japan rare earth crisis

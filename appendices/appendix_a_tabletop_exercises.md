@@ -34,7 +34,7 @@ Throughout this appendix, look for the **"→ EconWar variant"** pointer at the 
 
 Taiwan's newly elected president has announced plans to pursue formal constitutional changes that Beijing views as steps toward de jure independence. In response, the People's Liberation Army (PLA) has initiated large-scale military exercises encircling Taiwan, including a partial naval blockade that disrupts commercial shipping. China has not declared war but characterizes the exercises as "internal law enforcement operations."
 
-The United States faces pressure from Taiwan, Japan, and other Indo-Pacific allies to respond with both security guarantees and economic measures. However, the U.S.-China economic relationship remains deeply intertwined: China holds roughly $680 billion in U.S. Treasury securities (the second-largest foreign holder), two-way goods trade still runs well over $500 billion annually, and U.S. firms depend on Chinese supply chains for critical inputs. China, meanwhile, remains dependent on Taiwan for advanced semiconductors, U.S. semiconductor equipment, and access to Western financial systems.
+The United States faces pressure from Taiwan, Japan, and other Indo-Pacific allies to respond with both security guarantees and economic measures. However, the U.S.-China economic relationship remains deeply intertwined: China holds roughly $680 billion in U.S. Treasury securities (the third-largest foreign holder, behind Japan and the United Kingdom), two-way goods trade still runs well over $500 billion annually, and U.S. firms depend on Chinese supply chains for critical inputs. China, meanwhile, remains dependent on Taiwan for advanced semiconductors, U.S. semiconductor equipment, and access to Western financial systems.
 
 You are members of the National Security Council Deputies Committee convened to develop economic response options for the President. The crisis is escalating, and decisions made in the next 48-72 hours will shape whether the situation resolves diplomatically, escalates to comprehensive economic conflict, or moves toward military confrontation.
 
@@ -172,7 +172,7 @@ Taiwan's government indicates it is considering halting semiconductor exports to
 
 **Economic Data:**
 - U.S.-China two-way goods trade: ~$584 billion (2024); record peak ~$690 billion in 2022, falling to ~$415 billion in 2025 after the tariff war (U.S. Census, goods basis; goods-plus-services runs ~$100-130 billion higher)
-- Chinese holdings of U.S. Treasuries: ~$680 billion (late 2025); second-largest foreign holder after Japan, down from a 2013 peak above $1.3 trillion (Treasury TIC)
+- Chinese holdings of U.S. Treasuries: ~$680 billion (late 2025); third-largest foreign holder, behind Japan and the United Kingdom, down from a 2013 peak above $1.3 trillion (Treasury TIC)
 - Taiwan semiconductor exports to China: ~$140 billion annually
 - U.S. imports from China: ~$440 billion (2024); peaked at ~$536 billion in 2022
 - U.S. exports to China: ~$143 billion (2024)
@@ -735,7 +735,7 @@ After completing this exercise, participants should be able to:
 
 **On Rare Earth Supply Chains:**
 - Hurst, Cindy. "China's Rare Earth Elements Industry." TRADOC G-2, 2010
-- Kennedy, Scott, and Sujai Shivakumar. "Competing for Critical Minerals." CSIS, 2023
+- Baskaran, Gracelin, and Meredith Schwartz. "The Consequences of China's New Rare Earths Export Restrictions." CSIS, 2025
 
 **Case Studies:**
 - 2010 China-Japan rare earth crisis
