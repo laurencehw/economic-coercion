@@ -39,7 +39,7 @@ events_data <- tibble(
 economic_data <- tibble(
   Year = 1980:1994,
   GDP_Growth = c(6.6, 5.4, -0.4, -1.8, 5.1, -1.2, 0.0, 2.1, 4.2, 0.3, -0.3, -1.0, -2.1, 1.2, 3.2),
-  Rand_USD = c(0.77, 0.87, 0.92, 0.89, 0.68, 0.45, 0.44, 0.50, 0.39, 0.38, 0.39, 0.36, 0.35, 0.34, 0.28),
+  Rand_USD = c(1.28, 1.14, 0.92, 0.90, 0.69, 0.45, 0.44, 0.49, 0.44, 0.38, 0.39, 0.36, 0.35, 0.31, 0.28),
   FDI_Billions = c(0.8, 0.6, 0.4, 0.3, 0.4, -0.2, -0.5, -0.3, 0.1, 0.2, 0.3, 0.4, 0.6, 1.2, 1.5)
 )
 
@@ -163,7 +163,7 @@ p3 <- ggplot(economic_data, aes(x = Year, y = Rand_USD)) +
   # Key event markers
   geom_vline(xintercept = 1985, color = "#d62728", linetype = "dotted", linewidth = 0.8) +
 
-  annotate("label", x = 1985, y = 0.85,
+  annotate("label", x = 1985, y = 1.05,
            label = "1985 Debt Crisis\nRand collapses 35%",
            size = 2.8, fill = "lightyellow", label.size = 0.2) +
 
@@ -174,7 +174,7 @@ p3 <- ggplot(economic_data, aes(x = Year, y = Rand_USD)) +
     title = "South African Rand vs USD",
     subtitle = "Currency depreciation during sanctions",
     x = "Year",
-    y = "Rand per USD"
+    y = "USD per rand"
   ) +
   theme_econ_textbook()
 
@@ -190,7 +190,7 @@ combined <- p1 / (p2 + p3) +
     subtitle = "Multi-decade sanctions campaign combining UN embargoes, financial pressure, and US legislation",
     caption = paste0(
       "Sources: UN Security Council Resolutions, Hufbauer et al. Sanctions Database, World Bank, IMF.\n",
-      "Note: CAAA = Comprehensive Anti-Apartheid Act of 1986. Rand values are annual averages.\n",
+      "Note: CAAA = Comprehensive Anti-Apartheid Act of 1986. Exchange rate shown as U.S. dollars per rand, annual averages (SARB).\n",
       "GDP growth data from South African Reserve Bank historical series."
     ),
     theme = theme(
@@ -207,5 +207,5 @@ save_econ_figure(here("figures", "fig_09_02_apartheid_timeline.png"), combined, 
 cat("\nFigure 9.2 Summary:\n")
 cat("  Timeline span: 1960-1994 (34 years)\n")
 cat("  Key milestones: 10 major events\n")
-cat("  Rand depreciation 1980-1994: 64%\n")
+cat("  Rand depreciation 1980-1994: 78%\n")
 cat("  GDP growth average 1985-1991: -0.3%\n")
