@@ -22,21 +22,23 @@ This textbook is written for multiple audiences:
 
 ## Organization and Structure
 
-The book is organized into ten chapters that build progressively from foundational concepts to contemporary applications and future scenarios:
+The book is organized into four parts spanning ten chapters that build progressively from foundational concepts to contemporary applications and future scenarios:
 
-**Part I: Foundations and Domains (Chapters 1-5)**
+**Part I: Foundations and Context (Chapters 1-2)**
 
-Chapter 1 introduces the analytical framework that guides the entire book. It defines economic coercion and sets out the four dimensions along which any case can be described: the domain in which coercion operates (trade, finance, investment, technology), the target (from entire states down to individual officials), the objective (deterrence, compellence, containment, signaling, or regime change), and the intensity of the measures (a spectrum from diplomatic pressure to full economic warfare). A separate set of five criteria—target compliance, capability degradation, cost imposition, sustainability, and collateral damage—is then used to assess whether a given episode succeeds.
+Chapter 1 introduces the analytical framework that guides the entire book. It defines economic coercion and sets out the four dimensions along which any case can be described: the domain in which coercion operates (trade, finance, investment, technology), the target (from entire states down to individual officials), the objective (deterrence, compellence, containment, signaling, or regime change), and the intensity of the measures (a spectrum from diplomatic pressure to full economic warfare). A separate set of five criteria—target compliance, capability degradation, cost imposition, sustainability, and collateral damage—is then used to assess whether a given episode succeeds. Chapter 2 turns to global supply chains and critical infrastructure, using semiconductors, critical minerals, and rare earths to show how economic interdependence becomes a source of leverage and vulnerability.
 
-Chapters 2-5 examine critical domains where economic coercion operates: global supply chains (semiconductors, critical minerals, rare earths), critical sectors (energy, food, infrastructure chokepoints), high-technology competition (AI, quantum computing, biotechnology), and the information and digital sphere (telecommunications networks, data governance, standards-setting).
+**Part II: Domains of Economic Statecraft (Chapters 3-5)**
 
-**Part II: Tools and Instruments (Chapters 6-8)**
+These chapters map the terrain across which economic coercion operates. Chapter 3 examines critical sectors—food, energy, and minerals—and the physical chokepoints that concentrate them. Chapter 4 turns to high-technology competition (AI, quantum computing, biotechnology). Chapter 5 addresses the information, cyber, and digital sphere: telecommunications networks, data governance, and standards-setting.
 
-These chapters examine the specific tools governments use to exercise economic coercion. Chapter 6 covers trade controls including tariffs, quotas, and export controls. Chapter 7 addresses financial statecraft: sanctions, asset freezes, exclusion from payment systems, and central bank measures. Chapter 8 explores investment screening, industrial policy, and state-directed economic development as both defensive and offensive tools.
+**Part III: Tools and Mechanisms (Chapters 6-8)**
 
-**Part III: Learning and Looking Forward (Chapters 9-10)**
+These chapters examine the specific tools governments use to exercise economic coercion. Chapter 6 covers trade controls including tariffs, quotas, and export controls. Chapter 7 addresses financial statecraft: sanctions, asset freezes, exclusion from payment systems, and central bank measures. Chapter 8 explores investment screening, industrial policy, and strategic assets as both defensive and offensive tools.
 
-Chapter 9 examines historical cases of economic coercion to extract lessons about what works, what doesn't, and why. Cases range from Cold War-era grain embargoes to contemporary sanctions on Iran, North Korea, and Russia. Chapter 10 looks forward, considering how emerging technologies, climate change, and shifting power dynamics will shape the future of economic coercion and geoeconomic competition.
+**Part IV: Looking Back and Looking Forward (Chapters 9-10)**
+
+Chapter 9 examines historical cases of economic coercion to extract lessons about what works, what doesn't, and why. Cases range from Cold War-era grain embargoes to contemporary sanctions on Iran, North Korea, and Russia. Chapter 10 looks forward, considering how emerging technologies, climate change, and shifting power dynamics will shape the future of economic coercion and geoeconomic competition. A short concluding chapter follows Chapter 10, drawing the book's arguments together and returning to the framework introduced in Chapter 1.
 
 **Appendix A: Tabletop Exercises** collects ten scenario-based simulation exercises (one per chapter) in a standalone appendix, providing 60-90 minute active learning experiences that can be used flexibly alongside any chapter.
 
@@ -64,9 +66,9 @@ Each chapter's "Key Insights" section summarizes main takeaways. Data sources an
 
 ## A Note on Data, Visualizations, and Currency
 
-This book includes 70+ original data visualizations covering trade flows, technology competition metrics, sanctions effectiveness, supply chain dependencies, and future scenarios. All visualizations are created from publicly available data sources, which are documented in each chapter's "Data Sources" section and in the companion data repository.
+This book includes more than 35 original data visualizations covering trade flows, technology competition metrics, sanctions effectiveness, supply chain dependencies, and future scenarios. All visualizations are created from publicly available data sources, which are documented in each chapter's "Data Sources" section and in the companion data repository.
 
-Given the rapidly evolving nature of economic coercion and geoeconomic competition, some statistics and policy details will inevitably become dated. We have made every effort to use data current through late 2024 and have designed the analytical framework to remain relevant even as specific policies and numbers change.
+Given the rapidly evolving nature of economic coercion and geoeconomic competition, some statistics and policy details will inevitably become dated. We have made every effort to use data current through early 2026 and have designed the analytical framework to remain relevant even as specific policies and numbers change.
 
 All dollar figures are in U.S. dollars unless otherwise noted. When discussing Chinese economic policies and programs, we provide both English translations and original Chinese terms (in pinyin and characters) to facilitate engagement with Chinese-language sources and to respect the specific meanings these terms carry in Chinese strategic discourse.
 
@@ -97,5 +99,5 @@ This book aims to provide that equipment: a systematic way to reason about the l
 ---
 
 **Laurence Wilse-Samson**
-Columbia School of International and Public Affairs
-November 2025 (revised April 2026)
+New York University, Robert F. Wagner Graduate School of Public Service (NYU Wagner)
+November 2025 (revised 2026)

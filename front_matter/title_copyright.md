@@ -3,14 +3,14 @@
 **Economic Coercion in the 21st Century: Tools, Strategies, and Great Power Competition**
 
 **Author:** Laurence Wilse-Samson
-**Affiliation:** Columbia School of International and Public Affairs
-**Date:** November 2025
+**Affiliation:** New York University, Robert F. Wagner Graduate School of Public Service (NYU Wagner)
+**Date:** November 2025 (revised 2026)
 
 ---
 
-Copyright © 2025 Laurence Wilse-Samson
+Copyright © 2025 Laurence Wilse-Samson. Revised 2026.
 
-All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means, including photocopying, recording, or other electronic or mechanical methods, without the prior written permission of the author, except in the case of brief quotations embodied in critical reviews and certain other noncommercial uses permitted by copyright law.
+This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0). You are free to share (copy and redistribute the material in any medium or format) and adapt (remix, transform, and build upon the material) for noncommercial purposes, provided you give appropriate credit, provide a link to the license, and indicate if changes were made. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc/4.0/.
 
 **Data Visualizations:** All figures created using R (ggplot2) from publicly available data sources. Data sources and reproduction code available at: [github.com/laurencehw/economic-coercion](https://github.com/laurencehw/economic-coercion)
 
@@ -48,7 +48,7 @@ This work draws on publicly available data from:
 
 ## About the Author
 
-**Laurence Wilse-Samson** teaches understanding emerging technology at Columbia University's School of International and Public Affairs (SIPA).
+**Laurence Wilse-Samson** teaches courses on emerging technology and economic policy at New York University's Robert F. Wagner Graduate School of Public Service (NYU Wagner).
 
-**Contact:** lhw2110@columbia.edu
+**Contact:** lw3387@nyu.edu
 **Repository:** [github.com/laurencehw/economic-coercion](https://github.com/laurencehw/economic-coercion)

@@ -1,4 +1,5 @@
-# Economic Coercion: A Handbook of Strategic Competition
+# Economic Coercion in the 21st Century
+### Tools, Strategies, and Great Power Competition
 
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
 
@@ -18,11 +19,10 @@ This book combines academic rigor with practical policy relevance, serving three
 
 | Part | Chapters |
 |------|----------|
-| **I. Foundations** | Ch 1: The Return of Geoeconomics |
-| **II. Strategic Terrain** | Ch 2: Global Supply Chains and Critical Infrastructure<br>Ch 3: Critical Sectors — Food, Energy, and Minerals<br>Ch 4: High Technology Competition |
-| **III. Information Domain** | Ch 5: Information, Cyber, and Intelligence |
-| **IV. Tools of Economic Coercion** | Ch 6: Trade Controls — Tariffs, Quotas, and Export Controls<br>Ch 7: Financial Statecraft and Sanctions<br>Ch 8: Investment Screening, Industrial Policy, and Strategic Assets |
-| **V. Context and Future** | Ch 9: Historical Cases and Contemporary Applications<br>Ch 10: The Future of Economic Coercion |
+| **I. Foundations and Context** | Ch 1: Foundations of Economic Statecraft<br>Ch 2: Global Supply Chains and Critical Infrastructure |
+| **II. Domains of Economic Statecraft** | Ch 3: Critical Sectors - Food, Energy, and Minerals<br>Ch 4: High Technology Competition<br>Ch 5: Information, Cyber, and Digital Infrastructure |
+| **III. Tools and Mechanisms** | Ch 6: Trade Controls - Tariffs, Quotas, and Export Controls<br>Ch 7: Financial Statecraft and Sanctions<br>Ch 8: Investment Screening, Industrial Policy, and Strategic Assets |
+| **IV. Looking Back and Looking Forward** | Ch 9: Historical Cases and Contemporary Applications<br>Ch 10: The Future of Economic Coercion |
 
 ## Features
 

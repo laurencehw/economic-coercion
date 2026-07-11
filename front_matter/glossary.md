@@ -2,6 +2,8 @@
 
 ## Key Terms {-}
 
+**Anti-Foreign Sanctions Law (2021)**: Chinese statute (反外国制裁法, fǎn wàiguó zhìcái fǎ) enacted by the National People's Congress Standing Committee on 10 June 2021, establishing a legal framework for Beijing to retaliate against foreign sanctions. It authorizes countermeasures — visa denial, asset freezes, and bans on transactions with Chinese entities — against individuals and organizations that formulate, decide on, or implement "discriminatory restrictive measures" against China. Passed amid US, EU, UK, and Canadian sanctions over Xinjiang and Hong Kong, it complements the Unreliable Entity List and the Ministry of Commerce's blocking rules within China's expanding counter-sanctions toolkit.
+
 **Asset Freeze**: A form of financial sanction that prevents a targeted individual, entity, or government from accessing or transferring assets held in the sanctioning country's financial system.
 
 **ASML**: Dutch company (originally Advanced Semiconductor Materials Lithography, now simply ASML) with monopoly on extreme ultraviolet (EUV) lithography machines essential for manufacturing advanced semiconductors.
@@ -30,9 +32,11 @@
 
 **Economic Statecraft**: The use of economic tools to achieve foreign policy objectives, including positive inducements and negative coercion.
 
-**Entity List**: A U.S. government list of foreign parties prohibited from receiving certain U.S.-origin items without a license, primarily for national security or foreign policy reasons.
+**Entity List**: A U.S. government list, maintained by the Commerce Department's Bureau of Industry and Security (BIS), of foreign parties prohibited from receiving certain U.S.-origin items without a license — often subject to a presumption of denial — primarily for national security or foreign policy reasons. Distinct from the Unverified List, which imposes heightened due-diligence obligations rather than an outright license requirement.
 
 **EUV (Extreme Ultraviolet) Lithography**: Advanced semiconductor manufacturing technology essential for producing chips at 7nm and below.
+
+**Export Control Reform Act (ECRA, 2018)**: U.S. statute, enacted as part of the John S. McCain National Defense Authorization Act for Fiscal Year 2019, that provides permanent statutory authority for the Commerce Department's Export Administration Regulations (EAR), replacing the long-lapsed Export Administration Act. ECRA also directs the government to identify and control "emerging and foundational technologies." It — not the International Emergency Economic Powers Act — is the operative legal authority for the Bureau of Industry and Security's export controls, including the October 2022 advanced-semiconductor restrictions on China.
 
 **Export Controls**: Government restrictions on the export of specific goods, technologies, or services, typically for national security, foreign policy, or nonproliferation reasons.
 
@@ -48,9 +52,13 @@
 
 **Industrial Policy**: Government intervention in the economy to promote specific industries or technologies deemed strategically important.
 
+**International Emergency Economic Powers Act (IEEPA, 1977)**: U.S. statute empowering the President, upon declaring a national emergency in response to an "unusual and extraordinary threat" originating abroad, to regulate or prohibit a broad range of international economic transactions. It is the principal legal foundation for most modern U.S. sanctions programs administered by OFAC. In 2025 the Trump administration invoked IEEPA in an unprecedented way — as authority to impose sweeping "reciprocal" and fentanyl-related tariffs — but the Supreme Court rejected that use in *Learning Resources, Inc. v. Trump* (decided 20 February 2026), holding 6–3 that IEEPA does not authorize the President to set tariffs.
+
 **Investment Screening**: Government review of foreign investments to assess potential national security, critical infrastructure, or strategic technology risks.
 
 **Leverage**: The ability to influence another actor's behavior through control of resources, access, or relationships that the target values.
+
+**Made in China 2025 (中国制造2025, Zhōngguó zhìzào 2025)**: Chinese industrial-policy strategy announced by the State Council in 2015 to upgrade the country's manufacturing base and achieve high domestic content and global leadership in ten priority sectors, including robotics, aerospace, new-energy vehicles, biotechnology, and advanced information technology. Widely cited in Washington as evidence of state-directed technological ambition, it became a focal point of the 2018 Section 301 case; Beijing subsequently downplayed the branding while continuing the underlying program.
 
 **Multilateral Sanctions**: Coordinated economic sanctions implemented by multiple countries or international organizations.
 
@@ -67,6 +75,8 @@
 **Sanctions**: Economic or political penalties applied by one or more countries against a targeted country, organization, or individual.
 
 **Secondary Sanctions**: Sanctions that penalize third parties (foreign entities) for conducting business with a primary sanctions target.
+
+**Section 301 (Trade Act of 1974)**: Provision of U.S. trade law authorizing the Office of the U.S. Trade Representative to investigate and respond to foreign practices deemed unjustifiable or discriminatory to U.S. commerce, including through retaliatory tariffs. Largely dormant for years under WTO dispute-settlement norms, it was revived as the legal basis for the tariffs imposed on hundreds of billions of dollars of Chinese goods during the 2018–2019 trade war, following a Section 301 investigation into China's intellectual-property and technology-transfer practices.
 
 **Sectoral Sanctions**: Targeted economic restrictions on specific sectors of a target country's economy, such as finance, energy, or defense.
 
@@ -88,7 +98,11 @@
 
 **Unilateral Sanctions**: Economic sanctions imposed by a single country acting alone rather than as part of a multilateral coalition.
 
+**Unverified List (UVL)**: A Commerce Department (BIS) list of foreign parties whose bona fides or end-use of U.S.-origin items the government has been unable to verify, typically because an end-use check could not be completed. Unlike the Entity List, inclusion does not by itself require a license; instead it suspends license exceptions and imposes additional due-diligence ("red flag") obligations on exporters. Parties may be moved from the UVL to the more restrictive Entity List if verification remains impossible — the path several Chinese firms, including memory-chip maker YMTC, followed in 2022.
+
 **Value Chain**: The full range of activities that firms and workers perform to bring a product from conception to delivery, including design, production, marketing, and distribution. In geoeconomic competition, control over key value chain segments creates leverage.
+
+**Wassenaar Arrangement**: The Wassenaar Arrangement on Export Controls for Conventional Arms and Dual-Use Goods and Technologies, established in 1996 as the successor to the Cold War-era COCOM. Its 42 participating states (India joined in 2017) coordinate export-control lists on a consensus, non-binding basis, with each member implementing agreed controls through its own national law. China is not a participant — a gap that has pushed the United States and allies toward narrower "minilateral" arrangements to control advanced semiconductor and AI-related technologies.
 
 **Weaponization**: The use of economic interdependencies, institutions, or tools as instruments of coercion or geopolitical pressure.
 
@@ -180,6 +194,8 @@
 
 **EC**: European Commission
 
+**ECRA**: Export Control Reform Act (2018)
+
 **EU**: European Union
 
 **EUV**: Extreme Ultraviolet Lithography
@@ -199,6 +215,8 @@
 **IAEA**: International Atomic Energy Agency
 
 **ICTS**: Information and Communications Technology and Services
+
+**IEEPA**: International Emergency Economic Powers Act (1977)
 
 **IMF**: International Monetary Fund
 
@@ -282,7 +300,7 @@
 
 **核心利益 (héxīn lìyì)**: "Core interests" - Non-negotiable national interests including sovereignty, territorial integrity, and regime security.
 
-**卡脖子 (kǎ bózi)**: "Chokehold" - Vulnerabilities where foreign technology restrictions can constrain Chinese development.
+**卡脖子 (qiǎ bózi)**: "Chokehold" - Vulnerabilities where foreign technology restrictions can constrain Chinese development.
 
 **综合国力 (zōnghé guólì)**: "Comprehensive national power" - Holistic measure of national strength across economic, military, technological, and soft power dimensions.
 

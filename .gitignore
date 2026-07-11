@@ -50,6 +50,9 @@ figures/*.py
 .DS_Store
 Thumbs.db
 
+# Repomix output
+repomix-output.xml
+
 # Node.js (HonKit local testing)
 node_modules/
 package.json

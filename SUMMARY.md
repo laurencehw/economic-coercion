@@ -26,6 +26,7 @@
 
 * [Chapter 9: Historical Cases and Contemporary Applications](chapters/chapter_9.md)
 * [Chapter 10: The Future of Economic Coercion](chapters/chapter_10.md)
+* [Conclusion: Strategic Choices for an Uncertain Future](chapters/conclusion.md)
 
 ## Appendices
 

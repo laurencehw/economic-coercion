@@ -1,7 +1,9 @@
-# Economic Coercion: A Handbook of Strategic Competition
+# Economic Coercion in the 21st Century
+
+**Tools, Strategies, and Great Power Competition**
 
 **Author:** Laurence Wilse-Samson
-**Affiliation:** Columbia School of International and Public Affairs (SIPA)
+**Affiliation:** New York University, Robert F. Wagner Graduate School of Public Service (NYU Wagner)
 
 ---
 

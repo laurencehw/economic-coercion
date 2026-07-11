@@ -1,327 +1,426 @@
 # Bibliography {-}
 
+This is the book's single canonical bibliography, in **author-date** format (year
+directly after the author) to match the in-text parenthetical citations, e.g.
+"(Hufbauer et al. 2007)". Institutional authors carry their common acronym in
+parentheses so that a reader who sees "(IEA 2022)" or "(FAO 2022)" can locate the
+entry alphabetically. For chapter-specific references and data notes, see the
+"References" and "Data Sources" sections at the end of each chapter.
+
 ## Books and Monographs {-}
 
-Acemoglu, Daron. "When Does Labor Scarcity Encourage Innovation?" *Journal of Political Economy* 118, no. 6 (2010): 1037–1078.
+Baldwin, David A. 1985. *Economic Statecraft*. Princeton University Press.
 
-Autor, David H., David Dorn, and Gordon H. Hanson. "The China Shock: Learning from Labor-Market Adjustment to Large Changes in Trade." *Annual Review of Economics* 8 (2016): 205-240.
+Biersteker, Thomas J., Sue E. Eckert, and Marcos Tourinho, eds. 2016. *Targeted Sanctions: The Impacts and Effectiveness of United Nations Action*. Cambridge University Press.
 
-Baldwin, David A. *Economic Statecraft*. Princeton University Press, 1985.
+Blackwill, Robert D., and Jennifer M. Harris. 2016. *War by Other Means: Geoeconomics and Statecraft*. Harvard University Press.
 
-Blackwill, Robert D., and Jennifer M. Harris. *War by Other Means: Geoeconomics and Statecraft*. Harvard University Press, 2016.
+Bradford, Anu. 2020. *The Brussels Effect: How the European Union Rules the World*. Oxford University Press.
 
-Bradford, Anu. *The Brussels Effect: How the European Union Rules the World*. Oxford University Press, 2020.
+Buchanan, Ben. 2017. *The Cybersecurity Dilemma: Hacking, Trust, and Fear Between Nations*. Oxford University Press.
 
-Copeland, Dale C. *Economic Interdependence and War*. Princeton University Press, 2015.
+Copeland, Dale C. 2015. *Economic Interdependence and War*. Princeton University Press.
 
-Drezner, Daniel W. *The Sanctions Paradox: Economic Statecraft and International Relations*. Cambridge University Press, 1999.
+Crawford, Neta C., and Audie Klotz, eds. 1999. *How Sanctions Work: Lessons from South Africa*. St. Martin's Press (Palgrave Macmillan).
 
-Farrell, Henry, and Abraham L. Newman. *Underground Empire: How America Weaponized the World Economy*. Henry Holt and Co., 2023.
+Demarais, Agathe. 2022. *Backfire: How Sanctions Reshape the World Against U.S. Interests*. Columbia University Press.
 
-Habakkuk, H. J. *American and British Technology in the Nineteenth Century: The Search for Labour-Saving Inventions*. Cambridge University Press, 1962.
+Drezner, Daniel W. 1999. *The Sanctions Paradox: Economic Statecraft and International Relations*. Cambridge University Press.
 
-Heckscher, Eli F. *The Continental System: An Economic Interpretation*. Oxford University Press, 1922.
+Drezner, Daniel W., Henry Farrell, and Abraham L. Newman, eds. 2021. *The Uses and Abuses of Weaponized Interdependence*. Brookings Institution Press.
 
-Hirschman, Albert O. *National Power and the Structure of Foreign Trade*. University of California Press, 1945.
+Early, Bryan R. 2015. *Busted Sanctions: Explaining Why Economic Sanctions Fail*. Stanford University Press.
 
-Hornbeck, Richard, and Suresh Naidu. "When the Levee Breaks: Black Migration and Economic Development in the American South." *American Economic Review* 104, no. 3 (2014): 963–990.
+Farrell, Henry, and Abraham L. Newman. 2023. *Underground Empire: How America Weaponized the World Economy*. Henry Holt and Co.
 
-Hufbauer, Gary Clyde, Jeffrey J. Schott, Kimberly Ann Elliott, and Barbara Oegg. *Economic Sanctions Reconsidered*, 3rd edition. Peterson Institute for International Economics, 2007.
+Fuller, Douglas B. 2016. *Paper Tigers, Hidden Dragons: Firms and the Political Economy of China's Technological Development*. Oxford University Press.
 
-Keohane, Robert O., and Joseph S. Nye. *Power and Interdependence*, 4th edition. Longman, 2011.
+Gordon, Joy. 2010. *Invisible War: The United States and the Iraq Sanctions*. Harvard University Press.
 
-Luttwak, Edward N. "From Geopolitics to Geo-Economics: Logic of Conflict, Grammar of Commerce." *The National Interest* 20 (1990): 17-23.
+Habakkuk, H. J. 1962. *American and British Technology in the Nineteenth Century: The Search for Labour-Saving Inventions*. Cambridge University Press.
 
-Mastanduno, Michael. *Economic Containment: CoCom and the Politics of East-West Trade*. Cornell University Press, 1992.
+Heckscher, Eli F. 1922. *The Continental System: An Economic Interpretation*. Oxford University Press.
 
-Miller, Chris. *Chip War: The Fight for the World's Most Critical Technology*. Scribner, 2022.
+Hirschman, Albert O. 1945. *National Power and the Structure of Foreign Trade*. University of California Press.
 
-Mulder, Nicholas. *The Economic Weapon: The Rise of Sanctions as a Tool of Modern War*. Yale University Press, 2022.
+Hufbauer, Gary Clyde, Jeffrey J. Schott, Kimberly Ann Elliott, and Barbara Oegg. 2007. *Economic Sanctions Reconsidered*. 3rd ed. Peterson Institute for International Economics.
 
-Nephew, Richard. *The Art of Sanctions: A View from the Field*. Columbia University Press, 2017.
+Jackson, Van. 2016. *Rival Reputations: Coercion and Credibility in US–North Korea Relations*. Cambridge University Press.
 
-Norris, William J. *Chinese Economic Statecraft: Commercial Actors, Grand Strategy, and State Control*. Cornell University Press, 2016.
+Jentleson, Bruce W. 1986. *Pipeline Politics: The Complex Political Economy of East-West Energy Trade*. Cornell University Press.
 
-Pape, Robert A. "Why Economic Sanctions Do Not Work." *International Security* 22, no. 2 (1997): 90-136.
+Keohane, Robert O., and Joseph S. Nye. 2011. *Power and Interdependence*. 4th ed. Longman.
 
-Pape, Robert A. *Bombing to Win: Air Power and Coercion in War*. Cornell University Press, 1996.
+Lester, Simon, Bryan Mercurio, and Arwel Davies. 2018. *World Trade Law: Text, Materials and Commentary*. 3rd ed. Hart Publishing.
 
-Roberts, Anthea, Henrique Choer Moraes, and Victor Ferguson. *Toward a Geoeconomic Order in International Trade and Investment*. Cambridge University Press, 2019.
+Mastanduno, Michael. 1992. *Economic Containment: CoCom and the Politics of East-West Trade*. Cornell University Press.
 
-Smil, Vaclav. *Enriching the Earth: Fritz Haber, Carl Bosch, and the Transformation of World Food Production*. MIT Press, 2001.
+Miller, Chris. 2022. *Chip War: The Fight for the World's Most Critical Technology*. Scribner.
 
-Wigell, Mikael, Sören Scholvin, and Mika Aaltola, eds. *Geo-Economics and Power Politics in the 21st Century: The Revival of Economic Statecraft*. Routledge, 2018.
+Mulder, Nicholas. 2022. *The Economic Weapon: The Rise of Sanctions as a Tool of Modern War*. Yale University Press.
 
-Jackson, Van. *Rival Reputations: Coercion and Credibility in US-North Korea Relations*. Cambridge University Press, 2016.
+Nephew, Richard. 2017. *The Art of Sanctions: A View from the Field*. Columbia University Press.
 
-Zarate, Juan C. *Treasury's War: The Unleashing of a New Era of Financial Warfare*. PublicAffairs, 2013.
+Norris, William J. 2016. *Chinese Economic Statecraft: Commercial Actors, Grand Strategy, and State Control*. Cornell University Press.
 
-Early, Bryan R. *Busted Sanctions: Explaining Why Economic Sanctions Fail*. Stanford University Press, 2015.
+Pape, Robert A. 1996. *Bombing to Win: Air Power and Coercion in War*. Cornell University Press.
 
-Gordon, Joy. *Invisible War: The United States and the Iraq Sanctions*. Harvard University Press, 2010.
+Smil, Vaclav. 2001. *Enriching the Earth: Fritz Haber, Carl Bosch, and the Transformation of World Food Production*. MIT Press.
 
-Biersteker, Thomas J., Sue E. Eckert, and Marcos Tourinho, eds. *Targeted Sanctions: The Impacts and Effectiveness of United Nations Action*. Cambridge University Press, 2016.
+Szabo, Stephen F. 2015. *Germany, Russia, and the Rise of Geo-Economics*. Bloomsbury Academic.
 
-Lester, Simon, Bryan Mercurio, and Arwel Davies. *World Trade Law: Text, Materials and Commentary*. 3rd ed. Hart Publishing, 2018.
+Wigell, Mikael, Sören Scholvin, and Mika Aaltola, eds. 2018. *Geo-Economics and Power Politics in the 21st Century: The Revival of Economic Statecraft*. Routledge.
 
-Acosta, Alberto. "Extractivism and Neoextractivism: Two Sides of the Same Curse." In *Beyond Development: Alternative Visions from Latin America*, edited by Miriam Lang and Dunia Mokrani, 61–86. Transnational Institute / Rosa Luxemburg Foundation, 2013.
+Zarate, Juan C. 2013. *Treasury's War: The Unleashing of a New Era of Financial Warfare*. PublicAffairs.
 
-## Journal Articles and Reports {-}
+## Journal Articles, Book Chapters, and Working Papers {-}
 
-Allen, Gregory C. "Choking Off China's Access to the Future of AI." Center for Strategic and International Studies, October 2022.
+Acemoglu, Daron. 2010. "When Does Labor Scarcity Encourage Innovation?" *Journal of Political Economy* 118 (6): 1037–1078.
 
-Allen, Gregory C., and Emily S. Weinstein. "Huawei's Mate 60 Pro: China's Semiconductor Breakthrough." CSIS Commentary, September 2023.
+Acemoglu, Daron, David Autor, David Dorn, Gordon H. Hanson, and Brendan Price. 2016. "Import Competition and the Great US Employment Sag of the 2000s." *Journal of Labor Economics* 34 (S1): S141–S198.
 
-Baqaee, David, Emmanuel Farhi, and Kunal Sangani. "The Supply Chain Origins of Multinational Production." *American Economic Review*, 113(6), 2023: 1585-1613.
+Acosta, Alberto. 2013. "Extractivism and Neoextractivism: Two Sides of the Same Curse." In *Beyond Development: Alternative Visions from Latin America*, edited by Miriam Lang and Dunia Mokrani, 61–86. Transnational Institute / Rosa Luxemburg Foundation.
 
-Blanchard, Jean-Marc F., and Norrin M. Ripsman. "Asking the Right Question: When Do Economic Sanctions Work Best?" *Security Studies* 9, no. 1-2 (1999): 219-253.
+Amiti, Mary, Stephen J. Redding, and David E. Weinstein. 2019. "The Impact of the 2018 Tariffs on Prices and Welfare." *Journal of Economic Perspectives* 33 (4): 187–210.
 
-Bown, Chad P. "Four Years Into the Trade War, Are the US and China Decoupling?" Peterson Institute for International Economics, September 2022.
+Autor, David H., David Dorn, and Gordon H. Hanson. 2016. "The China Shock: Learning from Labor-Market Adjustment to Large Changes in Trade." *Annual Review of Economics* 8: 205–240.
 
-Bown, Chad P., and Melina Kolb. "Trump's Trade War Timeline: An Up-to-Date Guide." Peterson Institute for International Economics, 2021.
+Bachmann, Rüdiger, David Baqaee, Christian Bayer, Moritz Kuhn, Andreas Löschel, Benjamin Moll, Andreas Peichl, Karen Pittel, and Moritz Schularick. 2022. "What if? The Economic Effects for Germany of a Stop of Energy Imports from Russia." ECONtribute Policy Brief No. 028.
 
-Creemers, Rogier, Graham Webster, and Paul Triolo. "Translation: Personal Information Protection Law of the People's Republic of China." DigiChina, Stanford Cyber Policy Center, 2022.
+Bapat, Navin A., and T. Clifton Morgan. 2009. "Multilateral Versus Unilateral Sanctions Reconsidered: A Test Using New Data." *International Studies Quarterly* 53 (4): 1075–1094.
 
-Del Rey, Jason. "Nvidia's China Problem Just Got a Lot Worse." *Vox*, October 2023.
+Bellemare, Marc F. 2015. "Rising Food Prices, Food Price Volatility, and Social Unrest." *American Journal of Agricultural Economics* 97 (1): 1–21.
 
-Drezner, Daniel W. "Sanctions Sometimes Smart: Targeted Sanctions in Theory and Practice." *International Studies Review* 13, no. 1 (2011): 96-108.
+Blanchard, Jean-Marc F., and Norrin M. Ripsman. 1999. "Asking the Right Question: When Do Economic Sanctions Work Best?" *Security Studies* 9 (1–2): 219–253.
 
-Farrell, Henry, and Abraham L. Newman. "Weaponized Interdependence: How Global Economic Networks Shape State Coercion." *International Security* 44, no. 1 (2019): 42-79.
+Brinkman, Henk-Jan, and Cullen S. Hendrix. 2011. "Food Insecurity and Violent Conflict: Causes, Consequences, and Addressing the Challenges." World Food Programme Occasional Paper.
 
-Flaaen, Aaron, and Justin Pierce. "Disentangling the Effects of the 2018-2019 Tariffs on a Globally Connected U.S. Manufacturing Sector." Federal Reserve Board Finance and Economics Discussion Series, 2019-086, December 2019.
+Cavallo, Alberto, Gita Gopinath, Brent Neiman, and Jenny Tang. 2021. "Tariff Pass-Through at the Border and at the Store: Evidence from US Trade Policy." *American Economic Review: Insights* 3 (1): 19–34.
 
-Gelpern, Anna. "Money and Power in the World Economy." *Virginia Journal of International Law* 63, no. 1 (2022): 1-82.
+Drezner, Daniel W. 2011. "Sanctions Sometimes Smart: Targeted Sanctions in Theory and Practice." *International Studies Review* 13 (1): 96–108.
 
-Gopinath, Gita, et al. "Dominant Currency Paradigm." *American Economic Review* 110, no. 3 (2020): 677-719.
+Fajgelbaum, Pablo D., Pinelopi K. Goldberg, Patrick J. Kennedy, and Amit K. Khandelwal. 2020. "The Return to Protectionism." *Quarterly Journal of Economics* 135 (1): 1–55.
 
-Khan, Saif M., Alexander Mann, and Dahlia Peterson. "The Semiconductor Supply Chain: Assessing National Competitiveness." Center for Security and Emerging Technology, January 2021.
+Farrell, Henry, and Abraham L. Newman. 2019. "Weaponized Interdependence: How Global Economic Networks Shape State Coercion." *International Security* 44 (1): 42–79.
 
-Lipton, David. "Sanctions and the Global Financial System." Remarks at the European Central Bank conference, March 2023.
+Felbermayr, Gabriel, Aleksandra Kirilakha, Constantinos Syropoulos, Erdal Yalcin, and Yoto V. Yotov. 2020. "The Global Sanctions Data Base." *European Economic Review* 129: 103561.
 
-Mozur, Paul. "One Month, 500,000 Face Scans: How China Is Using A.I. to Profile a Minority." *The New York Times*, April 14, 2019.
+Flaaen, Aaron, and Justin R. Pierce. 2019. "Disentangling the Effects of the 2018–2019 Tariffs on a Globally Connected U.S. Manufacturing Sector." Finance and Economics Discussion Series 2019-086. Federal Reserve Board.
 
-Shane, Scott, and Daisuke Wakabayashi. "The Business of War: Google Employees Protest Work for the Pentagon." *The New York Times*, April 4, 2018.
+Gelpern, Anna. 2022. "Money and Power in the World Economy." *Virginia Journal of International Law* 63 (1): 1–82.
 
-Amiti, Mary, Stephen J. Redding, and David E. Weinstein. "The Impact of the 2018 Tariffs on Prices and Welfare." *Journal of Economic Perspectives* 33, no. 4 (2019): 187–210.
+Gopinath, Gita, Emine Boz, Camila Casas, Federico J. Díez, Pierre-Olivier Gourinchas, and Mikkel Plagborg-Møller. 2020. "Dominant Currency Paradigm." *American Economic Review* 110 (3): 677–719.
 
-Fajgelbaum, Pablo D., Pinelopi K. Goldberg, Patrick J. Kennedy, and Amit K. Khandelwal. "The Return to Protectionism." *Quarterly Journal of Economics* 135, no. 1 (2020): 1–55.
+Headey, Derek, and Shenggen Fan. 2008. "Anatomy of a Crisis: The Causes and Consequences of Surging Food Prices." *Agricultural Economics* 39 (s1): 375–391.
 
-Cavallo, Alberto, Gita Gopinath, Brent Neiman, and Jenny Tang. "Tariff Pass-Through at the Border and at the Store: Evidence from US Trade Policy." *American Economic Review: Insights* 3, no. 1 (2021): 19–34.
+Hendrix, Cullen S., and Stephan Haggard. 2015. "Global Food Prices, Regime Type, and Urban Unrest in the Developing World." *Journal of Peace Research* 52 (2): 143–157.
 
-Bapat, Navin A., and T. Clifton Morgan. "Multilateral Versus Unilateral Sanctions Reconsidered: A Test Using New Data." *International Studies Quarterly* 53, no. 4 (2009): 1075–1094.
+Hickel, Jason, and Dylan Sullivan. 2024. "How the Rich Are Robbing the Poor: Unequal Exchange and the Global Metabolism of Capitalism." *New Political Economy* 29 (3): 433–453.
 
-Mastanduno, Michael. "Economic Statecraft, Interdependence, and National Security: Agendas for Research." In *Power and the Purse: Economic Statecraft, Interdependence, and National Security*, edited by Jean-Marc F. Blanchard, Edward D. Mansfield, and Norrin M. Ripsman. Frank Cass, 2000.
+Hornbeck, Richard, and Suresh Naidu. 2014. "When the Levee Breaks: Black Migration and Economic Development in the American South." *American Economic Review* 104 (3): 963–990.
 
-Felbermayr, Gabriel, Aleksandra Kirilakha, Constantinos Syropoulos, Erdal Yalcin, and Yoto V. Yotov. "The Global Sanctions Data Base." *European Economic Review* 129 (2020): 103561.
+Luttwak, Edward N. 1990. "From Geopolitics to Geo-Economics: Logic of Conflict, Grammar of Commerce." *The National Interest* 20: 17–23.
 
-Hickel, Jason, and Dylan Sullivan. "How the Rich Are Robbing the Poor: Unequal Exchange and the Global Metabolism of Capitalism." *New Political Economy* 29, no. 3 (2024): 433–453.
+Mastanduno, Michael. 2000. "Economic Statecraft, Interdependence, and National Security: Agendas for Research." In *Power and the Purse: Economic Statecraft, Interdependence, and National Security*, edited by Jean-Marc F. Blanchard, Edward D. Mansfield, and Norrin M. Ripsman. Frank Cass.
 
-U.S. Pharmacopeia. *Medicine Supply Map: 2023 Report on Pharmaceutical Supply Chain Vulnerability*. USP, 2023.
+Paarlberg, Robert L. 1980. "Lessons of the Grain Embargo." *Foreign Affairs* 59 (1): 144–162.
 
-Fang, Yuqing, and Xiulian Chen. "The Globalization of Active Pharmaceutical Ingredient Manufacturing: Vulnerabilities and Policy Responses." PubMed Central (PMC), 2024.
+Pape, Robert A. 1997. "Why Economic Sanctions Do Not Work." *International Security* 22 (2): 90–136.
 
-Bellemare, Marc F. "Rising Food Prices, Food Price Volatility, and Social Unrest." *American Journal of Agricultural Economics* 97, no. 1 (2015): 1–21.
+Pierce, Justin R., and Peter K. Schott. 2020. "Trade Liberalization and Mortality: Evidence from U.S. Counties." *American Economic Review: Insights* 2 (1): 47–64.
 
-Brinkman, Henk-Jan, and Cullen S. Hendrix. "Food Insecurity and Violent Conflict: Causes, Consequences, and Addressing the Challenges." World Food Programme Occasional Paper, 2011.
-
-Hendrix, Cullen S., and Stephan Haggard. "Global Food Prices, Regime Type, and Urban Unrest in the Developing World." *Journal of Peace Research* 52, no. 2 (2015): 143–157.
-
-Paarlberg, Robert L. "Lessons of the Grain Embargo." *Foreign Affairs* 59, no. 1 (1980).
+Roberts, Anthea, Henrique Choer Moraes, and Victor Ferguson. 2019. "Toward a Geoeconomic Order in International Trade and Investment." *Journal of International Economic Law* 22 (4): 655–676.
 
 ## Think-Tank, Government, and Press Reports {-}
 
-Rasser, Martijn, et al. "The CHIPS and Science Act: Here Comes the Hardest Part." Center for Strategic and International Studies, August 2022.
+Allen, Gregory C. 2022. "Choking Off China's Access to the Future of AI." Center for Strategic and International Studies (CSIS), October.
 
-Sullivan, Jake. "Remarks by National Security Advisor Jake Sullivan at the Special Competitive Studies Project Global Emerging Technologies Summit." White House, September 16, 2022.
+Allen, Gregory C., and Emily S. Weinstein. 2023. "Huawei's Mate 60 Pro: China's Semiconductor Breakthrough." CSIS Commentary, September.
 
-Triolo, Paul, and Robert Greene. "Will China's Chip Breakthrough Undermine U.S. Tech Restrictions?" Carnegie Endowment for International Peace, September 2023.
+American Enterprise Institute (AEI). "China Global Investment Tracker." Various years.
 
-Rajagopalan, Rajeswari Pillai, and Joel Wuthnow. "India-China Border Tensions: Assessing Strategic Implications for the Region." Observer Research Foundation Occasional Paper, 2021.
+Atlantic Council. 2022. "The Rise of Strategic Dependencies: Risks and Responses in a More Contested World."
 
-TeleGeography. *Submarine Cable Map*. TeleGeography, accessed 2026. https://www.submarinecablemap.com.
+Australian Government, Department of Industry, Science and Resources, Office of the Chief Economist. 2020–2022. *Resources and Energy Quarterly*. Various issues. https://www.industry.gov.au
 
-Clement, J. "Number and Length of Submarine Communications Cables Worldwide." Statista / TeleGeography, March 2024.
+Australian Meat Industry Council (AMIC). 2020. Public statements on China's suspension of Australian beef export establishments. https://www.amic.org.au
 
-SWIFT. *2023 Annual Review*. Society for Worldwide Interbank Financial Telecommunication, 2023.
+Bateman, Jon. 2022. "U.S.-China Technological 'Decoupling': A Strategy and Policy Assessment." Carnegie Endowment for International Peace.
 
-Bank for International Settlements. "Triennial Central Bank Survey of Foreign Exchange and OTC Derivatives Markets: Cross-Border Payments and FX Settlement." BIS, 2022 (September 2022 data release) and 2023 update.
+Bloomberg News. 2024. "China Creates $47.5 Billion Chip Fund, Biggest to Date." Bloomberg, May 27.
 
-Dell'Oro Group. "Worldwide Telecom Equipment Market Report: Huawei Leads Global Telecom Equipment Market in 2019–2020." Dell'Oro Group, 2020–2021.
+Bown, Chad P. 2022. "Four Years Into the Trade War, Are the US and China Decoupling?" Peterson Institute for International Economics (PIIE), September.
 
-IHS Markit (now S&P Global). "Global Telecom Equipment Market Share Reports." IHS Markit, 2020.
+Bown, Chad P., and Melina Kolb. 2021. "Trump's Trade War Timeline: An Up-to-Date Guide." Peterson Institute for International Economics (PIIE).
 
-Fuller, Douglas B. *Paper Tigers, Hidden Dragons: Firms and the Political Economy of China's Technological Development*. Oxford University Press, 2016.
+Carnegie Endowment for International Peace. 2022–2025. Selected reports on sanctions effectiveness and the Russia campaign.
 
-Center for Strategic and International Studies. *China Chip Fund Tracker: Mapping Chinese Semiconductor State Investment*. CSIS, 2023.
+Center for a New American Security (CNAS). 2022–2025. "Economic Statecraft Series." Selected reports by Emily Kilcrease, Emily Benson, and Edward Fishman.
 
-Ministry of Finance of the People's Republic of China. "Announcement on the Establishment of the National Integrated Circuit Industry Investment Fund Phase III" (关于国家集成电路产业投资基金三期成立的公告). May 24, 2024.
+Center for Strategic and International Studies (CSIS). 2021–2025. "Renewing America's Advantages" series on semiconductors, advanced manufacturing, and industrial policy.
 
-Bloomberg News. "China Creates $47.5 Billion Chip Fund, Biggest to Date." Bloomberg, May 27, 2024.
+Center for Strategic and International Studies (CSIS). 2023. *China Chip Fund Tracker: Mapping Chinese Semiconductor State Investment*.
 
-Financial Times. "China Launches $47bn Chip Fund in Bid to Ease US Sanctions." May 27, 2024.
+Chang, Morris. 2021. Public remarks on semiconductor manufacturing economics and geopolitics. Various public appearances.
 
-Nvidia Corporation. *Form 10-K Annual Report for Fiscal Year 2024*. U.S. Securities and Exchange Commission, filed February 2024.
+Council on Foreign Relations (CFR). "Sanctions Tracker." Accessed 2024. https://www.cfr.org/sanctions
 
-Reuters. "Nvidia CEO Says China Revenue Could Fall 'Significantly' Under Export Curbs." Reuters, August 24, 2023.
+Creemers, Rogier, Graham Webster, and Paul Triolo. 2022. "Translation: Personal Information Protection Law of the People's Republic of China." DigiChina, Stanford Cyber Policy Center.
 
-Intel Corporation. "Pat Gelsinger Named New CEO of Intel; Bob Swan to Step Down on February 15." Intel press release, January 13, 2021.
+Del Rey, Jason. 2023. "Nvidia's China Problem Just Got a Lot Worse." *Vox*, October.
 
-Wine Australia. *Export Report: Year Ending 31 December 2021*. Wine Australia, 2022.
+Department of Foreign Affairs and Trade (Australia) (DFAT). 2021–2022. *Composition of Trade, Australia 2021* and *Composition of Trade, Australia 2022*.
 
-Department of Foreign Affairs and Trade (Australia). *Composition of Trade, Australia 2021* and *Composition of Trade, Australia 2022*. DFAT, 2021–2022.
+Dollar, David. 2015. "China's Rise as a Regional and Global Power: The AIIB and the 'One Belt, One Road.'" Brookings Institution, Summer.
 
-Lowy Institute. "The China Coal Ban: Strategic Signaling, Self-Inflicted Wound, or Both?" Lowy Institute Analysis, 2021.
+Dollar, David, and Ryan Hass. 2024. "Has China Fallen from the Middle Class, or Is It a US Miscalculation?" Brookings Institution, March.
 
-World Trade Organization. *China — Anti-Dumping and Countervailing Duty Measures on Barley from Australia* (DS598). WTO Dispute Settlement, 2020–2024.
+Financial Times. 2024. "China Launches $47bn Chip Fund in Bid to Ease US Sanctions." *Financial Times*, May 27.
 
-Ministry of Commerce of the People's Republic of China (MOFCOM). Announcements No. 14 of 2020 (barley) and No. 55 of 2020 (wine). MOFCOM, 2020.
+Hudson Institute. 2021. "China's Participation in the World Trade Organization." December.
 
-Wall Street Journal. "Intel Names Pat Gelsinger CEO, Replacing Bob Swan." January 13, 2021.
+Intel Corporation. 2021. "Pat Gelsinger Named New CEO of Intel; Bob Swan to Step Down on February 15." Intel press release, January 13.
 
-General Administration of Customs of the People's Republic of China (GACC). Customs suspension notices for designated Australian export establishments and monthly trade statistics. 2020–2021. http://english.customs.gov.cn
+IPlytics. 2023. "Who Is Leading the 5G Patent Race?" IPlytics Platform, Berlin.
 
-Australian Meat Industry Council (AMIC). Public statements on China's suspension of Australian beef export establishments. 2020. https://www.amic.org.au
+Khan, Saif M., Alexander Mann, and Dahlia Peterson. 2021. "The Semiconductor Supply Chain: Assessing National Competitiveness." Center for Security and Emerging Technology (CSET), January.
 
-Australian Government, Department of Industry, Science and Resources, Office of the Chief Economist. *Resources and Energy Quarterly*. Various issues, 2020–2022. https://www.industry.gov.au
+Lardy, Nicholas R. 2019. "The State Strikes Back: The End of Economic Reform in China?" Peterson Institute for International Economics.
+
+Lipton, David. 2023. "Sanctions and the Global Financial System." Remarks at the European Central Bank conference, March.
+
+Lowy Institute. 2021. "The China Coal Ban: Strategic Signaling, Self-Inflicted Wound, or Both?" Lowy Institute Analysis.
+
+Mandiant. 2013. "APT1: Exposing One of China's Cyber Espionage Units." Report, February.
+
+Microsoft Threat Intelligence. 2023. "Volt Typhoon Targets US Critical Infrastructure with Living-off-the-Land Techniques." Blog post, May.
+
+Mozur, Paul. 2019. "One Month, 500,000 Face Scans: How China Is Using A.I. to Profile a Minority." *The New York Times*, April 14.
+
+Nvidia Corporation. 2024. *Form 10-K Annual Report for Fiscal Year 2024*. U.S. Securities and Exchange Commission, filed February.
+
+Prasad, Eswar. 2023. "Has the Dollar Lost Ground as the Dominant International Currency?" Brookings Institution, September.
+
+Rajagopalan, Rajeswari Pillai, and Joel Wuthnow. 2021. "India-China Border Tensions: Assessing Strategic Implications for the Region." Observer Research Foundation Occasional Paper.
+
+Rasser, Martijn, et al. 2022. "The CHIPS and Science Act: Here Comes the Hardest Part." Center for Strategic and International Studies (CSIS), August.
+
+Reuters. 2023. "Nvidia CEO Says China Revenue Could Fall 'Significantly' Under Export Curbs." Reuters, August 24.
+
+Reuters. 2024. "China Launches Third Phase of Chip Fund with $47.5 Billion." Reuters, May 24.
+
+Rosen, Daniel H. 2023. "The Chinese Economy's Reality Check." *Foreign Affairs*, September/October.
+
+Royal United Services Institute (RUSI). "Financial Sanctions and Anti-Money Laundering." Various reports.
+
+Shane, Scott, and Daisuke Wakabayashi. 2018. "The Business of War: Google Employees Protest Work for the Pentagon." *The New York Times*, April 4.
+
+Shih, Gerry, and Lindsay Maizland. 2022. "How China Reshaped the Global Internet." Brookings Institution and Council on Foreign Relations joint report.
+
+South China Morning Post. 2024. "China's Third Phase 'Big Fund' Raises $47.5 Billion for Semiconductor Self-Sufficiency." *South China Morning Post*, May.
+
+Sullivan, Jake. 2022. "Remarks by National Security Advisor Jake Sullivan at the Special Competitive Studies Project Global Emerging Technologies Summit." White House, September 16.
+
+Triolo, Paul, and Robert Greene. 2023. "Will China's Chip Breakthrough Undermine U.S. Tech Restrictions?" Carnegie Endowment for International Peace, September.
+
+U.S.-China Economic and Security Review Commission (USCC). 2019. *2019 Report to Congress*. Washington, DC.
+
+Wall Street Journal. 2021. "Intel Names Pat Gelsinger CEO, Replacing Bob Swan." *Wall Street Journal*, January 13.
+
+Wine Australia. 2022. *Export Report: Year Ending 31 December 2021*.
 
 ## Government and International Organization Reports {-}
 
-National Academy of Sciences. "Balancing the National Interest: U.S. National Security Export Controls and Global Economic Competition." National Academies Press, 1987.
+Bank for International Settlements (BIS). 2022. "Triennial Central Bank Survey of Foreign Exchange and OTC Derivatives Markets: Cross-Border Payments and FX Settlement."
 
-CISA (Cybersecurity and Infrastructure Security Agency). "People's Republic of China State-Sponsored Cyber Actors Living off the Land to Evade Detection." Alert AA23-144A, May 2023.
+Bruegel. 2023. "European Energy Policy Response to Russia's Invasion of Ukraine." Brussels.
 
-DOJ (U.S. Department of Justice). "U.S. Charges Five Chinese Military Hackers for Cyber Espionage Against U.S. Corporations and a Labor Organization for Commercial Advantage." Press Release, May 19, 2014.
+Congressional Budget Office (CBO). 2022. "Cost Estimate: H.R. 4346, CHIPS Act of 2022." Washington, DC.
 
-DOJ (U.S. Department of Justice). "Seven International Cyber Defendants, Including 'APT41' Actors, Charged In Connection With Computer Intrusion Campaigns Against More Than 100 Victims Globally." Press Release, September 16, 2020.
+Congressional Budget Office (CBO). 2022. "Cost Estimate: H.R. 5376, Inflation Reduction Act of 2022." Washington, DC.
 
-European Commission. "European Economic Security Strategy." June 2023.
+Congressional Research Service (CRS). 2021. "Agricultural Trade with China and the Phase One Agreement." CRS Report R46414.
 
-Mandiant. "APT1: Exposing One of China's Cyber Espionage Units." Report, February 2013.
+Cybersecurity and Infrastructure Security Agency (CISA). 2023. "People's Republic of China State-Sponsored Cyber Actors Living off the Land to Evade Detection." Alert AA23-144A, May.
 
-Microsoft Threat Intelligence. "Volt Typhoon targets US critical infrastructure with living-off-the-land techniques." Blog post, May 2023.
+European Commission. 2023. "European Economic Security Strategy." June.
 
-SIA (Semiconductor Industry Association). "2023 State of the U.S. Semiconductor Industry." June 2023.
+Food and Agriculture Organization of the United Nations (FAO). 2022. *The State of Food Security and Nutrition in the World 2022*. Rome.
 
-International Monetary Fund. "Geoeconomic Fragmentation and the Future of Multilateralism." *IMF Staff Discussion Note*, January 2023.
+International Energy Agency (IEA). 2022. *World Energy Outlook 2022*. Paris.
 
-National Intelligence Council. "Global Trends 2040: A More Contested World." NIC, 2021.
+International Energy Agency (IEA). 2023. *World Energy Outlook 2023*. Paris.
 
-U.S. Department of Commerce, Bureau of Industry and Security. "2022 Export Controls: Taking the Long View." October 2022.
+International Energy Agency (IEA). 2023. "Global EV Outlook 2023: Securing Supplies for an Electric Future." Paris.
 
-U.S. Department of the Treasury. "Sanctions Review." October 2021.
+International Monetary Fund (IMF). 2019. *World Economic Outlook: Growth Slowdown, Precarious Recovery*. Washington, DC.
 
-U.S. National Security Strategy. The White House, October 2022.
+International Monetary Fund (IMF). 2023. "Geoeconomic Fragmentation and the Future of Multilateralism." IMF Staff Discussion Note, January.
 
-U.S. National Defense Strategy. Department of Defense, October 2022.
+National Academy of Sciences. 1987. *Balancing the National Interest: U.S. National Security Export Controls and Global Economic Competition*. National Academies Press.
 
-USTR (U.S. Trade Representative). "Findings of the Investigation into China's Acts, Policies, and Practices Related to Technology Transfer, Intellectual Property, and Innovation under Section 301 of the Trade Act of 1974." March 22, 2018.
+National Intelligence Council (NIC). 2021. "Global Trends 2040: A More Contested World."
 
-White House. "Building Resilient Supply Chains, Revitalizing American Manufacturing, and Fostering Broad-Based Growth." June 2021.
+Office of the United States Trade Representative (USTR). 2018. "Findings of the Investigation into China's Acts, Policies, and Practices Related to Technology Transfer, Intellectual Property, and Innovation under Section 301 of the Trade Act of 1974." March 22.
 
-White House. "U.S.-China Joint Presidential Statement on Climate Change." September 25, 2015.
+Organisation for Economic Co-operation and Development (OECD). 2023. *Main Science and Technology Indicators*. Paris.
 
-World Bank. *World Development Report 2020: Trading for Development in the Age of Global Value Chains*. World Bank Publications, 2019.
+Semiconductor Industry Association (SIA). 2021. "Incentives for U.S. Semiconductor Production." Washington, DC.
 
-World Bank. *Groundswell Part 2: Acting on Internal Climate Migration*. World Bank, 2021.
+Semiconductor Industry Association (SIA). 2023. "2023 State of the U.S. Semiconductor Industry." June.
+
+UNESCO Institute for Statistics. 2023. "Research and Development Expenditure (% of GDP)." Montreal.
+
+United Nations Conference on Trade and Development (UNCTAD). 1991. *World Investment Report 1991: The Triad in Foreign Direct Investment*. Geneva.
+
+United Nations World Water Development Report. 2023. "Water, Food, and Energy Nexus." Paris: UNESCO.
+
+U.S. Department of Commerce, Bureau of Industry and Security (BIS). 2022. "2022 Export Controls: Taking the Long View." October.
+
+U.S. Department of Commerce, Bureau of Industry and Security (BIS). 2022. "Export Controls on Advanced Computing and Semiconductor Manufacturing Items to the People's Republic of China (PRC)." *Federal Register* 87 (214): 68523–68531.
+
+U.S. Department of Commerce, International Trade Administration (ITA). 2023. "Global Supply Chain Disruptions: Impact Assessment." Washington, DC.
+
+U.S. Department of Energy, Energy Information Administration (EIA). 2020. "U.S. Energy-Related Carbon Dioxide Emissions, 2019." Washington, DC.
+
+U.S. Department of Justice (DOJ). 2014. "U.S. Charges Five Chinese Military Hackers for Cyber Espionage Against U.S. Corporations and a Labor Organization for Commercial Advantage." Press Release, May 19.
+
+U.S. Department of Justice (DOJ). 2020. "Seven International Cyber Defendants, Including 'APT41' Actors, Charged in Connection with Computer Intrusion Campaigns Against More Than 100 Victims Globally." Press Release, September 16.
+
+U.S. Department of the Treasury. 2020. "Treasury Sanctions Iran's Petroleum Sector and Petrochemical Sector." Press Release, October 8.
+
+U.S. Department of the Treasury. 2021. "Sanctions Review." October.
+
+U.S. Food and Drug Administration (FDA). 2019. "Drug Shortages: Root Causes and Potential Solutions." FDA Report.
+
+U.S. National Defense Strategy. 2022. Department of Defense, October.
+
+U.S. National Security Strategy. 2022. The White House, October.
+
+U.S. Pharmacopeia (USP). 2023. *Medicine Supply Map: 2023 Report on Pharmaceutical Supply Chain Vulnerability*.
+
+White House. 2015. "U.S.-China Joint Presidential Statement on Climate Change." September 25.
+
+White House. 2021. "Building Resilient Supply Chains, Revitalizing American Manufacturing, and Fostering Broad-Based Growth." June.
+
+World Bank. 2019. *World Development Report 2020: Trading for Development in the Age of Global Value Chains*. World Bank Publications.
+
+World Bank. 2021. *Groundswell Part 2: Acting on Internal Climate Migration*.
+
+World Bank. 2022. "Commodity Markets Outlook: The Impact of the War in Ukraine on Commodity Markets."
+
+World Food Programme (WFP). 2024. "Yemen Emergency: Food Security Situation Report." Rome.
+
+World Trade Organization (WTO). 2020–2024. *China — Anti-Dumping and Countervailing Duty Measures on Barley from Australia* (DS598). WTO Dispute Settlement.
 
 ## Chinese Government and Academic Sources {-}
 
-National Development and Reform Commission (NDRC). "Made in China 2025." May 2015.
+Chinese Academy of Social Sciences (中国社会科学院). 2024. *World Economy Yellow Book 2024: Analysis and Forecast of World Economic Situation* (世界经济黄皮书：2024年世界经济形势分析与预测). Social Sciences Academic Press (China).
 
-State Council Information Office, PRC. "China's International Development Cooperation in the New Era." White Paper, January 2021.
+General Administration of Customs of the People's Republic of China (GACC). 2020–2021. Customs suspension notices for designated Australian export establishments and monthly trade statistics. http://english.customs.gov.cn
 
-Xi Jinping. "Secure a Decisive Victory in Building a Moderately Prosperous Society in All Respects and Strive for the Great Success of Socialism with Chinese Characteristics for a New Era." Report to the 19th National Congress of the Communist Party of China, October 2017.
+Ministry of Commerce of the People's Republic of China (MOFCOM). 2020. Announcements No. 14 of 2020 (barley) and No. 55 of 2020 (wine).
 
-余永定 (Yu Yongding). "人民币国际化与资本项目可兑换" [RMB Internationalization and Capital Account Convertibility]. *国际经济评论* [International Economic Review], 2015(4): 49-66.
+Ministry of Commerce of the People's Republic of China (MOFCOM). 2022. *White Paper on China's Export Controls* (中国的出口管制). State Council Information Office, December.
 
-Chinese Academy of Social Sciences (中国社会科学院). *World Economy Yellow Book 2024: Analysis and Forecast of World Economic Situation* (世界经济黄皮书：2024年世界经济形势分析与预测). Social Sciences Academic Press (China), 2024.
+Ministry of Finance of the People's Republic of China. 2024. "Announcement on the Establishment of the National Integrated Circuit Industry Investment Fund Phase III" (关于国家集成电路产业投资基金三期成立的公告). May 24.
 
-State Council of the People's Republic of China. *Central Economic Work Conference Communiqué, December 2024* (中央经济工作会议公报). Xinhua News Agency release, December 2024; and *Central Economic Work Conference Communiqué, December 2025*, Xinhua News Agency release, December 2025.
+National Development and Reform Commission (NDRC). 2015. "Made in China 2025." May.
 
-Ministry of Commerce of the People's Republic of China. *White Paper on China's Export Controls* (中国的出口管制). State Council Information Office, December 2022.
+State Council Information Office, PRC. 2021. "China's International Development Cooperation in the New Era." White Paper, January.
 
-Rosen, Daniel H. "The Chinese Economy's Reality Check." *Foreign Affairs*, September/October 2023.
+State Council of the People's Republic of China. 2024–2025. *Central Economic Work Conference Communiqué* (中央经济工作会议公报). Xinhua News Agency releases, December 2024 and December 2025.
+
+Xi Jinping. 2017. "Secure a Decisive Victory in Building a Moderately Prosperous Society in All Respects and Strive for the Great Success of Socialism with Chinese Characteristics for a New Era." Report to the 19th National Congress of the Communist Party of China, October.
+
+Yu Yongding (余永定). 2015. "RMB Internationalization and Capital Account Convertibility" (人民币国际化与资本项目可兑换). *International Economic Review* (国际经济评论) 2015 (4): 49–66.
 
 ## Data Sources and Databases {-}
 
+ASML. 2023. *Annual Report 2023*. Veldhoven, Netherlands.
+
 Bank for International Settlements (BIS). "Triennial Central Bank Survey of Foreign Exchange and OTC Derivatives Markets." Various years.
+
+Benchmark Mineral Intelligence. Battery and critical-minerals price and supply-chain data. Various years (incl. "Lithium, Cobalt, and Graphite Supply Chain Analysis," 2023). https://www.benchmarkminerals.com
+
+Bureau of Economic Analysis (BEA). 2026. "U.S. International Trade in Goods and Services, February 2026." Washington, DC.
+
+Congressional Research Service (CRS). Reports on U.S. trade, sanctions, and export-control policy. Various years. https://crsreports.congress.gov
+
+Dell'Oro Group. 2020–2021. "Worldwide Telecom Equipment Market Report."
 
 Food and Agriculture Organization (FAO). "World Food Situation: FAO Food Price Index." 2022. http://www.fao.org/worldfoodsituation
 
-Headey, Derek, and Shenggen Fan. "Anatomy of a Crisis: The Causes and Consequences of Surging Food Prices." *Agricultural Economics* 39, no. s1 (2008): 375-391.
+IHS Markit (S&P Global). 2020. "Global Telecom Equipment Market Share Reports."
 
-International Energy Agency (IEA). "Global Energy Review 2022." IEA Publications, 2022.
+International Energy Agency (IEA). "Global Energy Review 2022"; "Critical Minerals Market Review 2023"; and "The Role of Critical Minerals in Clean Energy Transitions" (2021). IEA Publications.
 
-International Energy Agency (IEA). "Critical Minerals Market Review 2023." IEA Publications, 2023.
-
-International Energy Agency (IEA). "The Role of Critical Minerals in Clean Energy Transitions." IEA Publications, 2021.
-
-International Fertilizer Association (IFA). "Fertilizer Outlook 2022-2023." Paris: IFA, 2022.
-
-U.S. Energy Information Administration (EIA). "World Oil Transit Chokepoints." 2023. https://www.eia.gov/international/analysis/special-topics/World_Oil_Transit_Chokepoints
-
-Peterson Institute for International Economics. "Economic Sanctions Database." Accessed 2024. https://www.piie.com/sanctions
-
-Rhodium Group. "China Investment Monitor." Various years.
-
-Stockholm International Peace Research Institute (SIPRI). "SIPRI Arms Transfers Database." Various years.
-
-U.S.-China Business Council. "US-China Trade Statistics." Annual Reports, 2000-2024.
-
-World Bank. "World Development Indicators." Various years. https://databank.worldbank.org
-
-World Trade Organization. "Trade Statistics." Various years.
-
-U.S. Geological Survey (USGS). *Mineral Commodity Summaries*. Annual. https://www.usgs.gov/centers/national-minerals-information-center
-
-SWIFT. *RMB Tracker* and annual activity statistics. Various months and years. https://www.swift.com
+International Fertilizer Association (IFA). "Fertilizer Outlook 2022–2023" and "Fertilizer Production and Trade Statistics." Paris, 2022.
 
 International Monetary Fund (IMF). *Currency Composition of Official Foreign Exchange Reserves (COFER)* and *World Economic Outlook* databases. Various years. https://data.imf.org
+
+Kpler. 2021. "Iran Oil Exports Tracker: Monthly Data Analysis." Paris.
 
 Organisation for Economic Co-operation and Development (OECD). Main Science and Technology Indicators and related databases. Various years. https://www.oecd.org
 
 Organization of the Petroleum Exporting Countries (OPEC). *Annual Statistical Bulletin*. Various years. https://www.opec.org
 
+Peterson Institute for International Economics (PIIE). "Economic Sanctions Database." Accessed 2024. https://www.piie.com/sanctions
+
+PitchBook. 2024. "Venture Capital and Private Equity Investment Trends: China Focus." Seattle.
+
+Rhodium Group. "China Investment Monitor" (various years) and "Two-Way Street: 2024 Update — Chinese Investment in the United States" (2024).
+
+SemiAnalysis. Semiconductor industry research. Various years (incl. "SMIC 7nm Analysis," September 2023). https://www.semianalysis.com
+
+Sovereign Wealth Fund Institute (SWFI). Sovereign wealth fund rankings and assets-under-management data. Various years.
+
+Stanford University, Institute for Human-Centered AI (HAI). 2024. "AI Index Report 2024."
+
+Stockholm International Peace Research Institute (SIPRI). "SIPRI Arms Transfers Database." Various years.
+
+SWIFT. *RMB Tracker*, *Annual Review*, and activity statistics. Various years. https://www.swift.com
+
+TankerTrackers.com. 2020. "Iran Sanctions Compliance and Export Monitoring."
+
+TechInsights. Semiconductor teardown and process-node analyses. Various years (incl. "Huawei Mate 60 Pro Teardown: SMIC 7nm Analysis," 2023). https://www.techinsights.com
+
+TeleGeography. *Submarine Cable Map*. Accessed 2026. https://www.submarinecablemap.com. See also Clement, J. "Number and Length of Submarine Communications Cables Worldwide." Statista / TeleGeography, March 2024.
+
+U.K. Office for National Statistics (ONS). 2023. "Energy Price Statistics: Household Energy Costs 2022–2023." London.
+
+U.S. Census Bureau. 2020. "U.S. Trade in Goods and Services: Annual Data 2019–2020." Washington, DC.
+
+U.S. Census Bureau. 2024. "Top Trading Partners: U.S. Trade in Goods with Selected Countries, 2023." Washington, DC.
+
+U.S. Energy Information Administration (EIA). "World Oil Transit Chokepoints." 2023. https://www.eia.gov/international/analysis/special-topics/World_Oil_Transit_Chokepoints
+
+U.S. Geological Survey (USGS). *Mineral Commodity Summaries*. Annual (incl. 2023 and 2024 editions). https://www.usgs.gov/centers/national-minerals-information-center
+
+U.S.-China Business Council. "US-China Trade Statistics." Annual Reports, 2000–2024.
+
 United Nations. *UN Comtrade Database* (international merchandise trade statistics). https://comtrade.un.org
+
+World Bank. "World Development Indicators." Various years. https://databank.worldbank.org
 
 World Food Programme (WFP). *Global Report on Food Crises* and related data. Various years. https://www.wfp.org
 
-TechInsights. Semiconductor teardown and process-node analyses. Various years. https://www.techinsights.com
+World Resources Institute (WRI). 2024. "Aqueduct Water Risk Atlas." Washington, DC.
 
-SemiAnalysis. Semiconductor industry research. Various years. https://www.semianalysis.com
-
-Benchmark Mineral Intelligence. Battery and critical-minerals price and supply-chain data. Various years. https://www.benchmarkminerals.com
-
-Congressional Research Service (CRS). Reports on U.S. trade, sanctions, and export-control policy. Various years. https://crsreports.congress.gov
-
-## Think Tank and Policy Analysis {-}
-
-American Enterprise Institute. "China Global Investment Tracker." Various years.
-
-Atlantic Council. "The Rise of Strategic Dependencies: Risks and Responses in a More Contested World." 2022.
-
-Dollar, David. "China's Rise as a Regional and Global Power: The AIIB and the 'One Belt, One Road.'" Brookings Institution, Summer 2015.
-
-Dollar, David, and Ryan Hass. "Has China Fallen from the Middle Class or is it a US Miscalculation?" Brookings Institution, March 2024.
-
-Prasad, Eswar. "Has the Dollar Lost Ground as the Dominant International Currency?" Brookings Institution, September 2023.
-
-Shih, Gerry, and Lindsay Maizland. "How China Reshaped the Global Internet." Brookings Institution and CFR joint report, 2022.
-
-Lardy, Nicholas R. "The State Strikes Back: The End of Economic Reform in China?" Peterson Institute for International Economics, 2019.
-
-Carnegie Endowment for International Peace. "Senior Fellow Reports on Sanctions Effectiveness and the Russia Campaign." Selected reports, 2022–2025.
-
-Center for a New American Security. "Economic Statecraft Series." Selected reports by Emily Kilcrease, Emily Benson, and Edward Fishman, 2022–2025.
-
-Center for Strategic and International Studies. "Renewing America's Advantages" series on semiconductors, advanced manufacturing, and industrial policy. CSIS, 2021–2025.
-
-Council on Foreign Relations. "Sanctions Tracker." Accessed 2024. https://www.cfr.org/sanctions
-
-Hudson Institute. "China's Participation in the World Trade Organization." December 2021.
-
-Royal United Services Institute (RUSI). "Financial Sanctions and Anti-Money Laundering." Various reports.
+World Trade Organization (WTO). "Trade Statistics." Various years.
 
 ---
 
-*Note: This bibliography includes major works and sources cited throughout the textbook. For chapter-specific references and data sources, see the "References" and "Data Sources" sections at the end of each chapter.*
+## Citation Format {-}
+
+This textbook uses **author-date** in-text citations:
+
+- **Single author:** (Baldwin 1985); with page for a direct quote: (Baldwin 1985: 12).
+- **Two authors:** (Farrell and Newman 2019).
+- **Three or more authors:** (Hufbauer et al. 2007).
+- **Multiple works:** (Copeland 2015; Farrell and Newman 2019).
+- **Institutional authors** appear under the spelled-out name with the acronym in parentheses, so "(IEA 2022)" resolves to "International Energy Agency (IEA)" and "(FAO 2022)" to "Food and Agriculture Organization of the United Nations (FAO)."
+
+---
+
+*Note: This is the book's single canonical bibliography, covering major works and sources cited throughout the textbook. For chapter-specific references and data notes, see the "References" and "Data Sources" sections at the end of each chapter.*

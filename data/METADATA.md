@@ -2,6 +2,8 @@
 
 This file documents the source, coverage, and known limitations of each dataset under `data/sources/`. Figures rendered in `figures/` are built from these files via scripts in `R/figures/`. Access dates below are given to month precision (YYYY-MM) because most underlying series are monthly or annual; where a series is maintained by a public agency, readers should re-fetch for current vintages.
 
+> **Authority / reconciliation note.** The root `DATA_DICTIONARY.md` is the single source of truth for both (a) canonical values of statistics quoted in the manuscript and (b) dataset retrieval/access dates. This file is a narrative supplement. **Where an access date below differs from the "Retrieval Date" recorded for the same dataset in `DATA_DICTIONARY.md`, the Data Dictionary value governs.** (Several access dates here were captured on an earlier pass and are superseded by the Data Dictionary — e.g., `us_china_trade.csv`, `critical_minerals_data.csv`, `tsmc_market_share.csv`, `rd_spending.csv`. Do not cite the dates in this file against those in the Data Dictionary; defer to the Dictionary.) For any statistic the manuscript quotes, use the value, as-of date, and series basis in the Data Dictionary's "Canonical Statistics" table.
+
 ---
 
 ## Trade and Tariff Data
