@@ -1,5 +1,16 @@
 # Trade Controls and Tariffs
 
+## Learning Objectives
+
+After completing this chapter, you will be able to:
+
+- Distinguish the principal U.S. tariff authorities (Sections 201, 232, and 301) and explain how the 2025 turn to the International Emergency Economic Powers Act (IEEPA) tested the boundary between trade policy and emergency powers.
+- Trace the escalation, truces, and legal unraveling of the U.S.–China trade war (2018–2026) and assess its effectiveness against the book's four-dimension framework.
+- Analyze how U.S. export-control instruments (the Export Administration Regulations, the Entity List, and the Foreign Direct Product Rule) and the multilateral regimes (Wassenaar, MTCR, NSG, Australia Group) both extend and constrain state power.
+- Evaluate when unilateral versus multilateral export controls succeed, using market concentration, substitutability, and alliance coordination as criteria.
+- Explain the erosion of the WTO dispute-settlement system and the significance of the GATT Article XXI security exception.
+- Assess China's counter-coercion toolkit (the Export Control Law, the Unreliable Entity List, the Anti-Foreign Sanctions Law, and critical-mineral export controls).
+
 ## Executive Summary
 
 The tariff is the oldest instrument of economic statecraft, and for most of its history it served revenue and protection rather than strategic coercion. That changed over the course of a single trade war. On March 22, 2018, President Trump signed a presidential memorandum imposing tariffs on approximately $50 billion worth of Chinese goods under Section 301 of the Trade Act of 1974, citing China's "unfair trade practices" related to technology transfer and intellectual property (USTR 2018). China retaliated at once with equivalent tariffs on U.S. agricultural products, aircraft parts, and automobiles. What began as targeted measures escalated over eighteen months into tariffs affecting more than $360 billion in bilateral trade, the largest trade war between major economies since the Smoot-Hawley Tariff of 1930. By the time the Biden administration took office in January 2021 and kept nearly all of the Trump-era tariffs in place while expanding export controls, a bipartisan consensus had formed: trade policy was now a tool of strategic competition rather than solely a driver of economic prosperity.
@@ -18,7 +29,7 @@ The analysis moves from tariff mechanisms and trade wars through export control 
 
 ## Tariffs and Trade Wars
 
-Tariffs, taxes on imported goods, are the oldest form of trade policy, predating modern states. Their function has changed considerably over time. Through the 19th century, tariffs primarily generated government revenue, comprising 80-95% of U.S. federal revenue until the income tax. In the early 20th century, they protected infant industries from foreign competition. Today, tariffs increasingly serve as coercive instruments targeting specific countries to compel policy changes or degrade adversary capabilities. This section examines modern tariff mechanisms, their evolution into tools of economic statecraft, and their effectiveness in achieving strategic objectives.
+Tariffs, taxes on imported goods, are the oldest form of trade policy, predating modern states. Their function has changed considerably over time. In the early republic and antebellum period, customs duties supplied the overwhelming bulk of federal revenue—often 80–90% before the Civil War—though that share fell to roughly half in the decades afterward as internal excise taxes grew, before the Sixteenth Amendment (1913) and the modern income tax displaced tariffs as the primary source of federal revenue (Irwin 2017). In the early 20th century, they protected infant industries from foreign competition. Today, tariffs increasingly serve as coercive instruments targeting specific countries to compel policy changes or degrade adversary capabilities. This section examines modern tariff mechanisms, their evolution into tools of economic statecraft, and their effectiveness in achieving strategic objectives.
 
 ### Legal Authorities for U.S. Tariffs
 
@@ -60,7 +71,7 @@ By year-end, U.S. tariffs affected $250 billion in Chinese imports; Chinese reta
 - **August 2019**: China allows yuan to depreciate below 7.0 per dollar; U.S. Treasury designates China a "currency manipulator"
 - **September 2019**: U.S. imposes 15% tariffs on $112 billion (consumer electronics, apparel, footwear); delays tariffs on remainder
 
-Peak U.S. tariff levels: 25% on $250 billion in imports, 15% on $112 billion, affecting $362 billion total (66% of U.S. imports from China). China retaliated with tariffs ranging from 5% to 25% on $185 billion in U.S. exports (over 70% of U.S. exports to China) (Bown and Kolb 2021).
+Peak U.S. tariff levels: 25% on $250 billion in imports, 15% on $112 billion, affecting $362 billion total (66% of U.S. imports from China). China retaliated with tariffs ranging from 5% to 25% covering roughly $90–110 billion of U.S. exports—about 58% of U.S. exports to China at 2017 levels, rising toward two-thirds of product lines by late 2019 (Bown 2019; Bown and Kolb 2021). (Total U.S. goods exports to China were only about $130 billion in 2017, so Chinese retaliation could not have reached the $185 billion sometimes cited.)
 
 **Phase 3: "Phase One" Agreement (2020)**
 
@@ -88,14 +99,19 @@ The Biden administration conducted a Section 301 tariff review in 2021-2022, mai
 - **May 2024**: Announced major tariff increases for strategic sectors (including EVs, batteries, solar cells, steel/aluminum, and selected medical products)
 - **September 27, 2024**: Finalized staged Section 301 rate increases, with some increases scheduled to take effect on January 1, 2025
 
-**Phase 5: Trump Second-Term Administrative Adjustment (January 2025-March 2026)**
+**Phase 5: The IEEPA Tariff Regime and Its Unraveling (2025-2026)**
 
-After inauguration on **January 20, 2025**, the second Trump administration kept the core Section 301 architecture and adjusted implementation at the margin:
+Where the trade war's first seven years were fought with the trade-specific statutes catalogued above—Sections 201, 232, and 301, each carrying its own investigation, findings, and procedural limits—the second Trump administration's opening move was to reach for an entirely different and far broader authority: the **International Emergency Economic Powers Act** (IEEPA, 50 U.S.C. § 1701 et seq.), a 1977 sanctions statute that had never before been used to impose tariffs. The 2018–2024 Section 301 architecture stayed in place throughout, but the new front was legally distinct—and, as it turned out, legally fragile (Congressional Research Service 2025).
 
-- **January 1, 2025 (effective date)**: Additional staged rate increases from the September 27, 2024 determination took effect
-- **November 2025-March 2026**: The Trump administration suspended the proposed Section 301 maritime/logistics action for one year (through November 10, 2026) while extending certain machinery exclusions through November 10, 2026
+- **February 2025 (fentanyl tariffs)**: Declaring the flow of synthetic opioids a national emergency, the administration invoked IEEPA to impose a 10% tariff on all Chinese goods effective February 4, 2025, raising it to 20% on March 4 (parallel IEEPA tariffs hit Canada and Mexico). These were the first tariffs in U.S. history imposed under IEEPA rather than a trade statute.
+- **April 2025 ("reciprocal" tariffs)**: On April 2 ("Liberation Day"), the administration again invoked IEEPA—this time declaring the U.S. goods-trade deficit a national emergency—to impose a universal 10% baseline tariff on nearly all imports (effective April 5) plus higher country-specific "reciprocal" rates on roughly 57 trading partners (effective April 9).
+- **April–May 2025 (triple-digit escalation)**: China matched each increase. Within days the U.S. reciprocal rate on China reached 125%, which—stacked on the 20% fentanyl tariff and pre-existing Section 301 duties—pushed the headline U.S. tariff on many Chinese goods to roughly 145%; China retaliated at 125%. Trade in the affected categories briefly seized up.
+- **May 2025 (Geneva truce)**: On May 12, negotiators meeting in Geneva agreed a 90-day de-escalation, cutting the reciprocal component to 10% on each side (leaving the United States at roughly 30% counting the fentanyl tariff, and China at about 10%). The truce was extended in August and, after the Busan summit, again through November 2026.
+- **October 2025 (rare-earth showdown)**: On October 9, China sharply expanded its rare-earth and permanent-magnet export-licensing regime, adding extraterritorial provisions reaching any product made anywhere with Chinese-origin materials or processing technology—a deliberate mirror of the U.S. Foreign Direct Product Rule (see below). Trump threatened an additional 100% tariff effective November 1.
+- **October–November 2025 (Busan truce)**: The two presidents met on October 30, 2025 in Busan, South Korea—their first in-person meeting in six years. China agreed to suspend the new rare-earth controls for one year and to resume large-scale U.S. soybean purchases; the United States agreed to halve the fentanyl tariff from 20% to 10% (effective November 10) and to extend the reciprocal-tariff suspension through November 2026, bringing the average U.S. tariff on Chinese goods down from roughly 57% to about 47%.
+- **February 2026 (Supreme Court)**: The legal foundation then gave way. In *Learning Resources, Inc. v. Trump* (decided February 20, 2026), the Court held 6–3 that IEEPA's power to "regulate importation" does not include the power to impose tariffs—a power the Constitution vests in Congress and that Congress has always delegated through statutes containing explicit tariff language and defined limits. The Court vacated the IEEPA fentanyl and reciprocal tariffs (effective February 24, 2026), requiring the government to refund IEEPA duties already collected—a sum some estimates put as high as roughly $175 billion. The administration immediately signaled it would re-impose tariffs under trade-specific authorities instead, notably Section 122 of the Trade Act of 1974 (a 15%, 150-day balance-of-payments tariff requiring congressional action to extend) and additional Section 301 actions (Learning Resources v. Trump 2026).
 
-As of early 2026, the core tariff architecture remains in place: U.S. Section 301 tariffs still cover roughly the same broad Chinese import basket as in 2018-2024, while Chinese retaliatory tariffs still affect most U.S. goods exports to China. The policy mix has shifted toward higher rates in strategic sectors and narrower, time-limited exclusions.
+The episode is the chapter's own Article XXI problem transposed into domestic law. Just as GATT Article XXI's self-judging "essential security interests" language invites states to reclassify ordinary trade restrictions as security measures, IEEPA's open-ended "national emergency" and "regulate importation" language invited the executive to convert a sanctions statute into a general tariff power—until a court, reading IEEPA narrowly against the backdrop of the major-questions doctrine and Congress's exclusive constitutional authority over tariffs, drew the boundary. The contrast is instructive: the multilateral constraint (Article XXI review at the WTO) has collapsed into paralysis, yet a domestic separation-of-powers constraint proved capable of reining in the same impulse. Meanwhile the trade-specific machinery endured: the Section 301 structure from 2018–2024, never at issue in the litigation, remained in force and outlasted the IEEPA experiment, and the administration moved to migrate its tariff program back onto the very trade statutes this chapter analyzes.
 
 ### Economic Impacts of the Trade War
 
@@ -126,12 +142,12 @@ The conclusion is consistent across studies: U.S. tariffs functioned as a domest
 
 {% hint style="info" %}
 **Who Actually Pays Tariffs?**
-Contrary to political rhetoric suggesting tariffs "punish" foreign exporters, economic research consistently finds that U.S. consumers and businesses bear nearly 100% of tariff costs. Chinese exporters did not lower their prices to absorb the tariffs. Instead, American importers paid the full tariff amount, passing costs to consumers through higher retail prices. The average U.S. household paid an estimated $800-1,300 annually in additional costs from trade war tariffs.
+Contrary to political rhetoric suggesting tariffs "punish" foreign exporters, economic research consistently finds that U.S. consumers and businesses bear nearly 100% of tariff costs. Chinese exporters did not lower their prices to absorb the tariffs. Instead, American importers paid the full tariff amount, passing costs to consumers through higher retail prices. Published estimates put the added cost to the average U.S. household at roughly $800–1,300 per year—the New York Fed's own calculation of the 2019 escalation came to about $831 annually (Amiti, Redding, and Weinstein 2019).
 {% endhint %}
 
 **Supply Chain Reconfiguration**
 
-Figure 6.2 traces the escalation ladder of the 2018–2025 trade war, superimposing announced tariff actions, retaliatory responses, and negotiated partial pauses.
+Figure 6.2 traces the escalation ladder of the 2018–2025 trade war, superimposing announced tariff actions, retaliatory responses, and negotiated partial pauses. Its underlying data end before the 2025 IEEPA tariff cycle and the February 2026 Supreme Court ruling described in Phase 5 above.
 
 <figure class="book-figure">
   <img src="../figures/fig_06_05_trade_war_escalation.png" alt="Escalation ladder of the 2018-2025 U.S.-China trade war, showing tariff actions, retaliation rounds, and partial pauses.">
@@ -208,7 +224,7 @@ After World War II, Western states recognized that unilateral export controls co
 
 **Wassenaar Arrangement on Export Controls for Conventional Arms and Dual-Use Goods and Technologies**
 
-Established 1996 as successor to Cold War-era CoCom (Coordinating Committee for Multilateral Export Controls), Wassenaar coordinates national export control policies for conventional weapons and dual-use goods. Forty-two member states (including U.S., EU members, Japan, Korea, Australia; notably excluding China, India, Israel).
+Established 1996 as successor to Cold War-era CoCom (Coordinating Committee for Multilateral Export Controls), Wassenaar coordinates national export control policies for conventional weapons and dual-use goods. Forty-two participating states (including the U.S., EU members, Japan, Korea, Australia, and—since December 2017—India; China and Israel remain outside the arrangement).
 
 **Structure and Operation**:
 - Members maintain national export control systems based on common control lists
@@ -233,7 +249,7 @@ Strengths:
 Weaknesses:
 - Consensus requirement enables lowest-common-denominator standards; any member can block list additions
 - Non-binding nature means members can approve sales others oppose
-- Major producers outside regime (China, India, Israel, Brazil) not bound by restrictions
+- Major producers outside the regime (China, Israel, Brazil) not bound by restrictions
 - Dual-use technology definition increasingly ambiguous as digitalization blurs civilian-military boundaries
 
 {% hint style="warning" %}
@@ -272,7 +288,7 @@ AG faces fundamental challenge: Most controlled chemicals and equipment have leg
 
 1. **Dual-use technology expansion**: Digitalization, AI, quantum technologies blur civilian-military boundaries. Commercial AI chips used for both consumer applications and military systems. Quantum computers enable cryptography and code-breaking. Biotechnology serves medicine and bioweapons. Traditional category-based controls struggle.
 
-2. **Non-member producers**: China's exclusion from most regimes increasingly problematic as it becomes major technology producer. India, Israel, Brazil, and others export without multilateral constraints. Regime effectiveness erodes as non-members' market share grows.
+2. **Non-member producers**: China's exclusion from most regimes increasingly problematic as it becomes major technology producer. Israel, Brazil, and others export without multilateral constraints (India, by contrast, joined the MTCR in 2016, the Wassenaar Arrangement in 2017, and the Australia Group in 2018, though it remains outside the NSG). Regime effectiveness erodes as non-members' market share grows.
 
 3. **Intangible technology transfer**: Traditional controls focused on physical exports. Modern technology transfer occurs through digital communications, cloud computing, remote access, and personnel mobility. Controlling intangible technology without impeding scientific collaboration proves difficult.
 
@@ -341,7 +357,7 @@ Entity List designation requires licenses for exports of specified items (often 
 
 {% hint style="info" %}
 **The Ultimate Chokepoint: EDA Software**
-Electronic Design Automation (EDA) software—essential for designing any advanced semiconductor—represents perhaps the most powerful chokepoint in the technology ecosystem. Three American companies (Synopsys, Cadence, and Siemens EDA/Mentor Graphics) control approximately 100% of the market for advanced chip design tools. Without EDA software, no country can design cutting-edge semiconductors, regardless of their manufacturing capabilities. This near-total monopoly gives the U.S. extraordinary leverage that even China's massive investments cannot quickly overcome.
+Electronic Design Automation (EDA) software—essential for designing any advanced semiconductor—represents perhaps the most powerful chokepoint in the technology ecosystem. Three firms—Synopsys and Cadence (both American) and Siemens EDA, the former Mentor Graphics, owned since 2017 by Germany's Siemens AG—together control roughly three-quarters of the global EDA market (about 74% in 2024) and an even larger share, well above 90%, of the tools needed for leading-edge (≤7nm) design (TrendForce 2024). Without this software, no country can design cutting-edge semiconductors, regardless of its manufacturing capabilities. This concentration gives the U.S. extraordinary leverage—amplified by the fact that even the German-owned tool suite depends on U.S.-origin technology and is therefore reachable by U.S. export controls—that even China's massive investments cannot quickly overcome.
 {% endhint %}
 
 **Foreign Direct Product Rule Expansion**
@@ -349,7 +365,7 @@ Electronic Design Automation (EDA) software—essential for designing any advanc
 The FDP Rule traditionally applied narrowly to items directly produced by U.S. technology. In May 2020, BIS expanded the FDP Rule specifically targeting Huawei, restricting foreign semiconductor manufacturers from selling chips to Huawei if:
 
 1. Chips designed by Huawei using U.S. software (e.g., Electronic Design Automation tools from Synopsys, Cadence)
-2. Chips manufactured using U.S.-origin equipment (e.g., Applied Materials, Lam Research, KLA lithography systems)
+2. Chips manufactured using U.S.-origin equipment (e.g., Applied Materials deposition tools, Lam Research etch systems, and KLA process-control and inspection equipment—the leading-edge lithography itself comes from the Netherlands' ASML and Japan's Nikon and Canon)
 
 This expansion effectively cut Huawei off from Taiwan's TSMC (which uses U.S. equipment) despite TSMC being a foreign company selling foreign-made products. TSMC immediately ceased accepting new Huawei orders.
 
@@ -359,7 +375,7 @@ October 2022 semiconductor export controls extended FDP principles broadly: Fore
 
 EAR violations carry severe consequences:
 
-- **Civil penalties**: Up to $330,000 per violation or twice transaction value, whichever is greater
+- **Civil penalties**: Adjusted annually for inflation—up to $374,474 per violation in 2025 (or twice the transaction value, whichever is greater) under the Export Control Reform Act (15 C.F.R. Part 6)
 - **Criminal penalties**: Willful violations up to $1 million per violation and 20 years imprisonment
 - **Denial orders**: Prohibition on export privileges (receiving U.S. exports or participating in export transactions)
 
@@ -382,6 +398,8 @@ ECRA directed Commerce to establish controls for these technologies in coordinat
 Semiconductor export controls illustrate how EAR authorities operate in practice. Advanced semiconductors enable AI, quantum computing, autonomous weapons, and supercomputers, dual-use technologies where the commercial and military distinction collapses entirely. Controls evolved from targeted entity restrictions (2019-2021) through comprehensive capability-based controls (October 2022) to multilateral coordination with the Netherlands and Japan (2023-2025). Chapter 4 provides a detailed analysis of this evolution, including strategic logic, allied coordination dynamics, Chinese responses, and effectiveness assessment.
 
 From an export control architecture perspective, the semiconductor case demonstrates both the power and limits of EAR authorities: ECCN-based controls can restrict specific technological capabilities, the FDPR can extend jurisdiction extraterritorially, and Entity List designations can target specific actors. Effectiveness still depends on allied coordination that lies beyond any single government's legal authority.
+
+The controls have also spawned novel enforcement hybrids. After the administration banned exports of Nvidia's China-market H20 accelerator in April 2025, it reversed course in July–August 2025, allowing sales under license in exchange for a first-of-its-kind arrangement under which Nvidia and AMD would remit 15% of their Chinese AI-chip revenue to the U.S. government—blurring the line between an export control and a revenue measure, and drawing criticism that it monetized national-security policy. Chapter 4 examines this episode, and China's algorithmic responses to the controls (including the January 2025 release of DeepSeek's efficient models), in detail.
 
 ### Lessons from Cold War Export Controls: CoCom
 
@@ -430,7 +448,7 @@ Export controls face a fundamental dilemma: Unilateral measures risk competitive
 
 For export controls to meaningfully constrain adversary capabilities, they must cover sufficient market share that substitutes are unavailable. In semiconductor equipment, the U.S. holds ~40% market share, Japan ~30%, and the Netherlands controls 100% of EUV lithography. Unilateral U.S. controls leave 60% of the equipment market accessible; coordinated controls close access to ~85%.
 
-Multilateral coordination also reduces commercial disadvantage (all suppliers face the same restrictions, leveling the playing field), enhances political sustainability (firms cannot circumvent by relocating), and signals shared threat assessment rather than unilateral American action. U.S. semiconductor equipment firms lost $10-15 billion annually (2022-2024) from China restrictions, losses that generate intense lobbying for exemptions absent allied burden-sharing.
+Multilateral coordination also reduces commercial disadvantage (all suppliers face the same restrictions, leveling the playing field), enhances political sustainability (firms cannot circumvent by relocating), and signals shared threat assessment rather than unilateral American action. By industry and analyst estimates, U.S. semiconductor equipment firms forwent on the order of $10–15 billion in annual China sales (2022–2024) as a result of the controls—losses reflected in the individual guidance of Applied Materials, Lam Research, and KLA and, absent allied burden-sharing, a source of intense lobbying for exemptions.
 
 ### Challenges to Multilateral Coordination
 
@@ -457,7 +475,7 @@ Despite challenges, unilateral export controls can succeed when specific conditi
 
 When one country (or small group) dominates production of critical inputs, unilateral controls can be effective:
 
-- **EDA software (U.S.)**: Synopsys, Cadence, Mentor Graphics control ~100% of advanced electronic design automation software essential for chip design. Chinese designers cannot create advanced chips without this software. U.S. unilateral controls effectively block Chinese access.
+- **EDA software (U.S. and allied)**: Synopsys and Cadence (American) and Siemens EDA (the German-owned former Mentor Graphics) together control roughly three-quarters of the electronic design automation market and well over 90% of the tools for leading-edge design. Chinese designers cannot create advanced chips without this software, and because even Siemens EDA's tools rely on U.S.-origin technology, U.S. controls reach the whole trio and effectively block Chinese access to the most advanced nodes.
 - **EUV lithography (Netherlands/ASML)**: Only producer of EUV lithography equipment essential for sub-7nm chip production. Dutch unilateral controls (coordinating with U.S.) block Chinese advanced chip manufacturing.
 - **Advanced AI chips (U.S.)**: Nvidia and AMD dominate high-end AI accelerators. China's Huawei, Biren, Hygon cannot match performance. Unilateral U.S. controls significantly constrain Chinese AI development.
 
@@ -535,9 +553,11 @@ China enacted Export Control Law (2020) establishing authority to:
 
 **Specific Controls**:
 
-- **Rare earth export restrictions** (2023): Controls on gallium and germanium (used in semiconductors, solar cells, fiber optics). China produces 94% of global gallium, 83% of germanium (USGS 2024). Restrictions raised prices and forced Western firms to stockpile.
+- **Gallium and germanium licensing** (August 2023): Export-licensing controls on gallium and germanium (used in semiconductors, solar cells, fiber optics). China accounts for roughly 98% of global low-purity (primary) gallium production and about 60% of germanium (USGS 2025). Restrictions raised prices and forced Western firms to stockpile.
 - **Graphite restrictions** (2023): Controls on certain graphite materials essential for lithium-ion battery anodes. China controls 65% of global graphite mining, 90% of processing (USGS 2024).
 - **Antimony restrictions** (2024): Controls on antimony (used in semiconductors, solar panels, batteries, ammunition). China produces 48% globally, processes 63% (USGS 2024).
+- **Outright ban on exports to the United States** (December 2024): Responding to a fresh round of U.S. semiconductor controls, China banned exports of gallium, germanium, antimony, and superhard materials to the United States specifically—rather than merely licensing them—the first time Beijing singled out one country for a critical-mineral embargo (China Ministry of Commerce 2024).
+- **Rare-earth and magnet licensing** (April and October 2025): During the 2025 tariff escalation (see Case Study 1), China placed seven medium and heavy rare-earth elements and permanent-magnet products under export licensing (April 2025), then in October 2025 broadened the regime with extraterritorial provisions reaching any product made anywhere with Chinese-origin rare earths or processing technology—a mirror image of the U.S. Foreign Direct Product Rule. The controls were suspended for one year under the October 30 Busan truce (CSIS 2025).
 
 <figure class="book-figure">
   <img src="../figures/fig_06_04_rare_earth_retaliation.png" alt="Chinese critical-mineral and rare-earth export retaliation measures 2010-2025, showing targeted controls on gallium, germanium, graphite, and antimony alongside global production shares.">
@@ -931,9 +951,10 @@ The U.S.-China trade war represents the largest bilateral trade conflict in mode
 - **August-September 2019**: Additional $112 billion at 15%; China retaliates; yuan depreciates below 7.0
 - **January 2020**: Phase One Agreement; U.S. reduces some tariffs to 7.5% but maintains 25% on $250 billion
 - **2021-2024**: Biden maintains Trump tariffs and announces targeted increases (EVs to 100%, solar to 50%, batteries, steel/aluminum, medical products)
-- **January 2025 onward (Trump second term after January 20, 2025)**: Additional staged Section 301 increases enter into force for semiconductors and selected critical inputs; exclusions narrow and become more explicitly temporary
+- **2025 (IEEPA tariff cycle)**: The second Trump administration opens a new front under IEEPA rather than Section 301—February fentanyl tariffs (10%→20%), April "reciprocal" tariffs (a universal 10% baseline plus country-specific rates), an April–May escalation to roughly 145% (U.S.) and 125% (China), a May Geneva truce, an October rare-earth showdown, and an October 30 Busan truce that cut the average U.S. rate on China from about 57% to about 47% (see Phase 5)
+- **February 2026 (Supreme Court)**: In *Learning Resources v. Trump*, the Court holds 6–3 that IEEPA does not authorize tariffs and vacates the IEEPA duties; the 2018–2024 Section 301 architecture, never challenged in the case, remains in force
 
-**Peak Impact**: U.S. tariffs affected $360 billion Chinese imports (66% of total); effective average rate 19.3%. Chinese retaliatory tariffs affected $185 billion U.S. exports (72% of total); average rate 20.7% (Bown and Kolb 2021).
+**Peak Impact**: U.S. tariffs affected $360 billion Chinese imports (66% of total); effective average rate 19.3%. Chinese retaliatory tariffs covered roughly $90–110 billion of U.S. exports—about 58% of U.S. exports to China at 2017 levels, rising toward two-thirds of product lines by December 2019, at an average rate near 21% (Bown 2019; Bown and Kolb 2021). (The often-cited $185 billion figure exceeds total U.S. goods exports to China, which were about $130 billion in 2017.)
 
 ### Applying the Four-Dimension Framework
 
@@ -945,7 +966,7 @@ The U.S.-China trade war represents the largest bilateral trade conflict in mode
 
 **Capability Degradation: MODERATE.** Tariffs contributed to supply chain reconfiguration: Chinese export share to the U.S. fell from 21.6% (2017) to 16.5% (2023), with Vietnam ($49 billion to $115 billion in U.S. exports) and Mexico capturing share (U.S. Census Bureau 2024). Combined with semiconductor export controls, tariffs accelerated technology ecosystem bifurcation. However, China's $17 trillion domestic market, 28% share of global manufacturing, and increased dominance in critical sectors (solar, batteries, rare earths) limit the effect.
 
-**Cost Imposition: MODERATE.** Chinese GDP fell an estimated 0.5-0.8% ($65-100 billion), with 1-3 million manufacturing jobs lost. U.S. GDP fell 0.3-0.5% ($60-100 billion), with average households paying $800-1,300 annually in tariff costs and agriculture losing $27 billion in exports (partially offset by $23 billion in government subsidies). Neither side faced intolerable costs forcing capitulation.
+**Cost Imposition: MODERATE.** Chinese GDP fell an estimated 0.5-0.8% ($65-100 billion), with 1-3 million manufacturing jobs lost. U.S. GDP fell 0.3-0.5% ($60-100 billion), with average households paying an estimated $800-1,300 annually in tariff costs (Amiti, Redding, and Weinstein 2019) and agriculture losing $27 billion in exports (partially offset by $23 billion in government subsidies). Neither side faced intolerable costs forcing capitulation.
 
 **Sustainability: MODERATE-HIGH.** Both sides sustained tariffs for roughly eight years without structural resolution. Bipartisan U.S. consensus, Chinese authoritarian insulation, and firm adaptation supported duration, though U.S. inflation and Chinese growth slowdown created de-escalation pressures.
 
@@ -1071,7 +1092,7 @@ Key similarities include long-term competition requiring sustained technology de
   * Amiti, Redding, Weinstein: "The Impact of the 2018 Tariffs on Prices and Welfare" (*Journal of Economic Perspectives*, 2019)
   * Fajgelbaum et al.: "The Return to Protectionism" (*Quarterly Journal of Economics*, 2020)
   * Flaaen and Pierce: "Disentangling the Effects of the 2018-2019 Tariffs" (Fed Working Paper)
-  * Cavallo et al.: "Tariff Pass-Through at the Border and at the Store" (AEJ 2021)
+  * Cavallo et al.: "Tariff Pass-Through at the Border and at the Store: Evidence from US Trade Policy" (*American Economic Review: Insights*, 2021)
 
 **Federal Reserve Economic Data (FRED)**: (https://fred.stlouisfed.org)
 - Trade balance time series
@@ -1303,6 +1324,10 @@ Key similarities include long-term competition requiring sustained technology de
 - Definitive academic study of CoCom
 - Alliance politics, enforcement, effectiveness assessment
 
+**Douglas A. Irwin**, *Clashing over Commerce: A History of U.S. Trade Policy* (University of Chicago Press, 2017)
+- Definitive history of U.S. trade policy from the founding to the present
+- Source for the long-run shift in tariffs' role from revenue to protection to strategic competition, including the decline of customs duties as a share of federal revenue after the Civil War
+
 ### Key Academic Articles
 
 Mary E. Lovely and Jeffrey J. Schott, "The US-China Trade War: A Breakdown," *Peterson Institute for International Economics Working Paper* (2019)
@@ -1339,6 +1364,14 @@ White House, "Building Resilient Supply Chains, Revitalizing American Manufactur
 
 World Trade Organization, DS543 (United States — Tariff Measures on Certain Goods from China): panel report circulated September 15, 2020; appeal notified October 26, 2020.
 
+Congressional Research Service, "Presidential 2025 Tariff Actions: Timeline and Status," CRS Report R48549 (2025).
+
+*Learning Resources, Inc. v. Trump*, 607 U.S. ___ (2026) (No. 24-1287) (holding, 6–3, that the International Emergency Economic Powers Act does not authorize the President to impose tariffs; decided February 20, 2026).
+
+U.S. Geological Survey, *Mineral Commodity Summaries 2025* (Reston, VA: U.S. Geological Survey, 2025) [gallium, germanium, rare earths, graphite, antimony production shares].
+
+China Ministry of Commerce (MOFCOM), Announcement No. 46 of 2024, "Export Controls on Gallium, Germanium, Antimony, and Superhard Materials to the United States" (December 3, 2024).
+
 ### Think Tank and Policy Analysis
 
 Chad P. Bown and Douglas A. Irwin, "Trump's Assault on the Global Trading System—And Why Decoupling from China Will Change Everything," *Foreign Affairs* (September/October 2019)
@@ -1350,6 +1383,12 @@ Emily Kilcrease and Megan Lamberth, "Assessing the State of U.S. Export Controls
 Kevin Wolf, "The ECRA and the New World of Export Controls," *Akin Gump Trade Blog* (2018)
 
 Wendy Cutler and Aidan Arasasingham, "The U.S. Section 301 Investigation into China's IP Practices: Two Years Later," *Asia Society Policy Institute* (2020)
+
+Chad P. Bown, "US-China Trade War Tariffs: An Up-to-Date Chart," *Peterson Institute for International Economics* (2019, regularly updated) — tariff coverage, affected trade values, and retaliation tracking.
+
+Center for Strategic and International Studies, "Rare Earth Export Restrictions One Year Later" (CSIS, 2025) — China's April and October 2025 rare-earth and magnet export-licensing regimes.
+
+TrendForce, EDA market-share estimates for 2024 (Taipei: TrendForce, 2024) — Synopsys, Cadence, and Siemens EDA combined and leading-edge shares.
 
 ---
 

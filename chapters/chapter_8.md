@@ -1,18 +1,28 @@
 # Investment Screening, Industrial Policy, and Strategic Assets
 
+## Learning Objectives
+
+After working through this chapter, readers should be able to:
+
+- Explain how U.S. investment screening evolved from the passive, narrowly security-focused CFIUS of 1975 into an active instrument of economic competition, and identify the specific mechanisms FIRRMA (2018) introduced.
+- Distinguish the legal trigger for CFIUS jurisdiction over non-controlling "covered investments" (access, board rights, or decisionmaking involvement) from the mandatory-declaration thresholds and from allied regimes such as the UK's National Security and Investment Act.
+- Compare the U.S. and Chinese models of industrial policy, and assess—using the book's five effectiveness criteria—whether large subsidy programs such as the CHIPS Act and the Inflation Reduction Act can build durable capabilities given political-cycle risk, as illustrated by the 2025 rollback of the IRA's clean-energy credits.
+- Analyze informal economic coercion through the 2020-2024 China-Australia case, explaining why plausible deniability, sector selectivity, and target diversification shape its effectiveness.
+- Evaluate the return of direct state ownership—the 2025 conversion of Intel's CHIPS award into a federal equity stake and the proposed U.S. sovereign wealth fund—as evidence of a broader shift from market-led to state-directed allocation.
+
 ## Executive Summary
 
 Two convictions that anchored Western economic policy for a generation—that capital should flow to wherever it is most productive, and that governments should not try to pick industrial winners—have both been substantially abandoned within the space of a few years. The TikTok case marks the retreat from the first. On August 6, 2020, President Trump issued an executive order giving ByteDance, the Chinese parent company of TikTok, 45 days to divest the popular video-sharing app or face a complete ban in the United States. The order cited national security concerns: TikTok's collection of American users' data, algorithmic content curation controlled by a Chinese company potentially subject to Chinese government influence, and the risk of Chinese intelligence exploiting the platform's vast user base (100 million Americans, predominantly young). ByteDance proposed technical solutions and partnership structures, but the Committee on Foreign Investment in the United States (CFIUS) determined that only complete divestment, selling TikTok's U.S. operations to American owners, would address those concerns.
 
-After years of litigation and negotiation, the TikTok case moved from threatened ban to forced restructuring under U.S. ownership and governance constraints in 2025-2026. The standoff illustrates a broader transformation. Investment screening has shifted from routine national-security review to an active instrument of economic competition, targeting specific countries, entire sectors, and companies already operating on domestic soil. Governments that long resisted industrial policy have adopted it. The United States, long a champion of free markets and skeptic of state intervention, committed over $500 billion through the CHIPS and Science Act ($52 billion), Inflation Reduction Act ($369 billion initial estimate for energy and climate provisions; subsequent CBO analyses project significantly higher costs due to greater-than-anticipated uptake), and Infrastructure Investment and Jobs Act ($65 billion for broadband, $39 billion for transit, $7.5 billion for EV charging) (Congressional Budget Office 2022; 2023) to remake semiconductor production and clean energy supply chains. China continues to pursue long-horizon technology policy through Made in China 2025 successor efforts and large semiconductor state funds. Governments have shifted decisively from market-led allocation toward state direction of strategic sectors.
+After years of litigation and negotiation—culminating in Congress's Protecting Americans from Foreign Adversary Controlled Applications Act (April 2024), the Supreme Court's decision upholding it in *TikTok v. Garland* (January 2025), and a joint venture that closed in January 2026 under majority American ownership—the TikTok case moved from threatened ban to forced restructuring. The standoff illustrates a broader transformation. Investment screening has shifted from routine national-security review to an active instrument of economic competition, targeting specific countries, entire sectors, and companies already operating on domestic soil. Governments that long resisted industrial policy have adopted it. The United States, long a champion of free markets and skeptic of state intervention, committed over $500 billion through the CHIPS and Science Act ($52 billion), Inflation Reduction Act ($369 billion initial estimate for energy and climate provisions; subsequent CBO analyses project significantly higher costs due to greater-than-anticipated uptake), and Infrastructure Investment and Jobs Act ($65 billion for broadband, $39 billion for transit, $7.5 billion for EV charging) (Congressional Budget Office 2022; 2023) to remake semiconductor production and clean energy supply chains. China continues to pursue long-horizon technology policy through Made in China 2025 successor efforts and large semiconductor state funds. Governments have shifted decisively from market-led allocation toward state direction of strategic sectors.
 
 Investment controls and industrial policy now rank alongside tariffs and sanctions as primary instruments of economic coercion. Governments use them to shape capital flows, set ownership structures, and rebuild industrial capabilities they previously offshored. Three developments organize this chapter.
 
-The first is the evolution of investment screening from passive national-security review to an active economic-coercion tool, directed particularly at Chinese investments in technology and critical infrastructure. Traditional CFIUS review focused on narrow security concerns: preventing foreign control of defense contractors, protecting classified information, and safeguarding critical infrastructure from sabotage. Applications were relatively rare, reviews largely procedural, and approvals common with modest mitigation measures. The 2018 Foreign Investment Risk Review Modernization Act (FIRRMA) substantially expanded CFIUS's reach. It extended jurisdiction to non-controlling investments and early-stage ventures previously outside CFIUS reach, mandated declarations for investments in "TID" sectors (Technology, Infrastructure, Data), and explicitly targeted critical emerging technologies (AI, quantum computing, biotechnology, hypersonics). Post-FIRRMA, Chinese investment in U.S. technology fell from a 2016 peak of $45.6 billion to just $2.5 billion in 2024, a 95% decline (Rhodium Group 2024). This reflected policy intent rather than market forces: investment screening became a mechanism for economic decoupling, preventing Chinese capital from accessing American innovation ecosystems.
+The first is the evolution of investment screening from passive national-security review to an active economic-coercion tool, directed particularly at Chinese investments in technology and critical infrastructure. Traditional CFIUS review focused on narrow security concerns: preventing foreign control of defense contractors, protecting classified information, and safeguarding critical infrastructure from sabotage. Applications were relatively rare, reviews largely procedural, and approvals common with modest mitigation measures. The 2018 Foreign Investment Risk Review Modernization Act (FIRRMA) substantially expanded CFIUS's reach. It extended jurisdiction to non-controlling investments and early-stage ventures previously outside CFIUS reach, mandated declarations for investments in "TID" sectors (Technology, Infrastructure, Data), and explicitly targeted critical emerging technologies (AI, quantum computing, biotechnology, hypersonics). Post-FIRRMA, Chinese direct investment in the United States fell from a 2016 peak of $45.6 billion to just $2.5 billion in 2024, a 95% decline (Rhodium Group 2024). This reflected policy intent rather than market forces: investment screening became a mechanism for economic decoupling, preventing Chinese capital from accessing American innovation ecosystems.
 
-The second is the return of state-directed capitalism through industrial policy competition, with both the United States and China deploying large subsidies and mandates to reshape critical supply chains. For decades, Western economic policy emphasized market efficiency, comparative advantage, and free trade, treating industrial policy as distortionary, inefficient, and characteristic of failing developmental states. Western policymakers were skeptical that governments could select industries effectively. China's targeted investments in strategic sectors (high-speed rail, renewable energy, telecommunications, semiconductors) nonetheless enabled Chinese firms to achieve global leadership, often displacing Western competitors. The CHIPS and Science Act, committing $52 billion to semiconductor manufacturing and R&D, explicitly aims to reverse market-driven offshoring (Rasser et al. 2022) and rebuild domestic production despite higher costs. The Inflation Reduction Act's initially estimated $369 billion for clean energy (with actual costs likely substantially higher) similarly seeks to counter China's dominance in solar panels (80% global production), wind turbines (60%), and EV batteries (75%). The scale is large, and the objective extends beyond supporting nascent industries to reshoring established supply chains through subsidies that make otherwise uneconomic production viable. Whether such policies build sustainable capabilities or create dependency on continued government support remains unproven, though the commitment is clear.
+The second is the return of state-directed capitalism through industrial policy competition, with both the United States and China deploying large subsidies and mandates to reshape critical supply chains. For decades, Western economic policy emphasized market efficiency, comparative advantage, and free trade, treating industrial policy as distortionary, inefficient, and characteristic of failing developmental states. Western policymakers were skeptical that governments could select industries effectively. China's targeted investments in strategic sectors (high-speed rail, renewable energy, telecommunications, semiconductors) nonetheless enabled Chinese firms to achieve global leadership, often displacing Western competitors. The CHIPS and Science Act, committing $52 billion to semiconductor manufacturing and R&D, explicitly aims to reverse market-driven offshoring (Rasser et al. 2022) and rebuild domestic production despite higher costs. The Inflation Reduction Act's initially estimated $369 billion for clean energy (with actual costs likely substantially higher) was designed to counter China's dominance in solar panels (roughly 85% of global module assembly), wind turbines (about 60%), and EV batteries (around 80% of cell production). The scale is large, and the objective extends beyond supporting nascent industries to reshoring established supply chains through subsidies that make otherwise uneconomic production viable. Whether such policies build sustainable capabilities or create dependency on continued government support remains unproven, though the commitment is clear.
 
-The third is informal economic coercion, state actions outside formal legal frameworks to impose costs on target economies, which shows that economic power operates beyond institutionalized sanctions and tariffs. China's 2020-2021 economic pressure on Australia illustrates these dynamics. Following Australia's call for an independent investigation into COVID-19 origins, China imposed de facto restrictions on Australian exports including wine (tariffs of 200%+), barley (80% tariffs), coal (unofficial import bans), lobster, timber, and beef, affecting over $20 billion in trade. These restrictions operated through administrative measures, customs delays, and "quality concerns" rather than explicit government policies, providing plausible deniability while inflicting substantial economic pain. Australian wine exporters, deriving 95% of revenue from China, faced an existential crisis. Australia nonetheless maintained its policy positions, sought alternative markets, and deepened security alignment with the United States. The case demonstrates both the power of informal coercion, which imposes costs without triggering WTO dispute mechanisms or formal retaliation frameworks, and its limitations: targets may absorb pain rather than concede, and market diversification reduces future leverage.
+The third is informal economic coercion, state actions outside formal legal frameworks to impose costs on target economies, which shows that economic power operates beyond institutionalized sanctions and tariffs. China's 2020-2021 economic pressure on Australia illustrates these dynamics. Following Australia's call for an independent investigation into COVID-19 origins, China imposed de facto restrictions on Australian exports including wine (tariffs of 200%+), barley (80% tariffs), coal (unofficial import bans), lobster, timber, and beef, affecting over $20 billion in trade. These restrictions operated through administrative measures, customs delays, and "quality concerns" rather than explicit government policies, providing plausible deniability while inflicting substantial economic pain. Australian wine exporters, who sent close to 40% of their exports to China, faced an existential crisis. Australia nonetheless maintained its policy positions, sought alternative markets, and deepened security alignment with the United States. The case demonstrates both the power of informal coercion, which imposes costs without triggering WTO dispute mechanisms or formal retaliation frameworks, and its limitations: targets may absorb pain rather than concede, and market diversification reduces future leverage.
 
 Government Tools Boxes detail CFIUS procedures, FIRRMA expansion, and industrial policy authorities (CHIPS Act, Defense Production Act Title III). Case studies examine the BIOSECURE Act's targeting of Chinese biotech firms and China's informal economic coercion against Australia (2020-2021). A Chinese Perspective Box explores Beijing's views on investment screening as discriminatory protectionism and industrial policy as legitimate development strategy.
 
@@ -43,7 +53,7 @@ Through 2015, CFIUS operated with relatively limited scope and activity:
 
 - **Narrow security focus**: Reviews concentrated on traditional national security: defense contractors, classified programs, critical infrastructure vulnerable to sabotage (ports, telecommunications). Economic competitiveness, technology leadership, and data privacy were largely outside CFIUS purview.
 
-- **Rare rejections**: From 2008-2015, CFIUS reviewed 770 transactions, investigated 111 (14%), and only 5 were withdrawn or prohibited, a 99%+ approval rate (U.S. Department of the Treasury, CFIUS Annual Reports to Congress). Most cases received approval with mitigation measures: requiring corporate governance changes, limiting foreign personnel access to sensitive facilities, or implementing cybersecurity protocols.
+- **Rare rejections**: From 2008 to 2015, CFIUS reviewed roughly 900 covered transactions, and the share proceeding to a full 45-day investigation climbed from about 14% in 2008 to roughly 35-50% in later years. Yet outright presidential prohibition remained rare—Obama's 2012 order that Ralls Corporation divest an Oregon wind farm was the era's signal case—and most transactions cleared, often subject to mitigation (U.S. Department of the Treasury, CFIUS Annual Reports to Congress). Typical mitigation required corporate governance changes, limited foreign personnel access to sensitive facilities, or cybersecurity protocols.
 
 - **Limited Chinese scrutiny**: Chinese investments grew dramatically from $1 billion annually (pre-2008) to $45.6 billion peak (2016), largely approved (Rhodium Group 2024). High-profile acquisitions included Lenovo's purchase of IBM's PC business (2005), Chinese investments in U.S. real estate and entertainment (AMC Theatres, Legendary Entertainment), and technology sector venture capital.
 
@@ -73,7 +83,7 @@ Traditional CFIUS jurisdiction covered only transactions resulting in foreign "c
 
 {% hint style="warning" %}
 **TID Sectors: The New Red Lines**
-FIRRMA's "TID" framework—Technology, Infrastructure, Data—defines the new red lines for foreign investment. **Technology** includes AI, quantum computing, semiconductors, biotechnology, and other emerging fields. **Infrastructure** covers energy, telecommunications, transportation, and other critical systems. **Data** encompasses any business collecting sensitive personal information on Americans. Even a 5% investment in a TID-sector startup now triggers CFIUS jurisdiction—a dramatic expansion from traditional "control" requirements.
+FIRRMA's "TID" framework—Technology, Infrastructure, Data—defines the new red lines for foreign investment. **Technology** includes AI, quantum computing, semiconductors, biotechnology, and other emerging fields. **Infrastructure** covers energy, telecommunications, transportation, and other critical systems. **Data** encompasses any business collecting sensitive personal information on Americans. A non-controlling minority investment in a TID-sector startup can now trigger CFIUS jurisdiction—but only when it affords the foreign investor access to material nonpublic technical information, a board seat or observer rights, or a role in substantive decisionmaking. A purely passive stake, however large, does not. Even so, this "covered investment" test is a dramatic expansion from the traditional "control" requirement.
 {% endhint %}
 
 - **Critical technology definition**: Investments involving businesses that produce, design, test, manufacture, fabricate, or develop critical technologies face CFIUS review. Critical technologies include:
@@ -149,7 +159,7 @@ The near-total collapse of Chinese foreign direct investment in the United State
 
 **Technology sector**: Chinese VC investment in U.S. technology startups fell from $3.2 billion (2017) to less than $200 million (2024) (Rhodium Group 2024). Prominent Chinese VCs (Sequoia China, Hillhouse Capital) largely exited U.S. deals.
 
-**Real estate**: Chinese purchases of U.S. commercial and residential real estate declined from $46.2 billion peak (2016) to approximately $3 billion (2024), driven partly by CFIUS concerns about properties near sensitive sites but also Chinese capital controls and economic slowdown (Rhodium Group 2024).
+**Real estate**: Chinese purchases of U.S. residential real estate peaked at $31.7 billion in the year ending March 2017 before falling sharply, driven partly by CFIUS concerns about properties near sensitive sites but also by Chinese capital controls and economic slowdown (National Association of Realtors, *International Transactions in U.S. Residential Real Estate*).
 
 **Entertainment and consumer sectors**: High-profile Chinese acquisitions of AMC Theatres, Legendary Entertainment, and other entertainment assets ended. Consumer sector deals (food, retail) also largely ceased.
 
@@ -157,10 +167,11 @@ The near-total collapse of Chinese foreign direct investment in the United State
 
 Treasury's CY2024 report shows high and sustained review activity:
 
-- **Declarations**: 116 declarations assessed in 2024
+- **Total transactions**: 325 transactions assessed or reviewed (116 declarations plus 209 written notices)
+- **Declarations**: 116 declarations assessed in 2024, roughly 78% of which cleared after the 30-day assessment
 - **Notices**: 209 written notices reviewed in 2024
-- **China share**: 26 notices (12%) involved Chinese acquirers, down from 23% of reviewed transactions in 2016
-- **Withdrawals/abandonment**: 49 notices were withdrawn in 2024, including 15 transactions abandoned after withdrawal
+- **China share**: China filed the most notices of any single country (26, about 12% of the total), down from roughly 31% of notices in 2016
+- **Withdrawals**: 49 notices were withdrawn in 2024 (all after an investigation had begun), 42 of which were subsequently refiled (31 in 2024, 11 in 2025)
 
 **Forced Divestments**
 
@@ -200,7 +211,7 @@ Germany and France, as EU's largest economies and leading industrial powers, hav
 - Foreign Trade and Payments Act amendments (2017, 2020, 2023) expanded screening beyond defense to critical infrastructure, media, healthcare, and food supply
 - Lowered thresholds for mandatory review from 25% to 10% ownership for critical sectors
 - Blocked Chinese acquisitions: Aixtron semiconductor equipment (2016), Leifeld Metal Spinning (machine tools, 2018), 50Hertz power grid operator (2018)
-- But approved: Chinese acquisitions in automotive (Volvo/Geely, Daimler stakes), robotics (Kuka), and other sectors, demonstrating selective rather than blanket restrictions
+- But approved: Chinese acquisitions such as Geely's minority stake in Daimler, robotics (Midea's purchase of Kuka), and deals in other sectors, demonstrating selective rather than blanket restrictions
 
 **France**:
 - 2019 PACTE law expanded sectors subject to screening to include AI, robotics, semiconductors, data storage, cybersecurity
@@ -211,7 +222,7 @@ Germany and France, as EU's largest economies and leading industrial powers, hav
 
 The UK's NSI Act, effective January 2022, represents post-Brexit recalibration of investment policy:
 
-- **Mandatory notification**: Acquisitions in 17 defined sensitive sectors (AI, quantum, semiconductors, nuclear, defense, communications) must be notified even for acquisitions as small as 15% ownership or material influence
+- **Mandatory notification**: Acquisitions in 17 defined sensitive sectors (AI, quantum, semiconductors, nuclear, defense, communications) must be notified and cleared before completion once the buyer crosses 25%, 50%, or 75% of shares or voting rights (a lower 15% threshold floated in the original bill was dropped before enactment); acquisitions conferring "material influence" below those levels fall under the separate call-in power rather than mandatory notification
 - **Call-in powers**: Government can review any transaction in any sector if national security concerns exist, with retroactive reach up to 5 years
 - **Volume**: Over 1,800 notifications in first two years, with ~1% subject to detailed review and handful blocked
 - **Chinese focus**: Particularly scrutinizes Chinese investments in technology and infrastructure, though maintains openness to non-sensitive sectors
@@ -265,7 +276,7 @@ Evaluating investment screening's effectiveness as economic coercion instrument 
 
 **1. Target Compliance**
 
-Investment screening achieves high compliance: when CFIUS or allied authorities block or demand divestment, targets generally comply rather than risk presidential prohibition, sanctions, or legal penalties. The TikTok case illustrates both the difficulties and ultimate effectiveness of forced divestiture for already-operating businesses: ByteDance resisted through years of litigation and negotiation, but the January 2026 establishment of the TikTok USDS Joint Venture, with majority American ownership and Oracle-hosted infrastructure, demonstrated that even complex, politically charged divestitures can be resolved when backed by credible legislative force.
+Investment screening achieves high compliance: when CFIUS or allied authorities block or demand divestment, targets generally comply rather than risk presidential prohibition, sanctions, or legal penalties. The TikTok case illustrates both the difficulties and ultimate effectiveness of forced divestiture for already-operating businesses: ByteDance resisted through years of litigation, and Congress ultimately forced the issue with the Protecting Americans from Foreign Adversary Controlled Applications Act (April 2024), which the Supreme Court upheld in *TikTok v. Garland* (January 2025). The joint venture that closed in January 2026—in which Oracle, Silver Lake, and MGX led an investor group holding roughly 80% while ByteDance retained under 20%, and Oracle assumed responsibility for U.S. data security and algorithm retraining—demonstrated that even complex, politically charged divestitures can be resolved when backed by credible legislative force.
 
 Compliance extends to voluntary transaction abandonment: when parties anticipate CFIUS rejection, they typically withdraw filings rather than proceeding to formal rejection. This "shadow" effect means visible statistics undercount actual effectiveness.
 
@@ -343,11 +354,13 @@ By early 2026, several flagship CHIPS projects had moved from announcement to fi
 
 These projects still face significant **challenges**. **Cost overruns** remain common, as U.S. fab construction costs run materially above equivalent facilities in Taiwan or Korea due to labor, regulatory, and materials expenses. **Talent shortages** remain binding in engineering and technician roles. Questions of **subsidy dependency** also persist: without continuing public support, private economics still favor lower-cost offshore production in many segments. Finally, **timeline risk** remains substantial; original schedules for multiple projects slipped, and ramp quality/yield execution has become at least as important as groundbreaking announcements.
 
+In August 2025 the relationship between the state and the semiconductor industry became literal. The Trump administration converted the unpaid balance of Intel's CHIPS award, together with funds earmarked under the Pentagon's Secure Enclave program, into an $8.9 billion purchase of roughly 433 million Intel shares—an approximately 10% equity stake that made the U.S. government Intel's largest shareholder, alongside a five-year warrant for an additional 5% should Intel cede majority control of its foundry business (Intel Corporation 2026). Grants had become equity: "the return of the state" was no longer a metaphor. Supporters framed the stake as taxpayer upside for public money; critics warned that direct government ownership of a competitor distorts the very market the CHIPS Act was meant to rebuild and politicizes Intel's commercial decisions.
+
 **Inflation Reduction Act (August 2022)**
 
-The IRA initially committed an estimated $369 billion to clean energy and climate programs (though CBO subsequently projected substantially higher costs), much of it functioning as industrial policy to counter Chinese dominance in renewable energy supply chains. The legislation offers tax credits for U.S.-manufactured **solar panels, wind turbines, and components**. For **electric vehicles**, it provides a $7,500 tax credit per vehicle, conditioned on North American assembly and battery component sourcing requirements that effectively exclude Chinese content. A $35/kWh production tax credit for battery cells incentivizes domestic **battery manufacturing**. The act also directs loans and grants toward domestic mining and processing of **critical minerals** including lithium, graphite, cobalt, and rare earths, while tax credits for clean **hydrogen** production round out the package.
+As enacted in 2022, the IRA committed an estimated $369 billion to clean energy and climate programs (CBO later projected substantially higher costs), much of it functioning as industrial policy to counter Chinese dominance in renewable energy supply chains. The legislation offered tax credits for U.S.-manufactured **solar panels, wind turbines, and components**; for **electric vehicles**, a $7,500 consumer credit conditioned on North American assembly and battery-sourcing requirements that effectively excluded Chinese content; a $35/kWh production tax credit for battery cells to incentivize domestic **battery manufacturing**; loans and grants for domestic mining and processing of **critical minerals** including lithium, graphite, cobalt, and rare earths; and tax credits for clean **hydrogen** production. Much of this architecture proved short-lived. The One Big Beautiful Bill Act (OBBBA), signed on July 4, 2025, repealed or accelerated the phase-out of most of the IRA's clean-energy credits: the $7,500 new- and used-EV credits terminated on September 30, 2025, and the residential clean-energy credit at the end of 2025 (One Big Beautiful Bill Act 2025). The reversal is a real-time illustration of the sustainability problem examined later in this chapter—industrial policy delivered through tax credits is only as durable as the electoral coalition that enacted it.
 
-The IRA's early **impact** has been substantial. Over $100 billion in clean energy manufacturing investments have been announced since its passage. A battery plant construction boom is underway, with over a dozen facilities announced across the United States by manufacturers including LG, SK, Panasonic, Ford, and GM. In solar manufacturing, First Solar and Hanwha Q Cells are expanding U.S. production capacity. However, Chinese supply chain dominance---80% of global solar panel production and 75% of EV batteries---means that transitioning to domestic production will take years, and Chinese firms may circumvent sourcing restrictions through third-country operations.
+The IRA's early **impact** was substantial while it lasted. More than $100 billion in clean energy manufacturing investments were announced after its passage, a battery-plant construction boom got underway (with over a dozen facilities announced by manufacturers including LG, SK, Panasonic, Ford, and GM), and solar manufacturers such as First Solar and Hanwha Q Cells expanded U.S. capacity. However, Chinese supply-chain dominance---roughly 85% of global solar module assembly and about 80% of EV battery cell production (IEA 2025)---meant that reshoring would take years even under stable policy, and the 2025 credit rollback introduced fresh uncertainty for projects predicated on a decade of federal support. Chinese firms, meanwhile, may circumvent sourcing restrictions through third-country operations.
 
 **Infrastructure Investment and Jobs Act (November 2021)**
 
@@ -381,7 +394,7 @@ The program operates through several reinforcing **mechanisms**. Central and loc
 
 **Big Fund I, II, and III: Semiconductor Focus**
 
-China's National Integrated Circuit Industry Investment Fund (the "Big Fund") exemplifies state-directed capital allocation. **Big Fund I**, established in 2014 with $21 billion in capital, invested in foundries such as SMIC and Hua Hong, memory manufacturers like Yangtze Memory Technologies (YMTC), and packaging firms. **Big Fund II** followed in 2019 with $29 billion, shifting focus toward design tools (EDA software), equipment manufacturing, and materials. **Big Fund III**, launched in 2024 with an estimated $47 billion, targets advanced chips, AI processors, and domestic equipment development (Center for Strategic and International Studies 2023; Bloomberg News 2024).
+China's National Integrated Circuit Industry Investment Fund (the "Big Fund") exemplifies state-directed capital allocation. **Big Fund I**, established in 2014 with $21 billion in capital, invested in foundries such as SMIC and Hua Hong, memory manufacturers like Yangtze Memory Technologies (YMTC), and packaging firms. **Big Fund II** followed in 2019 with $29 billion, shifting focus toward design tools (EDA software), equipment manufacturing, and materials. **Big Fund III**, launched in May 2024 with an estimated $47.5 billion, targets advanced chips, AI processors, and domestic equipment development (Center for Strategic and International Studies 2023; Bloomberg News 2024).
 
 The **results** of these investments have been mixed. The Chinese semiconductor industry has expanded capacity dramatically, but significant technology gaps persist. SMIC achieved a notable milestone by demonstrating 7nm chip production for the Huawei Mate 60 Pro despite equipment restrictions, though yields reportedly remain low at 40-50%. Chinese firms produce mature-node manufacturing tools but lag 10-15 years behind the cutting edge in lithography, etching, and deposition equipment. China's share of global semiconductor production capacity rose from 12% in 2015 to 24% in 2024, but this growth concentrates in mature nodes (28nm and above), with advanced node production (14nm and below) remaining a small share. Questions of efficiency also cloud the picture: massive capital investment yielded progress but at high cost, and multiple Big Fund corruption scandals---with executives arrested for embezzlement---raise serious doubts about allocation efficiency.
 
@@ -396,7 +409,7 @@ The **results** of these investments have been mixed. The Chinese semiconductor 
 
 The U.S. approach is characterized by **selective intervention**: the CHIPS Act and IRA target specific chokepoints such as semiconductors, batteries, and critical minerals rather than attempting comprehensive economic planning. **Private sector leadership** remains central, with the government providing incentives while private firms retain investment and production decisions. The approach maintains a degree of **technology neutrality**, offering tax credits and grants to any firm meeting established criteria rather than picking specific corporate winners. Programs carry **sunset assumptions**, with defined funding and timelines rather than permanent subsidies, though political dynamics make extensions likely. The model also emphasizes **allied coordination**, incorporating friend-shoring and partner cooperation as exemplified by TSMC and Samsung participation in U.S. fabs.
 
-These strengths are offset by notable weaknesses. U.S. **political cycles** operate on short time horizons, while industrial policy requires decades of sustained commitment---a mismatch the American system struggles to reconcile. Even with subsidies, U.S. production often remains more expensive than Asian alternatives, creating persistent **cost competitiveness** challenges. **Fragmented implementation** across multiple agencies, with federal-state coordination difficulties and bureaucratic complexity, hampers execution. And **private sector profit motives** may undermine policy goals: companies may accept subsidies while maintaining primary production offshore if doing so remains more profitable.
+These strengths are offset by notable weaknesses. U.S. **political cycles** operate on short time horizons, while industrial policy requires decades of sustained commitment---a mismatch the American system struggles to reconcile, as the 2025 repeal of the Inflation Reduction Act's clean-energy credits, barely three years after their enactment, vividly demonstrated. Even with subsidies, U.S. production often remains more expensive than Asian alternatives, creating persistent **cost competitiveness** challenges. **Fragmented implementation** across multiple agencies, with federal-state coordination difficulties and bureaucratic complexity, hampers execution. And **private sector profit motives** may undermine policy goals: companies may accept subsidies while maintaining primary production offshore if doing so remains more profitable.
 
 **China Model: Comprehensive State Direction**
 
@@ -424,6 +437,8 @@ Chinese SWFs, the China Investment Corporation (~$1.33 trillion AUM as of 2023),
 
 Western responses center on **reciprocity arguments** (if Chinese SOEs invest freely in Western markets while Chinese markets remain restricted, this creates asymmetric advantage), **investment screening** (CFIUS and allied mechanisms now target SOE investments with mandatory declarations and presumptions of government control), and **reform pressure** through multilateral institutions. China has consolidated and partially privatized some SOEs but retains strategic control over key sectors.
 
+The United States itself moved toward this instrument in 2025. On February 3, 2025, President Trump signed an executive order directing the Secretaries of the Treasury and Commerce to deliver, within 90 days, a plan to establish a U.S. sovereign wealth fund—an idea long associated with resource exporters and with the very Gulf and Asian states whose funds Washington had scrutinized (Executive Order, February 3, 2025). Proponents pitched it as a vehicle to monetize federal assets and pursue strategic investments; skeptics questioned what a chronic fiscal-deficit country would capitalize such a fund with, and noted the irony of the United States embracing a tool it had long treated as a marker of state capitalism. Coming months before the Intel equity stake, the proposal underscored how far the U.S. posture toward direct state ownership had shifted.
+
 ---
 
 ## Informal Economic Coercion - The Australia Case
@@ -443,7 +458,7 @@ On April 19, 2020, Australian Foreign Minister Marise Payne called for an indepe
 **Chinese Official Responses**
 
 Chinese officials and state media delivered warnings:
-- Chinese Ambassador to Australia Jingye Chen warned of consumer boycotts if investigation proceeded
+- Chinese Ambassador to Australia Cheng Jingye warned of consumer boycotts if investigation proceeded
 - Global Times (state media) published articles threatening economic consequences
 - Chinese Foreign Ministry spokesman condemned Australia's "political manipulation"
 
@@ -526,7 +541,7 @@ Australia's response to Chinese coercion offers a model for economic resilience.
 Following Chinese leadership transition dynamics and Australian government change (Labor Party's Anthony Albanese elected May 2022), bilateral relations gradually stabilized:
 
 - **Barley**: Duties removed August 2023 after Australia suspended WTO case
-- **Wine**: Duties under review with indications of removal by 2025
+- **Wine**: Anti-dumping duties removed on 29 March 2024 following an expedited review
 - **Coal**: Informal restrictions eased 2023; exports resumed
 - **Ministerial engagement**: High-level visits resumed after three-year freeze
 
@@ -583,7 +598,7 @@ From Beijing's perspective, Chinese industrial policy represents legitimate catc
 
 **Historical precedent**: Every major economy employed industrial policy during development. The United States protected infant industries through tariffs (1800s), funded railroad construction, supported aerospace and internet development through military contracts (ARPANET, GPS), and currently subsidizes agriculture massively. For Washington to condemn Chinese industrial policy while deploying CHIPS Act and IRA subsidies exemplifies hypocrisy.
 
-**Development imperative**: China remains middle-income country ($13,000 per capita GDP vs. $70,000 U.S.) seeking to escape "middle-income trap" where countries stagnate before reaching high-income status. Industrial policy targeting strategic sectors (semiconductors, aerospace, pharmaceuticals) represents rational development strategy, not unfair competition.
+**Development imperative**: China remains a middle-income country (about $13,000 per capita GDP versus roughly $86,000 in the United States as of 2024) seeking to escape the "middle-income trap" where countries stagnate before reaching high-income status. Industrial policy targeting strategic sectors (semiconductors, aerospace, pharmaceuticals) represents rational development strategy, not unfair competition.
 
 **Technology sovereignty (科技主权, kējì zhǔquán)**: Chinese experience of Western embargoes (CoCom during Cold War, post-Tiananmen sanctions, contemporary semiconductor export controls) demonstrates that relying on foreign technology creates vulnerability. Indigenous innovation through state support ensures China cannot be cut off (卡脖子, qiǎ bózi, literally "stuck at the neck") by foreign technology denial.
 
@@ -649,11 +664,11 @@ Understanding these perspectives doesn't require accepting their validity. Signi
 
 ## Government Tools Box 1: CFIUS Procedures and FIRRMA Expansion
 
-The **Committee on Foreign Investment in the United States (CFIUS)**, chaired by Treasury with nine Cabinet-level voting members, reviews foreign transactions for national security risks under Section 721 of the Defense Production Act. FIRRMA (2018) substantially expanded jurisdiction beyond traditional control transactions to cover non-controlling investments in Technology, Infrastructure, or Data (TID) businesses, real estate near sensitive facilities, and changes in foreign investor rights. (For FIRRMA's substantive provisions, see Chapter 5, Government Tools Box 2.)
+The **Committee on Foreign Investment in the United States (CFIUS)**, chaired by Treasury with nine Cabinet-level voting members, reviews foreign transactions for national security risks under Section 721 of the Defense Production Act. FIRRMA (2018) substantially expanded jurisdiction beyond traditional control transactions to cover non-controlling investments in Technology, Infrastructure, or Data (TID) businesses, real estate near sensitive facilities, and changes in foreign investor rights. (For FIRRMA's substantive provisions, see the "FIRRMA 2018: Expanding the Net" section earlier in this chapter.)
 
 **Review process**: Parties submit voluntary notices or mandatory declarations (required for foreign government interests of 25%+ in TID businesses). Initial review (45 days) leads to clearance, mitigation conditions, or full investigation (45 days), potentially escalating to presidential decision (15 days). Mitigation measures include board governance restrictions, data firewalls, and compliance monitoring. CFIUS retains 5-year look-back authority for non-notified transactions.
 
-**Statistics (CY2024)**: 195 declarations and 335 written notices; approximately 78% of declarations cleared in first stage; 85 withdrawn notices (including 7 abandoned transactions); China-linked notices declined from approximately 31% of reviews (2016) to an estimated 12% (CY2024). **Challenges**: Classified decisions limit transparency; resource constraints despite increased staffing; undefined scope of "national security" creates unpredictability; and extraterritorial reach (blocking foreign-to-foreign deals with U.S. nexus) strains allied relationships.
+**Statistics (CY2024)**: 116 declarations and 209 written notices (325 transactions in total); approximately 78% of declarations cleared after the 30-day assessment; 49 notices were withdrawn (all after an investigation had begun), 42 of them later refiled; China filed the most notices of any single country (26, about 12% of the total), down from roughly 31% of notices in 2016. **Challenges**: Classified decisions limit transparency; resource constraints despite increased staffing; undefined scope of "national security" creates unpredictability; and extraterritorial reach (blocking foreign-to-foreign deals with U.S. nexus) strains allied relationships.
 
 ---
 
@@ -665,7 +680,7 @@ The U.S. industrial policy toolkit for strategic competition combines several au
 
 **Defense Production Act Title III**: Expands productive capacity through purchase commitments, loans, and production support for national defense materials. Recent applications include critical minerals (rare earths, lithium, graphite), pharmaceutical APIs, and defense industrial base components.
 
-**Inflation Reduction Act**: Clean energy manufacturing incentives include battery production credits ($35/kWh for cells), solar/wind domestic content bonuses, and EV consumer credits ($7,500, conditioned on North American assembly and battery sourcing requirements). These provisions embed supply chain security into climate policy by requiring critical mineral sourcing from North America or free-trade agreement partners.
+**Inflation Reduction Act** (2022): Clean-energy manufacturing incentives included battery production credits ($35/kWh for cells), solar/wind domestic-content bonuses, and a $7,500 EV consumer credit conditioned on North American assembly and battery-sourcing requirements. These provisions embedded supply-chain security into climate policy by requiring critical-mineral sourcing from North America or free-trade-agreement partners. The One Big Beautiful Bill Act (July 2025) subsequently repealed or accelerated the phase-out of most of these credits, terminating the $7,500 EV credit on September 30, 2025.
 
 **Buy America provisions** across multiple statutes require domestically manufactured goods for federal procurement, though domestic unavailability waivers remain common. Allied coordination mechanisms include the U.S.-EU Trade and Technology Council (aligning subsidies and China policies) and the Indo-Pacific Economic Framework (supply chain resilience).
 
@@ -699,13 +714,13 @@ U.S. intelligence and security officials identified multiple risks:
 
 **House version introduced**: January 2024
 **Senate version**: March 2024
-**Enacted**: December 18, 2025, signed into law as Section 851 of the FY2026 National Defense Authorization Act (NDAA), after passing the House 306-81 (September 2024) and surviving extensive Senate negotiation over the final text.
+**Enacted**: December 18, 2025, signed into law as Section 851 of the FY2026 National Defense Authorization Act (NDAA), Public Law 119-60, after passing the House 306-81 (September 2024) and surviving extensive Senate negotiation over the final text.
 
 **Key provisions**:
 
 **Prohibition on federal contracts**: Federal agencies prohibited from contracting with or procuring from "biotechnology companies of concern" (BCCs) and their subsidiaries. Agencies may not expend loan or grant funds for biotechnology equipment or services provided by a BCC.
 
-**Designation mechanism**: The enacted law does not name specific companies. Instead, it treats any company on the Department of Defense's Section 1260H list of "Chinese military companies" as a BCC, while creating an administrative process through which additional companies can be designated. WuXi AppTec and WuXi Biologics are not currently on the 1260H list and therefore are not subject to the law's restrictions as of early 2026, a significant narrowing from the original House bill, which named them explicitly.
+**Designation mechanism**: The enacted law does not name specific companies. Instead, it treats any company on the Department of Defense's Section 1260H list of "Chinese military companies" as a BCC, while creating an administrative process through which additional companies can be designated—a significant narrowing from the original House bill, which named specific firms. As of mid-2026 the 1260H list included BGI Group, MGI, and Complete Genomics, and—following a June 8, 2026 update—WuXi AppTec, all of which are therefore treated as BCCs subject to the law's restrictions and its statutory phase-in. WuXi Biologics, a separate company, was not on the list and remains outside the law's automatic scope, though it could be designated through the administrative process.
 
 **Covered activities**:
 - Drug development contracts
@@ -731,7 +746,7 @@ U.S. intelligence and security officials identified multiple risks:
 **Genomics sector**:
 - BGI/MGI sequencing equipment widely used in U.S. hospitals, research institutions, and companies
 - Illumina (U.S. genomics leader) stands to benefit but faces capacity constraints for rapid expansion
-- European (Oxford Nanopore) and Japanese (PacBio) genomics firms gain market opportunities
+- Other Western genomics firms---the UK's Oxford Nanopore and U.S.-based Pacific Biosciences (PacBio)---gain market opportunities
 
 **Chinese countermeasures**:
 - Chinese government condemned BIOSECURE as protectionism violating WTO principles
@@ -741,7 +756,7 @@ U.S. intelligence and security officials identified multiple risks:
 
 **Effectiveness Assessment**
 
-**1. Compliance**: High. Federal agencies must comply; private firms relying on federal contracts (NIH grants, DoD biodefense projects, Medicare reimbursements for diagnostics) will transition. However, the narrower designation mechanism (1260H list rather than named companies) means the initial scope of compliance obligations is more limited than anticipated during the legislative debate.
+**1. Compliance**: High. Federal agencies must comply; private firms relying on federal contracts (NIH grants, DoD biodefense projects, Medicare reimbursements for diagnostics) will transition. The narrower designation mechanism (1260H list rather than named companies) initially made the scope of compliance obligations more limited than anticipated during the legislative debate, though the June 2026 addition of WuXi AppTec to the 1260H list significantly widened that scope.
 
 **2. Capability Degradation**:
 - **Chinese access to U.S. genetic data reduced**: BGI and others lose U.S. samples
@@ -749,10 +764,12 @@ U.S. intelligence and security officials identified multiple risks:
 - **But limitations**: Private sector not prohibited from using Chinese services unless seeking federal funding; Chinese firms serve European, Asian markets
 
 **3. Economic Cost**:
-- **U.S. costs**: $5-15 billion over decade (higher development costs, delays, lost efficiencies)
-- **Chinese costs**: $40-60 billion in lost revenue for WuXi, BGI over 10 years; reputational damage limiting global business
+- **U.S. costs**: an estimated $5-15 billion over a decade (higher development costs, delays, lost efficiencies)
+- **Chinese costs**: an estimated $40-60 billion in lost revenue for WuXi and BGI over ten years, plus reputational damage limiting global business
 
-**4. Sustainability**: High political support (bipartisan enactment via NDAA), aligns with broader China competition strategy. Industry lobbying succeeded in narrowing the designation mechanism from named companies to the 1260H list process, but the framework is now law and can be expanded through administrative action.
+*(These dollar figures are the author's illustrative estimates rather than published projections; treat them as orders of magnitude.)*
+
+**4. Sustainability**: High political support (bipartisan enactment via NDAA), aligns with broader China competition strategy. Industry lobbying succeeded in narrowing the designation mechanism from named companies to the 1260H list process, but the framework is now law and can be expanded through administrative action—as the June 2026 listing of WuXi AppTec demonstrated.
 
 **5. Collateral Damage**: Moderate. U.S. biotech firms face costs and delays; patients may experience delayed access to new therapies; European and other allies not coordinating similar restrictions may gain competitive advantages if their firms continue using Chinese services.
 
@@ -767,7 +784,7 @@ The legislation demonstrates U.S. willingness to accept economic costs (delayed 
 
 ---
 
-## Case Study 2: Australian Economic Coercion (2020-2022)
+## Case Study 2: Australian Economic Coercion (2020-2024)
 
 China's campaign of economic pressure against Australia following Canberra's April 2020 call for an independent COVID-19 origins investigation represents one of the most comprehensive modern cases of informal economic coercion. The episode is analyzed in detail in Sections 4.4 and 4.5 above, which cover the full spectrum of Chinese restrictions (barley, wine, beef, coal, lobster, and other sectors), Australian economic impacts and policy responses, the gradual easing of restrictions in 2023-2024, and broader lessons about informal coercion mechanisms and middle power resilience.
 
@@ -849,13 +866,13 @@ The case is particularly instructive for this chapter's themes because it illust
 
 ## Key Insights
 
-- **Investment screening has evolved from passive bureaucratic review to active economic coercion:** Traditional CFIUS review focused on narrow security concerns with a 99%+ approval rate. FIRRMA's 2018 expansion transformed the process into a mechanism for strategic decoupling, and Chinese investment in U.S. technology plummeted 95% from a 2016 peak of $45.6 billion to about $2.5 billion by 2024 -- a decline driven by policy intent, not market forces.
+- **Investment screening has evolved from passive bureaucratic review to active economic coercion:** Traditional CFIUS review focused on narrow security concerns with a 99%+ approval rate. FIRRMA's 2018 expansion transformed the process into a mechanism for strategic decoupling, and Chinese direct investment in the United States plummeted 95% from a 2016 peak of $45.6 billion to about $2.5 billion by 2024 -- a decline driven by policy intent, not market forces.
 
 - **The return of industrial policy represents a paradigm shift in Western economic governance:** The United States, long a champion of free markets and skeptic of state intervention, committed over $500 billion through the CHIPS Act, Inflation Reduction Act, and infrastructure legislation to reshape critical supply chains. Western skepticism that governments could select industries effectively gave way after China's targeted-sector investments produced clear successes, particularly in renewable energy, batteries, and telecommunications.
 
 - **Informal economic coercion operates outside legal frameworks but can be devastatingly effective:** China's 2020-2021 trade restrictions on Australia -- imposed through administrative measures, customs delays, and "quality concerns" rather than explicit government policies -- affected over $20 billion in trade while providing plausible deniability and avoiding WTO dispute mechanisms. This form of coercion is increasingly common and difficult to counter through established institutional channels.
 
-- **FIRRMA's expansion to non-controlling investments and TID sectors substantially changed the calculus for technology startups:** Even a 5% investment in an AI, quantum computing, or biotechnology startup now triggers CFIUS jurisdiction. This has chilled both Chinese investment and legitimate venture capital flows, potentially reducing innovation funding in the sectors the United States aims to lead.
+- **FIRRMA's expansion to non-controlling investments and TID sectors substantially changed the calculus for technology startups:** A non-controlling investment in an AI, quantum computing, or biotechnology startup can now trigger CFIUS jurisdiction whenever it gives the foreign investor access to sensitive technical information, board rights, or a role in decisionmaking—even without a controlling stake. This has chilled both Chinese investment and legitimate venture capital flows, potentially reducing innovation funding in the sectors the United States aims to lead.
 
 - **Industrial policy effectiveness remains unproven at the scale now being attempted:** Whether the CHIPS Act's $52 billion or the IRA's initially estimated $369 billion will build sustainable domestic capabilities or create permanent subsidy dependence is an open question. Historical examples of successful industrial policy (Taiwan's semiconductor strategy, South Korea's chaebol system) involved decades of sustained investment in economies far smaller and more centrally directed than the United States.
 
@@ -895,7 +912,7 @@ The case is particularly instructive for this chapter's themes because it illust
 
 6. The White House, "Fact Sheet: President Donald J. Trump Secures Historic $100 Billion U.S. Investment from TSMC" (March 3, 2025).
 
-7. BIOSECURE Act, Section 851 of the National Defense Authorization Act for Fiscal Year 2026 (December 18, 2025); originally H.R. 8333, 118th Congress (2024).
+7. BIOSECURE Act, Section 851 of the National Defense Authorization Act for Fiscal Year 2026, Public Law 119-60 (December 18, 2025); originally H.R. 8333, 118th Congress (2024).
 
 8. Australian Bureau of Statistics, "International Trade in Goods and Services," various releases 2020-2024.
 
@@ -914,6 +931,20 @@ The case is particularly instructive for this chapter's themes because it illust
 15. Bloomberg News. "China Creates $47.5 Billion Chip Fund, Biggest to Date." Bloomberg, May 27, 2024.
 
 16. Congressional Budget Office. Cost estimates and budgetary analyses of the CHIPS and Science Act, Inflation Reduction Act, and Infrastructure Investment and Jobs Act. 2022–2023.
+
+17. Protecting Americans from Foreign Adversary Controlled Applications Act, Division H of the 21st Century Peace through Strength Act, Public Law 118-50 (April 24, 2024); *TikTok Inc. v. Garland*, 604 U.S. ___ (2025) (per curiam).
+
+18. National Association of Realtors. *International Transactions in U.S. Residential Real Estate*, annual reports. The $31.7 billion Chinese purchase peak is reported for the year ending March 2017.
+
+19. One Big Beautiful Bill Act of 2025, Public Law 119-21 (July 4, 2025).
+
+20. The White House. "A Plan for Establishing a United States Sovereign Wealth Fund." Executive Order, February 3, 2025.
+
+21. Intel Corporation. Form 10-K for Fiscal Year 2025 (U.S. Securities and Exchange Commission), describing the U.S. government's approximately 10% equity investment (August 2025).
+
+22. U.S. Department of Defense. "Section 1260H List of Chinese Military Companies," updated June 8, 2026 (adding WuXi AppTec Co., Ltd.).
+
+23. International Energy Agency. *Solar PV Global Supply Chains* (2022) and *Global EV Outlook 2025*.
 
 ---
 

@@ -1,14 +1,25 @@
 # Future Scenarios and Policy Implications
 
+## Learning Objectives
+
+After working through this chapter, readers should be able to:
+
+- **Apply the substitution and coalitional margins** developed in Chapters 1 and 9 to plausible 2035-2050 futures, explaining why some dependencies erode under pressure while others harden.
+- **Distinguish the several dimensions of de-dollarization**—reserve composition, payment-system share, and foreign-exchange turnover—and evaluate the counterargument that dollar-backed stablecoins extend, rather than erode, dollar reach.
+- **Assess how emerging technologies** (AI, quantum computing, biotechnology, space) reshape the chokepoints available for economic coercion, and why software- and talent-centric domains resist controls designed for physical goods.
+- **Trace the relocation of strategic dependence** from hydrocarbons to critical-mineral processing, and identify the coercive leverage that climate, water, and food systems create.
+- **Use scenario analysis** to separate robust strategies (effective across futures) from contingent ones, and to identify the monitoring indicators that signal which future is arriving.
+- **Evaluate the seven policy recommendations** carried forward into the Conclusion against the two-margins framework and the use-it-and-lose-it paradox.
+
 ## Executive Summary
 
-The instruments examined in the previous chapters are now beginning to reshape the system that produced them, and the clearest early signs are in money. In March 2023, China and Brazil agreed to settle trade in yuan and reais, bypassing the U.S. dollar for transactions worth tens of billions annually, and within months similar arrangements followed: Russia and China expanded yuan-ruble trade to work around sanctions, Saudi Arabia signaled willingness to accept yuan for oil sales, and ASEAN members established local-currency settlement mechanisms. Individually, each was a modest shift, confined to particular partners and commodities. Collectively they signaled accelerating de-dollarization, a gradual erosion of the dollar's monopoly as global reserve currency and medium of exchange (Farrell and Newman 2019), and they raised an uncomfortable question for American policymakers: whether weaponizing dollar dominance through sanctions will, over time, erode the very source of that power. Each use of dollar-based financial leverage gives other states a stronger incentive to build alternatives.
+The instruments examined in the previous chapters are now beginning to reshape the system that produced them, and the clearest recent demonstration came not in money but in minerals. On October 9, 2025, China's Ministry of Commerce announced a sweeping expansion of its rare-earth export controls, extending them for the first time to foreign-made goods containing as little as 0.1% Chinese-origin material—a near-mirror image of the extraterritorial Foreign Direct Product Rule the United States had turned against Chinese chipmakers three years earlier (Chapter 6). Washington answered with the threat of an additional 100% tariff; within weeks the two governments reached an uneasy truce in which each side shelved its newest weapon. The episode was less a resolution than a demonstration: each power had shown it could reach deep into the other's supply chains, and each had discovered that doing so invited symmetrical retaliation. The same dynamic is playing out, more slowly, in money. Bilateral local-currency settlement, expanded yuan-ruble trade to work around sanctions, and central-bank reserve diversification have accumulated into what observers call accelerating de-dollarization—a gradual erosion of the dollar's monopoly as global reserve currency and medium of exchange (Farrell and Newman 2019)—and they raise an uncomfortable question for American policymakers: whether weaponizing dollar dominance through sanctions will, over time, erode the very source of that power. Each use of dollar-based financial leverage gives other states a stronger incentive to build alternatives—even as, in a countervailing twist examined below, the 2025 turn to dollar-backed stablecoins may extend that dominance onto new digital rails.
 
 This is the recurring paradox of economic statecraft: each instrument, once used, accelerates adversaries' efforts to neutralize it. Financial sanctions excluding Russia from SWIFT and freezing $300+ billion in reserves demonstrated American power, and accelerated Chinese, Russian, Indian, and Brazilian efforts to build alternative financial infrastructure. Export controls degrading adversary capabilities spur indigenous innovation. Investment screening blocks technology access but fragments the global markets that enriched Western economies. The tools of strategic competition tend to weaken the integrated system that made the West powerful enough to wield them.
 
 Projecting forward to 2035–2050, several trends stand out.
 
-The first is increasing economic fragmentation, partial decoupling between rival blocs, parallel technological ecosystems, and competing financial architectures, rather than complete autarky or renewed integration. Full decoupling is economically prohibitive. Even hostile powers maintain trade in non-strategic sectors (U.S.-China goods trade was $414.7 billion in calendar year 2025, with $106.3 billion in U.S. exports and $308.4 billion in U.S. imports, according to BEA's February 5, 2026 release), and global supply chains resist comprehensive restructuring. But selective decoupling accelerates. Semiconductors, AI, biotechnology, and critical minerals face strategic controls; financial systems develop redundancies; standards and protocols diverge. The resulting "partially fragmented globalization" combines sectoral decoupling in strategic domains with continued integration in commodity trade and consumer goods, forcing firms and policymakers to manage operations across bifurcated markets.
+The first is increasing economic fragmentation, partial decoupling between rival blocs, parallel technological ecosystems, and competing financial architectures, rather than complete autarky or renewed integration. Full decoupling is economically prohibitive. Even hostile powers maintain trade in non-strategic sectors (U.S.-China goods trade was $414.7 billion in calendar year 2025, with $106.3 billion in U.S. exports and $308.4 billion in U.S. imports, according to the Census/BEA February 5, 2026 release), and global supply chains resist comprehensive restructuring. That 2025 total—down sharply from the $690 billion record of 2022—is not a natural cooling but the imprint of a specific confrontation: the reciprocal-tariff escalation that briefly pushed effective duties into triple digits before the Geneva and Busan truces, and China's rare-earth export-licensing regime, which for the first time asserted extraterritorial control over foreign goods embedding Chinese minerals (Chapter 6). The figures already record, in aggregate, the machinery this chapter projects forward. But selective decoupling accelerates. Semiconductors, AI, biotechnology, and critical minerals face strategic controls; financial systems develop redundancies; standards and protocols diverge. The resulting "partially fragmented globalization" combines sectoral decoupling in strategic domains with continued integration in commodity trade and consumer goods, forcing firms and policymakers to manage operations across bifurcated markets.
 
 The second is that emerging technologies, artificial intelligence, quantum computing, biotechnology, clean energy, and space systems, will become central arenas for strategic competition, with economic coercion tools adapted to control technology diffusion. Unlike semiconductors, where chokepoints concentrate in specific equipment and materials, AI development distributes across talent, algorithms, data, and computing infrastructure. Quantum computing remains early-stage, with uncertain timelines for practical applications but potentially far-reaching implications for cryptography, optimization, and sensing. Biotechnology advances (CRISPR gene editing, synthetic biology, personalized medicine) create dual-use capabilities with economic and security dimensions. Each technology requires tailored coercion strategies: talent restrictions for AI, specialized equipment controls for quantum, data sovereignty for biotech. Yet technology's rapid evolution, diffusion speed, and software-centricity resist traditional export controls designed for physical goods.
 
@@ -31,7 +42,7 @@ The U.S. dollar's role as global reserve currency and dominant medium of exchang
 
 **Current Dollar Dominance**
 
-As of 2025Q3 and December 2025, the dollar's dominance spans every dimension of international finance. It comprises 56.92% of allocated global foreign exchange reserves (down from 71% in 2000, IMF COFER Data Brief published December 19, 2025), and SWIFT payment data (published January 2026 for December 2025 flows) shows USD at 50.49% of global payment value and 58.62% when euro-area internal payments are excluded. The dollar's role in foreign exchange markets remains even more pronounced, representing roughly 90% of FX transactions globally, and over 60% of international bonds and loans remain dollar-denominated (BIS 2022; Prasad 2023).
+As of 2025Q3 and December 2025, the dollar's dominance spans every dimension of international finance. It comprises about 57% of allocated global foreign exchange reserves (down from 71% in 2000, IMF COFER Data Brief published December 19, 2025), and SWIFT payment data (published January 2026 for December 2025 flows) shows USD at roughly half of global payment value, rising to about 59% when euro-area internal payments are excluded. The dollar's role in foreign exchange markets remains even more pronounced: it sits on one side of roughly 88% of all foreign-exchange turnover (BIS 2022 Triennial Survey). Because every currency trade involves two currencies, individual shares sum to 200%, so this figure reflects the dollar's ubiquity as the market's vehicle currency rather than an 88% "market share." Over 60% of international bonds and loans remain dollar-denominated (BIS 2022; Prasad 2023).
 
 This dominance provides U.S. with:
 - **Seigniorage**: Profit from printing currency used globally
@@ -45,7 +56,7 @@ Dollar privilege faces erosion pressures:
 **1. Sanctions overuse risks credibility**
 
 Every use of financial sanctions demonstrates dollar vulnerability, incentivizing adversaries and even neutral parties to reduce dollar exposure:
-- Russia (post-2014 and especially post-2022) accelerated de-dollarization, reducing dollar reserves from 40% (2018) to 10% (2024)
+- Russia (post-2014 and especially post-2022) accelerated de-dollarization, cutting the dollar share of its reserves from roughly 46% in early 2018 to about 22% within that year and into the low teens by 2024 (Bank of Russia, Foreign Exchange and Gold Asset Management reports)—though the February 2022 freeze of roughly $300 billion, about half of Russia's reserves, makes deliberate diversification hard to disentangle from forced immobilization
 - China diversified reserves, though dollar still represents estimated 60% (exact composition undisclosed)
 - Even allies (France, Germany) expressed concerns about dollar weaponization following extraterritorial Iran sanctions
 
@@ -83,7 +94,7 @@ Dollar share declines slowly (1-2% annually) through incremental shifts:
 **Pathway 2: Crisis-Accelerated Fragmentation**
 
 Major crisis (Taiwan conflict, broader U.S.-China confrontation, global financial panic) triggers sudden dollar rejection:
-- China dumps Treasury holdings (~$850 billion as of 2024) or restricts yuan-dollar conversion
+- China dumps Treasury holdings (about $683.5 billion at year-end 2025 on U.S. Treasury TIC data, down from roughly $759 billion a year earlier and from a 2013 peak near $1.3 trillion—China has by late 2025 slipped behind both Japan and the United Kingdom to third among foreign holders) or restricts yuan-dollar conversion
 - Oil exporters accept yuan/euros for crude, ending petrodollar
 - Coordinated shift by BRICS+ away from dollar trade
 
@@ -121,6 +132,10 @@ Baseline expectation combines slow structural decline with crisis-driven jumps. 
 **The 2050 Currency Projection**
 If current trends continue, the global reserve currency landscape in 2050 will look substantially different from today. The dollar is unlikely to collapse, but it will share the stage. A multipolar currency system with the dollar at 35-45% of reserves (down from roughly 57% today) means the U.S. retains significant privilege but cannot unilaterally dictate global financial terms. Sanctions will require genuine multilateral coalitions to be effective. American financial hegemony appears to be receding; the open question is whether it recedes gradually and manageably, or suddenly and chaotically.
 {% endhint %}
+
+### The Stablecoin Counterargument
+
+The de-dollarization narrative has a powerful counter-current that accelerated in 2025, and it runs in the opposite direction. The largest privately issued dollar-substitutes—dollar-backed stablecoins such as USDT and USDC—do not compete with the dollar; they extend it. Each token is a claim on a U.S. dollar or a short-dated Treasury bill, and the July 2025 GENIUS Act (Guiding and Establishing National Innovation for U.S. Stablecoins Act) codified exactly that arrangement into federal law, requiring permitted issuers to hold 100% reserves in cash and short-term Treasuries and to disclose their composition monthly. The effect is to graft dollar demand onto digital rails that reach precisely the users—in emerging markets, in the crypto economy, in cross-border commerce—most often cited as candidates for de-dollarization. A Nigerian trader or an Argentine saver moving into a dollar stablecoin is diversifying away from the naira or the peso, not away from the dollar; the transaction ends in a new marginal buyer of Treasury bills. As Chapter 7 argues, this is dollar dominance migrating to a new substrate rather than retreating from the field: the same weaponizable chokepoints—reserve backing held in U.S. institutions, issuers subject to U.S. jurisdiction and sanctions authority—are reconstituted in programmable form. Whether stablecoins ultimately reinforce dollar primacy or, by demonstrating that money can move outside the correspondent-banking system entirely, seed the very alternatives they were meant to forestall, is one of the genuinely open questions of the coming decade.
 
 ### Implications for Financial Sanctions
 
@@ -214,7 +229,7 @@ By 2040-2050:
 
 **Upstream control provides coercive leverage**:
 
-- **Nile**: Ethiopia's Grand Renaissance Dam gives upstream control over water flows to Egypt/Sudan (90% of Egypt's water from Nile). Ethiopia can reduce flow, threatening Egyptian agriculture and drinking water. Egypt threatened military action; ongoing negotiations.
+- **Nile**: Ethiopia's Grand Ethiopian Renaissance Dam (GERD) gives upstream control over water flows to Egypt and Sudan (roughly 90% of Egypt's water comes from the Nile). Through a decade of construction Cairo warned that filling the reservoir could sharply cut its supply, and repeatedly hinted at military action. In the event, the dam completed its sixth and final reservoir filling in October 2024 and was inaugurated on September 9, 2025 without the catastrophic downstream shortfall Egypt had feared—Ethiopia filled gradually and largely during high-flow years, and no binding tripartite agreement was ever reached. The episode is now a case study in coercive leverage that was brandished but, in the end, not exercised: the capability is permanent, but Ethiopia declined to weaponize it, and the leverage now lies latent in reservoir-management decisions for decades to come.
 
 - **Mekong**: China's upstream dams control flow to Vietnam, Thailand, Laos, Cambodia. Chinese dam operations (water retention, sudden releases) cause downstream flooding, droughts. Potential coercive tool in regional disputes.
 
@@ -222,7 +237,7 @@ By 2040-2050:
 
 {% hint style="danger" %}
 **Upstream Dam Leverage**
-Water has no substitute, so a country controlling upstream flows holds substantial leverage over downstream neighbors. Ethiopia's Grand Renaissance Dam could reduce Egypt's water supply by up to 25% during filling, threatening food production for 100 million people. China's Mekong dams already cause droughts and floods in Vietnam, Thailand, Laos, and Cambodia. Unlike oil, which has alternatives, or semiconductors, which can eventually be produced elsewhere, water leverage is difficult to circumvent, and its consequences can extend to famine.
+Water has no substitute, so a country controlling upstream flows holds substantial leverage over downstream neighbors. Egyptian analysts had modeled worst-case scenarios in which a rapid filling of Ethiopia's Grand Ethiopian Renaissance Dam might temporarily cut Egypt's water supply by as much as a quarter, threatening food production for 100 million people—but that worst case did not materialize: Ethiopia filled the reservoir gradually over six years, completing it in October 2024 and inaugurating the dam in September 2025 without a catastrophic downstream shortfall. The lesson is instructive. The coercive capability created by upstream infrastructure is real and permanent, yet its exercise remains a political choice, and the mere existence of the leverage reshaped a decade of regional diplomacy even though the leverage was never fully used. China's Mekong dams have caused droughts and floods in Vietnam, Thailand, Laos, and Cambodia. Unlike oil, which has alternatives, or semiconductors, which can eventually be produced elsewhere, water leverage is difficult to circumvent, and its consequences can extend to famine.
 {% endhint %}
 
 **Agricultural Dependencies**
@@ -322,7 +337,8 @@ AI development has a bottleneck that export controls can target: computing power
 U.S. semiconductor export controls evolved rapidly from 2022 to 2025, revealing the inherent tensions in using technology denial as a coercive instrument (see Chapter 4 for detailed analysis of these controls, including mechanisms, allied coordination, and Chinese countermeasures):
 - **October 2022-2024 (Biden era)**: Blanket restrictions on advanced AI chips (Nvidia A100/H100, AMD MI250), semiconductor manufacturing equipment, and U.S. persons supporting Chinese chip development. Progressive tightening closed loopholes (October 2023 updates banned "China-compliant" variants like the A800/H800).
 - **Early January 2025 (pre-inauguration)**: Outgoing Biden administration issued a global "AI Diffusion Rule" creating three-tier country licensing framework, an attempt to prevent third-country circumvention before the **January 20, 2025** transition.
-- **2025 (Trump era)**: Rescinded the AI Diffusion Rule and shifted to case-by-case licensing for advanced chips (Nvidia H200, AMD MI325X) to approved Chinese customers, while simultaneously adding 140 PRC entities to the Entity List.
+- **December 2024 (Biden, final salvo)**: BIS added roughly 140 entities—136 of them Chinese semiconductor firms and toolmakers—to the Entity List, tightened controls on high-bandwidth memory, and expanded the Foreign Direct Product Rule. This was the last major chip-control action of the Biden administration, not a Trump-era measure.
+- **2025 (Trump era)**: Rescinded the January 2025 AI Diffusion Rule (May 2025) and shifted to case-by-case, revenue-sharing licensing for advanced chips—most visibly the Nvidia H20, banned from China in April 2025 and then, in July 2025, permitted again under an arrangement channeling a share of the resulting revenue to the U.S. government. In September 2025 BIS issued the "Affiliates Rule" (the "50 percent rule"), automatically extending Entity List and Military End-User restrictions to any firm at least half-owned by a listed entity—a dramatic widening of coverage. In the October 2025 Trump-Xi truce that followed China's rare-earth escalation, Washington agreed to suspend the Affiliates Rule (BIS formally delayed it for one year on November 10, 2025) in exchange for Beijing pausing its rare-earth export controls—a vivid illustration of chokepoint leverage being traded rather than exercised.
 
 **Effectiveness**:
 - **Short-term degradation**: Chinese labs faced GPU shortages; training frontier models became more expensive and slower during the 2022-2024 restriction period
@@ -369,12 +385,12 @@ Quantum computers exploiting quantum mechanics (superposition, entanglement) cou
 - **Optimize complex systems**: Drug discovery, materials science, logistics, financial modeling
 - **Enhance sensors**: Quantum sensing for navigation, detection, imaging
 
-**Current State (2024)**
+**Current State (2025-26)**
 
-- **"Noisy intermediate-scale quantum" (NISQ)** devices with 50-1000 qubits demonstrated, but error rates limit practical applications
-- **No cryptographically relevant quantum computer** exists; estimates suggest 2030s-2040s for machines capable of breaking current encryption (highly uncertain)
-- **U.S. leadership**: Google, IBM, Microsoft, Amazon quantum programs; national labs (Argonne, Oak Ridge)
-- **China investments**: State-funded quantum programs, University of Science and Technology of China achievements (quantum satellite, quantum communication)
+- **"Noisy intermediate-scale quantum" (NISQ)** devices with dozens to hundreds of qubits remain the norm, but 2024-2025 brought the field's most consequential milestone yet: error correction that improves as machines scale. In December 2024 Google's 105-qubit **Willow** chip demonstrated "below-threshold" error correction—adding qubits *reduced* the logical error rate rather than increasing it (published in *Nature*)—and in October 2025 Google reported a verifiable quantum-advantage result on the same platform.
+- **Rival architectures multiplied**: China's University of Science and Technology of China unveiled the 105-qubit **Zuchongzhi 3.0** superconducting processor in March 2025, benchmarked as a direct competitor to Willow, while Microsoft announced **Majorana 1** (February 2025), a small first-generation chip built on topological qubits and pitched as a path toward million-qubit scaling. None of these is yet a fault-tolerant, general-purpose machine.
+- **No cryptographically relevant quantum computer** exists; breaking RSA-2048 is still estimated to require millions of high-quality physical qubits, and credible timelines remain in the 2030s-2040s (highly uncertain). In anticipation, NIST finalized its first post-quantum cryptography standards (FIPS 203/204/205) in August 2024, and migration is now the near-term policy priority.
+- **U.S. leadership**: Google, IBM, Microsoft, Amazon, and IonQ quantum programs; national labs (Argonne, Oak Ridge). **China** sustains heavy state funding and holds a distinct edge in quantum communication (the Micius satellite, metropolitan quantum-key-distribution networks) even as the superconducting-computing race with the United States runs neck and neck.
 
 **Quantum Competition Dynamics**
 
@@ -403,7 +419,7 @@ Controlling quantum technology harder than semiconductors due to diffusion, but 
 
 **Biotech Strategic Dimensions**
 
-Chapter 8's analysis of the BIOSECURE Act (enacted December 2025) demonstrated how biotech competition has become a domain for economic coercion. Future developments intensify strategic significance:
+Chapter 8's analysis of the BIOSECURE Act—enacted as part of the FY2026 National Defense Authorization Act signed on December 18, 2025, with its procurement prohibitions phasing in through 2026-2027 as the government designates "biotechnology companies of concern"—demonstrated how biotech competition has become a domain for economic coercion. Future developments intensify strategic significance:
 
 **CRISPR gene editing**: Potential applications include:
 - Agricultural enhancement (drought-resistant crops, higher yields)
@@ -800,119 +816,9 @@ Understanding Chinese perspectives doesn't require accepting their validity but 
 
 ---
 
-## Conclusion: Strategic Choices for an Uncertain Future
+## Conclusion
 
-This book has examined economic coercion's tools, targets, mechanisms, and effectiveness across contemporary cases and historical precedent. Chapter 10's scenario analysis reveals profound uncertainty about future trajectories: managed competition and selective integration appears most likely, but deep fragmentation, crisis-driven chaos, or renewed cooperation all remain plausible depending on decisions made today and black swan events beyond prediction.
-
-### Policy Recommendations
-
-**1. Sustain Multilateral Coordination**
-
-Historical cases (CoCom success, grain embargo failure) demonstrate multilateral sanctions' superior effectiveness. Yet coordination faces persistent challenges:
-- **Burden-sharing disputes**: Resolve through transparent cost calculations, side payments, burden redistribution
-- **China exposure asymmetries**: Provide economic support to allies facing disproportionate Chinese retaliation
-- **Institutional adaptation**: Reform G7, NATO, TTC mechanisms to accommodate new members, address emerging issues (climate, technology, development)
-
-**Action items**:
-- Formalize G7+ coordination on sanctions, export controls, investment screening
-- Create compensation mechanisms for allies bearing disproportionate sanctions costs
-- Expand coordination to include Australia, South Korea, India on selective issues
-
-**2. Invest in Technology Leadership**
-
-Technology advantages provide leverage across scenarios. Maintaining lead requires:
-- **R&D investment**: Public research funding (NSF, DOE, NIH) sustained despite fiscal pressures
-- **Talent attraction**: Immigration reform facilitating STEM talent recruitment, retention
-- **Education**: K-12 STEM emphasis, university research support
-- **Private sector dynamism**: Regulatory environment enabling innovation while addressing AI safety, biotech risks, data privacy
-
-**Action items**:
-- Increase federal R&D budget 5-7% annually above inflation
-- Expand high-skill immigration (H-1B visas, green cards for STEM PhDs)
-- Coordinate allied technology sharing (U.S.-Europe-Japan-Korea-Australia consortia on semiconductors, AI, quantum)
-
-**3. Selective Integration - Protect Security, Preserve Economics**
-
-Complete decoupling imposes massive costs (Chapter 2 supply chain analysis); selective decoupling targets genuine security risks:
-
-**Prioritize restrictions on**:
-- Advanced semiconductors (sub-14nm nodes, leading-edge manufacturing equipment)
-- AI training compute (high-end GPUs, large-scale clusters)
-- Biotechnology (genomics, synthetic biology capabilities)
-- Quantum systems (cryptographically relevant computers, secure communications)
-
-**Maintain openness in**:
-- Consumer goods (electronics, apparel, household products)
-- Commodity trade (agricultural products, basic materials)
-- Non-strategic services (tourism, education, basic software)
-
-**Action items**:
-- Develop clear criteria distinguishing strategic from non-strategic domains
-- Sunset reviews: Regularly assess whether controls remain necessary as technology evolves
-- Compensate affected industries (farmers facing Chinese retaliation, tech firms losing markets)
-
-**4. Strengthen Alliances Through Burden-Sharing and Value Demonstration**
-
-Alliance fatigue threatens coordination. Sustaining requires:
-- **Fair burden-sharing**: Defense spending, sanctions costs, development finance distributed equitably
-- **Tangible benefits**: Allies receive technology access, market opportunities, security guarantees
-- **Consultation**: Decisions affecting allies involve genuine consultation, not unilateral imposition
-- **Flexibility**: Accommodate varying levels of China exposure (Germany vs. Australia)
-
-**Action items**:
-- Formal alliance burden-sharing agreements (defense spending targets, sanctions enforcement commitments)
-- Technology sharing frameworks (AUKUS model expanded to other allies)
-- Development finance competition with BRI (Build Back Better World, infrastructure investments)
-
-**5. Engage Global South Through Development, Not Coercion**
-
-Non-aligned countries resist pressure to choose sides. Attracting requires positive inducements:
-- **Development finance**: Infrastructure investment, climate adaptation funding, technology transfer
-- **Market access**: Trade agreements, tariff preferences
-- **Institutional voice**: Greater representation in IMF, World Bank, G20
-- **No political conditions**: Compete with Chinese "no strings attached" approach
-
-**Action items**:
-- Increase development finance (matching or exceeding Chinese BRI levels)
-- Climate finance: Fulfill $100B annual commitment, increase adaptation funding
-- Trade agreements: Rejoin CPTPP, negotiate agreements with ASEAN, Africa, Latin America
-
-**6. Manage Risks and Unintended Consequences**
-
-Economic coercion creates blowback:
-- **De-dollarization**: Restrained use of financial sanctions to preserve dollar privilege longer
-- **Technology stimulation**: Export controls may spur Chinese innovation; anticipate and adapt
-- **Humanitarian costs**: Comprehensive sanctions harm civilian populations; targeted sanctions preferred
-- **Rally-around-flag effects**: Sanctions strengthen nationalist support for target regimes; combine with engagement, support for internal opposition
-
-**Action items**:
-- Reserve financial sanctions for highest-priority cases (not routine policy tool)
-- Humanitarian exemptions for food, medicine, disaster relief
-- Information operations exposing regime corruption, supporting civil society
-- Off-ramps: Provide sanctions relief for target compliance (not just eternal punishment)
-
-**7. Prepare for Long-Term Competition**
-
-Strategic competition spans decades, requiring institutional capacity and political sustainability:
-- **Institutional investment**: Staff CFIUS, BIS (export controls), Treasury (sanctions) adequately
-- **Congressional support**: Bipartisan consensus on strategic competition (avoid politicization)
-- **Public communication**: Explain costs, benefits, and long timelines to sustain support
-- **Adaptability**: Economic coercion evolves; update tools, targets, and strategies regularly
-
-**Action items**:
-- Quadrennial economic security review (analogous to defense reviews)
-- Congressional authorization of major sanctions programs (not just executive action)
-- Public education campaigns on strategic competition stakes, costs, and necessity
-
-### Final Reflections
-
-Economic coercion has a mixed historical record. The cases examined throughout this book reveal that sanctions, export controls, investment restrictions, and industrial policies achieve strategic objectives under specific conditions: comprehensive multilateral coordination, target vulnerabilities, combined pressure across domains, realistic objectives, and sustained commitment. When these conditions exist, economic statecraft degrades adversary capabilities, imposes costs, and shapes behavior. When they are absent, under unilateral actions, autarkic targets, standalone measures, maximalist goals, or short time horizons, coercion disappoints initial expectations.
-
-Contemporary U.S.-China competition occurs in context of deep economic interdependence historically unprecedented among great power rivals. Weaponizing this interdependence through financial sanctions, technology restrictions, and supply chain restructuring yields leverage but risks destroying the integrated global economy that enabled Western prosperity. Managing this paradox, competing strategically while preserving beneficial integration, requires careful calibration beyond simple escalation or accommodation.
-
-Future economic statecraft will operate in an environment defined by multipolar power distribution, fragmenting technology ecosystems, climate disruption reshaping resource geography, and the emergence of AI and quantum computing as strategic domains. Policymakers confronting these challenges need clear strategic objectives, realistic assessments of tools' effectiveness and limitations, sustained coordination with allies, and recognition that economic competition unfolds over decades rather than years.
-
-Economic coercion will remain central to 21st-century statecraft. Understanding its possibilities and limitations, and adapting as conditions change, will define economic statecraft for the next generation.
+> The argument of this book is completed in a standalone concluding chapter, **"Conclusion: Strategic Choices for an Uncertain Future"** (`conclusion.md`), which reprises the two-margins framework, carries the seven policy recommendations through it, and closes on the use-it-and-lose-it paradox.
 
 ---
 
@@ -977,7 +883,7 @@ Economic coercion will remain central to 21st-century statecraft. Understanding 
 
 - **Current trends point toward partial fragmentation rather than complete decoupling or renewed integration:** Full decoupling is economically prohibitive (U.S.-China goods trade still reached $414.7 billion in 2025), but selective decoupling accelerates in semiconductors, AI, biotechnology, and critical minerals. The result is a "partially fragmented globalization" where strategic domains decouple while commodity trade and consumer goods remain integrated.
 
-- **De-dollarization is gradual but structurally accelerating:** The dollar's share of global reserves has declined from 71% in 2000 to 56.92% in 2025Q3, and alternative payment systems (CIPS, bilateral currency agreements, CBDCs) continue growing. While no single alternative approaches dollar dominance, the cumulative effect of many small shifts could fundamentally reshape financial architecture by 2035-2050, reducing U.S. sanctions leverage.
+- **De-dollarization is gradual but structurally accelerating:** The dollar's share of global reserves has declined from 71% in 2000 to about 57% in 2025Q3, and alternative payment systems (CIPS, bilateral currency agreements, CBDCs) continue growing. While no single alternative approaches dollar dominance, the cumulative effect of many small shifts could fundamentally reshape financial architecture by 2035-2050, reducing U.S. sanctions leverage.
 
 - **Climate change will create new vectors of economic coercion that compound existing vulnerabilities:** Water scarcity enabling upstream dam leverage (Ethiopia over Egypt, China over Mekong nations), agricultural disruption concentrating food exports in fewer countries, critical mineral competition for the energy transition, and climate-driven migration all represent emerging coercion domains that current policy frameworks are unprepared to address.
 
@@ -1034,6 +940,12 @@ Economic coercion will remain central to 21st-century statecraft. Understanding 
 11. Prasad, Eswar. "Has the Dollar Lost Ground as the Dominant International Currency?" Brookings Institution, September 2023.
 
 12. Bank for International Settlements. "Triennial Central Bank Survey of Foreign Exchange and OTC Derivatives Markets." Various years.
+
+13. Bank of Russia (Central Bank of the Russian Federation). *Foreign Exchange and Gold Asset Management Reports.* Moscow, various years.
+
+14. Google Quantum AI. "Quantum Error Correction Below the Surface Code Threshold." *Nature*, published online December 9, 2024.
+
+15. GENIUS Act (Guiding and Establishing National Innovation for U.S. Stablecoins Act). Enacted July 18, 2025.
 
 ---
 

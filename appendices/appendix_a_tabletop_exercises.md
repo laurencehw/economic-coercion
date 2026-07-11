@@ -30,11 +30,11 @@ Throughout this appendix, look for the **"→ EconWar variant"** pointer at the 
 
 ### Scenario Overview
 
-**Date: January 15, 2026**
+**Date: January 15, 2027**
 
 Taiwan's newly elected president has announced plans to pursue formal constitutional changes that Beijing views as steps toward de jure independence. In response, the People's Liberation Army (PLA) has initiated large-scale military exercises encircling Taiwan, including a partial naval blockade that disrupts commercial shipping. China has not declared war but characterizes the exercises as "internal law enforcement operations."
 
-The United States faces pressure from Taiwan, Japan, and other Indo-Pacific allies to respond with both security guarantees and economic measures. However, the U.S.-China economic relationship remains deeply intertwined: China holds $850 billion in U.S. Treasury securities, bilateral trade exceeds $700 billion annually, and U.S. firms depend on Chinese supply chains for critical inputs. China, meanwhile, remains dependent on Taiwan for advanced semiconductors, U.S. semiconductor equipment, and access to Western financial systems.
+The United States faces pressure from Taiwan, Japan, and other Indo-Pacific allies to respond with both security guarantees and economic measures. However, the U.S.-China economic relationship remains deeply intertwined: China holds roughly $680 billion in U.S. Treasury securities (the second-largest foreign holder), two-way goods trade still runs well over $500 billion annually, and U.S. firms depend on Chinese supply chains for critical inputs. China, meanwhile, remains dependent on Taiwan for advanced semiconductors, U.S. semiconductor equipment, and access to Western financial systems.
 
 You are members of the National Security Council Deputies Committee convened to develop economic response options for the President. The crisis is escalating, and decisions made in the next 48-72 hours will shape whether the situation resolves diplomatically, escalates to comprehensive economic conflict, or moves toward military confrontation.
 
@@ -160,7 +160,7 @@ Taiwan's government indicates it is considering halting semiconductor exports to
 
 **Key Authorities:**
 - International Emergency Economic Powers Act (IEEPA), 50 U.S.C. §§ 1701-1708
-- Trading with the Enemy Act (TWEA), 50 U.S.C. App. §§ 1-44
+- National Emergencies Act (NEA), 50 U.S.C. §§ 1601-1651 (the companion statute that triggers IEEPA authorities)
 - Export Control Reform Act (ECRA), 50 U.S.C. § 4811 et seq.
 - Taiwan Relations Act (TRA), 22 U.S.C. § 3301 et seq.
 
@@ -171,11 +171,11 @@ Taiwan's government indicates it is considering halting semiconductor exports to
 - 1996 Taiwan Strait Crisis
 
 **Economic Data:**
-- U.S.-China bilateral trade: $700+ billion annually
-- Chinese holdings of U.S. Treasuries: ~$850 billion
+- U.S.-China two-way goods trade: ~$584 billion (2024); record peak ~$690 billion in 2022, falling to ~$415 billion in 2025 after the tariff war (U.S. Census, goods basis; goods-plus-services runs ~$100-130 billion higher)
+- Chinese holdings of U.S. Treasuries: ~$680 billion (late 2025); second-largest foreign holder after Japan, down from a 2013 peak above $1.3 trillion (Treasury TIC)
 - Taiwan semiconductor exports to China: ~$140 billion annually
-- U.S. imports from China: ~$540 billion annually
-- U.S. exports to China: ~$195 billion annually
+- U.S. imports from China: ~$440 billion (2024); peaked at ~$536 billion in 2022
+- U.S. exports to China: ~$143 billion (2024)
 
 **Strategic Context:**
 - Taiwan Strait is world's most important semiconductor chokepoint (TSMC produces 90% of advanced chips)
@@ -229,8 +229,8 @@ After completing this exercise, participants should be able to:
 ### Further Reading
 
 **On Taiwan Strait Crises:**
-- Saunders, Phillip C. "Military Options for a Taiwan Contingency." *CSIS*, 2022
-- Glaser, Bonnie S. "The Taiwan Strait: A Flashpoint in U.S.-China Relations." *Foreign Affairs*, 2023
+- Cancian, Mark F., Matthew Cancian, and Eric Heginbotham. "The First Battle of the Next War: Wargaming a Chinese Invasion of Taiwan." CSIS, 2023
+- Glaser, Bonnie S., Jessica Chen Weiss, and Thomas J. Christensen. "Taiwan and the True Sources of Deterrence: Why America Must Reassure, Not Just Threaten, China." *Foreign Affairs*, 2023
 
 **On Economic Coercion in Crises:**
 - Drezner, Daniel W. "Targeted Sanctions in a World of Global Finance." *International Interactions*, 2015
@@ -245,20 +245,9 @@ After completing this exercise, participants should be able to:
 - IEEPA authorities and active emergencies: https://home.treasury.gov/policy-issues/financial-sanctions
 - Semiconductor export controls: https://www.bis.doc.gov/
 
+### → EconWar Variant
 
----
-
-### Key Terms for Research
-
-When searching databases and academic literature, use these terms strategically:
-- Economic sanctions, financial sanctions, secondary sanctions
-- Export controls, technology denial, dual-use controls
-- Economic coercion, economic statecraft, geoeconomics
-- Weaponized interdependence, chokepoint politics
-- IEEPA, OFAC, Entity List, SDN list
-- SWIFT exclusion, correspondent banking, dollar weaponization
-- US-China competition, technology competition, semiconductor policy
-- Rare earth elements, critical minerals, supply chain security
+Replay this crisis from Beijing's seat: in **EconWar**, select the **Chinese** perspective and run the Taiwan Strait blockade scenario, choosing between a "quarantine" and a full blockade while weighing U.S. and allied counter-coercion (Treasury holdings, semiconductor and rare-earth chokepoints). Then run it again from a **Global South** seat to see how non-aligned states price the cost of taking sides. Compare which coalition each seat can actually assemble - the coalitional margin the exercise turns on.
 
 
 ---
@@ -501,6 +490,10 @@ After completing this exercise, participants should be able to:
 - Semiconductor export controls: https://www.bis.doc.gov/index.php/policy-guidance/product-guidance/semiconductors
 - National Security Strategy on critical supply chains: https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/08/fact-sheet-biden-harris-administration-announces-supply-chain-disruptions-task-force-to-address-short-term-supply-chain-discontinuities/
 
+### → EconWar Variant
+
+Replay the chokepoint shock from the **Chinese** seat: in **EconWar**, decide whether to exploit the TSMC disruption as leverage (conditional "relief" offers to select markets) or to show restraint, and watch how U.S. reshoring and allied diversification respond over successive turns. Then run it from a **European** seat balancing the EU's own chip fund against U.S. "America First" pressure. The contrast exposes how the same disruption creates leverage for one player and dependency for another - the substitution margin in action.
+
 
 ---
 
@@ -737,8 +730,8 @@ After completing this exercise, participants should be able to:
 ### Further Reading
 
 **On Critical Minerals:**
-- Acheson, Emily, et al. "Elements of Security: Mitigating the Risks of U.S. Dependence on Critical Minerals." CSIS, 2021
-- Borsari, Victoria, et al. "Comparing Policy Approaches for Critical Minerals." PIIE, 2022
+- Nakano, Jane. "The Geopolitics of Critical Minerals Supply Chains." CSIS, 2021
+- Leruth, Luc, Adnan Mazarei, Pierre Regibeau, and Luc Renneboog. "Green Energy Depends on Critical Minerals. Who Controls the Supply Chains?" PIIE Working Paper 22-12, 2022
 
 **On Rare Earth Supply Chains:**
 - Hurst, Cindy. "China's Rare Earth Elements Industry." TRADOC G-2, 2010
@@ -752,6 +745,10 @@ After completing this exercise, participants should be able to:
 - National Blueprint for Lithium Batteries: https://www.energy.gov/policy/national-blueprint-lithium-batteries
 - Critical Minerals List: https://www.usgs.gov/news/national-news-release/us-geological-survey-releases-2022-list-critical-minerals
 - Defense National Stockpile: https://www.dla.mil/Strategic-Materials/
+
+### → EconWar Variant
+
+Run this scenario from Beijing's seat: in **EconWar**, select the **Chinese** perspective and use rare-earth and gallium/germanium export licensing as coercive leverage, testing how quickly U.S. stockpiling, allied pooling, and substitution R&D erode your advantage. Then switch to a **Global South** resource-holder seat (a Lynas-style producer or an African deposit) courted by both Washington and Beijing, and price the risk of committing to either. The pairing shows why concentrated supply is powerful but wasting - the "use it and lose it" dynamic.
 
 
 ---
@@ -773,7 +770,7 @@ After completing this exercise, participants should be able to:
 
 **Date: September 2027**
 
-A classified intelligence report reveals that China has made breakthrough progress in developing advanced AI models for military applications, including autonomous weapon systems, intelligence analysis, and cyber warfare tools. The AI models rival OpenAI's GPT-5 and Google's Gemini Ultra in capability.
+A classified intelligence report reveals that China has made breakthrough progress in developing advanced AI models for military applications, including autonomous weapon systems, intelligence analysis, and cyber warfare tools. The models are assessed to rival the frontier systems fielded by leading U.S. labs.
 
 Investigation reveals that Chinese progress was enabled by:
 1. Illegally obtained NVIDIA H100 GPUs smuggled through third countries despite export controls
@@ -942,7 +939,7 @@ Commerce Department reports export control violations are difficult to prove and
 - Export Control Reform Act (ECRA), 50 U.S.C. § 4811 et seq.
 - International Traffic in Arms Regulations (ITAR), 22 C.F.R. §§ 120-130
 - Commerce Control List (CCL) for emerging technologies
-- Executive Order 14110 on Safe, Secure, and Trustworthy AI
+- Executive Order 14179 (2025), "Removing Barriers to American Leadership in Artificial Intelligence," and the July 2025 *America's AI Action Plan* (the framework that replaced the rescinded EO 14110 on Safe, Secure, and Trustworthy AI)
 
 **AI Technology Basics:**
 - Advanced AI models require: (1) powerful compute (GPUs/TPUs), (2) large datasets, (3) sophisticated algorithms, (4) skilled talent
@@ -1017,11 +1014,12 @@ After completing this exercise, participants should be able to:
 
 **Policy Documents:**
 - BIS Semiconductor Export Controls: https://www.bis.doc.gov/
-- White House AI Executive Order: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/10/30/executive-order-on-the-safe-secure-and-trustworthy-development-and-use-of-artificial-intelligence/
+- White House AI policy: Executive Order 14179, "Removing Barriers to American Leadership in Artificial Intelligence" (Jan. 23, 2025), https://www.whitehouse.gov/presidential-actions/2025/01/removing-barriers-to-american-leadership-in-artificial-intelligence/; and *America's AI Action Plan* (July 2025)
 - NSCAI Final Report: https://www.nscai.gov/
 
+### → EconWar Variant
 
----
+Replay the export-control dilemma from the **Chinese** seat: in **EconWar**, respond to U.S. chip controls by choosing among smuggling, indigenous fabrication, and algorithmic efficiency (the real-world DeepSeek-style substitution), and observe whether controls delay you or accelerate your self-reliance. Then take the **U.S.** seat and calibrate control scope against lost revenue and allied defection. The two runs dramatize the exercise's core question: whether denial buys a durable lead or merely a head start.
 
 
 ---
@@ -1221,7 +1219,12 @@ Countries with Chinese cable investments (Pakistan, Myanmar, several African nat
 - 2006, 2008 cable cuts disrupted Middle East/Asia internet (causes unclear)
 - 2013 Egyptian divers arrested attempting cable sabotage
 - 2022 Svalbard cable damage (suspected Russian activity)
-- Russia mapping NATO cables in North Atlantic
+- February 2023: two cables to Taiwan's Matsu Islands severed by Chinese vessels, cutting the islands off for weeks
+- October 2023: the Balticconnector gas pipeline and adjacent data cables damaged in the Gulf of Finland (the containership *Newnew Polar Bear* dragging its anchor)
+- November 2024: the bulk carrier *Yi Peng 3* implicated in cutting cables linking Finland, Germany, Lithuania, and Sweden
+- December 2024: the tanker *Eagle S* dragged its anchor roughly 100 km, damaging the Estlink 2 power cable and telecom lines in the Gulf of Finland
+- January 2025: the Trans-Pacific Express cable off northern Taiwan damaged by a suspect vessel (*Shunxin 39*), part of a run of Taiwan-area incidents through early 2025
+- Ongoing Russian and Chinese seabed-mapping and cable-surveillance activity in the North Atlantic and around Taiwan
 
 ### Facilitator Notes
 
@@ -1254,11 +1257,15 @@ Countries with Chinese cable investments (Pakistan, Myanmar, several African nat
 
 - Sechrist, Michael. "New Threats, Old Technology: Vulnerabilities in Undersea Cable Networks." *Belfer Center*, 2012
 - Sechrist, Michael. "Cyberspace in Deep Water: Protecting Undersea Communication Cables." *Joint Force Quarterly*, 2010
-- Bacas, Aude. "Submarine Cable Resilience." *Atlantic Council*, 2023
+- Sherman, Justin. "Cyber Defense Across the Ocean Floor: The Geopolitics of Submarine Cable Security." Atlantic Council, 2021
 
 **Policy Documents:**
 - CISA Critical Infrastructure: https://www.cisa.gov/critical-infrastructure
 - International Cable Protection Committee: https://www.iscpc.org/
+
+### → EconWar Variant
+
+Run the gray-zone contest from the **Chinese** seat: in **EconWar**, apply pressure through deniable infrastructure disruption while managing attribution risk and coalition backlash, and see what threshold finally triggers a hard Western response. Then play a **European** seat coping with the parallel Baltic cable incidents, weighing patrols, cable redundancy, and vessel interdiction. The exercise rewards resilience investments that never make headlines - the defensive half of chokepoint politics.
 
 
 ---
@@ -1422,15 +1429,41 @@ Short of these demands, China offers modest concessions:
 - International Emergency Economic Powers Act (IEEPA)
 
 **Data:**
-- U.S.-China trade: $700 billion annually
+- U.S.-China two-way goods trade: ~$584 billion (2024); record peak ~$690 billion in 2022, then ~$415 billion in 2025 amid the tariff war (U.S. Census, goods basis)
 - U.S. agricultural exports to China: $20-30 billion
 - Tariff revenue vs. economic costs
 - Historical trade war precedents (Smoot-Hawley, 1930s)
 
 **Precedents:**
-- 2018-2020 U.S.-China trade war
-- Phase One trade agreement (2020)
-- Trump/Biden tariff policies
+- The 2025 U.S.-China tariff war (most relevant): after a February 2025 "fentanyl" tariff (10%, raised to 20%), the April 2, 2025 "Liberation Day" IEEPA "reciprocal" tariffs triggered tit-for-tat escalation to 145% U.S. duties and 125% Chinese duties by mid-April, with China retaliating via rare-earth and critical-mineral export licensing. A May 12, 2025 Geneva truce cut rates for 90 days (U.S. to 30%, China to 10%) and was extended in August; an October 2025 rare-earth showdown preceded a Trump-Xi truce at the Busan APEC summit. In *Learning Resources, Inc. v. Trump* (Feb. 20, 2026), the Supreme Court held 6-3 that IEEPA does not authorize tariffs, vacating the reciprocal-tariff regime.
+- 2018-2020 U.S.-China trade war (Section 301) and the Phase One agreement (2020)
+- Trump and Biden tariff and export-control policies
+- Smoot-Hawley Tariff Act (1930) and its retaliatory spiral
+
+### Facilitator Notes
+
+**Setup:**
+- Have participants review the 2018-2020 and 2025 tariff rounds so the scenario's 60% tariffs read as escalation, not novelty
+- Provide a one-page tariff-rate tracker and a list of each side's most trade-exposed constituencies
+- Assign the Business Roundtable and Agriculture roles to participants willing to push back hard on a security-first framing
+
+**Time Management:**
+- Phase 1: 20 minutes - establish the retaliation dynamic and domestic pain quickly; do not let it become a tariff-schedule seminar
+- Phase 2: 25 minutes - force engagement with allied defection and Chinese non-tariff measures
+- Phase 3: 25 minutes - require a concrete escalate/hold/de-escalate decision and an explicit definition of "winning"
+- Phase 4: 20 minutes - draw out whether tariffs coerced China or merely imposed mutual costs
+
+**Common Pitfalls:**
+- Treating tariffs as costless leverage (surface the pass-through to U.S. consumers and exporters)
+- Assuming China absorbs pain passively (inject calibrated, asymmetric retaliation on soybeans, Boeing, and rare earths)
+- Ignoring legal and WTO constraints (the 2026 Supreme Court IEEPA ruling shows domestic-law limits bite too)
+- Declaring victory on vague Chinese "commitments" without verification or enforcement
+
+**Extension Options:**
+- Add a currency inject (RMB depreciation partly offsetting the tariff bite)
+- Introduce a rare-earth export halt mid-exercise to test cross-domain escalation
+- Stage a congressional hearing where participants must defend farm-state bailouts
+- Run a second round after a truce to test whether either side actually changed structural behavior
 
 ### Learning Outcomes
 
@@ -1443,6 +1476,10 @@ Short of these demands, China offers modest concessions:
 
 - Bown, Chad P., and Douglas A. Irwin. "Trump's Assault on the Global Trading System." *Foreign Affairs*, 2019
 - Lovely, Mary E., and Yang Liang. "Trump Tariffs Primarily Hit Multinational Supply Chains." *PIIE*, 2018
+
+### → EconWar Variant
+
+Replay the trade war from the **Chinese** seat: in **EconWar**, calibrate retaliation to maximize U.S. political pain (soybeans, Boeing, rare earths) while minimizing self-harm, and test how long you can "endure longer" before a truce serves your interest. Then take the **U.S.** seat and try to define a "win" that justifies de-escalating. Compare your outcomes against the real 2025 escalation-and-truce cycle summarized in the precedents above.
 
 
 ---
@@ -1631,6 +1668,31 @@ Allies request U.S. provide:
 - North Korea sanctions
 - Venezuela targeted sanctions
 
+### Facilitator Notes
+
+**Setup:**
+- Distribute the Treasury "sanctions menu" (Inject 1) in advance so participants arrive with a preferred design
+- Provide a short primer on OFAC mechanics (SDN listing, correspondent-banking cutoffs, general licenses, de-risking)
+- Seat the USAID and NGO roles with participants prepared to make the humanitarian counter-case forcefully
+
+**Time Management:**
+- Phase 1: 20 minutes - pin down the objective (compel, punish, or degrade) before designing instruments
+- Phase 2: 25 minutes - dwell on the enforcement/evasion and humanitarian tensions; these are the heart of the exercise
+- Phase 3: 25 minutes - force trade-offs against Chinese counter-moves and allied non-cooperation
+- Phase 4: 20 minutes - assess de-dollarization risk soberly rather than rhetorically
+
+**Common Pitfalls:**
+- Reaching for comprehensive/country-level sanctions reflexively without weighing civilian harm and over-compliance
+- Treating secondary sanctions as free (surface the diplomatic cost of coercing third-country banks)
+- Overstating de-dollarization as imminent collapse rather than gradual, at-the-margin erosion
+- Neglecting the exit ramp (no clear, verifiable conditions for sanctions relief)
+
+**Extension Options:**
+- Add a bank that over-complies and freezes a legitimate humanitarian channel, forcing a general-license fix
+- Introduce a Chinese CIPS settlement offer that lets the junta route around dollar clearing
+- Stage a leaked-atrocity-video inject that spikes congressional demand for maximalist measures
+- Run a six-month-later iteration to test whether pressure produced negotiation or entrenchment
+
 ### Learning Outcomes
 
 1. Design sanctions packages balancing objectives and constraints
@@ -1640,7 +1702,7 @@ Allies request U.S. provide:
 
 ### Further Reading
 
-- Nephew, Richard. "The Art of Sanctions." Columbia UP, 2018
+- Nephew, Richard. "The Art of Sanctions." Columbia UP, 2017
 - Zarate, Juan. "Treasury's War." PublicAffairs, 2013
 - Drezner, Daniel W. "The Sanctions Paradox." Cambridge UP, 1999
 
@@ -1648,8 +1710,9 @@ Allies request U.S. provide:
 - OFAC Sanctions Programs: https://home.treasury.gov/policy-issues/financial-sanctions
 - UN Security Council Sanctions: https://www.un.org/securitycouncil/sanctions/
 
+### → EconWar Variant
 
----
+Run the sanctions design from a **Global South** seat: in **EconWar**, play a state weighing whether to enforce U.S. secondary sanctions (and keep dollar access) or accept China's CIPS-based alternative and cheaper trade, and watch the aggregate effect on dollar centrality. Then take the **European** seat balancing values, refugee exposure, and business interests. The pairing surfaces the exercise's paradox: each additional turn of the sanctions screw is also an advertisement for alternatives to it.
 
 
 ---
@@ -1865,8 +1928,32 @@ Chinese private equity fund "Golden Harvest Capital" proposes $2 billion investm
 - Multiple Chinese tech company acquisitions blocked (2018-2024)
 
 **Data:**
-- Chinese FDI in U.S.: Peaked at $46 billion (2016), declined to <$5 billion (2023) following CFIUS expansion
-- CFIUS filings: 200-300 annually, ~10-15% involve Chinese parties
+- Chinese FDI in U.S.: Peaked at ~$46 billion (2016), then fell roughly 90% to low single-digit billions by the early 2020s following CFIUS expansion (Rhodium, completed-transaction basis; BEA new-investment figures are lower still)
+- CFIUS reviewed 325 transactions in CY2024 (209 notices + 116 declarations); China filed the most notices of any single investor country
+
+### Facilitator Notes
+
+**Setup:**
+- Give each participant the three case files (Injects 1-3) ahead of time and ask them to pre-mark approve / mitigate / block
+- Provide a one-page CFIUS primer (covered transactions, mandatory vs. voluntary filings, mitigation agreements, presidential blocking authority)
+- Remind participants that CFIUS assesses national-security risk, not economic-competition harm - a discipline the cases are designed to test
+
+**Time Management:**
+- Phases 1-3: ~25 minutes per case; keep each case moving and bank time for synthesis
+- Phase 4: 15 minutes - the payoff is cross-case consistency, so protect this segment
+- If running short, compress Case 3 (EV battery), the most intuitive of the three
+
+**Common Pitfalls:**
+- Sliding from security risk into industrial-policy or jobs arguments (redirect: is there a genuine national-security nexus?)
+- Blocking reflexively on "Chinese investor" without articulating the specific vulnerability or diversion pathway
+- Over-trusting mitigation agreements without asking who monitors and enforces them
+- Deciding the three cases in isolation and ending up visibly inconsistent (probe this in debrief)
+
+**Extension Options:**
+- Add a mandatory-filing twist (the parties did not file; CFIUS acts on its own initiative)
+- Introduce a congressional letter or hearing pressuring a specific outcome
+- Add an allied-capital alternative that would replace the Chinese investor, testing whether "block" is really costless
+- Run a post-decision inject where a mitigation agreement is breached, forcing divestment
 
 ### Learning Outcomes
 
@@ -1885,6 +1972,10 @@ Chinese private equity fund "Golden Harvest Capital" proposes $2 billion investm
 **Policy Documents:**
 - CFIUS Annual Reports: https://home.treasury.gov/policy-issues/international/the-committee-on-foreign-investment-in-the-united-states-cfius
 - FIRRMA Regulations: https://www.federalregister.gov/documents/2020/01/17/2020-00182/provisions-pertaining-to-certain-investments-in-the-united-states-by-foreign-persons
+
+### → EconWar Variant
+
+Replay investment screening from the **Chinese** seat: in **EconWar**, structure outbound investments to pass Western screening - minority stakes, greenfield builds, third-country vehicles - and see which strategies survive a toughening CFIUS regime. Then take the **U.S.** seat and tune screening strictness against the cost of deterring benign capital. The two runs reveal screening as a repeated game, not a one-shot verdict.
 
 
 ---
@@ -2086,7 +2177,7 @@ Participants must design sanctions strategy addressing:
 - Perez, Louis A. "Cuba and the United States: Ties of Singular Intimacy." Georgia UP, 2003
 
 **Sanctions Effectiveness Studies:**
-- Hufbauer, Gary Clyde, et al. "Economic Sanctions Reconsidered." PIIE, 2007 (estimates ~20-30% success rate)
+- Hufbauer, Gary Clyde, Jeffrey J. Schott, Kimberly Ann Elliott, and Barbara Oegg. "Economic Sanctions Reconsidered." 3rd ed. PIIE, 2007 (found at least partial success in roughly a third of cases, ~34%)
 - Pape, Robert A. "Why Economic Sanctions Do Not Work." *International Security*, 1997
 - Drezner, Daniel W. "The Sanctions Paradox." Cambridge UP, 1999
 
@@ -2094,6 +2185,31 @@ Participants must design sanctions strategy addressing:
 - Historical sanctions database (Peterson Institute)
 - UN sanctions tracking
 - Effectiveness factors correlations
+
+### Facilitator Notes
+
+**Setup:**
+- Assign the three historical-case roles (CoCom, South Africa, Cuba) a week ahead so presenters arrive with tight 10-minute briefs
+- Release the Meridiana profile (Inject 4) only after the case presentations, so lessons are drawn before the analogy is known
+- Brief the Academic Historian role explicitly to disrupt facile analogizing
+
+**Time Management:**
+- Phase 1: 30 minutes - hold each case brief to 10 minutes; enforce the clock
+- Phase 2: 25 minutes - focus on matching (and mismatching) success factors to Meridiana
+- Phase 3: 25 minutes - force a concrete, internally consistent strategy with an exit ramp
+- Phase 4: 10 minutes - reserve for the meta-lesson on analogical reasoning
+
+**Common Pitfalls:**
+- Anchoring on a single "master analogy" (the historian should force comparison across all three)
+- Reading South Africa as proof sanctions "work" while ignoring the decisive role of internal opposition
+- Overlooking Meridiana's external Chinese/Russian lifeline, which most resembles the Cuba failure conditions
+- Defaulting to comprehensive sanctions without specifying achievable objectives or relief criteria
+
+**Extension Options:**
+- Add Russia 2022-26 as a fourth case and test whether it fits any prior template
+- Introduce a UN Security Council veto inject to force a coalition-of-the-willing design
+- Stage a mid-exercise humanitarian-crisis inject that erodes coalition support
+- Have teams pre-commit to success metrics, then revisit them after new intelligence arrives
 
 ### Learning Outcomes
 
@@ -2107,7 +2223,11 @@ Participants must design sanctions strategy addressing:
 
 - Drezner, Daniel W. "Sanctions Sometimes Smart: Targeted Sanctions in Theory and Practice." *International Studies Review*, 2011
 - Early, Bryan R. "Busted Sanctions." Stanford UP, 2015
-- Nephew, Richard. "The Art of Sanctions." Columbia UP, 2018
+- Nephew, Richard. "The Art of Sanctions." Columbia UP, 2017
+
+### → EconWar Variant
+
+Run the Meridiana problem from a **Global South** seat: in **EconWar**, play a strategically located, resource-rich state under coercion and decide how far to lean on Chinese and Russian lifelines versus accommodating Western demands - the target's-eye view the tabletop only imagines. Then take the **European** seat, where energy-transit dependence complicates coalition unity. The contrast makes concrete why external lifelines (the Cuba condition) so often defeat unilateral pressure.
 
 
 ---
@@ -2178,12 +2298,12 @@ You are convened as the Strategic Competition Policy Committee to manage escalat
 
 **Inject 1: Green Technology Chokepoint**
 
-Catastrophic flooding in southern China (climate change-amplified typhoon) damages critical infrastructure for:
-- 60% of global solar panel production (primarily Xinjiang region)
-- 70% of rare earth processing facilities
-- Major EV battery component manufacturing
+A climate-amplified super-typhoon triggers catastrophic flooding across China's eastern and southern manufacturing belt (Jiangsu, Zhejiang, Anhui, and Guangdong), damaging critical infrastructure for:
+- ~85% of global solar module and cell assembly
+- ~80% of global EV battery cell production
+- Major magnet and rare-earth processing facilities (China refines ~90% of the world's rare earths)
 
-The global green energy transition faces 12-18 month delays. Prices for solar panels, batteries, and critical minerals spike 300-400%.
+The shock cascades upstream: the flooded coastal fabricators are cut off from their polysilicon feedstock in arid Xinjiang, which supplies ~40% of the world's solar-grade polysilicon. The global green energy transition faces 12-18 month delays, and prices for solar panels, batteries, and critical minerals spike 300-400%.
 
 **Chinese Response:**
 China announces "Climate Emergency Resource Allocation System":
@@ -2358,6 +2478,30 @@ China offers:
 - Digital economy governance (data flows, cross-border e-commerce)
 - Critical infrastructure protection for cyber-physical systems
 
+### Facilitator Notes
+
+**Setup:**
+- Warn participants that this exercise deliberately overloads them; the point is prioritization under simultaneous shocks, not solving every domain
+- Assign the five domain leads (Treasury/digital currency, Commerce/tech, CISA, Space Force, Climate) and hold each to their lane
+- Keep a running "escalation ledger" visible so cross-domain spillovers are tracked in real time
+
+**Time Management:**
+- Phases 1-4: ~20 minutes per domain pair; resist letting the digital-currency or cyber inject consume the clock
+- Phase 5: 10 minutes - force an explicit prioritization: which two domains get first-call resources, and why
+- If time is tight, drop the space or biotech inject rather than shortchanging the debrief
+
+**Common Pitfalls:**
+- Trying to "win" every domain simultaneously instead of triaging (surface the resource constraint early)
+- Treating attribution as settled in the cyber and space injects (it is deliberately ambiguous)
+- Over-forecasting rapid de-dollarization; note the countervailing pull of dollar stablecoins and Treasury-market depth
+- Neglecting that several domains (climate, space debris, pandemics) require cooperation with the very rival being confronted
+
+**Extension Options:**
+- Add a domestic inject (bank run or market halt) that forces attention inward mid-crisis
+- Introduce an allied government cutting a separate deal with Beijing, fracturing the coalition
+- Compress the timeline to 24 hours to stress decision-making under acute uncertainty
+- Run the same injects from Beijing's seat to reveal which "shocks" China would also experience as costs
+
 ### Learning Outcomes
 
 1. **Anticipate future coercion forms** using emerging technologies
@@ -2386,6 +2530,10 @@ China offers:
 - DoD technology strategy documents
 - Treasury digital currency reports
 - Space policy directives
+
+### → EconWar Variant
+
+This capstone scenario is best replayed across all four **EconWar** seats in sequence - **U.S.**, **Chinese**, **European**, and **Global South** - running the same multi-domain shock from each perspective. Note which "shocks" one seat experiences as leverage and another as cost (a Chinese green-tech halt hurts Beijing's own exporters; de-dollarization erodes a tool the U.S. relies on). Debrief on where the seats' interests unexpectedly align - climate, space debris, pandemic response - and whether those shared-fate domains can be walled off from the rivalry.
 
 
 ---

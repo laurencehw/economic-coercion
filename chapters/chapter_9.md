@@ -1,8 +1,20 @@
 # Historical and Comparative Cases
 
+## Learning Objectives
+
+By the end of this chapter, readers should be able to:
+
+1. Explain why multilateral coordination is the single most important determinant of whether economic coercion isolates a target or merely redirects its trade flows.
+2. Apply the chapter's four synthesis conditions—multilateral coordination, target vulnerability, combined pressure, and realistic objectives—to classic cases (CoCom, the 1980 grain embargo, apartheid South Africa, Iraq) and to the contemporary sanctioning of Russia.
+3. Use the two-margins framework introduced in Chapter 1—the substitution margin and the coalitional margin—to diagnose why particular coercion episodes succeeded or failed.
+4. Distinguish capability degradation from compellence, and explain why sanctions routinely impose severe economic costs while failing to change a determined target's behavior.
+5. Evaluate the methodological problems—selection bias, attribution, time horizons, and the definition of success—that make headline sanctions "success rates" difficult to interpret.
+
+---
+
 ## Executive Summary
 
-On December 29, 1979, Soviet forces invaded Afghanistan, triggering international condemnation and a U.S. strategic response combining military aid to Afghan resistance with economic pressure on Moscow. President Jimmy Carter's principal economic measure, an embargo on grain sales to the Soviet Union, aimed to impose costs on Soviet leadership while demonstrating American resolve. The embargo prohibited sales beyond the 8 million metric tons already contracted, cutting off an additional 17 million tons the Soviets had planned to purchase (Paarlberg 1980). American farmers, particularly in the Midwest, faced immediate economic pain as grain prices collapsed. Yet Soviet grain imports barely declined; Moscow purchased instead from Argentina, Canada, Australia, and other suppliers willing to fill the gap at slightly higher prices. The episode illustrates a recurring challenge of economic coercion: unilateral trade restrictions imposed by one supplier are easily circumvented when alternative sources exist and other countries prioritize commercial interests over geopolitical solidarity. The embargo failed to reduce Soviet supply while imposing losses on American farmers, a pattern that would recur for decades.
+On December 24, 1979, Soviet forces began their invasion of Afghanistan—seizing Kabul and killing President Hafizullah Amin on December 27—triggering international condemnation and a U.S. strategic response combining military aid to Afghan resistance with economic pressure on Moscow. President Jimmy Carter's principal economic measure, an embargo on grain sales to the Soviet Union, aimed to impose costs on Soviet leadership while demonstrating American resolve. The embargo prohibited sales beyond the 8 million metric tons already contracted, cutting off an additional 17 million tons the Soviets had planned to purchase (Paarlberg 1980). American farmers, particularly in the Midwest, faced immediate economic pain as grain prices collapsed. Yet Soviet grain imports barely declined; Moscow purchased instead from Argentina, Canada, Australia, and other suppliers willing to fill the gap at slightly higher prices. The episode illustrates a recurring challenge of economic coercion: unilateral trade restrictions imposed by one supplier are easily circumvented when alternative sources exist and other countries prioritize commercial interests over geopolitical solidarity. The embargo failed to reduce Soviet supply while imposing losses on American farmers, a pattern that would recur for decades.
 
 Each generation of policymakers rediscovers that economic coercion is harder than it looks: targets adapt, third parties defect, domestic costs mount, and strategic objectives often remain out of reach. The historical record also identifies when economic pressure works. South African apartheid collapsed partly under sustained international sanctions; CoCom technology restrictions degraded Soviet military capabilities for four decades; financial sanctions froze Libya, Iran, and North Korea out of global banking, imposing severe costs. Success and failure are separated by a few conditions, examined below: multilateral coordination, target vulnerability, alignment with broader pressure, and realistic objectives.
 
@@ -184,7 +196,7 @@ South Africa's apartheid system (Afrikaans: "separateness") institutionalized ra
 - **Political exclusion**: Black majority (75% of population) denied voting rights, political representation
 - **Residential segregation**: Group Areas Act assigned racial groups to designated areas, forcibly removing millions
 - **Labor exploitation**: Pass laws restricted Black movement, channeling labor to white-owned mines, farms, industries
-- **Economic inequality**: Whites (approximately 20% of population) owned 87% of the land and dominated 90% of the formal economy, while the Black majority was confined to just 13% of the country's territory; Black per capita income was less than 10% of white levels
+- **Economic inequality**: Whites (approximately 15% of the population by the 1980s—about 16% at the 1980 census and declining thereafter) owned 87% of the land and dominated some 90% of the formal economy, while the Black majority was confined to just 13% of the country's territory—the 87/13 division first codified by the Natives Land Act of 1913 and entrenched by the Native Trust and Land Act of 1936; Black per capita income was less than 10% of white levels
 - **Repression**: Security forces crushed dissent through bannings, detentions, torture, killings
 
 The National Party government (1948-1994) defended apartheid as necessary for preserving white minority civilization and preventing Black majority rule.
@@ -228,6 +240,11 @@ Township uprisings (1984-1986), Sharpeville massacre anniversary protests, and i
 
 **Disinvestment campaign**: Universities, pension funds, municipalities divested South African holdings, pressuring corporations to withdraw. By 1989, 200+ U.S. companies had exited South Africa (Crawford and Klotz 1999).
 
+<figure class="book-figure">
+  <img src="../figures/fig_09_02_apartheid_timeline.png" alt="Timeline of anti-apartheid sanctions from 1960 to 1994 with panels showing South African GDP growth and the rand's depreciation against the dollar over the sanctions period.">
+  <figcaption>Figure 9.2: The anti-apartheid sanctions campaign, 1960-1994 — escalation timeline with the economic toll visible in GDP growth and the rand's slide against the dollar.</figcaption>
+</figure>
+
 ### Economic Impact on South Africa
 
 Quantifying sanctions' economic effects is difficult due to:
@@ -243,11 +260,11 @@ Quantifying sanctions' economic effects is difficult due to:
 
 **Trade disruption**: Exports declined, particularly manufactured goods facing sanctions. South Africa circumvented through sanctions-busting (rerouting exports, relabeling origins) but at higher costs.
 
-**Currency depreciation**: Rand collapsed from R1 = $1.30 (1980) to R2.50 (1989), reflecting capital flight and economic deterioration.
+**Currency depreciation**: The rand slid from roughly \$1.30 per rand in 1980—the U.S. dollar first surpassed the rand only in March 1982—to about \$0.40 per rand by 1989 (some R2.50 to the dollar), reflecting capital flight and economic deterioration (South African Reserve Bank data).
 
 {% hint style="success" %}
 **The Rand Collapse: The Reach of Financial Sanctions**
-South Africa's Rand lost nearly half its value in less than a decade, from R1 = $1.30 (1980) to R2.50 (1989). The currency's decline reflected the effect of financial sanctions when banks withdraw credit, investors flee, and capital markets close. Trade sanctions can be circumvented through smuggling and rerouting; financial isolation is harder to evade, because a country cannot print foreign currency or generate international credit from domestic resources. The 1985 debt moratorium showed that even resource-rich countries depend on access to global finance.
+South Africa's rand lost more than two-thirds of its dollar value in less than a decade, sliding from about \$1.30 per rand in 1980 to roughly \$0.40 per rand—about R2.50 to the dollar—by 1989. The currency's decline reflected the effect of financial sanctions when banks withdraw credit, investors flee, and capital markets close. Trade sanctions can be circumvented through smuggling and rerouting; financial isolation is harder to evade, because a country cannot print foreign currency or generate international credit from domestic resources. The 1985 debt moratorium showed that even resource-rich countries depend on access to global finance.
 {% endhint %}
 
 **Debt crisis**: Unable to refinance external debt, South Africa faced 1985 debt moratorium, negotiating painful restructuring.
@@ -339,7 +356,7 @@ The sanctions regime pursued multiple, shifting objectives over thirteen years: 
 
 The sanctions devastated the Iraqi economy. GDP contracted by an estimated 50-60% from 1990-1996 (World Bank estimates; precise figures uncertain due to data limitations under sanctions). Oil exports collapsed from an estimated $12-15 billion (1989) to effectively zero, eliminating government revenue and foreign exchange. Inflation exceeded 1,000% annually. Industrial production collapsed; infrastructure deteriorated; agricultural productivity declined.
 
-Human development indicators reversed: infant mortality rose, malnutrition increased, and medical supplies dwindled. UNICEF estimated that 500,000+ Iraqi children died as a result of sanctions (Gordon 2010; though this figure remains contested). Denis Halliday, UN Humanitarian Coordinator in Iraq (1997-1998), resigned in protest, calling sanctions "genocidal." Madeleine Albright's 1996 statement that the price of containing Saddam was "worth it" when questioned about child deaths became a touchstone for sanctions critics.
+Human development indicators reversed: malnutrition increased and medical supplies dwindled. A 1999 UNICEF/Government of Iraq survey was widely cited for the claim that 500,000 or more Iraqi children died as a result of sanctions (Gordon 2010), but that figure is now regarded as unreliable. Reanalyzing the underlying survey data, Dyson and Cetorelli (2017) conclude that the Saddam Hussein regime manipulated the 1999 survey to sway international opinion against sanctions, and that there was in fact no major rise in child mortality during the sanctions period. The humanitarian toll was serious, but the true excess-mortality figure was almost certainly far below the half-million number that shaped a generation of sanctions debate. Even so, the perception of mass child death was politically decisive: Denis Halliday, UN Humanitarian Coordinator in Iraq (1997-1998), resigned in protest, calling sanctions "genocidal." Madeleine Albright's 1996 statement that the price of containing Saddam was "worth it" when questioned about child deaths became a touchstone for sanctions critics.
 
 Yet costs were not evenly distributed. The regime maintained its security apparatus and military capabilities throughout the sanctions period. Saddam Hussein built palaces while hospitals lacked basic supplies. This distributional asymmetry—regime survival vs. civilian suffering—is central to the sanctions' moral critique and effectiveness failure.
 
@@ -384,6 +401,36 @@ The Iraq sanctions experience profoundly shaped subsequent economic statecraft t
 Iraq contrasts with other historical cases: South Africa sanctions succeeded (partly) because they combined with internal resistance and international normative pressure; Iraq lacked comparable domestic opposition. Iran sanctions (post-1979) similarly imposed costs without regime change, though Iran's larger, diversified economy enabled greater resilience. Post-2022 Russia sanctions attempt to apply "smart sanctions" lessons—targeting financial networks and technology chokepoints while avoiding comprehensive trade embargoes that would devastate populations while potentially strengthening authoritarian regimes.
 
 The Iraq sanctions case ultimately demonstrates that economic coercion's most extreme form can impose catastrophic costs without achieving political objectives. The lesson shaped subsequent doctrine: modern sanctions emphasize targeting, proportionality, and off-ramps, seeking to coerce compliance without recreating Iraq's humanitarian catastrophe.
+
+---
+
+## Russia Sanctions (2022-2026): Coercing a Great Power
+
+The Western response to Russia's full-scale invasion of Ukraine on February 24, 2022 is the most comprehensive sanctions campaign ever mounted against a major economy, and the defining test of the questions this chapter poses. It combined nearly every instrument surveyed in this book—reserve immobilization, financial disconnection, price caps, technology denial—against a nuclear-armed, veto-wielding member of the Security Council deeply woven into global energy and commodity markets. Four years on, it offers an unusually clean reading of the two margins introduced in Chapter 1. (The financial mechanics summarized here are treated in detail in Chapter 7.)
+
+### Background: "Fortress Russia"
+
+After the comparatively mild Western reaction to its 2014 annexation of Crimea, Moscow spent eight years building a sanctions-resistant economy. The central bank accumulated some \$630 billion in reserves, diversified away from the dollar toward gold, euros, and renminbi, paid down external debt, and ran conservative fiscal buffers through a National Wealth Fund. Policymakers assumed this "Fortress Russia" would let the country absorb whatever the West imposed. The assumption proved half right—and the wrong half.
+
+### The Coercion
+
+Western measures escalated across several fronts. **Reserve immobilization** came first and mattered most: within days, the G7, EU, Japan, and others froze roughly \$300 billion of the Russian central bank's foreign reserves held in their jurisdictions—about half the total—with some \$200 billion sitting at the Belgian securities depository Euroclear. The freeze turned "Fortress Russia" against itself, neutralizing the very buffer built to withstand pressure and signaling to every reserve manager that dollar and euro holdings are politically contingent (Demarais 2022). **Financial disconnection** followed: selected major Russian banks were expelled from the SWIFT messaging network (an initial batch in March 2022, expanded through 2022), alongside correspondent-banking cutoffs and asset freezes.
+
+The **oil price cap** was subtler. Because cutting Russian crude off entirely would have spiked global prices, the G7 and EU instead set a \$60-per-barrel cap (effective December 5, 2022 for crude, February 2023 for products), enforced through the Western-dominated shipping-insurance and services complex. The design goal was to keep Russian barrels flowing while capping the Kremlin's per-barrel revenue. **Export controls** applied the CoCom logic of this chapter's opening to a twenty-first-century target: the United States extended the Foreign Direct Product Rule and coordinated with allies to deny Russia advanced semiconductors, avionics, machine tools, and other dual-use technology.
+
+Pressure ratcheted up rather than easing. In October 2025—in the first major Russia action of the second Trump administration, coordinated with the United Kingdom and the EU—OFAC designated Rosneft and Lukoil, Russia's two largest oil companies, as blocked persons under Executive Order 14024, reaching directly at the export revenues sustaining the war economy (U.S. Treasury 2025).
+
+### Adaptation
+
+Russia's countermeasures map precisely onto the substitution and coalitional margins. To escape the price cap's reliance on Western insurance, Russia assembled a **"shadow fleet"** of several hundred aging tankers operating outside G7 services, which came to carry the majority of its seaborne crude and let much of it trade above the cap (KSE Institute 2023). Barrels once bound for Europe were **rerouted to Asia** at a discount: India, which had bought almost no Russian crude before the war, took roughly a third or more of its oil from Russia by 2023-2024, and China increased purchases as well. Trade with these partners shifted toward **renminbi, rupees, and dirhams**, cleared increasingly through China's CIPS rather than SWIFT—accelerating exactly the fragmentation Demarais (2022) warned sanctions would provoke (Chapter 7 explains why messaging and settlement are not the same thing). Restricted Western technology, meanwhile, continued to reach Russia through **parallel imports**—re-exported chips and components routed via Turkey, the UAE, Central Asia, and China—blunting but not defeating the export controls.
+
+### Assessment
+
+Measured against the chapter's synthesis conditions, the record is mixed. Multilateral coordination among the sanctioners held to a degree few predicted, denying Russia the intra-alliance defections that sank the grain and pipeline sanctions—but the coalition was Western, not global. The neutrality of India, China, Turkey, and the Gulf kept alternative buyers in the market and gutted the price impact the cap was meant to deliver. Target vulnerability was real but bounded: Russia depended on Western technology and financial plumbing (genuine chokepoints) yet was resource-self-sufficient and export-diversified enough to reroute its most valuable output. And the objective drifted from the achievable (degrading Russia's war-making capacity) toward the maximalist (compelling withdrawal from Ukraine), reprising the objectives-inflation that undid the Iraq regime.
+
+Read through the two margins, the outcome is legible. On the **substitution margin**, energy rerouting succeeded almost completely—Russia found new buyers faster than the West could close them off—while technology substitution was only partial, forcing reliance on smuggled and lower-grade inputs that degraded quality and raised costs. On the **coalitional margin**, Western cohesion was the campaign's great achievement and non-Western neutrality its great limitation: the coalition was deep but not wide.
+
+The honest verdict is therefore split. Capability degradation is real but slow: sanctions and export controls raised the cost and lowered the quality of Russian military production, strained aviation and high-tech sectors, and forced the economy onto an overheated, inflationary war footing. Compellence, however, failed. The Russian economy contracted only about 2% in 2022—far less than the collapse many forecast—before war spending drove a rebound, and Moscow neither withdrew from Ukraine nor altered its core aims. As with apartheid South Africa, the measures that bit hardest were financial rather than commercial; as with Iraq, comprehensive pressure imposed enormous costs without producing political capitulation. The Russia case confirms the chapter's central lesson: economic coercion degrades and constrains far more reliably than it compels, and its ceiling is set by the target's substitution options and the breadth—not merely the depth—of the coalition applying it.
 
 ---
 
@@ -467,9 +514,7 @@ Examining cases from Napoleon to present reveals recurring patterns:
 
 **5. Time horizons matter**: Short-term sanctions (1-3 years) rarely achieve major strategic objectives; long-term campaigns (CoCom 40+ years, anti-apartheid 25+ years) sometimes succeed.
 
-**6. Multilateral coordination difficult but essential**: Unilateral sanctions (Napoleon vs. Britain, U.S. vs. USSR grain) fail; multilateral campaigns (CoCom, anti-apartheid eventually) achieve more.
-
-**7. Economic coercion most effective when reinforcing broader pressure**: South African sanctions combined with internal resistance; CoCom combined with military containment, ideological competition; standalone economic measures rarely decisive.
+**6. Economic coercion most effective when reinforcing broader pressure**: South African sanctions combined with internal resistance; CoCom combined with military containment, ideological competition; standalone economic measures rarely decisive.
 
 ---
 
@@ -490,11 +535,6 @@ Every successful sanctions case involved broad international participation:
 **Grain embargo (FAILURE)**: Unilateral U.S. action allowed Argentina, Canada, Australia to substitute. Grain is fungible commodity with multiple global suppliers; absent multilateral coordination, unilateral restrictions futile.
 
 **Pipeline sanctions (FAILURE)**: European allies refused participation; U.S. extraterritorial sanctions generated backlash without achieving objectives.
-
-{% hint style="success" %}
-**The Coordination Multiplier**
-The historical record indicates that coordinated sanctions are more effective than unilateral ones. CoCom worked because all major technology exporters participated for 40 years. Anti-apartheid sanctions gained force only when the U.S., Europe, and Commonwealth aligned in the 1980s. The grain embargo failed because Argentina, Canada, and Australia continued selling for commercial gain. Coordination operates as a multiplier on effectiveness: unilateral sanctions capture only a fraction of their potential, while broader participation progressively closes the alternatives available to the target. The diplomatic effort required to build such coalitions is correspondingly high.
-{% endhint %}
 
 Multilateral coordination is **difficult** (requires aligned interests, sustained diplomacy, enforcement mechanisms) but **necessary** for sanctions against major economies with global trade access.
 
@@ -606,25 +646,25 @@ Governments sometimes impose sanctions to appear active while avoiding difficult
 
 ### Comparative Success Rates and Measurement Challenges
 
-**Quantitative studies** (Hufbauer et al. 2007; Biersteker et al. 2016; Pape 1997; Drezner 1999) estimate sanctions success rates at 20-40%, depending on success definition and case selection.
+**Quantitative studies** (Hufbauer et al. 2007; Biersteker et al. 2016; Pape 1997; Drezner 1999) put the success rate at roughly a third of cases: Hufbauer, Schott, Elliott, and Oegg code about 34% of their 200-plus episodes as achieving "at least partial success." The figure is highly sensitive to how success is defined and which cases are counted—Pape, excluding episodes backed by concurrent military force, puts the effective rate closer to 5%, while the "partial success" coding is itself generous.
 
 <figure class="book-figure">
   <img src="../figures/fig_09_03_sanctions_success.png" alt="Sanctions success rates by objective and era, showing variation based on goal type and historical period.">
-  <figcaption>Figure 9.2: Sanctions success rates by objective and era, showing variation based on goal type and historical period.</figcaption>
+  <figcaption>Figure 9.3: Sanctions success rates by objective and era, showing variation based on goal type and historical period.</figcaption>
 </figure>
 
-A **decision framework** for selecting coercive instruments is summarized in Figure 9.3, which distils the lessons of the historical cases into a branching logic keyed on objective type (compellence vs. denial), target regime type, and availability of multilateral support.
+A **decision framework** for selecting coercive instruments is summarized in Figure 9.4, which distils the lessons of the historical cases into a branching logic keyed on objective type (compellence vs. denial), target regime type, and availability of multilateral support.
 
 <figure class="book-figure">
   <img src="../figures/fig_09_04_sanctions_decision_tree.png" alt="Decision tree for selecting economic coercion instruments given objectives, target characteristics, and coalition support.">
-  <figcaption>Figure 9.3: Decision tree for selecting among economic coercion instruments, synthesizing lessons from historical cases.</figcaption>
+  <figcaption>Figure 9.4: Decision tree for selecting among economic coercion instruments, synthesizing lessons from historical cases.</figcaption>
 </figure>
 
-Figure 9.4 aggregates observed outcomes across the major twentieth- and twenty-first-century sanctions episodes covered in this chapter, contrasting stated objectives against realized political outcomes.
+Figure 9.5 aggregates observed outcomes across the major twentieth- and twenty-first-century sanctions episodes covered in this chapter, contrasting stated objectives against realized political outcomes.
 
 <figure class="book-figure">
   <img src="../figures/fig_09_05_historical_outcomes.png" alt="Historical outcomes of major sanctions regimes, comparing stated objectives with realized political and economic effects.">
-  <figcaption>Figure 9.4: Historical outcomes across major sanctions regimes, stated objectives vs. realized effects.</figcaption>
+  <figcaption>Figure 9.5: Historical outcomes across major sanctions regimes, stated objectives vs. realized effects.</figcaption>
 </figure>
 
 **Measurement challenges**:
@@ -731,8 +771,8 @@ Rare earth elements (REEs)—17 metallic elements including neodymium, dysprosiu
 - Defense systems (precision-guided munitions, radar, sonar)
 
 Japan's high-tech manufacturing (Toyota, Honda, Panasonic, Sony) depended heavily on rare earth imports. China controlled:
-- 95% of global rare earth processing (2010)
-- 97% of Japan's rare earth imports
+- roughly 95% of global rare earth production and processing (2010)
+- roughly 90% of Japan's rare earth imports
 
 This concentration created acute Japanese vulnerability to supply disruptions (Wübbeke 2013).
 
@@ -766,7 +806,7 @@ Japan employed multiple countermeasures:
 **4. Diplomatic outreach**: Japan strengthened partnerships with alternative suppliers, promoted rare earth mining development in friendly countries (Australia, Canada, U.S.).
 
 By 2015 (Wübbeke 2013):
-- China's share of Japan's rare earth imports fell from 97% (2010) to 58% (2015)
+- China's share of Japan's rare earth imports fell from roughly 90% (2010) to 58% (2015)
 - Diversified sources (Australia, U.S., Malaysia, India, France) reduced vulnerability
 - Japanese rare earth consumption declined 30% through substitution and efficiency
 
@@ -791,7 +831,7 @@ By 2015 (Wübbeke 2013):
 
 {% hint style="warning" %}
 **Monopoly Power is Fragile**
-China's 95% control of rare earth processing appeared to be a durable chokepoint, but it eroded quickly once exercised. The 2010 restrictions triggered a global response: prices spiked 300%, making previously uneconomic deposits profitable; Australia's Lynas and America's Molycorp expanded production; Japan invested in recycling and substitution technologies. By 2015, China's share of Japan's rare earth imports had fallen from 97% to 58%. Wielding market power aggressively accelerated the diversification that subsequently reduced that power. A chokepoint used once tends to invite the development of alternatives.
+China's 95% control of rare earth processing appeared to be a durable chokepoint, but it eroded quickly once exercised. The 2010 restrictions triggered a global response: prices spiked 300%, making previously uneconomic deposits profitable; Australia's Lynas and America's Molycorp expanded production; Japan invested in recycling and substitution technologies. By 2015, China's share of Japan's rare earth imports had fallen from roughly 90% to 58%. Wielding market power aggressively accelerated the diversification that subsequently reduced that power. A chokepoint used once tends to invite the development of alternatives.
 {% endhint %}
 
 **3. Coercion spurs counter-measures**: Chinese restrictions accelerated Japanese/Western efforts to develop alternatives, ultimately weakening Chinese leverage
@@ -813,7 +853,7 @@ Economic coercion typically focuses on trade and finance, but migration—refuge
 
 **Turkey-EU (2015-present)**
 
-Syrian refugee crisis (2011+) created 6+ million refugees, many attempting to reach Europe through Turkey. Turkey hosts 3.7 million Syrian refugees (as of 2024), providing humanitarian assistance.
+Syrian refugee crisis (2011+) created 6+ million refugees, many attempting to reach Europe through Turkey. Turkey hosted a peak of roughly 3.7 million registered Syrians under temporary protection in 2021-2022; the number had fallen to about 2.9 million by the end of 2024 and, after the fall of the Assad regime in December 2024 triggered accelerating returns, to roughly 2.4 million by the end of 2025 (UNHCR figures).
 
 **Turkish leverage**: President Erdogan repeatedly threatened to "open the gates" and allow refugees to flood into Europe unless EU provided:
 - Financial assistance ($6 billion promised; portion delivered)
@@ -826,6 +866,10 @@ Syrian refugee crisis (2011+) created 6+ million refugees, many attempting to re
 - **Recurring threats**: Erdogan regularly invokes refugee leverage during EU disputes (Cyprus, Syria policy, democracy concerns)
 
 **Effectiveness**: Partial. EU provides financial assistance and moderates criticism, but refuses visa liberalization and accession progress. Turkey imposes costs but achieves limited strategic objectives.
+
+The fall of the Assad regime in December 2024 exposed how contingent this leverage always was. As returns accelerated—more than half a million Syrians left Turkey for Syria over the following eighteen months—the very population that gave Ankara its bargaining chip began to shrink, and with it the credibility of the threat to "open the gates."
+
+Migration coercion turns on the same two margins as any other instrument in this chapter. The coercer's leverage depends on the target's **substitution margin**—the EU's ability to harden its external border, pay other transit states (Libya, Sahel governments) to hold migrants, or process asylum claims offshore—and on the **coalitional margin** among EU members, whose front-line states (Greece, Italy) bear costs that inland states do not, tempting the side deals that undercut a common European position. Turkey's leverage was real but bounded on both margins: Europe could substitute partially (border fortification, the cash-for-control bargain of the 2016 EU-Turkey deal) and its coalition mostly held, so Ankara extracted money and muted criticism but never the visa liberalization or accession progress it most wanted.
 
 **Libya (2020s)**: Libyan militias and government actors facilitate or prevent migrant flows to Europe depending on relationship with Italy/EU, using migration as diplomatic leverage.
 
@@ -913,6 +957,7 @@ Migration policy increasingly viewed as strategic tool in technology competition
 - Levy, Philip I. "Sanctions on South Africa: What Did They Do?" *Economic Inquiry* 37.4 (1999).
 
 **Primary sources**:
+- Natives Land Act No. 27 of 1913 (and Native Trust and Land Act No. 18 of 1936): statutory basis of the 87/13 land division
 - UN Security Council Resolution 418 (1977): Arms embargo
 - U.S. Comprehensive Anti-Apartheid Act (1986)
 - Truth and Reconciliation Commission reports documenting apartheid-era history
@@ -1009,6 +1054,14 @@ Migration policy increasingly viewed as strategic tool in technology competition
 10. Farrell, Henry, and Abraham L. Newman. "Weaponized Interdependence: How Global Economic Networks Shape State Coercion." *International Security* 44, no. 1 (Summer 2019): 42-79.
 
 11. Gordon, Joy. *Invisible War: The United States and the Iraq Sanctions.* Harvard University Press, 2010.
+
+12. Demarais, Agathe. *Backfire: How Sanctions Reshape the World Against U.S. Interests.* Columbia University Press, 2022.
+
+13. Dyson, Tim, and Valeria Cetorelli. "Changing Views on Child Mortality and Economic Sanctions in Iraq: A History of Lies, Damned Lies and Statistics." *BMJ Global Health* 2 (2017): e000311.
+
+14. KSE Institute (Kyiv School of Economics). *Russian Oil Tracker* and price-cap monitoring, produced with the Yermak–McFaul International Working Group on Russian Sanctions. Kyiv, 2023–. https://kse.ua.
+
+15. U.S. Department of the Treasury, Office of Foreign Assets Control. "Treasury Sanctions Major Russian Oil Companies, Calls on Moscow to Immediately Agree to Ceasefire." Press release, October 22, 2025.
 
 ---
 

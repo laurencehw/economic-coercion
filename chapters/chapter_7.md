@@ -1,8 +1,18 @@
 # Financial Statecraft and Sanctions
 
+## Learning Objectives
+
+After completing this chapter, you will be able to:
+
+- Explain why financial coercion rests on structural features of the international monetary system—reserve-currency status, dollar clearing, and control of payments infrastructure—rather than on U.S. economic size alone.
+- Describe OFAC's sanctions architecture: its legal authorities, the SDN List and the 50% Rule, designation and licensing processes, and the compliance behavior (including over-compliance) it induces across the global financial system.
+- Distinguish primary from secondary sanctions and assess why extraterritorial measures are highly effective against firms but constrained against major powers such as China.
+- Evaluate the "self-undermining" logic of financial statecraft: how each conspicuous use of the dollar's centrality—above all the 2022 freeze of Russia's central bank reserves—raises the return to building alternatives.
+- Assess the substitution margin in the financial domain—CIPS, renminbi internationalization, BRICS proposals, CBDCs, gold, and stablecoins—and explain why network effects and collective-action problems make de-dollarization gradual rather than sudden.
+
 ## Executive Summary
 
-Financial coercion rests on an unusual fact: a single national currency, together with the plumbing that moves it, sits at the center of the world economy, and the state with jurisdiction over that plumbing can deny others access to it. The reach of that power was on display on February 26, 2022, four days after Russia's full-scale invasion of Ukraine, when the United States, European Union, United Kingdom, and Canada announced unprecedented financial sanctions: freezing Russian Central Bank reserves held in Western financial institutions (an estimated $300+ billion) (U.S. Treasury 2022), removing major Russian banks from the SWIFT international payments messaging system, and imposing comprehensive restrictions on transactions with Russian entities. Within days the ruble collapsed 30%, Russian stock markets plunged, and Western firms moved to unwind Russian exposure. One former Russian finance minister called it "financial nuclear war." The action was the culmination of decades spent building a U.S.-centered financial architecture, and it turned the same infrastructure that facilitates global liquidity into the primary conduit for coercion.
+Financial coercion rests on an unusual fact: a single national currency, together with the plumbing that moves it, sits at the center of the world economy, and the state with jurisdiction over that plumbing can deny others access to it. The reach of that power was on display on February 26, 2022, four days after Russia's full-scale invasion of Ukraine, when the United States, European Union, United Kingdom, and Canada announced unprecedented financial sanctions: freezing Russian Central Bank reserves held in Western financial institutions (an estimated $300+ billion) (U.S. Treasury 2022), removing major Russian banks from the SWIFT international payments messaging system, and imposing comprehensive restrictions on transactions with Russian entities. Within days the ruble collapsed 30%, Russian stock markets plunged, and Western firms moved to unwind Russian exposure. French Finance Minister Bruno Le Maire declared that the West was "waging an all-out economic and financial war on Russia"—a phrasing he walked back days later as incompatible with de-escalation (Le Maire, France Info, March 1, 2022). The action was the culmination of decades spent building a U.S.-centered financial architecture, and it turned the same infrastructure that facilitates global liquidity into the primary conduit for coercion.
 
 Financial sanctions operate through money and payments rather than physical destruction. They do not destroy factories or blockade ports, but their effects can be severe. A firm cut off from dollar-denominated payments, or a state cut off from global banking, can face acute crisis. Understanding how this power works, and how it might unravel, requires attention to three dynamics.
 
@@ -68,7 +78,7 @@ Beyond reserves, the dollar dominates international trade invoicing and settleme
 
 **Debt Denomination**
 
-Approximately $13 trillion in non-U.S. dollar-denominated debt exists (2024) (BIS 2022), debt issued by non-U.S. entities in dollars:
+Dollar-denominated debt owed by borrowers outside the United States totaled roughly $14 trillion in 2025—debt issued by non-U.S. entities in dollars (BIS 2026):
 
 - **Emerging market sovereigns**: Many governments borrow in dollars, creating currency mismatches (borrow in dollars, earn revenue in local currency)
 - **Corporations**: Multinational firms issue dollar bonds to access deep U.S. capital markets
@@ -101,7 +111,7 @@ SWIFT is not a payment system but a secure messaging network transmitting paymen
 
 **SWIFT disconnections**: U.S. has successfully pressured SWIFT to disconnect sanctioned entities:
 - **Iranian banks (2012, 2018)**: Removed after U.S./EU pressure, cutting Iran off from international finance (Nephew 2017)
-- **Russian banks (2022)**: Removed seven Russian banks and two Belarusian banks after Ukraine invasion; notably excluded Gazprombank (natural gas payments) and Sberbank (initially)
+- **Russian banks (2022)**: Removed seven Russian banks and three Belarusian banks (Belagroprombank, Bank Dabrabyt, and the Development Bank of the Republic of Belarus) after Ukraine invasion; notably excluded Gazprombank (natural gas payments) and Sberbank (initially)
 
 SWIFT disconnection immediately severs international payment capability, forcing reliance on informal channels (cash, barter, cryptocurrency, bilateral arrangements). A disconnected entity can in principle still transmit instructions by other means, but at sharply higher cost and far lower reliability.
 
@@ -180,7 +190,7 @@ Multiple U.S. agencies enforce financial sanctions:
 - **State Department**: Diplomatic coordination; designates state sponsors of terrorism
 - **Commerce Department - Bureau of Industry and Security**: Export controls (overlapping with financial restrictions)
 
-**Penalties**: Civil penalties up to greater of $330,000 per violation or twice transaction value; criminal penalties up to $1 million and 20 years imprisonment for willful violations. Financial institutions face enormous fines for sanctions violations:
+**Penalties**: Civil penalties up to the greater of $377,700 per violation (the 2025 inflation-adjusted IEEPA maximum, re-indexed each January) or twice transaction value; criminal penalties up to $1 million and 20 years imprisonment for willful violations. Financial institutions face enormous fines for sanctions violations:
 - BNP Paribas: $8.9 billion (2014) for violating Cuba, Iran, Sudan sanctions (U.S. Department of Justice)
 - Standard Chartered: $1.1 billion (2019) for Iran sanctions violations (OFAC)
 - UniCredit: $1.3 billion (2019) for Iran, Syria, Libya sanctions violations (OFAC)
@@ -195,7 +205,7 @@ Despite formidable advantages, U.S. financial power faces vulnerabilities:
 
 Expanding sanctions use creates incentives for alternatives:
 - As of 2024, over 30 countries face some form of U.S. sanctions (comprehensive or targeted) (OFAC 2024)
-- More than 10,000 individuals and entities on OFAC SDN List (OFAC 2024)
+- More than 12,000 individuals and entities on OFAC's SDN List (OFAC 2026)
 - Estimated 30% of global GDP in countries under some U.S. sanctions (Atlantic Council 2022)
 
 Widespread sanctions motivate targets and even neutral parties to develop alternatives, potentially eroding long-term U.S. leverage.
@@ -220,11 +230,13 @@ Digital currencies and blockchain technologies may enable sanctions circumventio
 
 Freezing Russia's central bank reserves (2022) called into question the safety of dollar reserves more broadly. If holding dollar reserves carries a risk of confiscation for geopolitical reasons, the incentive to hold them weakens. This "weaponization" concern motivates reserve diversification even among U.S. partners, and central bankers who once treated dollar reserves as the safest available asset now weigh the possibility that such reserves could be frozen.
 
+The concern deepened in 2024–25 as the G7 moved from immobilizing Russia's reserves to monetizing them. Rather than confiscate the roughly $300 billion in frozen assets outright—a step most jurisdictions judged legally fraught—the G7 agreed in October 2024 to lend Ukraine $50 billion through "Extraordinary Revenue Acceleration" (ERA) loans, to be serviced and repaid out of the windfall interest earned on the immobilized assets (the bulk held at Belgium's Euroclear). On the U.S. side, the REPO Act (Rebuilding Economic Prosperity and Opportunity for Ukrainians Act, April 2024) authorized the Treasury to tap these proceeds, and Washington disbursed its $20 billion tranche by late 2024 (G7 2024; U.S. Treasury 2024). For reserve managers watching from Beijing, Riyadh, or New Delhi, the ERA mechanism is a sharper signal than the freeze itself: even short of outright seizure, an issuing coalition can direct the earnings on another sovereign's reserves against that sovereign's interests.
+
 ---
 
 ## OFAC Sanctions Architecture
 
-The Office of Foreign Assets Control (OFAC) within the U.S. Department of Treasury administers and enforces economic sanctions against targeted foreign countries, entities, and individuals. With fewer than 200 staff members, OFAC wields authority over trillions of dollars in transactions, maintaining sanctions programs affecting over 10,000 targets across 30+ countries. Understanding OFAC's structure, authorities, and mechanisms shows how financial sanctions translate from policy objectives into economic pressure.
+The Office of Foreign Assets Control (OFAC) within the U.S. Department of Treasury administers and enforces economic sanctions against targeted foreign countries, entities, and individuals. With a staff of roughly 200, OFAC wields authority over trillions of dollars in transactions, maintaining sanctions programs affecting over 12,000 targets across 30+ countries. Understanding OFAC's structure, authorities, and mechanisms shows how financial sanctions translate from policy objectives into economic pressure.
 
 ### Legal Authorities
 
@@ -254,7 +266,7 @@ Comprehensive sanctions effectively cut targets from U.S. economy and, through s
 
 Prohibit transactions with specific individuals, entities, vessels, or aircraft designated on OFAC lists:
 
-- **Specially Designated Nationals and Blocked Persons (SDN) List**: Over 10,000 entries (individuals, companies, vessels, aircraft) whose assets are blocked and with whom U.S. persons cannot transact
+- **Specially Designated Nationals and Blocked Persons (SDN) List**: Over 12,000 entries (individuals, companies, vessels, aircraft) whose assets are blocked and with whom U.S. persons cannot transact
 - **Non-SDN Lists**: Sectoral Sanctions Identifications List (SSI), Foreign Sanctions Evaders List (FSE), Non-SDN Menu-Based Sanctions List, etc. - varying restrictions
 
 Targeted sanctions enable surgical precision, blocking specific proliferators, terrorists, narcotics traffickers, or human rights abusers without comprehensive country-wide restrictions.
@@ -267,6 +279,8 @@ Prohibit specific transaction types with designated entities in targeted sectors
 - **Venezuela Sectoral Sanctions**: Restrictions on PdVSA (state oil company) transactions
 
 Sectoral sanctions impose targeted pain on strategic industries while permitting other economic activity. More calibrated than comprehensive sanctions but complex to administer and susceptible to circumvention.
+
+Sectoral measures can also escalate into full blocking. On October 22, 2025, OFAC designated Rosneft and Lukoil—Russia's two largest oil producers, together roughly half of Russian crude output—as SDNs under Executive Order 14024, moving them from the calibrated sectoral regime into the comprehensive category and freezing their U.S.-jurisdiction property outright. These were the first Russia-related designations of the second Trump administration, timed to pressure Moscow toward a ceasefire and coordinated with the United Kingdom's asset freezes (October 15) and the European Union's nineteenth sanctions package (U.S. Treasury 2025). The move illustrates how the sectoral-versus-comprehensive boundary is a policy dial rather than a fixed line.
 
 **Secondary Sanctions**
 
@@ -365,13 +379,13 @@ Iran secondary sanctions evolved through CISADA (2010, targeting foreign financi
 
 The **Countering America's Adversaries Through Sanctions Act (CAATSA, 2017)** mandates secondary sanctions on foreign persons engaging in "significant transactions" with Russian defense/intelligence sectors (Section 231) and energy pipeline construction (Section 232, targeting Nord Stream 2).
 
-Application revealed the political constraints on secondary sanctions against major powers. India's $5.4 billion S-400 purchase triggered mandatory sanctions but received waivers given India's strategic importance. Turkey's S-400 acquisition led to CAATSA sanctions on Turkey's defense procurement agency (2020)—a rare case of sanctioning a NATO ally, also resulting in Turkey's removal from the F-35 program. China-Russia arms sanctions had limited impact given minimal U.S. exposure. On Nord Stream 2, sanctions forced Dutch-Swiss pipelay company Allseas to withdraw (delaying construction), but the Biden administration ultimately waived sanctions to repair EU relations before reimposing them after Ukraine's invasion.
+Application revealed the political constraints on secondary sanctions against major powers. India's $5.4 billion S-400 purchase met CAATSA's criteria for mandatory sanctions, but the United States never imposed them—and never issued a formal waiver—choosing instead to let the matter lie given India's strategic importance. Turkey's S-400 acquisition led to CAATSA sanctions on Turkey's defense procurement agency (2020)—a rare case of sanctioning a NATO ally, also resulting in Turkey's removal from the F-35 program. China-Russia arms sanctions had limited impact given minimal U.S. exposure. On Nord Stream 2, sanctions forced Dutch-Swiss pipelay company Allseas to withdraw (delaying construction), but the Biden administration ultimately waived sanctions to repair EU relations before reimposing them after Ukraine's invasion.
 
 Compared to Iran, Russia secondary sanctions were narrower (defense/intelligence sectors vs. economy-wide), more constrained by geopolitical considerations, and implemented inconsistently through frequent waivers.
 
 ### Hong Kong and China Secondary Sanctions
 
-The **Hong Kong Autonomy Act (HKAA, 2020)** authorized secondary sanctions on foreign financial institutions transacting with Chinese officials designated for eroding Hong Kong autonomy. Treasury designated 10 officials (2020), but no foreign financial institutions have been sanctioned under HKAA secondary provisions. The reasons illustrate secondary sanctions' limits against major powers: designated officials held minimal Western assets; sanctioning banks with Chinese official relationships would affect most major global banks, risking systemic disruption; and China enacted counter-sanctions law enabling retaliation against compliant entities.
+The **Hong Kong Autonomy Act (HKAA, 2020)** authorized secondary sanctions on foreign financial institutions transacting with Chinese officials designated for eroding Hong Kong autonomy. Treasury designated 11 officials in August 2020 (including then–Chief Executive Carrie Lam), but no foreign financial institutions have been sanctioned under HKAA secondary provisions. The reasons illustrate secondary sanctions' limits against major powers: designated officials held minimal Western assets; sanctioning banks with Chinese official relationships would affect most major global banks, risking systemic disruption; and China enacted counter-sanctions law enabling retaliation against compliant entities.
 
 ### Diplomatic and Legal Controversies
 
@@ -453,7 +467,7 @@ Launched 2015, CIPS processes cross-border renminbi (RMB) payments, positioning 
 
 China has made measured progress internationalizing the renminbi:
 
-**Reserve currency status**: ~2.7% of global reserves (2024), up from < 1% (2016) (IMF COFER). IMF included RMB in Special Drawing Rights basket (2016), granting reserve currency legitimacy.
+**Reserve currency status**: ~1.93% of global reserves (2025Q3), up from about 1% (2016) and off a 2022 peak near 2.8% (IMF COFER). IMF included RMB in Special Drawing Rights basket (2016), granting reserve currency legitimacy.
 
 **Trade settlement**: ~25% of China's trade settled in RMB (2024), up from ~10% (2015) (PBOC; SWIFT RMB Tracker). China-Russia bilateral trade increasingly in local currencies (50%+ in RMB/ruble).
 
@@ -479,7 +493,7 @@ Capital controls prevent full convertibility—foreign holders cannot freely buy
 **Financial Market Depth**
 
 Chinese financial markets lack liquidity and depth of U.S. markets:
-- Chinese government bond market ~$20 trillion but fragmented, less liquid
+- Chinese government bond market roughly $12–14 trillion; the full onshore bond market (second largest in the world at about $23 trillion in 2024) is more fragmented and less liquid than the U.S. Treasury market (AsianBondsOnline 2025)
 - Corporate bond market smaller, with default risks (property developers, local government financing vehicles)
 - Foreign holdings of Chinese bonds < 10% of market (compared to 30-40% foreign holdings of U.S. Treasuries) (BIS 2022; U.S. Treasury)
 
@@ -568,7 +582,7 @@ Over 100 countries (representing 95%+ of global GDP) exploring CBDCs (Atlantic C
 **Gold Reserves**
 
 Some states increased gold reserves to diversify away from dollars:
-- **Russia**: Accumulated gold reserves (20%+ of total reserves before 2022 invasion, sold some since to fund war) (World Gold Council)
+- **Russia**: Accumulated gold reserves (over 20% of total reserves before the 2022 invasion); the central bank's monetary gold holdings then stayed roughly flat through 2022–2024, with net drawdowns beginning only in 2025 as budget and currency pressures mounted (World Gold Council; Bank of Russia)
 - **China**: Steady gold purchases; officially 4% of reserves but potentially underreported (World Gold Council)
 - **Central banks globally**: Net purchasers since 2010 after decades of selling
 
@@ -585,7 +599,7 @@ Proposals to back BRICS currency with commodities (oil, gas, minerals) face simi
 **Bitcoin and Cryptocurrencies**
 
 Some sanctioned actors use cryptocurrencies to evade restrictions:
-- **North Korea**: Estimated $2+ billion stolen through cryptocurrency hacking/theft (UN Panel of Experts 2023); used for regime financing
+- **North Korea**: Estimated $6+ billion stolen through cryptocurrency hacking/theft since 2017—including the roughly $1.5 billion Bybit heist of February 2025, the largest crypto theft on record, which the FBI attributed to the Lazarus Group (FBI 2025; TRM Labs 2025); proceeds used for regime and weapons financing
 - **Iran**: Some oil sales conducted in cryptocurrency
 - **Russia**: Limited cryptocurrency use for sanctions evasion (most trade still requires traditional finance)
 
@@ -595,7 +609,7 @@ Some sanctioned actors use cryptocurrencies to evade restrictions:
 - **Traceability**: Blockchain transactions pseudo-anonymous but traceable; U.S. sanctions authorities increasingly effective at tracking illicit crypto flows
 - **Adoption**: No major economy accepts cryptocurrency for taxes or official transactions; limited utility for state-level commerce
 
-**Stablecoins**: Dollar-pegged cryptocurrencies (USDT, USDC) are largest crypto by volume—but these reinforce dollar dominance by creating digital dollars, not alternatives.
+**Stablecoins**: Dollar-pegged cryptocurrencies (USDT, USDC) are the largest crypto by volume—but these reinforce dollar dominance by creating digital dollars, not alternatives. U.S. policy has since embraced this logic explicitly. The GENIUS Act (Guiding and Establishing National Innovation for U.S. Stablecoins Act), signed into law in July 2025, requires payment stablecoins to be fully backed one-for-one by U.S. dollars and short-term Treasuries—turning every dollar of stablecoin issuance into new demand for U.S. government debt. Framed by its sponsors as a way to "extend the dollar's dominance" into digital finance, the statute is best read as a deliberate dollar-extension strategy: rather than resisting crypto, Washington is channeling it into instruments that deepen, not dilute, dollar centrality. This is the mirror image of the de-dollarization efforts surveyed above, and it is a live counterargument to forecasts of dollar decline (see Chapter 10's de-dollarization scenarios).
 
 **Assessment**: Cryptocurrencies enable marginal sanctions evasion for small transactions and illicit actors but cannot support large-scale international trade or serve as reserve currency. More likely to complement than replace dollar.
 
@@ -813,7 +827,7 @@ China's digital yuan (e-CNY) represents the most ambitious central bank digital 
 - Bilateral currency swap agreements with 40+ central banks ($550+ billion)
 - Encouraging BRI countries to use RMB for trade and investment
 - Shanghai-Hong Kong Stock Connect, Bond Connect increasing foreign access to RMB assets
-- RMB now ~2.7% of global reserves, ~25% of China's trade settlement (IMF COFER; SWIFT RMB Tracker 2024)
+- RMB now ~1.93% of global reserves (2025Q3), ~25% of China's trade settlement (IMF COFER; SWIFT RMB Tracker)
 
 **Gold Reserves and Commodities**:
 - Steady gold accumulation (officially ~4% of reserves, potentially more)
@@ -892,7 +906,7 @@ For much of the Global South — the 101 countries that Bloomberg (2024) identif
 
 The Non-Aligned Movement (NAM), born at the 1955 Bandung Conference and formally established in 1961, represented the first collective effort by developing nations to resist being instrumentalized in great-power competition. Its founding principle — that newly independent states should not be forced to choose sides — reflected hard experience: colonial powers had leveraged economic dependence to maintain political control long after formal independence.
 
-Contemporary scholars distinguish today's Global South strategy from Cold War non-alignment. Jorge Heine (2025) describes **active non-alignment** (*no alineamiento activo*) as a fundamentally different posture: not passive equidistance between blocs, but strategic engagement with all major powers simultaneously to maximize national advantage. India purchases discounted Russian oil while deepening defense ties with Washington through the Quad. Brazil settles 40% of its trade with China in yuan while maintaining its status as a Major Non-NATO Ally. Saudi Arabia joins BRICS+ while hosting U.S. military bases. Turkey, a NATO member, becomes Russia's third-largest fossil fuel customer while mediating the Black Sea Grain Initiative. The common thread is not ideology but pragmatism — what Amitav Acharya calls a "multiplex world" in which consequential middle powers refuse the binary choices that great-power competition demands.
+Contemporary scholars distinguish today's Global South strategy from Cold War non-alignment. Jorge Heine (2025) describes **active non-alignment** (*no alineamiento activo*) as a fundamentally different posture: not passive equidistance between blocs, but strategic engagement with all major powers simultaneously to maximize national advantage. India purchases discounted Russian oil while deepening defense ties with Washington through the Quad. Brazil settles 40% of its trade with China in yuan while maintaining its status as a Major Non-NATO Ally. Saudi Arabia engages BRICS+ (invited in 2023, though it has never formalized membership) while hosting U.S. military facilities. Turkey, a NATO member, becomes Russia's third-largest fossil fuel customer while mediating the Black Sea Grain Initiative. The common thread is not ideology but pragmatism — what Amitav Acharya calls a "multiplex world" in which consequential middle powers refuse the binary choices that great-power competition demands.
 
 ### Key Global South Concepts
 
@@ -903,7 +917,7 @@ For developing nations, financial sovereignty means the capacity to conduct inte
 - Central bank gold purchases surged to record levels in 2022-2024 (World Gold Council), as physical gold held domestically cannot be frozen by foreign governments
 - India and Russia shifted approximately 90% of bilateral trade to rupee-ruble settlement by 2024, up from near-zero before February 2022 (Reserve Bank of India)
 - Brazil and China signed a R$157 billion ($27.7 billion) currency swap agreement in May 2025 (PBOC); roughly 40% of bilateral trade now settles in yuan
-- China and Saudi Arabia completed their first yuan-denominated oil transaction in 2023 (Reuters), following a $6.98 billion currency swap agreement
+- China and Saudi Arabia signed a roughly $6.98 billion (RMB 50 billion) currency swap agreement in November 2023 and have publicly discussed pricing oil sales in yuan, though no completed yuan-denominated Saudi oil transaction has been publicly confirmed (S&P Global 2024)
 
 These bilateral arrangements remain small relative to global dollar flows. But their proliferation signals a systemic shift: countries are actively building the infrastructure for a post-dollar-dominant world, even if that world remains decades away.
 
@@ -958,7 +972,7 @@ India, with $660 billion in foreign exchange reserves (Reserve Bank of India) he
 
 ### The Limits of Global South Resistance
 
-Global South de-dollarization rhetoric outpaces reality. The dollar still accounts for approximately 57% of global reserves (down from 71% in 1999, but still dominant) (IMF COFER). The yuan's share of SWIFT payments remains just 2.7% (SWIFT RMB Tracker 2024), and its share of global reserves approximately 2.2% (IMF COFER). China's CIPS processed $24.5 trillion in 2024 (PBOC) — impressive growth, but as noted above, still roughly 1% of SWIFT's daily volume and reliant on SWIFT messaging for most transactions. The NDB's $40 billion portfolio is a rounding error beside the World Bank's cumulative lending.
+Global South de-dollarization rhetoric outpaces reality. The dollar still accounts for approximately 57% of global reserves (down from 71% in 1999, but still dominant) (IMF COFER). The yuan's share of SWIFT payments remains just 2.7% (SWIFT RMB Tracker), and its share of global reserves approximately 1.93% (2025Q3, IMF COFER). China's CIPS processed $24.5 trillion in 2024 (PBOC) — impressive growth, but as noted above, still roughly 1% of SWIFT's daily volume and reliant on SWIFT messaging for most transactions. The NDB's $40 billion portfolio is a rounding error beside the World Bank's cumulative lending.
 
 The structural barriers are formidable:
 
@@ -987,13 +1001,13 @@ Global South perspectives on financial sanctions are neither uniformly hostile n
 
 ## Government Tools Box 1: OFAC and the Specially Designated Nationals (SDN) List
 
-The **Office of Foreign Assets Control (OFAC)**, housed within the Treasury Department, administers over 30 active sanctions programs with approximately 300 staff. Its power derives less from direct enforcement than from the compliance infrastructure it compels across the global financial system: every institution touching U.S. finance must screen transactions against OFAC's lists. (For OFAC's legal authorities under IEEPA and TWEA, see Chapter 1, Government Tools Box 1.)
+The **Office of Foreign Assets Control (OFAC)**, housed within the Treasury Department, administers over 30 active sanctions programs with a staff of roughly 200 (Treasury does not publish an exact headcount, citing "more than 200"). Its power derives less from direct enforcement than from the compliance infrastructure it compels across the global financial system: every institution touching U.S. finance must screen transactions against OFAC's lists. (For OFAC's legal authorities under IEEPA and TWEA, see Chapter 1, Government Tools Box 1.)
 
-**The SDN List** is OFAC's primary tool, containing 12,000+ designations as of 2024. SDN designation immediately freezes all property within U.S. jurisdiction and prohibits U.S. persons from transacting with the target. The **50% Rule** extends blocking to any entity owned 50%+ by designated persons—even if not named on the list—capturing subsidiaries and shell companies. Additional lists target specific sectors (SSI List for Russia's financial/energy/defense sectors), sanctions evaders (FSE List), and secondary sanctions targets (NS-MBS List).
+**The SDN List** is OFAC's primary tool, containing 12,000+ designations as of 2026 (with a record 3,135 additions in 2024 alone). SDN designation immediately freezes all property within U.S. jurisdiction and prohibits U.S. persons from transacting with the target. The **50% Rule** extends blocking to any entity owned 50%+ by designated persons—even if not named on the list—capturing subsidiaries and shell companies. Additional lists target specific sectors (SSI List for Russia's financial/energy/defense sectors), sanctions evaders (FSE List), and secondary sanctions targets (NS-MBS List).
 
 Designations require only "reasonable basis to believe" criteria are met (far below criminal standards), with no prior notice to targets. OFAC administers general licenses (humanitarian trade, informational materials) and specific licenses (~2,000 applications annually) for otherwise-prohibited activities.
 
-**Enforcement**: Penalties reach $356,579 per violation or twice the transaction value (civil) and $1 million/20 years imprisonment (criminal). Landmark settlements—BNP Paribas ($8.9 billion, 2014), Standard Chartered ($1.1 billion, 2019), Société Générale ($1.3 billion, 2018)—ensure the system is largely self-enforcing. However, these penalties incentivize **over-compliance** ("de-risking"), where institutions refuse even licensed humanitarian transactions to sanctioned jurisdictions.
+**Enforcement**: Penalties reach $377,700 per violation (2025 inflation-adjusted IEEPA maximum) or twice the transaction value (civil) and $1 million/20 years imprisonment (criminal). Landmark settlements—BNP Paribas ($8.9 billion, 2014), Standard Chartered ($1.1 billion, 2019), Société Générale ($1.3 billion, 2018)—ensure the system is largely self-enforcing. However, these penalties incentivize **over-compliance** ("de-risking"), where institutions refuse even licensed humanitarian transactions to sanctioned jurisdictions.
 
 **Strengths**: Speed (designations within hours), global reach through dollar system intermediation, surgical precision compared to comprehensive embargoes, and deterrence through existential penalties. **Limitations**: Minimal due process, humanitarian harm from over-compliance, evasion through shell companies and cryptocurrency, and politicization risk as the SDN List doubles (from ~6,000 entries in 2016 to 12,000+ in 2024).
 
@@ -1038,7 +1052,7 @@ The mechanism operates through cascading compliance: Congress specifies triggeri
 
 - **Secondary sanctions force third countries into impossible choices, creating "coalitions of the aggrieved":** When the United States demands that India, Turkey, Brazil, or Saudi Arabia choose between U.S. markets and business with sanctioned countries, countries resenting this coercion may cooperate with Chinese alternative systems even without ideological alignment, ultimately weakening the financial architecture that enables sanctions.
 
-- **OFAC administers extraordinary power with minimal staff and limited democratic accountability:** Fewer than 200 staff members at the Office of Foreign Assets Control maintain sanctions programs affecting over 10,000 targets across 30+ countries, with penalties sufficient to destroy major financial institutions. This concentration of coercive authority in a small bureaucratic unit raises questions about proportionality and oversight.
+- **OFAC administers extraordinary power with minimal staff and limited democratic accountability:** A staff of roughly 200 at the Office of Foreign Assets Control maintains sanctions programs affecting over 12,000 targets across 30+ countries, with penalties sufficient to destroy major financial institutions. This concentration of coercive authority in a small bureaucratic unit raises questions about proportionality and oversight.
 
 - **China's alternative financial infrastructure is growing but remains far from displacing dollar systems:** CIPS processed roughly RMB 175 trillion (about $24 trillion) in 2024 and had 193 direct and 1,573 indirect participants by December 2025, but still remains much smaller than SWIFT and partly reliant on SWIFT messaging. The renminbi's 1.93% reserve share (2025Q3 IMF COFER) reflects capital controls, limited convertibility, and rule-of-law concerns that constrain international adoption regardless of China's economic size.
 
@@ -1077,6 +1091,26 @@ Mulder, Nicholas. *The Economic Weapon: The Rise of Sanctions as a Tool of Moder
 Nephew, Richard. *The Art of Sanctions: A View from the Field*. Columbia University Press, 2017.
 
 Zarate, Juan C. *Treasury's War: The Unleashing of a New Era of Financial Warfare*. Public Affairs, 2013.
+
+AsianBondsOnline (Asian Development Bank). "People's Republic of China: Market Summary." Local-currency bond market data, 2025. https://asianbondsonline.adb.org
+
+Bank for International Settlements. "Global Liquidity Indicators at End-December 2025." BIS Statistical Release, April 2026. https://www.bis.org/statistics/gli2604.htm
+
+Federal Bureau of Investigation. "North Korea Responsible for $1.5 Billion Bybit Hack." IC3 Public Service Announcement I-022625-PSA, February 26, 2025.
+
+Group of Seven (G7). "G7 Leaders' Statement on Extraordinary Revenue Acceleration (ERA) Loans." October 25, 2024.
+
+Le Maire, Bruno. Interview, France Info radio, March 1, 2022.
+
+S&P Global. "Saudi-China Ties and Renminbi-Based Oil Trade." Special Report, August 2024.
+
+TRM Labs. *The 2025 Crypto Crime Report.* TRM Labs, 2025.
+
+U.S. Congress. GENIUS Act (Guiding and Establishing National Innovation for U.S. Stablecoins Act of 2025), Pub. L. No. 119-27, signed July 18, 2025.
+
+U.S. Department of the Treasury (OFAC). "Treasury Sanctions Major Russian Oil Companies, Calls on Moscow to Immediately Agree to Ceasefire." Press Release, October 22, 2025.
+
+U.S. Department of the Treasury. "Disbursement of $20 Billion Loan to Benefit Ukraine, To Be Repaid with Proceeds Earned from Immobilized Russian Sovereign Assets." Press Release, December 2024.
 
 U.S. Department of the Treasury. "Sanctions Review." October 2021.
 
