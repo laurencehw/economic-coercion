@@ -57,6 +57,7 @@ The 2018-present U.S.-China trade war illustrates the dynamics of modern tariff-
 
 **Phase 1: Initial Escalation (2018)**
 
+- **March 2018**: Initial announcement of tariffs on roughly $50 billion of Chinese high-tech goods following the Section 301 investigation
 - **July 2018**: U.S. imposes 25% tariffs on $34 billion of Chinese goods (machinery, electronics)
 - **August 2018**: Additional $16 billion in U.S. tariffs; China retaliates equivalently
 - **September 2018**: U.S. imposes 10% tariffs on $200 billion in Chinese goods (consumer products, textiles)
@@ -71,7 +72,7 @@ By year-end, U.S. tariffs affected $250 billion in Chinese imports; Chinese reta
 - **August 2019**: China allows yuan to depreciate below 7.0 per dollar; U.S. Treasury designates China a "currency manipulator"
 - **September 2019**: U.S. imposes 15% tariffs on $112 billion (consumer electronics, apparel, footwear); delays tariffs on remainder
 
-Peak U.S. tariff levels: 25% on $250 billion in imports, 15% on $112 billion, affecting $362 billion total (66% of U.S. imports from China). China retaliated with tariffs ranging from 5% to 25% covering roughly $90–110 billion of U.S. exports—about 58% of U.S. exports to China at 2017 levels, rising toward two-thirds of product lines by late 2019 (Bown 2019; Bown and Kolb 2021). (Total U.S. goods exports to China were only about $130 billion in 2017, so Chinese retaliation could not have reached the $185 billion sometimes cited.)
+Peak U.S. tariff levels: 25% on $250 billion in imports, 15% on $112 billion, affecting $362 billion total (66% of U.S. imports from China) at an effective average rate of about 19.3%. China retaliated with tariffs ranging from 5% to 25%—averaging near 21%—covering roughly $90–110 billion of U.S. exports—about 58% of U.S. exports to China at 2017 levels, rising toward two-thirds of product lines by late 2019 (Bown 2019; Bown and Kolb 2021). (Total U.S. goods exports to China were only about $130 billion in 2017, so Chinese retaliation could not have reached the $185 billion sometimes cited.)
 
 **Phase 3: "Phase One" Agreement (2020)**
 
@@ -96,7 +97,7 @@ The Biden administration conducted a Section 301 tariff review in 2021-2022, mai
 
 - **May 2022**: Removed tariffs on 352 excluded product categories (mainly inputs for U.S. manufacturers)
 - **September 2022**: Initiated a new Section 301 investigation into China's semiconductor, maritime, and logistics policies
-- **May 2024**: Announced major tariff increases for strategic sectors (including EVs, batteries, solar cells, steel/aluminum, and selected medical products)
+- **May 2024**: Announced major tariff increases for strategic sectors (EVs to 100%, solar cells to 50%, plus batteries, steel/aluminum, and selected medical products)
 - **September 27, 2024**: Finalized staged Section 301 rate increases, with some increases scheduled to take effect on January 1, 2025
 
 **Phase 5: The IEEPA Tariff Regime and Its Unraveling (2025-2026)**
@@ -224,33 +225,9 @@ After World War II, Western states recognized that unilateral export controls co
 
 **Wassenaar Arrangement on Export Controls for Conventional Arms and Dual-Use Goods and Technologies**
 
-Established 1996 as successor to Cold War-era CoCom (Coordinating Committee for Multilateral Export Controls), Wassenaar coordinates national export control policies for conventional weapons and dual-use goods. Forty-two participating states (including the U.S., EU members, Japan, Korea, Australia, and—since December 2017—India; China and Israel remain outside the arrangement).
+Established in 1996 as successor to the Cold War-era CoCom (Coordinating Committee for Multilateral Export Controls), the Wassenaar Arrangement coordinates the national export-control policies of its forty-two participating states—among them the United States, EU members, Japan, Korea, Australia, and, since December 2017, India, while China and Israel remain outside—for conventional weapons and dual-use goods. Members maintain their own control systems built on common lists: a Munitions List of nine categories of conventional arms (aircraft, missiles, explosives, and the like) and a Dual-Use List of nine categories of sensitive technologies (materials, electronics, computers, telecommunications, sensors, navigation, aerospace, and propulsion). They report the licenses they grant and deny to specific destinations and update the lists by consensus, controlling exports through individual case-by-case licensing for sensitive destinations and end-users, general licenses pre-approved for low-risk destinations, and catch-all authority to block unlisted items whenever weapons use is suspected. The arrangement's defining weakness is built into its design: it imposes no binding obligation, so any member may grant a license others would deny.
 
-**Structure and Operation**:
-- Members maintain national export control systems based on common control lists
-- **Munitions List**: Nine categories of conventional arms (aircraft, missiles, explosives, etc.)
-- **Dual-Use List**: Nine categories of sensitive technologies (materials, electronics, computers, telecommunications, sensors, navigation, aerospace, propulsion)
-- Members report licenses granted and denied to specific destinations
-- Consensus decision-making for control list updates
-- **Key limitation**: No binding obligation; members may grant licenses others would deny
-
-**Control Mechanisms**:
-- Individual licensing: Case-by-case review for sensitive destinations/end-users
-- General licenses: Pre-approved for low-risk destinations
-- Catch-all controls: Authority to block unlisted items if suspicion of weapons use
-
-**Effectiveness and Limitations**:
-
-Strengths:
-- Harmonizes national control lists, reducing competitive disadvantages for compliant firms
-- Information sharing on denied licenses prevents shopping around multiple jurisdictions
-- Provides cover for politically sensitive denials ("required by international obligations")
-
-Weaknesses:
-- Consensus requirement enables lowest-common-denominator standards; any member can block list additions
-- Non-binding nature means members can approve sales others oppose
-- Major producers outside the regime (China, Israel, Brazil) not bound by restrictions
-- Dual-use technology definition increasingly ambiguous as digitalization blurs civilian-military boundaries
+That design yields both real strengths and characteristic failures. By harmonizing national control lists, Wassenaar reduces the competitive disadvantage borne by compliant firms; by sharing information on denied licenses, it keeps exporters from shopping the same sale around multiple jurisdictions; and it lends political cover to sensitive denials, which can be presented as "required by international obligations" rather than as national preference. But the consensus requirement drags standards toward the lowest common denominator, since any member can block a list addition, and the non-binding structure lets members approve sales their partners oppose. Major producers outside the regime—China, Israel, Brazil—are bound by none of it, and the very definition of dual-use grows more ambiguous each year as digitalization erases the boundary between civilian and military applications.
 
 {% hint style="warning" %}
 **The Dual-Use Dilemma**
@@ -259,42 +236,19 @@ The fundamental challenge of export controls is that the most powerful technolog
 
 **Missile Technology Control Regime (MTCR)**
 
-Founded 1987, MTCR restricts exports of missiles, unmanned aerial vehicles, and related technology capable of delivering weapons of mass destruction. Thirty-five members committed to control transfers of:
-- Category I: Complete rocket systems, unmanned aerial vehicles, and production facilities (strong presumption of denial for transfers)
-- Category II: Rocket components, materials, and technologies (case-by-case licensing)
-
-Threshold: Systems capable of delivering 500kg payload to 300km range.
-
-MTCR successfully constrained proliferation of long-range missiles to non-members (North Korea, Iran, Pakistan remain outside). However, proliferation of short-range systems (drones, cruise missiles below threshold) continues, and emerging hypersonic technologies challenge 1980s-era definitions.
+Founded in 1987, the MTCR restricts exports of missiles, unmanned aerial vehicles, and related technology capable of delivering weapons of mass destruction, and its thirty-five members sort controlled transfers into two categories. Category I—complete rocket systems, unmanned aerial vehicles, and production facilities—carries a strong presumption of denial; Category II—rocket components, materials, and technologies—is handled through case-by-case licensing. The dividing line is a capability threshold: systems able to deliver a 500kg payload to a range of 300km. On that basis the regime has successfully constrained the proliferation of long-range missiles to the non-members that remain outside it, among them North Korea, Iran, and Pakistan. Its limits are equally plain, since short-range systems below the threshold—drones and cruise missiles—continue to spread, and emerging hypersonic technologies strain definitions written in the 1980s.
 
 **Nuclear Suppliers Group (NSG)**
 
-Created 1975 after India's nuclear test, NSG coordinates export controls on nuclear materials, equipment, and technology. Forty-eight members (including nuclear weapon states plus major suppliers) control:
-- **Part 1 (Trigger List)**: Materials and equipment especially designed for nuclear use (enrichment, reprocessing, heavy water)
-- **Part 2 (Dual-Use List)**: Materials, equipment, and technology with nuclear and non-nuclear applications
-
-NSG operates by consensus. Its effectiveness shown by successful isolation of North Korea's nuclear program and substantial constraints on Iran's. However, China's admission (2004) and Russia's participation create complications when proliferation concerns conflict with strategic interests (e.g., Chinese nuclear cooperation with Pakistan, Russian cooperation with Iran).
+Created in 1975 after India's nuclear test, the NSG coordinates export controls on nuclear materials, equipment, and technology across forty-eight members, including the nuclear-weapon states and major suppliers. Its controls divide into a Part 1 Trigger List of materials and equipment especially designed for nuclear use—enrichment, reprocessing, heavy water—and a Part 2 Dual-Use List of materials, equipment, and technology with both nuclear and non-nuclear applications. Operating by consensus, the group has demonstrated its effectiveness in the isolation of North Korea's nuclear program and the substantial constraints placed on Iran's; yet China's admission in 2004 and Russia's participation create complications whenever proliferation concerns collide with strategic interests, as in Chinese nuclear cooperation with Pakistan or Russian cooperation with Iran.
 
 **Australia Group (AG)**
 
-Established 1985 after Iraqi chemical weapons use, AG coordinates export controls on chemical and biological weapons precursors and equipment. Forty-three members control:
-- Chemical weapons precursors (dual-use chemicals)
-- Biological agents and toxins
-- Chemical/biological production equipment (fermenters, aerosol systems, specialized protective equipment)
-
-AG faces fundamental challenge: Most controlled chemicals and equipment have legitimate commercial uses (pharmaceuticals, agriculture, research). Overly broad controls impede legitimate commerce; narrow controls enable proliferation. Balance remains contested.
+Established in 1985 after Iraq's use of chemical weapons, the Australia Group coordinates export controls on chemical and biological weapons precursors and equipment among forty-three members, covering chemical-weapons precursors (dual-use chemicals), biological agents and toxins, and chemical and biological production equipment such as fermenters, aerosol systems, and specialized protective equipment. The group's fundamental challenge is that most of these controlled chemicals and this equipment have legitimate commercial uses in pharmaceuticals, agriculture, and research, so overly broad controls impede legitimate commerce while narrow ones enable proliferation—a balance that remains contested.
 
 **Common Challenges Across Regimes**
 
-1. **Dual-use technology expansion**: Digitalization, AI, quantum technologies blur civilian-military boundaries. Commercial AI chips used for both consumer applications and military systems. Quantum computers enable cryptography and code-breaking. Biotechnology serves medicine and bioweapons. Traditional category-based controls struggle.
-
-2. **Non-member producers**: China's exclusion from most regimes increasingly problematic as it becomes major technology producer. Israel, Brazil, and others export without multilateral constraints (India, by contrast, joined the MTCR in 2016, the Wassenaar Arrangement in 2017, and the Australia Group in 2018, though it remains outside the NSG). Regime effectiveness erodes as non-members' market share grows.
-
-3. **Intangible technology transfer**: Traditional controls focused on physical exports. Modern technology transfer occurs through digital communications, cloud computing, remote access, and personnel mobility. Controlling intangible technology without impeding scientific collaboration proves difficult.
-
-4. **Enforcement variation**: Members vary enormously in enforcement resources and political will. Small states with limited enforcement capacity create transshipment vulnerabilities. Some members prioritize commercial interests over nonproliferation.
-
-5. **Update lag**: Control lists update slowly (annual at best) while technology evolves rapidly. Emerging technologies (AI, quantum, synthetic biology) lack agreed definitions and control parameters.
+For all their differences, these regimes share a common set of pressures. The first is the expansion of dual-use technology: digitalization, AI, and quantum technologies blur the civilian-military boundary, as commercial AI chips serve both consumer applications and military systems, quantum computers enable both cryptography and code-breaking, and biotechnology serves both medicine and bioweapons—leaving traditional category-based controls struggling to keep up. The second is the problem of non-member producers: China's exclusion from most regimes grows more problematic as it becomes a major technology producer, and Israel, Brazil, and others export without multilateral constraint (India, by contrast, joined the MTCR in 2016, the Wassenaar Arrangement in 2017, and the Australia Group in 2018, though it remains outside the NSG), so effectiveness erodes as non-members' market share grows. The third is intangible technology transfer: controls built for physical exports are ill-suited to a world in which technology moves through digital communications, cloud computing, remote access, and the mobility of skilled personnel, and constraining that flow without impeding scientific collaboration proves genuinely difficult. The fourth is enforcement variation, as members differ enormously in resources and political will, small states with limited capacity become transshipment vulnerabilities, and some prioritize commercial interests over nonproliferation. The fifth is update lag: control lists are revised slowly, annually at best, while technology races ahead, and emerging fields such as AI, quantum, and synthetic biology still lack agreed definitions and control parameters.
 
 ### U.S. Unilateral Export Controls: The Export Administration Regulations
 
@@ -700,42 +654,13 @@ However, enforcement limited:
 
 ### The Political Economy of WTO Erosion
 
-States that previously respected WTO rules abandoned those constraints for several reasons.
+States that once respected WTO rules abandoned those constraints for several overlapping reasons. The first was a shift in the underlying distribution of power. The rules were negotiated in the 1990s, when the United States enjoyed overwhelming economic dominance, and symmetrical obligations looked steadily less advantageous as China's economy approached American size. Washington had once tolerated a degree of Chinese non-compliance as the price of integrating China into the rules-based order and supporting its development; as China became a peer competitor, the cost of that non-compliance rose and the tolerance fell, hardening into a perception that WTO rules had simply failed to constrain Chinese state capitalism and technology mercantilism.
 
-**Changing Power Dynamics**
+Domestic political economy pushed in the same direction. The benefits of trade liberalization are diffuse—slightly lower prices spread across all consumers—while its costs concentrate in specific communities that lose jobs, so the constituencies defending WTO compliance (exporters, consumers) are weak and those opposing trade (displaced manufacturing workers, unions, economic nationalists) are strong, and the political incentive runs toward protection over compliance. Trump's 2016 election demonstrated the electoral power of trade grievances in the swing states of Pennsylvania, Michigan, and Wisconsin, and Biden kept his predecessor's trade policies in place rather than adopt the politically toxic posture of appearing weak on China—a position now untenable in both parties.
 
-WTO rules negotiated when U.S. enjoyed overwhelming economic dominance (1990s). As China's economy approached U.S. size, symmetrical rules became less advantageous:
+National security imperatives reinforced the retreat. As technology competition moved to the center of the U.S.-China rivalry, policymakers came to treat semiconductors, AI, quantum, and biotechnology as existential national security concerns, to regard WTO compliance as a constraint on necessary security measures, and to read Article XXI expansively enough to justify whatever action they deemed necessary.
 
-- U.S. previously tolerated some Chinese non-compliance as cost of integrating China into rules-based order and supporting Chinese development
-- As China became peer competitor, costs of non-compliance rose and tolerance fell
-- U.S. perception: WTO rules failed to constrain Chinese state capitalism and technology mercantilism
-
-**Domestic Political Economy**
-
-Trade liberalization benefits diffuse (slightly lower consumer prices) while costs concentrate (job losses in specific communities). This creates:
-
-- Weak constituencies supporting WTO compliance (exporters, consumers)
-- Strong constituencies opposing trade (displaced manufacturing workers, unions, economic nationalists)
-- Political incentives to prioritize protection over compliance
-
-Trump's 2016 election demonstrated political power of trade grievances in swing states (Pennsylvania, Michigan, Wisconsin). Biden maintained Trump trade policies to avoid appearing weak on China, a politically toxic position across both parties.
-
-**National Security Imperatives**
-
-As technology competition became central to U.S.-China rivalry, policymakers prioritized security over trade rules:
-
-- Semiconductors, AI, quantum, biotech seen as existential national security issues
-- WTO compliance regarded as constraint on necessary security measures
-- Article XXI interpreted expansively to justify necessary actions
-
-**Strategic Competition Logic**
-
-In strategic competition, states prioritize relative gains over absolute gains. WTO promotes absolute gains (all members benefit from trade). But if trade disproportionately benefits rivals, states defect:
-
-- U.S. concerns: Trade with China strengthened potential adversary; China used market access to acquire technology and fund military modernization
-- China concerns: Dependence on U.S. technology creates vulnerability; U.S. can weaponize interdependence to contain China
-
-Both sides increasingly view trade through security lens, incompatible with WTO's commercial framework.
+Underlying all of this is the logic of strategic competition itself, in which states prioritize relative gains over absolute ones. The WTO is built to deliver absolute gains—every member benefits from trade—but when trade disproportionately strengthens a rival, states defect. The United States worried that commerce with China was fortifying a potential adversary, handing Beijing the market access it used to acquire technology and fund military modernization; China worried that its dependence on U.S. technology was a vulnerability Washington could weaponize to contain it. Both sides came to view trade through a security lens fundamentally incompatible with the WTO's commercial framework.
 
 ### Future of the Multilateral Trading System
 
@@ -935,26 +860,7 @@ The **Entity List** identifies foreign persons posing national security risks; d
 
 ## Case Study 1: U.S.-China Trade War (2018-Present)
 
-### Background and Escalation
-
-The U.S.-China trade war represents the largest bilateral trade conflict in modern history, affecting over $600 billion in annual trade and $360 billion in tariffed goods. What began as targeted tariffs on specific sectors escalated through tit-for-tat retaliation into comprehensive trade restrictions affecting consumer goods, agricultural products, and critical industrial inputs.
-
-**Origins**: Trump administration's August 2017 Section 301 investigation concluded China engaged in unfair trade practices: forced technology transfer requirements for market access, discriminatory licensing restrictions, cyber espionage to steal intellectual property, and massive state subsidies to strategic industries. USTR estimated Chinese practices cost U.S. economy $50+ billion annually in lost innovation and competitiveness (USTR 2018).
-
-**Escalation Timeline**:
-
-- **March 2018**: Initial $50 billion tariff announcement targeting Chinese high-tech goods
-- **July 2018**: First tranche ($34 billion) implemented at 25%; China retaliates equivalently
-- **August 2018**: Second tranche ($16 billion) implemented; China retaliates
-- **September 2018**: Massive escalation - $200 billion Chinese imports at 10%; China retaliates on $60 billion U.S. exports
-- **May 2019**: Tariffs on $200 billion increased from 10% to 25% as negotiations fail
-- **August-September 2019**: Additional $112 billion at 15%; China retaliates; yuan depreciates below 7.0
-- **January 2020**: Phase One Agreement; U.S. reduces some tariffs to 7.5% but maintains 25% on $250 billion
-- **2021-2024**: Biden maintains Trump tariffs and announces targeted increases (EVs to 100%, solar to 50%, batteries, steel/aluminum, medical products)
-- **2025 (IEEPA tariff cycle)**: The second Trump administration opens a new front under IEEPA rather than Section 301—February fentanyl tariffs (10%→20%), April "reciprocal" tariffs (a universal 10% baseline plus country-specific rates), an April–May escalation to roughly 145% (U.S.) and 125% (China), a May Geneva truce, an October rare-earth showdown, and an October 30 Busan truce that cut the average U.S. rate on China from about 57% to about 47% (see Phase 5)
-- **February 2026 (Supreme Court)**: In *Learning Resources v. Trump*, the Court holds 6–3 that IEEPA does not authorize tariffs and vacates the IEEPA duties; the 2018–2024 Section 301 architecture, never challenged in the case, remains in force
-
-**Peak Impact**: U.S. tariffs affected $360 billion Chinese imports (66% of total); effective average rate 19.3%. Chinese retaliatory tariffs covered roughly $90–110 billion of U.S. exports—about 58% of U.S. exports to China at 2017 levels, rising toward two-thirds of product lines by December 2019, at an average rate near 21% (Bown 2019; Bown and Kolb 2021). (The often-cited $185 billion figure exceeds total U.S. goods exports to China, which were about $130 billion in 2017.)
+This chapter's main trade-war section already narrates the conflict phase by phase, from the August 2017 Section 301 investigation through the February 2026 Supreme Court ruling; that history is not repeated here. What follows instead applies the book's analytical framework to the episode. By way of orientation: the largest bilateral trade conflict in modern history affected over $600 billion in annual trade and $360 billion in tariffed goods, and it originated in USTR's finding that Chinese practices—forced technology transfer requirements for market access, discriminatory licensing restrictions, cyber espionage to steal intellectual property, and massive state subsidies to strategic industries—cost the U.S. economy an estimated $50+ billion annually in lost innovation and competitiveness (USTR 2018).
 
 ### Applying the Four-Dimension Framework
 
@@ -972,9 +878,9 @@ The U.S.-China trade war represents the largest bilateral trade conflict in mode
 
 **Collateral Damage: MODERATE-HIGH.** Tariffs functioned as regressive consumer tax, harmed downstream industries, strained ally relationships through steel/aluminum tariffs on Canada/EU/Japan/Korea, eroded WTO norms (other states followed precedent invoking Article XXI), and imposed fragmentation costs from dual supply chains.
 
-### Lessons for Economic Coercion Strategy
+### Overall Assessment: The Compellence-Containment Mismatch
 
-The trade war illustrates several principles. **Objective clarity matters**: multiple overlapping goals (reform, containment, industrial policy, signaling) diluted effectiveness; clearer prioritization might have improved outcomes. **Large economies tolerate tariff costs**: neither the U.S. nor China faced existential threat from bilateral tariffs given large domestic markets, and coercion proves more effective against smaller, more dependent targets. **Retaliation is certain**: targets with capacity to retaliate will do so, creating domestic political costs offsetting coercive leverage. **Unilateral action has multilateral gaps**: Chinese firms sourced from European, Japanese, and Korean suppliers unrestricted by U.S. tariffs. The trade war operated on **strategic logic** (relative gains, security) rather than economic logic (absolute gains, efficiency); whether the security benefits justified the economic costs is a political calculation, not an economic one.
+The episode's central lesson is the gap between what the tariffs were meant to do and what they actually did. Their stated primary objective was compellence—forcing structural reform—and on that measure they largely failed; what they delivered instead was partial containment, through supply-chain diversification, and signaling, through a demonstrated willingness to impose costs. That mismatch between multiple, poorly prioritized objectives and modest achievements is characteristic of tariff-based coercion against a large, relatively closed economy: neither the United States nor China faced an existential threat from bilateral tariffs, both could absorb the costs, and each retained the capacity to retaliate in ways that inflicted offsetting domestic political pain—so the tool works better against smaller, more dependent targets. The unilateral design left gaps as well, since Chinese buyers could simply turn to European, Japanese, and Korean suppliers beyond the reach of U.S. tariffs. In the end the trade war ran on strategic logic—relative gains and security—rather than economic logic—absolute gains and efficiency—and whether its security benefits justified its economic costs is a political calculation, not an economic one.
 
 ---
 
@@ -1002,269 +908,36 @@ Key similarities include long-term competition requiring sustained technology de
 
 ## Data Sources and Further Research
 
-### Trade Data and Statistics
+### Primary Official Sources
 
-**U.S. International Trade Commission (USITC)**: DataWeb (https://dataweb.usitc.gov)
-- Comprehensive U.S. import/export data by country, commodity (HS code), value, quantity
-- Tariff rate data including MFN, preferential, and Section 301/232 rates
-- Monthly updates; historical data back to 1989
-- Essential for tracking bilateral trade flows and tariff impacts
+**Office of the U.S. Trade Representative (USTR)** (https://ustr.gov): Section 301 investigation reports and reviews, the annual National Trade Estimate Report on Foreign Trade Barriers, trade-agreement texts (the Phase One Agreement), and WTO filings.
 
-**UN Comtrade Database**: (https://comtrade.un.org)
-- Global bilateral trade statistics from 190+ countries
-- Harmonized System (HS) commodity classifications at various digit levels
-- Annual and monthly data; coverage varies by country
-- Enables comparison of U.S.-China trade patterns with global trends
+**Bureau of Industry and Security (BIS)** (https://www.bis.doc.gov): the Export Administration Regulations, the Commerce Control List (with ECCNs), the Entity List, Denied Persons List, and Unverified List, and Federal Register notices of rule changes and Entity List additions.
 
-**U.S. Census Bureau Foreign Trade Statistics**: (https://www.census.gov/foreign-trade)
-- Monthly U.S. trade balance data by country and commodity
-- Advance monthly trade deficit/surplus reports
-- Historical data and interactive tools
-- Source for official U.S. trade figures
+**World Trade Organization** (https://www.wto.org; statistics at https://stats.wto.org): trade statistics, tariff profiles, and the dispute-settlement database of panel and Appellate Body reports, including DS544 (U.S. Steel and Aluminum) and DS543 (U.S. Tariff Measures on China).
 
-**World Trade Organization Statistics Database**: (https://stats.wto.org)
-- Global trade statistics and tariff profiles
-- Trade policy review reports for member countries
-- Dispute settlement case database with panel/Appellate Body reports
-- Tariff Analysis Online tool showing applied MFN and preferential rates
+### Key Datasets
 
-### Export Control Data and Documentation
+**Chad Bown's US-China Trade War Tariff Tracker**, Peterson Institute for International Economics (https://www.piie.com/research/piie-charts/us-china-trade-war-tariffs-date-chart): monthly-updated tariff rates, affected import values, and retaliation and exemption tracking.
 
-**Bureau of Industry and Security (BIS)**: (https://www.bis.doc.gov)
-- Export Administration Regulations (EAR) full text
-- Commerce Control List with Export Control Classification Numbers (ECCNs)
-- Entity List, Denied Persons List, Unverified List (updated continuously)
-- Federal Register notices of rule changes, Entity List additions
-- License exception guidance and frequently asked questions
-- Annual reports on export license applications and denials by country/item
+**USITC DataWeb** (https://dataweb.usitc.gov): U.S. import/export data by country and HS commodity, including Section 301/232 tariff rates, back to 1989.
 
-**Wassenaar Arrangement**: (https://www.wassenaar.org)
-- Munitions List and Dual-Use List (updated biannually)
-- Public statements and communiqués (annual plenary meetings)
-- Best practices guides for implementing export controls
-- Denial notifications database (members-only but some aggregate data public)
+**UN Comtrade** (https://comtrade.un.org): global bilateral trade statistics from 190+ countries at various HS digit levels.
 
-**Congressional Research Service Reports**:
-- "Export Controls: Overview and Issues for Congress" (updated regularly)
-- "The Export Administration Regulations: Overview and Related Issues"
-- "Section 232 Investigations: Overview and Issues for Congress"
-- "U.S.-China Trade Issues" (updated regularly)
-- "The WTO Dispute Settlement System: Status and Reform"
-- Available through congressional offices or FAS.org (Federation of American Scientists)
+**Federal Reserve Economic Data (FRED)** (https://fred.stlouisfed.org): trade balances, import/export price indices, manufacturing employment, and CNY/USD exchange rates.
 
-### U.S. Government Official Documents
+### Selected Further Reading
 
-**Federal Register**: (https://www.federalregister.gov)
-- All BIS rule changes, Entity List additions, temporary denial orders
-- Commerce Section 232 investigation reports (steel, aluminum, automobiles, uranium)
-- USTR Section 301 investigation reports (China, EU, others)
-- Presidential proclamations imposing tariffs and quotas
+- Amiti, Redding, and Weinstein, "The Impact of the 2018 Tariffs on Prices and Welfare," *Journal of Economic Perspectives* (2019) — tariff incidence and pass-through.
+- Fajgelbaum et al., "The Return to Protectionism," *Quarterly Journal of Economics* (2020) — aggregate welfare effects.
+- Flaaen and Pierce, "Disentangling the Effects of the 2018-2019 Tariffs," Federal Reserve Board (2019) — manufacturing-employment effects.
+- Cavallo et al., "Tariff Pass-Through at the Border and at the Store," *American Economic Review: Insights* (2021) — retail-price effects.
+- Congressional Research Service, "U.S.-China Trade and Economic Relations: Overview," "The Export Administration Regulations: Overview and Related Issues," and "Section 232 Investigations: Overview and Issues for Congress" (updated regularly).
+- Center for Strategic and International Studies (https://www.csis.org): export-control and semiconductor analysis and the ChinaPower project.
+- Center for a New American Security (https://www.cnas.org): economic-statecraft and export-control publications.
+- Cold War International History Project, Wilson Center (https://www.wilsoncenter.org/program/cold-war-international-history-project): declassified CoCom documents, for the chapter's Cold War case study.
 
-**White House Statements and Fact Sheets**:
-- Presidential memoranda and executive orders on trade and export controls
-- Fact sheets explaining semiconductor export controls (October 2022, October 2023)
-- National Security Strategy documents
-- Readouts of leader-level meetings on trade issues
-
-**Office of the U.S. Trade Representative**: (https://ustr.gov)
-- Section 301 reports (China technology transfer investigation, subsequent reviews)
-- National Trade Estimate Report on Foreign Trade Barriers (annual)
-- Trade agreement texts (Phase One U.S.-China Economic and Trade Agreement)
-- WTO filings and dispute settlement submissions
-
-**Department of Commerce Reports**:
-- Section 232 investigation reports on steel, aluminum, automobiles, uranium
-- Supply chain assessments (100-day supply chain review, 2021)
-- International Trade Administration industry reports
-- Trade statistics and analysis
-
-### Economic Analysis and Impact Studies
-
-**Peterson Institute for International Economics**: (https://piie.com)
-- Chad Bown's trade war tracker (updated monthly): tariff data, import values affected, retaliation tracking
-- Policy briefs analyzing tariff impacts, trade diversion, economic costs
-- Research on WTO disputes, export controls, trade agreements
-- China Economic Watch monitoring Chinese policies and responses
-
-**National Bureau of Economic Research Working Papers**: (https://www.nber.org)
-- Academic studies on tariff incidence, trade war impacts, supply chain effects
-- Key papers:
-  * Amiti, Redding, Weinstein: "The Impact of the 2018 Tariffs on Prices and Welfare" (*Journal of Economic Perspectives*, 2019)
-  * Fajgelbaum et al.: "The Return to Protectionism" (*Quarterly Journal of Economics*, 2020)
-  * Flaaen and Pierce: "Disentangling the Effects of the 2018-2019 Tariffs" (Fed Working Paper)
-  * Cavallo et al.: "Tariff Pass-Through at the Border and at the Store: Evidence from US Trade Policy" (*American Economic Review: Insights*, 2021)
-
-**Federal Reserve Economic Data (FRED)**: (https://fred.stlouisfed.org)
-- Trade balance time series
-- Import/export price indices by country
-- Manufacturing employment and output data
-- Exchange rate data (including CNY/USD)
-
-### Policy Think Tank Analysis
-
-**Center for Strategic and International Studies (CSIS)**: (https://www.csis.org)
-- Briefs on export controls, technology competition, supply chains
-- ChinaPower project tracking Chinese economic/trade policies
-- Technology and Security Program analysis of semiconductor controls
-
-**Center for a New American Security (CNAS)**: (https://www.cnas.org)
-- Economic statecraft program publications
-- Analysis of export controls, investment screening, sanctions coordination
-- Reports on allied coordination in technology restrictions
-
-**Council on Foreign Relations**: (https://www.cfr.org)
-- Backgrounders on U.S.-China trade war, WTO, export controls
-- Expert analysis and policy recommendations
-- Global Economics Program publications
-
-**Brookings Institution**: (https://www.brookings.edu)
-- Order from Chaos blog covering trade and economics
-- China Strategy Initiative papers
-- Global Economy and Development Program research
-
-### Chinese Government Sources (English)
-
-**Ministry of Commerce (MOFCOM)**: (http://english.mofcom.gov.cn)
-- Press releases on trade disputes, countermeasures
-- Trade statistics (China Customs data)
-- Policies on export controls, Unreliable Entity List
-
-**State Council Information Office**:
-- White papers on trade, technology, China-U.S. relations
-- Official Chinese government positions on trade disputes
-
-**National Development and Reform Commission (NDRC)**:
-- Industrial policy documents (Made in China 2025, strategic emerging industries)
-- Five-Year Plans (English summaries)
-
-**Global Times** (state media, English): (https://www.globaltimes.cn)
-- Nationalist perspective on trade disputes
-- Commentary reflecting Chinese government views
-
-### WTO and International Organizations
-
-**World Trade Organization Dispute Settlement**: (https://www.wto.org/english/tratop_e/dispu_e/dispu_e.htm)
-- Panel and Appellate Body reports (full text)
-- Dispute status tracking
-- Legal interpretation of GATT Article XXI (security exception), Article XX (general exceptions)
-- Key cases: DS544 (U.S. Steel and Aluminum), DS543 (U.S. Tariff Measures on China)
-
-**Organization for Economic Cooperation and Development (OECD)**: (https://www.oecd.org)
-- Trade policy reports and statistics
-- Export credits and officially supported export credits data
-- Digital Economy Papers on technology competition
-
-### Legal Resources
-
-**International Trade Law Materials**:
-- 19 U.S.C. § 1862 (Section 232 of Trade Expansion Act of 1962)
-- 19 U.S.C. § 2411 (Section 301 of Trade Act of 1974)
-- 50 U.S.C. § 4801 et seq. (Export Control Reform Act of 2018)
-- 15 C.F.R. § 730-774 (Export Administration Regulations)
-
-**Court of International Trade Decisions**: (https://www.cit.uscourts.gov)
-- Transpacific Steel LLC v. United States (Section 232 judicial review)
-- License denial and Entity List designation challenges
-- Tariff classification disputes
-
-**Justia and Cornell LII**: Free legal databases providing:
-- U.S. Code sections on trade and export controls
-- Code of Federal Regulations (CFR) for EAR and other trade regulations
-- Case law on trade disputes
-
-### Industry and Business Sources
-
-**Semiconductor Industry Association (SIA)**: (https://www.semiconductors.org)
-- Industry statistics (production, sales, R&D)
-- Policy positions on export controls
-- Factbooks and market analyses
-
-**U.S. Chamber of Commerce**: (https://www.uschamber.com)
-- Business perspectives on tariffs and export controls
-- Impact studies on trade policy
-- Policy recommendations
-
-**National Association of Manufacturers**: (https://www.nam.org)
-- Surveys of manufacturing sentiment
-- Analysis of tariff impacts on member companies
-- Trade policy advocacy positions
-
-### Academic Journals
-
-**American Economic Review**
-**Quarterly Journal of Economics**
-**Journal of Political Economy**
-- Rigorous empirical studies on trade policy impacts
-
-**Journal of International Economics**
-- Specialized research on trade, tariffs, trade policy
-
-**Foreign Affairs**
-**Foreign Policy**
-- Policy-oriented analysis accessible to practitioners
-
-**The China Quarterly**
-**Journal of Contemporary China**
-- Specialized research on Chinese economic policy and politics
-
-### Tracking Tools and Databases
-
-**Chad Bown's Trade War Tracker**: (https://www.piie.com/research/piie-charts/us-china-trade-war-tariffs-date-chart)
-- Interactive visualization of U.S.-China tariffs
-- Updated monthly with new policy changes
-- Tracks retaliation and exemptions
-
-**HS Code Lookup Tools**:
-- USITC HTS (Harmonized Tariff Schedule) lookup: Determine applicable tariffs by product
-- UN Trade Statistics Knowledgebase: HS code descriptions and conversions
-
-### Historical Resources for CoCom Study
-
-**Cold War International History Project** (Wilson Center): (https://www.wilsoncenter.org/program/cold-war-international-history-project)
-- Declassified documents on CoCom operations
-- Soviet responses to export controls
-- Allied coordination and disputes
-
-**National Security Archive** (George Washington University): (https://nsarchive.gwu.edu)
-- Declassified documents on Cold War export controls
-- Presidential decision memoranda on CoCom policy
-
-### For Practitioners
-
-**Export Compliance Training Institute**: (https://www.ectionline.org)
-- Training materials on EAR compliance
-- Updates on regulatory changes
-- Best practices for corporate export control programs
-
-**Law Firm Client Alerts**:
-- Akin Gump, Covington & Burling, Steptoe & Johnson, Hogan Lovells, Gibson Dunn
-- Timely analysis of new export control rules, Entity List additions, enforcement actions
-
-### Research Strategy Recommendations
-
-**For Understanding Tariff Impacts**:
-1. Start with UN Comtrade or USITC DataWeb for bilateral trade data
-2. Use Peterson Institute tracking tools for policy timeline
-3. Consult NBER working papers for rigorous economic analysis
-4. Check Federal Register for official tariff proclamations and legal basis
-
-**For Export Control Research**:
-1. Begin with BIS website for current EAR, CCL, and Entity List
-2. Review Federal Register notices for rule changes and justifications
-3. Consult CRS reports for policy overview and congressional perspectives
-4. Track industry responses through SIA and business association statements
-
-**For WTO Disputes**:
-1. Access dispute case files on WTO website for panel/Appellate Body reports
-2. Review government submissions for parties' legal arguments
-3. Consult academic analysis in trade law journals
-4. Track implementation and retaliation through USTR and WTO announcements
-
-**For Chinese Perspectives**:
-1. Official sources: MOFCOM, State Council white papers for government positions
-2. State media: Global Times, China Daily for nationalist commentary
-3. Think tanks: Carnegie-Tsinghua Center, Brookings China experts for analysis
-4. Academic journals: China Quarterly, Journal of Contemporary China for research
+For official Chinese government positions, the Ministry of Commerce (http://english.mofcom.gov.cn) and State Council white papers provide countermeasure and trade-dispute statements, while the state-media *Global Times* (https://www.globaltimes.cn) offers nationalist commentary.
 
 ---
 

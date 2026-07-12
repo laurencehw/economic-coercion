@@ -24,7 +24,7 @@ The second is the return of state-directed capitalism through industrial policy 
 
 The third is informal economic coercion, state actions outside formal legal frameworks to impose costs on target economies, which shows that economic power operates beyond institutionalized sanctions and tariffs. China's 2020-2021 economic pressure on Australia illustrates these dynamics. Following Australia's call for an independent investigation into COVID-19 origins, China imposed de facto restrictions on Australian exports including wine (tariffs of 200%+), barley (80% tariffs), coal (unofficial import bans), lobster, timber, and beef, affecting over $20 billion in trade. These restrictions operated through administrative measures, customs delays, and "quality concerns" rather than explicit government policies, providing plausible deniability while inflicting substantial economic pain. Australian wine exporters, who sent close to 40% of their exports to China, faced an existential crisis. Australia nonetheless maintained its policy positions, sought alternative markets, and deepened security alignment with the United States. The case demonstrates both the power of informal coercion, which imposes costs without triggering WTO dispute mechanisms or formal retaliation frameworks, and its limitations: targets may absorb pain rather than concede, and market diversification reduces future leverage.
 
-Government Tools Boxes detail CFIUS procedures, FIRRMA expansion, and industrial policy authorities (CHIPS Act, Defense Production Act Title III). Case studies examine the BIOSECURE Act's targeting of Chinese biotech firms and China's informal economic coercion against Australia (2020-2021). A Chinese Perspective Box explores Beijing's views on investment screening as discriminatory protectionism and industrial policy as legitimate development strategy.
+Government Tools Boxes detail CFIUS procedures, FIRRMA expansion, and industrial policy authorities (CHIPS Act, Defense Production Act Title III). A case study examines the BIOSECURE Act's targeting of Chinese biotech firms, and a dedicated section analyzes China's informal economic coercion against Australia (2020-2021). A Chinese Perspective Box explores Beijing's views on investment screening as discriminatory protectionism and industrial policy as legitimate development strategy.
 
 These themes reflect economic statecraft's evolution beyond traditional trade and financial tools. Capital flows, industrial capabilities, and market access have become contested domains, with implications extending well beyond bilateral U.S.-China competition to allied policy coordination, development finance, and the future shape of globalization.
 
@@ -153,8 +153,8 @@ FIRRMA's impact on Chinese investment was immediate and severe. Chinese direct i
 This represents a **95% decline from peak**, with 2024 investment returning to levels last seen in 2004, before China's emergence as major global investor (Rhodium Group 2024). The collapse extends across sectors but concentrates in technology:
 
 {% hint style="info" %}
-**The 95% Collapse in Chinese FDI**
-The near-total collapse of Chinese foreign direct investment in the United States, from $45.6 billion in 2016 to just $2.5 billion in 2024, is among the largest investment reversals in modern history. It was a policy outcome rather than a market correction. FIRRMA's expanded jurisdiction, mandatory declarations, and aggressive enforcement created an environment in which Chinese capital could no longer access American technology companies. The intended signal was clear: Chinese money would not be welcome in U.S. innovation ecosystems.
+**A Reversal Engineered, Not Suffered**
+What makes the collapse charted above remarkable is not only its depth but its deliberateness: this was decoupling by design, not a market cycle. FIRRMA's expanded jurisdiction, mandatory declarations, and aggressive enforcement made American technology companies effectively off-limits to Chinese capital, and the deterrent ran deeper than any single blocked deal. Anticipating rejection, many investors now abandon transactions before CFIUS ever rules—so even the stark headline figures understate how much capital simply never comes to the table.
 {% endhint %}
 
 **Technology sector**: Chinese VC investment in U.S. technology startups fell from $3.2 billion (2017) to less than $200 million (2024) (Rhodium Group 2024). Prominent Chinese VCs (Sequoia China, Hillhouse Capital) largely exited U.S. deals.
@@ -205,54 +205,27 @@ The EU implemented a framework for screening foreign direct investments in Octob
 
 **Germany and France: Strictest EU Regimes**
 
-Germany and France, as EU's largest economies and leading industrial powers, have implemented the EU's most comprehensive screening:
+Germany and France, the EU's largest economies and leading industrial powers, have built the bloc's most comprehensive screening regimes.
 
-**Germany**:
-- Foreign Trade and Payments Act amendments (2017, 2020, 2023) expanded screening beyond defense to critical infrastructure, media, healthcare, and food supply
-- Lowered thresholds for mandatory review from 25% to 10% ownership for critical sectors
-- Blocked Chinese acquisitions: Aixtron semiconductor equipment (2016), Leifeld Metal Spinning (machine tools, 2018), 50Hertz power grid operator (2018)
-- But approved: Chinese acquisitions such as Geely's minority stake in Daimler, robotics (Midea's purchase of Kuka), and deals in other sectors, demonstrating selective rather than blanket restrictions
+Germany has steadily widened its net. Successive amendments to the Foreign Trade and Payments Act (2017, 2020, and 2023) extended screening well beyond defense to reach critical infrastructure, media, healthcare, and food supply, and lowered the threshold for mandatory review from 25% to 10% ownership in critical sectors. Berlin has blocked Chinese acquisitions of the semiconductor-equipment maker Aixtron (2016), the machine-tool specialist Leifeld Metal Spinning (2018), and the power-grid operator 50Hertz (2018). Yet it has waved others through—Geely's minority stake in Daimler, Midea's purchase of the robotics firm Kuka, and deals across other sectors—demonstrating selective rather than blanket restriction.
 
-**France**:
-- 2019 PACTE law expanded sectors subject to screening to include AI, robotics, semiconductors, data storage, cybersecurity
-- Blocked Chinese acquisitions of Photonis (night vision technology, 2021), though later partially reversed under appeal
-- Maintains extensive screening but balances with economic openness; Chinese battery investments (Envision AESC) approved for electric vehicle supply chains
+France moved in parallel. Its 2019 PACTE law widened the screened sectors to take in AI, robotics, semiconductors, data storage, and cybersecurity. Paris blocked the Chinese acquisition of Photonis, a night-vision technology firm, in 2021, though that decision was later partially reversed on appeal. France otherwise balances extensive screening against a continued commitment to economic openness, having approved Chinese battery investments such as Envision AESC for its electric-vehicle supply chains.
 
 **United Kingdom: National Security and Investment Act (2022)**
 
-The UK's NSI Act, effective January 2022, represents post-Brexit recalibration of investment policy:
-
-- **Mandatory notification**: Acquisitions in 17 defined sensitive sectors (AI, quantum, semiconductors, nuclear, defense, communications) must be notified and cleared before completion once the buyer crosses 25%, 50%, or 75% of shares or voting rights (a lower 15% threshold floated in the original bill was dropped before enactment); acquisitions conferring "material influence" below those levels fall under the separate call-in power rather than mandatory notification
-- **Call-in powers**: Government can review any transaction in any sector if national security concerns exist, with retroactive reach up to 5 years
-- **Volume**: Over 1,800 notifications in first two years, with ~1% subject to detailed review and handful blocked
-- **Chinese focus**: Particularly scrutinizes Chinese investments in technology and infrastructure, though maintains openness to non-sensitive sectors
+The UK's NSI Act, effective January 2022, represents a post-Brexit recalibration of investment policy. Acquisitions in 17 defined sensitive sectors—among them AI, quantum, semiconductors, nuclear, defense, and communications—must be notified and cleared before completion once the buyer crosses 25%, 50%, or 75% of shares or voting rights; a lower 15% threshold floated in the original bill was dropped before enactment, and acquisitions conferring "material influence" below those levels fall under a separate call-in power rather than mandatory notification. That call-in power lets the government review any transaction in any sector where national-security concerns arise, with retroactive reach of up to five years. In its first two years the regime drew over 1,800 notifications, of which roughly 1% went to detailed review and a handful were blocked; scrutiny falls particularly on Chinese investment in technology and infrastructure, even as Britain stays open to non-sensitive sectors.
 
 **Australia: FIRB and Critical Infrastructure**
 
-Australia, geographically proximate to China and economically dependent on Chinese trade, faces acute tensions between economic interests and security concerns. The Foreign Investment Review Board (FIRB):
-
-- 2021 reforms lowered thresholds for review, particularly for investments by foreign government entities (including SOEs)
-- Expanded definition of national security businesses to include critical infrastructure, defense, telecommunications, data
-- Critical Infrastructure Act (2021) grants government powers to direct operators of critical infrastructure (ports, energy, telecommunications, data centers) to mitigate security risks, even absent change of ownership
-- Chinese reaction: Accusations of discriminatory treatment, contributing to bilateral tensions examined in Section 4
+Australia, geographically close to China and economically dependent on Chinese trade, faces acute tension between economic interest and security. Working through the Foreign Investment Review Board (FIRB), its 2021 reforms lowered review thresholds—particularly for investments by foreign government entities, state-owned enterprises included—and broadened the definition of a national-security business to cover critical infrastructure, defense, telecommunications, and data. The Critical Infrastructure Act (2021) went further still, empowering the government to direct operators of ports, energy, telecommunications, and data centers to mitigate security risks even absent any change of ownership. Beijing decried the measures as discriminatory, a grievance that fed the broader bilateral tensions this chapter examines in its account of China's coercion campaign against Australia.
 
 **Japan: Strengthened FISC Reviews**
 
-Japan's Foreign Investment Screening Committee (FISC), operating under Foreign Exchange and Foreign Trade Act (FEFTA):
-
-- 2019 amendments expanded covered sectors from 12 to 20, including semiconductors, pharmaceuticals, software
-- Lowered notification threshold from 10% to 1% for sensitive sectors and foreign government-linked investors
-- Streamlined "pre-clearance" process for trusted investors from allied countries
-- Scrutinizes Chinese investments while facilitating Western capital, reflecting geopolitical alignment
+Japan screens through its Foreign Investment Screening Committee (FISC), operating under the Foreign Exchange and Foreign Trade Act (FEFTA). Amendments in 2019 expanded the covered sectors from 12 to 20—adding semiconductors, pharmaceuticals, and software—and sharply lowered the notification threshold from 10% to 1% for sensitive sectors and foreign-government-linked investors. A streamlined "pre-clearance" process eases the way for trusted investors from allied countries, so that Tokyo scrutinizes Chinese investment while facilitating Western capital, its screening tracking its geopolitical alignment.
 
 **South Korea: Balancing Act**
 
-South Korea faces particular difficulty balancing alliance with the United States against economic dependence on China (largest trading partner). Investment screening reflects this tension:
-
-- National Security Investigation Act covers acquisitions in defense, dual-use technologies, critical infrastructure
-- Applied selectively: blocks or mitigates concerning Chinese investments but avoids comprehensive restrictions
-- Samsung and SK Hynix exemptions from U.S. semiconductor equipment export controls (Chapter 4) create reciprocal pressure to avoid overly restrictive investment screening
-- Maintains substantially more open posture toward Chinese investment than U.S./Europe
+South Korea confronts the sharpest version of this dilemma, balancing its alliance with the United States against economic dependence on China, its largest trading partner. Its National Security Investigation Act covers acquisitions in defense, dual-use technologies, and critical infrastructure, but Seoul applies it selectively—blocking or mitigating the most concerning Chinese investments while stopping short of comprehensive restriction. The exemptions that Samsung and SK Hynix secured from U.S. semiconductor-equipment export controls (Chapter 4) create reciprocal pressure to avoid overly restrictive screening of its own, and Korea maintains a substantially more open posture toward Chinese investment than the United States or Europe.
 
 **Coordination Challenges**
 
@@ -427,15 +400,15 @@ State-owned enterprises (SOEs) and sovereign wealth funds (SWFs) function as ext
 
 ### Chinese SOEs: Scale and Strategic Role
 
-China's approximately 96 centrally-managed SOE groups under SASAC (combined assets over $12 trillion, millions of direct employees) span energy, telecommunications, banking, aerospace, shipping, and nuclear sectors. They operate under a **dual mandate**: commercial profitability and political objectives including industrial policy implementation, resource security, BRI infrastructure, and, when directed, economic coercion.
+China's roughly 96 centrally managed SOE groups under SASAC—with combined assets exceeding $12 trillion and millions of direct employees—span energy, telecommunications, banking, aerospace, shipping, and nuclear sectors. They answer to a dual mandate: commercial profitability on one hand, and political objectives on the other, from industrial-policy implementation and resource security to BRI infrastructure and, when Beijing directs it, economic coercion.
 
-**Resource acquisition** has been aggressive: CNOOC's attempted Unocal acquisition (withdrawn under Congressional pressure, 2005), PetroChina's global oil investments, ChemChina's $43 billion Syngenta purchase (2017), and extensive mining acquisitions across Latin America, Africa, and Australia for lithium, cobalt, and rare earths. **Technology acquisition** operates through joint venture requirements, state-backed global expansion (Huawei), and SOE partnerships with Western aerospace, rail, and manufacturing firms.
+Their pursuit of resources has been aggressive: CNOOC's attempted acquisition of Unocal, withdrawn under Congressional pressure in 2005; PetroChina's global oil investments; ChemChina's $43 billion purchase of Syngenta in 2017; and extensive mining acquisitions across Latin America, Africa, and Australia for lithium, cobalt, and rare earths. The pursuit of technology runs along a different track, working through joint-venture requirements, the state-backed global expansion of firms such as Huawei, and SOE partnerships with Western aerospace, rail, and manufacturing companies.
 
 ### Sovereign Wealth Funds and Western Responses
 
 Chinese SWFs, the China Investment Corporation (~$1.33 trillion AUM as of 2023), SAFE Investment Company ($1+ trillion), and the National Social Security Fund (~$415 billion), operate with less transparency than Norwegian or Singaporean counterparts, raising concerns about strategic motivations. CIC holds stakes in Blackstone, Morgan Stanley, and commodity firms, increasingly targeting technology and strategic sectors (Sovereign Wealth Fund Institute 2024; Bloomberg data).
 
-Western responses center on **reciprocity arguments** (if Chinese SOEs invest freely in Western markets while Chinese markets remain restricted, this creates asymmetric advantage), **investment screening** (CFIUS and allied mechanisms now target SOE investments with mandatory declarations and presumptions of government control), and **reform pressure** through multilateral institutions. China has consolidated and partially privatized some SOEs but retains strategic control over key sectors.
+Western responses have coalesced around three lines of argument. The first is reciprocity: if Chinese SOEs invest freely in Western markets while China's own markets remain restricted, the asymmetry hands Beijing an unearned advantage. The second is investment screening, as CFIUS and allied mechanisms increasingly single out SOE investments with mandatory declarations and a presumption of government control. The third is reform pressure applied through multilateral institutions. China, for its part, has consolidated and partially privatized some SOEs while retaining strategic control over the sectors it deems essential.
 
 The United States itself moved toward this instrument in 2025. On February 3, 2025, President Trump signed an executive order directing the Secretaries of the Treasury and Commerce to deliver, within 90 days, a plan to establish a U.S. sovereign wealth fund—an idea long associated with resource exporters and with the very Gulf and Asian states whose funds Washington had scrutinized (Executive Order, February 3, 2025). Proponents pitched it as a vehicle to monetize federal assets and pursue strategic investments; skeptics questioned what a chronic fiscal-deficit country would capitalize such a fund with, and noted the irony of the United States embracing a tool it had long treated as a marker of state capitalism. Coming months before the Intel equity stake, the proposal underscored how far the U.S. posture toward direct state ownership had shifted.
 
@@ -453,7 +426,7 @@ On April 19, 2020, Australian Foreign Minister Marise Payne called for an indepe
 
 - **Timing**: During peak of pandemic when China faced international criticism for initial cover-ups, silencing whistle-blowers (Dr. Li Wenliang), and delayed WHO notification
 - **Terminology**: "Weapons inspectors" language evoked Iraq WMD inspections, implying coercive intrusion
-- **Motives**: Australia had strengthened Five Eyes intelligence cooperation, banned Huawei from 5G networks (2018), and increased criticism of Chinese influence operations; COVID investigation seen as part of broader confrontational approach
+- **Motives**: Australia had strengthened Five Eyes intelligence cooperation, banned Huawei from 5G networks (August 2018), and increased criticism of Chinese influence operations; COVID investigation seen as part of broader confrontational approach
 
 **Chinese Official Responses**
 
@@ -512,7 +485,7 @@ Cumulative trade impact estimated $20+ billion in affected exports over 2020-202
 **No policy reversal**: Australia maintained its positions:
 - Continued calling for COVID-19 investigation
 - Upheld Huawei 5G ban
-- Strengthened foreign interference legislation targeting Chinese influence
+- Strengthened foreign interference legislation targeting Chinese influence, and tightened foreign investment review through the Foreign Relations Act (December 2020)
 - Deepened Five Eyes and Quad security cooperation
 - Announced AUKUS nuclear submarine partnership with U.S. and UK (September 2021)
 
@@ -686,7 +659,7 @@ The U.S. industrial policy toolkit for strategic competition combines several au
 
 ---
 
-## Case Study 1: BIOSECURE Act and Chinese Biotech
+## Case Study: BIOSECURE Act and Chinese Biotech
 
 **Background: Genomics and Pharmaceutical Dependencies**
 
@@ -781,14 +754,6 @@ BIOSECURE Act represents expansion of U.S.-China economic competition into healt
 - Future technology leadership (genomics, synthetic biology, CRISPR)
 
 The legislation demonstrates U.S. willingness to accept economic costs (delayed drug development, higher healthcare costs) for security and competitive objectives, consistent with broader strategic decoupling. Chinese firms face growing exclusion from Western markets, reinforcing Beijing's drive for technology self-reliance and alternative partnerships with developing countries.
-
----
-
-## Case Study 2: Australian Economic Coercion (2020-2024)
-
-China's campaign of economic pressure against Australia following Canberra's April 2020 call for an independent COVID-19 origins investigation represents one of the most comprehensive modern cases of informal economic coercion. The episode is analyzed in detail in Sections 4.4 and 4.5 above, which cover the full spectrum of Chinese restrictions (barley, wine, beef, coal, lobster, and other sectors), Australian economic impacts and policy responses, the gradual easing of restrictions in 2023-2024, and broader lessons about informal coercion mechanisms and middle power resilience.
-
-The case is particularly instructive for this chapter's themes because it illustrates how investment screening and industrial policy intersect with coercion dynamics. Australia's decision to exclude Huawei from its 5G network (August 2018) and to strengthen foreign investment review through the Foreign Relations Act (December 2020) were both triggers for and responses to Chinese economic pressure. The episode demonstrates that countries willing to absorb short-term economic costs, and capable of diversifying trade relationships, can resist coercive campaigns without policy capitulation.
 
 ---
 

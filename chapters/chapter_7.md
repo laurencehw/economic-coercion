@@ -306,7 +306,7 @@ Evidentiary standards are low (internal "administrative record," limited judicia
 
 OFAC manages sanctions flexibility through **general licenses** (authorizing categories of transactions without applications—humanitarian aid, personal remittances, diplomatic activities, telecommunications) and **specific licenses** (case-by-case approvals for compelling exceptions like medical treatment or contract wind-downs).
 
-U.S. financial institutions must screen all transactions against OFAC lists in real-time, immediately freeze designated parties' assets, and maintain comprehensive compliance programs (dedicated officers, training, audit, recordkeeping). Consequences of non-compliance are severe—BNP Paribas paid $8.9 billion, Standard Chartered $1.1 billion—which incentivizes over-compliance: banks routinely block transactions with even tenuous sanctions connections to avoid enforcement risk.
+U.S. financial institutions must screen all transactions against OFAC lists in real-time, immediately freeze designated parties' assets, and maintain comprehensive compliance programs (dedicated officers, training, audit, recordkeeping). The consequences of non-compliance are severe—the enforcement penalties detailed earlier—and drive the over-compliance ("de-risking") examined in this chapter's discussion of humanitarian exceptions below.
 
 ### Humanitarian Exceptions and Challenges
 
@@ -806,11 +806,7 @@ China frames its opposition to unilateral sanctions as defending multilateralism
 
 China systematically developing alternatives to U.S.-dominated financial systems:
 
-**Cross-Border Interbank Payment System (CIPS)**:
-- Launched 2015 to process RMB cross-border payments
-- 193 direct participants, 1,573 indirect participants (as of December 2025)
-- Annual throughput ~USD 24 trillion in 2024 (RMB 175 trillion), implying ~USD 95 billion per trading day assuming ~250 business days; ~1–2% of SWIFT cross-currency throughput, growing 40%+ year-on-year (CIPS Annual Report 2024)
-- Eventually aims for full independence from SWIFT messaging
+**Cross-Border Interbank Payment System (CIPS)**: China's RMB cross-border payments network, launched in 2015 and aiming eventually for full independence from SWIFT messaging; its scale, participant base, and volume are detailed in this chapter's earlier de-dollarization discussion.
 
 **Digital Yuan (e-CNY)**:
 - CBDC pilot since 2020; 260+ million users domestically
@@ -843,19 +839,9 @@ China's **Rules on Counteracting Unjustified Extra-territorial Application of Fo
 - Recovery of damages from entities complying with foreign sanctions
 - Retaliatory measures against foreign entities enforcing extraterritorial rules
 
-**Unreliable Entity List (不可靠实体清单, bù kě kào shítǐ qīngdān)**:
+**Unreliable Entity List (不可靠实体清单, bù kě kào shítǐ qīngdān)**: Announced in 2019 and implemented in 2021 as a mirror of the U.S. Entity List, it designates foreign entities "endangering China's sovereignty, security, development interests" and exposes them to restrictions on trade, investment, and entry into China. Its principal use is deterrent—raising the cost of foreign compliance with U.S. sanctions against Chinese firms—and Chapter 6 examines its design and application in detail.
 
-Announced 2019, implemented 2021 in response to U.S. Entity List targeting Chinese firms:
-- Designates foreign entities "endangering China's sovereignty, security, development interests"
-- Restrictions on trade, investment, entry into China
-- Threat to deter foreign compliance with U.S. sanctions against Chinese entities
-
-**Anti-Foreign Sanctions Law (反外国制裁法, fǎn wàiguó zhìcái fǎ)** (2021):
-
-Authorizes counter-measures against foreign sanctions:
-- Asset freezing of foreign individuals/entities imposing sanctions on China
-- Prohibition on Chinese persons/entities complying with foreign sanctions
-- Visa denials for foreign officials involved in sanctions
+**Anti-Foreign Sanctions Law (反外国制裁法, fǎn wàiguó zhìcái fǎ)** (2021): Authorizes counter-measures against foreign sanctions—asset freezes against the foreign individuals and entities that impose them, a prohibition on Chinese persons complying with them, and visa denials for the officials involved. Chapter 6 gives the fuller account; in the financial domain the statute's distinctive instrument is the asset freeze, a reciprocal blocking tool aimed at sanctioning parties.
 
 **Effectiveness Questions**: Chinese counter-measures face enforcement challenges. Foreign entities valuing U.S. market access more than Chinese market access will comply with U.S. sanctions despite Chinese legal prohibitions. Chinese laws assert sovereignty but cannot override economic reality—similar to EU Blocking Statute's limited effectiveness.
 

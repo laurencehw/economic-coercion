@@ -63,7 +63,7 @@ Every use of financial sanctions demonstrates dollar vulnerability, incentivizin
 **2. Alternative payment systems emerging**
 
 Technology enables competing infrastructure:
-- **CIPS** (China Cross-Border Interbank Payment System): Yuan-denominated payment system processing approximately $24 trillion annually (RMB 175 trillion in 2024), with 40-43% year-on-year growth; by December 2025, CIPS reported 193 direct and 1,573 indirect participants, though it still relies on SWIFT messaging for a substantial share of transactions
+- **CIPS** (China Cross-Border Interbank Payment System): a yuan-denominated alternative to SWIFT, clearing roughly $24 trillion in 2024 (RMB 175 trillion) and growing 40-43% year-on-year, though it still relies on SWIFT messaging for a substantial share of transactions — Chapter 7 details its participant network and throughput
 - **SPFS** (Russia System for Transfer of Financial Messages): Russian SWIFT alternative, limited international adoption but functional
 - **Cryptocurrency and stablecoins**: Decentralized alternatives avoiding state control, though volatile and limited in scale
 - **Central Bank Digital Currencies (CBDCs)**: Over 130 countries exploring or piloting, with China's e-CNY furthest advanced
@@ -165,23 +165,7 @@ Climate change is reshaping the conditions for economic coercion. It alters reso
 
 **The Green Transition's Material Requirements**
 
-Decarbonization requires massive increases in specific mineral production (IEA 2021):
-
-**Lithium** (EV batteries, grid storage):
-- Current production: ~180,000 tons/year (2023) (USGS Mineral Commodity Summaries 2024)
-- Required by 2050: 2-3 million tons/year (IEA 2023; IEA Net Zero Roadmap)
-- Major sources: Australia (50%), Chile (25%), China (15% production but 60% processing) (USGS 2024; Benchmark Mineral Intelligence 2024)
-
-**Cobalt** (battery cathodes):
-- Current: ~230,000 tons/year (2023) (USGS Mineral Commodity Summaries 2024; Cobalt Institute)
-- Required 2050: 500,000-700,000 tons (IEA 2023; IEA Net Zero Roadmap)
-- Sources: DRC (~74%), Russia/China (25% combined) (USGS 2024; cobalt production data)
-
-**Rare earths** (wind turbine magnets, EV motors):
-- Already stressed supply (Chapter 2, Chapter 9 rare earth case)
-- China: 85% of processing, 70% of mining
-
-**Nickel, copper, graphite, manganese**: All require 2-5x production increases
+Decarbonization demands massive increases in the production of a handful of specific minerals (IEA 2021). Lithium, the backbone of EV batteries and grid storage, ran at roughly 180,000 tons per year in 2023 (USGS Mineral Commodity Summaries 2024); reaching net zero implies 2 to 3 million tons per year by 2050 (IEA 2023; IEA Net Zero Roadmap). Its supply is geographically lopsided, with Australia mining about 50% and Chile 25%, while China accounts for only 15% of mining but fully 60% of processing (USGS 2024; Benchmark Mineral Intelligence 2024). Cobalt tells a similar story: battery cathodes drew on roughly 230,000 tons per year in 2023 (USGS Mineral Commodity Summaries 2024; Cobalt Institute), a figure that must climb to 500,000-700,000 tons by 2050 (IEA 2023; IEA Net Zero Roadmap), with the Democratic Republic of the Congo supplying about 74% and Russia and China another 25% combined (USGS 2024; cobalt production data). Rare earths—the magnets in wind turbines and EV motors—come from an already stressed supply chain in which China controls 85% of processing and 70% of mining (Chapter 2; the Chapter 9 rare-earth case). Nickel, copper, graphite, and manganese round out the list, each requiring two- to fivefold production increases.
 
 **New Dependencies Replace Old**
 
@@ -192,10 +176,7 @@ Figure 10.2 visualizes the relocation of strategic dependencies: legacy hydrocar
   <figcaption>Figure 10.2: From oil to minerals — the relocation of strategic dependencies in the energy transition.</figcaption>
 </figure>
 
-Transitioning from fossil fuels to renewables does not eliminate strategic dependencies; it relocates them, from oil producers to mineral processors:
-- **Geographic concentration**: Critical mineral processing even more concentrated than oil production (OPEC produced ~40% of oil; China processes 60-85% of key minerals)
-- **Refining chokepoints**: Mining dispersed globally but processing concentrated in China due to economies of scale, environmental externalization, integrated supply chains
-- **Technology dependencies**: Battery manufacturing, solar panel production, wind turbine assembly concentrated in China (60-80% global market share)
+Transitioning from fossil fuels to renewables does not eliminate strategic dependencies so much as relocate them, from oil producers to mineral processors, and the concentration is if anything more acute. Where OPEC produced roughly 40% of the world's oil, China processes 60 to 85% of the key minerals—a tighter chokepoint than the one that defined the twentieth century. Mining itself remains dispersed across the globe, but refining has pooled in China, drawn there by economies of scale, a willingness to externalize environmental costs, and tightly integrated supply chains. The same concentration extends downstream into manufacturing, with battery production, solar panels, and wind-turbine assembly all commanding a 60 to 80% Chinese share of the global market.
 
 {% hint style="warning" %}
 **From Oil to Minerals: A Relocation of Dependence**
@@ -204,13 +185,7 @@ The green energy transition does not end resource-based strategic vulnerabilitie
 
 **Strategic Implications**
 
-**1. China's structural advantage**: Controlling critical mineral processing provides leverage analogous to OPEC oil leverage (1970s). China can restrict exports (2010 rare earths precedent) or mandate downstream manufacturing (processing in China before export).
-
-**2. Western vulnerabilities**: U.S. and Europe dependent on Chinese supply chains for climate transition face trade-off: accelerate decarbonization (increasing Chinese dependence) or slow transition (missing climate targets, maintaining fossil fuel dependencies).
-
-**3. "Green OPEC" potential**: Countries with lithium, cobalt, nickel reserves (Chile, Argentina, Indonesia, DRC, Australia) could coordinate supply restrictions, extracting economic and political concessions.
-
-**4. Resource nationalism**: Developing countries increasingly demand local processing, technology transfer, equity stakes rather than accepting extraction-only arrangements. Bolivia, Chile, Argentina coordinate lithium strategies; Indonesia banned nickel ore exports forcing domestic processing.
+This relocation of dependence carries several strategic implications. China's grip on processing hands it leverage directly analogous to OPEC's oil leverage in the 1970s: it can restrict exports, as the 2010 rare-earth episode showed, or mandate that downstream manufacturing occur on Chinese soil before materials are allowed out. The United States and Europe, dependent on those supply chains for their own energy transitions, confront an awkward trade-off—accelerate decarbonization and deepen their reliance on China, or slow the transition and miss climate targets while remaining hooked on fossil fuels. Nor is the leverage China's alone. Resource-rich states holding lithium, cobalt, and nickel—Chile, Argentina, Indonesia, the DRC, and Australia—could in principle coordinate supply restrictions into a "green OPEC," extracting economic and political concessions. And a broader resource nationalism is already stirring, as developing countries increasingly demand local processing, technology transfer, and equity stakes rather than accepting extraction-only arrangements. Bolivia, Chile, and Argentina coordinate their lithium strategies, and Indonesia has banned nickel-ore exports outright to force domestic processing.
 
 **Mitigation Strategies**
 
@@ -220,20 +195,11 @@ Western nations are pursuing diversification through investments in alternative 
 
 **Projected Water Stress**
 
-By 2040-2050:
-- **5 billion people** (>50% of global population) projected to face water scarcity at least one month annually by 2050 (United Nations World Water Development Report 2023; World Resources Institute Aqueduct 2024)
-- **Transboundary river disputes**: Over 260 rivers cross international borders; water stress increases conflict risks
-- **Agricultural impacts**: Water scarcity reduces crop yields, threatening food security in water-stressed regions
+The picture for 2040-2050 is sobering. By 2050 some 5 billion people—more than half the global population—are projected to face water scarcity for at least one month a year (United Nations World Water Development Report 2023; World Resources Institute Aqueduct 2024). More than 260 rivers cross international borders, and as they run low the potential for transboundary disputes, and outright conflict, rises with the stress. Agriculture bears the brunt, since falling water availability cuts crop yields and threatens food security precisely in the regions least able to compensate.
 
 **Strategic Waterways and Leverage**
 
-**Upstream control provides coercive leverage**:
-
-- **Nile**: Ethiopia's Grand Ethiopian Renaissance Dam (GERD) gives upstream control over water flows to Egypt and Sudan (roughly 90% of Egypt's water comes from the Nile). Through a decade of construction Cairo warned that filling the reservoir could sharply cut its supply, and repeatedly hinted at military action. In the event, the dam completed its fifth and final reservoir filling in October 2024 and was inaugurated on September 9, 2025 without the catastrophic downstream shortfall Egypt had feared—Ethiopia filled gradually and largely during high-flow years, and no binding tripartite agreement was ever reached. The episode is now a case study in coercive leverage that was brandished but, in the end, not exercised: the capability is permanent, but Ethiopia declined to weaponize it, and the leverage now lies latent in reservoir-management decisions for decades to come.
-
-- **Mekong**: China's upstream dams control flow to Vietnam, Thailand, Laos, Cambodia. Chinese dam operations (water retention, sudden releases) cause downstream flooding, droughts. Potential coercive tool in regional disputes.
-
-- **Tigris-Euphrates**: Turkey controls flows to Syria and Iraq through dam construction. Used as leverage in past conflicts.
+Upstream control of a river confers coercive leverage over everyone downstream, and three basins illustrate the pattern. On the Nile, Ethiopia's Grand Ethiopian Renaissance Dam (GERD) gives Addis Ababa command over flows to Egypt and Sudan—and roughly 90% of Egypt's water comes from the Nile. Through a decade of construction Cairo warned that filling the reservoir could sharply cut its supply, and repeatedly hinted at military action. In the event, the dam completed its fifth and final reservoir filling in October 2024 and was inaugurated on September 9, 2025 without the catastrophic downstream shortfall Egypt had feared: Ethiopia filled gradually and largely during high-flow years, and no binding tripartite agreement was ever reached. The episode is now a case study in coercive leverage brandished but, in the end, not exercised—the capability is permanent, yet Ethiopia declined to weaponize it, and the leverage now lies latent in reservoir-management decisions for decades to come. On the Mekong, China's upstream dams govern flows to Vietnam, Thailand, Laos, and Cambodia; retention and sudden releases cause downstream flooding and drought, a standing coercive tool in regional disputes. And on the Tigris-Euphrates, Turkey's dam construction lets it regulate the water reaching Syria and Iraq, leverage it has used in past conflicts.
 
 {% hint style="danger" %}
 **Upstream Dam Leverage**
@@ -242,54 +208,23 @@ Water has no substitute, so a country controlling upstream flows holds substanti
 
 **Agricultural Dependencies**
 
-Water scarcity concentrates agricultural production in water-rich regions, creating food dependencies:
-
-**Grain exporters dominance**: U.S., Russia, Ukraine, Canada, Australia, Brazil, Argentina account for ~80% of wheat, corn, soy exports. Climate change may consolidate further (higher latitudes benefit from warming; tropical regions suffer).
-
-**Food import dependencies**: Middle East, North Africa, Sub-Saharan Africa increasingly import grain. Disruptions (Russia-Ukraine war, export restrictions) cause price spikes, political instability.
-
-**Coercive potential**: Grain exporters can restrict sales (Russia 2022 grain deal, U.S. 1980 grain embargo precedent) imposing costs on import-dependent countries.
+Water scarcity concentrates farming in water-rich regions, and that concentration breeds dependence. A short roster of exporters—the United States, Russia, Ukraine, Canada, Australia, Brazil, and Argentina—already accounts for roughly 80% of world wheat, corn, and soy exports, and climate change may consolidate their position further as higher latitudes benefit from warming while tropical regions suffer. On the other side of the ledger, the Middle East, North Africa, and Sub-Saharan Africa import ever more grain, so that any disruption—the Russia-Ukraine war, an export restriction—ripples outward as price spikes and political instability. The coercive potential is plain: grain exporters can restrict sales, as Russia did through the 2022 grain deal and as the United States attempted with its 1980 grain embargo, imposing real costs on import-dependent states.
 
 ### Climate-Driven Migration and Hybrid Coercion
 
 **Climate Migration Projections**
 
-World Bank estimates 216 million internal climate migrants by 2050 (baseline scenario, World Bank 2021) due to:
-- Sea level rise displacing coastal populations (Bangladesh, Pacific islands, coastal cities)
-- Agricultural failure in water-stressed, heat-affected regions
-- Extreme weather events (hurricanes, floods, droughts) increasing frequency/severity
-
-**Cross-border climate migration** could reach tens of millions, concentrated in:
-- Central America → United States
-- Sub-Saharan Africa → Europe
-- South Asia → Middle East, Southeast Asia
-- Southeast Asia → Australia
+The World Bank estimates 216 million internal climate migrants by 2050 under its baseline scenario (World Bank 2021), driven by sea-level rise that displaces coastal populations from Bangladesh to the Pacific islands to major coastal cities, by agricultural failure across water-stressed and heat-affected regions, and by extreme weather events—hurricanes, floods, droughts—growing in frequency and severity. Cross-border climate migration could add tens of millions more, concentrated along predictable corridors: from Central America toward the United States, from Sub-Saharan Africa toward Europe, from South Asia toward the Middle East and Southeast Asia, and from Southeast Asia toward Australia.
 
 **Weaponized Migration** (Chapter 9 analysis extended)
 
-Climate migration creates coercive opportunities:
-
-**1. Sending refugees**: States can facilitate or prevent refugee flows, using border control as leverage (Turkey-EU model applied to climate migrants).
-
-**2. Domestic backlash**: Large-scale migration provokes political instability in receiving countries (anti-immigrant populism, welfare costs, cultural tensions), weakening adversaries indirectly.
-
-**3. Demographic manipulation**: Directing refugee flows to specific regions alters demographics, creating ethnic tensions or political shifts.
-
-**4. Humanitarian blackmail**: Threatening to release refugee flows unless receiving economic concessions, policy changes.
-
-**Countermeasures**: Border security investments, regional burden-sharing agreements, addressing root causes (climate adaptation funding), managed migration systems.
+Extending the analysis of Chapter 9, climate migration opens several coercive opportunities. States can turn refugee flows on and off, using border control as leverage in the manner of the Turkey-EU model, now applied to climate migrants. Even without deliberate direction, large-scale migration can weaken an adversary indirectly, provoking anti-immigrant populism, welfare costs, and cultural tensions that destabilize receiving societies. Flows can also be steered: directing refugees toward specific regions alters local demographics and manufactures ethnic tension or political change. And the threat itself can be monetized as humanitarian blackmail—a promise to unleash refugee flows unless economic concessions or policy changes are forthcoming. The countermeasures are familiar if imperfect: investment in border security, regional burden-sharing agreements, managed migration systems, and spending on the root causes through climate-adaptation funding.
 
 ---
 
 ## Emerging Technologies and Strategic Competition
 
-Artificial intelligence, quantum computing, biotechnology, and space systems represent future technological frontiers where strategic competition will intensify. Unlike historical technology races (nuclear weapons, semiconductors) with relatively clear milestones and state-dominated development, emerging technologies feature:
-- **Diffuse development**: Private firms, universities, startups alongside government programs
-- **Dual-use applications**: Commercial and military uses intertwined
-- **Rapid evolution**: Faster innovation cycles than traditional hardware
-- **Global talent pools**: Success depends on attracting international scientists, engineers
-
-Economic coercion tools must adapt to control these technologies' strategic diffusion.
+Artificial intelligence, quantum computing, biotechnology, and space systems mark the technological frontiers where strategic competition will intensify. Unlike the historical technology races over nuclear weapons or semiconductors, with their relatively clear milestones and state-dominated development, these emerging fields share a set of features that make them harder to govern. Development is diffuse, spread across private firms, universities, and startups alongside government programs. Applications are dual-use, their commercial and military faces intertwined. Innovation cycles run faster than in traditional hardware. And success depends on global talent pools, on the ability to attract international scientists and engineers. Economic coercion tools must adapt to control the strategic diffusion of technologies built this way.
 
 ### Artificial Intelligence: The Defining Technology Competition
 
@@ -300,67 +235,28 @@ Economic coercion tools must adapt to control these technologies' strategic diff
 
 **AI Strategic Significance**
 
-AI applications span:
-- **Military**: Autonomous weapons, intelligence analysis, cyber operations, logistics optimization
-- **Economic**: Automation, productivity enhancement, new products/services
-- **Social control**: Surveillance, censorship, population monitoring, predictive policing
-
-AI dominance confers decisive advantages across military, economic, and social domains, making it central to U.S.-China competition (Miller 2022; National Intelligence Council 2021).
+Artificial intelligence reaches across every domain of competition. Militarily, it powers autonomous weapons, intelligence analysis, cyber operations, and logistics optimization. Economically, it drives automation, productivity gains, and entirely new products and services. And as an instrument of social control it enables surveillance, censorship, population monitoring, and predictive policing. Because dominance in AI confers decisive advantages across all three, it sits at the center of U.S.-China competition (Miller 2022; National Intelligence Council 2021).
 
 **AI Development Requirements**
 
-Success requires combining:
-
-**1. Talent**: AI researchers, engineers, data scientists
-- U.S. advantages: Top universities (Stanford, MIT, CMU, UC Berkeley), immigration attracting global talent, private sector dynamism (Google, Microsoft, Meta, OpenAI)
-- China advantages: Large domestic talent pool (more STEM graduates than U.S. + EU combined), government-directed recruitment, retaining domestic talent
-
-**2. Data**: Training large models requires massive datasets
-- China advantages: Population scale (1.4 billion), weak privacy protections enabling data collection, government access to private sector data
-- U.S. advantages: High-quality curated datasets, English-language internet dominance, commercial data from global user bases
-
-**3. Computing power**: Training frontier models requires thousands of high-end GPUs
-- U.S. advantages: Leading AI chip designs (Nvidia H100, AMD), semiconductor equipment export controls restrict Chinese access
-- China vulnerabilities: Dependent on imports for advanced chips, domestic alternatives (Huawei Ascend) lag performance, SMIC fabrication 2-3 generations behind TSMC/Samsung
+Leadership in AI requires assembling four ingredients—talent, data, computing power, and algorithms—and the two contenders hold different pieces. On talent, the researchers, engineers, and data scientists who build the models, the United States draws on top universities (Stanford, MIT, CMU, UC Berkeley), an immigration system that attracts global talent, and the dynamism of a private sector led by Google, Microsoft, Meta, and OpenAI; China counters with a vast domestic pool—more STEM graduates than the United States and EU combined—along with government-directed recruitment and growing success at retaining its own. On data, the fuel for training large models, China's advantages are structural: a population of 1.4 billion, weak privacy protections that ease collection, and government access to private-sector holdings; the United States offsets these with high-quality curated datasets, the dominance of the English-language internet, and commercial data drawn from global user bases. On computing power—the thousands of high-end GPUs that frontier training demands—the United States leads through chip design (Nvidia's H100, AMD) and wields semiconductor-equipment export controls to restrict Chinese access, while China remains dependent on imports, its domestic alternatives such as Huawei's Ascend lagging in performance and SMIC's fabrication running two to three generations behind TSMC and Samsung.
 
 {% hint style="info" %}
 **The Compute Chokepoint**
 AI development has a bottleneck that export controls can target: computing power. Training frontier AI models like GPT-4 requires thousands of cutting-edge GPUs that cost tens of millions of dollars. Nvidia's H100 chips, among the leading processors for AI training, are designed in the U.S. and manufactured in Taiwan with American equipment. By restricting these chips and the equipment to make them, the U.S. can directly constrain adversaries' AI capabilities. This compute chokepoint is currently the most effective lever for slowing Chinese AI development.
 {% endhint %}
 
-**4. Algorithms and models**: Neural network architectures, training techniques, foundation models
-- Diffuse globally: Research published openly, Chinese papers match or exceed U.S. volume
-- U.S. edge in frontier models (GPT-4, Claude, Gemini) but narrowing
+The fourth ingredient, the algorithms and models themselves—neural-network architectures, training techniques, foundation models—is the one that travels most freely. Research is published openly, and Chinese papers now match or exceed the United States in volume. The American edge survives at the frontier, in models such as GPT-4, Claude, and Gemini, but it is narrowing.
 
 **AI Export Controls and Coercion**
 
-U.S. semiconductor export controls evolved rapidly from 2022 to 2025, revealing the inherent tensions in using technology denial as a coercive instrument (see Chapter 4 for detailed analysis of these controls, including mechanisms, allied coordination, and Chinese countermeasures):
-- **October 2022-2024 (Biden era)**: Blanket restrictions on advanced AI chips (Nvidia A100/H100, AMD MI250), semiconductor manufacturing equipment, and U.S. persons supporting Chinese chip development. Progressive tightening closed loopholes (October 2023 updates banned "China-compliant" variants like the A800/H800).
-- **Early January 2025 (pre-inauguration)**: Outgoing Biden administration issued a global "AI Diffusion Rule" creating three-tier country licensing framework, an attempt to prevent third-country circumvention before the **January 20, 2025** transition.
-- **December 2024 (Biden, final salvo)**: BIS added roughly 140 entities—136 of them Chinese semiconductor firms and toolmakers—to the Entity List, tightened controls on high-bandwidth memory, and expanded the Foreign Direct Product Rule. This was the last major chip-control action of the Biden administration, not a Trump-era measure.
-- **2025 (Trump era)**: Rescinded the January 2025 AI Diffusion Rule (May 2025) and shifted to case-by-case, revenue-sharing licensing for advanced chips—most visibly the Nvidia H20, banned from China in April 2025 and then, in July 2025, permitted again under an arrangement channeling a share of the resulting revenue to the U.S. government. In September 2025 BIS issued the "Affiliates Rule" (the "50 percent rule"), automatically extending Entity List and Military End-User restrictions to any firm at least half-owned by a listed entity—a dramatic widening of coverage. In the October 2025 Trump-Xi truce that followed China's rare-earth escalation, Washington agreed to suspend the Affiliates Rule (BIS formally delayed it for one year on November 10, 2025) in exchange for Beijing pausing its rare-earth export controls—a vivid illustration of chokepoint leverage being traded rather than exercised.
+U.S. semiconductor export controls evolved rapidly between 2022 and 2025, and their swerves lay bare the tensions inherent in using technology denial as a coercive instrument (Chapter 4 supplies the detailed analysis of mechanisms, allied coordination, and Chinese countermeasures). Under the Biden administration, from October 2022 through 2024, Washington imposed blanket restrictions on advanced AI chips (Nvidia's A100 and H100, AMD's MI250), on semiconductor manufacturing equipment, and on U.S. persons supporting Chinese chip development, tightening progressively to close loopholes—October 2023 updates banned "China-compliant" variants such as the A800 and H800. The administration's final salvo came in December 2024, when BIS added roughly 140 entities—136 of them Chinese semiconductor firms and toolmakers—to the Entity List, tightened controls on high-bandwidth memory, and expanded the Foreign Direct Product Rule; this, not any Trump-era measure, was Biden's last major chip-control action. Days before leaving office, in early January 2025, the outgoing administration issued a global "AI Diffusion Rule" creating a three-tier country-licensing framework meant to prevent third-country circumvention before the January 20, 2025 transition. The Trump administration then reversed course, rescinding that diffusion rule in May 2025 and shifting to case-by-case, revenue-sharing licensing for advanced chips. The clearest case was the Nvidia H20, banned from China in April 2025 and then, in July 2025, permitted again under an arrangement that channeled a share of the resulting revenue to the U.S. government. In September 2025 BIS issued the "Affiliates Rule," or "50 percent rule," automatically extending Entity List and Military End-User restrictions to any firm at least half-owned by a listed entity—a dramatic widening of coverage. And in the October 2025 Trump-Xi truce that followed China's rare-earth escalation, Washington agreed to suspend that rule—BIS formally delayed it for one year on November 10, 2025—in exchange for Beijing pausing its own rare-earth export controls, a vivid illustration of chokepoint leverage traded rather than exercised.
 
-**Effectiveness**:
-- **Short-term degradation**: Chinese labs faced GPU shortages; training frontier models became more expensive and slower during the 2022-2024 restriction period
-- **Medium-term adaptation**: Chinese firms developed workarounds (smuggling, cloud computing access), and Huawei/SMIC pursued indigenous alternatives. The 2025 policy relaxation partly reflects recognition that blanket restrictions were driving innovation losses for American firms without permanently blocking Chinese progress.
-- **Long-term uncertainty**: Whether China achieves self-sufficiency or remains perpetually behind depends on semiconductor technology trajectory, Chinese state investment effectiveness, and whether U.S. policy oscillation between restriction and selective engagement undermines the credibility of export controls as a coercive tool
+The record on effectiveness is mixed across time horizons. In the short run the controls bit: during the 2022-2024 restriction period Chinese labs faced GPU shortages, and training frontier models grew more expensive and slower. Over the medium run adaptation set in—Chinese firms found workarounds through smuggling and cloud-computing access while Huawei and SMIC pushed indigenous alternatives—and the 2025 relaxation partly reflects a recognition that blanket restrictions were inflicting innovation losses on American firms without permanently blocking Chinese progress. The long run remains genuinely uncertain: whether China achieves self-sufficiency or stays perpetually behind depends on the trajectory of semiconductor technology, on how effectively Chinese state investment is spent, and on whether Washington's own oscillation between restriction and selective engagement corrodes the credibility of export controls as a coercive tool.
 
 **AI Governance Fragmentation**
 
-**Competing regulatory frameworks**:
-
-**U.S./Europe**: Emphasis on safety, ethics, transparency, preventing bias/misuse
-- EU AI Act: Risk-based regulation, high-risk applications face strict requirements
-- U.S. approach: Voluntary guidelines, sector-specific rules (healthcare, finance), national security restrictions
-
-**China**: Emphasis on state control, censorship, social stability
-- Regulations require algorithm disclosures to government, content monitoring, ideological alignment
-- State access to private sector AI systems, data
-
-**Divergent standards create**:
-- Incompatible systems (Chinese models comply with censorship, Western models prioritize openness)
-- Data flow restrictions (Chinese data localization, GDPR limiting transfers)
-- Talent flow impediments (security clearances, visa restrictions, exit controls)
+Competing regulatory frameworks are pulling the field apart. The United States and Europe emphasize safety, ethics, transparency, and the prevention of bias and misuse, though they pursue these differently: the EU's AI Act imposes risk-based regulation under which high-risk applications face strict requirements, while the American approach relies on voluntary guidelines, sector-specific rules in healthcare and finance, and national-security restrictions. China emphasizes instead state control, censorship, and social stability, requiring algorithm disclosures to the government, content monitoring, and ideological alignment, and reserving state access to private-sector AI systems and data. These divergent standards breed incompatible systems—Chinese models built to comply with censorship, Western models prizing openness—alongside data-flow restrictions running from Chinese data-localization rules to the GDPR's limits on transfers, and impediments to talent movement in the form of security clearances, visa restrictions, and exit controls.
 
 **Future AI Competition Scenarios**
 
@@ -380,40 +276,26 @@ Regulatory divergence, data localization, incompatible standards create separate
 
 **Quantum Computing Promise**
 
-Quantum computers exploiting quantum mechanics (superposition, entanglement) could:
-- **Break encryption**: Shor's algorithm threatens RSA, elliptic curve cryptography securing internet communications, financial systems, military networks
-- **Optimize complex systems**: Drug discovery, materials science, logistics, financial modeling
-- **Enhance sensors**: Quantum sensing for navigation, detection, imaging
+Quantum computers, exploiting the quantum-mechanical properties of superposition and entanglement, promise three broad capabilities. They could break encryption—Shor's algorithm threatens the RSA and elliptic-curve cryptography that secure internet communications, financial systems, and military networks. They could optimize complex systems, accelerating drug discovery, materials science, logistics, and financial modeling. And they could sharpen sensing, with quantum sensors enhancing navigation, detection, and imaging.
 
 **Current State (2025-26)**
 
-- **"Noisy intermediate-scale quantum" (NISQ)** devices with dozens to hundreds of qubits remain the norm, but 2024-2025 brought the field's most consequential milestone yet: error correction that improves as machines scale. In December 2024 Google's 105-qubit **Willow** chip demonstrated "below-threshold" error correction—adding qubits *reduced* the logical error rate rather than increasing it (published in *Nature*)—and in October 2025 Google reported a verifiable quantum-advantage result on the same platform.
-- **Rival architectures multiplied**: China's University of Science and Technology of China unveiled the 105-qubit **Zuchongzhi 3.0** superconducting processor in March 2025, benchmarked as a direct competitor to Willow, while Microsoft announced **Majorana 1** (February 2025), a small first-generation chip built on topological qubits and pitched as a path toward million-qubit scaling. None of these is yet a fault-tolerant, general-purpose machine.
-- **No cryptographically relevant quantum computer** exists; breaking RSA-2048 is still estimated to require millions of high-quality physical qubits, and credible timelines remain in the 2030s-2040s (highly uncertain). In anticipation, NIST finalized its first post-quantum cryptography standards (FIPS 203/204/205) in August 2024, and migration is now the near-term policy priority.
-- **U.S. leadership**: Google, IBM, Microsoft, Amazon, and IonQ quantum programs; national labs (Argonne, Oak Ridge). **China** sustains heavy state funding and holds a distinct edge in quantum communication (the Micius satellite, metropolitan quantum-key-distribution networks) even as the superconducting-computing race with the United States runs neck and neck.
+"Noisy intermediate-scale quantum" (NISQ) devices with dozens to hundreds of qubits remain the norm, but 2024-2025 delivered the field's most consequential milestone yet: error correction that improves as machines scale. In December 2024 Google's 105-qubit **Willow** chip demonstrated "below-threshold" error correction—adding qubits *reduced* the logical error rate rather than increasing it (published in *Nature*)—and in October 2025 Google reported a verifiable quantum-advantage result on the same platform. Rival architectures have multiplied around it. China's University of Science and Technology of China unveiled the 105-qubit **Zuchongzhi 3.0** superconducting processor in March 2025, benchmarked as a direct competitor to Willow, while Microsoft announced **Majorana 1** in February 2025, a small first-generation chip built on topological qubits and pitched as a path toward million-qubit scaling—though none of these is yet a fault-tolerant, general-purpose machine. Nor is any of them cryptographically relevant: breaking RSA-2048 is still estimated to require millions of high-quality physical qubits, and credible timelines remain in the 2030s-2040s and highly uncertain. In anticipation, NIST finalized its first post-quantum cryptography standards (FIPS 203/204/205) in August 2024, and migration to them is now the near-term policy priority. Leadership today rests with the United States—the quantum programs of Google, IBM, Microsoft, Amazon, and IonQ, backed by national labs at Argonne and Oak Ridge—but China sustains heavy state funding and holds a distinct edge in quantum communication, from the Micius satellite to metropolitan quantum-key-distribution networks, even as the superconducting-computing race between the two runs neck and neck.
 
 **Quantum Competition Dynamics**
 
-**1. Long timelines reduce urgency**: Unlike AI (deployed now), quantum's transformative applications remain years/decades away, limiting immediate competition intensity.
-
-**2. "Quantum surprise" risk**: Breakthrough could suddenly make adversary communications readable, financial systems vulnerable. Post-quantum cryptography transition required before quantum computers achieve RSA-breaking capability (NIST standardizing post-quantum algorithms).
+The competitive dynamics differ from AI's in two respects. First, long timelines temper urgency: where AI is deployed now, quantum's transformative applications remain years or decades away, which limits the immediate intensity of the race. Second, and cutting the other way, is the risk of a "quantum surprise"—a breakthrough that abruptly renders an adversary's communications readable and its financial systems vulnerable. Guarding against it requires completing the transition to post-quantum cryptography before quantum computers reach RSA-breaking capability, which is why NIST has been standardizing post-quantum algorithms.
 
 {% hint style="warning" %}
 **The Cryptography Threat**
 Once cryptographically relevant quantum computers arrive, they will break the encryption protecting virtually all digital communications, financial transactions, and classified information. Adversaries are already harvesting encrypted communications today with the intention of decrypting them once quantum computers mature, a strategy called "harvest now, decrypt later." The transition to post-quantum cryptography must happen before quantum computers achieve this capability, but the timeline is uncertain (estimates range from 2030s to 2050s). The country that achieves quantum supremacy first gains a potentially decisive intelligence advantage.
 {% endhint %}
 
-**3. Quantum communication and sensing**: Near-term applications (quantum key distribution for secure communications, quantum sensors) deployable sooner than general quantum computing.
+A third dynamic works on a shorter clock: quantum communication and sensing. Quantum key distribution for secure communications and quantum sensors are near-term applications, deployable well before general-purpose quantum computing arrives.
 
 **Export Controls Challenges**
 
-Quantum technology diffuses globally:
-- Fundamental research published openly
-- International collaborations common
-- Specialized equipment requirements (dilution refrigerators, control systems) but not as concentrated as semiconductor manufacturing
-- Software and algorithms transferable instantly
-
-Controlling quantum technology harder than semiconductors due to diffusion, but U.S. restricts quantum computing exports to China, monitors research collaborations.
+Quantum technology diffuses globally in ways that frustrate control. Fundamental research is published openly, international collaborations are common, and while the field does require specialized equipment such as dilution refrigerators and control systems, that hardware is nowhere near as concentrated as semiconductor manufacturing—and the software and algorithms transfer instantly. Controlling quantum technology is therefore harder than controlling semiconductors, though the United States still restricts quantum-computing exports to China and monitors research collaborations.
 
 ### Biotechnology and Synthetic Biology
 
@@ -421,57 +303,25 @@ Controlling quantum technology harder than semiconductors due to diffusion, but 
 
 Chapter 8's analysis of the BIOSECURE Act—enacted as part of the FY2026 National Defense Authorization Act signed on December 18, 2025, with its procurement prohibitions phasing in through 2026-2027 as the government designates "biotechnology companies of concern"—demonstrated how biotech competition has become a domain for economic coercion. Future developments intensify strategic significance:
 
-**CRISPR gene editing**: Potential applications include:
-- Agricultural enhancement (drought-resistant crops, higher yields)
-- Medical treatments (curing genetic diseases, personalized medicine)
-- Bioweapons (engineered pathogens, targeting specific populations, Biological Weapons Convention (BWC) concerns)
-
-**Synthetic biology**: Designing organisms from scratch enables:
-- Biomanufacturing (producing chemicals, materials, pharmaceuticals through engineered organisms)
-- Environmental applications (pollution remediation, carbon capture)
-- Dual-use risks (creating dangerous pathogens de novo)
-
-**Personalized medicine and genomics**: Collecting population genetic data enables:
-- Tailored treatments based on individual genetics
-- Population health insights
-- Intelligence applications (identifying individuals, assessing health vulnerabilities)
+CRISPR gene editing points in several directions at once: toward agricultural enhancement in the form of drought-resistant crops and higher yields, toward medical treatments that could cure genetic diseases and enable personalized medicine, and toward bioweapons—engineered pathogens, potentially targeting specific populations, that raise Biological Weapons Convention (BWC) concerns. Synthetic biology, the design of organisms from scratch, similarly enables biomanufacturing of chemicals, materials, and pharmaceuticals through engineered organisms, environmental applications such as pollution remediation and carbon capture, and the dual-use risk of creating dangerous pathogens de novo. Personalized medicine and genomics, built on the collection of population genetic data, promise tailored treatments keyed to individual genetics and broad population-health insights—but also intelligence applications, from identifying individuals to assessing their health vulnerabilities.
 
 **Biotech Competition and Coercion**
 
-**Genetic data as strategic asset**: Countries protecting population genetic data as national resource (Chapter 5 data sovereignty, BIOSECURE Act context).
-
-**Pharmaceutical dependencies**: Reliance on foreign biotech firms (Chinese biotech in U.S., U.S. pharma in China) creates mutual vulnerabilities exploitable during crises.
-
-**Biosecurity risks**: Gain-of-function research, synthetic biology capabilities create accidental or deliberate pathogen release risks; strategic competition must balance innovation against catastrophic risks.
-
-**Export controls and talent restrictions**: The BIOSECURE Act established the legal framework; its designation-based model can expand administratively, restricting collaborations, limiting talent flows, and controlling biological materials/reagents trade.
+Several channels turn biotechnology into a domain of competition and coercion. Genetic data is increasingly treated as a strategic asset, with states guarding population genetic data as a national resource (the data-sovereignty logic of Chapter 5, now in a BIOSECURE Act context). Pharmaceutical dependencies cut both ways—Chinese biotech operating in the United States, American pharma in China—creating mutual vulnerabilities that either side could exploit in a crisis. Biosecurity risks shadow the whole field: gain-of-function research and synthetic-biology capabilities carry the danger of accidental or deliberate pathogen release, so strategic competition must be balanced against catastrophic risk. And the tools of restriction are already taking shape. The BIOSECURE Act established the legal framework, and its designation-based model can expand administratively to restrict collaborations, limit talent flows, and control trade in biological materials and reagents.
 
 ### Space Systems: The High Frontier
 
 **Space as Strategic Domain**
 
-Space systems provide:
-- **Communications**: Satellite networks (Starlink, Chinese equivalents) enable global connectivity
-- **Navigation**: GPS, BeiDou, Galileo, GLONASS enable military precision, commercial navigation
-- **Intelligence/surveillance**: Spy satellites, earth observation
-- **Missile warning**: Early warning systems detect launches
+Space systems underpin four strategic functions. They carry communications, with satellite networks—Starlink and its Chinese equivalents—supplying global connectivity. They provide navigation through GPS, BeiDou, Galileo, and GLONASS, enabling both military precision and commercial positioning. They deliver intelligence and surveillance via spy satellites and earth observation. And they furnish missile warning, with early-warning systems detecting launches.
 
 **Space Competition Intensifying**
 
-- **U.S. dominance challenged**: Historically unquestioned U.S. space leadership (NASA, commercial sector) now faces Chinese competition
-- **China's rapid advancement**: Space station (Tiangong), lunar missions (Chang'e), Mars rover (Zhurong), growing launch capabilities
-- **Commercialization**: SpaceX, Blue Origin, proliferation of space startups changing economics
-- **Military applications**: Anti-satellite weapons, space-based weapons potential, counterspace capabilities
+Competition in this domain is sharpening. American leadership, once unquestioned across NASA and the commercial sector, now faces determined Chinese competition. China has advanced rapidly—the Tiangong space station, the Chang'e lunar missions, the Zhurong Mars rover, and steadily growing launch capacity. Commercialization is rewriting the economics as SpaceX, Blue Origin, and a proliferation of space startups drive down costs. And the military dimension looms throughout, in anti-satellite weapons, the potential for space-based weapons, and counterspace capabilities more broadly.
 
 **Economic Coercion Through Space**
 
-**1. Communication denial**: Disrupting adversary satellite communications during conflict
-
-**2. Navigation jamming**: GPS jamming/spoofing degrades precision weapons, civilian navigation
-
-**3. Technology export controls**: U.S. restricts space technology exports, limiting adversaries' access to satellite components, launch systems
-
-**4. Launch service denial**: Refusing to launch adversary satellites (though Chinese, Russian, European launch capacity reduces leverage)
+Space affords its own instruments of economic coercion. Communications can be denied, with adversary satellite links disrupted during conflict. Navigation can be jammed, GPS jamming and spoofing degrading both precision weapons and civilian positioning. Technology export controls let the United States restrict space-technology exports, limiting rivals' access to satellite components and launch systems. And launch services can be withheld, with providers refusing to loft an adversary's satellites—though Chinese, Russian, and European launch capacity blunts that leverage.
 
 ---
 
@@ -483,103 +333,36 @@ Future economic coercion effectiveness depends on alliance structures and instit
 
 **G7 and Transatlantic Partnership**
 
-U.S., Canada, UK, France, Germany, Italy, Japan coordinate economic policies through:
-- **G7 summits**: Regular leader-level coordination on sanctions, trade, technology
-- **U.S.-EU Trade and Technology Council (TTC)**: Coordinates semiconductor policy, AI governance, export controls, investment screening
-- **NATO**: Military alliance expanding to economic security (supply chain resilience, critical infrastructure protection)
+The United States, Canada, the United Kingdom, France, Germany, Italy, and Japan coordinate economic policy through several channels. G7 summits provide regular leader-level coordination on sanctions, trade, and technology. The U.S.-EU Trade and Technology Council (TTC) aligns semiconductor policy, AI governance, export controls, and investment screening. And NATO, a military alliance at its core, has expanded into economic security, taking up supply-chain resilience and critical-infrastructure protection.
 
-**Strengths**:
-- **Economic weight**: G7 represents ~45% of global GDP, ~60% including broader allies (Australia, South Korea, etc.)
-- **Technology leadership**: Controls most advanced semiconductors, AI, biotechnology, aerospace
-- **Financial dominance**: Dollar, euro, yen collectively dominate global finance; SWIFT, correspondent banking controlled by Western institutions
-- **Institutional depth**: Decades of cooperation, established mechanisms, interoperable systems
+The bloc's strengths are considerable. Its economic weight is formidable—the G7 accounts for roughly 45% of global GDP, and about 60% once broader allies such as Australia and South Korea are included. It holds technology leadership, controlling the most advanced semiconductors, AI, biotechnology, and aerospace. It enjoys financial dominance, since the dollar, euro, and yen collectively dominate global finance and SWIFT and correspondent banking sit in Western institutional hands. And it possesses institutional depth: decades of cooperation, established mechanisms, and interoperable systems.
 
-**Strains and Challenges**:
+**Strains and Challenges**
 
-**1. Cost distribution disputes**: Burden-sharing tensions (defense spending, sanctions costs) create friction. U.S. frustration with European free-riding; Europeans resist U.S. extraterritoriality.
-
-**2. China exposure asymmetries**: European firms more dependent on Chinese market than U.S. (Germany exports $100B+ to China); Asian allies (South Korea, Japan) face acute trade-offs between U.S. alliance and Chinese economic ties.
+Yet the coordination is strained in several ways. The first is cost distribution: burden-sharing tensions over defense spending and sanctions costs generate steady friction, with American frustration at European free-riding meeting European resistance to U.S. extraterritoriality. The second is asymmetric exposure to China. European firms depend on the Chinese market more heavily than American ones—Germany alone exports over $100 billion to China—and Asian allies such as South Korea and Japan face acute trade-offs between their U.S. alliance and their Chinese economic ties.
 
 {% hint style="info" %}
 **Divergent Threat Perceptions**
 Alliance coordination on China faces a fundamental asymmetry: the U.S. sees China as an existential threat to its global position, while European allies see China primarily as an economic partner with some security concerns. Germany exports over $100 billion annually to China; for German industry, "decoupling" means lost profits and jobs. South Korea and Japan face even sharper trade-offs, geographically closer to China and more economically intertwined, yet depending on U.S. security guarantees. Maintaining alliance cohesion requires acknowledging these different perspectives rather than demanding uniform alignment with U.S. priorities.
 {% endhint %}
 
-**3. Policy divergences**:
-- Climate policy (U.S. lagged Europe until IRA; divergent carbon pricing approaches)
-- Technology regulation (EU tougher on U.S. tech firms than Washington)
-- China strategy (European strategic autonomy aspirations vs. U.S. containment)
-
-**4. Domestic politics**: Populist movements, polarization create alliance skepticism. Trump presidency demonstrated alliance fragility.
-
-**Sustainability**: Western coordination likely persists but faces periodic crises requiring diplomatic repair. Effectiveness depends on managing frictions, demonstrating value to skeptical publics, and adapting to shifting global power.
+Policy divergences compound these strains: on climate, where the United States lagged Europe until the IRA and the two still differ on carbon pricing; on technology regulation, where the EU comes down harder on American tech firms than Washington does; and on China strategy, where European aspirations to strategic autonomy sit uneasily beside American containment. Domestic politics adds a further solvent, as populist movements and polarization breed alliance skepticism—the Trump presidency having demonstrated just how fragile these commitments can be. On balance, Western coordination is likely to persist but will weather periodic crises requiring diplomatic repair; its effectiveness will depend on managing frictions, demonstrating value to skeptical publics, and adapting to a shifting distribution of global power.
 
 ### Alternative Coalitions: BRICS+ and the Global South
 
 **BRICS Expansion (2024+)**
 
-Original BRICS (Brazil, Russia, India, China, South Africa) expanded 2024 to include:
-- Egypt, Ethiopia, Iran, Saudi Arabia, UAE (confirmed)
-- ~40 additional countries expressing interest
+The original BRICS—Brazil, Russia, India, China, and South Africa—expanded in 2024 to bring in Egypt, Ethiopia, Iran, Saudi Arabia, and the UAE, with some 40 additional countries expressing interest. The enlarged grouping is substantial on paper, representing roughly 37% of global GDP in PPP terms, about 45% of world population, and around 25% of global trade, and counting among its members major exporters of oil, minerals, and agricultural products. Its institutional scaffolding is growing too: the New Development Bank (NDB) offers an alternative to the World Bank with roughly $30 billion in project funding, member states are exploring a common currency or local-currency settlement mechanisms, and political coordination increasingly runs to joint statements challenging Western dominance and promoting multipolarity.
 
-**BRICS+ represents**:
-- ~37% of global GDP (PPP terms)
-- ~45% of world population
-- ~25% of global trade
-- Major commodity exporters (oil, minerals, agricultural products)
-
-**Institutional developments**:
-- **New Development Bank (NDB)**: Alternative to World Bank, ~$30B in project funding
-- **BRICS payment systems**: Exploring common currency or local currency settlement mechanisms
-- **Political coordination**: Joint statements challenging Western dominance, promoting multipolarity
-
-**Limitations**:
-
-**1. Internal divisions**: India-China border tensions, Saudi-Iran rivalries, Brazil-Russia ideological differences limit cohesion. Unlike G7's shared values, BRICS unites primarily around anti-Western positioning.
-
-**2. Economic asymmetries**: China accounts for ~70% of BRICS+ GDP; power imbalances create resentment (concern about Chinese domination).
-
-**3. Institutional immaturity**: NDB, payment systems remain limited compared to IMF, World Bank, SWIFT's scale and depth.
-
-**4. No security dimension**: Unlike NATO, BRICS lacks collective defense, mutual support obligations.
-
-**Trajectory**: BRICS+ likely expands as symbolic alternative to Western dominance, provides limited institutional infrastructure (development finance, trade settlement), but doesn't replace G7/NATO as primary economic-security coordination mechanism. Effectiveness depends on:
-- Managing internal tensions (particularly India-China)
-- Building institutional capacity beyond rhetoric
-- Offering tangible benefits to members (cheaper finance, favorable trade terms, diplomatic support)
+The grouping's limitations are equally real. Internal divisions run deep—India-China border tensions, Saudi-Iran rivalries, Brazil-Russia ideological differences—and unlike the G7, bound by shared values, BRICS coheres mainly around anti-Western positioning. Economic asymmetries strain it further: China accounts for roughly 70% of BRICS+ GDP, and the resulting power imbalance breeds resentment and unease about Chinese domination. Its institutions remain immature, the NDB and nascent payment systems dwarfed by the scale and depth of the IMF, World Bank, and SWIFT. And it has no security dimension at all—unlike NATO, BRICS carries no collective-defense or mutual-support obligations. On its likely trajectory, then, BRICS+ expands as a symbolic alternative to Western dominance and supplies a limited institutional infrastructure for development finance and trade settlement, but it does not replace the G7 and NATO as the primary mechanism of economic-security coordination. Its effectiveness will turn on whether it can manage internal tensions—above all between India and China—build institutional capacity beyond rhetoric, and offer members tangible benefits such as cheaper finance, favorable trade terms, and diplomatic support.
 
 ### Global South: Non-Alignment 2.0
 
 **Re-emergence of Non-Alignment**
 
-Cold War non-aligned movement resurrected as Global South countries resist pressure to choose between U.S. and China:
+The Cold War's non-aligned movement has been resurrected as Global South countries resist pressure to choose between the United States and China. Their motivations blend economic pragmatism—trading with China and the U.S. and Europe alike, accepting investment from every source—with sovereignty concerns rooted in resentment of great-power coercion, whether U.S. sanctions or Chinese economic pressure, and with development priorities under which climate finance, technology transfer, and market access matter more than geopolitical alignment. The key players are large emerging economies with global connections: Indonesia, Mexico, Turkey, Saudi Arabia, the UAE, Nigeria, Vietnam, and Thailand. Their strategies are recognizable enough—hedging, by maintaining security ties with the United States through arms sales and training while expanding economic links with China; playing both sides, extracting concessions from two powers competing for influence; and a kind of institutional entrepreneurship that builds up regional bodies such as ASEAN, the African Union, and the Arab League as alternative power centers.
 
-**Motivations**:
-- **Economic pragmatism**: Trade with both China and U.S./Europe; accepting investment from all sources
-- **Sovereignty concerns**: Resent great power coercion (U.S. sanctions, Chinese economic pressure)
-- **Development priorities**: Climate finance, technology transfer, market access matter more than geopolitical alignment
-
-**Key players**: Indonesia, Mexico, Turkey, Saudi Arabia, UAE, Nigeria, Vietnam, Thailand, large emerging economies with global connections
-
-**Strategies**:
-- **Hedging**: Maintain security ties with U.S. (arms sales, training) while expanding economic links with China
-- **Playing both sides**: Extract concessions from U.S. and China competing for influence
-- **Institutional entrepreneurship**: Building regional institutions (ASEAN, African Union, Arab League) as alternative power centers
-
-**Implications for Economic Coercion**:
-
-**1. Sanctions circumvention**: Neutral countries facilitate trade with sanctioned parties (Russia exports via Turkey, UAE; Chinese goods rerouted through third countries).
-
-**2. Technology transfer**: Countries refusing to enforce Western export controls enable technology leakage.
-
-**3. Diplomatic isolation failures**: U.N. votes, international forums show Global South refusing to isolate Russia, China despite Western pressure.
-
-**4. Alternative markets**: Sanctioned countries find buyers/sellers in non-aligned world, limiting sanctions effectiveness.
-
-**Future trajectory**: Global South non-alignment likely strengthens as multipolar order emerges. Economic coercion requiring universal participation increasingly difficult; effective sanctions must either:
-- Secure Global South cooperation through inducements (development finance, market access, technology transfer)
-- Accept lower effectiveness with partial participation
-- Target leverage points (e.g., financial sector where Western control remains) rather than comprehensive trade restrictions
+For economic coercion, the implications are direct. Neutral countries facilitate sanctions circumvention, with Russian exports moving via Turkey and the UAE and Chinese goods rerouted through third countries. They enable technology leakage by declining to enforce Western export controls. They blunt attempts at diplomatic isolation, as U.N. votes and international forums repeatedly show the Global South refusing to isolate Russia or China under Western pressure. And they provide alternative markets in which sanctioned states find willing buyers and sellers, limiting the bite of any restriction. On its likely trajectory this non-alignment strengthens as a multipolar order emerges, making coercion that depends on universal participation increasingly hard to sustain. Effective sanctions will therefore have to do one of three things: secure Global South cooperation through inducements such as development finance, market access, and technology transfer; accept lower effectiveness with only partial participation; or target the leverage points, above all the financial sector where Western control endures, rather than reaching for comprehensive trade restrictions.
 
 ---
 
@@ -879,7 +662,7 @@ Understanding Chinese perspectives doesn't require accepting their validity but 
 
 ## Key Insights
 
-- **Each instrument of economic statecraft, once used, accelerates adversaries' efforts to neutralize it:** Financial sanctions drive de-dollarization, export controls spur indigenous innovation, and investment screening fragments the global markets that enriched Western economies. The central paradox is that the tools of strategic competition tend to weaken the integrated system that made the West powerful enough to wield them.
+- **Each instrument of economic statecraft, once used, accelerates adversaries' efforts to neutralize it:** sanctions drive de-dollarization, export controls spur indigenous innovation, investment screening fragments integrated markets. This is the use-it-and-lose-it paradox, developed in full in the Conclusion and traced across every chapter.
 
 - **Current trends point toward partial fragmentation rather than complete decoupling or renewed integration:** Full decoupling is economically prohibitive (U.S.-China goods trade still reached $414.7 billion in 2025), but selective decoupling accelerates in semiconductors, AI, biotechnology, and critical minerals. The result is a "partially fragmented globalization" where strategic domains decouple while commodity trade and consumer goods remain integrated.
 
