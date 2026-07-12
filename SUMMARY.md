@@ -1,5 +1,7 @@
 # Table of Contents
 
+* [Economic Coercion in the 21st Century](INTRODUCTION.md)
+
 ## Front Matter
 
 * [Copyright & AI Disclosure](front_matter/title_copyright.md)
