@@ -1,3 +1,8 @@
+---
+title: Economic Coercion in the 21st Century
+description: "Tools, Strategies, and Great Power Competition — a textbook on economic coercion and US-China strategic competition"
+---
+
 # Economic Coercion in the 21st Century
 
 **Tools, Strategies, and Great Power Competition**
@@ -39,4 +44,4 @@ Each chapter includes:
 
 ---
 
-*Last Updated: April 2026*
+*Last Updated: July 2026*
