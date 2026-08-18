@@ -16,6 +16,11 @@ for f in R/figures/*.R; do Rscript "$f"; done
 Rscript R/figures/fig_01_02_us_china_trade.R
 ```
 
+```bash
+# Run the manuscript QA checks (figure alignment, share-table sums, link integrity)
+python3 scripts/qa_manuscript.py
+```
+
 **Prerequisites:** R, Pandoc, LaTeX.
 
 R packages, by what they unlock (49 of the 61 figure scripts build with the first

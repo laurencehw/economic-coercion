@@ -330,7 +330,7 @@ Projecting 25 years into an uncertain future requires scenario analysis: develop
 - **Managed competition**: Rules-based rivalry, crisis management mechanisms, limited escalation
 - **Intense confrontation**: Economic warfare, comprehensive coercion, crisis-prone, risk of military conflict
 
-Combining these dimensions generates four scenarios. Figure 10.4 places each scenario on the two-dimensional uncertainty space and summarizes the bilateral trade, reserve-currency shares, and alliance configurations associated with each outcome.
+Combining these dimensions generates four scenarios. Figure 10.5 places each scenario on the two-dimensional uncertainty space and summarizes the bilateral trade, reserve-currency shares, and alliance configurations associated with each outcome.
 
 <figure class="book-figure">
   <img src="../figures/fig_10_05_decoupling_scenarios.png" alt="Four-scenario matrix mapping economic integration against competition intensity, with probability weights and key indicators for each future.">
