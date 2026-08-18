@@ -110,9 +110,9 @@ panel_a <- ggplot(tariff_data, aes(x = Year, y = Average_Tariff_Rate, fill = Per
 # ============================================================================
 
 panel_b <- ggplot(tariff_data, aes(x = Year, y = Total_Goods_Under_Tariffs_Billions)) +
-  geom_area(fill = econ_colors["USA"], alpha = 0.4) +
-  geom_line(color = econ_colors["USA"], linewidth = 1.5) +
-  geom_point(size = 3, color = econ_colors["USA"]) +
+  geom_area(fill = econ_colors[["USA"]], alpha = 0.4) +
+  geom_line(color = econ_colors[["USA"]], linewidth = 1.5) +
+  geom_point(size = 3, color = econ_colors[["USA"]]) +
   geom_text(
     aes(label = ifelse(Total_Goods_Under_Tariffs_Billions > 0,
                        paste0("$", Total_Goods_Under_Tariffs_Billions, "B"),
@@ -120,7 +120,7 @@ panel_b <- ggplot(tariff_data, aes(x = Year, y = Total_Goods_Under_Tariffs_Billi
     vjust = -1,
     fontface = "bold",
     size = 3,
-    color = econ_colors["USA"]
+    color = econ_colors[["USA"]]
   ) +
   scale_y_continuous(
     labels = label_dollar(suffix = "B"),

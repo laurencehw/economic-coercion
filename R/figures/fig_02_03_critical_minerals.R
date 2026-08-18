@@ -46,8 +46,8 @@ main_plot <- ggplot(minerals_long, aes(x = Share_Pct, y = Mineral, fill = Activi
     expand = c(0, 0)
   ) +
   scale_fill_manual(
-    values = c("Processing" = econ_colors["China"],
-               "Mining" = econ_colors["USA"]),
+    values = c("Processing" = econ_colors[["China"]],
+               "Mining" = econ_colors[["USA"]]),
     labels = c("Processing" = "Processing Share",
                "Mining" = "Mining Share")
   ) +
@@ -83,7 +83,7 @@ main_plot <- ggplot(minerals_long, aes(x = Share_Pct, y = Mineral, fill = Activi
 # ============================================================================
 
 scatter_plot <- ggplot(minerals_data, aes(x = China_Mining_Share * 100, y = China_Processing_Share * 100)) +
-  geom_point(size = 4, alpha = 0.7, color = econ_colors["China"]) +
+  geom_point(size = 4, alpha = 0.7, color = econ_colors[["China"]]) +
   geom_text(
     aes(label = Mineral),
     size = 3,
@@ -128,7 +128,7 @@ scatter_plot <- ggplot(minerals_data, aes(x = China_Mining_Share * 100, y = Chin
     y = 70,
     label = "Processing\ndominance",
     size = 3.5,
-    color = econ_colors["China"],
+    color = econ_colors[["China"]],
     fontface = "bold"
   )
 

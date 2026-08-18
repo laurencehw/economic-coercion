@@ -44,11 +44,11 @@ panel_a <- ggplot(rd_long, aes(x = Year, y = RD_Spending, color = Country, linet
   geom_point(size = 2, alpha = 0.6) +
   scale_color_manual(
     values = c(
-      "USA" = econ_colors["USA"],
-      "China" = econ_colors["China"],
-      "EU" = econ_colors["EU"],
-      "Japan" = econ_colors["Japan"],
-      "South Korea" = econ_colors["South Korea"]
+      "USA" = econ_colors[["USA"]],
+      "China" = econ_colors[["China"]],
+      "EU" = econ_colors[["EU"]],
+      "Japan" = econ_colors[["Japan"]],
+      "South Korea" = econ_colors[["South Korea"]]
     )
   ) +
   scale_linetype_manual(
@@ -84,7 +84,7 @@ panel_a <- ggplot(rd_long, aes(x = Year, y = RD_Spending, color = Country, linet
     y = 360,
     label = "China\nsurpasses EU",
     size = 3,
-    color = econ_colors["China"],
+    color = econ_colors[["China"]],
     fontface = "bold"
   ) +
   annotate(
@@ -94,7 +94,7 @@ panel_a <- ggplot(rd_long, aes(x = Year, y = RD_Spending, color = Country, linet
     y = 320,
     yend = 340,
     arrow = arrow(length = unit(0.2, "cm"), type = "closed"),
-    color = econ_colors["China"],
+    color = econ_colors[["China"]],
     linewidth = 0.6
   ) +
   # Annotate 2024 values
@@ -104,7 +104,7 @@ panel_a <- ggplot(rd_long, aes(x = Year, y = RD_Spending, color = Country, linet
     y = rd_data$USA[rd_data$Year == 2024],
     label = "$810B",
     size = 3,
-    color = econ_colors["USA"],
+    color = econ_colors[["USA"]],
     fontface = "bold",
     hjust = 0
   ) +
@@ -114,7 +114,7 @@ panel_a <- ggplot(rd_long, aes(x = Year, y = RD_Spending, color = Country, linet
     y = rd_data$China[rd_data$Year == 2024],
     label = "$668B",
     size = 3,
-    color = econ_colors["China"],
+    color = econ_colors[["China"]],
     fontface = "bold",
     hjust = 0
   )
@@ -142,14 +142,14 @@ panel_b <- ggplot(share_long, aes(x = Year, y = Share, color = Country, fill = C
   geom_line(linewidth = 1.2) +
   geom_point(size = 1.5, alpha = 0.7) +
   scale_color_manual(
-    values = c("USA" = econ_colors["USA"],
-               "China" = econ_colors["China"],
-               "EU" = econ_colors["EU"])
+    values = c("USA" = econ_colors[["USA"]],
+               "China" = econ_colors[["China"]],
+               "EU" = econ_colors[["EU"]])
   ) +
   scale_fill_manual(
-    values = c("USA" = econ_colors["USA"],
-               "China" = econ_colors["China"],
-               "EU" = econ_colors["EU"])
+    values = c("USA" = econ_colors[["USA"]],
+               "China" = econ_colors[["China"]],
+               "EU" = econ_colors[["EU"]])
   ) +
   scale_y_continuous(
     labels = label_percent(scale = 1),
@@ -192,11 +192,11 @@ panel_c <- ggplot(rd_growth, aes(x = Year, y = Growth_Index, color = Country)) +
   geom_hline(yintercept = 100, linetype = "dashed", color = "gray50", linewidth = 0.8) +
   scale_color_manual(
     values = c(
-      "USA" = econ_colors["USA"],
-      "China" = econ_colors["China"],
-      "EU" = econ_colors["EU"],
-      "Japan" = econ_colors["Japan"],
-      "South Korea" = econ_colors["South Korea"]
+      "USA" = econ_colors[["USA"]],
+      "China" = econ_colors[["China"]],
+      "EU" = econ_colors[["EU"]],
+      "Japan" = econ_colors[["Japan"]],
+      "South Korea" = econ_colors[["South Korea"]]
     )
   ) +
   scale_y_continuous(
@@ -227,7 +227,7 @@ panel_c <- ggplot(rd_growth, aes(x = Year, y = Growth_Index, color = Country)) +
                    rd_data$China[rd_data$Year == 1990], "B → ",
                    rd_data$China[rd_data$Year == 2024], "B)"),
     size = 3.5,
-    color = econ_colors["China"],
+    color = econ_colors[["China"]],
     fontface = "bold"
   )
 

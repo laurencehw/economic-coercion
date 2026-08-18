@@ -31,11 +31,11 @@ swift_long <- swift_data %>%
 
 # Define currency colors
 currency_colors <- c(
-  "USD" = econ_colors["USA"],
-  "EUR" = econ_colors["EU"],
-  "GBP" = econ_colors["UK"],
-  "JPY" = econ_colors["Japan"],
-  "CNY" = econ_colors["China"],
+  "USD" = econ_colors[["USA"]],
+  "EUR" = econ_colors[["EU"]],
+  "GBP" = econ_colors[["UK"]],
+  "JPY" = econ_colors[["Japan"]],
+  "CNY" = econ_colors[["China"]],
   "Others" = "#8c564b"
 )
 
@@ -50,17 +50,18 @@ panel_a <- ggplot(swift_long %>% filter(Currency != "Others"),
   ) +
   scale_y_continuous(
     labels = label_percent(scale = 1),
-    breaks = seq(0, 50, 10),
-    limits = c(0, 50)
+    breaks = seq(0, 60, 10),
+    limits = c(0, 60)
   ) +
   scale_x_continuous(
-    breaks = seq(2010, 2024, 2)
+    breaks = seq(2010, 2024, 2),
+    limits = c(2010, 2027)
   ) +
   labs(
-    title = "Currency Share of SWIFT Messages Over Time",
-    subtitle = "U.S. dollar maintains ~40% dominance despite gradual erosion",
+    title = "Currency Share of SWIFT Payments Over Time",
+    subtitle = "The dollar's share has risen since 2022, not fallen",
     x = "Year",
-    y = "Share of SWIFT Messages (%)",
+    y = "Share of Global Payments by Value (%)",
     color = "Currency",
     linetype = "Currency"
   ) +
@@ -69,12 +70,12 @@ panel_a <- ggplot(swift_long %>% filter(Currency != "Others"),
     legend.position = "right",
     panel.grid.minor = element_blank()
   ) +
-  # Annotate 2024 values
+  # Annotate latest-year values
   annotate(
     "text",
     x = 2025,
-    y = swift_data$USD[swift_data$Year == 2024],
-    label = "38.0%",
+    y = swift_data$USD[swift_data$Year == 2025],
+    label = "50.5%",
     size = 3,
     color = currency_colors["USD"],
     fontface = "bold",
@@ -83,8 +84,8 @@ panel_a <- ggplot(swift_long %>% filter(Currency != "Others"),
   annotate(
     "text",
     x = 2025,
-    y = swift_data$EUR[swift_data$Year == 2024],
-    label = "37.2%",
+    y = swift_data$EUR[swift_data$Year == 2025],
+    label = "21.9%",
     size = 3,
     color = currency_colors["EUR"],
     fontface = "bold",
@@ -94,9 +95,9 @@ panel_a <- ggplot(swift_long %>% filter(Currency != "Others"),
   annotate(
     "segment",
     x = 2010,
-    xend = 2024,
+    xend = 2025,
     y = swift_data$CNY[swift_data$Year == 2010],
-    yend = swift_data$CNY[swift_data$Year == 2024],
+    yend = swift_data$CNY[swift_data$Year == 2025],
     color = currency_colors["CNY"],
     linewidth = 0.8,
     arrow = arrow(length = unit(0.2, "cm"), type = "closed"),
@@ -104,9 +105,10 @@ panel_a <- ggplot(swift_long %>% filter(Currency != "Others"),
   ) +
   annotate(
     "text",
-    x = 2017,
-    y = 2,
-    label = "18x growth",
+    x = 2014.5,
+    y = 7.5,
+    label = "CNY: 2023 peak,
+then retreat",
     size = 3,
     color = currency_colors["CNY"],
     fontface = "italic"
@@ -132,7 +134,7 @@ panel_b <- ggplot(swift_long, aes(x = Year, y = Share, fill = Currency)) +
     title = "Composition of Global Payment System",
     subtitle = "Relative shares of major currencies in SWIFT transactions",
     x = "Year",
-    y = "Share of SWIFT Messages (%)",
+    y = "Share of Global Payments by Value (%)",
     fill = "Currency"
   ) +
   theme_econ_textbook() +
@@ -179,9 +181,9 @@ panel_c <- ggplot(cny_data, aes(x = Year, y = CNY)) +
   ) +
   labs(
     title = "Chinese Yuan (CNY/RMB) Growth Trajectory",
-    subtitle = "Gradual internationalization from 0.3% to 5.5% of global payments",
+    subtitle = "A 2023 peak of 4.1%, then retreat to 2.7% by 2025",
     x = "Year",
-    y = "CNY Share of SWIFT Messages (%)"
+    y = "CNY Share of Global Payments by Value (%)"
   ) +
   theme_econ_textbook() +
   theme(
@@ -230,7 +232,7 @@ panel_c <- ggplot(cny_data, aes(x = Year, y = CNY)) +
 # ============================================================================
 
 latest_data <- swift_data %>%
-  filter(Year == 2024) %>%
+  filter(Year == 2025) %>%
   select(-Year) %>%
   pivot_longer(
     cols = everything(),
@@ -254,8 +256,8 @@ panel_d <- ggplot(latest_data, aes(x = "", y = Share, fill = Currency)) +
     size = 4
   ) +
   labs(
-    title = "2024 Currency Breakdown",
-    subtitle = "Share of SWIFT messages",
+    title = "2025 Currency Breakdown",
+    subtitle = "Share of global payments by value",
     fill = "Currency"
   ) +
   theme_econ_textbook() +
@@ -273,12 +275,12 @@ panel_d <- ggplot(latest_data, aes(x = "", y = Share, fill = Currency)) +
 
 combined_plot <- ((panel_a / panel_b) | (panel_c / panel_d)) +
   plot_annotation(
-    title = "SWIFT Transaction Volumes by Currency (2010-2024)",
-    subtitle = "The U.S. dollar's continued dominance in global payments amid gradual yuan internationalization",
+    title = "SWIFT Payment Shares by Currency (2010-2025)",
+    subtitle = "Dollar dominance has deepened since 2022; the yuan peaked in 2023 and has since receded",
     caption = paste0(
       "Source: SWIFT RMB Tracker, Bank for International Settlements (BIS)\n",
-      "Note: Percentage of total SWIFT messages by currency. SWIFT (Society for Worldwide Interbank Financial Telecommunication) processes ~45 million messages daily.\n",
-      "CNY (Chinese yuan/renminbi) has grown 18-fold from 0.3% (2010) to 5.5% (2024). CIPS = Cross-Border Interbank Payment System; SDR = Special Drawing Rights."
+      "Note: Share of global customer and institutional payment value carried over SWIFT, December print of each year. SWIFT = Society for Worldwide Interbank Financial Telecommunication.\n",
+      "CNY (Chinese yuan/renminbi) rose from 0.3% (2010) to a 4.1% peak (2023) before easing to 2.7% (2025). CIPS = Cross-Border Interbank Payment System; SDR = Special Drawing Rights."
     ),
     theme = theme_econ_textbook()
   ) +
@@ -308,7 +310,7 @@ cat("          figures/fig_07_01_swift_currencies.pdf\n")
 cat("\n")
 cat("Currency Shares 2024:\n")
 cat("---------------------\n")
-latest <- swift_data %>% filter(Year == 2024)
+latest <- swift_data %>% filter(Year == 2025)
 cat(sprintf("  1. USD: %.1f%%\n", latest$USD))
 cat(sprintf("  2. EUR: %.1f%%\n", latest$EUR))
 cat(sprintf("  3. GBP: %.1f%%\n", latest$GBP))
@@ -326,7 +328,7 @@ cat("\n")
 cat("Key Insights:\n")
 cat("  - USD maintains ~40% share despite gradual 4.5pp decline\n")
 cat("  - EUR gaining ground, now at 37.2% (up from 32.8%)\n")
-cat("  - CNY grew 18-fold from 0.3% to 5.5% (2010-2024)\n")
+cat("  - CNY rose from 0.3% (2010) to a 4.1% peak (2023), easing to 2.7% (2025)\n")
 cat("  - USD+EUR together control 75% of global payment messages\n")
 cat("  - CNY still far behind major currencies despite rapid growth\n")
 cat("========================================\n")

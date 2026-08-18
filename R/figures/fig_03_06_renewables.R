@@ -48,9 +48,9 @@ renewables_long <- renewables_data %>%
 # ============================================================================
 
 region_colors <- c(
-  "China" = econ_colors["China"],
-  "Europe" = econ_colors["EU"],
-  "USA" = econ_colors["USA"],
+  "China" = econ_colors[["China"]],
+  "Europe" = econ_colors[["EU"]],
+  "USA" = econ_colors[["USA"]],
   "Rest_of_Asia" = "#ff7f0e",  # Orange
   "Others" = "#7f7f7f"         # Gray
 )
