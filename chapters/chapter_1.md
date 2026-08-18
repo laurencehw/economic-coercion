@@ -55,8 +55,10 @@ Henry Farrell and Abraham Newman's concept of "weaponized interdependence" captu
 
 These hub positions create what Farrell and Newman call "panopticon" and "chokepoint" effects. The panopticon effect allows the hub state to see network flows—monitoring transactions, communications, and exchanges. The chokepoint effect allows it to deny access—blocking specific actors from the network or withholding critical inputs. Both capabilities can be weaponized: surveillance enables intelligence gathering and sanctions enforcement, while denial enables coercion.
 
+Figure 1.1 draws these hub positions as a network rather than a list. Rendered this way, the asymmetry is visible without any accompanying statistic: a handful of nodes sit astride most of the paths through the system, and it is occupancy of those nodes, not aggregate economic size, that the rest of this book treats as the source of coercive power.
+
 <figure class="book-figure">
-  <img src="../figures/fig_01_05_interdependence_network.png" alt="Network diagram of weaponized interdependence showing U.S. and Chinese hub positions across finance, technology, energy, and digital infrastructure.">
+  <img src="../figures/fig_01_01_interdependence_network.png" alt="Network diagram of weaponized interdependence showing U.S. and Chinese hub positions across finance, technology, energy, and digital infrastructure.">
   <figcaption>Figure 1.1: Weaponized interdependence — hub positions of the United States and China across critical economic networks.</figcaption>
 </figure>
 
@@ -154,6 +156,8 @@ American policymakers embraced transformative engagement: integrating China into
 
 China's WTO accession in 2001 accelerated integration dramatically. Two-way trade in goods grew from $116 billion (2000) to $407.5 billion (2008) (U.S. Census Bureau; the trade figures cited in this book are two-way *goods* trade at nominal values unless noted—counting services would raise recent totals by roughly $100 billion). China became "the world's factory," and the relationship appeared to validate the liberal assumption that economic interdependence promotes cooperation.
 
+Figure 1.2 traces that relationship across three and a half decades. Two features deserve attention: the near-uninterrupted climb to the 2022 record, and the sharp contraction in 2025 under the tariff regime examined in Chapter 6. The second is a reminder that the interdependence described here is a policy variable, not a permanent condition.
+
 <figure class="book-figure">
   <img src="../figures/fig_01_02_us_china_trade.png" alt="US-China Trade Volume and Key Events (2000-2024)">
   <figcaption>Figure 1.2: US-China Trade Volume and Key Events (2000-2024)</figcaption>
@@ -173,8 +177,10 @@ American concerns intensified around IP theft, forced technology transfer, indus
 
 The 2017 National Security Strategy designated China a "strategic competitor" seeking to "erode American security and prosperity" (White House 2017)—a fundamental reframing from partner to rival. Economic statecraft became the primary domain of competition.
 
+Figure 1.3 arranges the principal episodes chronologically. The clustering is the point: the density of events after 2017 reflects not merely more assertive policy but the maturation of instruments — entity lists, foreign direct product rules, investment screening — that barely existed in usable form a decade earlier.
+
 <figure class="book-figure">
-  <img src="../figures/fig_01_04_timeline.png" alt="Timeline of Major Economic Coercion Events">
+  <img src="../figures/fig_01_03_timeline.png" alt="Timeline of Major Economic Coercion Events">
   <figcaption>Figure 1.3: Timeline of Major Economic Coercion Events</figcaption>
 </figure>
 
@@ -299,8 +305,10 @@ Readers will encounter these three concepts repeatedly in the chapters that foll
 
 Analyzing specific instances of economic coercion requires systematic analytical tools. This framework, applied throughout subsequent chapters, organizes analysis across four dimensions: **domain**, **target**, **objective**, and **intensity**.
 
+Figure 1.4 sets out the framework in schematic form. It is worth returning to as the chapters accumulate cases, since its value lies less in classifying any single episode than in making visible which combinations of domain, target, and objective recur and which are almost never attempted.
+
 <figure class="book-figure">
-  <img src="../figures/fig_01_01_framework.png" alt="Conceptual Framework for Analyzing Economic Coercion">
+  <img src="../figures/fig_01_04_framework.png" alt="Conceptual Framework for Analyzing Economic Coercion">
   <figcaption>Figure 1.4: Conceptual Framework for Analyzing Economic Coercion</figcaption>
 </figure>
 
@@ -399,7 +407,7 @@ This book examines economic coercion in the context of US-China strategic compet
 Figure 1.5 previews the full "toolbox" of instruments covered in the chapters that follow, grouped by the four domains introduced above (trade, finance, investment, and technology).
 
 <figure class="book-figure">
-  <img src="../figures/fig_01_03_toolbox_diagram.png" alt="Toolbox diagram of instruments of economic statecraft, organized by domain (trade, finance, investment, technology) and coercion intensity.">
+  <img src="../figures/fig_01_05_toolbox_diagram.png" alt="Toolbox diagram of instruments of economic statecraft, organized by domain (trade, finance, investment, technology) and coercion intensity.">
   <figcaption>Figure 1.5: The economic-statecraft toolbox — instruments by domain and intensity, previewing the subsequent chapters.</figcaption>
 </figure>
 
@@ -611,6 +619,8 @@ The Coordinating Committee for Multilateral Export Controls (CoCom) represents t
 CoCom was created informally in 1949 (never codified by treaty) by the United States, United Kingdom, France, Italy, Netherlands, Belgium, and Luxembourg, later expanding to include all NATO members (except Iceland) plus Japan and Australia—17 members at peak. The committee maintained three control lists: munitions, atomic energy, and industrial/commercial items with potential military applications. Member countries agreed to deny export licenses for listed items to Soviet Union, Eastern European communist states, China (until 1980s), North Korea, Vietnam, Cambodia, and Laos.
 
 The organizational structure was deliberately informal: consensus decision-making, no enforcement mechanism, voluntary compliance by members. The U.S. provided most intelligence on Soviet technology gaps and applied diplomatic pressure for strict controls, while European members and Japan often preferred looser restrictions to maintain commercial opportunities.
+
+Figure 1.6 compresses CoCom's four decades into a single line. The durability is the finding: an arrangement with no treaty basis, no enforcement mechanism, and no secretariat worth the name outlasted most of the formal institutions of the period, which is the strongest available evidence that coordination in export control depends more on shared threat perception than on legal architecture.
 
 <figure class="book-figure">
   <img src="../figures/fig_01_06_cocom_timeline.png" alt="Timeline of CoCom from its 1949 founding through its 1994 dissolution and the 1996 establishment of the Wassenaar Arrangement, marking expansions, crises, and loosening episodes.">
@@ -880,43 +890,43 @@ Understanding economic coercion requires access to reliable data on sanctions, t
 
 ### Foundational Texts
 
-- Baldwin, David A. (2020). *Economic Statecraft: New Edition*. Princeton University Press. [Classic text on economic instruments of foreign policy]
-- Farrell, Henry and Abraham L. Newman (2019). "Weaponized Interdependence: How Global Economic Networks Shape State Coercion." *International Security* 44:1, 42-79. [Seminal article on chokepoint effects]
-- Drezner, Daniel W., Henry Farrell, and Abraham L. Newman, eds. (2021). *The Uses and Abuses of Weaponized Interdependence*. Brookings Institution Press. [Edited volume extending and testing the network-coercion framework]
+- Baldwin, David A. 2020. *Economic Statecraft: New Edition*. Princeton University Press. [Classic text on economic instruments of foreign policy]
+- Farrell, Henry and Abraham L. Newman. 2019. "Weaponized Interdependence: How Global Economic Networks Shape State Coercion." *International Security* 44:1, 42-79. [Seminal article on chokepoint effects]
+- Drezner, Daniel W., Henry Farrell, and Abraham L. Newman, eds. 2021. *The Uses and Abuses of Weaponized Interdependence*. Brookings Institution Press. [Edited volume extending and testing the network-coercion framework]
 
 ### US-China Competition
 
-- Blackwill, Robert D. and Jennifer M. Harris (2016). *War by Other Means: Geoeconomics and Statecraft*. Harvard University Press. [Strategic framework for economic competition]
-- Economy, Elizabeth C. (2018). *The Third Revolution: Xi Jinping and the New Chinese State*. Oxford University Press. [Chinese domestic politics and foreign policy]
-- Brands, Hal and Michael Beckley (2022). *Danger Zone: The Coming Conflict with China*. PublicAffairs. [Arguments for intensifying competition]
+- Blackwill, Robert D. and Jennifer M. Harris. 2016. *War by Other Means: Geoeconomics and Statecraft*. Harvard University Press. [Strategic framework for economic competition]
+- Economy, Elizabeth C. 2018. *The Third Revolution: Xi Jinping and the New Chinese State*. Oxford University Press. [Chinese domestic politics and foreign policy]
+- Brands, Hal and Michael Beckley. 2022. *Danger Zone: The Coming Conflict with China*. PublicAffairs. [Arguments for intensifying competition]
 
 ### Sanctions and Financial Statecraft
 
-- Zarate, Juan C. (2013). *Treasury's War: The Unleashing of a New Era of Financial Warfare*. PublicAffairs. [Insider account of financial sanctions development]
-- Nephew, Richard (2017). *The Art of Sanctions: A View from the Field*. Columbia University Press. [Practitioner guide to sanctions design]
-- Mulder, Nicholas (2022). *The Economic Weapon: The Rise of Sanctions as a Tool of Modern War*. Yale University Press. [Historical analysis from WWI to present]
+- Zarate, Juan C. 2013. *Treasury's War: The Unleashing of a New Era of Financial Warfare*. PublicAffairs. [Insider account of financial sanctions development]
+- Nephew, Richard. 2017. *The Art of Sanctions: A View from the Field*. Columbia University Press. [Practitioner guide to sanctions design]
+- Mulder, Nicholas. 2022. *The Economic Weapon: The Rise of Sanctions as a Tool of Modern War*. Yale University Press. [Historical analysis from WWI to present]
 
 ### Technology and Supply Chains
 
-- Miller, Chris (2022). *Chip War: The Fight for the World's Most Critical Technology*. Scribner. [Semiconductor geopolitics and U.S.-China competition]
-- Farrell, Henry and Abraham L. Newman (2023). *Underground Empire: How America Weaponized the World Economy*. Henry Holt. [Technology infrastructure and financial networks]
-- Hillman, Jonathan E. (2021). *The Digital Silk Road: China's Quest to Wire the World and Win the Future*. Harper Business. [CSIS Reconnecting Asia scholar on China's digital-infrastructure export strategy]
+- Miller, Chris. 2022. *Chip War: The Fight for the World's Most Critical Technology*. Scribner. [Semiconductor geopolitics and U.S.-China competition]
+- Farrell, Henry and Abraham L. Newman. 2023. *Underground Empire: How America Weaponized the World Economy*. Henry Holt. [Technology infrastructure and financial networks]
+- Hillman, Jonathan E. 2021. *The Digital Silk Road: China's Quest to Wire the World and Win the Future*. Harper Business. [CSIS Reconnecting Asia scholar on China's digital-infrastructure export strategy]
 
 ### Chinese Perspectives (English translations and analyses)
 
-- Yan Xuetong (2019). *Leadership and the Rise of Great Powers*. Princeton University Press. [Leading Chinese IR scholar on great power competition]
-- Wang, Jisi (2011). "China's Search for a Grand Strategy." *Foreign Affairs*. [Influential Chinese scholar on strategy]
-- Rush Doshi (2021). *The Long Game: China's Grand Strategy to Displace American Order*. Oxford University Press. [Analysis of Chinese strategic documents and thinking]
+- Yan Xuetong. 2019. *Leadership and the Rise of Great Powers*. Princeton University Press. [Leading Chinese IR scholar on great power competition]
+- Wang, Jisi. 2011. "China's Search for a Grand Strategy." *Foreign Affairs*. [Influential Chinese scholar on strategy]
+- Rush Doshi. 2021. *The Long Game: China's Grand Strategy to Displace American Order*. Oxford University Press. [Analysis of Chinese strategic documents and thinking]
 
 ### Economic History and Theory
 
-- Hirschman, Albert O. (1945). *National Power and the Structure of Foreign Trade*. University of California Press. [Origin of the "influence effect": power from asymmetric trade-dependence]
-- Wilse-Samson, Laurence H. (2013). "Structural Change and Democratization: Evidence from Rural Apartheid." Working paper, Columbia University. [Labor-supply shocks, factor scarcity, and shifting political coalitions under apartheid—the coalitional margin in a non-sanctions setting]
+- Hirschman, Albert O. 1945. *National Power and the Structure of Foreign Trade*. University of California Press. [Origin of the "influence effect": power from asymmetric trade-dependence]
+- Wilse-Samson, Laurence H. 2013. "Structural Change and Democratization: Evidence from Rural Apartheid." Working paper, Columbia University. [Labor-supply shocks, factor scarcity, and shifting political coalitions under apartheid—the coalitional margin in a non-sanctions setting]
 
 ### Case Studies
 
-- Mastanduno, Michael (1992). *Economic Containment: CoCom and the Politics of East-West Trade*. Cornell University Press. [Definitive history of CoCom]
-- Nephew, Richard et al. (2018). *The Iran Nuclear Archive: Impressions and Implications*. Columbia SIPA. [Iran sanctions case study]
-- Bergsten, C. Fred and Joseph Gagnon (2017). *Currency Conflict and Trade Policy: A New Strategy for the United States*. PIIE. [Economic instruments and China]
+- Mastanduno, Michael. 1992. *Economic Containment: CoCom and the Politics of East-West Trade*. Cornell University Press. [Definitive history of CoCom]
+- Nephew, Richard et al. 2018. *The Iran Nuclear Archive: Impressions and Implications*. Columbia SIPA. [Iran sanctions case study]
+- Bergsten, C. Fred and Joseph Gagnon. 2017. *Currency Conflict and Trade Policy: A New Strategy for the United States*. PIIE. [Economic instruments and China]
 
 ---

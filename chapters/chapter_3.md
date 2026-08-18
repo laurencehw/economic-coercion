@@ -95,7 +95,7 @@ Potassium (potash) fertilizers come overwhelmingly from Canada (30% of global pr
 
 The 2021-2022 fertilizer crisis demonstrated these dependencies. Natural gas price spikes (driven partly by reduced Russian supplies to Europe) made nitrogen fertilizer production uneconomical in Europe, forcing plant closures. Sanctions on Russian and Belarusian potash restricted supply. Phosphate prices surged due to increased demand and logistical constraints. The combined fertilizer shock pushed costs up 100-200% (IFA 2022), threatening farmers' ability to afford inputs and raising prospects of reduced plantings and lower yields globally. Developing countries, where farmers have less capital to absorb price increases, faced particularly acute risks of food production declines.
 
-**Pesticides and herbicides** similarly concentrate in a handful of companies—Bayer (post-Monsanto acquisition), Corteva, BASF, and Syngenta (Chinese-owned) control approximately 60-65% of the global agrochemical market (Phillips McDougall 2020; industry estimates). Most active ingredients are manufactured in China or India, with formulation and distribution by these major firms. Supply chain disruptions, regulatory restrictions, or deliberate export controls could constrain pesticide availability, threatening crop protection and yields.
+**Pesticides and herbicides** similarly concentrate in a handful of companies—Bayer (post-Monsanto acquisition), Corteva, BASF, and Syngenta (Chinese-owned) control approximately 60-65% of the global agrochemical market (AgbioInvestor 2020, the successor to Phillips McDougall; industry estimates). Most active ingredients are manufactured in China or India, with formulation and distribution by these major firms. Supply chain disruptions, regulatory restrictions, or deliberate export controls could constrain pesticide availability, threatening crop protection and yields.
 
 **Seeds** for major crops are dominated by a few multinational firms. Bayer-Monsanto, Corteva, Syngenta, and BASF control roughly 55-60% of the global seed market (ETC Group; market share data). For genetically modified (GM) crops—common in soybeans, corn, and cotton—farmers depend on seeds from these companies, with intellectual property restrictions preventing seed saving and replanting. This creates dependence on seed suppliers' continued provision and raises food security concerns if geopolitical conflicts disrupt access.
 
@@ -142,13 +142,17 @@ Oil trade flows reveal critical dependencies. Europe imports approximately 90% o
 
 These chokepoints create strategic leverage for countries that can threaten closure (Iran over Hormuz, Yemen/Houthis over Bab el-Mandeb) and for naval powers that can secure or blockade them (United States, potentially China or India). They also shape energy policy: Japan's almost total dependence on oil transiting Malacca drives Japanese interest in Middle Eastern stability and U.S.-Japan security cooperation. China's anxiety about "Malacca Dilemma" motivates land-based alternatives (pipelines from Russia and Central Asia), naval expansion to protect sea lanes, and strategic petroleum reserves to buffer disruptions.
 
+Figure 3.1 renders these passages at the scale of the flows they carry. Hormuz dominates the picture for a reason that the map makes plain: no other chokepoint combines that volume with so little capacity to route around it.
+
 <figure class="book-figure">
-  <img src="../figures/fig_03_04_chokepoints.png" alt="Critical maritime passages for global energy transit. The Strait of Hormuz handles 21 million barrels per day—closure would immediately trigger global recession. Size indicates oil transit volume; color indicates strategic importance.">
+  <img src="../figures/fig_03_01_chokepoints.png" alt="Critical maritime passages for global energy transit. The Strait of Hormuz handles 21 million barrels per day—closure would immediately trigger global recession. Size indicates oil transit volume; color indicates strategic importance.">
   <figcaption>Figure 3.1: Critical maritime passages for global energy transit. The Strait of Hormuz handles 21 million barrels per day—closure would immediately trigger global recession. Size indicates oil transit volume; color indicates strategic importance.</figcaption>
 </figure>
 
+Figure 3.2 extends the same logic from straits to terminals. Ownership of a port confers nothing as dramatic as the power to close a strait, but the map shows how widely distributed those holdings have become, and geography of this kind accumulates quietly and is difficult to reverse.
+
 <figure class="book-figure">
-  <img src="../figures/fig_03_07_strategic_ports.png" alt="Global strategic ports by type and volume. Red circles indicate ports with significant Chinese ownership or operational control, illustrating the geographic scope of China's maritime investment strategy.">
+  <img src="../figures/fig_03_02_strategic_ports.png" alt="Global strategic ports by type and volume. Red circles indicate ports with significant Chinese ownership or operational control, illustrating the geographic scope of China's maritime investment strategy.">
   <figcaption>Figure 3.2: Global strategic ports by type and volume. Red circles indicate ports with significant Chinese ownership or operational control, illustrating the geographic scope of China's maritime investment strategy. This network of Chinese-invested ports underpins the "String of Pearls" strategy noted above, providing commercial footholds along the sea lanes that carry China's energy imports through the Malacca and other chokepoints.</figcaption>
 </figure>
 
@@ -162,8 +166,10 @@ Multiple pipelines carried Russian gas to Europe, forming an interconnected infr
 
 This infrastructure created a relationship of asymmetric interdependence. Europe depended on Russian gas for heating, power generation, and industrial processes (especially the German chemical industry). Russia, in turn, depended on European energy revenue—though the fiscal stakes are often overstated. Oil and gas together supplied roughly 35-45% of Russian federal budget revenue in the years before 2022; natural gas alone accounted for a far smaller share, with pipeline gas exports to Europe worth on the order of $40-70 billion annually against total oil-and-gas budget revenues several times larger (IEA 2022). Conventional wisdom held that mutual dependence ensured supply stability, on the assumption that neither side could afford disruption. This was the standard logic of liberal internationalism, that deep economic investment in each other's prosperity makes war irrational. Russia's 2022 invasion of Ukraine falsified that assumption, indicating that regimes may value territorial objectives more than commerce.
 
+Figure 3.3 shows what that dependence looked like as physical infrastructure, and what became of it. The pipelines drawn in red and orange represent capital that took decades to build and was rendered idle in under a year, which is the most expensive illustration in this book of how quickly an asymmetric interdependence can be repriced.
+
 <figure class="book-figure">
-  <img src="../figures/fig_03_08_russian_pipelines.png" alt="Russian oil and gas pipeline networks to Europe and Asia. Green indicates operational pipelines, orange shows reduced flow, red marks damaged or closed infrastructure. The Nord Stream pipelines were destroyed by underwater explosions in September 2022; Russian pipeline gas transit through Ukraine ended entirely on 1 January 2025, when the five-year transit contract expired.">
+  <img src="../figures/fig_03_03_russian_pipelines.png" alt="Russian oil and gas pipeline networks to Europe and Asia. Green indicates operational pipelines, orange shows reduced flow, red marks damaged or closed infrastructure. The Nord Stream pipelines were destroyed by underwater explosions in September 2022; Russian pipeline gas transit through Ukraine ended entirely on 1 January 2025, when the five-year transit contract expired.">
   <figcaption>Figure 3.3: Russian oil and gas pipeline networks to Europe and Asia. Green indicates operational pipelines, orange shows reduced flow, red marks damaged or closed infrastructure. The Nord Stream pipelines were destroyed by underwater explosions in September 2022; Russian pipeline gas transit through Ukraine ended entirely on 1 January 2025, when the five-year transit contract expired.</figcaption>
 </figure>
 
@@ -183,8 +189,10 @@ Longer-term restructuring followed. Germany announced 13+ new LNG terminals and 
 
 ### Energy Transition: Trading Old Dependencies for New
 
+Figure 3.4 is the argument of this section in a single chart. Read beside Figure 3.3, it suggests that Europe's escape from Russian gas has not ended its exposure to energy geopolitics so much as changed the counterparty and moved the chokepoint upstream into manufacturing.
+
 <figure class="book-figure">
-  <img src="../figures/fig_03_06_renewable_manufacturing.png" alt="China's dominant share in renewable energy manufacturing across solar, wind, and battery supply chains.">
+  <img src="../figures/fig_03_04_renewable_manufacturing.png" alt="China's dominant share in renewable energy manufacturing across solar, wind, and battery supply chains.">
   <figcaption>Figure 3.4: China's dominant share in renewable energy manufacturing across solar, wind, and battery supply chains.</figcaption>
 </figure>
 
@@ -317,7 +325,7 @@ Chinese government responses to resource vulnerabilities span multiple domains, 
 
 **Strategic reserves** buffer supply disruptions and price volatility. Beyond petroleum reserves, China maintains stockpiles of rare earths (ironic given China's production dominance—reserves guard against future scarcity or domestic supply issues), copper, aluminum, soybeans, pork (frozen meat reserves to stabilize prices), and other commodities. These reserves are larger than Western counterparts relative to consumption, reflecting greater anxiety about supply security and willingness to bear storage costs for insurance.
 
-**Vertical integration** aims to control entire supply chains. For critical minerals, China not only processes rare earths (85% global share) but also manufactures downstream products (magnets 90%, phosphors 80%). This integration means disruptions to foreign rare earth mines affect China less than competitors—China can substitute domestic mining or reduce export processing to prioritize domestic users. Similar integration occurs in solar panels (polysilicon through modules) and batteries (lithium processing through cell manufacturing).
+**Vertical integration** aims to control entire supply chains. For critical minerals, China not only processes rare earths (about 90% of global separation capacity) but also manufactures downstream products (magnets 90%, phosphors 80%). This integration means disruptions to foreign rare earth mines affect China less than competitors—China can substitute domestic mining or reduce export processing to prioritize domestic users. Similar integration occurs in solar panels (polysilicon through modules) and batteries (lithium processing through cell manufacturing).
 
 **Dual circulation** strategy, introduced in Chapter 2's Chinese Perspective Box, applies to resources. **Internal circulation** involves building domestic capacity: expanding coal mining, developing domestic oil and gas (despite higher costs), investing in renewable energy, and pursuing food self-sufficiency. **External circulation** focuses on diversifying import sources: oil from Middle East, Russia, Africa, and Latin America rather than depending on any one supplier; iron ore from Australia and Brazil; soybeans from Brazil and United States (with capacity to shift entirely to Brazil if U.S. restricts supply).
 
@@ -424,7 +432,7 @@ The underlying challenge is that both the United States and China view resource 
 
 4. Resource nationalism -- where countries restrict commodity exports to capture more value domestically -- often conflicts with the free trade principles that the international economic order is built upon. When is resource nationalism a legitimate development strategy, and when does it become economic coercion? How should the WTO and other institutions handle this distinction?
 
-5. China controls approximately 85% of rare earth processing, 75% of lithium-ion battery manufacturing, and 80% of solar panel production. If you were advising a European government on reducing these dependencies, what sequencing of policies would you recommend, given constraints on budget, time, and environmental standards?
+5. China controls roughly 90% of rare earth processing, 80% of lithium-ion battery cell manufacturing, and 86% of solar module assembly. If you were advising a European government on reducing these dependencies, what sequencing of policies would you recommend, given constraints on budget, time, and environmental standards?
 
 ---
 
@@ -436,33 +444,33 @@ The underlying challenge is that both the United States and China view resource 
 
 ### Books
 
-Klare, Michael T. *Resource Wars: The New Landscape of Global Conflict*. New York: Metropolitan Books, 2001.
+Klare, Michael T. 2001. *Resource Wars: The New Landscape of Global Conflict*. New York: Metropolitan Books.
 
-Yergin, Daniel. *The New Map: Energy, Climate, and the Clash of Nations*. New York: Penguin Press, 2020.
+Yergin, Daniel. 2020. *The New Map: Energy, Climate, and the Clash of Nations*. New York: Penguin Press.
 
-Copeland, Dale C. *Economic Interdependence and War*. Princeton: Princeton University Press, 2015.
+Copeland, Dale C. 2015. *Economic Interdependence and War*. Princeton: Princeton University Press.
 
-Drezner, Daniel W., Henry Farrell, and Abraham L. Newman, eds. *The Uses and Abuses of Weaponized Interdependence*. Washington: Brookings Institution Press, 2021.
+Drezner, Daniel W., Henry Farrell, and Abraham L. Newman, eds. 2021. *The Uses and Abuses of Weaponized Interdependence*. Washington: Brookings Institution Press.
 
-Blas, Javier, and Jack Farchy. *The World for Sale: Money, Power, and the Traders Who Barter the Earth's Resources*. New York: Oxford University Press, 2021.
+Blas, Javier, and Jack Farchy. 2021. *The World for Sale: Money, Power, and the Traders Who Barter the Earth's Resources*. New York: Oxford University Press.
 
-Smil, Vaclav. *Enriching the Earth: Fritz Haber, Carl Bosch, and the Transformation of World Food Production*. Cambridge, MA: MIT Press, 2001.
+Smil, Vaclav. 2001. *Enriching the Earth: Fritz Haber, Carl Bosch, and the Transformation of World Food Production*. Cambridge, MA: MIT Press.
 
-Szabo, Stephen F. *Germany, Russia, and the Rise of Geo-Economics*. London: Bloomsbury Academic, 2015.
+Szabo, Stephen F. 2015. *Germany, Russia, and the Rise of Geo-Economics*. London: Bloomsbury Academic.
 
-Vincent, C. Paul. *The Politics of Hunger: The Allied Blockade of Germany, 1915–1919*. Athens, OH: Ohio University Press, 1985.
+Vincent, C. Paul. 1985. *The Politics of Hunger: The Allied Blockade of Germany, 1915–1919*. Athens, OH: Ohio University Press.
 
 ### Articles and Reports
 
-International Energy Agency. *The Role of Critical Minerals in Clean Energy Transitions*. Paris: IEA, 2021.
+International Energy Agency. 2021. *The Role of Critical Minerals in Clean Energy Transitions*. Paris: IEA.
 
-Overland, Indra, et al. "The Geopolitics of Renewable Energy: Debunking Four Emerging Myths." *Energy Research & Social Science* 49 (2019): 36-40.
+Overland, Indra, et al. 2019. "The Geopolitics of Renewable Energy: Debunking Four Emerging Myths." *Energy Research & Social Science* 49: 36-40.
 
-Bazilian, Morgan D. "The Mineral Foundation of the Energy Transition." *The Extractive Industries and Society* 5, no. 1 (2018): 93-97.
+Bazilian, Morgan D. 2018. "The Mineral Foundation of the Energy Transition." *The Extractive Industries and Society* 5, no. 1: 93-97.
 
-Escribano, Gonzalo, et al. "Energy Dependency, Geopolitics, and Foreign Policy: The EU-Russia Natural Gas Trade." *Energy Research & Social Science* 68 (2020): 101528.
+Escribano, Gonzalo, et al. 2020. "Energy Dependency, Geopolitics, and Foreign Policy: The EU-Russia Natural Gas Trade." *Energy Research & Social Science* 68: 101528.
 
-Bellemare, Marc F. "Rising Food Prices, Food Price Volatility, and Social Unrest." *American Journal of Agricultural Economics* 97, no. 1 (2015): 1–21.
+Bellemare, Marc F. 2015. "Rising Food Prices, Food Price Volatility, and Social Unrest." *American Journal of Agricultural Economics* 97, no. 1: 1–21.
 
 Organization of the Petroleum Exporting Countries (OPEC). *Annual Statistical Bulletin*. Various years.
 
@@ -470,19 +478,19 @@ U.S. Energy Information Administration (EIA). "World Oil Transit Chokepoints" an
 
 Bachmann, Rüdiger, David Baqaee, Christian Bayer, Moritz Kuhn, Andreas Löschel, Benjamin Moll, Andreas Peichl, Karen Pittel, and Moritz Schularick. "What if? The Economic Effects for Germany of a Stop of Energy Imports from Russia." ECONtribute Policy Brief No. 028, 2022. (Revised version published in *Economica*, 2024.)
 
-Brinkman, Henk-Jan, and Cullen S. Hendrix. *Food Insecurity and Violent Conflict: Causes, Consequences, and Addressing the Challenges*. WFP Occasional Paper No. 24. Rome: World Food Programme, 2011.
+Brinkman, Henk-Jan, and Cullen S. Hendrix. 2011. *Food Insecurity and Violent Conflict: Causes, Consequences, and Addressing the Challenges*. WFP Occasional Paper No. 24. Rome: World Food Programme.
 
-Headey, Derek, and Shenggen Fan. "Anatomy of a Crisis: The Causes and Consequences of Surging Food Prices." *Agricultural Economics* 39, s1 (2008): 375–391.
+Headey, Derek, and Shenggen Fan. 2008. "Anatomy of a Crisis: The Causes and Consequences of Surging Food Prices." *Agricultural Economics* 39, s1: 375–391.
 
-Hendrix, Cullen S., and Stephan Haggard. "Global Food Prices, Regime Type, and Urban Unrest in the Developing World." *Journal of Peace Research* 52, no. 2 (2015): 143–157.
+Hendrix, Cullen S., and Stephan Haggard. 2015. "Global Food Prices, Regime Type, and Urban Unrest in the Developing World." *Journal of Peace Research* 52, no. 2: 143–157.
 
-Center for Strategic and International Studies (CSIS). "Rare Earth Export Restrictions One Year Later." Washington, DC: CSIS, 2025.
+Center for Strategic and International Studies (CSIS). 2025. "Rare Earth Export Restrictions One Year Later." Washington, DC: CSIS.
 
-*Ahram Online*. "Egypt's Suez Canal Revenues Fall by over 60% in 2024 due to Red Sea Tensions." 2025.
+*Ahram Online*. 2025. "Egypt's Suez Canal Revenues Fall by over 60% in 2024 due to Red Sea Tensions."
 
-Al Jazeera. "Ethiopia Inaugurates GERD Dam amid Downstream Tensions with Egypt, Sudan." September 9, 2025.
+Al Jazeera. 2025. "Ethiopia Inaugurates GERD Dam amid Downstream Tensions with Egypt, Sudan." September 9.
 
-Reuters. "Russian Gas Exports via Ukraine Stop as Transit Deal Expires." January 1, 2025.
+Reuters. 2025. "Russian Gas Exports via Ukraine Stop as Transit Deal Expires." January 1.
 
 ---
 

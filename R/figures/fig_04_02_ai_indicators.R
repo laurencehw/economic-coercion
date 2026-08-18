@@ -40,9 +40,9 @@ panel_a <- ggplot(pubs_long, aes(x = Year, y = Publications, color = Country, li
   geom_line(linewidth = 1.5) +
   geom_point(size = 2.5, alpha = 0.7) +
   scale_color_manual(
-    values = c("USA" = econ_colors["USA"],
-               "China" = econ_colors["China"],
-               "EU" = econ_colors["EU"])
+    values = c("USA" = econ_colors[["USA"]],
+               "China" = econ_colors[["China"]],
+               "EU" = econ_colors[["EU"]])
   ) +
   scale_linetype_manual(
     values = c("USA" = "solid", "China" = "solid", "EU" = "dashed")
@@ -84,7 +84,7 @@ panel_a <- ggplot(pubs_long, aes(x = Year, y = Publications, color = Country, li
     y = 120000,
     label = "China\nsurpasses\nUSA",
     size = 3,
-    color = econ_colors["China"],
+    color = econ_colors[["China"]],
     fontface = "bold"
   ) +
   # 2024 values
@@ -94,7 +94,7 @@ panel_a <- ggplot(pubs_long, aes(x = Year, y = Publications, color = Country, li
     y = ai_pubs$China_Publications[ai_pubs$Year == 2024],
     label = "138K",
     size = 3,
-    color = econ_colors["China"],
+    color = econ_colors[["China"]],
     fontface = "bold",
     hjust = 0
   ) +
@@ -104,7 +104,7 @@ panel_a <- ggplot(pubs_long, aes(x = Year, y = Publications, color = Country, li
     y = ai_pubs$USA_Publications[ai_pubs$Year == 2024],
     label = "70K",
     size = 3,
-    color = econ_colors["USA"],
+    color = econ_colors[["USA"]],
     fontface = "bold",
     hjust = 0
   )
@@ -131,12 +131,12 @@ panel_b <- ggplot(quality_long, aes(x = Year, y = Share, color = Country, fill =
   geom_line(linewidth = 1.5) +
   geom_point(size = 2.5, alpha = 0.7) +
   scale_color_manual(
-    values = c("USA" = econ_colors["USA"],
-               "China" = econ_colors["China"])
+    values = c("USA" = econ_colors[["USA"]],
+               "China" = econ_colors[["China"]])
   ) +
   scale_fill_manual(
-    values = c("USA" = econ_colors["USA"],
-               "China" = econ_colors["China"])
+    values = c("USA" = econ_colors[["USA"]],
+               "China" = econ_colors[["China"]])
   ) +
   scale_y_continuous(
     labels = label_percent(scale = 1),
@@ -176,7 +176,7 @@ panel_b <- ggplot(quality_long, aes(x = Year, y = Share, color = Country, fill =
     y = 38,
     label = "China catches\nUSA in quality",
     size = 3,
-    color = econ_colors["China"],
+    color = econ_colors[["China"]],
     fontface = "bold"
   )
 
@@ -201,8 +201,8 @@ panel_c <- ggplot(citations_long, aes(x = Year, y = Citations, color = Country))
   geom_line(linewidth = 1.5) +
   geom_point(size = 2.5, alpha = 0.7) +
   scale_color_manual(
-    values = c("USA" = econ_colors["USA"],
-               "China" = econ_colors["China"])
+    values = c("USA" = econ_colors[["USA"]],
+               "China" = econ_colors[["China"]])
   ) +
   scale_y_continuous(
     labels = label_comma(scale = 1/1000, suffix = "K"),
@@ -240,7 +240,7 @@ panel_c <- ggplot(citations_long, aes(x = Year, y = Citations, color = Country))
     y = 1500000,
     label = "China\nsurpasses",
     size = 3,
-    color = econ_colors["China"],
+    color = econ_colors[["China"]],
     fontface = "bold"
   )
 
@@ -290,8 +290,8 @@ panel_d <- ggplot(indicators_comp, aes(x = Percentage, y = Indicator_Label, fill
   geom_col(position = position_dodge(width = 0.8), width = 0.75, alpha = 0.85) +
   geom_vline(xintercept = 50, linetype = "dashed", color = "gray50", linewidth = 0.8) +
   scale_fill_manual(
-    values = c("USA" = econ_colors["USA"],
-               "China" = econ_colors["China"])
+    values = c("USA" = econ_colors[["USA"]],
+               "China" = econ_colors[["China"]])
   ) +
   scale_x_continuous(
     labels = label_percent(scale = 1),

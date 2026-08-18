@@ -38,3 +38,4 @@
 
 * [Glossary](front_matter/glossary.md)
 * [Bibliography](front_matter/bibliography.md)
+* [Index](front_matter/index.md)

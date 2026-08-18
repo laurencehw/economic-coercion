@@ -66,14 +66,14 @@ p1 <- ggplot(fdi_long, aes(x = Year, y = Amount, color = Region)) +
   # Peak annotations
   annotate("text", x = us_peak_year, y = us_peak + 2, 
            label = paste0("U.S. Peak: $", us_peak, "B"), 
-           color = econ_colors["USA"], fontface = "bold", size = 3.5) + 
+           color = econ_colors[["USA"]], fontface = "bold", size = 3.5) + 
   annotate("text", x = eu_peak_year, y = eu_peak + 2, 
            label = paste0("Europe Peak: $", eu_peak, "B"), 
-           color = econ_colors["EU"], fontface = "bold", size = 3.5) + 
+           color = econ_colors[["EU"]], fontface = "bold", size = 3.5) + 
   
   # Scales
-  scale_color_manual(values = c("United States" = econ_colors["USA"], 
-                                "Europe" = econ_colors["EU"])) +
+  scale_color_manual(values = c("United States" = econ_colors[["USA"]], 
+                                "Europe" = econ_colors[["EU"]])) +
   scale_y_continuous(labels = scales::dollar_format(suffix = "B"), limits = c(0, 55)) + 
   scale_x_continuous(breaks = seq(2008, 2024, 2)) + 
   

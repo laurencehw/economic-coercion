@@ -16,7 +16,27 @@ for f in R/figures/*.R; do Rscript "$f"; done
 Rscript R/figures/fig_01_02_us_china_trade.R
 ```
 
-**Prerequisites:** R (with ggplot2, dplyr, tidyr, scales, sf, patchwork), Pandoc, LaTeX
+```bash
+# Run the manuscript QA checks (figure alignment, share-table sums, link integrity)
+python3 scripts/qa_manuscript.py
+```
+
+**Prerequisites:** R, Pandoc, LaTeX.
+
+R packages, by what they unlock (49 of the 61 figure scripts build with the first
+group alone):
+
+- **Core** (needed by nearly every script): `tidyverse`, `ggplot2`, `dplyr`, `tidyr`,
+  `scales`, `forcats`, `patchwork`, `here`
+- **Extras**: `ggforce` (framework/toolbox/cascade/decision-tree diagrams),
+  `ggraph` + `igraph` (interdependence network), `ggalluvial` (Sankey/flow charts),
+  `ggrepel`, `viridis`, `cowplot`, `gridExtra`
+- **Maps and specialty** (12 scripts): `sf`, `tmap`, `rnaturalearth`,
+  `rnaturalearthdata`, `treemapify`. All are on CRAN — the pipeline no longer has
+  any GitHub-only dependency
+
+On Debian/Ubuntu most of these install far faster from apt binaries
+(`r-cran-tidyverse`, `r-cran-sf`, `r-cran-ggforce`, …) than from source.
 
 ## Repository Structure
 

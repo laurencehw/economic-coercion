@@ -45,8 +45,8 @@ panel_a <- ggplot(trade_long, aes(x = Year, y = Value, color = Flow, linetype = 
     breaks = seq(1990, 2024, 5)
   ) +
   scale_color_manual(
-    values = c("U.S. Exports to China" = econ_colors["USA"],
-               "U.S. Imports from China" = econ_colors["China"])
+    values = c("U.S. Exports to China" = econ_colors[["USA"]],
+               "U.S. Imports from China" = econ_colors[["China"]])
   ) +
   scale_linetype_manual(
     values = c("U.S. Exports to China" = "solid",
@@ -91,8 +91,8 @@ panel_a <- ggplot(trade_long, aes(x = Year, y = Value, color = Flow, linetype = 
 # ============================================================================
 
 panel_b <- ggplot(trade_data, aes(x = Year, y = Trade_Balance)) +
-  geom_area(fill = econ_colors["China"], alpha = 0.3) +
-  geom_line(color = econ_colors["China"], linewidth = 1.2) +
+  geom_area(fill = econ_colors[["China"]], alpha = 0.3) +
+  geom_line(color = econ_colors[["China"]], linewidth = 1.2) +
   geom_hline(yintercept = 0, linetype = "solid", color = "gray30", linewidth = 0.5) +
   scale_y_continuous(
     labels = label_dollar(suffix = "B"),
@@ -126,7 +126,7 @@ panel_b <- ggplot(trade_data, aes(x = Year, y = Trade_Balance)) +
 # ============================================================================
 
 panel_c <- ggplot(trade_data, aes(x = Year, y = Total_Trade)) +
-  geom_col(fill = econ_colors["USA"], alpha = 0.7) +
+  geom_col(fill = econ_colors[["USA"]], alpha = 0.7) +
   scale_y_continuous(
     labels = label_dollar(suffix = "B"),
     breaks = seq(0, 700, 100),
@@ -171,7 +171,7 @@ panel_c <- ggplot(trade_data, aes(x = Year, y = Total_Trade)) +
 
 combined_plot <- (panel_a / panel_b / panel_c) +
   plot_annotation(
-    title = "U.S.-China Bilateral Trade Flows (1990-2024)",
+    title = "U.S.-China Bilateral Trade Flows (1990-2025)",
     subtitle = "The evolution of the world's most economically significant bilateral relationship",
     caption = "Source: U.S. Census Bureau, Foreign Trade Statistics",
     theme = theme_econ_textbook()

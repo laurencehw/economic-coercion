@@ -28,6 +28,8 @@ Government Tools Boxes detail CFIUS procedures, FIRRMA expansion, and industrial
 
 These themes reflect economic statecraft's evolution beyond traditional trade and financial tools. Capital flows, industrial capabilities, and market access have become contested domains, with implications extending well beyond bilateral U.S.-China competition to allied policy coordination, development finance, and the future shape of globalization.
 
+Figure 8.1 maps the resulting footprint. Its usefulness is less in any single project than in the pattern: the corridors follow overland and maritime routes that connect Chinese industrial capacity to markets and raw materials, which is what distinguishes a development program from an infrastructure spending spree.
+
 <figure class="book-figure">
   <img src="../figures/fig_08_01_bri_infrastructure.png" alt="Key Belt and Road Initiative infrastructure investments. Port investments (blue) extend Chinese maritime presence; rail projects (red) create overland connectivity; corridor investments (orange) integrate regional economies. Size indicates investment scale in USD billions.">
   <figcaption>Figure 8.1: Key Belt and Road Initiative infrastructure investments. Port investments (blue) extend Chinese maritime presence; rail projects (red) create overland connectivity; corridor investments (orange) integrate regional economies. Size indicates investment scale in USD billions.</figcaption>
@@ -133,24 +135,14 @@ FIRRMA authorized increased CFIUS staffing and funding (from ~20 full-time emplo
 
 ### Impact on Chinese Investment: Near-Total Collapse
 
+Figure 8.2 shows how completely that flow reversed. The collapse from the 2016 peak is steep enough that the policy question has changed: screening regimes built to handle a surge now operate in an environment where the surge has already ended, and the binding constraint on Chinese investment is at least as much Beijing's capital controls as Washington's review process.
+
 <figure class="book-figure">
   <img src="../figures/fig_08_02_chinese_fdi.png" alt="Chinese foreign direct investment in U.S. and Europe from 2008-2024, showing the dramatic collapse after FIRRMA.">
   <figcaption>Figure 8.2: Chinese foreign direct investment in U.S. and Europe from 2008-2024, showing the dramatic collapse after FIRRMA.</figcaption>
 </figure>
 
-FIRRMA's impact on Chinese investment was immediate and severe. Chinese direct investment in the United States:
-
-- **2016 (Pre-FIRRMA peak)**: $45.6 billion
-- **2017**: $29.4 billion (declining as political sentiment shifted)
-- **2018** (FIRRMA enacted): $5.4 billion
-- **2019**: $5.0 billion
-- **2020**: $3.8 billion
-- **2021**: $5.1 billion
-- **2022**: $2.8 billion
-- **2023**: $2.6 billion
-- **2024**: $2.5 billion (estimated)
-
-This represents a **95% decline from peak**, with 2024 investment returning to levels last seen in 2004, before China's emergence as major global investor (Rhodium Group 2024). The collapse extends across sectors but concentrates in technology:
+FIRRMA's impact was immediate and severe. Chinese direct investment in the United States peaked at $45.6 billion in 2016, fell to $29.4 billion in 2017 as political sentiment shifted, and then dropped to $5.4 billion in 2018, the year FIRRMA was enacted. It has not recovered: annual flows have run between $2.5 billion and $5.1 billion every year since, with 2024 estimated at about $2.5 billion. That is a 95 percent decline from the peak, and it returns Chinese investment to a level last seen in 2004, before China emerged as a major global investor (Rhodium Group 2024). The collapse extends across sectors but concentrates in technology.
 
 {% hint style="info" %}
 **A Reversal Engineered, Not Suffered**
@@ -308,6 +300,13 @@ Investment screening has proven effective in achieving its primary objective: dr
 
 ---
 
+Figure 8.3 puts the screening regime's whole trajectory in one view. Filings rose steeply after FIRRMA, peaked at 440 covered transactions in 2022, and have eased since to 325 in 2024. The third panel carries the more interesting finding: the Chinese share of reviews peaked around 2016, before FIRRMA, and has fallen to roughly 12 percent. The screening regime was built for a wave of Chinese investment that had largely receded by the time the machinery was ready.
+
+<figure class="book-figure">
+  <img src="../figures/fig_08_03_cfius_reviews.png" alt="CFIUS review activity 2010-2024, with enforcement outcomes and the Chinese share of reviews.">
+  <figcaption>Figure 8.3: CFIUS review activity, 2010-2024: filings by type, enforcement outcomes, and the share of reviews involving Chinese investors.</figcaption>
+</figure>
+
 ## Industrial Policy Competition - The Return of the State
 
 For nearly four decades, Western economic policy embraced market-driven allocation of resources, viewing government industrial policy, meaning directed subsidies, mandates, and preferences for specific industries, as inefficient distortions that reduce competitiveness. The Washington Consensus held that governments should establish rule of law, protect property rights, maintain macroeconomic stability, and otherwise let markets determine winners and losers. China's rapid rise through aggressive industrial policy challenged this orthodoxy. Now, facing strategic competition and supply chain vulnerabilities exposed by the pandemic and geopolitical tensions, the United States and Europe have embraced industrial policy on unprecedented scale, directly competing with China's state-directed model. This section examines contemporary industrial policy competition, comparing U.S. and Chinese approaches, assessing early results, and evaluating prospects for success.
@@ -373,9 +372,11 @@ The **results** of these investments have been mixed. The Chinese semiconductor 
 
 ### Comparing Approaches: Market-Driven vs. State-Directed
 
+Figure 8.4 sets the recent programs side by side. The comparison should be read with care — the entries differ in duration, in the mix of grants, loans, and tax credits, and in how much was appropriated versus disbursed — but even after those caveats the convergence is the point: the distinction between market-driven and state-directed approaches has narrowed considerably from the American side.
+
 <figure class="book-figure">
-  <img src="../figures/fig_08_03_industrial_policy.png" alt="Industrial policy spending comparison between the U.S. and China across key technology sectors.">
-  <figcaption>Figure 8.3: Industrial policy spending comparison between the U.S. and China across key technology sectors.</figcaption>
+  <img src="../figures/fig_08_04_industrial_policy.png" alt="Industrial policy spending comparison between the U.S. and China across key technology sectors.">
+  <figcaption>Figure 8.4: Industrial policy spending comparison between the U.S. and China across key technology sectors.</figcaption>
 </figure>
 
 **U.S. Model: Strategic Industrial Policy within Market Framework**
@@ -414,6 +415,13 @@ The United States itself moved toward this instrument in 2025. On February 3, 20
 
 ---
 
+Figure 8.5 sets the headline commitments side by side, and the comparison should be read with care: the programs differ in duration, in their mix of grants, loans, and tax credits, and in how much was appropriated rather than disbursed. With those caveats the pattern still holds. American and European programs are now larger in headline terms than China's semiconductor funds, which is a reversal of the assumption that state-directed industrial policy is something other countries do.
+
+<figure class="book-figure">
+  <img src="../figures/fig_08_05_industrial_policy_compare.png" alt="Headline spending under recent U.S., Chinese, and European industrial policy programs.">
+  <figcaption>Figure 8.5: Headline commitments under recent U.S., Chinese, and European industrial policy programs.</figcaption>
+</figure>
+
 ## Informal Economic Coercion - The Australia Case
 
 Formal economic coercion operates through institutionalized mechanisms: CFIUS decisions, tariffs under Section 301, OFAC sanctions. Informal coercion employs state power outside formal frameworks, through customs delays, regulatory harassment, unofficial import restrictions, and consumer boycotts encouraged by state media, to impose costs while maintaining plausible deniability. China's 2020-2021 economic pressure on Australia exemplifies informal coercion dynamics: how it operates, why targets struggle to respond, and implications for middle powers navigating great power competition.
@@ -437,127 +445,54 @@ Chinese officials and state media delivered warnings:
 
 ### Economic Restrictions: Sectors Targeted
 
-Beginning May 2020, China imposed de facto restrictions on multiple Australian export sectors. Critically, these operated through administrative measures and unofficial guidance rather than formal tariff or ban announcements:
+From May 2020, China restricted a succession of Australian export sectors. What distinguished the campaign was its form: with two exceptions the measures were never announced as sanctions, and Chinese officials denied throughout that any political motive was involved. Restrictions arrived as anti-dumping determinations, customs delays, license suspensions, and unspecified "quality concerns" — the vocabulary of routine administration applied at a scale and timing that no one mistook for routine.
 
-**Barley (May 2020)**
-- **Action**: China imposed 80.5% anti-dumping and countervailing duties on Australian barley (MOFCOM Announcement No. 14 of 2020)
-- **Impact**: Australian barley exports to China fell from ~AUD 1.5 billion annually to near zero (Department of Foreign Affairs and Trade [DFAT], *Composition of Trade* 2021)
-- **Nominal justification**: Dumping investigation initiated 2018, but decision timing clearly political
-- **Australian response**: WTO dispute initiated (ultimately successful in 2024, with China removing tariffs; WTO Dispute DS598)
+Barley came first. In May 2020 MOFCOM imposed combined anti-dumping and countervailing duties of 80.5 percent (Announcement No. 14 of 2020), on the basis of an investigation opened in 2018 whose conclusion arrived, by coincidence, weeks after Canberra called for an independent inquiry into the origins of COVID-19. Australian barley exports to China fell from roughly AUD 1.5 billion a year to nearly nothing (DFAT, *Composition of Trade* 2021). Australia took the case to the WTO and eventually won: China removed the duties in 2024 (WTO Dispute DS598).
 
-**Beef (May-September 2020)**
-- **Action**: Four major Australian beef processors lost export licenses for "labeling violations," later expanded to more facilities (GACC notices 2020; Australian Meat Industry Council statements 2020)
-- **Impact**: Reduced but didn't eliminate Australian beef exports (other facilities continued, though facing delays)
-- **Justification**: Technical compliance issues (labeling, health certificates)
-
-**Wine (November 2020)**
-- **Action**: Anti-dumping duties of 107–212% on bottled Australian wine (MOFCOM Announcement No. 55 of 2020)
-- **Impact**: Australian wine exports to China collapsed from AUD 1.2 billion (2019) to AUD 12 million (2021)—a 99% decline. For Australian wineries, China had been the largest export market (~39% of exports) (Wine Australia *Export Report* 2022; DFAT 2022).
-- **Devastating sector impacts**: Treasury Wine Estates, Pernod Ricard Australia, and many smaller wineries faced revenue collapse, lay-offs, discounted inventory
+Beef followed between May and September 2020, when four major Australian processors lost their export licenses for labeling violations, with more facilities added later (GACC notices 2020; Australian Meat Industry Council statements 2020). The effect was to reduce rather than eliminate the trade, since other facilities continued to ship, though with delays. Wine, in November 2020, was the most severe: anti-dumping duties of 107 to 212 percent on bottled wine (MOFCOM Announcement No. 55 of 2020) at levels that amounted to exclusion from the market. Exports fell from AUD 1.2 billion in 2019 to AUD 12 million in 2021, a 99 percent collapse in a market that had been the industry's largest, taking about 39 percent of Australian wine exports (Wine Australia, *Export Report* 2022; DFAT 2022). Treasury Wine Estates, Pernod Ricard Australia, and a long tail of smaller producers faced revenue collapse, layoffs, and inventory they had nowhere to sell.
 
 {% hint style="info" %}
 **The 99% Wine Collapse**
 Australia's wine industry faced perhaps the most devastating blow of China's informal coercion campaign. Anti-dumping duties of 107-212% were prohibitively high—effectively a complete market exclusion dressed in trade law language. Wine exports to China plummeted from $1.2 billion to just $12 million in two years. For an industry where China had become the largest export market (39% of total), this represented an existential crisis. Regional towns dependent on wine exports faced severe economic hardship.
 {% endhint %}
 
-**Coal (October 2020-2022)**
-- **Action**: Unofficial import restrictions—Australian coal ships stuck at Chinese ports for months without customs clearance (General Administration of Customs of the PRC [GACC] data; Lowy Institute 2021)
-- **Impact**: Australian coal exports to China fell from AUD 14 billion (2019) to AUD 2.4 billion (2020) to near-zero in 2021 (DFAT *Composition of Trade* 2022; Office of the Chief Economist, Department of Industry)
-- **No formal announcement**: Chinese officials denied restrictions; customs simply delayed or rejected clearances for unspecified "quality concerns"
-- **Strategic dimensions**: Coal restrictions hurt Australian exports but also created Chinese domestic energy shortages (winter 2020-2021 power crises), demonstrating costs of coercion
+Coal was the largest by value and the least formal. From October 2020 Australian coal carriers sat off Chinese ports for months without customs clearance, with no announcement of any kind; officials denied that restrictions existed and customs simply declined to clear cargoes citing unspecified quality concerns (GACC data; Lowy Institute 2021). Exports fell from AUD 14 billion in 2019 to AUD 2.4 billion in 2020 and to near zero in 2021 (DFAT, *Composition of Trade* 2022; Office of the Chief Economist). The coal restrictions also illustrate the costs coercion imposes on the coercer: China's own power shortages during the winter of 2020-21 were worsened by the loss of Australian supply. Lobster, timber, and copper concentrates were caught up in the same pattern — live lobsters spoiling in customs at Chinese airports, timber blocked over pest concerns, copper shipments delayed.
 
-**Lobster, Timber, Copper**
-- Lobster: Customs delays leading to spoilage of live lobsters at airports
-- Timber: Import restrictions citing pest concerns
-- Copper ore and concentrates: Some restrictions and delays
+One sector was conspicuously untouched. Iron ore, by far the largest single component of the trade and the one where China's dependence on Australian supply was greatest, was never restricted. The omission is the clearest available evidence that the campaign was calibrated rather than indiscriminate: Beijing targeted the exports it could replace and left alone the one it could not.
+
+Figure 8.6 shows the campaign's selectivity better than any narrative can. Wine, barley, lobster, and coal fall by 94 to 98 percent; iron ore rises. The restricted goods are the ones China could buy elsewhere, and the single commodity it could not replace was left untouched throughout — which tells you the measures were designed to be affordable to the coercer, not merely painful to the target.
+
+<figure class="book-figure">
+  <img src="../figures/fig_08_06_australia_china.png" alt="Australian exports to China by product, comparing 2019 with 2021 and the partial recovery by 2023.">
+  <figcaption>Figure 8.6: Australian exports to China by product: 2019, 2021, and the partial recovery by 2023.</figcaption>
+</figure>
 
 ### Australian Responses and Economic Impact
 
-**Economic Costs**
+The cumulative trade impact ran past AUD 20 billion in affected exports over 2020-22, but the aggregate figure overstates the damage to Australia and understates the damage to particular industries. Exporters diversified faster than expected — wine to the United States, United Kingdom, and Southeast Asia; coal to India, Japan, and South Korea; barley to the Middle East and Southeast Asia — assisted by Export Market Development Grants. Meanwhile strong global demand for the unrestricted commodities, iron ore and LNG above all, kept Australia's overall trade balance in surplus throughout. The pain was real but concentrated: wine, barley, and lobster producers, and the regional economies built around them, absorbed nearly all of it.
 
-Cumulative trade impact estimated $20+ billion in affected exports over 2020-2022. However:
-- **Diversification partially mitigated**: Australian exporters found alternative markets (U.S., UK, Southeast Asia for wine; India, Japan, Korea for coal)
-- **Commodity prices**: Strong demand for iron ore, coal, and LNG (not restricted) meant Australia's overall trade balance remained positive
-- **Sector-specific pain**: Wine, barley, lobster industries suffered concentrated losses; regional economies dependent on these exports faced severe hardship
-
-**Policy Responses**
-
-**No policy reversal**: Australia maintained its positions:
-- Continued calling for COVID-19 investigation
-- Upheld Huawei 5G ban
-- Strengthened foreign interference legislation targeting Chinese influence, and tightened foreign investment review through the Foreign Relations Act (December 2020)
-- Deepened Five Eyes and Quad security cooperation
-- Announced AUKUS nuclear submarine partnership with U.S. and UK (September 2021)
-
-**Market diversification**:
-- Wine industry shifted to U.S., UK, Southeast Asian markets
-- Coal exporters increased sales to India, Japan, South Korea
-- Barley found buyers in Middle East, Southeast Asia
-- Government Export Market Development Grants supported diversification
+What Australia did not do was change any of the policies at issue. It continued to call for a COVID-19 inquiry, maintained the Huawei 5G exclusion, strengthened foreign-interference legislation, tightened investment review through the Foreign Relations Act of December 2020, deepened Five Eyes and Quad cooperation, and in September 2021 announced the AUKUS submarine partnership with the United States and United Kingdom. On any reading, Australia's alignment with Washington was closer at the end of the coercion campaign than at the beginning.
 
 {% hint style="success" %}
 **The Diversification Success Story**
 Australia's response to Chinese coercion offers a model for economic resilience. Rather than capitulating, Australia aggressively diversified export markets. Wine found new customers in the U.S., UK, and Southeast Asia. Coal redirected to India, Japan, and South Korea. Barley reached Middle Eastern and Southeast Asian buyers. While painful in the short term, this forced diversification ultimately reduced Australia's vulnerability to future Chinese pressure—demonstrating that economic coercion can backfire by motivating targets to build resilience rather than submit.
 {% endhint %}
 
-**WTO disputes**:
-- Challenged Chinese barley duties at WTO (successful 2024)
-- Prepared but didn't file wine dispute (bilateral relations thawing by 2023)
-
-**Closer U.S. alliance**:
-- AUKUS represented dramatic deepening of security ties
-- U.S. diplomatic support for Australia during Chinese pressure
-- Economic resilience strengthened through broader Indo-Pacific partnerships
+Australia also litigated where it could, winning the barley case at the WTO in 2024 and preparing a wine dispute it ultimately did not file as relations began to thaw in 2023.
 
 ### Easing of Restrictions (2023-2024)
 
-Following Chinese leadership transition dynamics and Australian government change (Labor Party's Anthony Albanese elected May 2022), bilateral relations gradually stabilized:
+Restrictions unwound gradually after the Labor Party's Anthony Albanese took office in May 2022 and both governments looked for a way down. Barley duties were removed in August 2023 once Australia suspended its WTO case; the wine duties went on 29 March 2024 after an expedited review; informal coal restrictions eased through 2023 and shipments resumed; and ministerial visits restarted after a three-year freeze.
 
-- **Barley**: Duties removed August 2023 after Australia suspended WTO case
-- **Wine**: Anti-dumping duties removed on 29 March 2024 following an expedited review
-- **Coal**: Informal restrictions eased 2023; exports resumed
-- **Ministerial engagement**: High-level visits resumed after three-year freeze
-
-**Reasons China eased pressure**
-
-Several factors contributed:
-1. **Limited effectiveness**: Australia didn't reverse policies; restrictions imposed costs on China (energy shortages, forfeited revenue)
-2. **Diversification**: Australian exporters found alternative markets, reducing future leverage
-3. **Reputational costs**: China's coercion alarmed other middle powers, driving them toward U.S. alignment
-4. **Broader strategy shift**: China sought to reduce tensions with multiple countries simultaneously (also stabilizing relations with Japan, South Korea, EU)
+Why Beijing eased is the more interesting question, and the answer bears directly on this book's framework. The campaign had not worked: Australia reversed nothing, and the restrictions imposed real costs on China, from winter power shortages to forfeited revenue. Australian exporters had found other buyers, which meant that the same measures applied again would bite less — the substitution margin had widened through use, exactly as the use-it-and-lose-it dynamic predicts. The reputational cost was substantial, since the episode was watched closely by every other middle power in the region and pushed several of them toward closer alignment with Washington. And China was by then seeking to stabilize relations with Japan, South Korea, and the European Union simultaneously, in which context an unsuccessful campaign against Australia had become a liability.
 
 ### Lessons: Informal Coercion Dynamics
 
-**Mechanisms**
+Informal coercion of this kind works through administrative discretion rather than announced policy: customs delays, regulatory harassment, license revocations for ostensible technical violations, amplified by state media encouragement of consumer boycotts. Its appeal to the coercer lies in three properties. It is difficult to challenge at the WTO, because there is formally nothing to challenge. It can be escalated or wound back without anyone having to reverse a stated position. And it preserves deniability, allowing diplomatic relations to continue while economic pressure is applied.
 
-Informal coercion operates through:
-- **Administrative discretion**: Customs delays, regulatory harassment, licensing revocations for ostensible technical violations
-- **Plausible deniability**: No formal government announcements; officials deny political motives
-- **Sector selectivity**: Target economically significant exports while avoiding escalation (iron ore untouched because China depends on Australian supply)
-- **State media amplification**: Nationalist sentiment, consumer boycott encouragement
+The same properties limit it. Deniability cuts both ways: measures that are never announced are also never credibly linked to demands, which makes it unclear to the target what compliance would even buy. Targets diversify, and each month of restriction reduces the leverage available next time. The costs fall on the coercer's own consumers and industries — China's power shortages being the clearest instance. Visible coercion of a middle power alarms every other middle power watching. And the target may simply decline to comply, as Australia did, accepting economic pain rather than conceding on questions it regarded as sovereign.
 
-**Advantages**
-
-- **Avoids WTO constraints**: Informal measures harder to challenge than explicit tariffs or quotas
-- **Flexibility**: Easily escalated or de-escalated without formal policy reversals
-- **Deniability**: Diplomatic relations can continue while economic pressure applied
-
-**Limitations**
-
-- **Market diversification**: Targets can find alternative buyers, reducing long-term leverage
-- **Domestic costs**: Restrictions harm Chinese consumers and industries (coal shortages)
-- **Reputational damage**: Visible coercion drives other countries toward rival alliances
-- **Targets may not comply**: Australia accepted economic pain rather than concede sovereignty
-
-**Middle Power Implications**
-
-Australia's experience demonstrates challenges facing middle powers:
-- **Asymmetric economic dependence**: China was Australia's largest trading partner (35% of exports); Australia represented smaller share of Chinese trade
-- **Security vs. economics trade-off**: Maintaining sovereignty and security alignment with U.S. required accepting economic costs
-- **Alliance value**: U.S. and allied support (diplomatic, security deepening via AUKUS) helped Australia withstand pressure
-- **Resilience through diversification**: Market access to U.S., Europe, Japan, India, Southeast Asia provided alternatives
-
-For countries like South Korea, ASEAN states, and others with high China trade dependence but security interests aligned with U.S., Australia's experience offers cautionary lessons: economic coercion is real, painful, but survivable with diversification and allied support (Chapter 9 places Australia's experience in historical context alongside other major economic coercion cases).
+For middle powers the episode is instructive in a specific way. Australia's dependence was genuinely asymmetric: China took around 35 percent of Australian exports, while Australia was a far smaller share of Chinese trade. That asymmetry did not translate into compliance, for three reasons — the restricted goods were substitutable on both sides, allied support was available and materially deepened through AUKUS, and alternative markets in the United States, Europe, Japan, India, and Southeast Asia existed to absorb the redirected trade. For South Korea, the ASEAN states, and others with heavy China trade exposure and security interests aligned with Washington, the lesson is neither that coercion is bluff nor that dependence is destiny: economic coercion is real, it is painful, and it is survivable with diversification and allied support. Chapter 9 places Australia's experience alongside the other major cases in the historical record.
 
 ---
 
@@ -864,52 +799,50 @@ The legislation demonstrates U.S. willingness to accept economic costs (delayed 
 ---
 
 ## References
+American Enterprise Institute, "China Global Investment Tracker," https://www.aei.org/china-global-investment-tracker/
 
-1. U.S. Department of the Treasury, "Annual Report to Congress on CFIUS, Calendar Year 2024" (published August 2025), https://home.treasury.gov/policy-issues/international/cfius-reports-and-tables
+Australian Bureau of Statistics, "International Trade in Goods and Services," various releases 2020-2024.
 
-2. Rhodium Group, "Two-Way Street: 2024 Update on US-China Investment Trends," Thilo Hanemann, Daniel H. Rosen, et al., May 2024.
+BIOSECURE Act, Section 851 of the National Defense Authorization Act for Fiscal Year 2026, Public Law 119-60 (December 18, 2025); originally H.R. 8333, 118th Congress (2024).
 
-3. U.S. Congress, Foreign Investment Risk Review Modernization Act of 2018 (FIRRMA), Public Law 115-232.
+Bloomberg News. 2024. "China Creates $47.5 Billion Chip Fund, Biggest to Date." Bloomberg, May 27.
 
-4. U.S. Congress, CHIPS and Science Act of 2022, Public Law 117-167.
+Center for Strategic and International Studies. 2023. *China Chip Fund Tracker: Mapping Chinese Semiconductor State Investment.* CSIS.
 
-5. U.S. Department of Commerce, CHIPS Program Office award announcements: Intel (March 2024), TSMC Arizona (April 2024), GlobalFoundries (February 2024), Micron (April 2024), and Samsung Texas (December 2024).
+Congressional Budget Office. Cost estimates and budgetary analyses of the CHIPS and Science Act, Inflation Reduction Act, and Infrastructure Investment and Jobs Act. 2022–2023.
 
-6. The White House, "Fact Sheet: President Donald J. Trump Secures Historic $100 Billion U.S. Investment from TSMC" (March 3, 2025).
+European Commission. 2025. "Report from the Commission to the European Parliament and the Council: Tenth annual report on the screening of foreign direct investments into the Union (2024)." COM(2025) 330 final.
 
-7. BIOSECURE Act, Section 851 of the National Defense Authorization Act for Fiscal Year 2026, Public Law 119-60 (December 18, 2025); originally H.R. 8333, 118th Congress (2024).
+Intel Corporation. Form 10-K for Fiscal Year 2025 (U.S. Securities and Exchange Commission), describing the U.S. government's approximately 10% equity investment (August 2025).
 
-8. Australian Bureau of Statistics, "International Trade in Goods and Services," various releases 2020-2024.
+International Energy Agency. *Solar PV Global Supply Chains* (2022) and *Global EV Outlook 2025*.
 
-9. State Council of the People's Republic of China, "Made in China 2025," 2015.
+Miller, Chris. 2022. *Chip War: The Fight for the World's Most Critical Technology.* New York: Scribner.
 
-10. Miller, Chris. *Chip War: The Fight for the World's Most Critical Technology.* New York: Scribner, 2022.
+National Association of Realtors. 2017. *International Transactions in U.S. Residential Real Estate*, annual reports. The $31.7 billion Chinese purchase peak is reported for the year ending March.
 
-11. European Commission, "Report from the Commission to the European Parliament and the Council: Tenth annual report on the screening of foreign direct investments into the Union (2024)," COM(2025) 330 final (June 2025).
+One Big Beautiful Bill Act of 2025, Public Law 119-21 (July 4, 2025).
 
-12. American Enterprise Institute, "China Global Investment Tracker," https://www.aei.org/china-global-investment-tracker/
+Protecting Americans from Foreign Adversary Controlled Applications Act, Division H of the 21st Century Peace through Strength Act, Public Law 118-50 (April 24, 2024); *TikTok Inc. v. Garland*, 604 U.S. ___ (2025) (per curiam).
 
-13. Rasser, Martijn, et al. "The CHIPS and Science Act: Here Comes the Hardest Part." Center for Strategic and International Studies, August 2022.
+Rasser, Martijn, et al. 2022. "The CHIPS and Science Act: Here Comes the Hardest Part." Center for Strategic and International Studies, August.
 
-14. Center for Strategic and International Studies. *China Chip Fund Tracker: Mapping Chinese Semiconductor State Investment.* CSIS, 2023.
+Rhodium Group. 2024. "Two-Way Street: 2024 Update on US-China Investment Trends." Thilo Hanemann, Daniel H. Rosen, et al.
 
-15. Bloomberg News. "China Creates $47.5 Billion Chip Fund, Biggest to Date." Bloomberg, May 27, 2024.
+State Council of the People's Republic of China. 2015. "Made in China 2025."
 
-16. Congressional Budget Office. Cost estimates and budgetary analyses of the CHIPS and Science Act, Inflation Reduction Act, and Infrastructure Investment and Jobs Act. 2022–2023.
+U.S. Congress, CHIPS and Science Act of 2022, Public Law 117-167.
 
-17. Protecting Americans from Foreign Adversary Controlled Applications Act, Division H of the 21st Century Peace through Strength Act, Public Law 118-50 (April 24, 2024); *TikTok Inc. v. Garland*, 604 U.S. ___ (2025) (per curiam).
+U.S. Congress, Foreign Investment Risk Review Modernization Act of 2018 (FIRRMA), Public Law 115-232.
 
-18. National Association of Realtors. *International Transactions in U.S. Residential Real Estate*, annual reports. The $31.7 billion Chinese purchase peak is reported for the year ending March 2017.
+U.S. Department of Commerce, CHIPS Program Office award announcements: Intel (March 2024), TSMC Arizona (April 2024), GlobalFoundries (February 2024), Micron (April 2024), and Samsung Texas (December 2024).
 
-19. One Big Beautiful Bill Act of 2025, Public Law 119-21 (July 4, 2025).
+U.S. Department of Defense. "Section 1260H List of Chinese Military Companies," updated June 8, 2026 (adding WuXi AppTec Co., Ltd.).
 
-20. The White House. "A Plan for Establishing a United States Sovereign Wealth Fund." Executive Order, February 3, 2025.
+U.S. Department of the Treasury. 2025. "Annual Report to Congress on CFIUS, Calendar Year 2024". https://home.treasury.gov/policy-issues/international/cfius-reports-and-tables
 
-21. Intel Corporation. Form 10-K for Fiscal Year 2025 (U.S. Securities and Exchange Commission), describing the U.S. government's approximately 10% equity investment (August 2025).
+The White House. 2025. "A Plan for Establishing a United States Sovereign Wealth Fund." Executive Order, February 3.
 
-22. U.S. Department of Defense. "Section 1260H List of Chinese Military Companies," updated June 8, 2026 (adding WuXi AppTec Co., Ltd.).
-
-23. International Energy Agency. *Solar PV Global Supply Chains* (2022) and *Global EV Outlook 2025*.
+The White House. 2025. "Fact Sheet: President Donald J. Trump Secures Historic $100 Billion U.S. Investment from TSMC."
 
 ---
-

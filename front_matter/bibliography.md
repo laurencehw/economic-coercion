@@ -135,6 +135,8 @@ Roberts, Anthea, Henrique Choer Moraes, and Victor Ferguson. 2019. "Toward a Geo
 
 ## Think-Tank, Government, and Press Reports {-}
 
+AgbioInvestor (formerly Phillips McDougall). 2020. *AgriFutura* and annual agrochemical market reports. Pathhead, Scotland. (Industry-subscription series; the crop-protection concentration figures cited here are drawn from summary reporting of this data.)
+
 Allen, Gregory C. 2022. "Choking Off China's Access to the Future of AI." Center for Strategic and International Studies (CSIS), October.
 
 Allen, Gregory C., and Emily S. Weinstein. 2023. "Huawei's Mate 60 Pro: China's Semiconductor Breakthrough." CSIS Commentary, September.
@@ -173,9 +175,9 @@ Del Rey, Jason. 2023. "Nvidia's China Problem Just Got a Lot Worse." *Vox*, Octo
 
 Department of Foreign Affairs and Trade (Australia) (DFAT). 2021–2022. *Composition of Trade, Australia 2021* and *Composition of Trade, Australia 2022*.
 
-Dollar, David. 2015. "China's Rise as a Regional and Global Power: The AIIB and the 'One Belt, One Road.'" Brookings Institution, Summer.
-
 Dollar, David, and Ryan Hass. 2024. "Has China Fallen from the Middle Class, or Is It a US Miscalculation?" Brookings Institution, March.
+
+Dollar, David. 2015. "China's Rise as a Regional and Global Power: The AIIB and the 'One Belt, One Road.'" Brookings Institution, Summer.
 
 Financial Times. 2024. "China Launches $47bn Chip Fund in Bid to Ease US Sanctions." *Financial Times*, May 27.
 
@@ -184,6 +186,8 @@ Hudson Institute. 2021. "China's Participation in the World Trade Organization."
 Intel Corporation. 2021. "Pat Gelsinger Named New CEO of Intel; Bob Swan to Step Down on February 15." Intel press release, January 13.
 
 IPlytics. 2023. "Who Is Leading the 5G Patent Race?" IPlytics Platform, Berlin.
+
+Jackson, James K. 2020. "The Committee on Foreign Investment in the United States (CFIUS)." CRS Report RL33388. Washington, DC: Congressional Research Service.
 
 Khan, Saif M., Alexander Mann, and Dahlia Peterson. 2021. "The Semiconductor Supply Chain: Assessing National Competitiveness." Center for Security and Emerging Technology (CSET), January.
 
@@ -231,6 +235,7 @@ Wall Street Journal. 2021. "Intel Names Pat Gelsinger CEO, Replacing Bob Swan." 
 
 Wine Australia. 2022. *Export Report: Year Ending 31 December 2021*.
 
+
 ## Government and International Organization Reports {-}
 
 Bank for International Settlements (BIS). 2022. "Triennial Central Bank Survey of Foreign Exchange and OTC Derivatives Markets: Cross-Border Payments and FX Settlement."
@@ -247,13 +252,17 @@ Cybersecurity and Infrastructure Security Agency (CISA). 2023. "People's Republi
 
 European Commission. 2023. "European Economic Security Strategy." June.
 
+Federal Bureau of Investigation (FBI). 2025. "North Korea Responsible for $1.5 Billion Bybit Hack." Public Service Announcement, February 26. https://www.ic3.gov.
+
 Food and Agriculture Organization of the United Nations (FAO). 2022. *The State of Food Security and Nutrition in the World 2022*. Rome.
 
 International Energy Agency (IEA). 2022. *World Energy Outlook 2022*. Paris.
 
+International Energy Agency (IEA). 2023. "Global EV Outlook 2023: Securing Supplies for an Electric Future." Paris.
+
 International Energy Agency (IEA). 2023. *World Energy Outlook 2023*. Paris.
 
-International Energy Agency (IEA). 2023. "Global EV Outlook 2023: Securing Supplies for an Electric Future." Paris.
+International Energy Agency (IEA). 2025. *Global EV Outlook 2025* and *Solar PV Global Supply Chains* update. Paris: IEA.
 
 International Monetary Fund (IMF). 2019. *World Economic Outlook: Growth Slowdown, Precarious Recovery*. Washington, DC.
 
@@ -261,21 +270,25 @@ International Monetary Fund (IMF). 2023. "Geoeconomic Fragmentation and the Futu
 
 National Academy of Sciences. 1987. *Balancing the National Interest: U.S. National Security Export Controls and Global Economic Competition*. National Academies Press.
 
+National Bureau of Statistics of China (NBS). 2025. "Statistical Communiqué on National Economic and Social Development for 2024." Beijing, February.
+
 National Intelligence Council (NIC). 2021. "Global Trends 2040: A More Contested World."
 
 Office of the United States Trade Representative (USTR). 2018. "Findings of the Investigation into China's Acts, Policies, and Practices Related to Technology Transfer, Intellectual Property, and Innovation under Section 301 of the Trade Act of 1974." March 22.
 
 Organisation for Economic Co-operation and Development (OECD). 2023. *Main Science and Technology Indicators*. Paris.
 
+Organization of the Petroleum Exporting Countries (OPEC). 2023. *Annual Statistical Bulletin 2023*. Vienna: OPEC.
+
+People's Bank of China (PBOC). 2024. *China Financial Stability Report* and e-CNY pilot updates. Beijing.
+
 Semiconductor Industry Association (SIA). 2021. "Incentives for U.S. Semiconductor Production." Washington, DC.
 
 Semiconductor Industry Association (SIA). 2023. "2023 State of the U.S. Semiconductor Industry." June.
 
-UNESCO Institute for Statistics. 2023. "Research and Development Expenditure (% of GDP)." Montreal.
+U.S. Department of Agriculture, Economic Research Service (USDA ERS). 2023. "Feed Grains Sector at a Glance" and *Grain: World Markets and Trade*. Washington, DC.
 
-United Nations Conference on Trade and Development (UNCTAD). 1991. *World Investment Report 1991: The Triad in Foreign Direct Investment*. Geneva.
-
-United Nations World Water Development Report. 2023. "Water, Food, and Energy Nexus." Paris: UNESCO.
+U.S. Department of Agriculture, Foreign Agricultural Service (USDA FAS). 2020. *Oilseeds: World Markets and Trade* and U.S. soybean export data. Washington, DC.
 
 U.S. Department of Commerce, Bureau of Industry and Security (BIS). 2022. "2022 Export Controls: Taking the Long View." October.
 
@@ -301,6 +314,12 @@ U.S. National Security Strategy. 2022. The White House, October.
 
 U.S. Pharmacopeia (USP). 2023. *Medicine Supply Map: 2023 Report on Pharmaceutical Supply Chain Vulnerability*.
 
+UNESCO Institute for Statistics. 2023. "Research and Development Expenditure (% of GDP)." Montreal.
+
+United Nations Conference on Trade and Development (UNCTAD). 1991. *World Investment Report 1991: The Triad in Foreign Direct Investment*. Geneva.
+
+United Nations World Water Development Report. 2023. "Water, Food, and Energy Nexus." Paris: UNESCO.
+
 White House. 2015. "U.S.-China Joint Presidential Statement on Climate Change." September 25.
 
 White House. 2017. *National Security Strategy of the United States of America*. December.
@@ -316,6 +335,7 @@ World Bank. 2022. "Commodity Markets Outlook: The Impact of the War in Ukraine o
 World Food Programme (WFP). 2024. "Yemen Emergency: Food Security Situation Report." Rome.
 
 World Trade Organization (WTO). 2020–2024. *China — Anti-Dumping and Countervailing Duty Measures on Barley from Australia* (DS598). WTO Dispute Settlement.
+
 
 ## Chinese Government and Academic Sources {-}
 

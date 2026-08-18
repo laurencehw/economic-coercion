@@ -35,6 +35,8 @@ The U.S. dollar's role as global reserve currency and dominant medium of exchang
 
 ### Dollar Privilege and Its Vulnerabilities
 
+Figure 10.1 sets out the reserve-currency trajectory that the scenarios in this chapter turn on. The decline in the dollar's share is real but gradual, and it has been running at a pace that would take decades to displace incumbency — which is why the interesting question is not the trend but what could interrupt it.
+
 <figure class="book-figure">
   <img src="../figures/fig_10_01_dollar_reserves.png" alt="Projected dollar share of global reserves under different scenarios from 2024-2050.">
   <figcaption>Figure 10.1: Projected dollar share of global reserves under different scenarios from 2024-2050.</figcaption>
@@ -44,93 +46,33 @@ The U.S. dollar's role as global reserve currency and dominant medium of exchang
 
 As of 2025Q3 and December 2025, the dollar's dominance spans every dimension of international finance. It comprises about 57% of allocated global foreign exchange reserves (down from 71% in 2000, IMF COFER Data Brief published December 19, 2025), and SWIFT payment data (published January 2026 for December 2025 flows) shows USD at roughly half of global payment value, rising to about 59% when euro-area internal payments are excluded. The dollar's role in foreign exchange markets remains even more pronounced: it sits on one side of roughly 88% of all foreign-exchange turnover (BIS 2022 Triennial Survey). Because every currency trade involves two currencies, individual shares sum to 200%, so this figure reflects the dollar's ubiquity as the market's vehicle currency rather than an 88% "market share." Over 60% of international bonds and loans remain dollar-denominated (BIS 2022; Prasad 2023).
 
-This dominance provides U.S. with:
-- **Seigniorage**: Profit from printing currency used globally
-- **Cheap borrowing**: Foreign demand for Treasury bonds lowers U.S. government borrowing costs (~0.3-0.5% interest rate reduction estimated, saving hundreds of billions annually)
-- **Financial sanctions power**: Ability to exclude adversaries from dollar systems imposes severe costs (Chapter 7 analysis)
+That position pays three distinct dividends. The first is seigniorage: the rest of the world holds dollars it does not spend, which amounts to an interest-free loan to the issuer. The second is cheaper borrowing, as foreign demand for Treasuries lowers U.S. government funding costs by an estimated thirty to fifty basis points — a saving measured in hundreds of billions of dollars a year. The third, and the one this book is principally concerned with, is coercive: the ability to exclude an adversary from dollar clearing imposes costs that no other single instrument of statecraft can match, for the reasons Chapter 7 sets out in detail.
 
 **Vulnerabilities and Risks**
 
-Dollar privilege faces erosion pressures:
+Each of these dividends is also a vulnerability, and the mechanism of erosion is the same use-it-and-lose-it dynamic that runs through the rest of the book.
 
-**1. Sanctions overuse risks credibility**
+The first pressure is sanctions overuse. Every deployment of financial sanctions is also a demonstration that dollar access is conditional, and it gives adversaries and neutrals alike a reason to reduce their exposure. Russia is the clearest case: the dollar share of its reserves fell from roughly 46 percent in early 2018 to about 22 percent within that year and into the low teens by 2024 (Bank of Russia, *Foreign Exchange and Gold Asset Management* reports), though the February 2022 freeze of some $300 billion — about half of Russia's reserves — makes deliberate diversification hard to disentangle from forced immobilization. China has diversified more quietly, and its reserve composition remains undisclosed, with the dollar still estimated at around 60 percent. More telling than either is that allies have raised the same concern: French and German officials objected to dollar weaponization after the extraterritorial Iran sanctions, which is a different order of complaint from an adversary's.
 
-Every use of financial sanctions demonstrates dollar vulnerability, incentivizing adversaries and even neutral parties to reduce dollar exposure:
-- Russia (post-2014 and especially post-2022) accelerated de-dollarization, cutting the dollar share of its reserves from roughly 46% in early 2018 to about 22% within that year and into the low teens by 2024 (Bank of Russia, Foreign Exchange and Gold Asset Management reports)—though the February 2022 freeze of roughly $300 billion, about half of Russia's reserves, makes deliberate diversification hard to disentangle from forced immobilization
-- China diversified reserves, though dollar still represents estimated 60% (exact composition undisclosed)
-- Even allies (France, Germany) expressed concerns about dollar weaponization following extraterritorial Iran sanctions
+The second pressure is infrastructural. CIPS, China's yuan-denominated clearing system, handled roughly RMB 175 trillion — about $24 trillion — in 2024 and has been growing at over 40 percent a year, though it still relies on SWIFT messaging for a substantial share of its traffic, a dependency Chapter 7 examines closely. Russia's SPFS functions but has attracted little international adoption. Stablecoins and cryptocurrencies offer settlement outside state control at the cost of volatility and limited scale. And more than 130 countries are exploring or piloting central bank digital currencies, with China's e-CNY the furthest advanced. None of these is close to substituting for the dollar system today; the significance is that each of them exists because the dollar system was used as an instrument of pressure.
 
-**2. Alternative payment systems emerging**
-
-Technology enables competing infrastructure:
-- **CIPS** (China Cross-Border Interbank Payment System): a yuan-denominated alternative to SWIFT, clearing roughly $24 trillion in 2024 (RMB 175 trillion) and growing 40-43% year-on-year, though it still relies on SWIFT messaging for a substantial share of transactions — Chapter 7 details its participant network and throughput
-- **SPFS** (Russia System for Transfer of Financial Messages): Russian SWIFT alternative, limited international adoption but functional
-- **Cryptocurrency and stablecoins**: Decentralized alternatives avoiding state control, though volatile and limited in scale
-- **Central Bank Digital Currencies (CBDCs)**: Over 130 countries exploring or piloting, with China's e-CNY furthest advanced
-
-**3. Geopolitical fragmentation**
-
-U.S.-China competition creates incentives for dollar alternatives:
-- China promotes yuan internationalization through Belt and Road Initiative, yuan-denominated oil futures (Shanghai), bilateral swap lines
-- BRICS exploring common currency or settlement mechanisms
-- Local currency settlements (yuan-ruble, yuan-real) bypass dollars
+The third pressure is straightforwardly geopolitical. China promotes renminbi internationalization through Belt and Road lending, yuan-denominated oil futures in Shanghai, and an expanding network of bilateral swap lines. BRICS members periodically explore a common settlement mechanism, if not a common currency. And local-currency settlement between pairs such as China and Russia, or China and Brazil, chips away at dollar intermediation transaction by transaction. Individually these are marginal; the argument for taking them seriously is cumulative.
 
 ### De-Dollarization Trajectories
 
-**Pathway 1: Gradual Erosion (Baseline Scenario)**
+Three pathways are worth distinguishing, because they have very different implications for how much warning the United States would have.
 
-Dollar share declines slowly (1-2% annually) through incremental shifts:
-- Central banks diversify reserves toward euro, yuan, gold
-- Bilateral trade increasingly settles in local currencies
-- Regional payment systems handle intra-regional transactions
+**Gradual erosion** is the baseline. The dollar's share declines one to two percentage points a year as central banks diversify toward the euro, the renminbi, and gold; as bilateral trade increasingly settles in local currencies; and as regional payment systems absorb intra-regional flows. On this path the dollar falls from about 57 percent of allocated reserves in 2025 to somewhere between 45 and 50 percent by 2035, and 35 to 40 percent by 2050. The United States borrows slightly more expensively but remains privileged; financial sanctions keep their force while facing more circumvention; and what emerges is a multipolar currency system with the dollar as first among equals rather than a successor hegemon.
 
-**Timeline**: Dollar drops from ~57% of reserves (2025Q3) to 45-50% (2035) to 35-40% (2050)
+**Crisis-driven abandonment** is the tail case. It requires a shock — a Taiwan conflict, a broader confrontation, a financial panic — severe enough to make dollar holdings look like a liability rather than an asset. In that world China sells Treasuries in earnest (its holdings stood at about $683.5 billion at the end of 2025, down from roughly $759 billion a year earlier and from a 2013 peak near $1.3 trillion, having slipped behind both Japan and the United Kingdom), oil exporters begin accepting yuan and euros for crude, and BRICS+ coordinates a shift out of dollar trade. The decline would be sharp rather than gradual — perhaps to 30 to 35 percent of reserves within a decade of the triggering crisis — and the transition would be violently disorderly: spiking U.S. interest rates, global financial instability, and a permanent reduction in American coercive capacity as alternative systems mature under pressure.
 
-**Implications**:
-- U.S. borrows slightly more expensively but remains privileged
-- Financial sanctions retain power but face greater circumvention
-- Multipolar currency system emerges with dollar as first among equals
+**Technology-driven displacement** operates on a longer clock and by a different mechanism. Here digital currencies erode dollar dominance not through geopolitical rupture but by being better: the e-CNY reaching critical mass across Belt and Road economies on the strength of instant settlement and lower transaction costs, crypto-based systems enabling evasion at scale, and programmable currencies with compliance embedded in the instrument itself displacing correspondent banking. Significant displacement on this path arrives in the 2040s rather than the 2030s. Its distinctive consequence is that the dollar could retain safe-haven status while losing transactional dominance — which would preserve the borrowing advantage while gutting the coercive one, and would make financial surveillance considerably harder.
 
-**Pathway 2: Crisis-Accelerated Fragmentation**
-
-Major crisis (Taiwan conflict, broader U.S.-China confrontation, global financial panic) triggers sudden dollar rejection:
-- China dumps Treasury holdings (about $683.5 billion at year-end 2025 on U.S. Treasury TIC data, down from roughly $759 billion a year earlier and from a 2013 peak near $1.3 trillion—China has by late 2025 slipped behind both Japan and the United Kingdom to third among foreign holders) or restricts yuan-dollar conversion
-- Oil exporters accept yuan/euros for crude, ending petrodollar
-- Coordinated shift by BRICS+ away from dollar trade
-
-**Timeline**: Sharp decline within 5-10 years of crisis, dollar falling to 30-35% of reserves by 2035
-
-**Implications**:
-- U.S. interest rates spike, borrowing costs surge
-- Financial sanctions lose much effectiveness as alternative systems mature
-- Global financial instability during transition
-- Permanent reduction in American economic coercion capabilities
-
-**Pathway 3: Technology-Driven Displacement**
-
-Digital currencies (CBDCs, cryptocurrencies) displace dollar through superior technology:
-- E-yuan achieves critical mass in Belt and Road countries, offering instant settlement, lower transaction costs
-- Cryptocurrency-based systems enable sanctions evasion at scale
-- Programmable currencies with embedded compliance replace traditional banking
-
-**Timeline**: Gradual acceleration as technology matures, significant shift by 2040-2050
-
-**Implications**:
-- Dollar retains safe-haven status but loses transaction dominance
-- Financial surveillance (tracking transactions) becomes harder
-- New regulatory challenges for controlling capital flows
-
-**Most Likely Scenario: Gradual Erosion with Periodic Acceleration**
-
-Baseline expectation combines slow structural decline with crisis-driven jumps. Major events (financial sanctions expansions, geopolitical crises) temporarily accelerate de-dollarization, followed by stabilization. By 2050:
-- Dollar: 35-45% of reserves (vs. ~57% today)
-- Yuan: 15-20% (vs. ~3% today)
-- Euro: 20-25% (vs. ~20% today)
-- Other (gold, SDRs, digital currencies): 15-20%
+The most defensible expectation combines the first pathway with episodes of the second: slow structural decline, punctuated by crisis-driven jumps that partly stabilize afterward. On that basis a 2050 landscape might place the dollar at 35 to 45 percent of allocated reserves, against roughly 57 percent today; the euro at 20 to 25 percent, close to its current share; gold, SDRs, and digital instruments together at 15 to 20 percent; and the renminbi somewhere between 8 and 15 percent, up from 1.93 percent in 2025Q3. That last range deserves emphasis, because it is the one most often overstated. The constraint on renminbi reserve accumulation is not China's economic size, which is already sufficient, but capital-account convertibility, legal predictability, and the willingness of foreign institutions to hold claims they may not be able to liquidate freely. Those are political choices Beijing has so far declined to make, and until it makes them, the renminbi's reserve share will lag its trade share by a wide margin.
 
 {% hint style="info" %}
 **The 2050 Currency Projection**
-If current trends continue, the global reserve currency landscape in 2050 will look substantially different from today. The dollar is unlikely to collapse, but it will share the stage. A multipolar currency system with the dollar at 35-45% of reserves (down from roughly 57% today) means the U.S. retains significant privilege but cannot unilaterally dictate global financial terms. Sanctions will require genuine multilateral coalitions to be effective. American financial hegemony appears to be receding; the open question is whether it recedes gradually and manageably, or suddenly and chaotically.
+If current trends continue, the global reserve currency landscape in 2050 will look substantially different from today. The dollar is unlikely to collapse, but it will share the stage. A multipolar currency system with the dollar at 35-45% of allocated reserves (down from roughly 57% in 2025) means the U.S. retains significant privilege but cannot unilaterally dictate global financial terms. Sanctions will require genuine multilateral coalitions to be effective. American financial hegemony appears to be receding; the open question is whether it recedes gradually and manageably, or suddenly and chaotically.
 {% endhint %}
 
 ### The Stablecoin Counterargument
@@ -165,22 +107,22 @@ Climate change is reshaping the conditions for economic coercion. It alters reso
 
 **The Green Transition's Material Requirements**
 
-Decarbonization demands massive increases in the production of a handful of specific minerals (IEA 2021). Lithium, the backbone of EV batteries and grid storage, ran at roughly 180,000 tons per year in 2023 (USGS Mineral Commodity Summaries 2024); reaching net zero implies 2 to 3 million tons per year by 2050 (IEA 2023; IEA Net Zero Roadmap). Its supply is geographically lopsided, with Australia mining about 50% and Chile 25%, while China accounts for only 15% of mining but fully 60% of processing (USGS 2024; Benchmark Mineral Intelligence 2024). Cobalt tells a similar story: battery cathodes drew on roughly 230,000 tons per year in 2023 (USGS Mineral Commodity Summaries 2024; Cobalt Institute), a figure that must climb to 500,000-700,000 tons by 2050 (IEA 2023; IEA Net Zero Roadmap), with the Democratic Republic of the Congo supplying about 74% and Russia and China another 25% combined (USGS 2024; cobalt production data). Rare earths—the magnets in wind turbines and EV motors—come from an already stressed supply chain in which China controls 85% of processing and 70% of mining (Chapter 2; the Chapter 9 rare-earth case). Nickel, copper, graphite, and manganese round out the list, each requiring two- to fivefold production increases.
+Decarbonization demands massive increases in the production of a handful of specific minerals (IEA 2021). Lithium, the backbone of EV batteries and grid storage, ran at roughly 180,000 tons per year in 2023 (USGS Mineral Commodity Summaries 2024); reaching net zero implies 2 to 3 million tons per year by 2050 (IEA 2023; IEA Net Zero Roadmap). Its supply is geographically lopsided, with Australia mining about 50% and Chile 25%, while China accounts for only 15% of mining but fully 60% of processing (USGS 2024; Benchmark Mineral Intelligence 2024). Cobalt tells a similar story: battery cathodes drew on roughly 230,000 tons per year in 2023 (USGS Mineral Commodity Summaries 2024; Cobalt Institute), a figure that must climb to 500,000-700,000 tons by 2050 (IEA 2023; IEA Net Zero Roadmap), with the Democratic Republic of the Congo supplying about 74% and Russia and China another 25% combined (USGS 2024; cobalt production data). Rare earths—the magnets in wind turbines and EV motors—come from an already stressed supply chain in which China controls roughly 90% of processing and 70% of mining (Chapter 2; the Chapter 9 rare-earth case). Nickel, copper, graphite, and manganese round out the list, each requiring two- to fivefold production increases.
 
 **New Dependencies Replace Old**
 
 Figure 10.2 visualizes the relocation of strategic dependencies: legacy hydrocarbon exposure concentrated in OPEC and Russia shifts toward critical-mineral processing concentrated overwhelmingly in the People's Republic of China.
 
 <figure class="book-figure">
-  <img src="../figures/fig_10_05_new_dependencies.png" alt="Shift in strategic dependencies from hydrocarbons to critical minerals, comparing OPEC's historical oil share with China's current processing share of lithium, cobalt, and rare earths.">
+  <img src="../figures/fig_10_02_new_dependencies.png" alt="Shift in strategic dependencies from hydrocarbons to critical minerals, comparing OPEC's historical oil share with China's current processing share of lithium, cobalt, and rare earths.">
   <figcaption>Figure 10.2: From oil to minerals — the relocation of strategic dependencies in the energy transition.</figcaption>
 </figure>
 
-Transitioning from fossil fuels to renewables does not eliminate strategic dependencies so much as relocate them, from oil producers to mineral processors, and the concentration is if anything more acute. Where OPEC produced roughly 40% of the world's oil, China processes 60 to 85% of the key minerals—a tighter chokepoint than the one that defined the twentieth century. Mining itself remains dispersed across the globe, but refining has pooled in China, drawn there by economies of scale, a willingness to externalize environmental costs, and tightly integrated supply chains. The same concentration extends downstream into manufacturing, with battery production, solar panels, and wind-turbine assembly all commanding a 60 to 80% Chinese share of the global market.
+Transitioning from fossil fuels to renewables does not eliminate strategic dependencies so much as relocate them, from oil producers to mineral processors, and the concentration is if anything more acute. Where OPEC produced roughly 40% of the world's oil, China processes 60 to 90% of the key minerals—a tighter chokepoint than the one that defined the twentieth century. Mining itself remains dispersed across the globe, but refining has pooled in China, drawn there by economies of scale, a willingness to externalize environmental costs, and tightly integrated supply chains. The same concentration extends downstream into manufacturing, with battery production, solar panels, and wind-turbine assembly all commanding a 60 to 80% Chinese share of the global market.
 
 {% hint style="warning" %}
 **From Oil to Minerals: A Relocation of Dependence**
-The green energy transition does not end resource-based strategic vulnerabilities; it transforms them. China's dominance of critical mineral processing (60-85% of lithium, cobalt, rare earths) exceeds OPEC's historical control of oil (40%). The 1970s oil shocks demonstrated how resource concentration enables coercion, and the 2010 rare earth embargo (Chapter 9) illustrated the same dynamic more recently. Building alternative processing capacity is a costly, environmentally challenging, decade-long project; absent that investment, the clean energy transition leaves the West dependent on Chinese processing.
+The green energy transition does not end resource-based strategic vulnerabilities; it transforms them. China's dominance of critical mineral processing (60-90% of lithium, cobalt, rare earths) exceeds OPEC's historical control of oil (40%). The 1970s oil shocks demonstrated how resource concentration enables coercion, and the 2010 rare earth embargo (Chapter 9) illustrated the same dynamic more recently. Building alternative processing capacity is a costly, environmentally challenging, decade-long project; absent that investment, the clean energy transition leaves the West dependent on Chinese processing.
 {% endhint %}
 
 **Strategic Implications**
@@ -190,6 +132,13 @@ This relocation of dependence carries several strategic implications. China's gr
 **Mitigation Strategies**
 
 Western nations are pursuing diversification through investments in alternative mining in the United States, Canada, and Australia, along with expanded processing capacity. Recycling offers a complementary pathway, with battery recycling projected to provide 25-30% of lithium and cobalt needs by 2040, reducing virgin material requirements. Technology substitution, including sodium-ion batteries, rare-earth-free motors, and alternative chemistries, could further diminish dependence on concentrated supply sources. Governments are also stockpiling critical minerals as strategic reserves, and friend-shoring efforts aim to develop supply chains through allied countries such as Australia, Canada, Chile, and Peru.
+
+Figure 10.3 separates mining from processing for the minerals the energy transition depends on, and the gap between the two is the whole argument of this section. Mining is spread across Australia, Chile, Indonesia, and the Democratic Republic of the Congo; refining is not. The chokepoint the transition creates sits downstream, where capital is patient, permitting is hardest, and China has spent two decades building.
+
+<figure class="book-figure">
+  <img src="../figures/fig_10_03_critical_minerals.png" alt="Processing and mining shares for critical minerals by country.">
+  <figcaption>Figure 10.3: Critical mineral processing and mining shares by country, showing the concentration of refining capacity.</figcaption>
+</figure>
 
 ### Water Scarcity and Agricultural Leverage
 
@@ -228,9 +177,11 @@ Artificial intelligence, quantum computing, biotechnology, and space systems mar
 
 ### Artificial Intelligence: The Defining Technology Competition
 
+Figure 10.4 revisits the AI indicators introduced in Chapter 4, now as inputs to the scenarios below. Their divergence is what makes the technology competition hard to score in advance, and it is the principal reason the scenario probabilities offered here are wide.
+
 <figure class="book-figure">
-  <img src="../figures/fig_10_03_ai_indicators.png" alt="AI development indicators comparing U.S. and China across research, talent, compute, and applications.">
-  <figcaption>Figure 10.3: AI development indicators comparing U.S. and China across research, talent, compute, and applications.</figcaption>
+  <img src="../figures/fig_10_04_ai_indicators.png" alt="AI development indicators comparing U.S. and China across research, talent, compute, and applications.">
+  <figcaption>Figure 10.4: AI development indicators comparing U.S. and China across research, talent, compute, and applications.</figcaption>
 </figure>
 
 **AI Strategic Significance**
@@ -379,146 +330,57 @@ Projecting 25 years into an uncertain future requires scenario analysis: develop
 - **Managed competition**: Rules-based rivalry, crisis management mechanisms, limited escalation
 - **Intense confrontation**: Economic warfare, comprehensive coercion, crisis-prone, risk of military conflict
 
-Combining these dimensions generates four scenarios. Figure 10.4 places each scenario on the two-dimensional uncertainty space and summarizes the bilateral trade, reserve-currency shares, and alliance configurations associated with each outcome.
+Combining these dimensions generates four scenarios. Figure 10.5 places each scenario on the two-dimensional uncertainty space and summarizes the bilateral trade, reserve-currency shares, and alliance configurations associated with each outcome.
 
 <figure class="book-figure">
-  <img src="../figures/fig_10_04_decoupling_scenarios.png" alt="Four-scenario matrix mapping economic integration against competition intensity, with probability weights and key indicators for each future.">
-  <figcaption>Figure 10.4: Four scenarios for U.S.–China economic competition, 2035–2050, mapped on the integration × intensity axes.</figcaption>
+  <img src="../figures/fig_10_05_decoupling_scenarios.png" alt="Four-scenario matrix mapping economic integration against competition intensity, with probability weights and key indicators for each future.">
+  <figcaption>Figure 10.5: Four scenarios for U.S.–China economic competition, 2035–2050, mapped on the integration × intensity axes.</figcaption>
 </figure>
 
-### Scenario A: Managed Competition with Selective Integration (Baseline - 40% probability)
+### Scenario A: Managed Competition with Selective Integration (Baseline — 40% probability)
 
-**Description**
+The baseline is not a resolution but a continuation. Competition stays intense and stays managed: decoupling proceeds sector by sector — semiconductors, artificial intelligence, biotechnology, defense-critical technologies — while trade in everything else continues largely undisturbed. The institutional machinery of crisis management holds well enough that Taiwan and the South China Sea remain below the military threshold, sustained by deterrence, back-channel communication, and the absence on both sides of any appetite for the alternative.
 
-U.S. and China maintain intense but managed strategic competition, combining sectoral decoupling (semiconductors, AI, biotechnology, critical defense tech) with continued trade in non-strategic goods. Institutional frameworks (WTO, G20, bilateral summits) facilitate crisis management. Regional conflicts (Taiwan, South China Sea) remain below military threshold through deterrence and diplomacy.
+Economically, the shape of this world is already visible. Bilateral goods trade settles in the $400–500 billion range, well below the 2022 record of $690 billion but stable rather than collapsing further. Technology ecosystems diverge along standards rather than borders: Chinese specifications in 5G, AI governance, and digital payments spread across much of Asia, Africa, and Latin America, while Western standards hold in Europe, North America, and among treaty allies — a division that matters more for the next generation of infrastructure than for current trade. Friend-shoring reorganizes the strategic segments of supply chains without touching commodity trade, which remains stubbornly global because it is stubbornly fungible. The dollar's share of reserves continues its slow erosion, drifting toward the low fifties, with the euro roughly steady and the renminbi climbing from under 2 percent into the low-to-mid single digits — a meaningful increase in relative terms and an almost negligible one in absolute share, which is the pattern the evidence in Chapter 7 supports.
 
-**Economic patterns**:
-- Bilateral U.S.-China trade: $400-500B annually (down from $690B peak but stable)
-- Technology ecosystems diverge: Chinese standards (5G, AI governance, digital currency) dominate Asia/Africa/Latin America; Western standards in Europe/North America/allies
-- Supply chain friend-shoring: Semiconductors, batteries, critical minerals sourced from allied countries but commodity trade remains global
-- Dollar share of reserves: 40-45% (gradual decline), yuan 15-18%, euro 22-25%
+Coordination in this world is chronically strained but never breaks. G7 alignment survives recurring disputes over who bears which cost; BRICS+ expands in membership without converting size into coherence; and the Global South maintains the non-alignment that has served it well, extracting concessions from both sides precisely by declining to choose. Financial sanctions keep most of their force but face steadily more circumvention through renminbi-denominated trade and alternative payment rails. Export controls concentrate on the genuine frontier — leading-edge logic, AI accelerators, quantum systems — while investment screening is comprehensive in strategic sectors and largely absent elsewhere.
 
-**Alliance structures**:
-- G7 coordination persists but strained by cost disputes
-- BRICS+ expands but remains loosely coordinated
-- Global South maintains non-alignment, extracting concessions from both sides
-
-**Economic coercion**:
-- Financial sanctions retain power but face greater circumvention (yuan-based trade, alternative payment systems)
-- Export controls target cutting-edge technology (advanced semiconductors, AI chips, quantum systems)
-- Investment screening comprehensive in strategic sectors, open in consumer goods
-
-**Policy implications**:
-- Sustain multilateral coordination despite frictions
-- Invest in technology leadership (AI, quantum, biotech, clean energy)
-- Manage Global South relationships through development finance, technology sharing
-- Maintain crisis communication channels to prevent escalation
-
-**Probability**: 40% (baseline scenario reflecting current trajectory extension)
+For policymakers this is the least dramatic and most demanding scenario, because it offers no crisis to force decisions. It rewards sustained multilateral coordination through friction that never quite becomes rupture, continued investment in the technologies where leadership is the source of leverage, patient management of Global South relationships through development finance rather than pressure, and the unglamorous maintenance of crisis-communication channels whose value is entirely counterfactual.
 
 ### Scenario B: Economic Cold War with Deep Fragmentation (25% probability)
 
-**Description**
-
-U.S.-China confrontation escalates into comprehensive economic warfare following major crisis (Taiwan conflict, South China Sea clash, tech cold war spiral). Rival blocs emerge with minimal cross-bloc trade, parallel institutions, incompatible technology standards. Risk of military conflict elevated.
-
-**Trigger events**: Taiwan crisis (military confrontation or reunification), comprehensive U.S. tech embargo triggers Chinese retaliation, financial crisis weaponizes dollar leading to sudden de-dollarization
+An economic cold war does not arrive by drift. It requires a rupture — a Taiwan confrontation, a South China Sea clash, a technology embargo comprehensive enough to demand comprehensive retaliation — after which continued integration becomes politically impossible on both sides. Rival blocs consolidate, cross-bloc trade falls to a residue, institutions duplicate, and technology standards become deliberately incompatible. The risk of military conflict is materially higher in this world than in any other on this list, which is the reason it deserves attention out of proportion to its probability.
 
 {% hint style="warning" %}
 **Cold War Triggers**
 An economic cold war would not arrive gradually; it would be triggered by a specific crisis that makes continued integration politically impossible. The most likely trigger is a Taiwan confrontation. If China blockades or invades Taiwan, the U.S. would face pressure for comprehensive sanctions, China would retaliate with export restrictions and debt weaponization, and allies would be forced to choose sides. Other plausible triggers include a South China Sea military clash, a catastrophic cyberattack attributed to state actors, or a financial crisis weaponized by either side. Scenario B is most likely to emerge from one of these crisis points.
 {% endhint %}
 
-**Economic patterns**:
-- U.S.-China trade collapses to <$100B annually (mostly agriculture, raw materials)
-- Complete technology decoupling: No Chinese access to Western semiconductors, AI systems, biotechnology; U.S. cuts off from Chinese rare earths, critical minerals, manufactured goods
-- Dollar loses reserve status rapidly: 25-30% of reserves, yuan 20-25%, euro 25-30%, gold/alternatives 20-25%
-- Global recession during transition: Supply chain disruptions, financial instability, reduced growth
+Bilateral trade collapses below $100 billion, and what survives is mostly agricultural and raw-material flows that neither side can readily replace. Technology decoupling becomes total in both directions: no Chinese access to Western semiconductors, AI systems, or advanced biotechnology, and no American access to Chinese rare earths, refined critical minerals, or the manufactured goods that pass through them. Reserve composition shifts fast rather than gradually — the dollar falling toward a quarter to a third of reserves, the yuan and euro absorbing much of the difference, gold and alternatives the rest — not because the alternatives have become attractive but because the cost of holding assets a hostile jurisdiction can freeze has finally exceeded the convenience of holding them. Global recession accompanies the transition, as it must when comparative advantage is discarded by administrative decision.
 
-**Alliance structures**:
-- NATO economic coordination deepens (shared sanctions enforcement, technology sharing, trade preferences)
-- BRICS+ becomes coherent anti-Western bloc led by China
-- Global South forced into alignment or faces isolation
+Alliances harden into their blocs. NATO's economic dimension deepens into shared sanctions enforcement, technology pooling, and preferential trade; BRICS+ becomes the coherent anti-Western grouping it has so far declined to be, under unambiguous Chinese leadership; and the Global South's room for non-alignment closes, replaced by a choice most of its members would prefer not to make. Paradoxically, economic coercion becomes less effective in this world even as it becomes more total. Financial sanctions lose their bite as alternative systems mature under the pressure of necessity; export controls extend to everything strategic and therefore discriminate among nothing; and with two self-contained systems, the leverage that came from being the hub of a single one is simply gone.
 
-**Economic coercion**:
-- Financial sanctions lose effectiveness as alternative systems mature (CIPS, BRICS currency, cryptocurrency)
-- Comprehensive export controls on all strategic goods
-- Complete investment bans between blocs
-- Trade restrictions extend to consumer goods (high tariffs, quotas)
-
-**Humanitarian costs**: Lower living standards globally (reduced efficiency from lost comparative advantage), developing countries face fragmented technology access, climate transition slows (cooperation collapsed)
-
-**Policy implications**:
-- Prepare for supply chain independence (expensive but necessary for security)
-- Strengthen allied integration (coordinate industrial policies, share technologies, burden-share costs)
-- Develop alternative supply chains before crisis forces rushed, costly adaptation
-- Manage escalation risks to prevent military conflict
-
-**Probability**: 25% (tail risk requiring major triggering crisis)
+The policy implications are uncomfortable, because most of them involve spending heavily on capabilities one hopes never to need. Supply-chain independence in critical sectors is expensive and, in this scenario, unavoidable. Allied integration must deepen from coordination into something closer to shared industrial policy. Alternative supply chains are far cheaper to build before a crisis than during one. And above all, escalation management becomes the central task, since the distance between economic and military conflict is shorter here than anywhere else on this list.
 
 ### Scenario C: Crisis-Driven Fragmentation with Regional Variation (20% probability)
 
-**Description**
+The third scenario is the one that resembles most previous breakdowns of an international economic order: not a clean bipolar split but an uneven unravelling. A sequence of shocks — a pandemic, a financial crisis, several regional conflicts running at once — fragments globalization by sector and by region rather than by alliance. Energy, food, and commodities stay broadly integrated because integration is cheaper than the alternative; technology, finance, and defense industry fragment because the security case overwhelms the efficiency case. What emerges is not two blocs but several regions with genuinely different characteristics.
 
-Series of crises (pandemic, financial shock, regional conflicts) fragment globalization unevenly by sector and region. Some domains remain integrated (energy, food, commodities), others fragment (technology, finance, defense). Regional blocs (Asian, European, Western Hemisphere) develop distinct characteristics rather than global bipolar split.
+Trade volumes fall twenty to thirty percent from their peak and then stabilize. Supply chains reorganize on regional lines: an Americas-centred network linking the United States, Mexico, Canada, and Brazil; an Asia-Pacific network organized around China but including Japan, Korea, and ASEAN despite persistent friction; and a European network with deep African ties. Technology standards regionalize with limited cross-compatibility, which raises costs everywhere and creates durable advantages for whoever sets each region's specifications. Currencies fragment too, with the dollar, euro, and yuan all weakening in relative terms as regional currencies — the rupee in South Asia, the real in Latin America — take on functions they have not held before.
 
-**Trigger events**: Pandemic exposing vulnerabilities triggers protectionism; financial crisis causes sudden capital controls; multiple regional conflicts (Taiwan, Ukraine, Middle East) simultaneously
+American alliances weaken in this world, less through any decision than through the erosion of domestic support for global commitments, while regional institutions such as ASEAN, the African Union, and the OAS grow correspondingly more important. China pursues regional hegemony in Asia while scaling back global ambitions it can no longer afford. Coercion in this environment becomes strikingly uneven: the United States retains real leverage in the Americas, China in much of Asia, and Europe becomes relatively independent of both. Sanctions require regional rather than global coordination to work at all, and the seams between fragmented systems create arbitrage opportunities that erode everyone's coercive capacity — the substitution margin widening for all targets simultaneously.
 
-**Economic patterns**:
-- Trade volumes decline 20-30% from peak but stabilize
-- Regional supply chains: "Americas-centric" (U.S.-Mexico-Canada-Brazil), "Asia-Pacific" (China-ASEAN-Japan-Korea with tensions), "European" (EU-UK-Africa ties)
-- Technology ecosystems regionalized: Each bloc develops standards, with limited cross-compatibility
-- Dollar, euro, yuan all weaken as regional currencies gain (rupee in South Asia, real in Latin America)
-
-**Alliance structures**:
-- U.S. alliances weaken (reduced public support for global commitments)
-- Regional institutions strengthen (ASEAN, AU, OAS)
-- China pursues regional hegemony in Asia but limited global ambitions
-
-**Economic coercion**:
-- Effectiveness varies by region: U.S. maintains leverage in Americas, China in Asia, Europe relatively independent
-- Sanctions require regional coordination rather than global
-- Fragmented systems create arbitrage opportunities, reducing all countries' coercion capabilities
-
-**Policy implications**:
-- Prioritize regional partnerships over global frameworks
-- Accept reduced global influence, focus on vital interests
-- Diversify dependencies (technology, resources, finance) to operate in a fragmented world
-- Maintain flexibility to adapt as regional dynamics shift
-
-**Probability**: 20% (plausible but requires specific crisis sequence)
+The policy response this scenario demands runs against instinct. It rewards prioritizing regional partnerships over global frameworks, accepting reduced global influence in order to concentrate resources on vital interests, diversifying technological, resource, and financial dependencies for a world in which no single system is reliable, and preserving enough flexibility to adapt as regional dynamics diverge in ways that cannot be forecast from the present.
 
 ### Scenario D: Renewed Integration and Managed Competition (15% probability)
 
-**Description**
+The least likely scenario is also the one most dependent on catastrophe. Renewed cooperation between the United States and China is difficult to reach from current conditions by ordinary political means; what could produce it is a shared threat large enough to dwarf the competition — climate damage exceeding the worst current projections, a pandemic substantially deadlier than COVID-19, or an economic depression severe enough to make mutual recrimination unaffordable. This is worth stating plainly, because a scenario whose most plausible pathway runs through disaster is not an optimistic one.
 
-Major shared threats (climate crisis exceeding worst projections, pandemic deadlier than COVID-19, economic depression) compel cooperation. U.S. and China recognize mutual interests outweigh competitive dynamics. Renewed globalization with reformed institutions providing better governance.
+If it arrives, bilateral trade rebounds toward $600–700 billion, and technology cooperation resumes in the areas where the shared threat lies: clean energy and carbon capture, pandemic preparedness and surveillance. The WTO is reformed with rules that finally address state-owned enterprises, industrial subsidies, and digital trade — the three questions its existing framework was never designed to answer. The dollar remains dominant at 55–60 percent of reserves, but under multilateral oversight arrangements that constrain its weaponization, which is the bargain that makes continued dominance acceptable to everyone else.
 
-**Trigger events**: Climate catastrophe (massive crop failures, sea level rise displacing hundreds of millions); pandemic with high lethality forcing cooperation; financial crisis threatening global depression
+Institutionally, the G20 displaces the G7 as the primary coordination forum, BRICS integrates into reformed global governance rather than building a parallel system alongside it, and Security Council reform finally reflects the distribution of power rather than the settlement of 1945. Economic coercion does not disappear but narrows sharply, reserved for genuinely threatening actors — proliferators, rogue states, terrorist financing — and applied with something approaching universal enforcement. Technology controls target proliferation risk rather than competitive advantage, which is the distinction the current regime has found hardest to sustain.
 
-**Economic patterns**:
-- Trade rebounds to near pre-competition levels ($600-700B U.S.-China)
-- Technology cooperation on climate (clean energy, carbon capture, geoengineering), health (pandemic preparedness)
-- Reformed WTO with updated rules managing state-owned enterprises, subsidies, digital trade
-- Dollar remains dominant (55-60% reserves) but with multilateral oversight preventing weaponization
-
-**Alliance structures**:
-- G20 becomes primary coordination forum, G7 less exclusive
-- BRICS integrates into reformed global governance rather than parallel system
-- UN Security Council reformed to reflect contemporary power distribution
-
-**Economic coercion**:
-- Restrained use due to cooperation norms
-- Focused on truly threatening actors (rogue states, terrorist groups) with universal enforcement
-- Technology controls target proliferation risks (bioweapons, nuclear) rather than competitive advantage
-
-**Policy implications**:
-- Invest in cooperative frameworks despite current tensions
-- Maintain institutional capacity for integration
-- Address legitimacy deficits in current global governance
-- Prepare for black swan events demanding cooperation
-
-**Probability**: 15% (optimistic scenario requiring either catastrophe forcing cooperation or unlikely political realignment)
+Even at fifteen percent, this scenario carries a practical implication: the institutional capacity for cooperation is far easier to preserve than to rebuild. Investment in cooperative frameworks during a period of tension is cheap insurance against a world in which they are suddenly needed, and the legitimacy deficits in current global governance — the ones the Global South names consistently and the West addresses intermittently — are precisely what would have to be repaired first.
 
 ### Cross-Scenario Lessons
 
@@ -700,35 +562,34 @@ Understanding Chinese perspectives doesn't require accepting their validity but 
 
 [Abbreviated reference list highlighting key sources]
 
-1. Farrell, Henry, and Abraham L. Newman. "Weaponized Interdependence: How Global Economic Networks Shape State Coercion." *International Security* 44, no. 1 (Summer 2019): 42-79.
+Allison, Graham. 2017. *Destined for War: Can America and China Escape Thucydides's Trap?* Houghton Mifflin Harcourt.
 
-2. International Energy Agency. *The Role of Critical Minerals in Clean Energy Transitions.* IEA, 2021.
+Bank for International Settlements. "Triennial Central Bank Survey of Foreign Exchange and OTC Derivatives Markets." Various years.
 
-3. National Intelligence Council. *Global Trends 2040: A More Contested World.* NIC, 2021.
+Bank of Russia (Central Bank of the Russian Federation). *Foreign Exchange and Gold Asset Management Reports.* Moscow, various years.
 
-4. Stanford University. *Artificial Intelligence Index Report.* Stanford HAI, annual (2024 edition).
+Blackwill, Robert D., and Jennifer M. Harris. 2016. *War by Other Means: Geoeconomics and Statecraft.* Harvard University Press.
 
-5. Blackwill, Robert D., and Jennifer M. Harris. *War by Other Means: Geoeconomics and Statecraft.* Harvard University Press, 2016.
+Drezner, Daniel W. 2021. *The Uses and Abuses of Weaponized Interdependence.* Brookings Institution Press.
 
-6. Miller, Chris. *Chip War: The Fight for the World's Most Critical Technology.* Scribner, 2022.
+Economy, Elizabeth C. 2022. *The World According to China.* Polity.
 
-7. Drezner, Daniel W. *The Uses and Abuses of Weaponized Interdependence.* Brookings Institution Press, 2021.
+Farrell, Henry, and Abraham L. Newman. 2019. "Weaponized Interdependence: How Global Economic Networks Shape State Coercion." *International Security* 44, no. 1: 42-79.
 
-8. World Bank. *Groundswell Part 2: Acting on Internal Climate Migration.* World Bank, 2021.
+GENIUS Act (Guiding and Establishing National Innovation for U.S. Stablecoins Act). Enacted July 18, 2025.
 
-9. Economy, Elizabeth C. *The World According to China.* Polity, 2022.
+Google Quantum AI. 2024. "Quantum Error Correction Below the Surface Code Threshold." *Nature*, published online December 9.
 
-10. Allison, Graham. *Destined for War: Can America and China Escape Thucydides's Trap?* Houghton Mifflin Harcourt, 2017.
+International Energy Agency. 2021. *The Role of Critical Minerals in Clean Energy Transitions.* IEA.
 
-11. Prasad, Eswar. "Has the Dollar Lost Ground as the Dominant International Currency?" Brookings Institution, September 2023.
+Miller, Chris. 2022. *Chip War: The Fight for the World's Most Critical Technology.* Scribner.
 
-12. Bank for International Settlements. "Triennial Central Bank Survey of Foreign Exchange and OTC Derivatives Markets." Various years.
+National Intelligence Council. 2021. *Global Trends 2040: A More Contested World.* NIC.
 
-13. Bank of Russia (Central Bank of the Russian Federation). *Foreign Exchange and Gold Asset Management Reports.* Moscow, various years.
+Prasad, Eswar. 2023. "Has the Dollar Lost Ground as the Dominant International Currency?" Brookings Institution, September.
 
-14. Google Quantum AI. "Quantum Error Correction Below the Surface Code Threshold." *Nature*, published online December 9, 2024.
+Stanford University. *Artificial Intelligence Index Report.* Stanford HAI, annual (2024 edition).
 
-15. GENIUS Act (Guiding and Establishing National Innovation for U.S. Stablecoins Act). Enacted July 18, 2025.
+World Bank. 2021. *Groundswell Part 2: Acting on Internal Climate Migration.* World Bank.
 
 ---
-

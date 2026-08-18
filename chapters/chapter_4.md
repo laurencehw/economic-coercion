@@ -122,6 +122,13 @@ The August 2023 release of Huawei's Mate 60 Pro smartphone, powered by a domesti
 
 Measured against the five effectiveness criteria from Chapter 1, the controls return a mixed verdict that this chapter's closing case study develops in full: moderate target compliance; capability degradation that is high in the short term but uncertain over the long term, with Chinese fabrication perhaps 3-5 years behind TSMC and Samsung and no clear path to close the gap without the restricted equipment (Khan, Mann, and Peterson 2021); very high cost imposition; only moderately assured sustainability, which hinges on allied cooperation; and high collateral damage. That last cost falls hardest on the restrictor's own firms—American equipment and chip makers lose tens of billions in annual Chinese revenue, and Nvidia's forgone China AI-chip sales alone have been put at $7-10 billion a year, consistent with its disclosure that China had accounted for roughly a fifth of its data-center revenue before the controls (Nvidia FY2024 10-K; Reuters 2023). The case study at the end of the chapter works through each criterion in turn.
 
+Figure 4.1 traces where value and capability sit at each stage of the chain. The asymmetry it shows is the reason export controls at a single stage can be so consequential: no region is self-sufficient across the sequence, and the stages where concentration is highest are precisely those where the United States and its partners hold the leverage.
+
+<figure class="book-figure">
+  <img src="../figures/fig_04_01_chip_supply_chain.png" alt="Regional market shares across the stages of the global semiconductor supply chain.">
+  <figcaption>Figure 4.1: Regional market shares across the stages of the semiconductor supply chain, from design through fabrication, assembly, and equipment.</figcaption>
+</figure>
+
 ### Strategic Implications: The Semiconductor Decoupling Dynamic
 
 Semiconductor export controls have initiated a decoupling process with profound strategic implications extending far beyond chips themselves. This decoupling creates several dynamics:
@@ -181,6 +188,8 @@ The cat-and-mouse did not end there, and its next round produced an entirely new
 **Allied coordination** for AI chip restrictions faces less complexity than semiconductor equipment controls because AI chips primarily originate from U.S. companies (Nvidia, AMD, Intel). However, ensuring Chinese customers don't obtain chips through third-country intermediaries requires export compliance and customs enforcement. Reports of Nvidia chips reaching China through Singapore and Hong Kong shell companies, third-country procurement agents, and individual smuggling highlight enforcement challenges. The United States pressured Singapore and Hong Kong to tighten export controls and investigate suspicious transactions, with mixed success. Systematic circumvention proves difficult at scale (Chinese AI firms need thousands or tens of thousands of chips, not ones or tens smuggled individually), but marginal circumvention continues.
 
 ### AI Research Leadership: Publications, Patents, and Talent
+
+Figure 4.2 assembles the standard indicators of AI capability, and the first thing it shows is that they disagree with one another. Publication counts, patent filings, private investment, and top-tier talent each produce a different ranking, which is why any confident claim about who is 'ahead' in artificial intelligence is usually a claim about which indicator the speaker has chosen.
 
 <figure class="book-figure">
   <img src="../figures/fig_04_02_ai_development.png" alt="AI research output and impact by country, showing publications, citations, and talent distribution.">
@@ -349,12 +358,14 @@ The biosecurity risks of this competition run in several directions at once: red
 
 Research and development investment determines long-term technological leadership, yet measuring and comparing R&D spending across countries involves definitional challenges, data quality concerns, and questions about efficiency versus quantity. Nevertheless, broad patterns reveal intensifying competition where Chinese R&D investment rivals or exceeds American levels while questions persist about which system generates more innovation per dollar invested.
 
+Figure 4.3 plots these totals on the purchasing-power basis, where the convergence is genuine and the crossing point is near. On market exchange rates the same two series remain roughly a factor of two apart, and the gap between those two readings — not any dispute about the underlying data — is what most disagreements about Chinese research spending actually turn on.
+
 <figure class="book-figure">
-  <img src="../figures/fig_04_01_rd_spending.png" alt="R&D spending by country from 1990-2024, showing the dramatic rise of Chinese investment.">
-  <figcaption>Figure 4.1: R&D spending by country from 1990-2024, showing the dramatic rise of Chinese investment.</figcaption>
+  <img src="../figures/fig_04_03_rd_spending.png" alt="R&D spending by country from 1990-2024, showing the dramatic rise of Chinese investment.">
+  <figcaption>Figure 4.3: R&D spending by country from 1990-2024, showing the dramatic rise of Chinese investment.</figcaption>
 </figure>
 
-Global R&D spending has grown dramatically and shifted eastward. World Bank and OECD data put it at roughly $2.2–2.5 trillion a year by 2021—about 2 percent of global GDP—with the growth concentrated in Asia (UNESCO Institute for Statistics 2023). The United States remains the largest single-country investor at market exchange rates, spending roughly $806 billion in 2021 (about 3.5 percent of GDP) and more since. How far China has closed the gap depends entirely on the yardstick. At market exchange rates Chinese R&D was about $430 billion in 2021 (2.4 percent of GDP), rising to RMB 3.61 trillion in 2024 (2.68 percent of GDP)—on that basis U.S. spending remains nearly double, roughly $990 billion against about $500 billion in 2024. In purchasing-power-parity terms, which correct for China's lower input and wage costs, the same 2021 outlay was closer to $650–670 billion, and by OECD and NSF estimates Chinese R&D surpassed the United States on a PPP basis around 2024 (OECD 2023; NBS 2025; NSF Science & Engineering Indicators 2024). The methodological gap between those two bases—not any statistical sleight of hand—is why headline claims of Chinese "parity" or "lead" must always name their yardstick. The European Union collectively invests substantial sums ($386 billion in 2021), but fragmentation across 27 member states dilutes coordination and scale, while Japan ($177 billion), South Korea (around $110–120 billion), and Taiwan sustain high R&D intensity of 3–4 percent of GDP on smaller absolute totals (OECD 2023).
+Global R&D spending has grown dramatically and shifted eastward. World Bank and OECD data put it at roughly $2.2–2.5 trillion a year by 2021—about 2 percent of global GDP—with the growth concentrated in Asia (UNESCO Institute for Statistics 2023). The United States remains the largest single-country investor at market exchange rates, spending roughly $806 billion in 2021 (about 3.5 percent of GDP) and more since. How far China has closed the gap depends entirely on the yardstick. At market exchange rates Chinese R&D was about $430 billion in 2021 (2.4 percent of GDP), rising to RMB 3.61 trillion in 2024 (2.68 percent of GDP)—on that basis U.S. spending remains nearly double, roughly $990 billion against about $500 billion in 2024. In purchasing-power-parity terms, which correct for China's lower input and wage costs, the same 2021 outlay was closer to $650–670 billion, and on the OECD's PPP series Chinese R&D reached roughly $840 billion in 2024 against about $990 billion for the United States—close enough that the crossing point is now a question of when rather than whether, though it had not yet occurred (OECD, *Main Science and Technology Indicators*; NBS 2025; NSF *Science and Engineering Indicators* 2024). The methodological gap between those two bases—not any statistical sleight of hand—is why headline claims of Chinese "parity" or "lead" must always name their yardstick. The European Union collectively invests substantial sums ($386 billion in 2021), but fragmentation across 27 member states dilutes coordination and scale, while Japan ($177 billion), South Korea (around $110–120 billion), and Taiwan sustain high R&D intensity of 3–4 percent of GDP on smaller absolute totals (OECD 2023).
 
 The composition of American R&D reflects its market-driven character. The private sector funds roughly 65–70 percent of the total, government 20–25 percent (chiefly through the NIH, NSF, DOD, and DOE), and universities and nonprofits the remaining 5–10 percent (OECD 2023)—so American research answers mainly to commercial incentive rather than state direction. Amazon, Alphabet, Microsoft, Meta, Apple, the pharmaceutical firms, and the aerospace manufacturers each pour tens of billions a year into R&D chasing competitive advantage. That commercial focus brings market discipline that weeds out unproductive work, but it can underinvest in basic research whose payoff is distant and uncertain even when the eventual social returns are enormous.
 
@@ -550,6 +561,13 @@ In January 2023, the U.S., Japan, and Netherlands reached an understanding — n
 5. **Legitimacy concerns**: Extraterritorial application of U.S. law to foreign companies' foreign transactions generates sovereignty objections. The EU's Blocking Statute — designed to counter U.S. extraterritorial sanctions — could theoretically be invoked against FDPR enforcement, though it has not been to date in the semiconductor context
 
 ---
+
+Figure 4.4 shows what a decade of escalating restriction did to a single firm, and what it did not do. Huawei's consumer business collapsed after the 2020 foreign direct product rule cut off its access to advanced chips, taking total revenue down by more than a quarter in a single year. But the firm did not fail: carrier and enterprise revenue held, and by 2024 total revenue had recovered to roughly its 2020 level. Read alongside the substitution margin, the trajectory is a caution against reading early sanctions impact as a permanent verdict.
+
+<figure class="book-figure">
+  <img src="../figures/fig_04_04_huawei_impact.png" alt="Huawei revenue by business segment, 2015-2024, annotated by sanctions phase.">
+  <figcaption>Figure 4.4: Huawei revenue by business segment, 2015-2024. Shading marks the phases of U.S. restriction.</figcaption>
+</figure>
 
 ## Case Study: U.S. Semiconductor Export Controls (October 2022-2024)
 
@@ -749,56 +767,56 @@ The case demonstrates how technology export controls serve strategic competition
 
 ## References and Further Reading
 
-Allen, Gregory C. "Choking Off China's Access to the Future of AI." Center for Strategic and International Studies, October 2022.
+Allen, Gregory C. 2022. "Choking Off China's Access to the Future of AI." Center for Strategic and International Studies, October.
 
-Allen, Gregory C., and Emily S. Weinstein. "Huawei's Mate 60 Pro: China's Semiconductor Breakthrough." CSIS Commentary, September 2023.
+Allen, Gregory C., and Emily S. Weinstein. 2023. "Huawei's Mate 60 Pro: China's Semiconductor Breakthrough." CSIS Commentary, September.
 
-Khan, Saif M., Alexander Mann, and Dahlia Peterson. "The Semiconductor Supply Chain: Assessing National Competitiveness." Center for Security and Emerging Technology, January 2021.
+Khan, Saif M., Alexander Mann, and Dahlia Peterson. 2021. "The Semiconductor Supply Chain: Assessing National Competitiveness." Center for Security and Emerging Technology, January.
 
-Miller, Chris. *Chip War: The Fight for the World's Most Critical Technology*. Scribner, 2022.
+Miller, Chris. 2022. *Chip War: The Fight for the World's Most Critical Technology*. Scribner.
 
-Rasser, Martijn, et al. "The CHIPS and Science Act: Here Comes the Hardest Part." Center for Strategic and International Studies, August 2022.
+Rasser, Martijn, et al. 2022. "The CHIPS and Science Act: Here Comes the Hardest Part." Center for Strategic and International Studies, August.
 
-SIA (Semiconductor Industry Association). "2023 State of the U.S. Semiconductor Industry." June 2023.
+SIA (Semiconductor Industry Association). 2023. "2023 State of the U.S. Semiconductor Industry." June.
 
-Sullivan, Jake. "Remarks by National Security Advisor Jake Sullivan at the Special Competitive Studies Project Global Emerging Technologies Summit." White House, September 16, 2022.
+Sullivan, Jake. 2022. "Remarks by National Security Advisor Jake Sullivan at the Special Competitive Studies Project Global Emerging Technologies Summit." White House, September 16.
 
-Triolo, Paul. "A New Era for the Chinese Semiconductor Industry: Beijing Responds to Export Controls." *American Affairs* 8, no. 1 (Spring 2024).
+Triolo, Paul. 2024. "A New Era for the Chinese Semiconductor Industry: Beijing Responds to Export Controls." *American Affairs* 8, no. 1.
 
-U.S. Department of Commerce, Bureau of Industry and Security. "2022 Export Controls: Taking the Long View." October 2022.
+U.S. Department of Commerce, Bureau of Industry and Security. 2022. "2022 Export Controls: Taking the Long View." October.
 
-Fuller, Douglas B. *Paper Tigers, Hidden Dragons: Firms and the Political Economy of China's Technological Development*. Oxford University Press, 2016.
+Fuller, Douglas B. 2016. *Paper Tigers, Hidden Dragons: Firms and the Political Economy of China's Technological Development*. Oxford University Press.
 
-Center for Strategic and International Studies. *China Chip Fund Tracker: Mapping Chinese Semiconductor State Investment*. CSIS, 2023.
+Center for Strategic and International Studies. 2023. *China Chip Fund Tracker: Mapping Chinese Semiconductor State Investment*. CSIS.
 
-Caixin. "China Piles $47.5 Billion Into 'Big Fund III' to Boost Chip Development." *Caixin Global*, May 28, 2024.
+Caixin. 2024. "China Piles $47.5 Billion Into 'Big Fund III' to Boost Chip Development." *Caixin Global*, May 28.
 
 CNN Business. "Nvidia Says It Will Restart Sales of a Key AI Chip to China, in a Reversal of US Restrictions" (July 15, 2025) and "China's DeepSeek Shook the Tech World. Its Developer Just Revealed the Cost of Training the AI Model" (September 19, 2025). CNN.
 
-Google Quantum AI and Collaborators. "Quantum Error Correction Below the Surface Code Threshold." *Nature* (2024). See also "Meet Willow, Our State-of-the-Art Quantum Chip," Google, December 9, 2024.
+Google Quantum AI and Collaborators. "Quantum Error Correction Below the Surface Code Threshold." *Nature*. 2024. See also "Meet Willow, Our State-of-the-Art Quantum Chip." Google, December 9, 2024.
 
-Mozur, Paul. "One Month, 500,000 Face Scans: How China Is Using A.I. to Profile a Minority." *New York Times*, April 14, 2019.
+Mozur, Paul. 2019. "One Month, 500,000 Face Scans: How China Is Using A.I. to Profile a Minority." *New York Times*, April 14.
 
-National Bureau of Statistics of China. "Communiqué on National Expenditures on Science and Technology in 2024." Beijing, 2025.
+National Bureau of Statistics of China. 2025. "Communiqué on National Expenditures on Science and Technology in 2024." Beijing.
 
-National Science Board, National Science Foundation. *Science and Engineering Indicators 2024*. Alexandria, VA: National Science Foundation, 2024. https://ncses.nsf.gov/indicators.
+National Science Board, National Science Foundation. 2024. *Science and Engineering Indicators 2024*. Alexandria, VA: National Science Foundation. https://ncses.nsf.gov/indicators.
 
 NVIDIA Corporation. Form 10-K, Fiscal Year Ended January 28, 2024. U.S. Securities and Exchange Commission, 2024.
 
 NVIDIA Corporation. Form 10-Q, Fiscal Quarter Ended April 27, 2025 (Q1 FY2026). U.S. Securities and Exchange Commission, 2025.
 
-Reuters. "US Tightens Curbs on AI Chip Exports to China." Reuters, October 17, 2023.
+Reuters. 2023. "US Tightens Curbs on AI Chip Exports to China." Reuters, October 17.
 
 SemiAnalysis (Dylan Patel et al.). Analyses of SMIC 7nm Yields and Chinese Semiconductor Manufacturing. SemiAnalysis, 2023.
 
-SemiAnalysis. "DeepSeek Debates: Chinese Leadership on Cost, True Training Cost, Closed Model Margin Impacts." SemiAnalysis, 2025.
+SemiAnalysis. 2025. "DeepSeek Debates: Chinese Leadership on Cost, True Training Cost, Closed Model Margin Impacts." SemiAnalysis.
 
-Shane, Scott, and Daisuke Wakabayashi. "'The Business of War': Google Employees Protest Work for the Pentagon." *New York Times*, April 4, 2018.
+Shane, Scott, and Daisuke Wakabayashi. 2018. "'The Business of War': Google Employees Protest Work for the Pentagon." *New York Times*, April 4.
 
-SpaceNews. "SpaceX, China Drive New Record for Orbital Launches in 2025." *SpaceNews*, 2025.
+SpaceNews. 2025. "SpaceX, China Drive New Record for Orbital Launches in 2025." *SpaceNews*.
 
 TechInsights. Semiconductor Device Teardowns and Market-Share Analyses (including TSMC advanced-node share and SMIC/Huawei chip analyses). TechInsights, 2023–2024.
 
-TrendForce. "Global EDA Market Share, 2024" (Synopsys, Cadence, Siemens EDA). TrendForce, 2024.
+TrendForce. 2024. "Global EDA Market Share, 2024" (Synopsys, Cadence, Siemens EDA). TrendForce.
 
 

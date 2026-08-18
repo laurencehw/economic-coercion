@@ -103,7 +103,7 @@ p2 <- ggplot(entity_data, aes(x = Year, y = Total)) +
 final_plot <- (p1 / p2) + 
   plot_layout(heights = c(1.5, 1)) + 
   plot_annotation(
-    title = "Figure 6.3: U.S. Entity List Additions (2015-2024)",
+    title = "U.S. Entity List Additions (2015-2024)",
     subtitle = "Escalating technology export controls targeting Chinese entities",
     caption = "Source: U.S. Bureau of Industry and Security (BIS), Federal Register.\nNote: Data represents Chinese entities added to the Entity List each year.",
     theme = theme(

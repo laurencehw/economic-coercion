@@ -112,7 +112,7 @@ p2 <- ggplot(success_scatter, aes(x = Avg_Duration_Years, y = Combined_Success))
 final_plot <- p1 + p2 + 
   plot_layout(widths = c(1, 1.2)) +
   plot_annotation(
-    title = "Figure 9.3: Economic Sanctions Effectiveness (1945-2020)",
+    title = "Economic Sanctions Effectiveness (1945-2020)",
     subtitle = "Analysis of 712 historical cases reveals trade-offs between sanction types and duration",
     theme = theme(
       plot.title = element_text(face = "bold", size = 16),
