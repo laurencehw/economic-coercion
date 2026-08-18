@@ -156,7 +156,9 @@ p2 <- ggplot(scenarios_bar, aes(x = Scenario, y = Probability, fill = Scenario))
 desc_data <- scenarios %>%
   select(Quadrant, Scenario, Description, Probability) %>%
   mutate(
-    x = c(1, 2, 1, 2),
+    # tile positions must mirror the matrix above: A top-right, B top-left,
+    # C bottom-left, D bottom-right. Row order here is A, B, C, D.
+    x = c(2, 1, 1, 2),
     y = c(2, 2, 1, 1)
   )
 
@@ -209,7 +211,7 @@ combined <- p1 / (p2 + p3) +
   )
 
 # Save
-save_econ_figure(here("figures", "fig_10_06_scenario_matrix.png"), combined, width = 12, height = 13)
+save_econ_figure(here("figures", "fig_10_05_scenario_matrix.png"), combined, width = 12, height = 13)
 
 # Print summary
 cat("\nFigure 10.6 Summary:\n")

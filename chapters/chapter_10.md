@@ -330,11 +330,11 @@ Projecting 25 years into an uncertain future requires scenario analysis: develop
 - **Managed competition**: Rules-based rivalry, crisis management mechanisms, limited escalation
 - **Intense confrontation**: Economic warfare, comprehensive coercion, crisis-prone, risk of military conflict
 
-Combining these dimensions generates four scenarios. Figure 10.5 places each scenario on the two-dimensional uncertainty space and summarizes the bilateral trade, reserve-currency shares, and alliance configurations associated with each outcome.
+Combining these dimensions generates four scenarios. Figure 10.5 places each on the two axes that produce them and sizes each by its probability. The quadrant structure repays attention, because it shows that the scenarios are not points along a single spectrum from cooperation to conflict. Managed competition and economic cold war differ mainly in integration, not in intensity — both are intensely competitive worlds. Crisis fragmentation is the low-intensity, low-integration case, which is why it feels less alarming than a cold war while being in some ways harder to navigate: there is no single adversary to organise policy around. The probabilities are the author's estimates, and their ordering is more defensible than their levels.
 
 <figure class="book-figure">
-  <img src="../figures/fig_10_05_decoupling_scenarios.png" alt="Four-scenario matrix mapping economic integration against competition intensity, with probability weights and key indicators for each future.">
-  <figcaption>Figure 10.5: Four scenarios for U.S.–China economic competition, 2035–2050, mapped on the integration × intensity axes. Probabilities are the author's estimates over the 2025–2035 horizon.</figcaption>
+  <img src="../figures/fig_10_05_scenario_matrix.png" alt="Two-by-two matrix placing the four scenarios by integration level and competition intensity, with probability weights and scenario descriptions.">
+  <figcaption>Figure 10.5: The four scenarios mapped by integration level and competition intensity, sized by probability. The probabilities are the author's estimates; their ordering is more defensible than their levels.</figcaption>
 </figure>
 
 ### Scenario A: Managed Competition with Selective Integration (Baseline — 40% probability)
@@ -381,13 +381,6 @@ If it arrives, bilateral trade rebounds toward $600–700 billion, and technolog
 Institutionally, the G20 displaces the G7 as the primary coordination forum, BRICS integrates into reformed global governance rather than building a parallel system alongside it, and Security Council reform finally reflects the distribution of power rather than the settlement of 1945. Economic coercion does not disappear but narrows sharply, reserved for genuinely threatening actors — proliferators, rogue states, terrorist financing — and applied with something approaching universal enforcement. Technology controls target proliferation risk rather than competitive advantage, which is the distinction the current regime has found hardest to sustain.
 
 Even at fifteen percent, this scenario carries a practical implication: the institutional capacity for cooperation is far easier to preserve than to rebuild. Investment in cooperative frameworks during a period of tension is cheap insurance against a world in which they are suddenly needed, and the legitimacy deficits in current global governance — the ones the Global South names consistently and the West addresses intermittently — are precisely what would have to be repaired first.
-
-Figure 10.6 places the four scenarios on the two axes that generate them and sizes each by its probability. The quadrant structure is worth reading carefully, because it shows that the scenarios are not points on a single spectrum from cooperation to conflict. Managed competition and economic cold war differ mainly in integration, not in intensity — both are intensely competitive worlds. Crisis fragmentation is the low-intensity, low-integration case, which is why it feels less alarming than a cold war while being in some ways harder to navigate: there is no single adversary to organise policy around. The probabilities are the author's estimates, as the panel says, and their most defensible feature is their ordering rather than their levels.
-
-<figure class="book-figure">
-  <img src="../figures/fig_10_06_scenario_matrix.png" alt="Two-by-two matrix placing the four scenarios by integration level and competition intensity, with probability weights and scenario descriptions.">
-  <figcaption>Figure 10.6: The four scenarios mapped by integration level and competition intensity, sized by probability. The probabilities are the author's estimates; their ordering is more defensible than their levels.</figcaption>
-</figure>
 
 ### Cross-Scenario Lessons
 
