@@ -843,7 +843,7 @@ The central European dilemma is how to coordinate with the United States on Chin
 
 **Key application — the U.S.-China trade war**: USTR's August 2017 investigation found China engaged in forced technology transfer, discriminatory licensing, state-directed technology acquisition, and cyber-enabled IP theft. Tariffs escalated in waves: 25% on $50 billion (mid-2018), 10-25% on $200 billion (September 2018-May 2019), and 15% on $112 billion (September 2019). The January 2020 Phase One Agreement reduced some tariffs, but purchase commitments went largely unfulfilled. The Biden administration maintained all tariffs and added targeted increases (EVs to 100%, solar to 50%, semiconductors to 50%). At peak, tariffs affected $360 billion in Chinese imports (66% of total) at an effective average rate of 19.3%.
 
-Figure 6.6 summarises the Section 301 actions and their coverage. The breadth is the striking feature: a statute drafted to remedy specific unfair trade practices has carried the legal weight of a general tariff programme, which is the background to the constitutional questions raised by the later IEEPA litigation.
+Figure 6.6 summarises the Section 301 actions and their coverage. The breadth is the striking feature: a statute drafted to remedy specific unfair trade practices has carried the legal weight of a general tariff program, which is the background to the constitutional questions raised by the later IEEPA litigation.
 
 <figure class="book-figure">
   <img src="../figures/fig_06_06_section_301.png" alt="Section 301 tariff coverage by product category and administration, showing the expansion of coverage across Trump and Biden administrations.">

@@ -28,7 +28,7 @@ Government Tools Boxes detail CFIUS procedures, FIRRMA expansion, and industrial
 
 These themes reflect economic statecraft's evolution beyond traditional trade and financial tools. Capital flows, industrial capabilities, and market access have become contested domains, with implications extending well beyond bilateral U.S.-China competition to allied policy coordination, development finance, and the future shape of globalization.
 
-Figure 8.1 maps the resulting footprint. Its usefulness is less in any single project than in the pattern: the corridors follow overland and maritime routes that connect Chinese industrial capacity to markets and raw materials, which is what distinguishes a development programme from an infrastructure spending spree.
+Figure 8.1 maps the resulting footprint. Its usefulness is less in any single project than in the pattern: the corridors follow overland and maritime routes that connect Chinese industrial capacity to markets and raw materials, which is what distinguishes a development program from an infrastructure spending spree.
 
 <figure class="book-figure">
   <img src="../figures/fig_08_01_bri_infrastructure.png" alt="Key Belt and Road Initiative infrastructure investments. Port investments (blue) extend Chinese maritime presence; rail projects (red) create overland connectivity; corridor investments (orange) integrate regional economies. Size indicates investment scale in USD billions.">
@@ -377,7 +377,7 @@ The **results** of these investments have been mixed. The Chinese semiconductor 
 
 ### Comparing Approaches: Market-Driven vs. State-Directed
 
-Figure 8.3 sets the recent programmes side by side. The comparison should be read with care — the entries differ in duration, in the mix of grants, loans, and tax credits, and in how much was appropriated versus disbursed — but even after those caveats the convergence is the point: the distinction between market-driven and state-directed approaches has narrowed considerably from the American side.
+Figure 8.3 sets the recent programs side by side. The comparison should be read with care — the entries differ in duration, in the mix of grants, loans, and tax credits, and in how much was appropriated versus disbursed — but even after those caveats the convergence is the point: the distinction between market-driven and state-directed approaches has narrowed considerably from the American side.
 
 <figure class="book-figure">
   <img src="../figures/fig_08_03_industrial_policy.png" alt="Industrial policy spending comparison between the U.S. and China across key technology sectors.">

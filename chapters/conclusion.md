@@ -14,101 +14,45 @@ Read through these two margins, the seven recommendations below cease to be a li
 
 **1. Sustain Multilateral Coordination**
 
-Historical cases (CoCom success, grain embargo failure) demonstrate multilateral sanctions' superior effectiveness. Yet coordination faces persistent challenges:
-- **Burden-sharing disputes**: Resolve through transparent cost calculations, side payments, burden redistribution
-- **China exposure asymmetries**: Provide economic support to allies facing disproportionate Chinese retaliation
-- **Institutional adaptation**: Reform G7, NATO, TTC mechanisms to accommodate new members, address emerging issues (climate, technology, development)
+The historical record on this point is about as clear as the historical record ever gets. CoCom held for four decades and worked; the 1980 grain embargo lasted fifteen months and did not. The difference was not the severity of the measure but the number of suppliers willing to honor it. Coordination is therefore not a diplomatic nicety attached to economic statecraft — it is the mechanism by which the target's substitution margin is held narrow, and everything else is commentary.
 
-**Action items**:
-- Formalize G7+ coordination on sanctions, export controls, investment screening
-- Create compensation mechanisms for allies bearing disproportionate sanctions costs
-- Expand coordination to include Australia, South Korea, India on selective issues
+What makes coordination hard is that its costs fall unevenly. A control on semiconductor equipment costs the Netherlands and Japan a great deal more than it costs the United States, and a country whose exposure to Chinese retaliation is concentrated in a few sectors will reasonably ask why it should bear a burden its partners do not. These asymmetries are not solved by exhortation. They are solved, when they are solved, by transparent accounting of who pays what, by side payments and compensation to the most exposed, and by institutional arrangements that let allies join selectively rather than requiring unanimity on everything at once. The practical agenda is to formalize G7-plus coordination across sanctions, export controls, and investment screening; to build compensation mechanisms for allies carrying disproportionate costs; and to extend coordination to Australia, South Korea, and India on the specific issues where their participation is decisive.
 
 **2. Invest in Technology Leadership**
 
-Technology advantages provide leverage across scenarios. Maintaining lead requires:
-- **R&D investment**: Public research funding (NSF, DOE, NIH) sustained despite fiscal pressures
-- **Talent attraction**: Immigration reform facilitating STEM talent recruitment, retention
-- **Education**: K-12 STEM emphasis, university research support
-- **Private sector dynamism**: Regulatory environment enabling innovation while addressing AI safety, biotech risks, data privacy
+Chokepoints are not endowments. The American position in semiconductor design software and equipment exists because of decades of accumulated investment, and it will persist only as long as that investment continues to outrun the alternatives. Every control imposed on China funds, in effect, a Chinese program to escape it; the question is whether the frontier moves faster than the pursuit.
 
-**Action items**:
-- Increase federal R&D budget 5-7% annually above inflation
-- Expand high-skill immigration (H-1B visas, green cards for STEM PhDs)
-- Coordinate allied technology sharing (U.S.-Europe-Japan-Korea-Australia consortia on semiconductors, AI, quantum)
+That makes research funding, immigration policy, and education a part of economic statecraft rather than a separate domain of policy. Sustained federal research funding — on the order of five to seven percent real growth annually — matters less for any particular program than for the continuity that lets institutions plan. High-skill immigration matters because the single most reliable American advantage has been that talented people wanted to come, and stay. Allied technology consortia matter because no country holds the whole frontier alone. None of this is dramatic, and all of it competes against more legible priorities in an appropriations cycle, which is precisely why it tends to be underfunded relative to its strategic return.
 
-**3. Selective Integration - Protect Security, Preserve Economics**
+**3. Selective Integration — Protect Security, Preserve Economics**
 
-Complete decoupling imposes massive costs (Chapter 2 supply chain analysis); selective decoupling targets genuine security risks:
+Comprehensive decoupling fails a cost-benefit test that selective decoupling passes. The reason lies in the two margins. Coercive weight should be concentrated where substitution is hard and the chokepoint is genuinely narrow: advanced semiconductors and the equipment that makes them, large-scale AI training compute, frontier biotechnology, cryptographically relevant quantum systems. It should be conceded where substitution is easy and the self-inflicted cost is large: consumer goods, commodity trade, tourism and education. Controls on the first category buy leverage; controls on the second mostly buy inflation and a reputation for unreliability.
 
-**Prioritize restrictions on**:
-- Advanced semiconductors (sub-14nm nodes, leading-edge manufacturing equipment)
-- AI training compute (high-end GPUs, large-scale clusters)
-- Biotechnology (genomics, synthetic biology capabilities)
-- Quantum systems (cryptographically relevant computers, secure communications)
-
-**Maintain openness in**:
-- Consumer goods (electronics, apparel, household products)
-- Commodity trade (agricultural products, basic materials)
-- Non-strategic services (tourism, education, basic software)
-
-**Action items**:
-- Develop clear criteria distinguishing strategic from non-strategic domains
-- Sunset reviews: Regularly assess whether controls remain necessary as technology evolves
-- Compensate affected industries (farmers facing Chinese retaliation, tech firms losing markets)
+The difficulty is that the boundary moves. A node that was leading-edge in 2022 is commodity capacity by 2030, and a control that made sense at the frontier becomes, in time, a tax on one's own firms with no security return. Selective integration therefore requires something the American system does poorly: sunset review. Controls should carry explicit criteria for what would justify their removal, be reassessed on a fixed schedule, and be paired with compensation for the industries — farmers facing retaliation, firms losing markets — on whom the costs land.
 
 **4. Strengthen Alliances Through Burden-Sharing and Value Demonstration**
 
-Alliance fatigue threatens coordination. Sustaining requires:
-- **Fair burden-sharing**: Defense spending, sanctions costs, development finance distributed equitably
-- **Tangible benefits**: Allies receive technology access, market opportunities, security guarantees
-- **Consultation**: Decisions affecting allies involve genuine consultation, not unilateral imposition
-- **Flexibility**: Accommodate varying levels of China exposure (Germany vs. Australia)
+Alliances in economic statecraft are not standing assets; they are renewed, or not, at each decision. An ally asked repeatedly to absorb costs it did not choose, on the basis of decisions it was informed of rather than consulted on, eventually discovers reasons for delay. The 2025 tariff cycle, in which measures fell on allies and adversaries with limited discrimination, is a live demonstration of how quickly the coalitional margin can be damaged from within.
 
-**Action items**:
-- Formal alliance burden-sharing agreements (defense spending targets, sanctions enforcement commitments)
-- Technology sharing frameworks (AUKUS model expanded to other allies)
-- Development finance competition with BRI (the Partnership for Global Infrastructure and Investment—PGII, the initiative that in June 2022 rebranded the earlier Build Back Better World—and related infrastructure investments)
+Holding a coalition together requires that membership visibly pay: technology access, market opportunities, security guarantees that are worth what they cost. It requires genuine consultation before decisions rather than notification after them. And it requires accommodating variation — Germany's exposure to China is not Australia's, and a framework that demands identical policies from both will get compliance from neither. Formal burden-sharing arrangements, technology-sharing frameworks on the AUKUS model, and development finance that competes seriously with the Belt and Road are the instruments; the underlying discipline is treating allies as parties whose consent must be earned each time.
 
-**5. Engage Global South Through Development, Not Coercion**
+**5. Engage the Global South Through Development, Not Coercion**
 
-Non-aligned countries resist pressure to choose sides. Attracting requires positive inducements:
-- **Development finance**: Infrastructure investment, climate adaptation funding, technology transfer
-- **Market access**: Trade agreements, tariff preferences
-- **Institutional voice**: Greater representation in IMF, World Bank, G20
-- **No political conditions**: Compete with Chinese "no strings attached" approach
+Most of the world has declined to choose sides, and it has declined for reasons that are neither confused nor temporary. Non-alignment is a strategy, not a failure to understand the stakes, and pressure to abandon it has consistently produced the opposite of its intent. What the record does show working is inducement: infrastructure finance, climate adaptation funding, market access, and a meaningful voice in the institutions that set the rules.
 
-**Action items**:
-- Increase development finance (matching or exceeding Chinese BRI levels)
-- Climate finance: Fulfill $100B annual commitment, increase adaptation funding
-- Trade agreements: join CPTPP (the United States withdrew from its predecessor, the Trans-Pacific Partnership, in 2017), negotiate agreements with ASEAN, Africa, Latin America
+This is the coalitional margin viewed from the other end. A country that has been offered something has a reason to weigh the request; a country that has only been warned has a reason to hedge. Fulfilling the hundred-billion-dollar annual climate finance commitment, negotiating serious trade agreements with ASEAN, Africa, and Latin America, and reforming quota and voice arrangements at the IMF and World Bank are unglamorous and slow. They are also the only instruments in this section with a track record of moving the states whose alignment actually determines whether a coalition holds.
 
 **6. Manage Risks and Unintended Consequences**
 
-Economic coercion creates blowback:
-- **De-dollarization**: Restrained use of financial sanctions to preserve dollar privilege longer
-- **Technology stimulation**: Export controls may spur Chinese innovation; anticipate and adapt
-- **Humanitarian costs**: Comprehensive sanctions harm civilian populations; targeted sanctions preferred
-- **Rally-around-flag effects**: Sanctions strengthen nationalist support for target regimes; combine with engagement, support for internal opposition
+Every use of a chokepoint teaches the target where its vulnerability lies and how much it should spend to escape. This is the use-it-and-lose-it dynamic described throughout the book, and it argues for restraint not out of squeamishness but out of arithmetic: an instrument spent on a marginal objective is unavailable for a serious one, and its use accelerates the erosion of the position it depends on.
 
-**Action items**:
-- Reserve financial sanctions for highest-priority cases (not routine policy tool)
-- Humanitarian exemptions for food, medicine, disaster relief
-- Information operations exposing regime corruption, supporting civil society
-- Off-ramps: Provide sanctions relief for target compliance (not just eternal punishment)
+Financial sanctions in particular should be reserved for the highest-priority cases rather than deployed as routine policy, because each use adds to the incentive for others to build payment infrastructure that does not touch American jurisdiction. Comprehensive measures that fall on populations rather than decision-makers tend to produce rally-around-the-flag consolidation, tightening the target's coalitional margin rather than loosening it — the Cuban embargo's six decades are the standing illustration. Humanitarian exemptions for food, medicine, and disaster relief are both right and instrumentally sensible. And sanctions regimes need off-ramps: relief that is credibly available on compliance, rather than punishment that continues regardless, is what makes the threat of continued pressure worth anything at all.
 
 **7. Prepare for Long-Term Competition**
 
-Strategic competition spans decades, requiring institutional capacity and political sustainability:
-- **Institutional investment**: Staff CFIUS, BIS (export controls), Treasury (sanctions) adequately
-- **Congressional support**: Bipartisan consensus on strategic competition (avoid politicization)
-- **Public communication**: Explain costs, benefits, and long timelines to sustain support
-- **Adaptability**: Economic coercion evolves; update tools, targets, and strategies regularly
+Both margins move on a timescale of decades, and neither responds to electoral cycles. A rival's substitution margin widens through sustained industrial investment; a coalition's cohesion is built and lost over years of accumulated behaviour. The side with more institutional stamina generally prevails, and stamina is a matter of capacity and consensus rather than intention.
 
-**Action items**:
-- Quadrennial economic security review (analogous to defense reviews)
-- Congressional authorization of major sanctions programs (not just executive action)
-- Public education campaigns on strategic competition stakes, costs, and necessity
+The capacity problem is concrete and largely unaddressed. The offices that administer this policy — CFIUS, the Bureau of Industry and Security, the Office of Foreign Assets Control — operate at a scale set when their remit was far narrower, and the enforcement gap between what has been announced and what can be administered is now the binding constraint on much of American economic statecraft. The consensus problem is harder: strategic competition survives changes of administration only if it is not primarily a partisan asset, which argues for congressional authorisation of major sanctions programs rather than reliance on executive action, and for public communication that is honest about costs and timelines. A quadrennial economic security review, on the model of the defense reviews, would at minimum force the question of whether the tools still match the objectives.
 
 ## Final Reflections
 
