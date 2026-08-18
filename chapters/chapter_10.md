@@ -334,7 +334,7 @@ Combining these dimensions generates four scenarios. Figure 10.5 places each sce
 
 <figure class="book-figure">
   <img src="../figures/fig_10_05_decoupling_scenarios.png" alt="Four-scenario matrix mapping economic integration against competition intensity, with probability weights and key indicators for each future.">
-  <figcaption>Figure 10.5: Four scenarios for U.S.–China economic competition, 2035–2050, mapped on the integration × intensity axes.</figcaption>
+  <figcaption>Figure 10.5: Four scenarios for U.S.–China economic competition, 2035–2050, mapped on the integration × intensity axes. Probabilities are the author's estimates over the 2025–2035 horizon.</figcaption>
 </figure>
 
 ### Scenario A: Managed Competition with Selective Integration (Baseline — 40% probability)
@@ -386,7 +386,7 @@ Figure 10.6 places the four scenarios on the two axes that generate them and siz
 
 <figure class="book-figure">
   <img src="../figures/fig_10_06_scenario_matrix.png" alt="Two-by-two matrix placing the four scenarios by integration level and competition intensity, with probability weights and scenario descriptions.">
-  <figcaption>Figure 10.6: The four scenarios mapped by integration level and competition intensity, sized by estimated probability.</figcaption>
+  <figcaption>Figure 10.6: The four scenarios mapped by integration level and competition intensity, sized by probability. The probabilities are the author's estimates; their ordering is more defensible than their levels.</figcaption>
 </figure>
 
 ### Cross-Scenario Lessons
