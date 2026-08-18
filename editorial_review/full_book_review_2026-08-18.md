@@ -7,7 +7,7 @@
 
 ---
 
-## Rating on arrival: 8.5 / 10 → after this pass: 9.3 / 10
+## Rating on arrival: 8.5 / 10 → after this pass: 9.3 / 10 → after the follow-up: 9.4 / 10
 
 The July roadmap's phases 1–5 were genuinely executed, and they worked. Identity is settled, the 2025–26 currency sweep landed, the ~40 factual errors are fixed, the two-margins thesis now runs through to a conclusion that earns its ending, and the canonical statistics table in `DATA_DICTIONARY.md` is a better single-source-of-truth apparatus than most published textbooks maintain.
 
@@ -18,12 +18,12 @@ The manuscript arrived at this review held back by one thing above all, which th
 | Dimension | On arrival | After this pass | Note |
 |---|---|---|---|
 | Analytical framework & rigor | 9.0 | 9.0 | Two-margins thesis carries through to the conclusion; the Ch1 inference note remains exemplary |
-| Pedagogy | 8.5 | 9.3 | Learning objectives everywhere; all 50 figures now discussed in prose rather than decorative; index added |
+| Pedagogy | 8.5 | 9.4 | Learning objectives everywhere; all 52 figures now discussed in prose rather than decorative; index added |
 | Writing quality | 8.0 | 9.0 | Conclusion and Ch10 scenarios converted from briefing-book bullets to prose; Ch8's Australia case rewritten |
 | Evidence & sourcing | 8.5 | 9.4 | Citation resolution 253/253; last unverifiable attribution replaced |
 | Internal consistency | 7.5 | 9.3 | Text-vs-text was good; text-vs-figure was not, and that is what this pass fixed |
 | Currency (Aug 2026) | 9.0 | 9.0 | Solid through mid-2026 |
-| Production readiness | 6.5 | 9.2 | Figure numbering repaired, reference formats unified, index built; 12 of 20 orphans audited and embedded, 11 remain |
+| Production readiness | 6.5 | 9.5 | Figure numbering repaired, reference formats unified, index built; orphan inventory cleared (see addendum); QA in CI |
 
 ---
 
@@ -51,7 +51,7 @@ All of the above are fixed, and the hard-coded annotations that had already drif
 
 **Figure numbering.** Chapter 7 presented its figures as 7.3, 7.1, 7.2, 7.4; chapter 4 as 4.2 then 4.1. Chapter 5's opening figure was captioned 5.1 but stored as `fig_03_05_subsea_cables.png` — a chapter-3 filename — and its other files were similarly misaligned. Renamed and renumbered so filename, caption, and appearance order agree in every chapter.
 
-**Figures were never discussed.** Only 11 of 42 embedded figures were referred to anywhere in the prose; chapters 2, 3, 4, 7, and 8 referred to none of their own. All 50 figures now carry a sentence of interpretation.
+**Figures were never discussed.** Only 11 of 42 embedded figures were referred to anywhere in the prose; chapters 2, 3, 4, 7, and 8 referred to none of their own. All 52 figures now carry a sentence of interpretation.
 
 **Reference formats.** The chapter reference lists were not merely in the wrong style — they were in *four* different styles: parenthetical-year with annotations (ch 1), Chicago notes with annotation bullets (ch 2), bold-name running-note form (ch 6), Chicago notes (ch 3–5, 7), and numbered citation-order lists (ch 8–10). 189 entries normalised to author-date.
 
