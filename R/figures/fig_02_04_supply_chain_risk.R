@@ -18,8 +18,8 @@ supply_risks <- data.frame(
     "Natural graphite", "Neon gas", "Semiconductor gases"
   ),
   concentration = c(
-    92, 100, 90, 75, 70, 77,
-    85, 70, 75, 80, 60, 70,
+    92, 100, 90, 20, 70, 80,
+    86, 70, 75, 98, 60, 73,
     70, 50, 60
   ),
   criticality = c(
@@ -91,14 +91,14 @@ p <- ggplot(supply_risks, aes(x = concentration, y = criticality)) +
   # Styling
   scale_color_manual(values = category_colors, name = "Category") +
   scale_size_continuous(range = c(3, 12), name = "Risk Score", guide = "none") +
-  scale_x_continuous(labels = function(x) paste0(x, "%"), limits = c(45, 105)) +
+  scale_x_continuous(labels = function(x) paste0(x, "%"), limits = c(15, 105)) +
   scale_y_continuous(labels = function(x) paste0(x, "%"), limits = c(45, 105)) +
   labs(
     title = "Supply Chain Risk Matrix",
     subtitle = "Critical inputs plotted by supply concentration and strategic importance",
     x = "Supply Concentration (Top Producer Share %)",
     y = "Strategic Criticality (%)",
-    caption = "Source: Author's assessment based on industry data, government reports\nNote: Bubble size reflects combined risk score (concentration × criticality)"
+    caption = "Source: Author's assessment; concentration shares from USGS Mineral Commodity Summaries 2025, IEA, TrendForce, and FDA facility data\nNote: Bubble size reflects combined risk score (concentration x criticality). API concentration is stated on the FDA registered-facility basis (China ~20%),\nnot the widely repeated but unsourced \"80% from China\" figure."
   ) +
   theme_econ_textbook() +
   theme(legend.position = "right")

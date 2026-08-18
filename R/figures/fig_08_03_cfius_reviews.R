@@ -39,14 +39,14 @@ p1 <- ggplot(cfius_long %>% filter(metric %in% c("Full Notices", "Short-Form Dec
              aes(x = year, y = count, fill = metric)) +
   geom_area(alpha = 0.8, color = "white", linewidth = 0.3) +
   geom_vline(xintercept = 2018, linetype = "dashed", color = "gray40") +
-  annotate("text", x = 2018.2, y = 450, label = "FIRRMA\nEnacted",
+  annotate("text", x = 2018.2, y = 400, label = "FIRRMA\nEnacted",
            hjust = 0, size = 3.5, color = "gray40") +
   scale_fill_manual(values = metric_colors, name = "Filing Type") +
   scale_x_continuous(breaks = seq(2010, 2024, 2)) +
   scale_y_continuous(expand = expansion(mult = c(0, 0.05))) +
   labs(
     title = "CFIUS Review Activity (2010-2024)",
-    subtitle = "Investment screening filings increased significantly after FIRRMA (2018)",
+    subtitle = "Filings surged after FIRRMA (2018), then eased from the 2022 peak",
     x = "Year",
     y = "Number of Filings"
   ) +
@@ -62,7 +62,7 @@ p2 <- ggplot(cfius, aes(x = year)) +
   scale_x_continuous(breaks = seq(2010, 2024, 2)) +
   labs(
     title = "CFIUS Enforcement Outcomes",
-    subtitle = "Withdrawals (red) and mitigation agreements (orange) by year",
+    subtitle = "Withdrawals (red) and mitigation agreements (orange)",
     x = "Year",
     y = "Number of Cases"
   ) +
@@ -89,6 +89,6 @@ library(patchwork)
 combined <- p1 / (p2 + p3) + plot_layout(heights = c(1.2, 1))
 
 # Save the figure
-save_econ_figure(here::here("figures", "fig_08_04_cfius_reviews.png"), plot = combined, width = 13, height = 11)
+save_econ_figure(here::here("figures", "fig_08_03_cfius_reviews.png"), plot = combined, width = 13, height = 11)
 
 cat("Figure 8.4 created: CFIUS Reviews\n")

@@ -134,6 +134,6 @@ p <- ggraph(g, layout = "fr") +
   )
 
 # Save the figure
-save_econ_figure(here::here("figures", "fig_01_05_interdependence_network.png"), plot = p, width = 12, height = 10)
+save_econ_figure(here::here("figures", "fig_01_01_interdependence_network.png"), plot = p, width = 12, height = 10)
 
 cat("Figure 1.5 created: Weaponized Interdependence Network\n")

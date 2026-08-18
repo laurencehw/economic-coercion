@@ -127,6 +127,6 @@ library(patchwork)
 combined <- p1 / p2 / p3 + plot_layout(heights = c(1.5, 1, 0.8))
 
 # Save the figure
-save_econ_figure(here::here("figures", "fig_08_05_australia_china.png"), plot = combined, width = 12, height = 14)
+save_econ_figure(here::here("figures", "fig_08_06_australia_china.png"), plot = combined, width = 12, height = 14)
 
 cat("Figure 8.5 created: Australia-China Trade Restrictions\n")

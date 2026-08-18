@@ -58,7 +58,7 @@ These hub positions create what Farrell and Newman call "panopticon" and "chokep
 Figure 1.1 draws these hub positions as a network rather than a list. Rendered this way, the asymmetry is visible without any accompanying statistic: a handful of nodes sit astride most of the paths through the system, and it is occupancy of those nodes, not aggregate economic size, that the rest of this book treats as the source of coercive power.
 
 <figure class="book-figure">
-  <img src="../figures/fig_01_05_interdependence_network.png" alt="Network diagram of weaponized interdependence showing U.S. and Chinese hub positions across finance, technology, energy, and digital infrastructure.">
+  <img src="../figures/fig_01_01_interdependence_network.png" alt="Network diagram of weaponized interdependence showing U.S. and Chinese hub positions across finance, technology, energy, and digital infrastructure.">
   <figcaption>Figure 1.1: Weaponized interdependence — hub positions of the United States and China across critical economic networks.</figcaption>
 </figure>
 
@@ -180,7 +180,7 @@ The 2017 National Security Strategy designated China a "strategic competitor" se
 Figure 1.3 arranges the principal episodes chronologically. The clustering is the point: the density of events after 2017 reflects not merely more assertive policy but the maturation of instruments — entity lists, foreign direct product rules, investment screening — that barely existed in usable form a decade earlier.
 
 <figure class="book-figure">
-  <img src="../figures/fig_01_04_timeline.png" alt="Timeline of Major Economic Coercion Events">
+  <img src="../figures/fig_01_03_timeline.png" alt="Timeline of Major Economic Coercion Events">
   <figcaption>Figure 1.3: Timeline of Major Economic Coercion Events</figcaption>
 </figure>
 
@@ -308,7 +308,7 @@ Analyzing specific instances of economic coercion requires systematic analytical
 Figure 1.4 sets out the framework in schematic form. It is worth returning to as the chapters accumulate cases, since its value lies less in classifying any single episode than in making visible which combinations of domain, target, and objective recur and which are almost never attempted.
 
 <figure class="book-figure">
-  <img src="../figures/fig_01_01_framework.png" alt="Conceptual Framework for Analyzing Economic Coercion">
+  <img src="../figures/fig_01_04_framework.png" alt="Conceptual Framework for Analyzing Economic Coercion">
   <figcaption>Figure 1.4: Conceptual Framework for Analyzing Economic Coercion</figcaption>
 </figure>
 
@@ -407,7 +407,7 @@ This book examines economic coercion in the context of US-China strategic compet
 Figure 1.5 previews the full "toolbox" of instruments covered in the chapters that follow, grouped by the four domains introduced above (trade, finance, investment, and technology).
 
 <figure class="book-figure">
-  <img src="../figures/fig_01_03_toolbox_diagram.png" alt="Toolbox diagram of instruments of economic statecraft, organized by domain (trade, finance, investment, technology) and coercion intensity.">
+  <img src="../figures/fig_01_05_toolbox_diagram.png" alt="Toolbox diagram of instruments of economic statecraft, organized by domain (trade, finance, investment, technology) and coercion intensity.">
   <figcaption>Figure 1.5: The economic-statecraft toolbox — instruments by domain and intensity, previewing the subsequent chapters.</figcaption>
 </figure>
 

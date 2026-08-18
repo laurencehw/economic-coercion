@@ -13,7 +13,7 @@ library(forcats)
 industrial_policy <- data.frame(
   program = c(
     "CHIPS Act", "Inflation Reduction Act", "Infrastructure Act",
-    "Big Fund I", "Big Fund II", "Made in China 2025",
+    "Big Fund I", "Big Fund II", "Big Fund III",
     "EU Chips Act", "NextGenerationEU", "Green Deal Industrial Plan"
   ),
   country = c(
@@ -23,7 +23,7 @@ industrial_policy <- data.frame(
   ),
   amount_billions = c(
     52, 369, 550,
-    22, 29, 300,
+    21, 29, 47.5,
     43, 800, 270
   ),
   timeframe = c(
@@ -115,6 +115,6 @@ library(patchwork)
 combined <- (p1 + p3) / p2 + plot_layout(heights = c(1, 1.5))
 
 # Save the figure
-save_econ_figure(here::here("figures", "fig_08_06_industrial_policy_compare.png"), plot = combined, width = 13, height = 11)
+save_econ_figure(here::here("figures", "fig_08_05_industrial_policy_compare.png"), plot = combined, width = 13, height = 11)
 
 cat("Figure 8.6 created: Industrial Policy Comparison\n")

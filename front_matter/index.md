@@ -25,7 +25,7 @@ For definitions, see the [Glossary](glossary.md). For sources, see the
 
 **ASML** — [Ch 4](../chapters/chapter_4.md#october-2022-export-controls-strategic-logic-and-mechanisms); [Ch 1](../chapters/chapter_1.md), [Ch 2](../chapters/chapter_2.md#mapping-critical-chokepoints), [Ch 6](../chapters/chapter_6.md)
 
-**Australia-China coercion (2020-24)** — [Ch 8](../chapters/chapter_8.md#economic-restrictions-sectors-targeted)
+**Australia-China coercion (2020-24)** — [Ch 8](../chapters/chapter_8.md)
 
 ## B {-}
 

@@ -20,15 +20,15 @@ minerals_data <- tibble(
   Country = rep(c("China", "DRC", "Australia", "Chile", "Others"), 5),
   Processing_Share = c(
     # Lithium processing
-    65, 0, 5, 20, 10,
+    60, 0, 5, 25, 10,
     # Cobalt processing (refining)
-    73, 3, 0, 0, 24,
+    80, 3, 0, 0, 17,
     # Rare Earths processing
-    87, 0, 0, 0, 13,
+    90, 0, 0, 0, 10,
     # Graphite processing
     80, 0, 0, 0, 20,
     # Nickel processing
-    35, 0, 5, 0, 60
+    65, 0, 5, 0, 30
   ),
   Mining_Share = c(
     # Lithium mining
@@ -221,7 +221,7 @@ combined <- p1 / (p2 + p3) +
   )
 
 # Save
-save_econ_figure(here("figures", "fig_10_02_critical_minerals.png"), combined, width = 13, height = 12)
+save_econ_figure(here("figures", "fig_10_03_critical_minerals.png"), combined, width = 13, height = 12)
 
 # Print summary
 cat("\nFigure 10.2 Summary:\n")

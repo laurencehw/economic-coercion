@@ -203,7 +203,7 @@ map <- tm_shape(eurasia, bbox = c(-10, 35, 145, 75)) +
 
 tmap_save(
   map,
-  filename = here("figures", "fig_03_08_russian_pipelines.png"),
+  filename = here("figures", "fig_03_03_russian_pipelines.png"),
   width = 14,
   height = 8,
   dpi = 300
@@ -211,7 +211,7 @@ tmap_save(
 
 tmap_save(
   map,
-  filename = here("figures", "fig_03_08_russian_pipelines.pdf"),
+  filename = here("figures", "fig_03_03_russian_pipelines.pdf"),
   width = 14,
   height = 8
 )

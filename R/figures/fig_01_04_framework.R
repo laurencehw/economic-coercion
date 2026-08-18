@@ -149,6 +149,6 @@ for (i in seq_along(items_d4)) {
 # 3. SAVE OUTPUT
 # ============================================================================
 
-save_econ_figure(here("figures", "fig_01_01_framework.png"), p, width = 14, height = 10)
+save_econ_figure(here("figures", "fig_01_04_framework.png"), p, width = 14, height = 10)
 
 cat("\nFigure 1.1 Framework created successfully!\n")

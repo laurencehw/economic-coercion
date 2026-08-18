@@ -289,7 +289,7 @@ print(combined_plot)
 
 # Save figure
 save_econ_figure(
-  filename = here::here("figures", "fig_03_06_renewable_manufacturing.png"),
+  filename = here::here("figures", "fig_03_04_renewable_manufacturing.png"),
   plot = combined_plot,
   width = 16,
   height = 12,
@@ -300,8 +300,8 @@ cat("\n")
 cat("========================================\n")
 cat("Figure 3.6 created successfully!\n")
 cat("========================================\n")
-cat("Location: figures/fig_03_06_renewable_manufacturing.png\n")
-cat("          figures/fig_03_06_renewable_manufacturing.pdf\n")
+cat("Location: figures/fig_03_04_renewable_manufacturing.png\n")
+cat("          figures/fig_03_04_renewable_manufacturing.pdf\n")
 cat("\n")
 cat("China's Manufacturing Dominance:\n")
 cat("--------------------------------\n")

@@ -119,7 +119,7 @@ tm_shape(chokepoints_sf) +
 # Save as PNG
 tmap_save(
   map,
-  filename = here("figures", "fig_03_04_chokepoints.png"),
+  filename = here("figures", "fig_03_01_chokepoints.png"),
   width = 12,
   height = 7,
   dpi = 300
@@ -128,7 +128,7 @@ tmap_save(
 # Save as PDF
 tmap_save(
   map,
-  filename = here("figures", "fig_03_04_chokepoints.pdf"),
+  filename = here("figures", "fig_03_01_chokepoints.pdf"),
   width = 12,
   height = 7
 )

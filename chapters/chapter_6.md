@@ -153,7 +153,7 @@ Contrary to political rhetoric suggesting tariffs "punish" foreign exporters, ec
 Figure 6.2 traces the escalation ladder of the 2018–2025 trade war, superimposing announced tariff actions, retaliatory responses, and negotiated partial pauses. Its underlying data end before the 2025 IEEPA tariff cycle and the February 2026 Supreme Court ruling described in Phase 5 above.
 
 <figure class="book-figure">
-  <img src="../figures/fig_06_05_trade_war_escalation.png" alt="Escalation ladder of the 2018-2025 U.S.-China trade war, showing tariff actions, retaliation rounds, and partial pauses.">
+  <img src="../figures/fig_06_02_trade_war_escalation.png" alt="Escalation ladder of the 2018-2025 U.S.-China trade war, showing tariff actions, retaliation rounds, and partial pauses.">
   <figcaption>Figure 6.2: U.S.–China trade war escalation ladder (2018–2025).</figcaption>
 </figure>
 
@@ -275,7 +275,7 @@ EAR applies extraordinarily broadly:
 This extraterritorial reach gives the EAR substantial leverage: the United States can restrict foreign sales of foreign-made goods if they contain U.S. technology or were produced using U.S. equipment. Figure 6.4 maps the global reach of the Foreign Direct Product Rule, illustrating how a rule rooted in U.S. origin extends de facto jurisdiction over chip fabs in Taiwan, Korea, the Netherlands, and Japan.
 
 <figure class="book-figure">
-  <img src="../figures/fig_06_02_fdpr_reach.png" alt="Global reach of the U.S. Foreign Direct Product Rule, highlighting fabs and firms worldwide that produce items subject to U.S. export controls because they use U.S.-origin technology or software.">
+  <img src="../figures/fig_06_04_fdpr_reach.png" alt="Global reach of the U.S. Foreign Direct Product Rule, highlighting fabs and firms worldwide that produce items subject to U.S. export controls because they use U.S.-origin technology or software.">
   <figcaption>Figure 6.4: Extraterritorial reach of the Foreign Direct Product Rule.</figcaption>
 </figure>
 
@@ -358,6 +358,13 @@ Semiconductor export controls illustrate how EAR authorities operate in practice
 From an export control architecture perspective, the semiconductor case demonstrates both the power and limits of EAR authorities: ECCN-based controls can restrict specific technological capabilities, the FDPR can extend jurisdiction extraterritorially, and Entity List designations can target specific actors. Effectiveness still depends on allied coordination that lies beyond any single government's legal authority.
 
 The controls have also spawned novel enforcement hybrids. After the administration banned exports of Nvidia's China-market H20 accelerator in April 2025, it reversed course in July–August 2025, allowing sales under license in exchange for a first-of-its-kind arrangement under which Nvidia and AMD would remit 15% of their Chinese AI-chip revenue to the U.S. government—blurring the line between an export control and a revenue measure, and drawing criticism that it monetized national-security policy. Chapter 4 examines this episode, and China's algorithmic responses to the controls (including the January 2025 release of DeepSeek's efficient models), in detail.
+
+Figure 6.5 shows why the foreign direct product rule works at all. Equipment supply is concentrated in five firms across three jurisdictions — the United States, Japan, and the Netherlands — and that concentration, rather than any American monopoly, is what makes coordinated denial feasible. It also identifies the arrangement's weak point: the rule depends on all three continuing to agree, and any one of them defecting would leave the others holding controls that no longer bind.
+
+<figure class="book-figure">
+  <img src="../figures/fig_06_05_equipment_market_share.png" alt="Semiconductor manufacturing equipment market share by company and by country.">
+  <figcaption>Figure 6.5: Semiconductor manufacturing equipment market share, by company and by supplier country.</figcaption>
+</figure>
 
 ### Lessons from Cold War Export Controls: CoCom
 
@@ -517,11 +524,11 @@ China enacted Export Control Law (2020) establishing authority to:
 - **Outright ban on exports to the United States** (December 2024): Responding to a fresh round of U.S. semiconductor controls, China banned exports of gallium, germanium, antimony, and superhard materials to the United States specifically—rather than merely licensing them—the first time Beijing singled out one country for a critical-mineral embargo (China Ministry of Commerce 2024).
 - **Rare-earth and magnet licensing** (April and October 2025): During the 2025 tariff escalation (see Case Study 1), China placed seven medium and heavy rare-earth elements and permanent-magnet products under export licensing (April 2025), then in October 2025 broadened the regime with extraterritorial provisions reaching any product made anywhere with Chinese-origin rare earths or processing technology—a mirror image of the U.S. Foreign Direct Product Rule. The controls were suspended for one year under the October 30 Busan truce (CSIS 2025).
 
-Figure 6.5 places China's rare-earth measures against the American actions that preceded them. The sequencing rewards attention: Beijing's instruments arrived later and were narrower in scope, but they were aimed at the stage of the supply chain where substitution takes longest, which is why their announcement moved prices that tariff rounds did not.
+Figure 6.6 places China's rare-earth measures against the American actions that preceded them. The sequencing rewards attention: Beijing's instruments arrived later and were narrower in scope, but they were aimed at the stage of the supply chain where substitution takes longest, which is why their announcement moved prices that tariff rounds did not.
 
 <figure class="book-figure">
-  <img src="../figures/fig_06_04_rare_earth_retaliation.png" alt="Chinese critical-mineral and rare-earth export retaliation measures 2010-2025, showing targeted controls on gallium, germanium, graphite, and antimony alongside global production shares.">
-  <figcaption>Figure 6.5: Chinese critical-mineral export restrictions and retaliation, 2010–2025.</figcaption>
+  <img src="../figures/fig_06_06_rare_earth_retaliation.png" alt="Chinese critical-mineral and rare-earth export retaliation measures 2010-2025, showing targeted controls on gallium, germanium, graphite, and antimony alongside global production shares.">
+  <figcaption>Figure 6.6: Chinese critical-mineral export restrictions and retaliation, 2010–2025.</figcaption>
 </figure>
 
 **Unreliable Entity List (不可靠实体清单, bù kě kào shítǐ qīngdān)**
@@ -843,11 +850,11 @@ The central European dilemma is how to coordinate with the United States on Chin
 
 **Key application — the U.S.-China trade war**: USTR's August 2017 investigation found China engaged in forced technology transfer, discriminatory licensing, state-directed technology acquisition, and cyber-enabled IP theft. Tariffs escalated in waves: 25% on $50 billion (mid-2018), 10-25% on $200 billion (September 2018-May 2019), and 15% on $112 billion (September 2019). The January 2020 Phase One Agreement reduced some tariffs, but purchase commitments went largely unfulfilled. The Biden administration maintained all tariffs and added targeted increases (EVs to 100%, solar to 50%, semiconductors to 50%). At peak, tariffs affected $360 billion in Chinese imports (66% of total) at an effective average rate of 19.3%.
 
-Figure 6.6 summarises the Section 301 actions and their coverage. The breadth is the striking feature: a statute drafted to remedy specific unfair trade practices has carried the legal weight of a general tariff program, which is the background to the constitutional questions raised by the later IEEPA litigation.
+Figure 6.7 summarises the Section 301 actions and their coverage. The breadth is the striking feature: a statute drafted to remedy specific unfair trade practices has carried the legal weight of a general tariff program, which is the background to the constitutional questions raised by the later IEEPA litigation.
 
 <figure class="book-figure">
-  <img src="../figures/fig_06_06_section_301.png" alt="Section 301 tariff coverage by product category and administration, showing the expansion of coverage across Trump and Biden administrations.">
-  <figcaption>Figure 6.6: Section 301 tariff coverage by product category and administration (2018–2025).</figcaption>
+  <img src="../figures/fig_06_07_section_301.png" alt="Section 301 tariff coverage by product category and administration, showing the expansion of coverage across Trump and Biden administrations.">
+  <figcaption>Figure 6.7: Section 301 tariff coverage by product category and administration (2018–2025).</figcaption>
 </figure>
 
 **Strengths**: Broad scope and flexible remedies; product-specific targeting with exclusion processes; bipartisan sustainability (both Trump and Biden maintained tariffs); negotiating leverage through calibrated escalation. **Limitations**: Likely WTO-illegal (unilateral remedies rather than dispute settlement); U.S. consumers bear nearly 100% of tariff costs through higher prices (Amiti, Redding, and Weinstein 2019); Chinese retaliation targeting politically sensitive U.S. sectors (agriculture, energy); limited compellence success despite massive tariff coverage; and escalation dynamics creating a "tariff trap" where domestic political costs prevent de-escalation even when both sides face net losses.

@@ -300,6 +300,13 @@ Investment screening has proven effective in achieving its primary objective: dr
 
 ---
 
+Figure 8.3 puts the screening regime's whole trajectory in one view. Filings rose steeply after FIRRMA, peaked at 440 covered transactions in 2022, and have eased since to 325 in 2024. The third panel carries the more interesting finding: the Chinese share of reviews peaked around 2016, before FIRRMA, and has fallen to roughly 12 percent. The screening regime was built for a wave of Chinese investment that had largely receded by the time the machinery was ready.
+
+<figure class="book-figure">
+  <img src="../figures/fig_08_03_cfius_reviews.png" alt="CFIUS review activity 2010-2024, with enforcement outcomes and the Chinese share of reviews.">
+  <figcaption>Figure 8.3: CFIUS review activity, 2010-2024: filings by type, enforcement outcomes, and the share of reviews involving Chinese investors.</figcaption>
+</figure>
+
 ## Industrial Policy Competition - The Return of the State
 
 For nearly four decades, Western economic policy embraced market-driven allocation of resources, viewing government industrial policy, meaning directed subsidies, mandates, and preferences for specific industries, as inefficient distortions that reduce competitiveness. The Washington Consensus held that governments should establish rule of law, protect property rights, maintain macroeconomic stability, and otherwise let markets determine winners and losers. China's rapid rise through aggressive industrial policy challenged this orthodoxy. Now, facing strategic competition and supply chain vulnerabilities exposed by the pandemic and geopolitical tensions, the United States and Europe have embraced industrial policy on unprecedented scale, directly competing with China's state-directed model. This section examines contemporary industrial policy competition, comparing U.S. and Chinese approaches, assessing early results, and evaluating prospects for success.
@@ -365,11 +372,11 @@ The **results** of these investments have been mixed. The Chinese semiconductor 
 
 ### Comparing Approaches: Market-Driven vs. State-Directed
 
-Figure 8.3 sets the recent programs side by side. The comparison should be read with care — the entries differ in duration, in the mix of grants, loans, and tax credits, and in how much was appropriated versus disbursed — but even after those caveats the convergence is the point: the distinction between market-driven and state-directed approaches has narrowed considerably from the American side.
+Figure 8.4 sets the recent programs side by side. The comparison should be read with care — the entries differ in duration, in the mix of grants, loans, and tax credits, and in how much was appropriated versus disbursed — but even after those caveats the convergence is the point: the distinction between market-driven and state-directed approaches has narrowed considerably from the American side.
 
 <figure class="book-figure">
-  <img src="../figures/fig_08_03_industrial_policy.png" alt="Industrial policy spending comparison between the U.S. and China across key technology sectors.">
-  <figcaption>Figure 8.3: Industrial policy spending comparison between the U.S. and China across key technology sectors.</figcaption>
+  <img src="../figures/fig_08_04_industrial_policy.png" alt="Industrial policy spending comparison between the U.S. and China across key technology sectors.">
+  <figcaption>Figure 8.4: Industrial policy spending comparison between the U.S. and China across key technology sectors.</figcaption>
 </figure>
 
 **U.S. Model: Strategic Industrial Policy within Market Framework**
@@ -408,6 +415,13 @@ The United States itself moved toward this instrument in 2025. On February 3, 20
 
 ---
 
+Figure 8.5 sets the headline commitments side by side, and the comparison should be read with care: the programs differ in duration, in their mix of grants, loans, and tax credits, and in how much was appropriated rather than disbursed. With those caveats the pattern still holds. American and European programs are now larger in headline terms than China's semiconductor funds, which is a reversal of the assumption that state-directed industrial policy is something other countries do.
+
+<figure class="book-figure">
+  <img src="../figures/fig_08_05_industrial_policy_compare.png" alt="Headline spending under recent U.S., Chinese, and European industrial policy programs.">
+  <figcaption>Figure 8.5: Headline commitments under recent U.S., Chinese, and European industrial policy programs.</figcaption>
+</figure>
+
 ## Informal Economic Coercion - The Australia Case
 
 Formal economic coercion operates through institutionalized mechanisms: CFIUS decisions, tariffs under Section 301, OFAC sanctions. Informal coercion employs state power outside formal frameworks, through customs delays, regulatory harassment, unofficial import restrictions, and consumer boycotts encouraged by state media, to impose costs while maintaining plausible deniability. China's 2020-2021 economic pressure on Australia exemplifies informal coercion dynamics: how it operates, why targets struggle to respond, and implications for middle powers navigating great power competition.
@@ -445,6 +459,13 @@ Australia's wine industry faced perhaps the most devastating blow of China's inf
 Coal was the largest by value and the least formal. From October 2020 Australian coal carriers sat off Chinese ports for months without customs clearance, with no announcement of any kind; officials denied that restrictions existed and customs simply declined to clear cargoes citing unspecified quality concerns (GACC data; Lowy Institute 2021). Exports fell from AUD 14 billion in 2019 to AUD 2.4 billion in 2020 and to near zero in 2021 (DFAT, *Composition of Trade* 2022; Office of the Chief Economist). The coal restrictions also illustrate the costs coercion imposes on the coercer: China's own power shortages during the winter of 2020-21 were worsened by the loss of Australian supply. Lobster, timber, and copper concentrates were caught up in the same pattern — live lobsters spoiling in customs at Chinese airports, timber blocked over pest concerns, copper shipments delayed.
 
 One sector was conspicuously untouched. Iron ore, by far the largest single component of the trade and the one where China's dependence on Australian supply was greatest, was never restricted. The omission is the clearest available evidence that the campaign was calibrated rather than indiscriminate: Beijing targeted the exports it could replace and left alone the one it could not.
+
+Figure 8.6 shows the campaign's selectivity better than any narrative can. Wine, barley, lobster, and coal fall by 94 to 98 percent; iron ore rises. The restricted goods are the ones China could buy elsewhere, and the single commodity it could not replace was left untouched throughout — which tells you the measures were designed to be affordable to the coercer, not merely painful to the target.
+
+<figure class="book-figure">
+  <img src="../figures/fig_08_06_australia_china.png" alt="Australian exports to China by product, comparing 2019 with 2021 and the partial recovery by 2023.">
+  <figcaption>Figure 8.6: Australian exports to China by product: 2019, 2021, and the partial recovery by 2023.</figcaption>
+</figure>
 
 ### Australian Responses and Economic Impact
 

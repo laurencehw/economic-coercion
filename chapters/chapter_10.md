@@ -114,7 +114,7 @@ Decarbonization demands massive increases in the production of a handful of spec
 Figure 10.2 visualizes the relocation of strategic dependencies: legacy hydrocarbon exposure concentrated in OPEC and Russia shifts toward critical-mineral processing concentrated overwhelmingly in the People's Republic of China.
 
 <figure class="book-figure">
-  <img src="../figures/fig_10_05_new_dependencies.png" alt="Shift in strategic dependencies from hydrocarbons to critical minerals, comparing OPEC's historical oil share with China's current processing share of lithium, cobalt, and rare earths.">
+  <img src="../figures/fig_10_02_new_dependencies.png" alt="Shift in strategic dependencies from hydrocarbons to critical minerals, comparing OPEC's historical oil share with China's current processing share of lithium, cobalt, and rare earths.">
   <figcaption>Figure 10.2: From oil to minerals — the relocation of strategic dependencies in the energy transition.</figcaption>
 </figure>
 
@@ -132,6 +132,13 @@ This relocation of dependence carries several strategic implications. China's gr
 **Mitigation Strategies**
 
 Western nations are pursuing diversification through investments in alternative mining in the United States, Canada, and Australia, along with expanded processing capacity. Recycling offers a complementary pathway, with battery recycling projected to provide 25-30% of lithium and cobalt needs by 2040, reducing virgin material requirements. Technology substitution, including sodium-ion batteries, rare-earth-free motors, and alternative chemistries, could further diminish dependence on concentrated supply sources. Governments are also stockpiling critical minerals as strategic reserves, and friend-shoring efforts aim to develop supply chains through allied countries such as Australia, Canada, Chile, and Peru.
+
+Figure 10.3 separates mining from processing for the minerals the energy transition depends on, and the gap between the two is the whole argument of this section. Mining is spread across Australia, Chile, Indonesia, and the Democratic Republic of the Congo; refining is not. The chokepoint the transition creates sits downstream, where capital is patient, permitting is hardest, and China has spent two decades building.
+
+<figure class="book-figure">
+  <img src="../figures/fig_10_03_critical_minerals.png" alt="Processing and mining shares for critical minerals by country.">
+  <figcaption>Figure 10.3: Critical mineral processing and mining shares by country, showing the concentration of refining capacity.</figcaption>
+</figure>
 
 ### Water Scarcity and Agricultural Leverage
 
@@ -170,11 +177,11 @@ Artificial intelligence, quantum computing, biotechnology, and space systems mar
 
 ### Artificial Intelligence: The Defining Technology Competition
 
-Figure 10.3 revisits the AI indicators introduced in Chapter 4, now as inputs to the scenarios below. Their divergence is what makes the technology competition hard to score in advance, and it is the principal reason the scenario probabilities offered here are wide.
+Figure 10.4 revisits the AI indicators introduced in Chapter 4, now as inputs to the scenarios below. Their divergence is what makes the technology competition hard to score in advance, and it is the principal reason the scenario probabilities offered here are wide.
 
 <figure class="book-figure">
-  <img src="../figures/fig_10_03_ai_indicators.png" alt="AI development indicators comparing U.S. and China across research, talent, compute, and applications.">
-  <figcaption>Figure 10.3: AI development indicators comparing U.S. and China across research, talent, compute, and applications.</figcaption>
+  <img src="../figures/fig_10_04_ai_indicators.png" alt="AI development indicators comparing U.S. and China across research, talent, compute, and applications.">
+  <figcaption>Figure 10.4: AI development indicators comparing U.S. and China across research, talent, compute, and applications.</figcaption>
 </figure>
 
 **AI Strategic Significance**
@@ -326,8 +333,8 @@ Projecting 25 years into an uncertain future requires scenario analysis: develop
 Combining these dimensions generates four scenarios. Figure 10.4 places each scenario on the two-dimensional uncertainty space and summarizes the bilateral trade, reserve-currency shares, and alliance configurations associated with each outcome.
 
 <figure class="book-figure">
-  <img src="../figures/fig_10_04_decoupling_scenarios.png" alt="Four-scenario matrix mapping economic integration against competition intensity, with probability weights and key indicators for each future.">
-  <figcaption>Figure 10.4: Four scenarios for U.S.–China economic competition, 2035–2050, mapped on the integration × intensity axes.</figcaption>
+  <img src="../figures/fig_10_05_decoupling_scenarios.png" alt="Four-scenario matrix mapping economic integration against competition intensity, with probability weights and key indicators for each future.">
+  <figcaption>Figure 10.5: Four scenarios for U.S.–China economic competition, 2035–2050, mapped on the integration × intensity axes.</figcaption>
 </figure>
 
 ### Scenario A: Managed Competition with Selective Integration (Baseline — 40% probability)

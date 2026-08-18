@@ -141,6 +141,6 @@ p <- ggplot(stage_summary, aes(x = factor(stage_order), y = value, fill = region
   )
 
 # Save the figure
-save_econ_figure(here::here("figures", "fig_04_03_chip_supply_chain.png"), plot = p, width = 12, height = 8)
+save_econ_figure(here::here("figures", "fig_04_01_chip_supply_chain.png"), plot = p, width = 12, height = 8)
 
 cat("Figure 4.3 created: Semiconductor Supply Chain\n")

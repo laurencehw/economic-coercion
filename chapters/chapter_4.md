@@ -122,6 +122,13 @@ The August 2023 release of Huawei's Mate 60 Pro smartphone, powered by a domesti
 
 Measured against the five effectiveness criteria from Chapter 1, the controls return a mixed verdict that this chapter's closing case study develops in full: moderate target compliance; capability degradation that is high in the short term but uncertain over the long term, with Chinese fabrication perhaps 3-5 years behind TSMC and Samsung and no clear path to close the gap without the restricted equipment (Khan, Mann, and Peterson 2021); very high cost imposition; only moderately assured sustainability, which hinges on allied cooperation; and high collateral damage. That last cost falls hardest on the restrictor's own firms—American equipment and chip makers lose tens of billions in annual Chinese revenue, and Nvidia's forgone China AI-chip sales alone have been put at $7-10 billion a year, consistent with its disclosure that China had accounted for roughly a fifth of its data-center revenue before the controls (Nvidia FY2024 10-K; Reuters 2023). The case study at the end of the chapter works through each criterion in turn.
 
+Figure 4.1 traces where value and capability sit at each stage of the chain. The asymmetry it shows is the reason export controls at a single stage can be so consequential: no region is self-sufficient across the sequence, and the stages where concentration is highest are precisely those where the United States and its partners hold the leverage.
+
+<figure class="book-figure">
+  <img src="../figures/fig_04_01_chip_supply_chain.png" alt="Regional market shares across the stages of the global semiconductor supply chain.">
+  <figcaption>Figure 4.1: Regional market shares across the stages of the semiconductor supply chain, from design through fabrication, assembly, and equipment.</figcaption>
+</figure>
+
 ### Strategic Implications: The Semiconductor Decoupling Dynamic
 
 Semiconductor export controls have initiated a decoupling process with profound strategic implications extending far beyond chips themselves. This decoupling creates several dynamics:
@@ -182,11 +189,11 @@ The cat-and-mouse did not end there, and its next round produced an entirely new
 
 ### AI Research Leadership: Publications, Patents, and Talent
 
-Figure 4.1 assembles the standard indicators of AI capability, and the first thing it shows is that they disagree with one another. Publication counts, patent filings, private investment, and top-tier talent each produce a different ranking, which is why any confident claim about who is 'ahead' in artificial intelligence is usually a claim about which indicator the speaker has chosen.
+Figure 4.2 assembles the standard indicators of AI capability, and the first thing it shows is that they disagree with one another. Publication counts, patent filings, private investment, and top-tier talent each produce a different ranking, which is why any confident claim about who is 'ahead' in artificial intelligence is usually a claim about which indicator the speaker has chosen.
 
 <figure class="book-figure">
-  <img src="../figures/fig_04_01_ai_development.png" alt="AI research output and impact by country, showing publications, citations, and talent distribution.">
-  <figcaption>Figure 4.1: AI research output and impact by country, showing publications, citations, and talent distribution.</figcaption>
+  <img src="../figures/fig_04_02_ai_development.png" alt="AI research output and impact by country, showing publications, citations, and talent distribution.">
+  <figcaption>Figure 4.2: AI research output and impact by country, showing publications, citations, and talent distribution.</figcaption>
 </figure>
 
 AI competition extends beyond chips to research capabilities: which countries publish cutting-edge research, file foundational patents, attract and develop top talent, and translate research into commercial products and military applications. Metrics reveal complex dynamics where the United States and China lead in different dimensions while Europe falls behind.
@@ -351,11 +358,11 @@ The biosecurity risks of this competition run in several directions at once: red
 
 Research and development investment determines long-term technological leadership, yet measuring and comparing R&D spending across countries involves definitional challenges, data quality concerns, and questions about efficiency versus quantity. Nevertheless, broad patterns reveal intensifying competition where Chinese R&D investment rivals or exceeds American levels while questions persist about which system generates more innovation per dollar invested.
 
-Figure 4.2 plots these totals on the purchasing-power basis, where the convergence is genuine and the crossing point is near. On market exchange rates the same two series remain roughly a factor of two apart, and the gap between those two readings — not any dispute about the underlying data — is what most disagreements about Chinese research spending actually turn on.
+Figure 4.3 plots these totals on the purchasing-power basis, where the convergence is genuine and the crossing point is near. On market exchange rates the same two series remain roughly a factor of two apart, and the gap between those two readings — not any dispute about the underlying data — is what most disagreements about Chinese research spending actually turn on.
 
 <figure class="book-figure">
-  <img src="../figures/fig_04_02_rd_spending.png" alt="R&D spending by country from 1990-2024, showing the dramatic rise of Chinese investment.">
-  <figcaption>Figure 4.2: R&D spending by country from 1990-2024, showing the dramatic rise of Chinese investment.</figcaption>
+  <img src="../figures/fig_04_03_rd_spending.png" alt="R&D spending by country from 1990-2024, showing the dramatic rise of Chinese investment.">
+  <figcaption>Figure 4.3: R&D spending by country from 1990-2024, showing the dramatic rise of Chinese investment.</figcaption>
 </figure>
 
 Global R&D spending has grown dramatically and shifted eastward. World Bank and OECD data put it at roughly $2.2–2.5 trillion a year by 2021—about 2 percent of global GDP—with the growth concentrated in Asia (UNESCO Institute for Statistics 2023). The United States remains the largest single-country investor at market exchange rates, spending roughly $806 billion in 2021 (about 3.5 percent of GDP) and more since. How far China has closed the gap depends entirely on the yardstick. At market exchange rates Chinese R&D was about $430 billion in 2021 (2.4 percent of GDP), rising to RMB 3.61 trillion in 2024 (2.68 percent of GDP)—on that basis U.S. spending remains nearly double, roughly $990 billion against about $500 billion in 2024. In purchasing-power-parity terms, which correct for China's lower input and wage costs, the same 2021 outlay was closer to $650–670 billion, and on the OECD's PPP series Chinese R&D reached roughly $840 billion in 2024 against about $990 billion for the United States—close enough that the crossing point is now a question of when rather than whether, though it had not yet occurred (OECD, *Main Science and Technology Indicators*; NBS 2025; NSF *Science and Engineering Indicators* 2024). The methodological gap between those two bases—not any statistical sleight of hand—is why headline claims of Chinese "parity" or "lead" must always name their yardstick. The European Union collectively invests substantial sums ($386 billion in 2021), but fragmentation across 27 member states dilutes coordination and scale, while Japan ($177 billion), South Korea (around $110–120 billion), and Taiwan sustain high R&D intensity of 3–4 percent of GDP on smaller absolute totals (OECD 2023).
@@ -554,6 +561,13 @@ In January 2023, the U.S., Japan, and Netherlands reached an understanding — n
 5. **Legitimacy concerns**: Extraterritorial application of U.S. law to foreign companies' foreign transactions generates sovereignty objections. The EU's Blocking Statute — designed to counter U.S. extraterritorial sanctions — could theoretically be invoked against FDPR enforcement, though it has not been to date in the semiconductor context
 
 ---
+
+Figure 4.4 shows what a decade of escalating restriction did to a single firm, and what it did not do. Huawei's consumer business collapsed after the 2020 foreign direct product rule cut off its access to advanced chips, taking total revenue down by more than a quarter in a single year. But the firm did not fail: carrier and enterprise revenue held, and by 2024 total revenue had recovered to roughly its 2020 level. Read alongside the substitution margin, the trajectory is a caution against reading early sanctions impact as a permanent verdict.
+
+<figure class="book-figure">
+  <img src="../figures/fig_04_04_huawei_impact.png" alt="Huawei revenue by business segment, 2015-2024, annotated by sanctions phase.">
+  <figcaption>Figure 4.4: Huawei revenue by business segment, 2015-2024. Shading marks the phases of U.S. restriction.</figcaption>
+</figure>
 
 ## Case Study: U.S. Semiconductor Export Controls (October 2022-2024)
 

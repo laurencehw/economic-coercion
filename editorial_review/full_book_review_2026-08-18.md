@@ -7,7 +7,7 @@
 
 ---
 
-## Rating on arrival: 8.5 / 10 → after this pass: 9.2 / 10
+## Rating on arrival: 8.5 / 10 → after this pass: 9.3 / 10
 
 The July roadmap's phases 1–5 were genuinely executed, and they worked. Identity is settled, the 2025–26 currency sweep landed, the ~40 factual errors are fixed, the two-margins thesis now runs through to a conclusion that earns its ending, and the canonical statistics table in `DATA_DICTIONARY.md` is a better single-source-of-truth apparatus than most published textbooks maintain.
 
@@ -18,12 +18,12 @@ The manuscript arrived at this review held back by one thing above all, which th
 | Dimension | On arrival | After this pass | Note |
 |---|---|---|---|
 | Analytical framework & rigor | 9.0 | 9.0 | Two-margins thesis carries through to the conclusion; the Ch1 inference note remains exemplary |
-| Pedagogy | 8.5 | 9.3 | Learning objectives everywhere; all 42 figures now discussed in prose rather than decorative; index added |
+| Pedagogy | 8.5 | 9.3 | Learning objectives everywhere; all 50 figures now discussed in prose rather than decorative; index added |
 | Writing quality | 8.0 | 9.0 | Conclusion and Ch10 scenarios converted from briefing-book bullets to prose; Ch8's Australia case rewritten |
 | Evidence & sourcing | 8.5 | 9.4 | Citation resolution 253/253; last unverifiable attribution replaced |
 | Internal consistency | 7.5 | 9.3 | Text-vs-text was good; text-vs-figure was not, and that is what this pass fixed |
 | Currency (Aug 2026) | 9.0 | 9.0 | Solid through mid-2026 |
-| Production readiness | 6.5 | 8.8 | Figure numbering repaired, reference formats unified, index built; 20 orphan figures remain |
+| Production readiness | 6.5 | 9.2 | Figure numbering repaired, reference formats unified, index built; 12 of 20 orphans audited and embedded, 11 remain |
 
 ---
 
@@ -51,7 +51,7 @@ All of the above are fixed, and the hard-coded annotations that had already drif
 
 **Figure numbering.** Chapter 7 presented its figures as 7.3, 7.1, 7.2, 7.4; chapter 4 as 4.2 then 4.1. Chapter 5's opening figure was captioned 5.1 but stored as `fig_03_05_subsea_cables.png` — a chapter-3 filename — and its other files were similarly misaligned. Renamed and renumbered so filename, caption, and appearance order agree in every chapter.
 
-**Figures were never discussed.** Only 11 of 42 embedded figures were referred to anywhere in the prose; chapters 2, 3, 4, 7, and 8 referred to none of their own. Every figure now carries a sentence of interpretation.
+**Figures were never discussed.** Only 11 of 42 embedded figures were referred to anywhere in the prose; chapters 2, 3, 4, 7, and 8 referred to none of their own. All 50 figures now carry a sentence of interpretation.
 
 **Reference formats.** The chapter reference lists were not merely in the wrong style — they were in *four* different styles: parenthetical-year with annotations (ch 1), Chicago notes with annotation bullets (ch 2), bold-name running-note form (ch 6), Chicago notes (ch 3–5, 7), and numbered citation-order lists (ch 8–10). 189 entries normalised to author-date.
 
@@ -70,11 +70,30 @@ All of the above are fixed, and the hard-coded annotations that had already drif
 
 Ordered by value.
 
-### 1. The 20 orphan figures (the largest remaining item)
+### 1. The remaining 11 orphan figures
 
-Twenty finished figures are never shown to the reader — chapters 2, 3, 4, 6, 7, 8, and 10 each have completed charts their prose does not display. **They should not simply be embedded.** Spot-checking found that `fig_08_04_cfius_reviews` shows ~530 CFIUS reviews for 2024 against the canonical 325, and puts the Chinese share at ~30% against the canonical ~12%; it also contradicts `fig_08_08`, which has the same series at 5%. Embedding these as they stand would reintroduce exactly the defect this pass removed.
+Twelve of the twenty orphans were audited, corrected where their data was wrong, and
+embedded with prose discussion; the book now shows 50 figures rather than 42. The
+audit was necessary rather than ceremonial — `fig_08_04_cfius_reviews` had 530 CFIUS
+reviews for 2024 against the canonical 325 and put the Chinese share at ~30% against
+~12%, while `fig_08_08` carried the same series at 5% and had to be removed as
+contradictory. Huawei's 2024 revenue was $105B against an actual CNY 862.1bn (~$118bn);
+the industrial-policy comparison carried an unsourced "$300B" for Made in China 2025
+where Big Fund III ($47.5B) belonged.
 
-The work is: audit each orphan's data against the canonical table, fix or discard, then embed with prose discussion or delete the script. Budget a day.
+Eleven orphans remain, and the honest position is that most should stay out. Several
+duplicate embedded figures (`fig_07_07_dedollarization` overlaps Figure 10.1); several
+rest on author-estimated series with no citable source (`fig_07_06`'s designation
+counts, `fig_07_07`'s oil-trade and BRICS-trade shares).
+
+One is worth rescuing rather than deleting. `fig_10_06_scenario_matrix` plots the four
+scenarios on integration-by-intensity axes with the same 40/25/20/15 probabilities the
+chapter uses, and a clean version would serve Chapter 10's showpiece section well. It
+is not currently publishable: the quadrant letters do not sit where their bubbles do,
+the Economic Cold War and Crisis Fragmentation labels collide in the top-left, the axis
+labels are truncated and overlapping, and the title is duplicated. That is a chart-layout
+job of an hour or two, not a data problem. The rest should be deleted so the inventory
+stops implying work left undone — a call left to the author rather than made here.
 
 ### 2. Complete the figure build environment
 

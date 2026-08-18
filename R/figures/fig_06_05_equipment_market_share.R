@@ -182,7 +182,7 @@ combined <- (p1 | p2) / p3 +
   )
 
 # Save
-save_econ_figure(here("figures", "fig_06_07_equipment_market_share.png"), combined, width = 12, height = 10)
+save_econ_figure(here("figures", "fig_06_05_equipment_market_share.png"), combined, width = 12, height = 10)
 
 # Print summary
 cat("\nFigure 6.7 Summary:\n")

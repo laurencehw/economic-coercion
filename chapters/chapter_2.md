@@ -329,6 +329,13 @@ The realistic outcome is a hybrid approach: modest reshoring of truly critical m
 
 ---
 
+Figure 2.4 gathers this chapter's dependencies into a single frame, plotting each against both supply concentration and strategic criticality. Two features are worth dwelling on. EUV lithography and leading-edge logic sit alone in the top right, which is the visual form of the argument that these are the chokepoints that matter most. And active pharmaceutical ingredients sit far to the left despite high criticality — high stakes, but on the registered-facility basis a genuinely diversified supply. That placement is the point: the widely repeated claim that China supplies 80 percent of American APIs does not survive contact with the underlying data, and a risk matrix built on it would put pharmaceuticals in the wrong quadrant entirely.
+
+<figure class="book-figure">
+  <img src="../figures/fig_02_04_supply_chain_risk.png" alt="Supply chain risk matrix plotting critical inputs by supply concentration and strategic criticality.">
+  <figcaption>Figure 2.4: Critical inputs plotted by supply concentration and strategic criticality. Bubble size reflects the combined risk score.</figcaption>
+</figure>
+
 ## Strategies for Reducing Vulnerabilities
 
 Recognition of supply chain chokepoints has triggered a global rethinking of trade and industrial policy. The previous consensus—that economic efficiency should drive sourcing decisions and governments should minimize intervention in markets—has fractured. In its place, several strategies have emerged for reducing dependencies on potential adversaries. Each involves distinct tradeoffs between security and economics, and each faces implementation challenges that limit effectiveness. This section evaluates five approaches: reshoring (onshoring), friend-shoring (ally-shoring), diversification, strategic stockpiling, and technology substitution.

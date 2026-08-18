@@ -145,14 +145,14 @@ These chokepoints create strategic leverage for countries that can threaten clos
 Figure 3.1 renders these passages at the scale of the flows they carry. Hormuz dominates the picture for a reason that the map makes plain: no other chokepoint combines that volume with so little capacity to route around it.
 
 <figure class="book-figure">
-  <img src="../figures/fig_03_04_chokepoints.png" alt="Critical maritime passages for global energy transit. The Strait of Hormuz handles 21 million barrels per day—closure would immediately trigger global recession. Size indicates oil transit volume; color indicates strategic importance.">
+  <img src="../figures/fig_03_01_chokepoints.png" alt="Critical maritime passages for global energy transit. The Strait of Hormuz handles 21 million barrels per day—closure would immediately trigger global recession. Size indicates oil transit volume; color indicates strategic importance.">
   <figcaption>Figure 3.1: Critical maritime passages for global energy transit. The Strait of Hormuz handles 21 million barrels per day—closure would immediately trigger global recession. Size indicates oil transit volume; color indicates strategic importance.</figcaption>
 </figure>
 
 Figure 3.2 extends the same logic from straits to terminals. Ownership of a port confers nothing as dramatic as the power to close a strait, but the map shows how widely distributed those holdings have become, and geography of this kind accumulates quietly and is difficult to reverse.
 
 <figure class="book-figure">
-  <img src="../figures/fig_03_07_strategic_ports.png" alt="Global strategic ports by type and volume. Red circles indicate ports with significant Chinese ownership or operational control, illustrating the geographic scope of China's maritime investment strategy.">
+  <img src="../figures/fig_03_02_strategic_ports.png" alt="Global strategic ports by type and volume. Red circles indicate ports with significant Chinese ownership or operational control, illustrating the geographic scope of China's maritime investment strategy.">
   <figcaption>Figure 3.2: Global strategic ports by type and volume. Red circles indicate ports with significant Chinese ownership or operational control, illustrating the geographic scope of China's maritime investment strategy. This network of Chinese-invested ports underpins the "String of Pearls" strategy noted above, providing commercial footholds along the sea lanes that carry China's energy imports through the Malacca and other chokepoints.</figcaption>
 </figure>
 
@@ -169,7 +169,7 @@ This infrastructure created a relationship of asymmetric interdependence. Europe
 Figure 3.3 shows what that dependence looked like as physical infrastructure, and what became of it. The pipelines drawn in red and orange represent capital that took decades to build and was rendered idle in under a year, which is the most expensive illustration in this book of how quickly an asymmetric interdependence can be repriced.
 
 <figure class="book-figure">
-  <img src="../figures/fig_03_08_russian_pipelines.png" alt="Russian oil and gas pipeline networks to Europe and Asia. Green indicates operational pipelines, orange shows reduced flow, red marks damaged or closed infrastructure. The Nord Stream pipelines were destroyed by underwater explosions in September 2022; Russian pipeline gas transit through Ukraine ended entirely on 1 January 2025, when the five-year transit contract expired.">
+  <img src="../figures/fig_03_03_russian_pipelines.png" alt="Russian oil and gas pipeline networks to Europe and Asia. Green indicates operational pipelines, orange shows reduced flow, red marks damaged or closed infrastructure. The Nord Stream pipelines were destroyed by underwater explosions in September 2022; Russian pipeline gas transit through Ukraine ended entirely on 1 January 2025, when the five-year transit contract expired.">
   <figcaption>Figure 3.3: Russian oil and gas pipeline networks to Europe and Asia. Green indicates operational pipelines, orange shows reduced flow, red marks damaged or closed infrastructure. The Nord Stream pipelines were destroyed by underwater explosions in September 2022; Russian pipeline gas transit through Ukraine ended entirely on 1 January 2025, when the five-year transit contract expired.</figcaption>
 </figure>
 
@@ -192,7 +192,7 @@ Longer-term restructuring followed. Germany announced 13+ new LNG terminals and 
 Figure 3.4 is the argument of this section in a single chart. Read beside Figure 3.3, it suggests that Europe's escape from Russian gas has not ended its exposure to energy geopolitics so much as changed the counterparty and moved the chokepoint upstream into manufacturing.
 
 <figure class="book-figure">
-  <img src="../figures/fig_03_06_renewable_manufacturing.png" alt="China's dominant share in renewable energy manufacturing across solar, wind, and battery supply chains.">
+  <img src="../figures/fig_03_04_renewable_manufacturing.png" alt="China's dominant share in renewable energy manufacturing across solar, wind, and battery supply chains.">
   <figcaption>Figure 3.4: China's dominant share in renewable energy manufacturing across solar, wind, and battery supply chains.</figcaption>
 </figure>
 

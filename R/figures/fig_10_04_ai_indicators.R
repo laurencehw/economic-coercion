@@ -192,6 +192,6 @@ combined <- (p1 | p2) / p3 +
 # 6. SAVE OUTPUT
 # ============================================================================
 
-save_econ_figure(here("figures", "fig_10_03_ai_indicators.png"), combined, width = 14, height = 10)
+save_econ_figure(here("figures", "fig_10_04_ai_indicators.png"), combined, width = 14, height = 10)
 
 cat("\nFigure 10.3 AI Indicators created successfully!\n")

@@ -115,6 +115,6 @@ p <- ggplot() +
 # 3. SAVE OUTPUT
 # ============================================================================
 
-save_econ_figure(here("figures", "fig_01_04_timeline.png"), p, width = 14, height = 6)
+save_econ_figure(here("figures", "fig_01_03_timeline.png"), p, width = 14, height = 6)
 
 cat("\nFigure 1.4 Timeline (simplified) created successfully!\n")

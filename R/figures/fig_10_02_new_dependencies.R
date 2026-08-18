@@ -122,6 +122,6 @@ library(patchwork)
 combined <- (p1 + p2) / p3 + plot_layout(heights = c(1, 1))
 
 # Save the figure
-save_econ_figure(here::here("figures", "fig_10_05_new_dependencies.png"), plot = combined, width = 14, height = 12)
+save_econ_figure(here::here("figures", "fig_10_02_new_dependencies.png"), plot = combined, width = 14, height = 12)
 
 cat("Figure 10.5 created: New Dependencies\n")

@@ -348,7 +348,7 @@ print(combined_plot)
 
 # Save figure
 save_econ_figure(
-  filename = here::here("figures", "fig_04_01_ai_development.png"),
+  filename = here::here("figures", "fig_04_02_ai_development.png"),
   plot = combined_plot,
   width = 16,
   height = 14,
@@ -359,8 +359,8 @@ cat("\n")
 cat("========================================\n")
 cat("Figure 4.2 created successfully!\n")
 cat("========================================\n")
-cat("Location: figures/fig_04_01_ai_development.png\n")
-cat("          figures/fig_04_01_ai_development.pdf\n")
+cat("Location: figures/fig_04_02_ai_development.png\n")
+cat("          figures/fig_04_02_ai_development.pdf\n")
 cat("\n")
 cat("AI Research Trends (2010-2024):\n")
 cat("--------------------------------\n")
