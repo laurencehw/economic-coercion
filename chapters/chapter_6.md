@@ -445,7 +445,7 @@ Technologies with strong network effects create lock-in that unilateral controls
 
 Some goods lack ready substitutes due to technical complexity or economies of scale:
 
-- **Rare earth processing** (China): Despite rare earths mined globally, China processes 85% (USGS 2024). Chinese export restrictions force others to develop processing (slow, expensive, environmentally challenging) or pay premium prices.
+- **Rare earth processing** (China): Despite rare earths being mined in several countries, China performs roughly 90% of global separation and refining, and mines about 70% (USGS 2025). Chinese export restrictions force others to develop processing (slow, expensive, environmentally challenging) or pay premium prices.
 - **Pharmaceutical precursors**: Consolidation of API production in China/India creates dependencies exploitable through export restrictions
 - **Specialized aerospace components**: Single-source suppliers for certain aircraft and satellite components enable unilateral controls
 

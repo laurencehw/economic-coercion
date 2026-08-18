@@ -57,8 +57,8 @@ panel_a <- ggplot(rd_long, aes(x = Year, y = RD_Spending, color = Country, linet
   ) +
   scale_y_continuous(
     labels = label_dollar(suffix = "B"),
-    breaks = seq(0, 900, 150),
-    limits = c(0, 900)
+    breaks = seq(0, 1200, 200),
+    limits = c(0, 1200)
   ) +
   scale_x_continuous(
     breaks = seq(1990, 2024, 5),
@@ -66,7 +66,7 @@ panel_a <- ggplot(rd_long, aes(x = Year, y = RD_Spending, color = Country, linet
   ) +
   labs(
     title = "Absolute R&D Spending",
-    subtitle = "China's rapid ascent from minimal investment to near-U.S. levels",
+    subtitle = "China's ascent from minimal investment to within reach of U.S. levels",
     x = "Year",
     y = "R&D Spending (Billions USD, PPP)",
     color = "Country/Region",
@@ -102,7 +102,7 @@ panel_a <- ggplot(rd_long, aes(x = Year, y = RD_Spending, color = Country, linet
     "text",
     x = 2026,
     y = rd_data$USA[rd_data$Year == 2024],
-    label = "$810B",
+    label = paste0("$", rd_data$USA[rd_data$Year == 2024], "B"),
     size = 3,
     color = econ_colors[["USA"]],
     fontface = "bold",
@@ -112,7 +112,7 @@ panel_a <- ggplot(rd_long, aes(x = Year, y = RD_Spending, color = Country, linet
     "text",
     x = 2026,
     y = rd_data$China[rd_data$Year == 2024],
-    label = "$668B",
+    label = paste0("$", rd_data$China[rd_data$Year == 2024], "B"),
     size = 3,
     color = econ_colors[["China"]],
     fontface = "bold",
@@ -208,7 +208,11 @@ panel_c <- ggplot(rd_growth, aes(x = Year, y = Growth_Index, color = Country)) +
   ) +
   labs(
     title = "R&D Spending Growth Index (1990 = 100)",
-    subtitle = "China's 8,250% growth far outpaces all competitors",
+    subtitle = paste0("China's ",
+                    format(round(100 * (rd_data$China[rd_data$Year == 2024] /
+                                        rd_data$China[rd_data$Year == 1990] - 1)),
+                           big.mark = ","),
+                    "% growth far outpaces all competitors"),
     x = "Year",
     y = "Index (1990 = 100)",
     color = "Country/Region"
@@ -223,7 +227,10 @@ panel_c <- ggplot(rd_growth, aes(x = Year, y = Growth_Index, color = Country)) +
     "text",
     x = 2010,
     y = 7000,
-    label = paste0("China: 8,250% growth\n(",
+    label = paste0("China: ",
+                   format(round(100 * (rd_data$China[rd_data$Year == 2024] /
+                                       rd_data$China[rd_data$Year == 1990] - 1)),
+                          big.mark = ","), "% growth\n(",
                    rd_data$China[rd_data$Year == 1990], "B → ",
                    rd_data$China[rd_data$Year == 2024], "B)"),
     size = 3.5,
@@ -241,7 +248,7 @@ combined_plot <- (panel_a / (panel_b | panel_c)) +
     subtitle = "China's rapid rise from minimal investment to challenging U.S. technological leadership",
     caption = paste0(
       "Source: OECD Main Science and Technology Indicators, NSF Science & Engineering Indicators, Chinese National Bureau of Statistics\n",
-      "Note: Values in purchasing power parity (PPP) billions USD. 2023-2024 are estimates. Includes government, higher education, business, and non-profit R&D."
+      "Note: Gross domestic expenditure on R&D (GERD) in current purchasing-power-parity billions USD, OECD MSTI basis; 2024 estimated.\nAt market exchange rates the U.S.-China gap is roughly twice as wide. Includes government, higher education, business, and non-profit R&D."
     ),
     theme = theme_econ_textbook()
   ) +
@@ -291,9 +298,9 @@ cat(sprintf("  China: %.1f%%\n", rd_data$China_Share[rd_data$Year == 2024]))
 cat(sprintf("  EU:    %.1f%%\n", rd_data$EU_Share[rd_data$Year == 2024]))
 cat("\n")
 cat("Key Insights:\n")
-cat("  - China's R&D spending grew 8,250% from 1990 to 2024\n")
+cat(sprintf("  - China's R&D spending grew %.0f%% from 1990 to 2024\n", 100*(rd_data$China[rd_data$Year==2024]/rd_data$China[rd_data$Year==1990]-1)))
 cat("  - China surpassed EU in R&D spending around 2016\n")
-cat("  - China's 2024 spending ($668B) is 82% of U.S. level ($810B)\n")
+cat(sprintf("  - China's 2024 spending ($%dB) is %.0f%% of U.S. level ($%dB)\n", rd_data$China[rd_data$Year==2024], 100*rd_data$China[rd_data$Year==2024]/rd_data$USA[rd_data$Year==2024], rd_data$USA[rd_data$Year==2024]))
 cat("  - U.S. global share declined from 37.9% (1990) to 28.8% (2024)\n")
 cat("  - China's global share rose from 2.0% (1990) to 23.8% (2024)\n")
 cat("========================================\n")

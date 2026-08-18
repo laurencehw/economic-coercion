@@ -516,7 +516,7 @@ Replay the chokepoint shock from the **Chinese** seat: in **EconWar**, decide wh
 
 Following a U.S. decision to impose new tariffs on Chinese electric vehicles and solar panels under Section 301, China announces "temporary export controls" on gallium, germanium, and several rare earth elements "for national security reasons." The measures require Chinese exporters to obtain licenses for shipments to "unfriendly countries," which in practice means the United States and allies supporting the tariffs.
 
-China produces 98% of global gallium, 60% of germanium, and dominates rare earth processing (85%+ global capacity). These materials are critical for:
+China produces 98% of global gallium, 60% of germanium, and dominates rare earth processing (about 90% of global capacity). These materials are critical for:
 - **Defense:** Missile guidance systems, radar, satellite communications, night vision equipment
 - **Clean energy:** Wind turbines, electric vehicle motors, solar panels
 - **Electronics:** Smartphones, fiber optics, semiconductors, LED lighting
@@ -671,7 +671,7 @@ Chinese state media declares that "those who seek to contain China will find the
 - Infrastructure Investment and Jobs Act (rare earth programs)
 
 **Critical Mineral Data:**
-- Chinese rare earth production: 60% of mining, 85%+ of processing
+- Chinese rare earth production: about 70% of mining, about 90% of processing
 - U.S. imports: 80% of rare earth elements from China (2019)
 - Defense uses: $500 million+ annually in rare earths for weapons systems
 - Clean energy: Each wind turbine requires ~500 kg of rare earths; each EV motor ~1-2 kg

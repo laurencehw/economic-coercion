@@ -317,7 +317,7 @@ Chinese government responses to resource vulnerabilities span multiple domains, 
 
 **Strategic reserves** buffer supply disruptions and price volatility. Beyond petroleum reserves, China maintains stockpiles of rare earths (ironic given China's production dominance—reserves guard against future scarcity or domestic supply issues), copper, aluminum, soybeans, pork (frozen meat reserves to stabilize prices), and other commodities. These reserves are larger than Western counterparts relative to consumption, reflecting greater anxiety about supply security and willingness to bear storage costs for insurance.
 
-**Vertical integration** aims to control entire supply chains. For critical minerals, China not only processes rare earths (85% global share) but also manufactures downstream products (magnets 90%, phosphors 80%). This integration means disruptions to foreign rare earth mines affect China less than competitors—China can substitute domestic mining or reduce export processing to prioritize domestic users. Similar integration occurs in solar panels (polysilicon through modules) and batteries (lithium processing through cell manufacturing).
+**Vertical integration** aims to control entire supply chains. For critical minerals, China not only processes rare earths (about 90% of global separation capacity) but also manufactures downstream products (magnets 90%, phosphors 80%). This integration means disruptions to foreign rare earth mines affect China less than competitors—China can substitute domestic mining or reduce export processing to prioritize domestic users. Similar integration occurs in solar panels (polysilicon through modules) and batteries (lithium processing through cell manufacturing).
 
 **Dual circulation** strategy, introduced in Chapter 2's Chinese Perspective Box, applies to resources. **Internal circulation** involves building domestic capacity: expanding coal mining, developing domestic oil and gas (despite higher costs), investing in renewable energy, and pursuing food self-sufficiency. **External circulation** focuses on diversifying import sources: oil from Middle East, Russia, Africa, and Latin America rather than depending on any one supplier; iron ore from Australia and Brazil; soybeans from Brazil and United States (with capacity to shift entirely to Brazil if U.S. restricts supply).
 
@@ -424,7 +424,7 @@ The underlying challenge is that both the United States and China view resource 
 
 4. Resource nationalism -- where countries restrict commodity exports to capture more value domestically -- often conflicts with the free trade principles that the international economic order is built upon. When is resource nationalism a legitimate development strategy, and when does it become economic coercion? How should the WTO and other institutions handle this distinction?
 
-5. China controls approximately 85% of rare earth processing, 75% of lithium-ion battery manufacturing, and 80% of solar panel production. If you were advising a European government on reducing these dependencies, what sequencing of policies would you recommend, given constraints on budget, time, and environmental standards?
+5. China controls roughly 90% of rare earth processing, 80% of lithium-ion battery cell manufacturing, and 86% of solar module assembly. If you were advising a European government on reducing these dependencies, what sequencing of policies would you recommend, given constraints on budget, time, and environmental standards?
 
 ---
 
