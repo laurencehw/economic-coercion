@@ -66,6 +66,44 @@ All of the above are fixed, and the hard-coded annotations that had already drif
 
 ---
 
+## Addendum, 2026-08-18 (post-merge follow-up)
+
+The roadmap below was written before PR #41 merged. Most of it has since been
+executed; this records what closed and what did not.
+
+**Closed.**
+
+- *Orphan figures.* Zero remain. The scenario matrix was repaired — its bubbles had
+  contradicted its own quadrant labels and backgrounds — and embedded as Figure 10.6;
+  the dual-use matrix had its labels rescued and is embedded as Figure 4.3. The other
+  nine were deleted: they duplicated embedded figures or asserted unsourced quantities
+  as findings. 52 figures embedded, all discussed in prose.
+- *Pipeline reproducibility.* Not a repo defect after all. Every one of the pipeline's
+  20 dependencies is on CRAN, so a CRAN-connected machine builds all 61 scripts; the
+  failures were the review sandbox's network policy. The one genuine problem, the
+  GitHub-only `ggradar`, was already removed. A QA check now guards the allowlist so a
+  future GitHub-only dependency fails rather than silently breaking reproducibility.
+- *`exercises/`.* Deleted. The ten files duplicated Appendix A, had drifted from it,
+  and were not in the navigation, so only a maintainer would ever have found them —
+  and only to wonder which copy was authoritative.
+- *Automated QA in CI.* `scripts/qa_manuscript.py` runs on every pull request touching
+  the manuscript, figures, R scripts, source data, or the canonical table, and again
+  before the GitBook deploy. It has now caught drift three times, twice introduced by
+  this review's own edits.
+- *Figure honesty.* Six embedded figures rest on the author's ordinal scoring. All six
+  now declare that in their captions, and where a figure mixes sourced and scored axes
+  the caption says which is which.
+
+**Not closed, and cannot be from inside the manuscript.**
+
+- *External expert reads.* `expert_review_brief.md` prepares them: a scoped reading
+  list per domain, the specific claims most at risk with locations, what has already
+  been verified, and the two contested claims needing an outside view. Commissioning
+  the three reads is the remaining step, and it is the one that would move evidence
+  and rigor further than any internal pass now can.
+
+---
+
 ## What stands between here and 9.5
 
 Ordered by value.
