@@ -16,7 +16,22 @@ for f in R/figures/*.R; do Rscript "$f"; done
 Rscript R/figures/fig_01_02_us_china_trade.R
 ```
 
-**Prerequisites:** R (with ggplot2, dplyr, tidyr, scales, sf, patchwork), Pandoc, LaTeX
+**Prerequisites:** R, Pandoc, LaTeX.
+
+R packages, by what they unlock (49 of the 62 figure scripts build with the first
+group alone):
+
+- **Core** (needed by nearly every script): `tidyverse`, `ggplot2`, `dplyr`, `tidyr`,
+  `scales`, `forcats`, `patchwork`, `here`
+- **Extras**: `ggforce` (framework/toolbox/cascade/decision-tree diagrams),
+  `ggraph` + `igraph` (interdependence network), `ggalluvial` (Sankey/flow charts),
+  `ggrepel`, `viridis`, `cowplot`, `gridExtra`
+- **Maps and specialty** (13 scripts): `sf`, `tmap`, `rnaturalearth`,
+  `rnaturalearthdata`, `treemapify`, `ggradar`. `ggradar` is GitHub-only
+  (`remotes::install_github("ricardo-bion/ggradar")`)
+
+On Debian/Ubuntu most of these install far faster from apt binaries
+(`r-cran-tidyverse`, `r-cran-sf`, `r-cran-ggforce`, …) than from source.
 
 ## Repository Structure
 
