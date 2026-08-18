@@ -1,4 +1,4 @@
-# Figure 6.4: China's Rare Earth and Critical Mineral Export Controls
+# Figure 6.6: China's Rare Earth and Critical Mineral Export Controls
 # Chapter 6: Trade Controls
 # Timeline of Chinese retaliatory export restrictions
 
@@ -148,4 +148,4 @@ combined <- p1 / p2 + plot_layout(heights = c(1, 1))
 # Save the figure
 save_econ_figure(here::here("figures", "fig_06_06_rare_earth_retaliation.png"), plot = combined, width = 13, height = 11)
 
-cat("Figure 6.4 created: China's Rare Earth Retaliation\n")
+cat("Figure 6.6 created: China's Rare Earth Retaliation\n")

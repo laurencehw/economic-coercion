@@ -1,4 +1,4 @@
-# Figure 3.8: Russian Energy Pipeline Infrastructure
+# Figure 3.3: Russian Energy Pipeline Infrastructure
 # Purpose: Visualize Russian oil and gas pipelines to Europe and Asia
 # Author: Laurence Wilse-Samson
 # Framework: tmap
@@ -216,4 +216,4 @@ tmap_save(
   height = 8
 )
 
-cat("\nFigure 3.8: Russian Pipelines map created successfully!\n")
+cat("\nFigure 3.3: Russian Pipelines map created successfully!\n")

@@ -1,4 +1,4 @@
-# Figure 7.2: Major OFAC Sanctions Penalties by Institution
+# Figure 7.3: Major OFAC Sanctions Penalties by Institution
 # Purpose: Visualize largest financial penalties for sanctions violations
 # Author: Laurence Wilse-Samson
 
@@ -157,7 +157,7 @@ p3 <- ggplot(violation_summary, aes(x = Total_Penalties, y = Sanctioned_Country)
 combined <- p1 / (p2 + p3) +
   plot_layout(heights = c(1.5, 1)) +
   plot_annotation(
-    title = "Figure 7.2: Major OFAC Sanctions Penalties by Institution",
+    title = "Major OFAC Sanctions Penalties by Institution",
     subtitle = paste0("Financial institutions paid over $", round(total_penalties, 1),
                       " billion in sanctions penalties (2009-2019)"),
     caption = paste0(
@@ -176,7 +176,7 @@ combined <- p1 / (p2 + p3) +
 save_econ_figure(here("figures", "fig_07_03_sanctions_programs.png"), combined, width = 12, height = 11)
 
 # Print summary
-cat("\nFigure 7.2 Summary:\n")
+cat("\nFigure 7.3 Summary:\n")
 cat(sprintf("  Total penalties: $%.1f billion\n", total_penalties))
 cat(sprintf("  Largest penalty: BNP Paribas ($8.9B, 2014)\n"))
 cat(sprintf("  Most common violation: Iran sanctions\n"))

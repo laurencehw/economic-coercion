@@ -1,4 +1,4 @@
-# Figure 8.4: CFIUS Reviews Over Time
+# Figure 8.3: CFIUS Reviews Over Time
 # Chapter 8: Investment Screening and Industrial Policy
 # Shows growth in investment screening activity
 
@@ -91,4 +91,4 @@ combined <- p1 / (p2 + p3) + plot_layout(heights = c(1.2, 1))
 # Save the figure
 save_econ_figure(here::here("figures", "fig_08_03_cfius_reviews.png"), plot = combined, width = 13, height = 11)
 
-cat("Figure 8.4 created: CFIUS Reviews\n")
+cat("Figure 8.3 created: CFIUS Reviews\n")

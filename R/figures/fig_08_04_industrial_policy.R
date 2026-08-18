@@ -1,4 +1,4 @@
-# Figure 8.3: Industrial Policy Spending Comparison - U.S. vs China
+# Figure 8.4: Industrial Policy Spending Comparison - U.S. vs China
 # Purpose: Compare major government industrial policy programs
 # Author: Laurence Wilse-Samson
 
@@ -156,7 +156,7 @@ p2 <- ggplot(annual_data, aes(x = Year, y = Spending, color = Country, fill = Co
 combined <- p1 + p2 +
   plot_layout(widths = c(1, 1.5)) +
   plot_annotation(
-    title = "Figure 8.3: Industrial Policy Spending Comparison",
+    title = "Industrial Policy Spending Comparison",
     subtitle = "U.S. vs. China major government programs in strategic sectors",
     caption = "Sources: CHIPS and Science Act (2022), Inflation Reduction Act (2022), Infrastructure Investment and Jobs Act (2021),\nChina National IC Industry Investment Fund, Made in China 2025, Chinese government announcements.",
     theme = theme(
@@ -172,4 +172,4 @@ combined <- p1 + p2 +
 
 save_econ_figure(here("figures", "fig_08_04_industrial_policy.png"), combined, width = 14, height = 7)
 
-cat("\nFigure 8.3 created successfully!\n")
+cat("\nFigure 8.4 created successfully!\n")

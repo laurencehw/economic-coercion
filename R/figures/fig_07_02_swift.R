@@ -1,4 +1,4 @@
-# Figure 7.1: SWIFT Transaction Volumes by Currency (2010-2024)
+# Figure 7.2: SWIFT Transaction Volumes by Currency (2010-2024)
 # Author: Laurence Wilse-Samson
 # Description: U.S. dollar dominance in global payment systems with rising yuan
 
@@ -303,7 +303,7 @@ save_econ_figure(
 
 cat("\n")
 cat("========================================\n")
-cat("Figure 7.1 created successfully!\n")
+cat("Figure 7.2 created successfully!\n")
 cat("========================================\n")
 cat("Location: figures/fig_07_02_swift_currencies.png\n")
 cat("          figures/fig_07_02_swift_currencies.pdf\n")

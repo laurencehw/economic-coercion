@@ -189,7 +189,7 @@ p3 <- ggplot(desc_data, aes(x = x, y = y)) +
 combined <- p1 / (p2 + p3) +
   plot_layout(heights = c(1.5, 1)) +
   plot_annotation(
-    title = "Figure 10.6: Future Scenarios 2x2 Matrix",
+    title = "Future Scenarios 2x2 Matrix",
     subtitle = "Four potential pathways for US-China economic relations based on integration and competition dynamics",
     caption = paste0(
       "Source: Author's scenario analysis based on historical patterns, policy trends, and expert assessments.\n",

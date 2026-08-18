@@ -1,4 +1,4 @@
-# Figure 6.7: Semiconductor Manufacturing Equipment Market Share
+# Figure 6.5: Semiconductor Manufacturing Equipment Market Share
 # Purpose: Show concentration enabling trilateral export control coordination
 # Author: Laurence Wilse-Samson
 
@@ -167,7 +167,7 @@ p3 <- ggplot(chokepoint_data, aes(y = Equipment_Type, x = 1)) +
 combined <- (p1 | p2) / p3 +
   plot_layout(heights = c(1.2, 0.8)) +
   plot_annotation(
-    title = "Figure 6.7: Semiconductor Manufacturing Equipment Market Share",
+    title = "Semiconductor Manufacturing Equipment Market Share",
     subtitle = "Semiconductor equipment market concentration enables trilateral export control coordination",
     caption = paste0(
       "Source: SEMI, VLSI Research, company filings (2023).\n",
@@ -185,7 +185,7 @@ combined <- (p1 | p2) / p3 +
 save_econ_figure(here("figures", "fig_06_05_equipment_market_share.png"), combined, width = 12, height = 10)
 
 # Print summary
-cat("\nFigure 6.7 Summary:\n")
+cat("\nFigure 6.5 Summary:\n")
 cat(sprintf("  US companies market share: %d%%\n", us_share))
 cat(sprintf("  Trilateral alliance (US+Japan+Netherlands): %d%%\n", alliance_share))
 cat("  ASML EUV monopoly: 100% of advanced lithography\n")

@@ -1,4 +1,4 @@
-# Figure 10.5: Energy Transition Creates New Dependencies
+# Figure 10.2: Energy Transition Creates New Dependencies
 # Chapter 10: Future of Economic Coercion
 # Shows how clean energy creates new strategic vulnerabilities
 
@@ -124,4 +124,4 @@ combined <- (p1 + p2) / p3 + plot_layout(heights = c(1, 1))
 # Save the figure
 save_econ_figure(here::here("figures", "fig_10_02_new_dependencies.png"), plot = combined, width = 14, height = 12)
 
-cat("Figure 10.5 created: New Dependencies\n")
+cat("Figure 10.2 created: New Dependencies\n")

@@ -112,7 +112,7 @@ p2 <- p2 +
 
 combined <- p1 / p2 +
   plot_annotation(
-    title = "Figure 9.1: The 1980 Soviet Grain Embargo",
+    title = "The 1980 Soviet Grain Embargo",
     subtitle = "A case study in the limits of food as a coercive weapon",
     caption = "Sources: USDA Foreign Agricultural Service, FAO Trade Statistics.\nNote: The embargo was imposed in January 1980 following the Soviet invasion of Afghanistan.",
     theme = theme(

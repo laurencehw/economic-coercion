@@ -1,4 +1,4 @@
-# Figure 10.4: Decoupling Scenarios
+# Figure 10.5: Decoupling Scenarios
 # Chapter 10: Future of Economic Coercion
 # Multi-path scenario diagram showing possible futures
 
@@ -128,4 +128,4 @@ combined <- p1 / p2 / p3 + plot_layout(heights = c(0.8, 1, 1))
 # Save the figure
 save_econ_figure(here::here("figures", "fig_10_05_decoupling_scenarios.png"), plot = combined, width = 12, height = 13)
 
-cat("Figure 10.4 created: Decoupling Scenarios\n")
+cat("Figure 10.5 created: Decoupling Scenarios\n")

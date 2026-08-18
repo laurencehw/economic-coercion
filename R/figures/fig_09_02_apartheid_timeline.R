@@ -186,7 +186,7 @@ p3 <- ggplot(economic_data, aes(x = Year, y = Rand_USD)) +
 combined <- p1 / (p2 + p3) +
   plot_layout(heights = c(1.5, 1)) +
   plot_annotation(
-    title = "Figure 9.2: Anti-Apartheid Sanctions Timeline (1960-1994)",
+    title = "Anti-Apartheid Sanctions Timeline (1960-1994)",
     subtitle = "Multi-decade sanctions campaign combining UN embargoes, financial pressure, and US legislation",
     caption = paste0(
       "Sources: UN Security Council Resolutions, Hufbauer et al. Sanctions Database, World Bank, IMF.\n",

@@ -1,4 +1,4 @@
-# Figure 7.3: Foreign Holdings of U.S. Treasury Securities
+# Figure 7.1: Foreign Holdings of U.S. Treasury Securities
 # Author: Laurence Wilse-Samson
 # Description: China's peak and decline, Japan's stability, Europe's rise
 
@@ -49,8 +49,8 @@ holder_colors <- c(
   "Japan" = econ_colors[["Japan"]],
   "UK" = econ_colors[["UK"]],
   "Ireland" = "#ff7f0e",      # Orange
-  "Luxembourg" = "#9467bd",    # Purple
-  "Top5_Others" = "#7f7f7f"   # Gray
+  "Luxembourg" = "#8c564b",    # Brown (was #9467bd, identical to Japan)
+  "Top5_Others" = "#c7c7c7"   # Light gray (was #7f7f7f, identical to the UK)
 )
 
 panel_a <- ggplot(treasury_stack, aes(x = Year, y = Holdings, fill = Country)) +
@@ -106,9 +106,10 @@ panel_a <- ggplot(treasury_stack, aes(x = Year, y = Holdings, fill = Country)) +
 # ============================================================================
 
 china_japan <- treasury_data %>%
-  select(Year, China, Japan) %>%
+  select(Year, China, Japan, UK) %>%
+  rename(`United Kingdom` = UK) %>%
   pivot_longer(
-    cols = c(China, Japan),
+    cols = c(China, Japan, `United Kingdom`),
     names_to = "Country",
     values_to = "Holdings"
   )
@@ -119,11 +120,13 @@ panel_b <- ggplot(china_japan, aes(x = Year, y = Holdings, color = Country, fill
   geom_point(size = 2.5, alpha = 0.7) +
   scale_color_manual(
     values = c("China" = econ_colors[["China"]],
-               "Japan" = econ_colors[["Japan"]])
+               "Japan" = econ_colors[["Japan"]],
+               "United Kingdom" = econ_colors[["UK"]])
   ) +
   scale_fill_manual(
     values = c("China" = econ_colors[["China"]],
-               "Japan" = econ_colors[["Japan"]])
+               "Japan" = econ_colors[["Japan"]],
+               "United Kingdom" = econ_colors[["UK"]])
   ) +
   scale_y_continuous(
     labels = label_dollar(suffix = "B"),
@@ -131,7 +134,8 @@ panel_b <- ggplot(china_japan, aes(x = Year, y = Holdings, color = Country, fill
     limits = c(0, 1400)
   ) +
   scale_x_continuous(
-    breaks = seq(2000, 2025, 5)
+    breaks = seq(2000, 2025, 5),
+    limits = c(2000, 2029)
   ) +
   labs(
     title = "China Slips to Third",
@@ -151,7 +155,7 @@ panel_b <- ggplot(china_japan, aes(x = Year, y = Holdings, color = Country, fill
     "text",
     x = 2025,
     y = treasury_data$Japan[treasury_data$Year == 2025],
-    label = "$1,115B",
+    label = paste0("$", format(round(treasury_data$Japan[treasury_data$Year == 2025]), big.mark = ","), "B"),
     size = 3,
     color = econ_colors[["Japan"]],
     fontface = "bold",
@@ -161,7 +165,7 @@ panel_b <- ggplot(china_japan, aes(x = Year, y = Holdings, color = Country, fill
     "text",
     x = 2025,
     y = treasury_data$China[treasury_data$Year == 2025],
-    label = "$776B",
+    label = paste0("$", format(round(treasury_data$China[treasury_data$Year == 2025]), big.mark = ","), "B"),
     size = 3,
     color = econ_colors[["China"]],
     fontface = "bold",
@@ -206,7 +210,7 @@ panel_c <- ggplot(china_timeline, aes(x = Year, y = China)) +
     breaks = seq(2000, 2025, 5)
   ) +
   labs(
-    title = "China's Treasury Holdings: Rise and Decline",
+    title = "China's Holdings: Rise and Decline",
     subtitle = "Down 46% from the 2014 peak amid geopolitical tensions",
     x = "Year",
     y = "China Holdings (Billions USD)"
@@ -345,7 +349,7 @@ save_econ_figure(
 
 cat("\n")
 cat("========================================\n")
-cat("Figure 7.3 created successfully!\n")
+cat("Figure 7.1 created successfully!\n")
 cat("========================================\n")
 cat("Location: figures/fig_07_01_treasury_holdings.png\n")
 cat("          figures/fig_07_01_treasury_holdings.pdf\n")

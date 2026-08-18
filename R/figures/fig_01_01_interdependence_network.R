@@ -1,4 +1,4 @@
-# Figure 1.5: Weaponized Interdependence Network
+# Figure 1.1: Weaponized Interdependence Network
 # Chapter 1: Foundations of Economic Statecraft
 # Network diagram showing US and China hub positions across domains
 
@@ -136,4 +136,4 @@ p <- ggraph(g, layout = "fr") +
 # Save the figure
 save_econ_figure(here::here("figures", "fig_01_01_interdependence_network.png"), plot = p, width = 12, height = 10)
 
-cat("Figure 1.5 created: Weaponized Interdependence Network\n")
+cat("Figure 1.1 created: Weaponized Interdependence Network\n")

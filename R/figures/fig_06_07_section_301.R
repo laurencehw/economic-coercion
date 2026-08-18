@@ -1,4 +1,4 @@
-# Figure 6.6: Section 301 Tariffs by Sector (Treemap)
+# Figure 6.7: Section 301 Tariffs by Sector (Treemap)
 # Chapter 6: Trade Controls
 # Visualizes affected industries under US-China tariffs
 
@@ -102,4 +102,4 @@ combined <- p1 / p2 + plot_layout(heights = c(2, 1))
 # Save the figure
 save_econ_figure(here::here("figures", "fig_06_07_section_301.png"), plot = combined, width = 12, height = 12)
 
-cat("Figure 6.6 created: Section 301 Tariffs Treemap\n")
+cat("Figure 6.7 created: Section 301 Tariffs Treemap\n")

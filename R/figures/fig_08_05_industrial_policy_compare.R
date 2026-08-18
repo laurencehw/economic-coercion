@@ -1,4 +1,4 @@
-# Figure 8.6: Industrial Policy Spending Comparison
+# Figure 8.5: Industrial Policy Spending Comparison
 # Chapter 8: Investment Screening and Industrial Policy
 # Compares US, China, and EU approaches to industrial policy
 
@@ -28,12 +28,12 @@ industrial_policy <- data.frame(
   ),
   timeframe = c(
     "2022-2027", "2022-2032", "2021-2026",
-    "2014-2019", "2019-2024", "2015-2025",
+    "2014-2019", "2019-2024", "2024-2029",
     "2023-2030", "2021-2027", "2023-2030"
   ),
   focus = c(
     "Semiconductors", "Clean Energy", "Infrastructure",
-    "Semiconductors", "Semiconductors", "High-Tech Manufacturing",
+    "Semiconductors", "Semiconductors", "Semiconductors",
     "Semiconductors", "Recovery/Digital", "Green Industry"
   ),
   type = c(
@@ -117,4 +117,4 @@ combined <- (p1 + p3) / p2 + plot_layout(heights = c(1, 1.5))
 # Save the figure
 save_econ_figure(here::here("figures", "fig_08_05_industrial_policy_compare.png"), plot = combined, width = 13, height = 11)
 
-cat("Figure 8.6 created: Industrial Policy Comparison\n")
+cat("Figure 8.5 created: Industrial Policy Comparison\n")

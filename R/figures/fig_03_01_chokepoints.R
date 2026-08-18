@@ -1,4 +1,4 @@
-# Maritime Chokepoints for Energy Transit (Figure 3.4)
+# Maritime Chokepoints for Energy Transit (Figure 3.1)
 # Purpose: Visualize critical straits and canals for global energy trade
 # Author: Laurence Wilse-Samson
 # Framework: tmap
@@ -133,5 +133,5 @@ tmap_save(
   height = 7
 )
 
-cat("\nFigure 3.4: Maritime Chokepoints map created successfully!\n")
+cat("\nFigure 3.1: Maritime Chokepoints map created successfully!\n")
 print(chokepoints %>% select(name, oil_volume, importance))

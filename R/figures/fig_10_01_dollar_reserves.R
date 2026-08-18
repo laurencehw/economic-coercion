@@ -98,7 +98,7 @@ p <- ggplot() +
   scale_y_continuous(limits = c(25, 78), labels = function(x) paste0(x, "%")) +
 
   labs(
-    title = "Figure 10.1: U.S. Dollar Share of Global Reserves",
+    title = "U.S. Dollar Share of Global Reserves",
     subtitle = "Historical trends and projected scenarios (1995-2050)",
     x = "Year",
     y = "Share of Global Foreign Exchange Reserves (%)",

@@ -1,4 +1,4 @@
-# Figure 3.5: Global Subsea Cable Infrastructure
+# Figure 5.1: Global Subsea Cable Infrastructure
 # Purpose: Visualize critical undersea telecommunications cables
 # Author: Laurence Wilse-Samson
 # Framework: tmap
@@ -188,4 +188,4 @@ tmap_save(
   height = 8
 )
 
-cat("\nFigure 3.5: Subsea Cables map created successfully!\n")
+cat("\nFigure 5.1: Subsea Cables map created successfully!\n")

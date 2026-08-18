@@ -1,4 +1,4 @@
-# Figure 1.1: Four Dimensions Analytical Framework for Economic Coercion
+# Figure 1.4: Four Dimensions Analytical Framework for Economic Coercion
 # Purpose: Conceptual diagram showing the key analytical dimensions
 # Author: Laurence Wilse-Samson
 
@@ -151,4 +151,4 @@ for (i in seq_along(items_d4)) {
 
 save_econ_figure(here("figures", "fig_01_04_framework.png"), p, width = 14, height = 10)
 
-cat("\nFigure 1.1 Framework created successfully!\n")
+cat("\nFigure 1.4 Framework created successfully!\n")

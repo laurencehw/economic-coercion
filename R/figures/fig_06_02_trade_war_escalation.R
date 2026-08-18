@@ -1,4 +1,4 @@
-# Figure 6.5: US-China Trade War Escalation Ladder
+# Figure 6.2: US-China Trade War Escalation Ladder
 # Chapter 6: Trade Controls
 # Stepped visualization of tit-for-tat measures 2018-2024
 
@@ -101,4 +101,4 @@ p <- ggplot(trade_war, aes(x = date, y = y_offset)) +
 # Save the figure
 save_econ_figure(here::here("figures", "fig_06_02_trade_war_escalation.png"), plot = p, width = 14, height = 9)
 
-cat("Figure 6.5 created: Trade War Escalation Ladder\n")
+cat("Figure 6.2 created: Trade War Escalation Ladder\n")

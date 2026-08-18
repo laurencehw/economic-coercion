@@ -1,4 +1,4 @@
-# Figure 3.7: Strategic Ports and Maritime Trade Routes
+# Figure 3.2: Strategic Ports and Maritime Trade Routes
 # Purpose: Visualize key global ports and Chinese port investments
 # Author: Laurence Wilse-Samson
 # Framework: tmap
@@ -181,4 +181,4 @@ tmap_save(
   height = 8
 )
 
-cat("\nFigure 3.7: Strategic Ports map created successfully!\n")
+cat("\nFigure 3.2: Strategic Ports map created successfully!\n")

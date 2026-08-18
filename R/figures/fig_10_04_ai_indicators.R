@@ -1,11 +1,10 @@
-# Figure 10.3: AI Development Indicators - USA vs China vs EU
+# Figure 10.4: AI Development Indicators - USA vs China vs EU
 # Purpose: Multi-dimensional comparison of AI capabilities
 # Author: Laurence Wilse-Samson
 
 library(here)
 library(tidyverse)
 library(patchwork)
-library(ggradar)  # For radar charts - install if needed
 
 # Load the custom theme
 source(here("R", "setup_theme.R"))
@@ -174,7 +173,7 @@ p3 <- ggplot(talent_data, aes(x = Category, y = Value, fill = Country)) +
 combined <- (p1 | p2) / p3 +
   plot_layout(heights = c(1, 1)) +
   plot_annotation(
-    title = "Figure 10.3: AI Development Indicators",
+    title = "AI Development Indicators",
     subtitle = "Multi-dimensional comparison: USA vs China vs EU (2024)",
     caption = paste0(
       "Sources: Stanford AI Index 2024, OECD AI Policy Observatory, Top500 Supercomputer List,\n",
@@ -194,4 +193,4 @@ combined <- (p1 | p2) / p3 +
 
 save_econ_figure(here("figures", "fig_10_04_ai_indicators.png"), combined, width = 14, height = 10)
 
-cat("\nFigure 10.3 AI Indicators created successfully!\n")
+cat("\nFigure 10.4 AI Indicators created successfully!\n")

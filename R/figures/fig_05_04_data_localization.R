@@ -1,4 +1,4 @@
-# Figure 5.1: Data Localization Requirements by Country
+# Figure 5.4: Data Localization Requirements by Country
 # Chapter 5: Information, Cyber, and Intelligence
 # Shows the global landscape of data sovereignty laws
 
@@ -96,4 +96,4 @@ p <- ggplot(world_data) +
 # Save the figure
 save_econ_figure(here("figures", "fig_05_04_data_localization.png"), plot = p, width = 12, height = 7)
 
-cat("Figure 5.1 created: Data Localization Requirements Map\n")
+cat("Figure 5.4 created: Data Localization Requirements Map\n")

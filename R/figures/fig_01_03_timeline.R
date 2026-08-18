@@ -1,4 +1,4 @@
-# Figure 1.4: Timeline of Major Economic Coercion Events
+# Figure 1.3: Timeline of Major Economic Coercion Events
 # Purpose: Simplified, readable timeline of key events
 # Author: Laurence Wilse-Samson
 
@@ -117,4 +117,4 @@ p <- ggplot() +
 
 save_econ_figure(here("figures", "fig_01_03_timeline.png"), p, width = 14, height = 6)
 
-cat("\nFigure 1.4 Timeline (simplified) created successfully!\n")
+cat("\nFigure 1.3 Timeline (simplified) created successfully!\n")

@@ -105,7 +105,7 @@ p2 <- ggplot(reserves_by_location, aes(x = Amount_Billions_USD, y = Location_Lab
 combined <- p1 + p2 +
   plot_layout(widths = c(1, 1.2)) +
   plot_annotation(
-    title = "Figure 7.4: Russian Assets Frozen by Western Sanctions (2022)",
+    title = "Russian Assets Frozen by Western Sanctions (2022)",
     subtitle = "Unprecedented financial coercion following Ukraine invasion",
     caption = paste0(
       "Sources: European Commission, U.S. Treasury, Bank of Russia, IMF, CSIS estimates.\n",

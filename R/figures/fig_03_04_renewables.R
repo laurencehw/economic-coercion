@@ -1,4 +1,4 @@
-# Figure 3.6: Renewable Energy Manufacturing - China's Dominance
+# Figure 3.4: Renewable Energy Manufacturing - China's Dominance
 # Author: Laurence Wilse-Samson
 # Description: China's overwhelming share of clean energy technology production
 
@@ -298,7 +298,7 @@ save_econ_figure(
 
 cat("\n")
 cat("========================================\n")
-cat("Figure 3.6 created successfully!\n")
+cat("Figure 3.4 created successfully!\n")
 cat("========================================\n")
 cat("Location: figures/fig_03_04_renewable_manufacturing.png\n")
 cat("          figures/fig_03_04_renewable_manufacturing.pdf\n")

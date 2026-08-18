@@ -1,4 +1,4 @@
-# Figure 8.5: Australia-China Trade Restrictions Case Study
+# Figure 8.6: Australia-China Trade Restrictions Case Study
 # Chapter 8: Investment Screening and Industrial Policy
 # Shows impact of Chinese economic coercion on Australian exports
 
@@ -129,4 +129,4 @@ combined <- p1 / p2 / p3 + plot_layout(heights = c(1.5, 1, 0.8))
 # Save the figure
 save_econ_figure(here::here("figures", "fig_08_06_australia_china.png"), plot = combined, width = 12, height = 14)
 
-cat("Figure 8.5 created: Australia-China Trade Restrictions\n")
+cat("Figure 8.6 created: Australia-China Trade Restrictions\n")

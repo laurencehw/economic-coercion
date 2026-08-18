@@ -1,4 +1,4 @@
-# Figure 1.3: Economic Statecraft Toolbox
+# Figure 1.5: Economic Statecraft Toolbox
 # Chapter 1: Foundations of Economic Statecraft
 # Hierarchical diagram showing domains and instruments of economic coercion
 
@@ -140,4 +140,4 @@ p <- ggplot(toolbox) +
 # Save the figure
 save_econ_figure(here::here("figures", "fig_01_05_toolbox_diagram.png"), plot = p, width = 12, height = 10)
 
-cat("Figure 1.3 created: Economic Statecraft Toolbox\n")
+cat("Figure 1.5 created: Economic Statecraft Toolbox\n")

@@ -18,7 +18,7 @@ Rscript R/figures/fig_01_02_us_china_trade.R
 
 **Prerequisites:** R, Pandoc, LaTeX.
 
-R packages, by what they unlock (49 of the 62 figure scripts build with the first
+R packages, by what they unlock (49 of the 61 figure scripts build with the first
 group alone):
 
 - **Core** (needed by nearly every script): `tidyverse`, `ggplot2`, `dplyr`, `tidyr`,
@@ -26,9 +26,9 @@ group alone):
 - **Extras**: `ggforce` (framework/toolbox/cascade/decision-tree diagrams),
   `ggraph` + `igraph` (interdependence network), `ggalluvial` (Sankey/flow charts),
   `ggrepel`, `viridis`, `cowplot`, `gridExtra`
-- **Maps and specialty** (13 scripts): `sf`, `tmap`, `rnaturalearth`,
-  `rnaturalearthdata`, `treemapify`, `ggradar`. `ggradar` is GitHub-only
-  (`remotes::install_github("ricardo-bion/ggradar")`)
+- **Maps and specialty** (12 scripts): `sf`, `tmap`, `rnaturalearth`,
+  `rnaturalearthdata`, `treemapify`. All are on CRAN — the pipeline no longer has
+  any GitHub-only dependency
 
 On Debian/Ubuntu most of these install far faster from apt binaries
 (`r-cran-tidyverse`, `r-cran-sf`, `r-cran-ggforce`, …) than from source.

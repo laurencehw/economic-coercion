@@ -1,4 +1,4 @@
-# Figure 5.4: Cloud Infrastructure Market Share
+# Figure 5.5: Cloud Infrastructure Market Share
 # Chapter 5: Information, Cyber, and Intelligence
 # Shows US vs Chinese dominance in global cloud infrastructure
 
@@ -108,4 +108,4 @@ combined <- p1 / p2 / p3 + plot_layout(heights = c(1, 1.2, 1))
 # Save the figure
 save_econ_figure(here::here("figures", "fig_05_05_cloud_market.png"), plot = combined, width = 11, height = 14)
 
-cat("Figure 5.4 created: Cloud Infrastructure Market Share\n")
+cat("Figure 5.5 created: Cloud Infrastructure Market Share\n")

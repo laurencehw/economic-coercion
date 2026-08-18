@@ -1,4 +1,4 @@
-# Figure 10.2: Critical Mineral Processing Concentration
+# Figure 10.3: Critical Mineral Processing Concentration
 # Purpose: Show China's dominance in critical mineral processing
 # Author: Laurence Wilse-Samson
 
@@ -36,7 +36,7 @@ minerals_data <- tibble(
     # Cobalt mining
     3, 70, 3, 0, 24,
     # Rare Earths mining
-    60, 0, 8, 0, 32,
+    70, 0, 8, 0, 22,
     # Graphite mining
     65, 0, 0, 0, 35,
     # Nickel mining
@@ -118,6 +118,15 @@ china_comparison <- minerals_data %>%
     Mineral = factor(Mineral, levels = c("Rare Earths", "Graphite", "Cobalt", "Lithium", "Nickel"))
   )
 
+# Widest mining-to-processing gap, computed so the callout cannot drift from the data
+gap_row   <- china_comparison %>%
+  tidyr::pivot_wider(names_from = Stage, values_from = Share) %>%
+  dplyr::mutate(gap = Processing - Mining) %>%
+  dplyr::slice_max(gap, n = 1)
+gap_x     <- match(as.character(gap_row$Mineral[1]), levels(china_comparison$Mineral))
+gap_mine  <- gap_row$Mining[1]
+gap_proc  <- gap_row$Processing[1]
+
 p2 <- ggplot(china_comparison, aes(x = Mineral, y = Share, fill = Stage)) +
   geom_col(position = position_dodge(width = 0.7), width = 0.6,
            alpha = 0.85, color = "black", linewidth = 0.3) +
@@ -128,10 +137,11 @@ p2 <- ggplot(china_comparison, aes(x = Mineral, y = Share, fill = Stage)) +
             vjust = -0.3, size = 3, fontface = "bold") +
 
   # Value-add annotation
-  annotate("segment", x = 2, xend = 2, y = 73, yend = 3,
+  annotate("segment", x = gap_x, xend = gap_x, y = gap_proc, yend = gap_mine,
            arrow = arrow(length = unit(0.2, "cm"), ends = "both"),
            color = "#d62728", linewidth = 0.8) +
-  annotate("text", x = 2.3, y = 40, label = "70 pp\ngap",
+  annotate("text", x = gap_x + 0.3, y = (gap_proc + gap_mine) / 2,
+           label = paste0(round(gap_proc - gap_mine), " pp\ngap"),
            size = 3, color = "#d62728", fontface = "bold") +
 
   scale_fill_manual(values = c("Mining" = "#1f77b4", "Processing" = "#d62728"),
@@ -141,7 +151,7 @@ p2 <- ggplot(china_comparison, aes(x = Mineral, y = Share, fill = Stage)) +
 
   labs(
     title = "China: Mining vs Processing Share",
-    subtitle = "Processing dominance exceeds mining share - capturing value-added",
+    subtitle = "Processing dominance exceeds mining share",
     x = NULL,
     y = "China's Global Share (%)"
   ) +
@@ -153,15 +163,15 @@ p2 <- ggplot(china_comparison, aes(x = Mineral, y = Share, fill = Stage)) +
 
 # --- Panel C: Strategic Vulnerability Scorecard ---
 vulnerability_data <- tibble(
-  Mineral = c("Rare Earths", "Graphite", "Cobalt", "Lithium", "Nickel"),
-  China_Processing = c(87, 80, 73, 65, 35),
-  EV_Importance = c("High", "Critical", "Critical", "Critical", "High"),
-  Supply_Risk = c("Extreme", "Very High", "High", "Moderate", "Low"),
-  Risk_Score = c(5, 4, 4, 3, 2)
+  Mineral = c("Rare Earths", "Cobalt", "Graphite", "Nickel", "Lithium"),
+  China_Processing = c(90, 80, 80, 65, 60),
+  EV_Importance = c("High", "Critical", "Critical", "High", "Critical"),
+  Supply_Risk = c("Extreme", "Very High", "Very High", "High", "High"),
+  Risk_Score = c(5, 4, 4, 3, 3)
 )
 
 vulnerability_data <- vulnerability_data %>%
-  mutate(Mineral = factor(Mineral, levels = c("Rare Earths", "Graphite", "Cobalt", "Lithium", "Nickel")))
+  mutate(Mineral = factor(Mineral, levels = c("Rare Earths", "Cobalt", "Graphite", "Nickel", "Lithium")))
 
 p3 <- ggplot(vulnerability_data, aes(y = Mineral)) +
   # China processing bars
@@ -205,7 +215,7 @@ p3 <- ggplot(vulnerability_data, aes(y = Mineral)) +
 combined <- p1 / (p2 + p3) +
   plot_layout(heights = c(1.2, 1)) +
   plot_annotation(
-    title = "Figure 10.2: Critical Mineral Processing Concentration",
+    title = "Critical Mineral Processing Concentration",
     subtitle = paste0("China controls ~", round(china_processing),
                       "% of critical mineral processing on average, creating strategic vulnerability"),
     caption = paste0(
@@ -224,8 +234,12 @@ combined <- p1 / (p2 + p3) +
 save_econ_figure(here("figures", "fig_10_03_critical_minerals.png"), combined, width = 13, height = 12)
 
 # Print summary
-cat("\nFigure 10.2 Summary:\n")
+cat("\nFigure 10.3 Summary:\n")
 cat(sprintf("  Average China processing share: %.0f%%\n", china_processing))
-cat("  Highest concentration: Rare Earths (87%)\n")
-cat("  Lowest concentration: Nickel (35%)\n")
+cat(sprintf("  Highest concentration: %s (%.0f%%)\n",
+            vulnerability_data$Mineral[which.max(vulnerability_data$China_Processing)],
+            max(vulnerability_data$China_Processing)))
+cat(sprintf("  Lowest concentration: %s (%.0f%%)\n",
+            vulnerability_data$Mineral[which.min(vulnerability_data$China_Processing)],
+            min(vulnerability_data$China_Processing)))
 cat("  Key finding: Processing dominance exceeds mining share\n")

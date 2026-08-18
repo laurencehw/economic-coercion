@@ -1,4 +1,4 @@
-# Figure 4.1: Global R&D Spending by Country (1990-2024)
+# Figure 4.3: Global R&D Spending by Country (1990-2024)
 # Author: Laurence Wilse-Samson
 # Description: China's dramatic rise in R&D investment approaching U.S. levels
 
@@ -271,7 +271,7 @@ save_econ_figure(
 
 cat("\n")
 cat("========================================\n")
-cat("Figure 4.1 created successfully!\n")
+cat("Figure 4.3 created successfully!\n")
 cat("========================================\n")
 cat("Location: figures/fig_04_03_rd_spending.png\n")
 cat("          figures/fig_04_03_rd_spending.pdf\n")
