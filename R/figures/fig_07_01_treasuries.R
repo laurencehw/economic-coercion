@@ -170,6 +170,16 @@ panel_b <- ggplot(china_japan, aes(x = Year, y = Holdings, color = Country, fill
     color = econ_colors[["China"]],
     fontface = "bold",
     hjust = 0
+  ) +
+  annotate(
+    "text",
+    x = 2025,
+    y = treasury_data$UK[treasury_data$Year == 2025],
+    label = paste0("$", format(round(treasury_data$UK[treasury_data$Year == 2025]), big.mark = ","), "B"),
+    size = 3,
+    color = econ_colors[["UK"]],
+    fontface = "bold",
+    hjust = 0
   )
 
 # ============================================================================
