@@ -142,19 +142,7 @@ Figure 8.2 shows how completely that flow reversed. The collapse from the 2016 p
   <figcaption>Figure 8.2: Chinese foreign direct investment in U.S. and Europe from 2008-2024, showing the dramatic collapse after FIRRMA.</figcaption>
 </figure>
 
-FIRRMA's impact on Chinese investment was immediate and severe. Chinese direct investment in the United States:
-
-- **2016 (Pre-FIRRMA peak)**: $45.6 billion
-- **2017**: $29.4 billion (declining as political sentiment shifted)
-- **2018** (FIRRMA enacted): $5.4 billion
-- **2019**: $5.0 billion
-- **2020**: $3.8 billion
-- **2021**: $5.1 billion
-- **2022**: $2.8 billion
-- **2023**: $2.6 billion
-- **2024**: $2.5 billion (estimated)
-
-This represents a **95% decline from peak**, with 2024 investment returning to levels last seen in 2004, before China's emergence as major global investor (Rhodium Group 2024). The collapse extends across sectors but concentrates in technology:
+FIRRMA's impact was immediate and severe. Chinese direct investment in the United States peaked at $45.6 billion in 2016, fell to $29.4 billion in 2017 as political sentiment shifted, and then dropped to $5.4 billion in 2018, the year FIRRMA was enacted. It has not recovered: annual flows have run between $2.5 billion and $5.1 billion every year since, with 2024 estimated at about $2.5 billion. That is a 95 percent decline from the peak, and it returns Chinese investment to a level last seen in 2004, before China emerged as a major global investor (Rhodium Group 2024). The collapse extends across sectors but concentrates in technology.
 
 {% hint style="info" %}
 **A Reversal Engineered, Not Suffered**
@@ -443,127 +431,47 @@ Chinese officials and state media delivered warnings:
 
 ### Economic Restrictions: Sectors Targeted
 
-Beginning May 2020, China imposed de facto restrictions on multiple Australian export sectors. Critically, these operated through administrative measures and unofficial guidance rather than formal tariff or ban announcements:
+From May 2020, China restricted a succession of Australian export sectors. What distinguished the campaign was its form: with two exceptions the measures were never announced as sanctions, and Chinese officials denied throughout that any political motive was involved. Restrictions arrived as anti-dumping determinations, customs delays, license suspensions, and unspecified "quality concerns" — the vocabulary of routine administration applied at a scale and timing that no one mistook for routine.
 
-**Barley (May 2020)**
-- **Action**: China imposed 80.5% anti-dumping and countervailing duties on Australian barley (MOFCOM Announcement No. 14 of 2020)
-- **Impact**: Australian barley exports to China fell from ~AUD 1.5 billion annually to near zero (Department of Foreign Affairs and Trade [DFAT], *Composition of Trade* 2021)
-- **Nominal justification**: Dumping investigation initiated 2018, but decision timing clearly political
-- **Australian response**: WTO dispute initiated (ultimately successful in 2024, with China removing tariffs; WTO Dispute DS598)
+Barley came first. In May 2020 MOFCOM imposed combined anti-dumping and countervailing duties of 80.5 percent (Announcement No. 14 of 2020), on the basis of an investigation opened in 2018 whose conclusion arrived, by coincidence, weeks after Canberra called for an independent inquiry into the origins of COVID-19. Australian barley exports to China fell from roughly AUD 1.5 billion a year to nearly nothing (DFAT, *Composition of Trade* 2021). Australia took the case to the WTO and eventually won: China removed the duties in 2024 (WTO Dispute DS598).
 
-**Beef (May-September 2020)**
-- **Action**: Four major Australian beef processors lost export licenses for "labeling violations," later expanded to more facilities (GACC notices 2020; Australian Meat Industry Council statements 2020)
-- **Impact**: Reduced but didn't eliminate Australian beef exports (other facilities continued, though facing delays)
-- **Justification**: Technical compliance issues (labeling, health certificates)
-
-**Wine (November 2020)**
-- **Action**: Anti-dumping duties of 107–212% on bottled Australian wine (MOFCOM Announcement No. 55 of 2020)
-- **Impact**: Australian wine exports to China collapsed from AUD 1.2 billion (2019) to AUD 12 million (2021)—a 99% decline. For Australian wineries, China had been the largest export market (~39% of exports) (Wine Australia *Export Report* 2022; DFAT 2022).
-- **Devastating sector impacts**: Treasury Wine Estates, Pernod Ricard Australia, and many smaller wineries faced revenue collapse, lay-offs, discounted inventory
+Beef followed between May and September 2020, when four major Australian processors lost their export licenses for labeling violations, with more facilities added later (GACC notices 2020; Australian Meat Industry Council statements 2020). The effect was to reduce rather than eliminate the trade, since other facilities continued to ship, though with delays. Wine, in November 2020, was the most severe: anti-dumping duties of 107 to 212 percent on bottled wine (MOFCOM Announcement No. 55 of 2020) at levels that amounted to exclusion from the market. Exports fell from AUD 1.2 billion in 2019 to AUD 12 million in 2021, a 99 percent collapse in a market that had been the industry's largest, taking about 39 percent of Australian wine exports (Wine Australia, *Export Report* 2022; DFAT 2022). Treasury Wine Estates, Pernod Ricard Australia, and a long tail of smaller producers faced revenue collapse, layoffs, and inventory they had nowhere to sell.
 
 {% hint style="info" %}
 **The 99% Wine Collapse**
 Australia's wine industry faced perhaps the most devastating blow of China's informal coercion campaign. Anti-dumping duties of 107-212% were prohibitively high—effectively a complete market exclusion dressed in trade law language. Wine exports to China plummeted from $1.2 billion to just $12 million in two years. For an industry where China had become the largest export market (39% of total), this represented an existential crisis. Regional towns dependent on wine exports faced severe economic hardship.
 {% endhint %}
 
-**Coal (October 2020-2022)**
-- **Action**: Unofficial import restrictions—Australian coal ships stuck at Chinese ports for months without customs clearance (General Administration of Customs of the PRC [GACC] data; Lowy Institute 2021)
-- **Impact**: Australian coal exports to China fell from AUD 14 billion (2019) to AUD 2.4 billion (2020) to near-zero in 2021 (DFAT *Composition of Trade* 2022; Office of the Chief Economist, Department of Industry)
-- **No formal announcement**: Chinese officials denied restrictions; customs simply delayed or rejected clearances for unspecified "quality concerns"
-- **Strategic dimensions**: Coal restrictions hurt Australian exports but also created Chinese domestic energy shortages (winter 2020-2021 power crises), demonstrating costs of coercion
+Coal was the largest by value and the least formal. From October 2020 Australian coal carriers sat off Chinese ports for months without customs clearance, with no announcement of any kind; officials denied that restrictions existed and customs simply declined to clear cargoes citing unspecified quality concerns (GACC data; Lowy Institute 2021). Exports fell from AUD 14 billion in 2019 to AUD 2.4 billion in 2020 and to near zero in 2021 (DFAT, *Composition of Trade* 2022; Office of the Chief Economist). The coal restrictions also illustrate the costs coercion imposes on the coercer: China's own power shortages during the winter of 2020-21 were worsened by the loss of Australian supply. Lobster, timber, and copper concentrates were caught up in the same pattern — live lobsters spoiling in customs at Chinese airports, timber blocked over pest concerns, copper shipments delayed.
 
-**Lobster, Timber, Copper**
-- Lobster: Customs delays leading to spoilage of live lobsters at airports
-- Timber: Import restrictions citing pest concerns
-- Copper ore and concentrates: Some restrictions and delays
+One sector was conspicuously untouched. Iron ore, by far the largest single component of the trade and the one where China's dependence on Australian supply was greatest, was never restricted. The omission is the clearest available evidence that the campaign was calibrated rather than indiscriminate: Beijing targeted the exports it could replace and left alone the one it could not.
 
 ### Australian Responses and Economic Impact
 
-**Economic Costs**
+The cumulative trade impact ran past AUD 20 billion in affected exports over 2020-22, but the aggregate figure overstates the damage to Australia and understates the damage to particular industries. Exporters diversified faster than expected — wine to the United States, United Kingdom, and Southeast Asia; coal to India, Japan, and South Korea; barley to the Middle East and Southeast Asia — assisted by Export Market Development Grants. Meanwhile strong global demand for the unrestricted commodities, iron ore and LNG above all, kept Australia's overall trade balance in surplus throughout. The pain was real but concentrated: wine, barley, and lobster producers, and the regional economies built around them, absorbed nearly all of it.
 
-Cumulative trade impact estimated $20+ billion in affected exports over 2020-2022. However:
-- **Diversification partially mitigated**: Australian exporters found alternative markets (U.S., UK, Southeast Asia for wine; India, Japan, Korea for coal)
-- **Commodity prices**: Strong demand for iron ore, coal, and LNG (not restricted) meant Australia's overall trade balance remained positive
-- **Sector-specific pain**: Wine, barley, lobster industries suffered concentrated losses; regional economies dependent on these exports faced severe hardship
-
-**Policy Responses**
-
-**No policy reversal**: Australia maintained its positions:
-- Continued calling for COVID-19 investigation
-- Upheld Huawei 5G ban
-- Strengthened foreign interference legislation targeting Chinese influence, and tightened foreign investment review through the Foreign Relations Act (December 2020)
-- Deepened Five Eyes and Quad security cooperation
-- Announced AUKUS nuclear submarine partnership with U.S. and UK (September 2021)
-
-**Market diversification**:
-- Wine industry shifted to U.S., UK, Southeast Asian markets
-- Coal exporters increased sales to India, Japan, South Korea
-- Barley found buyers in Middle East, Southeast Asia
-- Government Export Market Development Grants supported diversification
+What Australia did not do was change any of the policies at issue. It continued to call for a COVID-19 inquiry, maintained the Huawei 5G exclusion, strengthened foreign-interference legislation, tightened investment review through the Foreign Relations Act of December 2020, deepened Five Eyes and Quad cooperation, and in September 2021 announced the AUKUS submarine partnership with the United States and United Kingdom. On any reading, Australia's alignment with Washington was closer at the end of the coercion campaign than at the beginning.
 
 {% hint style="success" %}
 **The Diversification Success Story**
 Australia's response to Chinese coercion offers a model for economic resilience. Rather than capitulating, Australia aggressively diversified export markets. Wine found new customers in the U.S., UK, and Southeast Asia. Coal redirected to India, Japan, and South Korea. Barley reached Middle Eastern and Southeast Asian buyers. While painful in the short term, this forced diversification ultimately reduced Australia's vulnerability to future Chinese pressure—demonstrating that economic coercion can backfire by motivating targets to build resilience rather than submit.
 {% endhint %}
 
-**WTO disputes**:
-- Challenged Chinese barley duties at WTO (successful 2024)
-- Prepared but didn't file wine dispute (bilateral relations thawing by 2023)
-
-**Closer U.S. alliance**:
-- AUKUS represented dramatic deepening of security ties
-- U.S. diplomatic support for Australia during Chinese pressure
-- Economic resilience strengthened through broader Indo-Pacific partnerships
+Australia also litigated where it could, winning the barley case at the WTO in 2024 and preparing a wine dispute it ultimately did not file as relations began to thaw in 2023.
 
 ### Easing of Restrictions (2023-2024)
 
-Following Chinese leadership transition dynamics and Australian government change (Labor Party's Anthony Albanese elected May 2022), bilateral relations gradually stabilized:
+Restrictions unwound gradually after the Labor Party's Anthony Albanese took office in May 2022 and both governments looked for a way down. Barley duties were removed in August 2023 once Australia suspended its WTO case; the wine duties went on 29 March 2024 after an expedited review; informal coal restrictions eased through 2023 and shipments resumed; and ministerial visits restarted after a three-year freeze.
 
-- **Barley**: Duties removed August 2023 after Australia suspended WTO case
-- **Wine**: Anti-dumping duties removed on 29 March 2024 following an expedited review
-- **Coal**: Informal restrictions eased 2023; exports resumed
-- **Ministerial engagement**: High-level visits resumed after three-year freeze
-
-**Reasons China eased pressure**
-
-Several factors contributed:
-1. **Limited effectiveness**: Australia didn't reverse policies; restrictions imposed costs on China (energy shortages, forfeited revenue)
-2. **Diversification**: Australian exporters found alternative markets, reducing future leverage
-3. **Reputational costs**: China's coercion alarmed other middle powers, driving them toward U.S. alignment
-4. **Broader strategy shift**: China sought to reduce tensions with multiple countries simultaneously (also stabilizing relations with Japan, South Korea, EU)
+Why Beijing eased is the more interesting question, and the answer bears directly on this book's framework. The campaign had not worked: Australia reversed nothing, and the restrictions imposed real costs on China, from winter power shortages to forfeited revenue. Australian exporters had found other buyers, which meant that the same measures applied again would bite less — the substitution margin had widened through use, exactly as the use-it-and-lose-it dynamic predicts. The reputational cost was substantial, since the episode was watched closely by every other middle power in the region and pushed several of them toward closer alignment with Washington. And China was by then seeking to stabilize relations with Japan, South Korea, and the European Union simultaneously, in which context an unsuccessful campaign against Australia had become a liability.
 
 ### Lessons: Informal Coercion Dynamics
 
-**Mechanisms**
+Informal coercion of this kind works through administrative discretion rather than announced policy: customs delays, regulatory harassment, license revocations for ostensible technical violations, amplified by state media encouragement of consumer boycotts. Its appeal to the coercer lies in three properties. It is difficult to challenge at the WTO, because there is formally nothing to challenge. It can be escalated or wound back without anyone having to reverse a stated position. And it preserves deniability, allowing diplomatic relations to continue while economic pressure is applied.
 
-Informal coercion operates through:
-- **Administrative discretion**: Customs delays, regulatory harassment, licensing revocations for ostensible technical violations
-- **Plausible deniability**: No formal government announcements; officials deny political motives
-- **Sector selectivity**: Target economically significant exports while avoiding escalation (iron ore untouched because China depends on Australian supply)
-- **State media amplification**: Nationalist sentiment, consumer boycott encouragement
+The same properties limit it. Deniability cuts both ways: measures that are never announced are also never credibly linked to demands, which makes it unclear to the target what compliance would even buy. Targets diversify, and each month of restriction reduces the leverage available next time. The costs fall on the coercer's own consumers and industries — China's power shortages being the clearest instance. Visible coercion of a middle power alarms every other middle power watching. And the target may simply decline to comply, as Australia did, accepting economic pain rather than conceding on questions it regarded as sovereign.
 
-**Advantages**
-
-- **Avoids WTO constraints**: Informal measures harder to challenge than explicit tariffs or quotas
-- **Flexibility**: Easily escalated or de-escalated without formal policy reversals
-- **Deniability**: Diplomatic relations can continue while economic pressure applied
-
-**Limitations**
-
-- **Market diversification**: Targets can find alternative buyers, reducing long-term leverage
-- **Domestic costs**: Restrictions harm Chinese consumers and industries (coal shortages)
-- **Reputational damage**: Visible coercion drives other countries toward rival alliances
-- **Targets may not comply**: Australia accepted economic pain rather than concede sovereignty
-
-**Middle Power Implications**
-
-Australia's experience demonstrates challenges facing middle powers:
-- **Asymmetric economic dependence**: China was Australia's largest trading partner (35% of exports); Australia represented smaller share of Chinese trade
-- **Security vs. economics trade-off**: Maintaining sovereignty and security alignment with U.S. required accepting economic costs
-- **Alliance value**: U.S. and allied support (diplomatic, security deepening via AUKUS) helped Australia withstand pressure
-- **Resilience through diversification**: Market access to U.S., Europe, Japan, India, Southeast Asia provided alternatives
-
-For countries like South Korea, ASEAN states, and others with high China trade dependence but security interests aligned with U.S., Australia's experience offers cautionary lessons: economic coercion is real, painful, but survivable with diversification and allied support (Chapter 9 places Australia's experience in historical context alongside other major economic coercion cases).
+For middle powers the episode is instructive in a specific way. Australia's dependence was genuinely asymmetric: China took around 35 percent of Australian exports, while Australia was a far smaller share of Chinese trade. That asymmetry did not translate into compliance, for three reasons — the restricted goods were substitutable on both sides, allied support was available and materially deepened through AUKUS, and alternative markets in the United States, Europe, Japan, India, and Southeast Asia existed to absorb the redirected trade. For South Korea, the ASEAN states, and others with heavy China trade exposure and security interests aligned with Washington, the lesson is neither that coercion is bluff nor that dependence is destiny: economic coercion is real, it is painful, and it is survivable with diversification and allied support. Chapter 9 places Australia's experience alongside the other major cases in the historical record.
 
 ---
 
