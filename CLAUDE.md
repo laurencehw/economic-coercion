@@ -48,7 +48,6 @@ figures/               Output figures (PNG + PDF)
 R/figures/             R scripts for visualizations
 R/setup_theme.R        Shared ggplot2 theme
 data/                  Datasets and sources
-exercises/ch0X/        Original exercise files by chapter
 editorial_review/      Editorial reviews and citation audits
 templates/             Chapter and content templates
 SUMMARY.md             GitBook table of contents
