@@ -336,7 +336,7 @@ print(combined_plot)
 
 # Save figure
 save_econ_figure(
-  filename = here::here("figures", "fig_07_03_treasury_holdings.png"),
+  filename = here::here("figures", "fig_07_01_treasury_holdings.png"),
   plot = combined_plot,
   width = 14,
   height = 14,
@@ -347,8 +347,8 @@ cat("\n")
 cat("========================================\n")
 cat("Figure 7.3 created successfully!\n")
 cat("========================================\n")
-cat("Location: figures/fig_07_03_treasury_holdings.png\n")
-cat("          figures/fig_07_03_treasury_holdings.pdf\n")
+cat("Location: figures/fig_07_01_treasury_holdings.png\n")
+cat("          figures/fig_07_01_treasury_holdings.pdf\n")
 cat("\n")
 cat("Key Findings:\n")
 cat("-------------\n")

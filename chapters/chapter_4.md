@@ -183,8 +183,8 @@ The cat-and-mouse did not end there, and its next round produced an entirely new
 ### AI Research Leadership: Publications, Patents, and Talent
 
 <figure class="book-figure">
-  <img src="../figures/fig_04_02_ai_development.png" alt="AI research output and impact by country, showing publications, citations, and talent distribution.">
-  <figcaption>Figure 4.2: AI research output and impact by country, showing publications, citations, and talent distribution.</figcaption>
+  <img src="../figures/fig_04_01_ai_development.png" alt="AI research output and impact by country, showing publications, citations, and talent distribution.">
+  <figcaption>Figure 4.1: AI research output and impact by country, showing publications, citations, and talent distribution.</figcaption>
 </figure>
 
 AI competition extends beyond chips to research capabilities: which countries publish cutting-edge research, file foundational patents, attract and develop top talent, and translate research into commercial products and military applications. Metrics reveal complex dynamics where the United States and China lead in different dimensions while Europe falls behind.
@@ -350,8 +350,8 @@ The biosecurity risks of this competition run in several directions at once: red
 Research and development investment determines long-term technological leadership, yet measuring and comparing R&D spending across countries involves definitional challenges, data quality concerns, and questions about efficiency versus quantity. Nevertheless, broad patterns reveal intensifying competition where Chinese R&D investment rivals or exceeds American levels while questions persist about which system generates more innovation per dollar invested.
 
 <figure class="book-figure">
-  <img src="../figures/fig_04_01_rd_spending.png" alt="R&D spending by country from 1990-2024, showing the dramatic rise of Chinese investment.">
-  <figcaption>Figure 4.1: R&D spending by country from 1990-2024, showing the dramatic rise of Chinese investment.</figcaption>
+  <img src="../figures/fig_04_02_rd_spending.png" alt="R&D spending by country from 1990-2024, showing the dramatic rise of Chinese investment.">
+  <figcaption>Figure 4.2: R&D spending by country from 1990-2024, showing the dramatic rise of Chinese investment.</figcaption>
 </figure>
 
 Global R&D spending has grown dramatically and shifted eastward. World Bank and OECD data put it at roughly $2.2–2.5 trillion a year by 2021—about 2 percent of global GDP—with the growth concentrated in Asia (UNESCO Institute for Statistics 2023). The United States remains the largest single-country investor at market exchange rates, spending roughly $806 billion in 2021 (about 3.5 percent of GDP) and more since. How far China has closed the gap depends entirely on the yardstick. At market exchange rates Chinese R&D was about $430 billion in 2021 (2.4 percent of GDP), rising to RMB 3.61 trillion in 2024 (2.68 percent of GDP)—on that basis U.S. spending remains nearly double, roughly $990 billion against about $500 billion in 2024. In purchasing-power-parity terms, which correct for China's lower input and wage costs, the same 2021 outlay was closer to $650–670 billion, and on the OECD's PPP series Chinese R&D reached roughly $840 billion in 2024 against about $990 billion for the United States—close enough that the crossing point is now a question of when rather than whether, though it had not yet occurred (OECD, *Main Science and Technology Indicators*; NBS 2025; NSF *Science and Engineering Indicators* 2024). The methodological gap between those two bases—not any statistical sleight of hand—is why headline claims of Chinese "parity" or "lead" must always name their yardstick. The European Union collectively invests substantial sums ($386 billion in 2021), but fragmentation across 27 member states dilutes coordination and scale, while Japan ($177 billion), South Korea (around $110–120 billion), and Taiwan sustain high R&D intensity of 3–4 percent of GDP on smaller absolute totals (OECD 2023).

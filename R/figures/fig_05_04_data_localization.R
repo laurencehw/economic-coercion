@@ -94,6 +94,6 @@ p <- ggplot(world_data) +
   )
 
 # Save the figure
-save_econ_figure(here("figures", "fig_05_01_data_localization.png"), plot = p, width = 12, height = 7)
+save_econ_figure(here("figures", "fig_05_04_data_localization.png"), plot = p, width = 12, height = 7)
 
 cat("Figure 5.1 created: Data Localization Requirements Map\n")

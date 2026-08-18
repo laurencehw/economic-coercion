@@ -294,7 +294,7 @@ print(combined_plot)
 
 # Save figure
 save_econ_figure(
-  filename = here::here("figures", "fig_07_01_swift_currencies.png"),
+  filename = here::here("figures", "fig_07_02_swift_currencies.png"),
   plot = combined_plot,
   width = 16,
   height = 12,
@@ -305,8 +305,8 @@ cat("\n")
 cat("========================================\n")
 cat("Figure 7.1 created successfully!\n")
 cat("========================================\n")
-cat("Location: figures/fig_07_01_swift_currencies.png\n")
-cat("          figures/fig_07_01_swift_currencies.pdf\n")
+cat("Location: figures/fig_07_02_swift_currencies.png\n")
+cat("          figures/fig_07_02_swift_currencies.pdf\n")
 cat("\n")
 cat("Currency Shares 2024:\n")
 cat("---------------------\n")

@@ -175,7 +175,7 @@ map <- tm_shape(world, bbox = c(-140, -55, 165, 70)) +
 
 tmap_save(
   map,
-  filename = here("figures", "fig_03_05_subsea_cables.png"),
+  filename = here("figures", "fig_05_01_subsea_cables.png"),
   width = 14,
   height = 8,
   dpi = 300
@@ -183,7 +183,7 @@ tmap_save(
 
 tmap_save(
   map,
-  filename = here("figures", "fig_03_05_subsea_cables.pdf"),
+  filename = here("figures", "fig_05_01_subsea_cables.pdf"),
   width = 14,
   height = 8
 )

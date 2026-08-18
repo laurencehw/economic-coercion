@@ -262,7 +262,7 @@ print(combined_plot)
 
 # Save figure
 save_econ_figure(
-  filename = here::here("figures", "fig_04_01_rd_spending.png"),
+  filename = here::here("figures", "fig_04_02_rd_spending.png"),
   plot = combined_plot,
   width = 14,
   height = 12,
@@ -273,8 +273,8 @@ cat("\n")
 cat("========================================\n")
 cat("Figure 4.1 created successfully!\n")
 cat("========================================\n")
-cat("Location: figures/fig_04_01_rd_spending.png\n")
-cat("          figures/fig_04_01_rd_spending.pdf\n")
+cat("Location: figures/fig_04_02_rd_spending.png\n")
+cat("          figures/fig_04_02_rd_spending.pdf\n")
 cat("\n")
 cat("R&D Spending Comparison:\n")
 cat("------------------------\n")

@@ -35,8 +35,8 @@ Financial sanctions' effectiveness derives from the U.S. dollar's dominant posit
 ### The Dollar's Privileged Position
 
 <figure class="book-figure">
-  <img src="../figures/fig_07_03_treasury_holdings.png" alt="Foreign holdings of U.S. Treasury securities by country, showing the scale of dollar-denominated asset accumulation.">
-  <figcaption>Figure 7.3: Foreign holdings of U.S. Treasury securities by country, showing the scale of dollar-denominated asset accumulation.</figcaption>
+  <img src="../figures/fig_07_01_treasury_holdings.png" alt="Foreign holdings of U.S. Treasury securities by country, showing the scale of dollar-denominated asset accumulation.">
+  <figcaption>Figure 7.1: Foreign holdings of U.S. Treasury securities by country, showing the scale of dollar-denominated asset accumulation.</figcaption>
 </figure>
 
 **Reserve Currency Status**
@@ -91,8 +91,8 @@ Dollar-denominated debt owed by borrowers outside the United States totaled roug
 **Society for Worldwide Interbank Financial Telecommunication (SWIFT)**
 
 <figure class="book-figure">
-  <img src="../figures/fig_07_01_swift_currencies.png" alt="Currency share of global payments via SWIFT, demonstrating dollar and euro dominance in international transactions.">
-  <figcaption>Figure 7.1: Currency share of global payments via SWIFT, demonstrating dollar and euro dominance in international transactions.</figcaption>
+  <img src="../figures/fig_07_02_swift_currencies.png" alt="Currency share of global payments via SWIFT, demonstrating dollar and euro dominance in international transactions.">
+  <figcaption>Figure 7.2: Currency share of global payments via SWIFT, demonstrating dollar and euro dominance in international transactions.</figcaption>
 </figure>
 
 SWIFT is not a payment system but a secure messaging network transmitting payment instructions between 11,000+ financial institutions in 200+ countries. Key characteristics:
@@ -245,8 +245,8 @@ OFAC operates under multiple statutory authorities. The primary basis is **IEEPA
 ### Types of Sanctions Programs
 
 <figure class="book-figure">
-  <img src="../figures/fig_07_02_sanctions_programs.png" alt="Active U.S. sanctions programs by type, showing the growth of comprehensive and targeted sanctions over time.">
-  <figcaption>Figure 7.2: Active U.S. sanctions programs by type, showing the growth of comprehensive and targeted sanctions over time.</figcaption>
+  <img src="../figures/fig_07_03_sanctions_programs.png" alt="Active U.S. sanctions programs by type, showing the growth of comprehensive and targeted sanctions over time.">
+  <figcaption>Figure 7.3: Active U.S. sanctions programs by type, showing the growth of comprehensive and targeted sanctions over time.</figcaption>
 </figure>
 
 OFAC administers multiple sanctions program types:

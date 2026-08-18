@@ -28,7 +28,7 @@ Standards competition operates on a different timeline. When Huawei's 5G specifi
 The tools of twentieth-century trade policy fit this domain poorly. An export embargo can stop a machine but not an algorithm. Financial sanctions struggle against cyber operations conducted through proxies and shell companies with shifting identities, and tariffs are irrelevant for digital services delivered through internet connections. The domain instead calls for technical measures, regulatory approaches, standards engagement, and narrative contestation. The transformation of competition in an increasingly digital world has only begun.
 
 <figure class="book-figure">
-  <img src="../figures/fig_03_05_subsea_cables.png" alt="Global subsea telecommunications cable infrastructure. Over 95% of intercontinental data travels via undersea cables, making landing points and cable routes critical chokepoints for global connectivity. Critical hubs (red) include major data centers and internet exchange points.">
+  <img src="../figures/fig_05_01_subsea_cables.png" alt="Global subsea telecommunications cable infrastructure. Over 95% of intercontinental data travels via undersea cables, making landing points and cable routes critical chokepoints for global connectivity. Critical hubs (red) include major data centers and internet exchange points.">
   <figcaption>Figure 5.1: Global subsea telecommunications cable infrastructure. Over 95% of intercontinental data travels via undersea cables, making landing points and cable routes critical chokepoints for global connectivity. Critical hubs (red) include major data centers and internet exchange points.</figcaption>
 </figure>
 
@@ -140,7 +140,7 @@ Beyond China and Europe, data localization has proliferated globally. Russia's 2
 Figure 5.4 maps the resulting patchwork: mandatory local-storage regimes in China and Russia (high stringency) sit alongside the lighter-touch rules of most democracies, with a widening middle tier of states—India, Indonesia, Vietnam, and others—tightening cross-border transfer requirements.
 
 <figure class="book-figure">
-  <img src="../figures/fig_05_01_data_localization.png" alt="World map shading countries by the stringency of their data-localization and cross-border data-transfer requirements in 2024, with China and Russia in the highest-stringency category and most democracies in the lowest.">
+  <img src="../figures/fig_05_04_data_localization.png" alt="World map shading countries by the stringency of their data-localization and cross-border data-transfer requirements in 2024, with China and Russia in the highest-stringency category and most democracies in the lowest.">
   <figcaption>Figure 5.4: Stringency of national data-localization and cross-border transfer restrictions, 2024. China and Russia impose mandatory local-storage regimes (red); many democracies maintain comparatively few restrictions (green). Source: DLA Piper, Global Data Protection Laws; national legislation analysis.</figcaption>
 </figure>
 
@@ -265,7 +265,7 @@ Domestic technology ecosystems substituting for American platforms create compre
 Cloud infrastructure captures the split concretely. Globally, U.S. hyperscalers—Amazon Web Services, Microsoft Azure, and Google Cloud—still command roughly two-thirds of the market, while Chinese providers led by Alibaba, Huawei, and Tencent remain in the single digits worldwide. Inside China, the ranking inverts: Alibaba and Huawei lead, and the American incumbents are marginal (Figure 5.5). The result is two largely self-contained ecosystems rather than one integrated market—the splinternet rendered in server farms.
 
 <figure class="book-figure">
-  <img src="../figures/fig_05_04_cloud_market.png" alt="Bar and line charts of global cloud infrastructure market share in 2024 and a comparison of the Chinese and US domestic cloud markets, showing US providers dominant globally and Chinese providers dominant within China.">
+  <img src="../figures/fig_05_05_cloud_market.png" alt="Bar and line charts of global cloud infrastructure market share in 2024 and a comparison of the Chinese and US domestic cloud markets, showing US providers dominant globally and Chinese providers dominant within China.">
   <figcaption>Figure 5.5: Global cloud-infrastructure market share (2024) and the bifurcation of the U.S. and Chinese cloud markets. U.S. providers dominate globally and at home; Alibaba, Huawei, and Tencent lead inside China—a concrete instance of the splinternet in commercial infrastructure. Source: Synergy Research, Canalys, and company reports.</figcaption>
 </figure>
 
