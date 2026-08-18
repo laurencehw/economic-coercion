@@ -312,6 +312,13 @@ Quantum competition differs from the semiconductor and AI contests in four ways.
 
 ---
 
+Figure 4.3 gathers the frontier technologies this chapter treats and places each by how strongly it serves commercial and military ends. The scores are ordinal judgments rather than measurements — they are the author's, and the figure is offered as a way of organising the problem rather than as evidence about it. Read that way, two things stand out. Almost everything sits in the upper-right: for the technologies that matter strategically now, the dual-use character is not an occasional complication but the normal condition, which is why export controls in this domain cannot avoid hitting civilian applications. And the lower panel shows that leadership does not track dual-use intensity at all — China leads on hypersonics and 5G, the United States on quantum and space — so there is no single frontier to defend, only a portfolio of them.
+
+<figure class="book-figure">
+  <img src="../figures/fig_04_03_dual_use_matrix.png" alt="Dual-use technology assessment matrix plotting commercial against military application intensity, with a US-China leadership comparison.">
+  <figcaption>Figure 4.3: Frontier technologies by commercial and military application intensity (author's ordinal assessment), with relative U.S. and Chinese capability.</figcaption>
+</figure>
+
 ### Space Systems: Dual-Use Infrastructure and Military Competition
 
 Space capabilities have become essential infrastructure for modern economies and militaries: satellites provide communications, navigation (GPS/Galileo/BeiDou), earth observation (weather, agriculture, intelligence), and increasingly commercial services (internet connectivity, remote sensing). This dual-use character—where civilian and military space applications share common technologies—makes space a domain of intensifying strategic competition with economic and security dimensions.
@@ -358,11 +365,11 @@ The biosecurity risks of this competition run in several directions at once: red
 
 Research and development investment determines long-term technological leadership, yet measuring and comparing R&D spending across countries involves definitional challenges, data quality concerns, and questions about efficiency versus quantity. Nevertheless, broad patterns reveal intensifying competition where Chinese R&D investment rivals or exceeds American levels while questions persist about which system generates more innovation per dollar invested.
 
-Figure 4.3 plots these totals on the purchasing-power basis, where the convergence is genuine and the crossing point is near. On market exchange rates the same two series remain roughly a factor of two apart, and the gap between those two readings — not any dispute about the underlying data — is what most disagreements about Chinese research spending actually turn on.
+Figure 4.4 plots these totals on the purchasing-power basis, where the convergence is genuine and the crossing point is near. On market exchange rates the same two series remain roughly a factor of two apart, and the gap between those two readings — not any dispute about the underlying data — is what most disagreements about Chinese research spending actually turn on.
 
 <figure class="book-figure">
-  <img src="../figures/fig_04_03_rd_spending.png" alt="R&D spending by country from 1990-2024, showing the dramatic rise of Chinese investment.">
-  <figcaption>Figure 4.3: R&D spending by country from 1990-2024, showing the dramatic rise of Chinese investment.</figcaption>
+  <img src="../figures/fig_04_04_rd_spending.png" alt="R&D spending by country from 1990-2024, showing the dramatic rise of Chinese investment.">
+  <figcaption>Figure 4.4: R&D spending by country from 1990-2024, showing the dramatic rise of Chinese investment.</figcaption>
 </figure>
 
 Global R&D spending has grown dramatically and shifted eastward. World Bank and OECD data put it at roughly $2.2–2.5 trillion a year by 2021—about 2 percent of global GDP—with the growth concentrated in Asia (UNESCO Institute for Statistics 2023). The United States remains the largest single-country investor at market exchange rates, spending roughly $806 billion in 2021 (about 3.5 percent of GDP) and more since. How far China has closed the gap depends entirely on the yardstick. At market exchange rates Chinese R&D was about $430 billion in 2021 (2.4 percent of GDP), rising to RMB 3.61 trillion in 2024 (2.68 percent of GDP)—on that basis U.S. spending remains nearly double, roughly $990 billion against about $500 billion in 2024. In purchasing-power-parity terms, which correct for China's lower input and wage costs, the same 2021 outlay was closer to $650–670 billion, and on the OECD's PPP series Chinese R&D reached roughly $840 billion in 2024 against about $990 billion for the United States—close enough that the crossing point is now a question of when rather than whether, though it had not yet occurred (OECD, *Main Science and Technology Indicators*; NBS 2025; NSF *Science and Engineering Indicators* 2024). The methodological gap between those two bases—not any statistical sleight of hand—is why headline claims of Chinese "parity" or "lead" must always name their yardstick. The European Union collectively invests substantial sums ($386 billion in 2021), but fragmentation across 27 member states dilutes coordination and scale, while Japan ($177 billion), South Korea (around $110–120 billion), and Taiwan sustain high R&D intensity of 3–4 percent of GDP on smaller absolute totals (OECD 2023).
@@ -562,11 +569,11 @@ In January 2023, the U.S., Japan, and Netherlands reached an understanding — n
 
 ---
 
-Figure 4.4 shows what a decade of escalating restriction did to a single firm, and what it did not do. Huawei's consumer business collapsed after the 2020 foreign direct product rule cut off its access to advanced chips, taking total revenue down by more than a quarter in a single year. But the firm did not fail: carrier and enterprise revenue held, and by 2024 total revenue had recovered to roughly its 2020 level. Read alongside the substitution margin, the trajectory is a caution against reading early sanctions impact as a permanent verdict.
+Figure 4.5 shows what a decade of escalating restriction did to a single firm, and what it did not do. Huawei's consumer business collapsed after the 2020 foreign direct product rule cut off its access to advanced chips, taking total revenue down by more than a quarter in a single year. But the firm did not fail: carrier and enterprise revenue held, and by 2024 total revenue had recovered to roughly its 2020 level. Read alongside the substitution margin, the trajectory is a caution against reading early sanctions impact as a permanent verdict.
 
 <figure class="book-figure">
-  <img src="../figures/fig_04_04_huawei_impact.png" alt="Huawei revenue by business segment, 2015-2024, annotated by sanctions phase.">
-  <figcaption>Figure 4.4: Huawei revenue by business segment, 2015-2024. Shading marks the phases of U.S. restriction.</figcaption>
+  <img src="../figures/fig_04_05_huawei_impact.png" alt="Huawei revenue by business segment, 2015-2024, annotated by sanctions phase.">
+  <figcaption>Figure 4.5: Huawei revenue by business segment, 2015-2024. Shading marks the phases of U.S. restriction.</figcaption>
 </figure>
 
 ## Case Study: U.S. Semiconductor Export Controls (October 2022-2024)

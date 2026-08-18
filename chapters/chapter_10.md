@@ -382,6 +382,13 @@ Institutionally, the G20 displaces the G7 as the primary coordination forum, BRI
 
 Even at fifteen percent, this scenario carries a practical implication: the institutional capacity for cooperation is far easier to preserve than to rebuild. Investment in cooperative frameworks during a period of tension is cheap insurance against a world in which they are suddenly needed, and the legitimacy deficits in current global governance — the ones the Global South names consistently and the West addresses intermittently — are precisely what would have to be repaired first.
 
+Figure 10.6 places the four scenarios on the two axes that generate them and sizes each by its probability. The quadrant structure is worth reading carefully, because it shows that the scenarios are not points on a single spectrum from cooperation to conflict. Managed competition and economic cold war differ mainly in integration, not in intensity — both are intensely competitive worlds. Crisis fragmentation is the low-intensity, low-integration case, which is why it feels less alarming than a cold war while being in some ways harder to navigate: there is no single adversary to organise policy around. The probabilities are the author's estimates, as the panel says, and their most defensible feature is their ordering rather than their levels.
+
+<figure class="book-figure">
+  <img src="../figures/fig_10_06_scenario_matrix.png" alt="Two-by-two matrix placing the four scenarios by integration level and competition intensity, with probability weights and scenario descriptions.">
+  <figcaption>Figure 10.6: The four scenarios mapped by integration level and competition intensity, sized by estimated probability.</figcaption>
+</figure>
+
 ### Cross-Scenario Lessons
 
 **Robust strategies effective across scenarios**:
