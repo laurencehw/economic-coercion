@@ -35,9 +35,13 @@ group alone):
 - **Extras**: `ggforce` (framework/toolbox/cascade/decision-tree diagrams),
   `ggraph` + `igraph` (interdependence network), `ggalluvial` (Sankey/flow charts),
   `ggrepel`, `viridis`, `cowplot`, `gridExtra`
-- **Maps and specialty** (12 scripts): `sf`, `tmap`, `rnaturalearth`,
-  `rnaturalearthdata`, `treemapify`. All are on CRAN — the pipeline no longer has
-  any GitHub-only dependency
+- **Maps and specialty** (9 scripts): `sf`, `tmap`, `rnaturalearth`,
+  `rnaturalearthdata`, `treemapify`
+
+Every dependency is on CRAN, so a machine with CRAN access builds all 61 scripts.
+`scripts/qa_manuscript.py` enforces this against a reviewed allowlist: a GitHub-only
+package (as `ggradar` once was) fails the check rather than silently making the
+pipeline unreproducible for everyone else.
 
 On Debian/Ubuntu most of these install far faster from apt binaries
 (`r-cran-tidyverse`, `r-cran-sf`, `r-cran-ggforce`, …) than from source.
