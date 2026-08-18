@@ -27,6 +27,8 @@ Standards competition operates on a different timeline. When Huawei's 5G specifi
 
 The tools of twentieth-century trade policy fit this domain poorly. An export embargo can stop a machine but not an algorithm. Financial sanctions struggle against cyber operations conducted through proxies and shell companies with shifting identities, and tariffs are irrelevant for digital services delivered through internet connections. The domain instead calls for technical measures, regulatory approaches, standards engagement, and narrative contestation. The transformation of competition in an increasingly digital world has only begun.
 
+Figure 5.1 shows the physical layer beneath all of this. The map is a useful corrective to the language of "cyberspace": the traffic runs through a finite number of cables landing at a finite number of beaches, and the resulting geography is as concrete, and about as defensible, as a pipeline network.
+
 <figure class="book-figure">
   <img src="../figures/fig_05_01_subsea_cables.png" alt="Global subsea telecommunications cable infrastructure. Over 95% of intercontinental data travels via undersea cables, making landing points and cable routes critical chokepoints for global connectivity. Critical hubs (red) include major data centers and internet exchange points.">
   <figcaption>Figure 5.1: Global subsea telecommunications cable infrastructure. Over 95% of intercontinental data travels via undersea cables, making landing points and cable routes critical chokepoints for global connectivity. Critical hubs (red) include major data centers and internet exchange points.</figcaption>

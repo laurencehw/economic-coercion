@@ -35,6 +35,8 @@ The U.S. dollar's role as global reserve currency and dominant medium of exchang
 
 ### Dollar Privilege and Its Vulnerabilities
 
+Figure 10.1 sets out the reserve-currency trajectory that the scenarios in this chapter turn on. The decline in the dollar's share is real but gradual, and it has been running at a pace that would take decades to displace incumbency — which is why the interesting question is not the trend but what could interrupt it.
+
 <figure class="book-figure">
   <img src="../figures/fig_10_01_dollar_reserves.png" alt="Projected dollar share of global reserves under different scenarios from 2024-2050.">
   <figcaption>Figure 10.1: Projected dollar share of global reserves under different scenarios from 2024-2050.</figcaption>
@@ -227,6 +229,8 @@ Extending the analysis of Chapter 9, climate migration opens several coercive op
 Artificial intelligence, quantum computing, biotechnology, and space systems mark the technological frontiers where strategic competition will intensify. Unlike the historical technology races over nuclear weapons or semiconductors, with their relatively clear milestones and state-dominated development, these emerging fields share a set of features that make them harder to govern. Development is diffuse, spread across private firms, universities, and startups alongside government programs. Applications are dual-use, their commercial and military faces intertwined. Innovation cycles run faster than in traditional hardware. And success depends on global talent pools, on the ability to attract international scientists and engineers. Economic coercion tools must adapt to control the strategic diffusion of technologies built this way.
 
 ### Artificial Intelligence: The Defining Technology Competition
+
+Figure 10.3 revisits the AI indicators introduced in Chapter 4, now as inputs to the scenarios below. Their divergence is what makes the technology competition hard to score in advance, and it is the principal reason the scenario probabilities offered here are wide.
 
 <figure class="book-figure">
   <img src="../figures/fig_10_03_ai_indicators.png" alt="AI development indicators comparing U.S. and China across research, talent, compute, and applications.">

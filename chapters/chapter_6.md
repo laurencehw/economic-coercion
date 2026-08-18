@@ -48,6 +48,8 @@ The Trump administration's broad interpretation of "national security" under Sec
 
 ### The U.S.-China Trade War: Escalation and Impacts
 
+Figure 6.1 tracks average applied tariff rates through the successive rounds. The stepwise shape matters for the argument that follows: tariffs escalated in discrete, announced increments and came down only partially, so that each truce reset the level rather than the instrument.
+
 <figure class="book-figure">
   <img src="../figures/fig_06_01_us_china_tariffs.png" alt="U.S.-China tariff rates and trade flows from 2018-2024, showing the escalation of the trade war.">
   <figcaption>Figure 6.1: U.S.-China tariff rates and trade flows from 2018-2024, showing the escalation of the trade war.</figcaption>
@@ -253,6 +255,8 @@ For all their differences, these regimes share a common set of pressures. The fi
 ### U.S. Unilateral Export Controls: The Export Administration Regulations
 
 The United States maintains the world's most extensive unilateral export control system, codified in the **Export Administration Regulations (EAR)**, 15 C.F.R. Part 730 et seq. The Commerce Department's Bureau of Industry and Security (BIS) administers EAR based on statutory authority from the **Export Control Reform Act of 2018** (ECRA), 50 U.S.C. § 4801 et seq. (For detailed legal analysis of EAR authorities, jurisdiction, enforcement, and the Entity List, see *Government Tools Box 3: Export Administration Regulations and Entity List.*)
+
+Figure 6.3 shows how quickly that list has grown. The trend line is more informative than any single designation: what began as a targeted proliferation tool has become a general-purpose instrument of technology policy, and the volume alone raises the administrative capacity questions taken up later in this chapter.
 
 <figure class="book-figure">
   <img src="../figures/fig_06_03_entity_list.png" alt="Entity List additions by administration, showing the growth of export control restrictions.">
@@ -512,6 +516,8 @@ China enacted Export Control Law (2020) establishing authority to:
 - **Antimony restrictions** (2024): Controls on antimony (used in semiconductors, solar panels, batteries, ammunition). China produces 48% globally, processes 63% (USGS 2024).
 - **Outright ban on exports to the United States** (December 2024): Responding to a fresh round of U.S. semiconductor controls, China banned exports of gallium, germanium, antimony, and superhard materials to the United States specifically—rather than merely licensing them—the first time Beijing singled out one country for a critical-mineral embargo (China Ministry of Commerce 2024).
 - **Rare-earth and magnet licensing** (April and October 2025): During the 2025 tariff escalation (see Case Study 1), China placed seven medium and heavy rare-earth elements and permanent-magnet products under export licensing (April 2025), then in October 2025 broadened the regime with extraterritorial provisions reaching any product made anywhere with Chinese-origin rare earths or processing technology—a mirror image of the U.S. Foreign Direct Product Rule. The controls were suspended for one year under the October 30 Busan truce (CSIS 2025).
+
+Figure 6.5 places China's rare-earth measures against the American actions that preceded them. The sequencing rewards attention: Beijing's instruments arrived later and were narrower in scope, but they were aimed at the stage of the supply chain where substitution takes longest, which is why their announcement moved prices that tariff rounds did not.
 
 <figure class="book-figure">
   <img src="../figures/fig_06_04_rare_earth_retaliation.png" alt="Chinese critical-mineral and rare-earth export retaliation measures 2010-2025, showing targeted controls on gallium, germanium, graphite, and antimony alongside global production shares.">
@@ -836,6 +842,8 @@ The central European dilemma is how to coordinate with the United States on Chin
 **Section 301 of the Trade Act of 1974** (19 U.S.C. § 2411-2420) authorizes the U.S. Trade Representative (USTR) to investigate and retaliate against foreign government practices that are "unjustifiable," "unreasonable," or "discriminatory" and burden U.S. commerce. Unlike Section 232 (which requires a national security nexus), Section 301 covers virtually any unfair trade practice, making it the most consequential trade remedy tool in modern strategic competition.
 
 **Key application — the U.S.-China trade war**: USTR's August 2017 investigation found China engaged in forced technology transfer, discriminatory licensing, state-directed technology acquisition, and cyber-enabled IP theft. Tariffs escalated in waves: 25% on $50 billion (mid-2018), 10-25% on $200 billion (September 2018-May 2019), and 15% on $112 billion (September 2019). The January 2020 Phase One Agreement reduced some tariffs, but purchase commitments went largely unfulfilled. The Biden administration maintained all tariffs and added targeted increases (EVs to 100%, solar to 50%, semiconductors to 50%). At peak, tariffs affected $360 billion in Chinese imports (66% of total) at an effective average rate of 19.3%.
+
+Figure 6.6 summarises the Section 301 actions and their coverage. The breadth is the striking feature: a statute drafted to remedy specific unfair trade practices has carried the legal weight of a general tariff programme, which is the background to the constitutional questions raised by the later IEEPA litigation.
 
 <figure class="book-figure">
   <img src="../figures/fig_06_06_section_301.png" alt="Section 301 tariff coverage by product category and administration, showing the expansion of coverage across Trump and Biden administrations.">

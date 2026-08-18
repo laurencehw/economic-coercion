@@ -34,6 +34,8 @@ Financial sanctions' effectiveness derives from the U.S. dollar's dominant posit
 
 ### The Dollar's Privileged Position
 
+Figure 7.1 shows the holdings that give this section its subject. The detail worth noting is China's trajectory: down by nearly half from its 2014 peak and, since the March 2025 TIC release, behind both Japan and the United Kingdom. Whatever leverage a large Treasury position was once thought to confer, Beijing has spent a decade reducing its exposure to it.
+
 <figure class="book-figure">
   <img src="../figures/fig_07_01_treasury_holdings.png" alt="Foreign holdings of U.S. Treasury securities by country, showing the scale of dollar-denominated asset accumulation.">
   <figcaption>Figure 7.1: Foreign holdings of U.S. Treasury securities by country, showing the scale of dollar-denominated asset accumulation.</figcaption>
@@ -89,6 +91,8 @@ Dollar-denominated debt owed by borrowers outside the United States totaled roug
 ### Payment System Infrastructure: SWIFT and Correspondent Banking
 
 **Society for Worldwide Interbank Financial Telecommunication (SWIFT)**
+
+Figure 7.2 records what has actually happened to currency shares over the period in which de-dollarization has been most discussed. The dollar's share of payment value rose after 2022 rather than falling, and the renminbi peaked in 2023 before receding — a pattern worth holding in mind through the sections that follow, which take the alternatives seriously without assuming they are winning.
 
 <figure class="book-figure">
   <img src="../figures/fig_07_02_swift_currencies.png" alt="Currency share of global payments via SWIFT, demonstrating dollar and euro dominance in international transactions.">
@@ -243,6 +247,8 @@ The Office of Foreign Assets Control (OFAC) within the U.S. Department of Treasu
 OFAC operates under multiple statutory authorities. The primary basis is **IEEPA** (detailed in Chapter 1's Government Tools Box), which grants the President broad power to block transactions, freeze assets, and regulate economic activity during declared national emergencies. Additional authorities include **TWEA** (Trading with the Enemy Act, now applicable only to Cuba), **country-specific statutes** (CISADA for Iran, CAATSA for Russia/Iran/North Korea, the Magnitsky Acts for human rights abusers), and **UN Security Council resolutions**. These statutes sometimes constrain presidential discretion by mandating specific sanctions or limiting waivers, but IEEPA provides broad residual authority for additional measures.
 
 ### Types of Sanctions Programs
+
+Figure 7.3 gives the shape of the portfolio these authorities have produced. The growth is less a series of discrete decisions than an accumulation: programs are added far more readily than they are retired, which is one reason the question of off-ramps recurs throughout this chapter.
 
 <figure class="book-figure">
   <img src="../figures/fig_07_03_sanctions_programs.png" alt="Active U.S. sanctions programs by type, showing the growth of comprehensive and targeted sanctions over time.">
@@ -404,6 +410,8 @@ This is the substitution margin of Chapter 1 operating in the financial domain. 
 ### Motivations for De-dollarization
 
 **Sanctions Vulnerability**
+
+Figure 7.4 shows where the Russian central bank's reserves were held when they were frozen, and the distribution explains why the freeze worked. Reserves are not stored domestically; they sit as claims on foreign institutions, which means the jurisdictions hosting those claims can immobilise them without moving anything at all.
 
 <figure class="book-figure">
   <img src="../figures/fig_07_04_russian_frozen_assets.png" alt="Russian central bank assets frozen in 2022, showing the geographic distribution of $300+ billion in immobilized reserves.">

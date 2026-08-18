@@ -28,6 +28,8 @@ Government Tools Boxes detail CFIUS procedures, FIRRMA expansion, and industrial
 
 These themes reflect economic statecraft's evolution beyond traditional trade and financial tools. Capital flows, industrial capabilities, and market access have become contested domains, with implications extending well beyond bilateral U.S.-China competition to allied policy coordination, development finance, and the future shape of globalization.
 
+Figure 8.1 maps the resulting footprint. Its usefulness is less in any single project than in the pattern: the corridors follow overland and maritime routes that connect Chinese industrial capacity to markets and raw materials, which is what distinguishes a development programme from an infrastructure spending spree.
+
 <figure class="book-figure">
   <img src="../figures/fig_08_01_bri_infrastructure.png" alt="Key Belt and Road Initiative infrastructure investments. Port investments (blue) extend Chinese maritime presence; rail projects (red) create overland connectivity; corridor investments (orange) integrate regional economies. Size indicates investment scale in USD billions.">
   <figcaption>Figure 8.1: Key Belt and Road Initiative infrastructure investments. Port investments (blue) extend Chinese maritime presence; rail projects (red) create overland connectivity; corridor investments (orange) integrate regional economies. Size indicates investment scale in USD billions.</figcaption>
@@ -132,6 +134,8 @@ FIRRMA authorized increased CFIUS staffing and funding (from ~20 full-time emplo
 - Extensions possible by mutual agreement
 
 ### Impact on Chinese Investment: Near-Total Collapse
+
+Figure 8.2 shows how completely that flow reversed. The collapse from the 2016 peak is steep enough that the policy question has changed: screening regimes built to handle a surge now operate in an environment where the surge has already ended, and the binding constraint on Chinese investment is at least as much Beijing's capital controls as Washington's review process.
 
 <figure class="book-figure">
   <img src="../figures/fig_08_02_chinese_fdi.png" alt="Chinese foreign direct investment in U.S. and Europe from 2008-2024, showing the dramatic collapse after FIRRMA.">
@@ -372,6 +376,8 @@ China's National Integrated Circuit Industry Investment Fund (the "Big Fund") ex
 The **results** of these investments have been mixed. The Chinese semiconductor industry has expanded capacity dramatically, but significant technology gaps persist. SMIC achieved a notable milestone by demonstrating 7nm chip production for the Huawei Mate 60 Pro despite equipment restrictions, though yields reportedly remain low at 40-50%. Chinese firms produce mature-node manufacturing tools but lag 10-15 years behind the cutting edge in lithography, etching, and deposition equipment. China's share of global semiconductor production capacity rose from 12% in 2015 to 24% in 2024, but this growth concentrates in mature nodes (28nm and above), with advanced node production (14nm and below) remaining a small share. Questions of efficiency also cloud the picture: massive capital investment yielded progress but at high cost, and multiple Big Fund corruption scandals---with executives arrested for embezzlement---raise serious doubts about allocation efficiency.
 
 ### Comparing Approaches: Market-Driven vs. State-Directed
+
+Figure 8.3 sets the recent programmes side by side. The comparison should be read with care — the entries differ in duration, in the mix of grants, loans, and tax credits, and in how much was appropriated versus disbursed — but even after those caveats the convergence is the point: the distinction between market-driven and state-directed approaches has narrowed considerably from the American side.
 
 <figure class="book-figure">
   <img src="../figures/fig_08_03_industrial_policy.png" alt="Industrial policy spending comparison between the U.S. and China across key technology sectors.">

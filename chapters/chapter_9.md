@@ -58,6 +58,8 @@ Despite limitations, scholarly consensus holds CoCom meaningfully degraded Sovie
 
 ### Grain Embargo (1980): Unilateral Failure
 
+Figure 9.1 shows why the embargo failed. Soviet grain imports barely dipped; the volumes simply changed flag, with Argentine and Canadian sellers absorbing the business American farmers gave up. Few cases in this book illustrate a wide substitution margin so cleanly.
+
 <figure class="book-figure">
   <img src="../figures/fig_09_01_soviet_grain.png" alt="Soviet grain imports by source country from 1975-1985, showing how alternative suppliers filled the gap left by the U.S. embargo.">
   <figcaption>Figure 9.1: Soviet grain imports by source country from 1975-1985, showing how alternative suppliers filled the gap left by the U.S. embargo.</figcaption>
@@ -151,6 +153,8 @@ The most consequential single measure was the U.S. Comprehensive Anti-Apartheid 
 - Required U.S. firms operating in South Africa to follow the Sullivan Principles on fair employment practices
 
 The European Community imposed its own investment restrictions and bans on steel and gold krugerrand imports, though the United Kingdom resisted comprehensive measures; across the Commonwealth, member states adopted a patchwork of sanctions, with Canada, Australia, and India particularly active. The financial track bit hardest: banks such as Citibank and Barclays withdrew from South Africa, cutting off credit and forcing debt renegotiations as capital flight accelerated. A parallel disinvestment campaign, in which universities, pension funds, and municipalities sold off their South African holdings, pressured corporations to leave—by 1989, more than 200 U.S. companies had exited the country (Crawford and Klotz 1999).
+
+Figure 9.2 sets the sanctions measures against South African financial indicators. The 1985 inflection is the one to note: the decisive pressure came not from the trade measures but from the refusal of foreign banks to roll over short-term debt, which is a mechanism the trade-focused literature on this case tends to under-weight.
 
 <figure class="book-figure">
   <img src="../figures/fig_09_02_apartheid_timeline.png" alt="Timeline of anti-apartheid sanctions from 1960 to 1994 with panels showing South African GDP growth and the rand's depreciation against the dollar over the sanctions period.">
@@ -366,6 +370,8 @@ The fourth pathology is subtler and institutional: governments impose sanctions 
 ### Comparative Success Rates and Measurement Challenges
 
 **Quantitative studies** (Hufbauer et al. 2007; Biersteker et al. 2016; Pape 1997; Drezner 1999) put the success rate at roughly a third of cases: Hufbauer, Schott, Elliott, and Oegg code about 34% of their 200-plus episodes as achieving "at least partial success." The figure is highly sensitive to how success is defined and which cases are counted—Pape, excluding episodes backed by concurrent military force, puts the effective rate closer to 5%, while the "partial success" coding is itself generous.
+
+Figure 9.3 displays these coding results by sanction type. The figures should be read with the caveats above firmly in mind — the categories overlap, the coding is generous, and the sample is of episodes that reached the historical record — but the ordering across types is more robust than the levels.
 
 <figure class="book-figure">
   <img src="../figures/fig_09_03_sanctions_success.png" alt="Sanctions success rates by objective and era, showing variation based on goal type and historical period.">

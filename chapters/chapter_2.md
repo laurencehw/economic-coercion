@@ -53,6 +53,8 @@ Comprehensive supply chain mapping is beyond the scope of any single chapter (th
 
 **Semiconductors** represent the most consequential chokepoint in the global economy. The supply chain is highly specialized, with a distinct concentration at every stage: design happens primarily in the United States (Intel, AMD, Nvidia, Qualcomm, Apple), Europe (ARM), and increasingly China (Huawei's HiSilicon before U.S. sanctions); electronic design automation (EDA) software that makes chip design possible is dominated by three firms—Synopsys and Cadence, both American, and German-owned Siemens EDA—that together hold roughly three-quarters of the market (TrendForce 2024); manufacturing equipment comes from the U.S. (Applied Materials, Lam Research, KLA), the Netherlands (ASML with its monopoly on EUV lithography), and Japan (Tokyo Electron, Screen Holdings); and fabrication is dominated by Taiwan, whose TSMC near-monopoly on advanced chips is profiled in the deep-dive below, alongside South Korea (Samsung, SK Hynix with strength in memory chips) and a struggling U.S. incumbent, Intel. China remains weak in *advanced* fabrication—it makes almost none of the world's leading-edge chips—but it holds a substantial and fast-growing share of *overall* wafer capacity, roughly 15–20% of global installed capacity as of 2024 and concentrated at mature nodes of 28 nanometers and above (SIA 2024), backed by massive investment through the Big Fund (大基金) industrial policy initiative exceeding $100 billion.
 
+Figure 2.1 puts that division of labour on a map. What the exercise clarifies is how few places are involved: the chokepoints are not broad industrial regions but a short list of named facilities, several of them within artillery range of contested water.
+
 <figure class="book-figure">
   <img src="../figures/fig_02_01_semiconductor_geography.png" alt="Critical locations in the global semiconductor supply chain. Red circles indicate chokepoint facilities where disruption would cascade through global technology industries. TSMC's Taiwan fabs, ASML's Netherlands lithography equipment, and Japanese materials suppliers each represent single points of failure.">
   <figcaption>Figure 2.1: Critical locations in the global semiconductor supply chain. Red circles indicate chokepoint facilities where disruption would cascade through global technology industries. TSMC's Taiwan fabs, ASML's Netherlands lithography equipment, and Japanese materials suppliers each represent single points of failure.</figcaption>
@@ -149,6 +151,8 @@ This complexity means that no single country can produce advanced semiconductors
 
 ### Why Taiwan Matters
 
+Figure 2.2 attaches numbers to that concentration. TSMC's position is not the sort of majority antitrust lawyers argue about; at the most advanced nodes it approaches the entire market, which is why a single company's siting decisions have become a matter of national strategy for several governments at once.
+
 <figure class="book-figure">
   <img src="../figures/fig_02_02_tsmc_dominance.png" alt="TSMC's dominant global market share in advanced semiconductor manufacturing.">
   <figcaption>Figure 2.2: TSMC's dominant global market share in advanced semiconductor manufacturing.</figcaption>
@@ -227,6 +231,8 @@ The U.S.-China semiconductor competition is prolonged, expensive, and without a 
 The global energy transition—the shift from fossil fuels to renewable energy and electric vehicles—creates new supply chain dependencies that rival semiconductors in strategic significance. Paradoxically, escaping dependence on Middle Eastern oil for energy security may create even more acute dependencies on Chinese processing of the minerals required for batteries, solar panels, wind turbines, and electric motors. This section examines critical mineral chokepoints, how China achieved dominance, and what (if anything) can be done to reduce vulnerabilities.
 
 ### Minerals for Energy Transition
+
+Figure 2.3 shows why the distinction between extraction and refining carries most of the analytical weight. For nearly every mineral on the chart China's mining share is unremarkable and its processing share is decisive; the points sitting well above the diagonal are precisely the dependencies that cannot be resolved by opening a new mine.
 
 <figure class="book-figure">
   <img src="../figures/fig_02_03_critical_minerals.png" alt="Critical minerals supply chain concentration showing China's dominance in processing.">

@@ -182,6 +182,8 @@ The cat-and-mouse did not end there, and its next round produced an entirely new
 
 ### AI Research Leadership: Publications, Patents, and Talent
 
+Figure 4.1 assembles the standard indicators of AI capability, and the first thing it shows is that they disagree with one another. Publication counts, patent filings, private investment, and top-tier talent each produce a different ranking, which is why any confident claim about who is 'ahead' in artificial intelligence is usually a claim about which indicator the speaker has chosen.
+
 <figure class="book-figure">
   <img src="../figures/fig_04_01_ai_development.png" alt="AI research output and impact by country, showing publications, citations, and talent distribution.">
   <figcaption>Figure 4.1: AI research output and impact by country, showing publications, citations, and talent distribution.</figcaption>
@@ -348,6 +350,8 @@ The biosecurity risks of this competition run in several directions at once: red
 ### R&D Spending and the Race for Investment
 
 Research and development investment determines long-term technological leadership, yet measuring and comparing R&D spending across countries involves definitional challenges, data quality concerns, and questions about efficiency versus quantity. Nevertheless, broad patterns reveal intensifying competition where Chinese R&D investment rivals or exceeds American levels while questions persist about which system generates more innovation per dollar invested.
+
+Figure 4.2 plots these totals on the purchasing-power basis, where the convergence is genuine and the crossing point is near. On market exchange rates the same two series remain roughly a factor of two apart, and the gap between those two readings — not any dispute about the underlying data — is what most disagreements about Chinese research spending actually turn on.
 
 <figure class="book-figure">
   <img src="../figures/fig_04_02_rd_spending.png" alt="R&D spending by country from 1990-2024, showing the dramatic rise of Chinese investment.">
