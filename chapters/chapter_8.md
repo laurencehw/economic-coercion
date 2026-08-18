@@ -870,52 +870,50 @@ The legislation demonstrates U.S. willingness to accept economic costs (delayed 
 ---
 
 ## References
+American Enterprise Institute, "China Global Investment Tracker," https://www.aei.org/china-global-investment-tracker/
 
-1. U.S. Department of the Treasury, "Annual Report to Congress on CFIUS, Calendar Year 2024" (published August 2025), https://home.treasury.gov/policy-issues/international/cfius-reports-and-tables
+Australian Bureau of Statistics, "International Trade in Goods and Services," various releases 2020-2024.
 
-2. Rhodium Group, "Two-Way Street: 2024 Update on US-China Investment Trends," Thilo Hanemann, Daniel H. Rosen, et al., May 2024.
+BIOSECURE Act, Section 851 of the National Defense Authorization Act for Fiscal Year 2026, Public Law 119-60 (December 18, 2025); originally H.R. 8333, 118th Congress (2024).
 
-3. U.S. Congress, Foreign Investment Risk Review Modernization Act of 2018 (FIRRMA), Public Law 115-232.
+Bloomberg News. 2024. "China Creates $47.5 Billion Chip Fund, Biggest to Date." Bloomberg, May 27.
 
-4. U.S. Congress, CHIPS and Science Act of 2022, Public Law 117-167.
+Center for Strategic and International Studies. 2023. *China Chip Fund Tracker: Mapping Chinese Semiconductor State Investment.* CSIS.
 
-5. U.S. Department of Commerce, CHIPS Program Office award announcements: Intel (March 2024), TSMC Arizona (April 2024), GlobalFoundries (February 2024), Micron (April 2024), and Samsung Texas (December 2024).
+Congressional Budget Office. Cost estimates and budgetary analyses of the CHIPS and Science Act, Inflation Reduction Act, and Infrastructure Investment and Jobs Act. 2022–2023.
 
-6. The White House, "Fact Sheet: President Donald J. Trump Secures Historic $100 Billion U.S. Investment from TSMC" (March 3, 2025).
+European Commission. 2025. "Report from the Commission to the European Parliament and the Council: Tenth annual report on the screening of foreign direct investments into the Union (2024)." COM(2025) 330 final.
 
-7. BIOSECURE Act, Section 851 of the National Defense Authorization Act for Fiscal Year 2026, Public Law 119-60 (December 18, 2025); originally H.R. 8333, 118th Congress (2024).
+Intel Corporation. Form 10-K for Fiscal Year 2025 (U.S. Securities and Exchange Commission), describing the U.S. government's approximately 10% equity investment (August 2025).
 
-8. Australian Bureau of Statistics, "International Trade in Goods and Services," various releases 2020-2024.
+International Energy Agency. *Solar PV Global Supply Chains* (2022) and *Global EV Outlook 2025*.
 
-9. State Council of the People's Republic of China, "Made in China 2025," 2015.
+Miller, Chris. 2022. *Chip War: The Fight for the World's Most Critical Technology.* New York: Scribner.
 
-10. Miller, Chris. *Chip War: The Fight for the World's Most Critical Technology.* New York: Scribner, 2022.
+National Association of Realtors. 2017. *International Transactions in U.S. Residential Real Estate*, annual reports. The $31.7 billion Chinese purchase peak is reported for the year ending March.
 
-11. European Commission, "Report from the Commission to the European Parliament and the Council: Tenth annual report on the screening of foreign direct investments into the Union (2024)," COM(2025) 330 final (June 2025).
+One Big Beautiful Bill Act of 2025, Public Law 119-21 (July 4, 2025).
 
-12. American Enterprise Institute, "China Global Investment Tracker," https://www.aei.org/china-global-investment-tracker/
+Protecting Americans from Foreign Adversary Controlled Applications Act, Division H of the 21st Century Peace through Strength Act, Public Law 118-50 (April 24, 2024); *TikTok Inc. v. Garland*, 604 U.S. ___ (2025) (per curiam).
 
-13. Rasser, Martijn, et al. "The CHIPS and Science Act: Here Comes the Hardest Part." Center for Strategic and International Studies, August 2022.
+Rasser, Martijn, et al. 2022. "The CHIPS and Science Act: Here Comes the Hardest Part." Center for Strategic and International Studies, August.
 
-14. Center for Strategic and International Studies. *China Chip Fund Tracker: Mapping Chinese Semiconductor State Investment.* CSIS, 2023.
+Rhodium Group. 2024. "Two-Way Street: 2024 Update on US-China Investment Trends." Thilo Hanemann, Daniel H. Rosen, et al.
 
-15. Bloomberg News. "China Creates $47.5 Billion Chip Fund, Biggest to Date." Bloomberg, May 27, 2024.
+State Council of the People's Republic of China. 2015. "Made in China 2025."
 
-16. Congressional Budget Office. Cost estimates and budgetary analyses of the CHIPS and Science Act, Inflation Reduction Act, and Infrastructure Investment and Jobs Act. 2022–2023.
+U.S. Congress, CHIPS and Science Act of 2022, Public Law 117-167.
 
-17. Protecting Americans from Foreign Adversary Controlled Applications Act, Division H of the 21st Century Peace through Strength Act, Public Law 118-50 (April 24, 2024); *TikTok Inc. v. Garland*, 604 U.S. ___ (2025) (per curiam).
+U.S. Congress, Foreign Investment Risk Review Modernization Act of 2018 (FIRRMA), Public Law 115-232.
 
-18. National Association of Realtors. *International Transactions in U.S. Residential Real Estate*, annual reports. The $31.7 billion Chinese purchase peak is reported for the year ending March 2017.
+U.S. Department of Commerce, CHIPS Program Office award announcements: Intel (March 2024), TSMC Arizona (April 2024), GlobalFoundries (February 2024), Micron (April 2024), and Samsung Texas (December 2024).
 
-19. One Big Beautiful Bill Act of 2025, Public Law 119-21 (July 4, 2025).
+U.S. Department of Defense. "Section 1260H List of Chinese Military Companies," updated June 8, 2026 (adding WuXi AppTec Co., Ltd.).
 
-20. The White House. "A Plan for Establishing a United States Sovereign Wealth Fund." Executive Order, February 3, 2025.
+U.S. Department of the Treasury. 2025. "Annual Report to Congress on CFIUS, Calendar Year 2024". https://home.treasury.gov/policy-issues/international/cfius-reports-and-tables
 
-21. Intel Corporation. Form 10-K for Fiscal Year 2025 (U.S. Securities and Exchange Commission), describing the U.S. government's approximately 10% equity investment (August 2025).
+The White House. 2025. "A Plan for Establishing a United States Sovereign Wealth Fund." Executive Order, February 3.
 
-22. U.S. Department of Defense. "Section 1260H List of Chinese Military Companies," updated June 8, 2026 (adding WuXi AppTec Co., Ltd.).
-
-23. International Energy Agency. *Solar PV Global Supply Chains* (2022) and *Global EV Outlook 2025*.
+The White House. 2025. "Fact Sheet: President Donald J. Trump Secures Historic $100 Billion U.S. Investment from TSMC."
 
 ---
-

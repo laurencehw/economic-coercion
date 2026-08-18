@@ -753,56 +753,56 @@ The case demonstrates how technology export controls serve strategic competition
 
 ## References and Further Reading
 
-Allen, Gregory C. "Choking Off China's Access to the Future of AI." Center for Strategic and International Studies, October 2022.
+Allen, Gregory C. 2022. "Choking Off China's Access to the Future of AI." Center for Strategic and International Studies, October.
 
-Allen, Gregory C., and Emily S. Weinstein. "Huawei's Mate 60 Pro: China's Semiconductor Breakthrough." CSIS Commentary, September 2023.
+Allen, Gregory C., and Emily S. Weinstein. 2023. "Huawei's Mate 60 Pro: China's Semiconductor Breakthrough." CSIS Commentary, September.
 
-Khan, Saif M., Alexander Mann, and Dahlia Peterson. "The Semiconductor Supply Chain: Assessing National Competitiveness." Center for Security and Emerging Technology, January 2021.
+Khan, Saif M., Alexander Mann, and Dahlia Peterson. 2021. "The Semiconductor Supply Chain: Assessing National Competitiveness." Center for Security and Emerging Technology, January.
 
-Miller, Chris. *Chip War: The Fight for the World's Most Critical Technology*. Scribner, 2022.
+Miller, Chris. 2022. *Chip War: The Fight for the World's Most Critical Technology*. Scribner.
 
-Rasser, Martijn, et al. "The CHIPS and Science Act: Here Comes the Hardest Part." Center for Strategic and International Studies, August 2022.
+Rasser, Martijn, et al. 2022. "The CHIPS and Science Act: Here Comes the Hardest Part." Center for Strategic and International Studies, August.
 
-SIA (Semiconductor Industry Association). "2023 State of the U.S. Semiconductor Industry." June 2023.
+SIA (Semiconductor Industry Association). 2023. "2023 State of the U.S. Semiconductor Industry." June.
 
-Sullivan, Jake. "Remarks by National Security Advisor Jake Sullivan at the Special Competitive Studies Project Global Emerging Technologies Summit." White House, September 16, 2022.
+Sullivan, Jake. 2022. "Remarks by National Security Advisor Jake Sullivan at the Special Competitive Studies Project Global Emerging Technologies Summit." White House, September 16.
 
-Triolo, Paul. "A New Era for the Chinese Semiconductor Industry: Beijing Responds to Export Controls." *American Affairs* 8, no. 1 (Spring 2024).
+Triolo, Paul. 2024. "A New Era for the Chinese Semiconductor Industry: Beijing Responds to Export Controls." *American Affairs* 8, no. 1.
 
-U.S. Department of Commerce, Bureau of Industry and Security. "2022 Export Controls: Taking the Long View." October 2022.
+U.S. Department of Commerce, Bureau of Industry and Security. 2022. "2022 Export Controls: Taking the Long View." October.
 
-Fuller, Douglas B. *Paper Tigers, Hidden Dragons: Firms and the Political Economy of China's Technological Development*. Oxford University Press, 2016.
+Fuller, Douglas B. 2016. *Paper Tigers, Hidden Dragons: Firms and the Political Economy of China's Technological Development*. Oxford University Press.
 
-Center for Strategic and International Studies. *China Chip Fund Tracker: Mapping Chinese Semiconductor State Investment*. CSIS, 2023.
+Center for Strategic and International Studies. 2023. *China Chip Fund Tracker: Mapping Chinese Semiconductor State Investment*. CSIS.
 
-Caixin. "China Piles $47.5 Billion Into 'Big Fund III' to Boost Chip Development." *Caixin Global*, May 28, 2024.
+Caixin. 2024. "China Piles $47.5 Billion Into 'Big Fund III' to Boost Chip Development." *Caixin Global*, May 28.
 
 CNN Business. "Nvidia Says It Will Restart Sales of a Key AI Chip to China, in a Reversal of US Restrictions" (July 15, 2025) and "China's DeepSeek Shook the Tech World. Its Developer Just Revealed the Cost of Training the AI Model" (September 19, 2025). CNN.
 
-Google Quantum AI and Collaborators. "Quantum Error Correction Below the Surface Code Threshold." *Nature* (2024). See also "Meet Willow, Our State-of-the-Art Quantum Chip," Google, December 9, 2024.
+Google Quantum AI and Collaborators. "Quantum Error Correction Below the Surface Code Threshold." *Nature*. 2024. See also "Meet Willow, Our State-of-the-Art Quantum Chip." Google, December 9, 2024.
 
-Mozur, Paul. "One Month, 500,000 Face Scans: How China Is Using A.I. to Profile a Minority." *New York Times*, April 14, 2019.
+Mozur, Paul. 2019. "One Month, 500,000 Face Scans: How China Is Using A.I. to Profile a Minority." *New York Times*, April 14.
 
-National Bureau of Statistics of China. "Communiqué on National Expenditures on Science and Technology in 2024." Beijing, 2025.
+National Bureau of Statistics of China. 2025. "Communiqué on National Expenditures on Science and Technology in 2024." Beijing.
 
-National Science Board, National Science Foundation. *Science and Engineering Indicators 2024*. Alexandria, VA: National Science Foundation, 2024. https://ncses.nsf.gov/indicators.
+National Science Board, National Science Foundation. 2024. *Science and Engineering Indicators 2024*. Alexandria, VA: National Science Foundation. https://ncses.nsf.gov/indicators.
 
 NVIDIA Corporation. Form 10-K, Fiscal Year Ended January 28, 2024. U.S. Securities and Exchange Commission, 2024.
 
 NVIDIA Corporation. Form 10-Q, Fiscal Quarter Ended April 27, 2025 (Q1 FY2026). U.S. Securities and Exchange Commission, 2025.
 
-Reuters. "US Tightens Curbs on AI Chip Exports to China." Reuters, October 17, 2023.
+Reuters. 2023. "US Tightens Curbs on AI Chip Exports to China." Reuters, October 17.
 
 SemiAnalysis (Dylan Patel et al.). Analyses of SMIC 7nm Yields and Chinese Semiconductor Manufacturing. SemiAnalysis, 2023.
 
-SemiAnalysis. "DeepSeek Debates: Chinese Leadership on Cost, True Training Cost, Closed Model Margin Impacts." SemiAnalysis, 2025.
+SemiAnalysis. 2025. "DeepSeek Debates: Chinese Leadership on Cost, True Training Cost, Closed Model Margin Impacts." SemiAnalysis.
 
-Shane, Scott, and Daisuke Wakabayashi. "'The Business of War': Google Employees Protest Work for the Pentagon." *New York Times*, April 4, 2018.
+Shane, Scott, and Daisuke Wakabayashi. 2018. "'The Business of War': Google Employees Protest Work for the Pentagon." *New York Times*, April 4.
 
-SpaceNews. "SpaceX, China Drive New Record for Orbital Launches in 2025." *SpaceNews*, 2025.
+SpaceNews. 2025. "SpaceX, China Drive New Record for Orbital Launches in 2025." *SpaceNews*.
 
 TechInsights. Semiconductor Device Teardowns and Market-Share Analyses (including TSMC advanced-node share and SMIC/Huawei chip analyses). TechInsights, 2023–2024.
 
-TrendForce. "Global EDA Market Share, 2024" (Synopsys, Cadence, Siemens EDA). TrendForce, 2024.
+TrendForce. 2024. "Global EDA Market Share, 2024" (Synopsys, Cadence, Siemens EDA). TrendForce.
 
 

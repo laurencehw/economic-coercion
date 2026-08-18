@@ -444,33 +444,33 @@ The underlying challenge is that both the United States and China view resource 
 
 ### Books
 
-Klare, Michael T. *Resource Wars: The New Landscape of Global Conflict*. New York: Metropolitan Books, 2001.
+Klare, Michael T. 2001. *Resource Wars: The New Landscape of Global Conflict*. New York: Metropolitan Books.
 
-Yergin, Daniel. *The New Map: Energy, Climate, and the Clash of Nations*. New York: Penguin Press, 2020.
+Yergin, Daniel. 2020. *The New Map: Energy, Climate, and the Clash of Nations*. New York: Penguin Press.
 
-Copeland, Dale C. *Economic Interdependence and War*. Princeton: Princeton University Press, 2015.
+Copeland, Dale C. 2015. *Economic Interdependence and War*. Princeton: Princeton University Press.
 
-Drezner, Daniel W., Henry Farrell, and Abraham L. Newman, eds. *The Uses and Abuses of Weaponized Interdependence*. Washington: Brookings Institution Press, 2021.
+Drezner, Daniel W., Henry Farrell, and Abraham L. Newman, eds. 2021. *The Uses and Abuses of Weaponized Interdependence*. Washington: Brookings Institution Press.
 
-Blas, Javier, and Jack Farchy. *The World for Sale: Money, Power, and the Traders Who Barter the Earth's Resources*. New York: Oxford University Press, 2021.
+Blas, Javier, and Jack Farchy. 2021. *The World for Sale: Money, Power, and the Traders Who Barter the Earth's Resources*. New York: Oxford University Press.
 
-Smil, Vaclav. *Enriching the Earth: Fritz Haber, Carl Bosch, and the Transformation of World Food Production*. Cambridge, MA: MIT Press, 2001.
+Smil, Vaclav. 2001. *Enriching the Earth: Fritz Haber, Carl Bosch, and the Transformation of World Food Production*. Cambridge, MA: MIT Press.
 
-Szabo, Stephen F. *Germany, Russia, and the Rise of Geo-Economics*. London: Bloomsbury Academic, 2015.
+Szabo, Stephen F. 2015. *Germany, Russia, and the Rise of Geo-Economics*. London: Bloomsbury Academic.
 
-Vincent, C. Paul. *The Politics of Hunger: The Allied Blockade of Germany, 1915–1919*. Athens, OH: Ohio University Press, 1985.
+Vincent, C. Paul. 1985. *The Politics of Hunger: The Allied Blockade of Germany, 1915–1919*. Athens, OH: Ohio University Press.
 
 ### Articles and Reports
 
-International Energy Agency. *The Role of Critical Minerals in Clean Energy Transitions*. Paris: IEA, 2021.
+International Energy Agency. 2021. *The Role of Critical Minerals in Clean Energy Transitions*. Paris: IEA.
 
-Overland, Indra, et al. "The Geopolitics of Renewable Energy: Debunking Four Emerging Myths." *Energy Research & Social Science* 49 (2019): 36-40.
+Overland, Indra, et al. 2019. "The Geopolitics of Renewable Energy: Debunking Four Emerging Myths." *Energy Research & Social Science* 49: 36-40.
 
-Bazilian, Morgan D. "The Mineral Foundation of the Energy Transition." *The Extractive Industries and Society* 5, no. 1 (2018): 93-97.
+Bazilian, Morgan D. 2018. "The Mineral Foundation of the Energy Transition." *The Extractive Industries and Society* 5, no. 1: 93-97.
 
-Escribano, Gonzalo, et al. "Energy Dependency, Geopolitics, and Foreign Policy: The EU-Russia Natural Gas Trade." *Energy Research & Social Science* 68 (2020): 101528.
+Escribano, Gonzalo, et al. 2020. "Energy Dependency, Geopolitics, and Foreign Policy: The EU-Russia Natural Gas Trade." *Energy Research & Social Science* 68: 101528.
 
-Bellemare, Marc F. "Rising Food Prices, Food Price Volatility, and Social Unrest." *American Journal of Agricultural Economics* 97, no. 1 (2015): 1–21.
+Bellemare, Marc F. 2015. "Rising Food Prices, Food Price Volatility, and Social Unrest." *American Journal of Agricultural Economics* 97, no. 1: 1–21.
 
 Organization of the Petroleum Exporting Countries (OPEC). *Annual Statistical Bulletin*. Various years.
 
@@ -478,19 +478,19 @@ U.S. Energy Information Administration (EIA). "World Oil Transit Chokepoints" an
 
 Bachmann, Rüdiger, David Baqaee, Christian Bayer, Moritz Kuhn, Andreas Löschel, Benjamin Moll, Andreas Peichl, Karen Pittel, and Moritz Schularick. "What if? The Economic Effects for Germany of a Stop of Energy Imports from Russia." ECONtribute Policy Brief No. 028, 2022. (Revised version published in *Economica*, 2024.)
 
-Brinkman, Henk-Jan, and Cullen S. Hendrix. *Food Insecurity and Violent Conflict: Causes, Consequences, and Addressing the Challenges*. WFP Occasional Paper No. 24. Rome: World Food Programme, 2011.
+Brinkman, Henk-Jan, and Cullen S. Hendrix. 2011. *Food Insecurity and Violent Conflict: Causes, Consequences, and Addressing the Challenges*. WFP Occasional Paper No. 24. Rome: World Food Programme.
 
-Headey, Derek, and Shenggen Fan. "Anatomy of a Crisis: The Causes and Consequences of Surging Food Prices." *Agricultural Economics* 39, s1 (2008): 375–391.
+Headey, Derek, and Shenggen Fan. 2008. "Anatomy of a Crisis: The Causes and Consequences of Surging Food Prices." *Agricultural Economics* 39, s1: 375–391.
 
-Hendrix, Cullen S., and Stephan Haggard. "Global Food Prices, Regime Type, and Urban Unrest in the Developing World." *Journal of Peace Research* 52, no. 2 (2015): 143–157.
+Hendrix, Cullen S., and Stephan Haggard. 2015. "Global Food Prices, Regime Type, and Urban Unrest in the Developing World." *Journal of Peace Research* 52, no. 2: 143–157.
 
-Center for Strategic and International Studies (CSIS). "Rare Earth Export Restrictions One Year Later." Washington, DC: CSIS, 2025.
+Center for Strategic and International Studies (CSIS). 2025. "Rare Earth Export Restrictions One Year Later." Washington, DC: CSIS.
 
-*Ahram Online*. "Egypt's Suez Canal Revenues Fall by over 60% in 2024 due to Red Sea Tensions." 2025.
+*Ahram Online*. 2025. "Egypt's Suez Canal Revenues Fall by over 60% in 2024 due to Red Sea Tensions."
 
-Al Jazeera. "Ethiopia Inaugurates GERD Dam amid Downstream Tensions with Egypt, Sudan." September 9, 2025.
+Al Jazeera. 2025. "Ethiopia Inaugurates GERD Dam amid Downstream Tensions with Egypt, Sudan." September 9.
 
-Reuters. "Russian Gas Exports via Ukraine Stop as Transit Deal Expires." January 1, 2025.
+Reuters. 2025. "Russian Gas Exports via Ukraine Stop as Transit Deal Expires." January 1.
 
 ---
 

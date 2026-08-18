@@ -568,60 +568,60 @@ For practitioners new to information domain competition, recommended reading seq
 
 ## References and Further Reading
 
-Bauer, Matthias, Hosuk Lee-Makiyama, Erik van der Marel, and Bert Verschelde. "The Costs of Data Localisation: Friendly Fire on Economic Recovery." ECIPE Occasional Paper No. 3/2014. European Centre for International Political Economy, 2014.
+Bauer, Matthias, Hosuk Lee-Makiyama, Erik van der Marel, and Bert Verschelde. 2014. "The Costs of Data Localisation: Friendly Fire on Economic Recovery." ECIPE Occasional Paper No. 3/2014. European Centre for International Political Economy.
 
-Buchanan, Ben. *The Cybersecurity Dilemma: Hacking, Trust, and Fear Between Nations*. Oxford University Press, 2017.
+Buchanan, Ben. 2017. *The Cybersecurity Dilemma: Hacking, Trust, and Fear Between Nations*. Oxford University Press.
 
-CISA. "People's Republic of China State-Sponsored Cyber Actor Living Off the Land to Evade Detection." Cybersecurity Advisory AA23-144A. May 24, 2023.
+CISA. 2023. "People's Republic of China State-Sponsored Cyber Actor Living Off the Land to Evade Detection." Cybersecurity Advisory AA23-144A. May 24.
 
-CISA, FBI, and NSA. "Enhanced Visibility and Hardening Guidance for Communications Infrastructure." Joint Guidance (with international partners). December 3, 2024.
+CISA, FBI, and NSA. 2024. "Enhanced Visibility and Hardening Guidance for Communications Infrastructure." Joint Guidance (with international partners). December 3.
 
-Creemers, Rogier. "China's Emerging Data Protection Framework." *Journal of Cybersecurity* 8, no. 1 (2022): tyac011.
+Creemers, Rogier. 2022. "China's Emerging Data Protection Framework." *Journal of Cybersecurity* 8, no. 1: tyac011.
 
-Deibert, Ronald J. *Reset: Reclaiming the Internet for Civil Society*. House of Anansi Press, 2020.
+Deibert, Ronald J. 2020. *Reset: Reclaiming the Internet for Civil Society*. House of Anansi Press.
 
-Dell'Oro Group. "Total Telecom Equipment Market 2020: Key Takeaways." Dell'Oro Group, March 2021.
+Dell'Oro Group. 2021. "Total Telecom Equipment Market 2020: Key Takeaways." Dell'Oro Group, March.
 
-Gady, Franz-Stefan, and Ven Bruusgaard, Kristin, editors. *The Cyber Operations Handbook*. Oxford University Press, 2024.
+Gady, Franz-Stefan, and Ven Bruusgaard, Kristin, editors. 2024. *The Cyber Operations Handbook*. Oxford University Press.
 
-Gartzke, Erik, and Jon R. Lindsay. "Thermonuclear Cyberwar." *Journal of Cybersecurity* 3, no. 1 (2017): 37-48.
+Gartzke, Erik, and Jon R. Lindsay. 2017. "Thermonuclear Cyberwar." *Journal of Cybersecurity* 3, no. 1: 37-48.
 
-Goldsmith, Jack, and Tim Wu. *Who Controls the Internet? Illusions of a Borderless World*. Oxford University Press, 2006.
+Goldsmith, Jack, and Tim Wu. 2006. *Who Controls the Internet? Illusions of a Borderless World*. Oxford University Press.
 
-IPlytics (LexisNexis). *Who Is Leading the 5G Patent Race? A Patent Landscape Analysis of Declared 5G Standard-Essential Patents and Standards Contributions, 2023*. LexisNexis IPlytics, 2023.
+IPlytics (LexisNexis). 2023. *Who Is Leading the 5G Patent Race? A Patent Landscape Analysis of Declared 5G Standard-Essential Patents and Standards Contributions, 2023*. LexisNexis IPlytics.
 
-Lee, Kai-Fu. *AI Superpowers: China, Silicon Valley, and the New World Order*. Houghton Mifflin Harcourt, 2018.
+Lee, Kai-Fu. 2018. *AI Superpowers: China, Silicon Valley, and the New World Order*. Houghton Mifflin Harcourt.
 
-Lindsay, Jon R., and Erik Gartzke, editors. *Cross-Domain Deterrence: Strategy in an Era of Complexity*. Oxford University Press, 2019.
+Lindsay, Jon R., and Erik Gartzke, editors. 2019. *Cross-Domain Deterrence: Strategy in an Era of Complexity*. Oxford University Press.
 
-Mandiant Intelligence. "APT1: Exposing One of China's Cyber Espionage Units." February 2013.
+Mandiant Intelligence. 2013. "APT1: Exposing One of China's Cyber Espionage Units." February.
 
-Maurer, Tim. *Cyber Mercenaries: The State, Hackers, and Power*. Cambridge University Press, 2018.
+Maurer, Tim. 2018. *Cyber Mercenaries: The State, Hackers, and Power*. Cambridge University Press.
 
-Mueller, Milton L. *Will the Internet Fragment? Sovereignty, Globalization and Cyberspace*. Polity, 2017.
+Mueller, Milton L. 2017. *Will the Internet Fragment? Sovereignty, Globalization and Cyberspace*. Polity.
 
-Rhodium Group. *The US-China Investment Project* (data and analysis on two-way FDI flows). Rhodium Group and National Committee on U.S.-China Relations, 2024.
+Rhodium Group. 2024. *The US-China Investment Project* (data and analysis on two-way FDI flows). Rhodium Group and National Committee on U.S.-China Relations.
 
-Rid, Thomas. *Active Measures: The Secret History of Disinformation and Political Warfare*. Farrar, Straus and Giroux, 2020.
+Rid, Thomas. 2020. *Active Measures: The Secret History of Disinformation and Political Warfare*. Farrar, Straus and Giroux.
 
-Segal, Adam. *The Hacked World Order: How Nations Fight, Trade, Maneuver, and Manipulate in the Digital Age*. PublicAffairs, 2016.
+Segal, Adam. 2016. *The Hacked World Order: How Nations Fight, Trade, Maneuver, and Manipulate in the Digital Age*. PublicAffairs.
 
-Schneier, Bruce. *Data and Goliath: The Hidden Battles to Collect Your Data and Control Your World*. W.W. Norton, 2015.
+Schneier, Bruce. 2015. *Data and Goliath: The Hidden Battles to Collect Your Data and Control Your World*. W.W. Norton.
 
-TikTok. "Celebrating Our Thriving Community of 150 Million Americans." TikTok Newsroom, March 21, 2023. https://newsroom.tiktok.com/en-us/150-m-us-users.
+TikTok. 2023. "Celebrating Our Thriving Community of 150 Million Americans." TikTok Newsroom, March 21. https://newsroom.tiktok.com/en-us/150-m-us-users.
 
-U.S. Bureau of Economic Analysis (BEA). "New Foreign Direct Investment in the United States, 2024." U.S. Department of Commerce, 2025.
+U.S. Bureau of Economic Analysis (BEA). 2025. "New Foreign Direct Investment in the United States, 2024." U.S. Department of Commerce.
 
-U.S. Department of Justice. "Seven International Cyber Defendants, Including 'Apt41' Actors, Charged In Connection With Computer Intrusion Campaigns Against More Than 100 Victims Globally." September 16, 2020.
+U.S. Department of Justice. 2020. "Seven International Cyber Defendants, Including 'Apt41' Actors, Charged In Connection With Computer Intrusion Campaigns Against More Than 100 Victims Globally." September 16.
 
-U.S. Department of the Treasury. "Committee on Foreign Investment in the United States (CFIUS)." Program information, guidance, and annual reports to Congress. Washington, DC: U.S. Department of the Treasury, 2026. https://home.treasury.gov/policy-issues/international/the-committee-on-foreign-investment-in-the-united-states-cfius.
+U.S. Department of the Treasury. 2026. "Committee on Foreign Investment in the United States (CFIUS)." Program information, guidance, and annual reports to Congress. Washington, DC: U.S. Department of the Treasury. https://home.treasury.gov/policy-issues/international/the-committee-on-foreign-investment-in-the-united-states-cfius.
 
-U.S.-China Economic and Security Review Commission. *2023 Annual Report to Congress*. November 2023.
+U.S.-China Economic and Security Review Commission. 2023. *2023 Annual Report to Congress*. November.
 
-White House. "Saving TikTok While Protecting National Security." Executive Order and accompanying Fact Sheet, September 25, 2025 (published in the *Federal Register*, September 30, 2025).
+White House. 2025. "Saving TikTok While Protecting National Security." Executive Order and accompanying Fact Sheet, September 25, 2025.
 
-Weber, Steven, and Teri Takai, editors. *Technology and National Security*. MIT Press, 2023.
+Weber, Steven, and Teri Takai, editors. 2023. *Technology and National Security*. MIT Press.
 
-Zittrain, Jonathan. *The Future of the Internet—And How to Stop It*. Yale University Press, 2008.       
+Zittrain, Jonathan. 2008. *The Future of the Internet—And How to Stop It*. Yale University Press.
 
 ---

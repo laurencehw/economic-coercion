@@ -890,43 +890,43 @@ Understanding economic coercion requires access to reliable data on sanctions, t
 
 ### Foundational Texts
 
-- Baldwin, David A. (2020). *Economic Statecraft: New Edition*. Princeton University Press. [Classic text on economic instruments of foreign policy]
-- Farrell, Henry and Abraham L. Newman (2019). "Weaponized Interdependence: How Global Economic Networks Shape State Coercion." *International Security* 44:1, 42-79. [Seminal article on chokepoint effects]
-- Drezner, Daniel W., Henry Farrell, and Abraham L. Newman, eds. (2021). *The Uses and Abuses of Weaponized Interdependence*. Brookings Institution Press. [Edited volume extending and testing the network-coercion framework]
+- Baldwin, David A. 2020. *Economic Statecraft: New Edition*. Princeton University Press. [Classic text on economic instruments of foreign policy]
+- Farrell, Henry and Abraham L. Newman. 2019. "Weaponized Interdependence: How Global Economic Networks Shape State Coercion." *International Security* 44:1, 42-79. [Seminal article on chokepoint effects]
+- Drezner, Daniel W., Henry Farrell, and Abraham L. Newman, eds. 2021. *The Uses and Abuses of Weaponized Interdependence*. Brookings Institution Press. [Edited volume extending and testing the network-coercion framework]
 
 ### US-China Competition
 
-- Blackwill, Robert D. and Jennifer M. Harris (2016). *War by Other Means: Geoeconomics and Statecraft*. Harvard University Press. [Strategic framework for economic competition]
-- Economy, Elizabeth C. (2018). *The Third Revolution: Xi Jinping and the New Chinese State*. Oxford University Press. [Chinese domestic politics and foreign policy]
-- Brands, Hal and Michael Beckley (2022). *Danger Zone: The Coming Conflict with China*. PublicAffairs. [Arguments for intensifying competition]
+- Blackwill, Robert D. and Jennifer M. Harris. 2016. *War by Other Means: Geoeconomics and Statecraft*. Harvard University Press. [Strategic framework for economic competition]
+- Economy, Elizabeth C. 2018. *The Third Revolution: Xi Jinping and the New Chinese State*. Oxford University Press. [Chinese domestic politics and foreign policy]
+- Brands, Hal and Michael Beckley. 2022. *Danger Zone: The Coming Conflict with China*. PublicAffairs. [Arguments for intensifying competition]
 
 ### Sanctions and Financial Statecraft
 
-- Zarate, Juan C. (2013). *Treasury's War: The Unleashing of a New Era of Financial Warfare*. PublicAffairs. [Insider account of financial sanctions development]
-- Nephew, Richard (2017). *The Art of Sanctions: A View from the Field*. Columbia University Press. [Practitioner guide to sanctions design]
-- Mulder, Nicholas (2022). *The Economic Weapon: The Rise of Sanctions as a Tool of Modern War*. Yale University Press. [Historical analysis from WWI to present]
+- Zarate, Juan C. 2013. *Treasury's War: The Unleashing of a New Era of Financial Warfare*. PublicAffairs. [Insider account of financial sanctions development]
+- Nephew, Richard. 2017. *The Art of Sanctions: A View from the Field*. Columbia University Press. [Practitioner guide to sanctions design]
+- Mulder, Nicholas. 2022. *The Economic Weapon: The Rise of Sanctions as a Tool of Modern War*. Yale University Press. [Historical analysis from WWI to present]
 
 ### Technology and Supply Chains
 
-- Miller, Chris (2022). *Chip War: The Fight for the World's Most Critical Technology*. Scribner. [Semiconductor geopolitics and U.S.-China competition]
-- Farrell, Henry and Abraham L. Newman (2023). *Underground Empire: How America Weaponized the World Economy*. Henry Holt. [Technology infrastructure and financial networks]
-- Hillman, Jonathan E. (2021). *The Digital Silk Road: China's Quest to Wire the World and Win the Future*. Harper Business. [CSIS Reconnecting Asia scholar on China's digital-infrastructure export strategy]
+- Miller, Chris. 2022. *Chip War: The Fight for the World's Most Critical Technology*. Scribner. [Semiconductor geopolitics and U.S.-China competition]
+- Farrell, Henry and Abraham L. Newman. 2023. *Underground Empire: How America Weaponized the World Economy*. Henry Holt. [Technology infrastructure and financial networks]
+- Hillman, Jonathan E. 2021. *The Digital Silk Road: China's Quest to Wire the World and Win the Future*. Harper Business. [CSIS Reconnecting Asia scholar on China's digital-infrastructure export strategy]
 
 ### Chinese Perspectives (English translations and analyses)
 
-- Yan Xuetong (2019). *Leadership and the Rise of Great Powers*. Princeton University Press. [Leading Chinese IR scholar on great power competition]
-- Wang, Jisi (2011). "China's Search for a Grand Strategy." *Foreign Affairs*. [Influential Chinese scholar on strategy]
-- Rush Doshi (2021). *The Long Game: China's Grand Strategy to Displace American Order*. Oxford University Press. [Analysis of Chinese strategic documents and thinking]
+- Yan Xuetong. 2019. *Leadership and the Rise of Great Powers*. Princeton University Press. [Leading Chinese IR scholar on great power competition]
+- Wang, Jisi. 2011. "China's Search for a Grand Strategy." *Foreign Affairs*. [Influential Chinese scholar on strategy]
+- Rush Doshi. 2021. *The Long Game: China's Grand Strategy to Displace American Order*. Oxford University Press. [Analysis of Chinese strategic documents and thinking]
 
 ### Economic History and Theory
 
-- Hirschman, Albert O. (1945). *National Power and the Structure of Foreign Trade*. University of California Press. [Origin of the "influence effect": power from asymmetric trade-dependence]
-- Wilse-Samson, Laurence H. (2013). "Structural Change and Democratization: Evidence from Rural Apartheid." Working paper, Columbia University. [Labor-supply shocks, factor scarcity, and shifting political coalitions under apartheid—the coalitional margin in a non-sanctions setting]
+- Hirschman, Albert O. 1945. *National Power and the Structure of Foreign Trade*. University of California Press. [Origin of the "influence effect": power from asymmetric trade-dependence]
+- Wilse-Samson, Laurence H. 2013. "Structural Change and Democratization: Evidence from Rural Apartheid." Working paper, Columbia University. [Labor-supply shocks, factor scarcity, and shifting political coalitions under apartheid—the coalitional margin in a non-sanctions setting]
 
 ### Case Studies
 
-- Mastanduno, Michael (1992). *Economic Containment: CoCom and the Politics of East-West Trade*. Cornell University Press. [Definitive history of CoCom]
-- Nephew, Richard et al. (2018). *The Iran Nuclear Archive: Impressions and Implications*. Columbia SIPA. [Iran sanctions case study]
-- Bergsten, C. Fred and Joseph Gagnon (2017). *Currency Conflict and Trade Policy: A New Strategy for the United States*. PIIE. [Economic instruments and China]
+- Mastanduno, Michael. 1992. *Economic Containment: CoCom and the Politics of East-West Trade*. Cornell University Press. [Definitive history of CoCom]
+- Nephew, Richard et al. 2018. *The Iran Nuclear Archive: Impressions and Implications*. Columbia SIPA. [Iran sanctions case study]
+- Bergsten, C. Fred and Joseph Gagnon. 2017. *Currency Conflict and Trade Policy: A New Strategy for the United States*. PIIE. [Economic instruments and China]
 
 ---

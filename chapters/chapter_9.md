@@ -625,38 +625,36 @@ Countries increasingly treat skilled migration as a strategic asset in something
 
 [Abbreviated reference list highlighting key sources for major claims]
 
-1. Hufbauer, Gary Clyde, Jeffrey J. Schott, and Kimberly Ann Elliott. *Economic Sanctions Reconsidered.* 3rd edition. Peterson Institute for International Economics, 2007.
+Biersteker, Thomas J., Sue E. Eckert, and Marcos Tourinho, eds. 2016. *Targeted Sanctions: The Impacts and Effectiveness of United Nations Action.* Cambridge University Press.
 
-2. Crawford, Neta C., and Audie Klotz, eds. *How Sanctions Work: Lessons from South Africa.* Macmillan, 1999.
+Crawford, Neta C., and Audie Klotz, eds. 1999. *How Sanctions Work: Lessons from South Africa.* Macmillan.
 
-3. Mastanduno, Michael. *Economic Containment: CoCom and the Politics of East-West Trade.* Cornell University Press, 1992.
+Demarais, Agathe. 2022. *Backfire: How Sanctions Reshape the World Against U.S. Interests.* Columbia University Press.
 
-4. Paarlberg, Robert L. "Lessons of the Grain Embargo." *Foreign Affairs* 59, no. 1 (Fall 1980): 144-162.
+Dyson, Tim, and Valeria Cetorelli. 2017. "Changing Views on Child Mortality and Economic Sanctions in Iraq: A History of Lies, Damned Lies and Statistics." *BMJ Global Health* 2: e000311.
 
-5. Jentleson, Bruce W. *Pipeline Politics: The Complex Political Economy of East-West Energy Trade.* Cornell University Press, 1986.
+Farrell, Henry, and Abraham L. Newman. 2019. "Weaponized Interdependence: How Global Economic Networks Shape State Coercion." *International Security* 44, no. 1: 42-79.
 
-6. Heckscher, Eli F. *The Continental System: An Economic Interpretation.* Clarendon Press, 1922.
+Gordon, Joy. 2010. *Invisible War: The United States and the Iraq Sanctions.* Harvard University Press.
 
-7. Biersteker, Thomas J., Sue E. Eckert, and Marcos Tourinho, eds. *Targeted Sanctions: The Impacts and Effectiveness of United Nations Action.* Cambridge University Press, 2016.
+Heckscher, Eli F. 1922. *The Continental System: An Economic Interpretation.* Clarendon Press.
 
-8. Wübbeke, Jost. "Rare Earth Elements in China: Policies and Narratives of Reinventing an Industry." *Resources Policy* 38, no. 3 (2013): 384-394.
+Hufbauer, Gary Clyde, Jeffrey J. Schott, and Kimberly Ann Elliott. 2007. *Economic Sanctions Reconsidered.* 3rd edition. Peterson Institute for International Economics.
 
-9. Pape, Robert A. "Why Economic Sanctions Do Not Work." *International Security* 22, no. 2 (Fall 1997): 90-136.
+Jentleson, Bruce W. 1986. *Pipeline Politics: The Complex Political Economy of East-West Energy Trade.* Cornell University Press.
 
-10. Farrell, Henry, and Abraham L. Newman. "Weaponized Interdependence: How Global Economic Networks Shape State Coercion." *International Security* 44, no. 1 (Summer 2019): 42-79.
+KSE Institute (Kyiv School of Economics). *Russian Oil Tracker* and price-cap monitoring, produced with the Yermak–McFaul International Working Group on Russian Sanctions. Kyiv, 2023–. https://kse.ua.
 
-11. Gordon, Joy. *Invisible War: The United States and the Iraq Sanctions.* Harvard University Press, 2010.
+Mastanduno, Michael. 1992. *Economic Containment: CoCom and the Politics of East-West Trade.* Cornell University Press.
 
-12. Demarais, Agathe. *Backfire: How Sanctions Reshape the World Against U.S. Interests.* Columbia University Press, 2022.
+Paarlberg, Robert L. 1980. "Lessons of the Grain Embargo." *Foreign Affairs* 59, no. 1: 144-162.
 
-13. Dyson, Tim, and Valeria Cetorelli. "Changing Views on Child Mortality and Economic Sanctions in Iraq: A History of Lies, Damned Lies and Statistics." *BMJ Global Health* 2 (2017): e000311.
+Pape, Robert A. 1997. "Why Economic Sanctions Do Not Work." *International Security* 22, no. 2: 90-136.
 
-14. KSE Institute (Kyiv School of Economics). *Russian Oil Tracker* and price-cap monitoring, produced with the Yermak–McFaul International Working Group on Russian Sanctions. Kyiv, 2023–. https://kse.ua.
+U.S. Department of Agriculture, Economics and Statistics Service. 1981. *USSR Agricultural Situation: Review of 1980 and Outlook for 1981*. World Agricultural Situation Supplement 1 to WAS-24. Washington, DC: USDA, April.
 
-15. U.S. Department of the Treasury, Office of Foreign Assets Control. "Treasury Sanctions Major Russian Oil Companies, Calls on Moscow to Immediately Agree to Ceasefire." Press release, October 22, 2025.
+U.S. Department of the Treasury, Office of Foreign Assets Control. 2025. "Treasury Sanctions Major Russian Oil Companies, Calls on Moscow to Immediately Agree to Ceasefire." Press release, October 22.
 
-16. U.S. Department of Agriculture, Economics and Statistics Service. *USSR Agricultural Situation: Review of 1980 and Outlook for 1981*. World Agricultural Situation Supplement 1 to WAS-24. Washington, DC: USDA, April 1981.
+Wübbeke, Jost. 2013. "Rare Earth Elements in China: Policies and Narratives of Reinventing an Industry." *Resources Policy* 38, no. 3: 384-394.
 
 ---
-
-

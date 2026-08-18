@@ -985,53 +985,53 @@ For official Chinese government positions, the Ministry of Commerce (http://engl
 
 ### Essential Books
 
-**Chris Miller**, *Chip War: The Fight for the World's Most Critical Technology* (Scribner, 2022)
+Miller, Chris. 2022. *Chip War: The Fight for the World's Most Critical Technology*. Scribner.
 - Definitive history of semiconductor industry and geopolitics
 - Essential background for understanding semiconductor export controls and technology competition
 
-**Henry Farrell and Abraham Newman**, *Underground Empire: How America Weaponized the World Economy* (Henry Holt, 2023)
+Farrell, Henry, and Abraham Newman. 2023. *Underground Empire: How America Weaponized the World Economy*. Henry Holt.
 - Theoretical framework for weaponized interdependence
 - Applications to trade, finance, and technology competition
 
-**Paul Blustein**, *Schism: China, America, and the Fracturing of the Global Trading System* (CIGI Press, 2019)
+Blustein, Paul. 2019. *Schism: China, America, and the Fracturing of the Global Trading System*. CIGI Press.
 - Inside account of U.S.-China tensions at WTO
 - Negotiations, disputes, and trading system breakdown
 
-**Chad P. Bown**, *Self-Enforcing Trade: Developing Countries and WTO Dispute Settlement* (Brookings Institution Press, 2009)
+Bown, Chad P. 2009. *Self-Enforcing Trade: Developing Countries and WTO Dispute Settlement*. Brookings Institution Press.
 - WTO dispute resolution mechanics
 - Enforcement challenges and power asymmetries
 
-**Michael Mastanduno**, *Economic Containment: CoCom and the Politics of East-West Trade* (Cornell University Press, 1992)
+Mastanduno, Michael. 1992. *Economic Containment: CoCom and the Politics of East-West Trade*. Cornell University Press.
 - Definitive academic study of CoCom
 - Alliance politics, enforcement, effectiveness assessment
 
-**Douglas A. Irwin**, *Clashing over Commerce: A History of U.S. Trade Policy* (University of Chicago Press, 2017)
+Irwin, Douglas A. 2017. *Clashing over Commerce: A History of U.S. Trade Policy*. University of Chicago Press.
 - Definitive history of U.S. trade policy from the founding to the present
 - Source for the long-run shift in tariffs' role from revenue to protection to strategic competition, including the decline of customs duties as a share of federal revenue after the Civil War
 
 ### Key Academic Articles
 
-Mary E. Lovely and Jeffrey J. Schott, "The US-China Trade War: A Breakdown," *Peterson Institute for International Economics Working Paper* (2019)
+Mary E. Lovely and Jeffrey J. Schott. 2019. "The US-China Trade War: A Breakdown." *Peterson Institute for International Economics Working Paper*.
 
 Pablo D. Fajgelbaum, Pinelopi K. Goldberg, Patrick J. Kennedy, and Amit K. Khandelwal, "The Return to Protectionism," *Quarterly Journal of Economics* 135:1 (2020): 1-55
 
 Mary Amiti, Stephen J. Redding, and David E. Weinstein, "The Impact of the 2018 Tariffs on Prices and Welfare," *Journal of Economic Perspectives* 33:4 (2019): 187-210
 
-Aaron Flaaen and Justin Pierce, "Disentangling the Effects of the 2018-2019 Tariffs on a Globally Connected U.S. Manufacturing Sector," *Federal Reserve Board Finance and Economics Discussion Series* (2019)
+Aaron Flaaen and Justin Pierce. 2019. "Disentangling the Effects of the 2018-2019 Tariffs on a Globally Connected U.S. Manufacturing Sector." *Federal Reserve Board Finance and Economics Discussion Series*.
 
 Emily J. Blanchard, Chad P. Bown, and Robert C. Johnson, "Global Supply Chains and Trade Policy," *NBER Working Paper* 26153 (2019)
 
 ### Policy Reports
 
-U.S. Trade Representative, "Findings of the Investigation into China's Acts, Policies, and Practices Related to Technology Transfer, Intellectual Property, and Innovation Under Section 301 of the Trade Act of 1974" (March 22, 2018)
+U.S. Trade Representative. 2018. "Findings of the Investigation into China's Acts, Policies, and Practices Related to Technology Transfer, Intellectual Property, and Innovation Under Section 301 of the Trade Act of 1974."
 
-U.S. Trade Representative, "Notice of Determination in the Four-Year Review of the Actions in the Section 301 Investigation: China's Acts, Policies, and Practices Related to Technology Transfer, Intellectual Property, and Innovation" (December 2024), including staged implementation dates through January 1, 2025.
+U.S. Trade Representative. 2025. "Notice of Determination in the Four-Year Review of the Actions in the Section 301 Investigation: China's Acts, Policies, and Practices Related to Technology Transfer, Intellectual Property, and Innovation" (December 2024), including staged implementation dates through January 1.
 
-U.S. Trade Representative, "USTR Extends Exclusions in China Section 301 Investigation Until November 10, 2026" (November 11, 2025).
+U.S. Trade Representative. 2025. "USTR Extends Exclusions in China Section 301 Investigation Until November 10, 2026."
 
-U.S. Trade Representative, "USTR Announces Decision to Suspend Proposed Section 301 Maritime Action for One Year While Monitoring Progress Toward Targeted Commitments" (November 10, 2025).
+U.S. Trade Representative. 2025. "USTR Announces Decision to Suspend Proposed Section 301 Maritime Action for One Year While Monitoring Progress Toward Targeted Commitments."
 
-U.S. Department of Commerce Bureau of Industry and Security, "The Effect of Imports of Steel on the National Security" (January 11, 2018)
+U.S. Department of Commerce Bureau of Industry and Security. 2018. "The Effect of Imports of Steel on the National Security."
 
 U.S. Department of Commerce Bureau of Industry and Security, "Department of Commerce Strengthens Restrictions on Advanced Computing Semiconductors, Manufacturing Equipment, and Supercomputing Items to Countries of Concern" (March 25, 2025) [Entity List additions].
 
@@ -1041,11 +1041,11 @@ Congressional Research Service, "U.S.-China Trade and Economic Relations: Overvi
 
 Congressional Research Service, "The Export Administration Regulations: Overview and Related Issues" (Updated regularly)
 
-White House, "Building Resilient Supply Chains, Revitalizing American Manufacturing, and Fostering Broad-Based Growth: 100-Day Reviews under Executive Order 14017" (June 2021)
+White House. 2021. "Building Resilient Supply Chains, Revitalizing American Manufacturing, and Fostering Broad-Based Growth: 100-Day Reviews under Executive Order 14017."
 
 World Trade Organization, DS543 (United States — Tariff Measures on Certain Goods from China): panel report circulated September 15, 2020; appeal notified October 26, 2020.
 
-Congressional Research Service, "Presidential 2025 Tariff Actions: Timeline and Status," CRS Report R48549 (2025).
+Congressional Research Service, "Presidential 2025 Tariff Actions: Timeline and Status." CRS Report R48549. 2025.
 
 *Learning Resources, Inc. v. Trump*, 607 U.S. ___ (2026) (No. 24-1287) (holding, 6–3, that the International Emergency Economic Powers Act does not authorize the President to impose tariffs; decided February 20, 2026).
 
@@ -1055,15 +1055,15 @@ China Ministry of Commerce (MOFCOM), Announcement No. 46 of 2024, "Export Contro
 
 ### Think Tank and Policy Analysis
 
-Chad P. Bown and Douglas A. Irwin, "Trump's Assault on the Global Trading System—And Why Decoupling from China Will Change Everything," *Foreign Affairs* (September/October 2019)
+Chad P. Bown and Douglas A. Irwin. 2019. "Trump's Assault on the Global Trading System—And Why Decoupling from China Will Change Everything." *Foreign Affairs*.
 
-Jennifer Hillman, "Three Approaches to Fixing the World Trade Organization's Appellate Body: The Good, the Bad and the Ugly?" *Institute of International Economic Law Issue Brief* (2018)
+Jennifer Hillman. 2018. "Three Approaches to Fixing the World Trade Organization's Appellate Body: The Good, the Bad and the Ugly?" *Institute of International Economic Law Issue Brief*.
 
-Emily Kilcrease and Megan Lamberth, "Assessing the State of U.S. Export Controls: Towards Better Policy, Process, and Resources," *Center for a New American Security* (2021)
+Emily Kilcrease and Megan Lamberth. 2021. "Assessing the State of U.S. Export Controls: Towards Better Policy, Process, and Resources." *Center for a New American Security*.
 
-Kevin Wolf, "The ECRA and the New World of Export Controls," *Akin Gump Trade Blog* (2018)
+Kevin Wolf. 2018. "The ECRA and the New World of Export Controls." *Akin Gump Trade Blog*.
 
-Wendy Cutler and Aidan Arasasingham, "The U.S. Section 301 Investigation into China's IP Practices: Two Years Later," *Asia Society Policy Institute* (2020)
+Wendy Cutler and Aidan Arasasingham. 2020. "The U.S. Section 301 Investigation into China's IP Practices: Two Years Later." *Asia Society Policy Institute*.
 
 Chad P. Bown, "US-China Trade War Tariffs: An Up-to-Date Chart," *Peterson Institute for International Economics* (2019, regularly updated) — tariff coverage, affected trade values, and retaliation tracking.
 

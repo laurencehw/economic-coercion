@@ -712,32 +712,32 @@ The intersection of supply chains, technology, and geopolitics remains dynamic. 
 
 ### Books
 
-Miller, Chris. *Chip War: The Fight for the World's Most Critical Technology*. New York: Scribner, 2022.
+Miller, Chris. 2022. *Chip War: The Fight for the World's Most Critical Technology*. New York: Scribner.
   - Essential reading on semiconductor geopolitics, tracing the industry's evolution and strategic implications of Taiwan's TSMC dominance.
 
-Pitron, Guillaume. *The Rare Metals War: The Dark Side of Clean Energy and Digital Technologies*. New York: Scribner, 2020.
+Pitron, Guillaume. 2020. *The Rare Metals War: The Dark Side of Clean Energy and Digital Technologies*. New York: Scribner.
   - Examines critical mineral supply chains and China's strategic positioning in rare earth and battery material processing.
 
-Farrell, Henry, and Abraham L. Newman. *Underground Empire: How America Weaponized the World Economy*. New York: Henry Holt, 2023.
+Farrell, Henry, and Abraham L. Newman. 2023. *Underground Empire: How America Weaponized the World Economy*. New York: Henry Holt.
   - Theoretical framework for weaponized interdependence applied to financial networks, internet infrastructure, and supply chains.
 
-Baldwin, David A. *Economic Statecraft*. Princeton: Princeton University Press, 1985.
+Baldwin, David A. 1985. *Economic Statecraft*. Princeton: Princeton University Press.
   - Classic theoretical treatment of economic coercion, influence, and statecraft—foundational for understanding contemporary tools.
 
-Blackwill, Robert D., and Jennifer M. Harris. *War by Other Means: Geoeconomics and Statecraft*. Cambridge: Harvard University Press, 2016.
+Blackwill, Robert D., and Jennifer M. Harris. 2016. *War by Other Means: Geoeconomics and Statecraft*. Cambridge: Harvard University Press.
   - Framework for geoeconomic competition and how states use economic tools for strategic purposes.
 
 ### Government Reports
 
-White House. "Building Resilient Supply Chains, Revitalizing American Manufacturing, and Fostering Broad-Based Growth: 100-Day Reviews under Executive Order 14017." June 2021.
+White House. 2021. "Building Resilient Supply Chains, Revitalizing American Manufacturing, and Fostering Broad-Based Growth: 100-Day Reviews under Executive Order 14017." June.
 
-U.S. International Trade Commission. "Foreign Trade Barriers." Annual Report. Latest edition 2024.
+U.S. International Trade Commission. 2024. "Foreign Trade Barriers." Annual Report. Latest edition.
 
 U.S.-China Economic and Security Review Commission. Annual Reports, 2015-2024. Comprehensive assessments of U.S.-China economic relationship and security implications.
 
 Congressional Research Service. "Semiconductors: U.S. Industry, Global Competition, and Federal Policy." Updated regularly.
 
-Department of Defense. "Securing Defense-Critical Supply Chains: An Action Plan Developed in Response to President Biden's Executive Order 14017." February 2022.
+Department of Defense. 2022. "Securing Defense-Critical Supply Chains: An Action Plan Developed in Response to President Biden's Executive Order 14017." February.
 
 Woodcock, Janet (U.S. Food and Drug Administration). "Safeguarding Pharmaceutical Supply Chains in a Global Economy." Testimony before the House Energy and Commerce Committee, Subcommittee on Health, October 30, 2019. (Source for the 2019 API facility-share figures: U.S. ~28%, EU ~26%, India ~18%, China ~13%.)
 
@@ -747,47 +747,47 @@ China Ministry of Commerce (MOFCOM). Export-control announcements on gallium and
 
 ### Academic Articles and Reports
 
-Khan, Saif M., and Carrick Flynn. "Maintaining China's Dependence on Democracies for Advanced Computer Chips." Brookings Institution, April 2020.
+Khan, Saif M., and Carrick Flynn. 2020. "Maintaining China's Dependence on Democracies for Advanced Computer Chips." Brookings Institution, April.
 
-Khan, Saif M., Alexander Mann, and Dahlia Peterson. "The Semiconductor Supply Chain: Assessing National Competitiveness." Center for Security and Emerging Technology, January 2021.
+Khan, Saif M., Alexander Mann, and Dahlia Peterson. 2021. "The Semiconductor Supply Chain: Assessing National Competitiveness." Center for Security and Emerging Technology, January.
 
-Allen, Gregory C. "Choking Off China's Access to the Future of AI." Center for Strategic and International Studies, October 2022.
+Allen, Gregory C. 2022. "Choking Off China's Access to the Future of AI." Center for Strategic and International Studies, October.
 
-Kleinhans, Jan-Peter, and Nurzat Baisakova. "The Global Semiconductor Value Chain: A Technology Primer for Policy Makers." Stiftung Neue Verantwortung, October 2020.
+Kleinhans, Jan-Peter, and Nurzat Baisakova. 2020. "The Global Semiconductor Value Chain: A Technology Primer for Policy Makers." Stiftung Neue Verantwortung, October.
 
-Grimes, William W., and Tsuneo Akaha. "Japan and the Rare Earth Crisis." Asian Survey 54, no. 6 (2014): 1011-1030.
+Grimes, William W., and Tsuneo Akaha. 2014. "Japan and the Rare Earth Crisis." Asian Survey 54, no. 6: 1011-1030.
 
-Kalantzakos, Sophia. "China and the Geopolitics of Rare Earths." Oxford: Oxford University Press, 2017.
+Kalantzakos, Sophia. 2017. "China and the Geopolitics of Rare Earths." Oxford: Oxford University Press.
 
-Lebdioui, Amir. "Chile's Lithium Industry: Balancing Development and Sustainability Challenges." The Extractive Industries and Society 8, no. 3 (2021): 100935.
+Lebdioui, Amir. 2021. "Chile's Lithium Industry: Balancing Development and Sustainability Challenges." The Extractive Industries and Society 8, no. 3: 100935.
 
-Wübbeke, Jost. "Rare Earth Elements in China: Policies and Narratives of Reinventing an Industry." *Resources Policy* 38, no. 3 (2013): 384–394.
+Wübbeke, Jost. 2013. "Rare Earth Elements in China: Policies and Narratives of Reinventing an Industry." *Resources Policy* 38, no. 3: 384–394.
 
 Gholz, Eugene. "Rare Earth Elements and National Security." Council on Foreign Relations, October 2014. Argues that the 2010 China–Japan episode caused far less lasting damage than feared, because of inventory drawdowns, substitution, market entry, and smuggling.
 
 King, Amy, and Shiro Armstrong. "Did China Really Ban Rare Earth Metals Exports to Japan?" *East Asia Forum*, August 18, 2013. Questions whether a formal, comprehensive embargo actually occurred.
 
-Johnston, Alastair Iain. "How New and Assertive Is China's New Assertiveness?" *International Security* 37, no. 4 (2013): 7–48. Situates the 2010 rare earth episode within the contested empirics of China's "new assertiveness."
+Johnston, Alastair Iain. 2013. "How New and Assertive Is China's New Assertiveness?" *International Security* 37, no. 4: 7–48. Situates the 2010 rare earth episode within the contested empirics of China's "new assertiveness."
 
 ### Industry and Technical Reports
 
-Boston Consulting Group. "Strengthening the Global Semiconductor Supply Chain in an Uncertain Era." April 2021.
+Boston Consulting Group. 2021. "Strengthening the Global Semiconductor Supply Chain in an Uncertain Era." April.
 
 Semiconductor Industry Association. "State of the U.S. Semiconductor Industry." Annual publication.
 
-McKinsey & Company. "Battery 2030: Resilient, Sustainable, and Circular." January 2023.
+McKinsey & Company. 2023. "Battery 2030: Resilient, Sustainable, and Circular." January.
 
 ASML. Annual Reports and Technology Roadmaps. Available at asml.com/investors.
 
 TSMC. Annual Reports. Available at tsmc.com/english/investorRelations.
 
-TSMC. "TSMC Intends to Expand Its Investment in the United States to US\$165 Billion to Power the Future of AI." Press release, March 3, 2025.
+TSMC. 2025. "TSMC Intends to Expand Its Investment in the United States to US\$165 Billion to Power the Future of AI." Press release, March 3.
 
-Intel Corporation. "Intel Appoints Lip-Bu Tan as Chief Executive Officer." Intel Newsroom, March 12, 2025.
+Intel Corporation. 2025. "Intel Appoints Lip-Bu Tan as Chief Executive Officer." Intel Newsroom, March 12.
 
 TrendForce. "Global EDA Industry Market Share, 2024." (Synopsys ~31%, Cadence ~30%, Siemens EDA ~13%; combined ~74%.)
 
-Caixin Global. "China Launches Third Phase of the Big Fund with 344 Billion Yuan in Registered Capital." May 2024.
+Caixin Global. 2024. "China Launches Third Phase of the Big Fund with 344 Billion Yuan in Registered Capital." May.
 
 International Energy Agency. *Global EV Outlook 2025*. Paris: IEA, 2025. (Battery cell and component manufacturing shares.)
 
@@ -797,7 +797,7 @@ Center for Strategic and International Studies. Analyses of China's rare-earth a
 
 ### Chinese-Language Sources (Selected)
 
-刘鹤 (Liu He). "加快构建以国内大循环为主体、国内国际双循环相互促进的新发展格局" ["Accelerating the Construction of a New Development Pattern with Domestic Circulation as the Main Body and Domestic and International Dual Circulation Promoting Each Other"]. *People's Daily*, November 2020.
+刘鹤 (Liu He). 2020. "加快构建以国内大循环为主体、国内国际双循环相互促进的新发展格局" ["Accelerating the Construction of a New Development Pattern with Domestic Circulation as the Main Body and Domestic and International Dual Circulation Promoting Each Other"]. *People's Daily*, November.
 
 王志乐 (Wang Zhile). "中国工业化进程中的产业安全问题研究" ["Research on Industrial Security Issues in China's Industrialization Process"]. *China Industrial Economics* 2018年第5期.
 

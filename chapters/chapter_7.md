@@ -1072,49 +1072,49 @@ The mechanism operates through cascading compliance: Congress specifies triggeri
 
 ## References and Further Reading
 
-Drezner, Daniel W. "Sanctions Sometimes Smart: Targeted Sanctions in Theory and Practice." *International Studies Review* 13, no. 1 (2011): 96-108.
+Drezner, Daniel W. 2011. "Sanctions Sometimes Smart: Targeted Sanctions in Theory and Practice." *International Studies Review* 13, no. 1: 96-108.
 
-Farrell, Henry, and Abraham L. Newman. "Weaponized Interdependence: How Global Economic Networks Shape State Coercion." *International Security* 44, no. 1 (2019): 42-79.
+Farrell, Henry, and Abraham L. Newman. 2019. "Weaponized Interdependence: How Global Economic Networks Shape State Coercion." *International Security* 44, no. 1: 42-79.
 
-Gelpern, Anna. "Money and Power in the World Economy." *Virginia Journal of International Law* 63, no. 1 (2022): 1-82.
+Gelpern, Anna. 2022. "Money and Power in the World Economy." *Virginia Journal of International Law* 63, no. 1: 1-82.
 
-Gopinath, Gita, et al. "Dominant Currency Paradigm." *American Economic Review* 110, no. 3 (2020): 677-719.
+Gopinath, Gita, et al. 2020. "Dominant Currency Paradigm." *American Economic Review* 110, no. 3: 677-719.
 
-Mulder, Nicholas. *The Economic Weapon: The Rise of Sanctions as a Tool of Modern War*. Yale University Press, 2022.
+Mulder, Nicholas. 2022. *The Economic Weapon: The Rise of Sanctions as a Tool of Modern War*. Yale University Press.
 
-Nephew, Richard. *The Art of Sanctions: A View from the Field*. Columbia University Press, 2017.
+Nephew, Richard. 2017. *The Art of Sanctions: A View from the Field*. Columbia University Press.
 
-Zarate, Juan C. *Treasury's War: The Unleashing of a New Era of Financial Warfare*. Public Affairs, 2013.
+Zarate, Juan C. 2013. *Treasury's War: The Unleashing of a New Era of Financial Warfare*. Public Affairs.
 
-Asian Infrastructure Investment Bank (AIIB). *AIIB Annual Report 2024*. Beijing: Asian Infrastructure Investment Bank, 2025. https://www.aiib.org
+Asian Infrastructure Investment Bank (AIIB). 2025. *AIIB Annual Report 2024*. Beijing: Asian Infrastructure Investment Bank. https://www.aiib.org
 
-AsianBondsOnline (Asian Development Bank). "People's Republic of China: Market Summary." Local-currency bond market data, 2025. https://asianbondsonline.adb.org
+AsianBondsOnline (Asian Development Bank). 2025. "People's Republic of China: Market Summary." Local-currency bond market data. https://asianbondsonline.adb.org
 
-Cross-Border Interbank Payment System (CIPS Co., Ltd.). *CIPS Annual Report 2024* (annual business statistics). Shanghai: CIPS Co., Ltd., 2025. https://www.cips.com.cn
+Cross-Border Interbank Payment System (CIPS Co., Ltd.). 2025. *CIPS Annual Report 2024* (annual business statistics). Shanghai: CIPS Co., Ltd. https://www.cips.com.cn
 
-Bank for International Settlements. "Global Liquidity Indicators at End-December 2025." BIS Statistical Release, April 2026. https://www.bis.org/statistics/gli2604.htm
+Bank for International Settlements. 2026. "Global Liquidity Indicators at End-December 2025." BIS Statistical Release, April. https://www.bis.org/statistics/gli2604.htm
 
-Federal Bureau of Investigation. "North Korea Responsible for $1.5 Billion Bybit Hack." IC3 Public Service Announcement I-022625-PSA, February 26, 2025.
+Federal Bureau of Investigation. 2025. "North Korea Responsible for $1.5 Billion Bybit Hack." IC3 Public Service Announcement I-022625-PSA, February 26.
 
-Group of Seven (G7). "G7 Leaders' Statement on Extraordinary Revenue Acceleration (ERA) Loans." October 25, 2024.
+Group of Seven (G7). 2024. "G7 Leaders' Statement on Extraordinary Revenue Acceleration (ERA) Loans." October 25.
 
 Le Maire, Bruno. Interview, France Info radio, March 1, 2022.
 
-New Development Bank (NDB). *Annual Report 2024*. Shanghai: New Development Bank, 2025. https://www.ndb.int
+New Development Bank (NDB). 2025. *Annual Report 2024*. Shanghai: New Development Bank. https://www.ndb.int
 
-S&P Global. "Saudi-China Ties and Renminbi-Based Oil Trade." Special Report, August 2024.
+S&P Global. 2024. "Saudi-China Ties and Renminbi-Based Oil Trade." Special Report, August.
 
-TRM Labs. *The 2025 Crypto Crime Report.* TRM Labs, 2025.
+TRM Labs. 2025. *The 2025 Crypto Crime Report.* TRM Labs.
 
 U.S. Congress. GENIUS Act (Guiding and Establishing National Innovation for U.S. Stablecoins Act of 2025), Pub. L. No. 119-27, signed July 18, 2025.
 
-U.S. Department of the Treasury (OFAC). "Treasury Sanctions Major Russian Oil Companies, Calls on Moscow to Immediately Agree to Ceasefire." Press Release, October 22, 2025.
+U.S. Department of the Treasury (OFAC). 2025. "Treasury Sanctions Major Russian Oil Companies, Calls on Moscow to Immediately Agree to Ceasefire." Press Release, October 22.
 
-U.S. Department of the Treasury. "Disbursement of $20 Billion Loan to Benefit Ukraine, To Be Repaid with Proceeds Earned from Immobilized Russian Sovereign Assets." Press Release, December 2024.
+U.S. Department of the Treasury. 2024. "Disbursement of $20 Billion Loan to Benefit Ukraine, To Be Repaid with Proceeds Earned from Immobilized Russian Sovereign Assets." Press Release, December.
 
-U.S. Department of the Treasury. "Treasury Prohibits Transactions with Central Bank of Russia and Imposes Sanctions on Key Sources of Russia's Wealth." Press Release JY0612, February 28, 2022.
+U.S. Department of the Treasury. 2022. "Treasury Prohibits Transactions with Central Bank of Russia and Imposes Sanctions on Key Sources of Russia's Wealth." Press Release JY0612, February 28.
 
-U.S. Department of the Treasury. "Sanctions Review." October 2021.
+U.S. Department of the Treasury. 2021. "Sanctions Review." October.
 
 OFAC Sanctions Programs: https://home.treasury.gov/policy-issues/financial-sanctions
 

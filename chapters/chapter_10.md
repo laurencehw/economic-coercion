@@ -704,35 +704,34 @@ Understanding Chinese perspectives doesn't require accepting their validity but 
 
 [Abbreviated reference list highlighting key sources]
 
-1. Farrell, Henry, and Abraham L. Newman. "Weaponized Interdependence: How Global Economic Networks Shape State Coercion." *International Security* 44, no. 1 (Summer 2019): 42-79.
+Allison, Graham. 2017. *Destined for War: Can America and China Escape Thucydides's Trap?* Houghton Mifflin Harcourt.
 
-2. International Energy Agency. *The Role of Critical Minerals in Clean Energy Transitions.* IEA, 2021.
+Bank for International Settlements. "Triennial Central Bank Survey of Foreign Exchange and OTC Derivatives Markets." Various years.
 
-3. National Intelligence Council. *Global Trends 2040: A More Contested World.* NIC, 2021.
+Bank of Russia (Central Bank of the Russian Federation). *Foreign Exchange and Gold Asset Management Reports.* Moscow, various years.
 
-4. Stanford University. *Artificial Intelligence Index Report.* Stanford HAI, annual (2024 edition).
+Blackwill, Robert D., and Jennifer M. Harris. 2016. *War by Other Means: Geoeconomics and Statecraft.* Harvard University Press.
 
-5. Blackwill, Robert D., and Jennifer M. Harris. *War by Other Means: Geoeconomics and Statecraft.* Harvard University Press, 2016.
+Drezner, Daniel W. 2021. *The Uses and Abuses of Weaponized Interdependence.* Brookings Institution Press.
 
-6. Miller, Chris. *Chip War: The Fight for the World's Most Critical Technology.* Scribner, 2022.
+Economy, Elizabeth C. 2022. *The World According to China.* Polity.
 
-7. Drezner, Daniel W. *The Uses and Abuses of Weaponized Interdependence.* Brookings Institution Press, 2021.
+Farrell, Henry, and Abraham L. Newman. 2019. "Weaponized Interdependence: How Global Economic Networks Shape State Coercion." *International Security* 44, no. 1: 42-79.
 
-8. World Bank. *Groundswell Part 2: Acting on Internal Climate Migration.* World Bank, 2021.
+GENIUS Act (Guiding and Establishing National Innovation for U.S. Stablecoins Act). Enacted July 18, 2025.
 
-9. Economy, Elizabeth C. *The World According to China.* Polity, 2022.
+Google Quantum AI. 2024. "Quantum Error Correction Below the Surface Code Threshold." *Nature*, published online December 9.
 
-10. Allison, Graham. *Destined for War: Can America and China Escape Thucydides's Trap?* Houghton Mifflin Harcourt, 2017.
+International Energy Agency. 2021. *The Role of Critical Minerals in Clean Energy Transitions.* IEA.
 
-11. Prasad, Eswar. "Has the Dollar Lost Ground as the Dominant International Currency?" Brookings Institution, September 2023.
+Miller, Chris. 2022. *Chip War: The Fight for the World's Most Critical Technology.* Scribner.
 
-12. Bank for International Settlements. "Triennial Central Bank Survey of Foreign Exchange and OTC Derivatives Markets." Various years.
+National Intelligence Council. 2021. *Global Trends 2040: A More Contested World.* NIC.
 
-13. Bank of Russia (Central Bank of the Russian Federation). *Foreign Exchange and Gold Asset Management Reports.* Moscow, various years.
+Prasad, Eswar. 2023. "Has the Dollar Lost Ground as the Dominant International Currency?" Brookings Institution, September.
 
-14. Google Quantum AI. "Quantum Error Correction Below the Surface Code Threshold." *Nature*, published online December 9, 2024.
+Stanford University. *Artificial Intelligence Index Report.* Stanford HAI, annual (2024 edition).
 
-15. GENIUS Act (Guiding and Establishing National Innovation for U.S. Stablecoins Act). Enacted July 18, 2025.
+World Bank. 2021. *Groundswell Part 2: Acting on Internal Climate Migration.* World Bank.
 
 ---
-
