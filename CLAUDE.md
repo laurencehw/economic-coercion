@@ -21,6 +21,10 @@ Rscript R/figures/fig_01_02_us_china_trade.R
 python3 scripts/qa_manuscript.py
 ```
 
+These checks also run in CI — on every pull request via `.github/workflows/manuscript-qa.yml`,
+and again before the GitBook deploy. They exit non-zero on failure, so drift between the prose,
+the canonical statistics, and the figures cannot merge unnoticed. Run them locally before pushing.
+
 **Prerequisites:** R, Pandoc, LaTeX.
 
 R packages, by what they unlock (49 of the 61 figure scripts build with the first
@@ -31,9 +35,13 @@ group alone):
 - **Extras**: `ggforce` (framework/toolbox/cascade/decision-tree diagrams),
   `ggraph` + `igraph` (interdependence network), `ggalluvial` (Sankey/flow charts),
   `ggrepel`, `viridis`, `cowplot`, `gridExtra`
-- **Maps and specialty** (12 scripts): `sf`, `tmap`, `rnaturalearth`,
-  `rnaturalearthdata`, `treemapify`. All are on CRAN — the pipeline no longer has
-  any GitHub-only dependency
+- **Maps and specialty** (9 scripts): `sf`, `tmap`, `rnaturalearth`,
+  `rnaturalearthdata`, `treemapify`
+
+Every dependency is on CRAN, so a machine with CRAN access builds all 61 scripts.
+`scripts/qa_manuscript.py` enforces this against a reviewed allowlist: a GitHub-only
+package (as `ggradar` once was) fails the check rather than silently making the
+pipeline unreproducible for everyone else.
 
 On Debian/Ubuntu most of these install far faster from apt binaries
 (`r-cran-tidyverse`, `r-cran-sf`, `r-cran-ggforce`, …) than from source.
@@ -48,7 +56,6 @@ figures/               Output figures (PNG + PDF)
 R/figures/             R scripts for visualizations
 R/setup_theme.R        Shared ggplot2 theme
 data/                  Datasets and sources
-exercises/ch0X/        Original exercise files by chapter
 editorial_review/      Editorial reviews and citation audits
 templates/             Chapter and content templates
 SUMMARY.md             GitBook table of contents

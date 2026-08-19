@@ -6,6 +6,7 @@
 library(here)
 source(here::here("R", "setup_theme.R"))
 library(dplyr)
+library(ggrepel)
 library(tidyr)
 
 # Define dual-use technology matrix
@@ -87,11 +88,13 @@ p1 <- ggplot(dual_use, aes(x = commercial_intensity, y = military_intensity)) +
   # Quadrant backgrounds
   annotate("rect", xmin = 7, xmax = 10.5, ymin = 7, ymax = 10.5,
            fill = "#ffcccc", alpha = 0.3) +
-  annotate("text", x = 8.75, y = 10.2, label = "CRITICAL\nDUAL-USE",
+  annotate("text", x = 8.7, y = 8.45, label = "CRITICAL\nDUAL-USE",
            color = "#d62728", fontface = "bold", size = 3.5) +
   # Points
   geom_point(aes(size = dual_use_score, color = category), alpha = 0.8) +
-  geom_text(aes(label = technology), vjust = -1, size = 3, check_overlap = FALSE) +
+  geom_text_repel(aes(label = technology), size = 3, seed = 42,
+                  box.padding = 0.5, point.padding = 0.4,
+                  min.segment.length = 0.2, segment.color = "gray55") +
   # Styling
   scale_color_manual(values = category_colors, name = "Category") +
   scale_size_continuous(range = c(4, 15), name = "Dual-Use\nScore", guide = "none") +
@@ -99,7 +102,7 @@ p1 <- ggplot(dual_use, aes(x = commercial_intensity, y = military_intensity)) +
   scale_y_continuous(limits = c(2, 11), breaks = seq(2, 10, 2)) +
   labs(
     title = "Dual-Use Technology Assessment Matrix",
-    subtitle = "Commercial vs. military application intensity (scale 1-10)",
+    subtitle = "Commercial vs. military application intensity (author's ordinal assessment, 1-10)",
     x = "Commercial Application Intensity",
     y = "Military Application Intensity"
   ) +
@@ -141,6 +144,6 @@ library(patchwork)
 combined <- p1 / p2 + plot_layout(heights = c(1.2, 1))
 
 # Save the figure
-save_econ_figure(here::here("figures", "fig_04_06_dual_use_matrix.png"), plot = combined, width = 12, height = 12)
+save_econ_figure(here::here("figures", "fig_04_03_dual_use_matrix.png"), plot = combined, width = 12, height = 12)
 
 cat("Figure 4.6 created: Dual-Use Technology Matrix\n")

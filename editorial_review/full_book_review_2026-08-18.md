@@ -7,7 +7,7 @@
 
 ---
 
-## Rating on arrival: 8.5 / 10 → after this pass: 9.3 / 10
+## Rating on arrival: 8.5 / 10 → after this pass: 9.3 / 10 → after the follow-up: 9.4 / 10
 
 The July roadmap's phases 1–5 were genuinely executed, and they worked. Identity is settled, the 2025–26 currency sweep landed, the ~40 factual errors are fixed, the two-margins thesis now runs through to a conclusion that earns its ending, and the canonical statistics table in `DATA_DICTIONARY.md` is a better single-source-of-truth apparatus than most published textbooks maintain.
 
@@ -18,12 +18,12 @@ The manuscript arrived at this review held back by one thing above all, which th
 | Dimension | On arrival | After this pass | Note |
 |---|---|---|---|
 | Analytical framework & rigor | 9.0 | 9.0 | Two-margins thesis carries through to the conclusion; the Ch1 inference note remains exemplary |
-| Pedagogy | 8.5 | 9.3 | Learning objectives everywhere; all 50 figures now discussed in prose rather than decorative; index added |
+| Pedagogy | 8.5 | 9.4 | Learning objectives everywhere; all 52 figures now discussed in prose rather than decorative; index added |
 | Writing quality | 8.0 | 9.0 | Conclusion and Ch10 scenarios converted from briefing-book bullets to prose; Ch8's Australia case rewritten |
 | Evidence & sourcing | 8.5 | 9.4 | Citation resolution 253/253; last unverifiable attribution replaced |
 | Internal consistency | 7.5 | 9.3 | Text-vs-text was good; text-vs-figure was not, and that is what this pass fixed |
 | Currency (Aug 2026) | 9.0 | 9.0 | Solid through mid-2026 |
-| Production readiness | 6.5 | 9.2 | Figure numbering repaired, reference formats unified, index built; 12 of 20 orphans audited and embedded, 11 remain |
+| Production readiness | 6.5 | 9.5 | Figure numbering repaired, reference formats unified, index built; orphan inventory cleared (see addendum); QA in CI |
 
 ---
 
@@ -51,7 +51,7 @@ All of the above are fixed, and the hard-coded annotations that had already drif
 
 **Figure numbering.** Chapter 7 presented its figures as 7.3, 7.1, 7.2, 7.4; chapter 4 as 4.2 then 4.1. Chapter 5's opening figure was captioned 5.1 but stored as `fig_03_05_subsea_cables.png` — a chapter-3 filename — and its other files were similarly misaligned. Renamed and renumbered so filename, caption, and appearance order agree in every chapter.
 
-**Figures were never discussed.** Only 11 of 42 embedded figures were referred to anywhere in the prose; chapters 2, 3, 4, 7, and 8 referred to none of their own. All 50 figures now carry a sentence of interpretation.
+**Figures were never discussed.** Only 11 of 42 embedded figures were referred to anywhere in the prose; chapters 2, 3, 4, 7, and 8 referred to none of their own. All 52 figures now carry a sentence of interpretation.
 
 **Reference formats.** The chapter reference lists were not merely in the wrong style — they were in *four* different styles: parenthetical-year with annotations (ch 1), Chicago notes with annotation bullets (ch 2), bold-name running-note form (ch 6), Chicago notes (ch 3–5, 7), and numbered citation-order lists (ch 8–10). 189 entries normalised to author-date.
 
@@ -63,6 +63,44 @@ All of the above are fixed, and the hard-coded annotations that had already drif
 
 1. Chapter 10's *baseline* scenario projected the renminbi at 15–18% of reserves, and its 2050 projection described the current share as "~3%". It is 1.93%. A baseline assuming an eightfold rise contradicts the book's own argument that de-dollarization rhetoric outpaces reality; moderated, with the actual constraint (capital-account convertibility, not economic size) stated.
 2. Chapter 4 asserted that Chinese R&D "surpassed the United States on a PPP basis around 2024". On the OECD MSTI series it has not — roughly $840B against $990B. The claim is genuinely contested and turns on the PPP deflator vintage. Softened to describe an imminent crossing; **this one warrants the author's judgment**, since a defensible case exists for the original.
+
+---
+
+## Addendum, 2026-08-18 (post-merge follow-up)
+
+The roadmap below was written before PR #41 merged. Most of it has since been
+executed; this records what closed and what did not.
+
+**Closed.**
+
+- *Orphan figures.* Zero remain. The scenario matrix was repaired — its bubbles had
+  contradicted its own quadrant labels and backgrounds — and embedded as Figure 10.6;
+  the dual-use matrix had its labels rescued and is embedded as Figure 4.3. The other
+  nine were deleted: they duplicated embedded figures or asserted unsourced quantities
+  as findings. 52 figures embedded, all discussed in prose.
+- *Pipeline reproducibility.* Not a repo defect after all. Every one of the pipeline's
+  20 dependencies is on CRAN, so a CRAN-connected machine builds all 61 scripts; the
+  failures were the review sandbox's network policy. The one genuine problem, the
+  GitHub-only `ggradar`, was already removed. A QA check now guards the allowlist so a
+  future GitHub-only dependency fails rather than silently breaking reproducibility.
+- *`exercises/`.* Deleted. The ten files duplicated Appendix A, had drifted from it,
+  and were not in the navigation, so only a maintainer would ever have found them —
+  and only to wonder which copy was authoritative.
+- *Automated QA in CI.* `scripts/qa_manuscript.py` runs on every pull request touching
+  the manuscript, figures, R scripts, source data, or the canonical table, and again
+  before the GitBook deploy. It has now caught drift three times, twice introduced by
+  this review's own edits.
+- *Figure honesty.* Six embedded figures rest on the author's ordinal scoring. All six
+  now declare that in their captions, and where a figure mixes sourced and scored axes
+  the caption says which is which.
+
+**Not closed, and cannot be from inside the manuscript.**
+
+- *External expert reads.* `expert_review_brief.md` prepares them: a scoped reading
+  list per domain, the specific claims most at risk with locations, what has already
+  been verified, and the two contested claims needing an outside view. Commissioning
+  the three reads is the remaining step, and it is the one that would move evidence
+  and rigor further than any internal pass now can.
 
 ---
 

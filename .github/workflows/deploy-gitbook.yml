@@ -16,6 +16,8 @@ on:
       - 'book.json'
       - 'styles.css'
       - 'scripts/qa_gitbook_content.ps1'
+      - 'scripts/qa_manuscript.py'
+      - 'DATA_DICTIONARY.md'
       - '.github/workflows/deploy-gitbook.yml'
   workflow_dispatch:
 
@@ -56,6 +58,10 @@ jobs:
         shell: pwsh
         run: |
           ./scripts/qa_gitbook_content.ps1
+
+      - name: Run manuscript QA checks
+        run: |
+          python3 scripts/qa_manuscript.py
 
       - name: Convert GitBook Cloud hint tags to blockquotes
         run: |

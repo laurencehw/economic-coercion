@@ -1,0 +1,46 @@
+# Runs the manuscript QA checks on every pull request and push.
+#
+# The August 2026 review found that the prose had been conformed to the canonical
+# statistics in DATA_DICTIONARY.md while the data behind the figures had not, so the
+# charts contradicted the text. Every defect in that class was mechanically
+# detectable. This workflow runs those checks before a change can merge, rather than
+# after it has shipped.
+name: Manuscript QA
+
+on:
+  pull_request:
+    paths:
+      - 'chapters/**'
+      - 'front_matter/**'
+      - 'appendices/**'
+      - 'figures/**'
+      - 'R/**'
+      - 'data/**'
+      - 'SUMMARY.md'
+      - 'DATA_DICTIONARY.md'
+      - 'scripts/qa_manuscript.py'
+      - '.github/workflows/manuscript-qa.yml'
+  push:
+    branches:
+      - main
+      - master
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  qa:
+    name: Figure, data, and apparatus checks
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Run manuscript QA
+        run: python3 scripts/qa_manuscript.py

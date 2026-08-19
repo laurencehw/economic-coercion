@@ -19,8 +19,11 @@ scenarios <- tibble(
   Scenario = c("Managed Competition", "Economic Cold War",
                "Crisis Fragmentation", "Renewed Integration"),
   Quadrant = c("A", "B", "C", "D"),
-  Integration = c(0.7, 0.2, 0.3, 0.8),   # X-axis: higher = more integrated
-  Competition = c(0.3, 0.8, 0.9, 0.2),   # Y-axis: higher = more intense
+  # X: higher = more integrated. Y: higher = more intense bilateral competition.
+  # Positions must agree with the quadrant rects and letters drawn below:
+  # A top-right, B top-left, C bottom-left, D bottom-right.
+  Integration = c(0.72, 0.20, 0.28, 0.82),
+  Competition = c(0.76, 0.85, 0.32, 0.18),
   Probability = c(40, 25, 20, 15),
   Color = c("#2ca02c", "#d62728", "#ff7f0e", "#1f77b4"),
   Description = c(
@@ -56,8 +59,10 @@ p1 <- ggplot(scenarios, aes(x = Integration, y = Competition)) +
            fill = "#1f77b4", alpha = 0.15) +  # D: Renewed
 
   # Axis lines (crossing at center)
-  geom_hline(yintercept = 0.5, color = "gray30", linewidth = 1) +
-  geom_vline(xintercept = 0.5, color = "gray30", linewidth = 1) +
+  annotate("segment", x = 0, xend = 1, y = 0.5, yend = 0.5,
+           color = "gray30", linewidth = 1) +
+  annotate("segment", x = 0.5, xend = 0.5, y = 0, yend = 1,
+           color = "gray30", linewidth = 1) +
 
   # Scenario bubbles (sized by probability)
   geom_point(aes(size = Probability, fill = Scenario),
@@ -67,31 +72,31 @@ p1 <- ggplot(scenarios, aes(x = Integration, y = Competition)) +
   geom_label(aes(label = paste0(Scenario, "\n(", Probability, "%)"), fill = Scenario),
              color = "white", fontface = "bold", size = 3.5,
              label.padding = unit(0.4, "lines"), label.size = 0.5,
-             nudge_y = c(0.08, 0.08, -0.08, -0.08)) +
+             nudge_y = c(-0.15, 0.15, -0.15, 0.15)) +
 
   # Quadrant labels
-  annotate("text", x = 0.25, y = 0.95, label = "B",
+  annotate("text", x = 0.06, y = 0.94, label = "B",
            size = 8, fontface = "bold", color = "#d62728", alpha = 0.5) +
-  annotate("text", x = 0.75, y = 0.95, label = "A",
+  annotate("text", x = 0.94, y = 0.94, label = "A",
            size = 8, fontface = "bold", color = "#2ca02c", alpha = 0.5) +
-  annotate("text", x = 0.25, y = 0.05, label = "C",
+  annotate("text", x = 0.06, y = 0.06, label = "C",
            size = 8, fontface = "bold", color = "#ff7f0e", alpha = 0.5) +
-  annotate("text", x = 0.75, y = 0.05, label = "D",
+  annotate("text", x = 0.94, y = 0.06, label = "D",
            size = 8, fontface = "bold", color = "#1f77b4", alpha = 0.5) +
 
   # Axis labels
-  annotate("text", x = 0.5, y = -0.08, label = "INTEGRATION LEVEL",
+  annotate("text", x = 0.5, y = -0.075, label = "INTEGRATION LEVEL",
            fontface = "bold", size = 4) +
-  annotate("text", x = 0.05, y = 0.15, label = "Fragmented",
-           angle = 90, size = 3.5, color = "gray40") +
-  annotate("text", x = 0.95, y = 0.15, label = "Integrated",
-           angle = 90, size = 3.5, color = "gray40") +
-  annotate("text", x = -0.08, y = 0.5, label = "COMPETITION\nINTENSITY",
+  annotate("text", x = 0.13, y = -0.03, label = "Fragmented",
+           size = 3.2, color = "gray40") +
+  annotate("text", x = 0.87, y = -0.03, label = "Integrated",
+           size = 3.2, color = "gray40") +
+  annotate("text", x = -0.075, y = 0.5, label = "COMPETITION INTENSITY",
            fontface = "bold", size = 4, angle = 90) +
-  annotate("text", x = 0.15, y = 0.05, label = "Managed",
-           size = 3.5, color = "gray40") +
-  annotate("text", x = 0.15, y = 0.95, label = "Intense",
-           size = 3.5, color = "gray40") +
+  annotate("text", x = -0.03, y = 0.13, label = "Managed",
+           size = 3.2, color = "gray40", angle = 90) +
+  annotate("text", x = -0.03, y = 0.87, label = "Intense",
+           size = 3.2, color = "gray40", angle = 90) +
 
   scale_fill_manual(values = c(
     "Managed Competition" = "#2ca02c",
@@ -99,14 +104,14 @@ p1 <- ggplot(scenarios, aes(x = Integration, y = Competition)) +
     "Crisis Fragmentation" = "#ff7f0e",
     "Renewed Integration" = "#1f77b4"
   ), guide = "none") +
-  scale_size_continuous(range = c(15, 35), guide = "none") +
+  scale_size_continuous(range = c(11, 24), guide = "none") +
   scale_x_continuous(limits = c(-0.1, 1.1), expand = c(0, 0)) +
   scale_y_continuous(limits = c(-0.1, 1.1), expand = c(0, 0)) +
   coord_fixed() +
 
   labs(
-    title = "Future Scenarios: US-China Economic Relations (2025-2035)",
-    subtitle = "Four pathways based on integration level and competition intensity"
+    title = "The Uncertainty Space",
+    subtitle = "Bubble area is scaled to probability"
   ) +
   theme_void() +
   theme(
@@ -151,7 +156,9 @@ p2 <- ggplot(scenarios_bar, aes(x = Scenario, y = Probability, fill = Scenario))
 desc_data <- scenarios %>%
   select(Quadrant, Scenario, Description, Probability) %>%
   mutate(
-    x = c(1, 2, 1, 2),
+    # tile positions must mirror the matrix above: A top-right, B top-left,
+    # C bottom-left, D bottom-right. Row order here is A, B, C, D.
+    x = c(2, 1, 1, 2),
     y = c(2, 2, 1, 1)
   )
 
@@ -204,7 +211,7 @@ combined <- p1 / (p2 + p3) +
   )
 
 # Save
-save_econ_figure(here("figures", "fig_10_06_scenario_matrix.png"), combined, width = 12, height = 13)
+save_econ_figure(here("figures", "fig_10_05_scenario_matrix.png"), combined, width = 12, height = 13)
 
 # Print summary
 cat("\nFigure 10.6 Summary:\n")

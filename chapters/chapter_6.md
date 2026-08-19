@@ -154,7 +154,7 @@ Figure 6.2 traces the escalation ladder of the 2018–2025 trade war, superimpos
 
 <figure class="book-figure">
   <img src="../figures/fig_06_02_trade_war_escalation.png" alt="Escalation ladder of the 2018-2025 U.S.-China trade war, showing tariff actions, retaliation rounds, and partial pauses.">
-  <figcaption>Figure 6.2: U.S.–China trade war escalation ladder (2018–2025).</figcaption>
+  <figcaption>Figure 6.2: U.S.–China trade war escalation ladder, 2018–2025. Tariff rates and dates are sourced; the escalation intensity score is the author's ordinal judgment.</figcaption>
 </figure>
 
 Beyond static trade impacts, tariffs accelerated supply chain reconfiguration. Multinational firms adopted **"China+1" strategies**, diversifying production to Vietnam, Thailand, India, and Mexico to avoid tariffs. Apple, Samsung, Intel, Dell, and HP all announced production shifts. Many of these moves proved durable: once firms incur the sunk costs of relocating production, they are unlikely to reverse those decisions even if tariffs are later reduced or removed. The shift produced clear winners and losers. Vietnam's exports to the U.S. surged from $49 billion (2017) to $115 billion (2023), making it the 8th largest U.S. trade partner (U.S. Census Bureau 2024), while Mexico became the largest U.S. trade partner in 2023 (U.S. Census Bureau 2024), partly from Chinese firms routing production through Mexican plants. Chinese manufacturing employment growth slowed, and sectors such as furniture and electronics lost global market share permanently.

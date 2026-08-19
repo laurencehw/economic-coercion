@@ -333,7 +333,7 @@ Figure 2.4 gathers this chapter's dependencies into a single frame, plotting eac
 
 <figure class="book-figure">
   <img src="../figures/fig_02_04_supply_chain_risk.png" alt="Supply chain risk matrix plotting critical inputs by supply concentration and strategic criticality.">
-  <figcaption>Figure 2.4: Critical inputs plotted by supply concentration and strategic criticality. Bubble size reflects the combined risk score.</figcaption>
+  <figcaption>Figure 2.4: Critical inputs plotted by supply concentration and strategic criticality. Concentration shares are sourced (USGS, IEA, TrendForce, FDA facility data); the criticality axis and the resulting risk score are the author's ordinal judgment.</figcaption>
 </figure>
 
 ## Strategies for Reducing Vulnerabilities

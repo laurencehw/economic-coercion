@@ -330,11 +330,11 @@ Projecting 25 years into an uncertain future requires scenario analysis: develop
 - **Managed competition**: Rules-based rivalry, crisis management mechanisms, limited escalation
 - **Intense confrontation**: Economic warfare, comprehensive coercion, crisis-prone, risk of military conflict
 
-Combining these dimensions generates four scenarios. Figure 10.5 places each scenario on the two-dimensional uncertainty space and summarizes the bilateral trade, reserve-currency shares, and alliance configurations associated with each outcome.
+Combining these dimensions generates four scenarios. Figure 10.5 places each on the two axes that produce them and sizes each by its probability. The quadrant structure repays attention, because it shows that the scenarios are not points along a single spectrum from cooperation to conflict. Managed competition and economic cold war differ mainly in integration, not in intensity — both are intensely competitive worlds. Crisis fragmentation is the low-intensity, low-integration case, which is why it feels less alarming than a cold war while being in some ways harder to navigate: there is no single adversary to organise policy around. The probabilities are the author's estimates, and their ordering is more defensible than their levels.
 
 <figure class="book-figure">
-  <img src="../figures/fig_10_05_decoupling_scenarios.png" alt="Four-scenario matrix mapping economic integration against competition intensity, with probability weights and key indicators for each future.">
-  <figcaption>Figure 10.5: Four scenarios for U.S.–China economic competition, 2035–2050, mapped on the integration × intensity axes.</figcaption>
+  <img src="../figures/fig_10_05_scenario_matrix.png" alt="Two-by-two matrix placing the four scenarios by integration level and competition intensity, with probability weights and scenario descriptions.">
+  <figcaption>Figure 10.5: The four scenarios mapped by integration level and competition intensity, sized by probability. The probabilities are the author's estimates; their ordering is more defensible than their levels.</figcaption>
 </figure>
 
 ### Scenario A: Managed Competition with Selective Integration (Baseline — 40% probability)

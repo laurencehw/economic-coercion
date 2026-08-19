@@ -211,10 +211,61 @@ def apparatus_checks() -> None:
     check("chapters carry the standard pedagogical blocks", not missing, "; ".join(missing))
 
 
+# ------------------------------------------------------------------ pipeline ---
+# Packages the figure pipeline is allowed to use. All must be installable from
+# CRAN: a GitHub-only dependency makes the pipeline unreproducible for anyone
+# without that remote, which is how ggradar came to be imported-but-unused. Adding
+# to this list is a deliberate act — check the package is on CRAN first.
+CRAN_ALLOWED = {
+    "dplyr", "forcats", "ggalluvial", "ggforce", "ggplot2", "ggraph", "ggrepel",
+    "here", "igraph", "lubridate", "patchwork", "rnaturalearth",
+    "rnaturalearthdata", "scales", "sf", "stringr", "tidyr", "tidyverse",
+    "tmap", "treemapify",
+}
+
+
+def pipeline_checks() -> None:
+    print("\nFigure pipeline")
+
+    scripts = sorted(glob.glob("R/figures/*.R")) + ["R/setup_theme.R"]
+    used = set()
+    for rf in scripts:
+        if not os.path.exists(rf):
+            continue
+        src = read(rf)
+        used |= set(re.findall(r"^\s*(?:library|require)\(([A-Za-z0-9._]+)\)", src, re.M))
+        used |= set(re.findall(r"\b([A-Za-z][A-Za-z0-9._]+)::", src))
+    unknown = sorted(used - CRAN_ALLOWED)
+    check("figure pipeline uses only reviewed CRAN packages", not unknown,
+          "new dependencies need review: " + ", ".join(unknown) if unknown else "")
+    # Deliberately not checked here: whether an import is actually used. Detecting
+    # that reliably needs each package's exported symbols — a package is normally
+    # used through its functions, not its name — and the naive version flags dplyr,
+    # patchwork, scales and most of the rest. The allowlist above is what guards
+    # reproducibility; a dead import is untidy but harmless.
+
+    # every script should produce the image it names, and every image should have a
+    # script that produces it
+    produced, missing = {}, []
+    for rf in sorted(glob.glob("R/figures/*.R")):
+        for png in re.findall(r'"(fig_[a-z0-9_]+\.png)"', read(rf)):
+            produced[png] = rf
+            if not os.path.exists(os.path.join("figures", png)):
+                missing.append(f"{os.path.basename(rf)} → {png}")
+    check("every script's output image exists", not missing, "; ".join(missing))
+
+    unproduced = sorted(
+        f for f in os.listdir("figures")
+        if f.endswith(".png") and f not in produced
+    )
+    check("every image has a generating script", not unproduced, "; ".join(unproduced))
+
+
 def main() -> int:
     print("Manuscript QA")
     figure_checks()
     data_checks()
+    pipeline_checks()
     apparatus_checks()
     for note in notes:
         print(f"\n  note: {note}")
