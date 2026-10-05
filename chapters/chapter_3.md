@@ -24,7 +24,7 @@ The crisis showed that control over critical resources, including energy, food, 
 
 Manufacturing supply chain vulnerabilities do not fully capture the stakes, because food, energy, and water are existential in a way that manufactured goods are not: societies cannot function without them, and resource dependencies differ from manufacturing dependencies above all in speed. A semiconductor shortage unfolds over quarters as inventory depletes, and chips can be stockpiled or substituted over months; energy and food shortages arrive within days, reducing heat, halting factories, and producing cold homes, dark streets, and empty shelves. That immediacy is what makes resource coercion potent, because the target cannot wait it out or slowly build alternatives—and because voters experience energy prices and food availability directly, in ways they never experience chip fabrication, such shortages can destabilize governments.
 
-Geographic concentration compounds the problem. Russia supplied 40% of European gas imports before the invasion (IEA 2022). The Strait of Hormuz handles 21% of global oil trade (U.S. EIA 2023). Ukraine and Russia together export 30% of global wheat (FAO 2022), and many Middle Eastern and African nations depend entirely on Black Sea grain. A disruption to one country's exports or one transit route can push global prices up overnight.
+Geographic concentration compounds the problem. Russia supplied 40% of European gas imports before the invasion (IEA 2022). Oil passing through the Strait of Hormuz was equivalent to approximately 21% of global oil consumption in the cited EIA snapshot, a different denominator from internationally traded oil (U.S. EIA 2023). Ukraine and Russia together export 30% of global wheat (FAO 2022), and many Middle Eastern and African nations depend entirely on Black Sea grain. A disruption to one country's exports or one transit route can push global prices up overnight.
 
 Resource nationalism is accelerating. Indonesia banned nickel exports in 2020 to force domestic smelting. The "lithium triangle" countries are debating restrictions to capture battery value chains. Russia has used energy cutoffs against Ukraine and Belarus for years. China restricted rare earth exports in 2010 and critical minerals in 2023. Countries increasingly treat resources as instruments of policy rather than as ordinary commodities.
 
@@ -132,7 +132,7 @@ Oil trade flows reveal critical dependencies. Europe imports approximately 90% o
 
 **Maritime chokepoints** amplify vulnerability. Most oil trade occurs via tanker through a handful of narrow straits that could be blockaded or disrupted.
 
-- **Strait of Hormuz** (between Persian Gulf and Gulf of Oman): Approximately 21% of global oil consumption transits this 21-mile-wide passage (U.S. EIA 2023). Closure would immediately remove 21 million barrels per day from global markets, more than doubling oil prices and potentially triggering global recession. Iran has repeatedly threatened closure if attacked, demonstrating the strait's strategic leverage. U.S. military presence in the Gulf aims partly to secure this chokepoint against Iranian action.
+- **Strait of Hormuz** (between Persian Gulf and Gulf of Oman): Approximately 21% of global oil consumption transits this 21-mile-wide passage (U.S. EIA 2023). A prolonged closure could disrupt flows on the order of 21 million barrels per day before accounting for pipeline bypass capacity, stock releases, rerouting, and demand adjustment. The resulting price effect would depend on the duration and those responses; throughput alone cannot support a precise price forecast. Iran has repeatedly threatened closure if attacked, demonstrating the strait's strategic leverage. U.S. military presence in the Gulf aims partly to secure this chokepoint against Iranian action.
 
 - **Strait of Malacca** (between Malaysia, Indonesia, and Singapore): Approximately 16 mb/d transits this strait, primarily supplying East Asian consumers (China, Japan, South Korea) (U.S. EIA 2023). While alternative routes exist (Sunda Strait, Lombok Strait), they add days to transit and lack the infrastructure and depth for largest tankers. China's growing navy and "String of Pearls" strategy of ports along the Indian Ocean reflect partly concern about dependence on this chokepoint—American or Indian naval power could potentially disrupt Chinese oil imports in conflict scenarios.
 
@@ -493,5 +493,6 @@ Al Jazeera. 2025. "Ethiopia Inaugurates GERD Dam amid Downstream Tensions with E
 Reuters. 2025. "Russian Gas Exports via Ukraine Stop as Transit Deal Expires." January 1.
 
 ---
+
 
 

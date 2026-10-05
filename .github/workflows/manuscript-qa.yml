@@ -19,6 +19,10 @@ on:
       - 'SUMMARY.md'
       - 'DATA_DICTIONARY.md'
       - 'scripts/qa_manuscript.py'
+      - 'scripts/scenario_data.py'
+      - 'scripts/test_scenario_data.py'
+      - 'scripts/figures/**'
+      - 'INTRODUCTION.md'
       - '.github/workflows/manuscript-qa.yml'
   push:
     branches:
@@ -43,4 +47,18 @@ jobs:
           python-version: '3.12'
 
       - name: Run manuscript QA
+        run: python3 scripts/qa_manuscript.py
+
+      - name: Test scenario input guardrails
+        run: python3 -m unittest discover -s scripts -p 'test_*.py'
+
+      - name: Install scenario figure renderer
+        run: python3 -m pip install matplotlib==3.10.8
+
+      - name: Render scenario figures
+        env:
+          MPLCONFIGDIR: ${{ runner.temp }}/matplotlib
+        run: python3 scripts/figures/render_scenarios.py
+
+      - name: Recheck rendered figure inventory
         run: python3 scripts/qa_manuscript.py

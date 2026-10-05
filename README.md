@@ -56,11 +56,21 @@ INTRODUCTION.md     Book landing page (used by GitBook)
 
 ## Building
 
-**Prerequisites:** R (with ggplot2, dplyr, tidyr, scales, sf, patchwork)
+**Prerequisites:** R and the CRAN packages listed in [CLAUDE.md](CLAUDE.md).
+Figures 10.1 and 10.5 use Python 3 with matplotlib, reading the disclosed scenario CSVs.
+The inventory contains 49 published figures: 47 generated with R and two with Python.
 
 ```bash
-# Generate all R figures
+# Generate the R figures
 for f in R/figures/*.R; do Rscript "$f"; done
+
+# Generate Figures 10.1 and 10.5 (observed anchor and illustrative scenarios)
+python3 -m pip install matplotlib==3.10.8
+python3 scripts/figures/render_scenarios.py
+
+# Validate manuscript, data/figure alignment, and scenario assumptions
+python3 scripts/qa_manuscript.py
+python3 -m unittest discover -s scripts -p 'test_*.py'
 
 # Or use PowerShell on Windows
 Get-ChildItem R/figures/*.R | ForEach-Object { Rscript $_.FullName }

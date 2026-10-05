@@ -448,3 +448,21 @@ This textbook uses **author-date** in-text citations:
 ---
 
 *Note: This is the book's single canonical bibliography, covering major works and sources cited throughout the textbook. For chapter-specific references and data notes, see the "References" and "Data Sources" sections at the end of each chapter.*
+
+## Sources for the October 2026 Corrections
+
+White House. 2020a. “Addressing the Threat Posed by TikTok.” Executive Order 13942, August 6. https://www.federalregister.gov/executive-order/13942
+
+White House. 2020b. “Order Regarding the Acquisition of Musical.ly by ByteDance Ltd.” August 14. https://trumpwhitehouse.archives.gov/presidential-actions/order-regarding-acquisition-musical-ly-bytedance-ltd/
+
+World Trade Organization (WTO). 2021–2024. *China — Anti-Dumping and Countervailing Duty Measures on Wine from Australia* (DS602). https://www.wto.org/english/tratop_e/dispu_e/cases_e/ds602_e.htm
+
+Council of the European Union. 2022. Council Regulation (EU) 2022/345, March 1. Restrictions on specialized financial messaging services to listed Russian banks. https://eur-lex.europa.eu/eli/reg/2022/345/oj
+
+3GPP. n.d. “Specifications by Series.” Common technical specifications for mobile telecommunications. https://www.3gpp.org/specifications-technologies/specifications-by-series
+
+TechInsights. 2022. “SMIC 7nm Technology Found in MinerVa Bitcoin Miner.” July. https://www.techinsights.com/blog/disruptive-technology-smic-7nm
+
+Mazzucato, Mariana. 2013. *The Entrepreneurial State: Debunking Public vs. Private Sector Myths*. Anthem Press.
+
+Farrell, Joseph, and Garth Saloner. 1985. “Standardization, Compatibility, and Innovation.” *RAND Journal of Economics* 16 (1): 70–83.

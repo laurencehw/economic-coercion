@@ -38,11 +38,13 @@ This file documents the source, coverage, and known limitations of each dataset 
 
 **`us_treasury_holdings.csv`** — U.S. Treasury *TIC* data, *Major Foreign Holders of Treasury Securities*. Accessed 2026-01. Monthly; by custodial country, not beneficial owner.
 
-**`dollar_reserves_projection.csv`** — IMF *COFER* (historical); authorial scenario projections 2024–2050 (baseline, gradual erosion, fragmentation). Projections are illustrative only and should not be cited as forecasts.
+**`dollar_reserves_projection.csv`** — One observed anchor, the IMF COFER 2025Q3 dollar share of 56.92% quoted in Chapter 7, followed by three author-assumed sensitivity paths through 2050. No mixed-vintage historical series or euro/renminbi forecast is included. Future points and the shaded range are illustrative assumptions, not fitted forecasts or confidence bounds.
+
+**`scenario_planning_weights.csv`** — The four stylized 2035–2050 worlds in Chapter 10. Coordinates and weights are author judgments for classroom analysis, not observed indices or calibrated probabilities.
 
 **`us_sanctions_programs.csv`** — U.S. Department of the Treasury, Office of Foreign Assets Control (OFAC) *Sanctions Programs and Country Information*. Accessed 2026-01.
 
-**`sanctions_success_rates.csv`** — Derived from Hufbauer, Schott, Elliott, and Oegg (2007) *Economic Sanctions Reconsidered* (3rd ed.), updated with Felbermayr et al. (GSDB) and Biersteker et al. (TSC) coding. Accessed 2025-08.
+**Retired sanctions-rate table (October 2026).** The former `sanctions_success_rates.csv` and associated type/duration chart were removed because the repository contained no case-level extraction or harmonization supporting its 712-case attribution. HSE, GSDB, and TSC use different samples and coding; a new empirical comparison must supply case identifiers, source versions, overlap rules, and reproducible aggregation before publication. Chapter 9 retains the published aggregate finding with its attribution caveats.
 
 **`russian_frozen_assets_2022.csv`** — REPO Task Force reports; European Commission *Russian Assets Freeze* updates; U.S. Treasury press releases. Accessed 2025-12.
 
@@ -64,7 +66,7 @@ This file documents the source, coverage, and known limitations of each dataset 
 
 **`cfius_reviews.csv`** — CFIUS *Annual Report to Congress*. Accessed 2025-11.
 
-**`chinese_fdi_flows.csv`** — Rhodium Group *China Global Investment Tracker* (with AEI). Accessed 2025-12.
+**`chinese_fdi_flows.csv`** — Attributed to Rhodium Group investment research and the separate AEI *China Global Investment Tracker*. Accessed 2025-12. The repository lacks a row-level extraction identifying which series supplies each observation; use as a descriptive compilation, not a harmonized dataset for causal inference.
 
 **`industrial_policy_spending.csv`** — OECD *Industrial Policy Review*; CSIS *Industrial Policy Tracker*; national budget documents. Accessed 2025-11.
 
@@ -78,3 +80,4 @@ This file documents the source, coverage, and known limitations of each dataset 
 - Where a dataset is labeled "authorial compilation" or "authorial coding," the reader should treat it as an analytical construct supported by underlying primary sources rather than as an official statistic.
 - Projections (e.g., dollar reserves 2024–2050) are scenario-based and should not be cited as forecasts without the accompanying scenario narrative from Chapter 10.
 - For policy developments after April 2026, readers should consult primary sources directly; the dataset snapshots are intended to support analysis of the historical trajectory, not to track current policy.
+

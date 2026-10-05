@@ -22,6 +22,8 @@ This textbook is written for multiple audiences:
 
 ## Organization and Structure
 
+The role-play exercises in Appendix A are complemented by [Appendix B’s analytical practice and worked answers](../appendices/appendix_b_analytical_practice.md). These problems cover substitution capacity, tariff incidence, financial-system denominators, causal attribution, and decisions under scenario uncertainty. Numerical inputs are labeled classroom assumptions; students should practice separating those from observed facts.
+
 The book is organized into four parts spanning ten chapters that build progressively from foundational concepts to contemporary applications and future scenarios:
 
 **Part I: Foundations and Context (Chapters 1-2)**

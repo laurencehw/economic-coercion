@@ -12,13 +12,13 @@ After completing this chapter, you will be able to:
 
 ## Executive Summary
 
-Financial coercion rests on an unusual fact: a single national currency, together with the plumbing that moves it, sits at the center of the world economy, and the state with jurisdiction over that plumbing can deny others access to it. The reach of that power was on display on February 26, 2022, four days after Russia's full-scale invasion of Ukraine, when the United States, European Union, United Kingdom, and Canada announced unprecedented financial sanctions: freezing Russian Central Bank reserves held in Western financial institutions (an estimated $300+ billion) (U.S. Treasury 2022), removing major Russian banks from the SWIFT international payments messaging system, and imposing comprehensive restrictions on transactions with Russian entities. Within days the ruble collapsed 30%, Russian stock markets plunged, and Western firms moved to unwind Russian exposure. French Finance Minister Bruno Le Maire declared that the West was "waging an all-out economic and financial war on Russia"—a phrasing he walked back days later as incompatible with de-escalation (Le Maire, France Info, March 1, 2022). The action was the culmination of decades spent building a U.S.-centered financial architecture, and it turned the same infrastructure that facilitates global liquidity into the primary conduit for coercion.
+Financial coercion rests on an unusual fact: a single national currency, together with the plumbing that moves it, sits at the center of the world economy, and the state with jurisdiction over that plumbing can deny others access to it. The reach of that power was on display on February 26, 2022, two days after Russia’s full-scale invasion of Ukraine, when the United States, European Union, United Kingdom, and Canada announced unprecedented financial sanctions: freezing Russian Central Bank reserves held in Western financial institutions (an estimated $300+ billion) (U.S. Treasury 2022), removing major Russian banks from the SWIFT international payments messaging system, and imposing comprehensive restrictions on transactions with Russian entities. Within days the ruble collapsed 30%, Russian stock markets plunged, and Western firms moved to unwind Russian exposure. French Finance Minister Bruno Le Maire declared that the West was "waging an all-out economic and financial war on Russia"—a phrasing he walked back days later as incompatible with de-escalation (Le Maire, France Info, March 1, 2022). The action was the culmination of decades spent building a U.S.-centered financial architecture, and it turned the same infrastructure that facilitates global liquidity into the primary conduit for coercion.
 
 Financial sanctions operate through money and payments rather than physical destruction. They do not destroy factories or blockade ports, but their effects can be severe. A firm cut off from dollar-denominated payments, or a state cut off from global banking, can face acute crisis. Understanding how this power works, and how it might unravel, requires attention to three dynamics.
 
-The first is that U.S. financial power rests on structural advantages in the international monetary system, not simply economic size. The dollar's role as dominant reserve currency (56.92% of allocated global foreign exchange reserves in 2025Q3), payment currency (50.49% of global SWIFT payments by value in December 2025; 58.62% excluding euro-area internal payments), and safe haven asset creates network effects (IMF COFER, December 19, 2025; SWIFT RMB Tracker, January 2026) and path dependencies that competitors cannot easily replicate. Control of financial infrastructure, including SWIFT, Euroclear, and correspondent banking, amplifies this power. These structural foundations provide the jurisdictional basis for coercion while also defining the system's points of failure.
+The first is that U.S. financial power rests on structural advantages in the international monetary system, not simply economic size. The dollar's role as dominant reserve currency (56.92% of allocated global foreign exchange reserves in 2025Q3), payment currency (50.49% of global SWIFT payments by value in December 2025; 58.62% excluding euro-area internal payments), and safe haven asset creates network effects (IMF COFER, December 19, 2025; SWIFT RMB Tracker, January 2026) and path dependencies that competitors cannot easily replicate. Jurisdiction over dollar clearing gives the United States particular leverage, while EU jurisdiction over SWIFT and Belgian jurisdiction over Euroclear make allied coordination consequential. Market centrality amplifies these legal authorities; it does not itself establish jurisdiction over every transaction.
 
-The second is that U.S. financial coercion has expanded in scope and ambition, moving from targeted individuals and entities to entire economies and financial systems. Traditional sanctions blocked specific terrorists, narcotics traffickers, or proliferators from U.S. financial system access. Modern sanctions impose comprehensive restrictions on entire countries (Iran, North Korea, Venezuela), freeze central bank reserves (Russia, Afghanistan), and employ secondary sanctions forcing third parties to choose between U.S. and target markets. This escalation raises questions about sustainability and blowback.
+The second is that U.S. financial coercion has expanded in scope and ambition, moving from targeted individuals and entities to entire economies and financial systems. Traditional sanctions blocked specific terrorists, narcotics traffickers, or proliferators from U.S. financial system access. Modern sanctions include broad country restrictions (Iran and North Korea), government-blocking and sectoral measures (Venezuela), freeze central bank reserves (Russia, Afghanistan), and employ secondary sanctions forcing third parties to choose between U.S. and target markets. This escalation raises questions about sustainability and blowback.
 
 The third is that aggressive use of financial sanctions generates counter-balancing efforts that may erode long-term U.S. advantages. China's Cross-Border Interbank Payment System (CIPS), BRICS discussions of alternative currency arrangements, Russia-China bilateral settlement in national currencies, and central bank digital currency experiments all aim to reduce dollar dependence and create sanction-resistant alternatives. Whether these efforts succeed depends on network effects, trust, and the fundamental attributes making currencies attractive, questions the chapter explores throughout.
 
@@ -117,11 +117,11 @@ SWIFT is not a payment system but a secure messaging network transmitting paymen
 - **Iranian banks (2012, 2018)**: Removed after U.S./EU pressure, cutting Iran off from international finance (Nephew 2017)
 - **Russian banks (2022)**: Removed seven Russian banks and three Belarusian banks (Belagroprombank, Bank Dabrabyt, and the Development Bank of the Republic of Belarus) after Ukraine invasion; notably excluded Gazprombank (natural gas payments) and Sberbank (initially)
 
-SWIFT disconnection immediately severs international payment capability, forcing reliance on informal channels (cash, barter, cryptocurrency, bilateral arrangements). A disconnected entity can in principle still transmit instructions by other means, but at sharply higher cost and far lower reliability.
+SWIFT disconnection removes access to a widely used messaging channel; it does not itself freeze assets, close correspondent accounts, or make every payment unlawful. A bank may transmit instructions through other channels if counterparties and applicable law permit. Separate blocking measures and banks’ risk decisions often make those alternatives impractical. The 2022 Russian-bank exclusions were implemented through EU regulation, illustrating why messaging restrictions and U.S. dollar-clearing sanctions must be distinguished (Council of the European Union 2022).
 
 {% hint style="warning" %}
 **The Financial Nuclear Option**
-SWIFT disconnection is deliberately called the "financial nuclear option" because, like nuclear weapons, its power comes partly from the threat of its use. Once deployed, it cannot be un-deployed—the target knows it survived and begins building alternatives. Iran, after its 2012 and 2018 SWIFT disconnections, accelerated development of alternative payment systems. Russia, after 2022, fast-tracked SPFS (its SWIFT alternative) and expanded bilateral settlement with China. Each use of the nuclear option motivates more countries to build fallout shelters.
+SWIFT disconnection is deliberately called the "financial nuclear option" because, like nuclear weapons, its power comes partly from the threat of its use. Access can be restored if legal restrictions are lifted, but the target’s incentive to build alternatives may persist after restoration. Iran, after its 2012 and 2018 SWIFT disconnections, accelerated development of alternative payment systems. Russia, after 2022, fast-tracked SPFS (its SWIFT alternative) and expanded bilateral settlement with China. Each use of the nuclear option motivates more countries to build fallout shelters.
 {% endhint %}
 
 **Correspondent Banking**
@@ -451,7 +451,7 @@ Launched 2015, CIPS processes cross-border renminbi (RMB) payments, positioning 
 - 1,573 indirect participants
 - Participants in 124 countries and regions; business coverage across 5,000+ banking institutions in 190 countries and regions
 
-**Volume**: CIPS processed approximately RMB 175 trillion in 2024 (about USD 24 trillion at end-2024 exchange rates), implying a daily value throughput of roughly USD 95 billion assuming ~250 trading days — up from an equivalent of roughly USD 20 billion daily in 2021 and USD 5 billion daily in 2018 (People's Bank of China 2025; CIPS Annual Report 2024). For comparison, SWIFT carries messaging for an estimated USD 5–7 trillion in daily cross-border value across all currencies. The gap is wider than a headline comparison suggests, because a significant share of CIPS flows still ride on SWIFT messaging rails (discussed below) and because SWIFT is a messaging service while CIPS combines messaging with settlement. A conservative way to read the ratio: CIPS-native value is on the order of ~1–2% of SWIFT's total cross-currency throughput, though that share is rising 40%+ year-on-year (CIPS Annual Report 2024).
+**Volume**: CIPS processed approximately RMB 175 trillion in 2024 (about USD 24 trillion at end-2024 exchange rates), implying roughly USD 96 billion per trading day if divided by 250 days (People’s Bank of China 2025; CIPS Annual Report 2024). That arithmetic is an annual-to-daily conversion, not a measure of SWIFT market share. SWIFT counts payment messages across currencies; CIPS reports the value processed by an RMB clearing and settlement system, and some CIPS transactions use SWIFT messaging. Different functions, coverage, and overlapping traffic prevent a defensible share comparison from those headline totals alone.
 
 **Currency settlement**: Only RMB-denominated transactions. Cannot process dollar, euro, or multi-currency transactions like SWIFT.
 
@@ -464,7 +464,7 @@ Launched 2015, CIPS processes cross-border renminbi (RMB) payments, positioning 
 - Supports renminbi internationalization by facilitating cross-border use
 
 **Limitations**:
-- Small scale relative to SWIFT (1% volume)
+- RMB-only settlement coverage; throughput cannot be expressed as a share of SWIFT messages
 - Limited to RMB transactions; dollar remains dominant trade currency
 - Many participants also SWIFT members, creating retaliation vulnerability
 - Liquidity much lower than dollar markets
@@ -720,7 +720,7 @@ Chinese financial sovereignty concerns reflect historical experiences with forei
 
 China's financial strategy pursues several forward-looking goals:
 
-**De-dollarization and financial resilience**: Reducing dependence on dollar-denominated transactions and U.S.-controlled payment systems (SWIFT, correspondent banking) to protect against sanctions. Russia's frozen reserves ($300+ billion, 2022) validated these concerns, accelerating Chinese efforts to build alternative systems (CIPS) and diversify reserve holdings.
+**De-dollarization and financial resilience**: Reducing dependence on dollar-denominated transactions and financial channels exposed to U.S. or allied restrictions (dollar correspondent banking and SWIFT messaging) to protect against sanctions. Russia's frozen reserves ($300+ billion, 2022) validated these concerns, accelerating Chinese efforts to build alternative systems (CIPS) and diversify reserve holdings.
 
 **RMB internationalization**: Promoting yuan use in international trade and finance to reduce transaction costs, enhance monetary policy autonomy, and build financial influence comparable to China's economic weight.
 
@@ -800,7 +800,7 @@ This selective application reveals sanctions as power politics, not principled e
 
 **Economic Warfare Disguised as Law Enforcement**
 
-Chinese officials characterize comprehensive sanctions (Iran, Venezuela, North Korea) as "economic warfare" causing humanitarian suffering:
+Chinese officials characterize broad sanctions, including comprehensive country restrictions and government or sectoral measures (Iran, Venezuela, North Korea) as "economic warfare" causing humanitarian suffering:
 
 - **Civilian impact**: Sanctions harm ordinary citizens through inflation, unemployment, medicine/food shortages
 - **Regime resilience**: Authoritarian regimes often survive sanctions; populations suffer while elites adapt
@@ -909,8 +909,8 @@ Contemporary scholars distinguish today's Global South strategy from Cold War no
 For developing nations, financial sovereignty means the capacity to conduct international trade and manage national reserves without vulnerability to unilateral foreign government decisions. The 2022 freezing of Russia's $300 billion in central bank reserves crystallized a concern that many Global South governments had long harbored: that dollar-denominated reserves, held in Western custodial institutions, are not truly sovereign wealth but conditional deposits subject to political seizure. This perception — whether fully justified or not — has driven concrete behavioral changes:
 
 - Central bank gold purchases surged to record levels in 2022-2024 (World Gold Council), as physical gold held domestically cannot be frozen by foreign governments
-- India and Russia shifted approximately 90% of bilateral trade to rupee-ruble settlement by 2024, up from near-zero before February 2022 (Reserve Bank of India)
-- Brazil and China signed a R$157 billion ($27.7 billion) currency swap agreement in May 2025 (PBOC); roughly 40% of bilateral trade now settles in yuan
+- India and Russia sought alternatives to dollar settlement, but local-currency use does not establish that trade settled specifically in rupees and rubles. A currency-by-currency breakdown is needed before assigning a share to that pair.
+- Brazil and China signed a R$157 billion ($27.7 billion) currency swap agreement in May 2025 (PBOC); the swap’s capacity is not evidence of the share of bilateral trade actually settled in yuan
 - China and Saudi Arabia signed a roughly $6.98 billion (RMB 50 billion) currency swap agreement in November 2023 and have publicly discussed pricing oil sales in yuan, though no completed yuan-denominated Saudi oil transaction has been publicly confirmed (S&P Global 2024)
 
 These bilateral arrangements remain small relative to global dollar flows. But their proliferation signals a systemic shift: countries are actively building the infrastructure for a post-dollar-dominant world, even if that world remains decades away.
@@ -941,7 +941,7 @@ The most fundamental Global South critique frames sanctions not as targeted poli
 
 - **Unilateral authority**: U.S. sanctions are imposed by executive decision, administered by a single bureau (OFAC), and enforced through the threat of exclusion from the dollar clearing system — with no meaningful international oversight, no right of appeal for affected third parties, and no democratic accountability to the populations they devastate
 - **Extraterritorial reach**: Secondary sanctions extend U.S. jurisdiction to transactions involving no American persons, territory, or goods. For developing countries, this means that their sovereign right to trade with whichever partners they choose is contingent on American approval — a relationship that echoes colonial-era trade restrictions
-- **Collective punishment**: Comprehensive sanctions regimes (Iran, Cuba, Venezuela, DPRK) impose devastating humanitarian costs on civilian populations — infant mortality, medical shortages, economic collapse — while elites maintain access through alternative channels. From the Global South, this looks less like "targeted pressure on decision-makers" and more like collective punishment of societies that lack the geopolitical weight to resist
+- **Collective punishment**: Broad sanctions regimes (including comprehensive country restrictions on Iran, Cuba, and the DPRK, and government and sectoral restrictions on Venezuela) impose devastating humanitarian costs on civilian populations — infant mortality, medical shortages, economic collapse — while elites maintain access through alternative channels. From the Global South, this looks less like "targeted pressure on decision-makers" and more like collective punishment of societies that lack the geopolitical weight to resist
 
 **Double Standards**
 
@@ -966,7 +966,7 @@ India, with $660 billion in foreign exchange reserves (Reserve Bank of India) he
 
 ### The Limits of Global South Resistance
 
-Global South de-dollarization rhetoric outpaces reality. The dollar still accounts for approximately 57% of global reserves (down from 71% in 1999, but still dominant) (IMF COFER). The yuan's share of SWIFT payments remains just 2.7% (SWIFT RMB Tracker), and its share of global reserves approximately 1.93% (2025Q3, IMF COFER). China's CIPS processed $24.5 trillion in 2024 (PBOC) — impressive growth, but as noted above, still roughly 1% of SWIFT's daily volume and reliant on SWIFT messaging for most transactions. The NDB's $40 billion portfolio is a rounding error beside the World Bank's cumulative lending.
+Global South de-dollarization rhetoric outpaces reality. The dollar still accounts for approximately 57% of global reserves, compared with 71% in 1999 (IMF COFER). The yuan’s share of SWIFT payment value was 2.73% in December 2025, while its share of reserves was 1.93% in 2025Q3: these are different denominators. CIPS processed about RMB 175 trillion in 2024 (PBOC), demonstrating growing RMB settlement capacity. That annual value cannot be compared directly with SWIFT’s daily message count or treated as a percentage of SWIFT’s traffic. Institutional alternatives remain substantial projects to evaluate on their own terms, rather than proof that a replacement financial system already exists.
 
 The structural barriers are formidable:
 
@@ -1118,4 +1118,4 @@ U.S. Department of the Treasury. 2021. "Sanctions Review." October.
 
 OFAC Sanctions Programs: https://home.treasury.gov/policy-issues/financial-sanctions
 
-
+Council of the European Union. 2022. Council Regulation (EU) 2022/345, March 1. Restrictions on specialized financial messaging services to listed Russian banks. https://eur-lex.europa.eu/eli/reg/2022/345/oj

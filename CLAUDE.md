@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project Overview
 
-Academic textbook on economic coercion and strategic competition, primarily focused on US-China relations. 10 chapters with data visualizations and tabletop exercises. Author: Laurence Wilse-Samson (Columbia SIPA).
+Academic textbook on economic coercion and strategic competition, primarily focused on US-China relations. 10 chapters with data visualizations and tabletop exercises. Author: Laurence Wilse-Samson (NYU Wagner, as stated in the book’s front matter).
 
 ## Build Commands
 
@@ -27,8 +27,7 @@ the canonical statistics, and the figures cannot merge unnoticed. Run them local
 
 **Prerequisites:** R, Pandoc, LaTeX.
 
-R packages, by what they unlock (49 of the 61 figure scripts build with the first
-group alone):
+R packages used by the 47 R figure scripts:
 
 - **Core** (needed by nearly every script): `tidyverse`, `ggplot2`, `dplyr`, `tidyr`,
   `scales`, `forcats`, `patchwork`, `here`
@@ -38,7 +37,7 @@ group alone):
 - **Maps and specialty** (9 scripts): `sf`, `tmap`, `rnaturalearth`,
   `rnaturalearthdata`, `treemapify`
 
-Every dependency is on CRAN, so a machine with CRAN access builds all 61 scripts.
+The R dependencies are available on CRAN. Two additional figures are generated with Python and matplotlib; see the build commands in README.md. There are 49 published figures in total.
 `scripts/qa_manuscript.py` enforces this against a reviewed allowlist: a GitHub-only
 package (as `ggradar` once was) fails the check rather than silently making the
 pipeline unreproducible for everyone else.
@@ -80,7 +79,7 @@ save_econ_figure("figures/fig_XX_YY_name.png", width = 10, height = 6)
 - `sector_colors` — Industry sector colors
 - `scale_color_countries()` / `scale_fill_countries()` — Helper functions
 
-**Maps:** Use `sf` and `rnaturalearth` packages. See `fig_03_04_chokepoints.R` as template.
+**Maps:** Use `sf` and `rnaturalearth` packages. See `R/figures/fig_03_01_chokepoints.R` as a template.
 
 ## Conventions
 
@@ -89,3 +88,4 @@ save_econ_figure("figures/fig_XX_YY_name.png", width = 10, height = 6)
 - **Width:** 10 inches standard, 6 inches for single-column
 - **Math in Markdown:** Use `$$...$$` on own lines for GitBook KaTeX compatibility
 - **Citations:** Author-date format (Smith 2020)
+

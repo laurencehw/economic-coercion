@@ -1,0 +1,5 @@
+Scenario,Label,Integration,Competition,Planning_Weight
+A,Managed Competition,0.72,0.76,40
+B,Economic Cold War,0.20,0.85,25
+C,Crisis Fragmentation,0.28,0.32,20
+D,Renewed Integration,0.82,0.18,15

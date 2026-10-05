@@ -1,4 +1,4 @@
-# Figure 9.5: Historical Economic Coercion Outcomes
+# Figure 9.3: Historical Economic Coercion Outcomes
 # Chapter 9: Historical Cases
 # Scatter plot of economic cost vs political success across historical cases
 
@@ -104,6 +104,7 @@ p <- ggplot(historical_cases, aes(x = -target_gdp_impact, y = success_score)) +
   )
 
 # Save the figure
-save_econ_figure(here::here("figures", "fig_09_05_historical_outcomes.png"), plot = p, width = 13, height = 10)
+save_econ_figure(here::here("figures", "fig_09_03_historical_outcomes.png"), plot = p, width = 13, height = 10)
 
-cat("Figure 9.5 created: Historical Outcomes Scatter\n")
+cat("Figure 9.3 created: Historical Outcomes Scatter\n")
+

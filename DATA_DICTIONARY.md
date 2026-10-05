@@ -3,7 +3,7 @@
 
 This document provides metadata and documentation for all CSV datasets used in the textbook's data visualizations and analysis.
 
-**Last Updated:** July 11, 2026
+**Last Updated:** October 4, 2026 (metadata and disclosure revision; canonical source vintages retained)
 **Total Datasets:** 28
 **Data Location:** `data/sources/`
 
@@ -29,7 +29,7 @@ Every figure below was reconciled on 2026-07-11 against primary sources to resol
 | 10 | OFAC — staff and SDN list size | Staff **~200+** ("more than 200," Treasury); SDN list **>12,000 entries** | Staff 2020 statement; SDN list 2026 | U.S. Treasury/OFAC; CNAS *Sanctions by the Numbers* | OFAC does not publish an exact headcount; "more than 200" is the last official figure (estimates run ~200–300 with detailees/contractors). SDN list exceeds 12,000 persons/entities/vessels/aircraft/crypto addresses; record 3,135 additions in 2024. Use "~200 staff" and ">12,000 SDN entries." |
 | 11 | IEEPA maximum civil penalty (inflation-adjusted) | **$377,700 per violation**, or twice the transaction value, whichever is greater | Effective 2025-01-15 through 2026-01-14 | Treasury/OFAC, *Inflation Adjustment of Civil Monetary Penalties*, 90 Fed. Reg. (Jan 2025) | Adjusted annually. Prior year (2024) was $368,136. Both the book's "$330,000" and "$356,579" are stale — use the current $377,700 (and note it is re-indexed each January). |
 | 12 | CFIUS CY2024 statistics | **116 declarations; 209 notices; 325 total transactions reviewed/assessed.** China = most notices of any investor country (**26**, though <21 distinct transactions). **49 notices withdrawn (42 refiled).** | Calendar year 2024 (report released Aug 2025) | U.S. Treasury, *CFIUS Annual Report to Congress, CY2024* | **This is the authoritative set — resolves the ch8 contradiction (ch8:158–163 vs 656).** Declarations fell (325 total transactions vs 342 in 2023, 440 in 2022). ~78% of declarations were cleared after the 30-day assessment. |
-| 13 | Chinese FDI into the US (Rhodium series) | **Peak 2016 ≈ $46B**; since fallen ~90% to low single-digit billions; 2024 new-investment ≈ **$589M** (BEA) | 2016 peak; 2024 latest | Rhodium Group, *China Global Investment Tracker*; BEA (for the 2024 point) | Flag the series basis: Rhodium (completed FDI transactions) and BEA (new-investment expenditures) differ — do not mix. Peak year is 2016 (~$46B); flows have collapsed since 2017 and remain depressed. |
+| 13 | Chinese FDI into the US (Rhodium series) | **Peak 2016 ≈ $46B**; since fallen ~90% to low single-digit billions; 2024 new-investment ≈ **$589M** (BEA) | 2016 peak; 2024 latest | Rhodium Group, U.S.–China investment research; BEA (for the 2024 point) | Flag the series basis: Rhodium (completed FDI transactions) and BEA (new-investment expenditures) differ — do not mix. Peak year is 2016 (~$46B); flows have collapsed since 2017 and remain depressed. |
 | 14 | Australia wine — China export share and duty removal | China ≈ **39–40%** of Australian wine exports pre-2020 (2019, surpassing France); duties **removed 29 March 2024** | 2019 share; 2024-03-29 removal | Wine Australia; DFAT; UNSW/CNN reporting | The "95% of revenue from China" figure (ch8:15) is wrong; ~39% of exports is correct (matches body text). Punitive duties (up to 218%) ran 2020–2024; removed 29 March 2024 (not "by 2025"). |
 | 15 | China retaliatory tariff coverage, 2018–19 trade war | Covered **~58% of US exports to China (~$90B at 2017 levels), rising to ~69% product coverage by Dec 2019**; announced tariff-list totals ~$100–110B | 2018–2019 | Bown/PIIE, *US-China Trade War Tariffs* tracker | Corrects ch6's "$185B (70% of US exports)," which is impossible — total US goods exports to China in 2017 were only ~$130B. Use ~$90–110B / roughly two-thirds of US exports covered. |
 | 16 | Undersea (submarine) cables — global count | **~570 in-service systems** (597 including under construction); 1,712 landings | 2025 map (TeleGeography) | TeleGeography, *Submarine Cable Map 2025* | Replaces the book's 485 (ch5:26) and 400 (ch5:537). Use "~570 active systems (about 600 including those under construction)." |
@@ -52,7 +52,7 @@ Every figure below was reconciled on 2026-07-11 against primary sources to resol
 - **Office of Foreign Assets Control (OFAC) / U.S. Treasury.** SDN List and program information; *Inflation Adjustment of Civil Monetary Penalties*, Federal Register (Jan 2025). https://ofac.treasury.gov.
 - **Center for a New American Security (CNAS).** *Sanctions by the Numbers: 2024 Year in Review.* https://www.cnas.org.
 - **U.S. Department of the Treasury.** *CFIUS Annual Report to Congress, CY2024* (released Aug 2025). https://home.treasury.gov.
-- **Rhodium Group.** *China Global Investment Tracker* (with AEI). https://rhg.com; MERICS–Rhodium COFDI updates.
+- **Rhodium Group.** U.S.–China investment research. https://rhg.com; MERICS–Rhodium COFDI updates. The *China Global Investment Tracker* is a separate AEI product and is not interchangeable with Rhodium’s transaction series.
 - **Wine Australia** and **Australian DFAT.** Wine export data and the 29 March 2024 duty removal. https://www.wineaustralia.com.
 - **Bown, Chad P. / Peterson Institute for International Economics (PIIE).** *US-China Trade War Tariffs: An Up-to-Date Chart* and underlying data. https://www.piie.com.
 - **TeleGeography.** *Submarine Cable Map 2025.* https://www.submarinecablemap.com.
@@ -120,10 +120,10 @@ Every figure below was reconciled on 2026-07-11 against primary sources to resol
 **Notes:** Includes GDPR, Chinese Cybersecurity Law, Russia Data Law
 
 ### 10. **dollar_reserves_projection.csv**
-**Variables:** Year, USD_Historical, EUR_Historical, CNY_Historical, Others_Historical, USD_Baseline, USD_Slow_Decline, USD_Accelerated, EUR_Baseline, CNY_Baseline
-**Source:** IMF COFER, Author projections
-**Retrieval Date:** January 2026
-**Notes:** Historical data 2000-2025; projections 2025-2050 across multiple scenarios
+**Variables:** Year, Period, USD_Observed, USD_Baseline, USD_Diversification, USD_Disruption
+**Source:** IMF COFER 2025Q3 dollar share as quoted in Chapter 7; author’s illustrative future paths
+**Revision Date:** October 4, 2026 (no new external data retrieval)
+**Notes:** One observed anchor: 2025Q3 = 56.92%. All three sensitivity paths start at that anchor and extend to 2050. Future cells are assumptions, not observations or confidence bounds. Retires the prior mixed-vintage history and unsupported pre-2016 CNY observations; no euro or renminbi forecast remains.
 
 ### 11. **economic_coercion_timeline.csv**
 **Variables:** Year, Event, Category, Description
@@ -173,11 +173,11 @@ Every figure below was reconciled on 2026-07-11 against primary sources to resol
 **Retrieval Date:** February 2026
 **Notes:** Post-February 2022 freeze; by category and location
 
-### 19. **sanctions_success_rates.csv**
-**Variables:** Sanction_Type, Success_Rate, Partial_Success, Failure, Total_Cases, Avg_Duration_Years
-**Source:** Hufbauer et al. 2007, Biersteker et al. 2016, Drezner 1999, Pape 1997
-**Retrieval Date:** December 2025
-**Notes:** Success and failure rates by sanction type with average duration
+### 19. **scenario_planning_weights.csv**
+**Variables:** Scenario, Label, Integration, Competition, Planning_Weight
+**Source:** Author’s stylized scenario exercise in Chapter 10
+**Revision Date:** October 4, 2026
+**Notes:** Coordinates are illustrative positions on qualitative axes, not measured indices. Weights total 100 for the 2035–2050 classroom exercise; they are not calibrated likelihoods. Replaces the unreproducible sanctions-rate table retired in this revision.
 
 ### 20. **soviet_grain_imports.csv**
 **Variables:** Year, USA, Canada, Argentina, Australia, EU, Others, Total
