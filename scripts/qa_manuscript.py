@@ -18,6 +18,9 @@ import glob
 import os
 import re
 import sys
+from pathlib import Path
+
+from scenario_data import load_reserve_paths, load_planning_weights
 
 CHAPTERS = sorted(
     glob.glob("chapters/chapter_*.md"),
@@ -247,7 +250,7 @@ def pipeline_checks() -> None:
     # every script should produce the image it names, and every image should have a
     # script that produces it
     produced, missing = {}, []
-    for rf in sorted(glob.glob("R/figures/*.R")):
+    for rf in sorted(glob.glob("R/figures/*.R") + glob.glob("scripts/figures/*.py")):
         for png in re.findall(r'"(fig_[a-z0-9_]+\.png)"', read(rf)):
             produced[png] = rf
             if not os.path.exists(os.path.join("figures", png)):
@@ -261,12 +264,47 @@ def pipeline_checks() -> None:
     check("every image has a generating script", not unproduced, "; ".join(unproduced))
 
 
+def scenario_checks() -> None:
+    print("\nScenario assumptions")
+    try:
+        reserves = load_reserve_paths(Path("data/sources/dollar_reserves_projection.csv"))
+        weights = load_planning_weights(Path("data/sources/scenario_planning_weights.csv"))
+    except (ValueError, KeyError, OSError) as exc:
+        check("scenario CSVs have valid anchors, shares, quadrants, and weights", False, str(exc))
+        return
+    check("scenario CSVs have valid anchors, shares, quadrants, and weights", True)
+    ch7 = read("chapters/chapter_7.md")
+    anchor = reserves[0]
+    quoted = re.search(r"reserve currency \((\d+\.\d+)%.*?in (\d{4}Q\d)\)", ch7)
+    check("reserve chart anchor agrees with Chapter 7's quoted vintage", bool(quoted) and
+          abs(float(quoted.group(1)) - anchor["USD_Observed"]) < .00001 and
+          quoted.group(2) == anchor["Period"])
+    ch10 = read("chapters/chapter_10.md")
+    quoted_weights = dict(re.findall(
+        r"^### Scenario ([A-D]):[^\n]*?(\d+)% planning weight", ch10, re.M))
+    check("scenario weights agree with all four chapter headings",
+          len(quoted_weights) == 4 and all(
+              float(quoted_weights[r["Scenario"]]) == r["Planning_Weight"] for r in weights))
+    captions = dict(re.findall(r"<figcaption>Figure (10\.[15]): ([^<]+)</figcaption>", ch10))
+    check("scenario figure captions disclose their assumptions",
+          "illustrative assumptions" in captions.get("10.1", "") and
+          "not a calibrated likelihood" in captions.get("10.5", ""))
+    retired = [p for p in (
+        "data/sources/sanctions_success_rates.csv",
+        "figures/fig_09_03_sanctions_success.png",
+        "figures/fig_09_04_sanctions_decision_tree.png",
+    ) if os.path.exists(p)]
+    check("unsupported sanctions-rate and probability figures remain retired",
+          not retired, "; ".join(retired))
+
+
 def main() -> int:
     print("Manuscript QA")
     figure_checks()
     data_checks()
     pipeline_checks()
     apparatus_checks()
+    scenario_checks()
     for note in notes:
         print(f"\n  note: {note}")
     if failures:

@@ -35,11 +35,11 @@ The U.S. dollar's role as global reserve currency and dominant medium of exchang
 
 ### Dollar Privilege and Its Vulnerabilities
 
-Figure 10.1 sets out the reserve-currency trajectory that the scenarios in this chapter turn on. The decline in the dollar's share is real but gradual, and it has been running at a pace that would take decades to displace incumbency — which is why the interesting question is not the trend but what could interrupt it.
+Figure 10.1 separates an observed reserve share from three illustrative paths. All paths begin at the same 2025Q3 dollar share, 56.92%, and differ only in assumed future diversification. They are sensitivity cases, not fitted forecasts or estimates of the effect of sanctions. The chart does not project euro or renminbi shares; a falling dollar share does not tell us which currencies gain.
 
 <figure class="book-figure">
-  <img src="../figures/fig_10_01_dollar_reserves.png" alt="Projected dollar share of global reserves under different scenarios from 2024-2050.">
-  <figcaption>Figure 10.1: Projected dollar share of global reserves under different scenarios from 2024-2050.</figcaption>
+  <img src="../figures/fig_10_01_dollar_reserves.png" alt="Dollar reserve-share paths all beginning at the observed 2025Q3 share of 56.92%, then diverging to illustrative 2050 endpoints of 50.5%, 38%, and 30%.">
+  <figcaption>Figure 10.1: Dollar reserve-share sensitivity paths from a common 2025Q3 anchor through 2050. Source for the observed anchor: IMF COFER, December 19, 2025, as recorded in Chapter 7. Future values are illustrative assumptions, with no assigned probabilities or confidence interval; the shaded span is the range of those assumptions.</figcaption>
 </figure>
 
 **Current Dollar Dominance**
@@ -177,7 +177,7 @@ Artificial intelligence, quantum computing, biotechnology, and space systems mar
 
 ### Artificial Intelligence: The Defining Technology Competition
 
-Figure 10.4 revisits the AI indicators introduced in Chapter 4, now as inputs to the scenarios below. Their divergence is what makes the technology competition hard to score in advance, and it is the principal reason the scenario probabilities offered here are wide.
+Figure 10.4 revisits the AI indicators introduced in Chapter 4, now as inputs to the scenarios below. Their divergence is what makes the technology competition hard to score in advance, and it is a reason to test policies across scenarios rather than rely on a single forecast.
 
 <figure class="book-figure">
   <img src="../figures/fig_10_04_ai_indicators.png" alt="AI development indicators comparing U.S. and China across research, talent, compute, and applications.">
@@ -330,14 +330,14 @@ Projecting 25 years into an uncertain future requires scenario analysis: develop
 - **Managed competition**: Rules-based rivalry, crisis management mechanisms, limited escalation
 - **Intense confrontation**: Economic warfare, comprehensive coercion, crisis-prone, risk of military conflict
 
-Combining these dimensions generates four scenarios. Figure 10.5 places each on the two axes that produce them and sizes each by its probability. The quadrant structure repays attention, because it shows that the scenarios are not points along a single spectrum from cooperation to conflict. Managed competition and economic cold war differ mainly in integration, not in intensity — both are intensely competitive worlds. Crisis fragmentation is the low-intensity, low-integration case, which is why it feels less alarming than a cold war while being in some ways harder to navigate: there is no single adversary to organise policy around. The probabilities are the author's estimates, and their ordering is more defensible than their levels.
+Combining these dimensions generates four scenarios. Figure 10.5 locates them schematically by integration and the intensity of U.S.–China bilateral competition. The axes are qualitative, not measured indices. Scenario C’s low position on the second axis means less coherent bilateral bloc competition, not low system-wide danger: regional wars and supply interruptions can remain severe. The 40/25/20/15 allocation is a set of subjective planning weights for the 2035–2050 scenario exercise, not an empirically calibrated probability distribution. The scenarios are stylized reference worlds that can overlap or follow one another; the weights sum to 100 for a classroom decision exercise, not because the four worlds exhaust every possible future.
 
 <figure class="book-figure">
-  <img src="../figures/fig_10_05_scenario_matrix.png" alt="Two-by-two matrix placing the four scenarios by integration level and competition intensity, with probability weights and scenario descriptions.">
-  <figcaption>Figure 10.5: The four scenarios mapped by integration level and competition intensity, sized by probability. The probabilities are the author's estimates; their ordering is more defensible than their levels.</figcaption>
+  <img src="../figures/fig_10_05_scenario_matrix.png" alt="Two-by-two matrix placing the four scenarios by integration level and competition intensity, with subjective planning weights and scenario descriptions.">
+  <figcaption>Figure 10.5: Four stylized 2035–2050 scenarios mapped by integration and bilateral competition intensity. Positions and planning weights are illustrative author judgments. Low bilateral competition does not imply low regional crisis risk. Bubble area represents the stated planning weight, not a calibrated likelihood.</figcaption>
 </figure>
 
-### Scenario A: Managed Competition with Selective Integration (Baseline — 40% probability)
+### Scenario A: Managed Competition with Selective Integration (Baseline — 40% planning weight)
 
 The baseline is not a resolution but a continuation. Competition stays intense and stays managed: decoupling proceeds sector by sector — semiconductors, artificial intelligence, biotechnology, defense-critical technologies — while trade in everything else continues largely undisturbed. The institutional machinery of crisis management holds well enough that Taiwan and the South China Sea remain below the military threshold, sustained by deterrence, back-channel communication, and the absence on both sides of any appetite for the alternative.
 
@@ -347,7 +347,7 @@ Coordination in this world is chronically strained but never breaks. G7 alignmen
 
 For policymakers this is the least dramatic and most demanding scenario, because it offers no crisis to force decisions. It rewards sustained multilateral coordination through friction that never quite becomes rupture, continued investment in the technologies where leadership is the source of leverage, patient management of Global South relationships through development finance rather than pressure, and the unglamorous maintenance of crisis-communication channels whose value is entirely counterfactual.
 
-### Scenario B: Economic Cold War with Deep Fragmentation (25% probability)
+### Scenario B: Economic Cold War with Deep Fragmentation (25% planning weight)
 
 An economic cold war does not arrive by drift. It requires a rupture — a Taiwan confrontation, a South China Sea clash, a technology embargo comprehensive enough to demand comprehensive retaliation — after which continued integration becomes politically impossible on both sides. Rival blocs consolidate, cross-bloc trade falls to a residue, institutions duplicate, and technology standards become deliberately incompatible. The risk of military conflict is materially higher in this world than in any other on this list, which is the reason it deserves attention out of proportion to its probability.
 
@@ -362,7 +362,7 @@ Alliances harden into their blocs. NATO's economic dimension deepens into shared
 
 The policy implications are uncomfortable, because most of them involve spending heavily on capabilities one hopes never to need. Supply-chain independence in critical sectors is expensive and, in this scenario, unavoidable. Allied integration must deepen from coordination into something closer to shared industrial policy. Alternative supply chains are far cheaper to build before a crisis than during one. And above all, escalation management becomes the central task, since the distance between economic and military conflict is shorter here than anywhere else on this list.
 
-### Scenario C: Crisis-Driven Fragmentation with Regional Variation (20% probability)
+### Scenario C: Crisis-Driven Fragmentation with Regional Variation (20% planning weight)
 
 The third scenario is the one that resembles most previous breakdowns of an international economic order: not a clean bipolar split but an uneven unravelling. A sequence of shocks — a pandemic, a financial crisis, several regional conflicts running at once — fragments globalization by sector and by region rather than by alliance. Energy, food, and commodities stay broadly integrated because integration is cheaper than the alternative; technology, finance, and defense industry fragment because the security case overwhelms the efficiency case. What emerges is not two blocs but several regions with genuinely different characteristics.
 
@@ -372,7 +372,7 @@ American alliances weaken in this world, less through any decision than through 
 
 The policy response this scenario demands runs against instinct. It rewards prioritizing regional partnerships over global frameworks, accepting reduced global influence in order to concentrate resources on vital interests, diversifying technological, resource, and financial dependencies for a world in which no single system is reliable, and preserving enough flexibility to adapt as regional dynamics diverge in ways that cannot be forecast from the present.
 
-### Scenario D: Renewed Integration and Managed Competition (15% probability)
+### Scenario D: Renewed Integration and Managed Competition (15% planning weight)
 
 The least likely scenario is also the one most dependent on catastrophe. Renewed cooperation between the United States and China is difficult to reach from current conditions by ordinary political means; what could produce it is a shared threat large enough to dwarf the competition — climate damage exceeding the worst current projections, a pandemic substantially deadlier than COVID-19, or an economic depression severe enough to make mutual recrimination unaffordable. This is worth stating plainly, because a scenario whose most plausible pathway runs through disaster is not an optimistic one.
 
@@ -593,3 +593,4 @@ Stanford University. *Artificial Intelligence Index Report.* Stanford HAI, annua
 World Bank. 2021. *Groundswell Part 2: Acting on Internal Climate Migration.* World Bank.
 
 ---
+

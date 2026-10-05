@@ -33,6 +33,7 @@
 ## Appendices
 
 * [Appendix A: Tabletop Exercises](appendices/appendix_a_tabletop_exercises.md)
+* [Appendix B: Analytical Practice and Worked Answers](appendices/appendix_b_analytical_practice.md)
 
 ## Back Matter
 

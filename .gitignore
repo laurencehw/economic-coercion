@@ -85,3 +85,7 @@ minimal_test.*
 
 # But keep folder structure
 !.gitkeep
+# Python figure-renderer caches
+__pycache__/
+*.pyc
+

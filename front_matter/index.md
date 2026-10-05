@@ -197,7 +197,7 @@ For definitions, see the [Glossary](glossary.md). For sources, see the
 
 ## T {-}
 
-**Taiwan contingency** — [App. A](../appendices/appendix_a_tabletop_exercises.md#scenario-overview); [Ch 1](../chapters/chapter_1.md), [Ch 2](../chapters/chapter_2.md#why-taiwan-matters), [Ch 4](../chapters/chapter_4.md#why-semiconductors-define-technology-competition), [Ch 5](../chapters/chapter_5.md), [Ch 6](../chapters/chapter_6.md#hybrid-approaches-coalitions-of-the-willing), [Ch 8](../chapters/chapter_8.md), [Ch 9](../chapters/chapter_9.md#chinese-perspective-box-historical-victimization-and-resistance-to-coercion), [Ch 10](../chapters/chapter_10.md#scenario-b-economic-cold-war-with-deep-fragmentation-25-probability)
+**Taiwan contingency** — [App. A](../appendices/appendix_a_tabletop_exercises.md#scenario-overview); [Ch 1](../chapters/chapter_1.md), [Ch 2](../chapters/chapter_2.md#why-taiwan-matters), [Ch 4](../chapters/chapter_4.md#why-semiconductors-define-technology-competition), [Ch 5](../chapters/chapter_5.md), [Ch 6](../chapters/chapter_6.md#hybrid-approaches-coalitions-of-the-willing), [Ch 8](../chapters/chapter_8.md), [Ch 9](../chapters/chapter_9.md#chinese-perspective-box-historical-victimization-and-resistance-to-coercion), [Ch 10](../chapters/chapter_10.md#scenario-b-economic-cold-war-with-deep-fragmentation-25-planning-weight)
 
 **TSMC** — [Ch 2](../chapters/chapter_2.md#why-taiwan-matters); [Ch 4](../chapters/chapter_4.md#how-it-works-in-practice), [Ch 6](../chapters/chapter_6.md), [Ch 8](../chapters/chapter_8.md), [App. A](../appendices/appendix_a_tabletop_exercises.md#background-materials)
 
@@ -239,4 +239,5 @@ For definitions, see the [Glossary](glossary.md). For sources, see the
 *Index entries are generated from the manuscript text and verified against the
 chapter headings they link to. Terms are included where a chapter gives them
 substantive treatment rather than a passing mention.*
+
 
