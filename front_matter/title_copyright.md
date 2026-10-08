@@ -18,7 +18,7 @@ This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 Int
 
 ## AI Disclosure
 
-> **Artificial intelligence tools (Claude by Anthropic) were used in the generation, research, and editing of portions of this book.** All content has been reviewed and edited by the author. While effort has been made to ensure accuracy, the rapidly evolving nature of economic policy and international relations means that some details may become dated. Readers should consult current sources for the latest developments.
+> The manuscript was prepared with substantial assistance from AI language models, principally Claude (Anthropic), used for drafting, editing, research, R figure code, tabletop exercises, consistency checking and citation verification. The framework, the argument, the selection of material and the judgments throughout are mine, as is the responsibility for what remains wrong. While effort has been made to ensure accuracy, the rapidly evolving nature of economic policy and international relations means that some details may become dated. Readers should consult current sources for the latest developments.
 
 ---
 
