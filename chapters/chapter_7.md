@@ -16,7 +16,7 @@ Financial coercion rests on an unusual fact: a single national currency, togethe
 
 Financial sanctions operate through money and payments rather than physical destruction. They do not destroy factories or blockade ports, but their effects can be severe. A firm cut off from dollar-denominated payments, or a state cut off from global banking, can face acute crisis. Understanding how this power works, and how it might unravel, requires attention to three dynamics.
 
-The first is that U.S. financial power rests on structural advantages in the international monetary system, not simply economic size. The dollar's role as dominant reserve currency (56.92% of allocated global foreign exchange reserves in 2025Q3), payment currency (50.49% of global SWIFT payments by value in December 2025; 58.62% excluding euro-area internal payments), and safe haven asset creates network effects (IMF COFER, December 19, 2025; SWIFT RMB Tracker, January 2026) and path dependencies that competitors cannot easily replicate. Jurisdiction over dollar clearing gives the United States particular leverage, while EU jurisdiction over SWIFT and Belgian jurisdiction over Euroclear make allied coordination consequential. Market centrality amplifies these legal authorities; it does not itself establish jurisdiction over every transaction.
+The first is that U.S. financial power rests on structural advantages in the international monetary system, not simply economic size. The dollar's role as dominant reserve currency (56.92% of global foreign exchange reserves in 2025Q3), payment currency (50.49% of global SWIFT payments by value in December 2025; 58.62% excluding euro-area internal payments), and safe haven asset creates network effects (IMF COFER, December 19, 2025; SWIFT RMB Tracker, January 2026) and path dependencies that competitors cannot easily replicate. Jurisdiction over dollar clearing gives the United States particular leverage, while EU jurisdiction over SWIFT and Belgian jurisdiction over Euroclear make allied coordination consequential. Market centrality amplifies these legal authorities; it does not itself establish jurisdiction over every transaction.
 
 The second is that U.S. financial coercion has expanded in scope and ambition, moving from targeted individuals and entities to entire economies and financial systems. Traditional sanctions blocked specific terrorists, narcotics traffickers, or proliferators from U.S. financial system access. Modern sanctions include broad country restrictions (Iran and North Korea), government-blocking and sectoral measures (Venezuela), freeze central bank reserves (Russia, Afghanistan), and employ secondary sanctions forcing third parties to choose between U.S. and target markets. This escalation raises questions about sustainability and blowback.
 
@@ -43,7 +43,7 @@ Figure 7.1 shows the holdings that give this section its subject. The detail wor
 
 **Reserve Currency Status**
 
-The U.S. dollar comprises 56.92% of allocated global foreign exchange reserves (2025Q3) (IMF COFER Data Brief, December 19, 2025), far exceeding the U.S. share of global GDP (~25%) or trade (~11%) (World Bank WDI). This reserve status means:
+The U.S. dollar comprises 56.92% of global foreign exchange reserves (2025Q3) (IMF COFER Data Brief, December 19, 2025), far exceeding the U.S. share of global GDP (~25%) or trade (~11%) (World Bank WDI). This reserve status means:
 
 - **Central banks hold dollars**: Foreign governments maintain dollar reserves to stabilize exchange rates, service dollar-denominated debts, and conduct international transactions. As of 2025, foreign official holdings of U.S. Treasury securities remain in the multi-trillion-dollar range (U.S. Treasury TIC).
 
@@ -248,11 +248,11 @@ OFAC operates under multiple statutory authorities. The primary basis is **IEEPA
 
 ### Types of Sanctions Programs
 
-Figure 7.3 gives the shape of the portfolio these authorities have produced. The growth is less a series of discrete decisions than an accumulation: programs are added far more readily than they are retired, which is one reason the question of off-ramps recurs throughout this chapter.
+Figure 7.3 illustrates the scale of selected bank enforcement settlements involving sanctions. The growth is less a series of discrete decisions than an accumulation: programs are added far more readily than they are retired, which is one reason the question of off-ramps recurs throughout this chapter.
 
 <figure class="book-figure">
-  <img src="../figures/fig_07_03_sanctions_programs.png" alt="Active U.S. sanctions programs by type, showing the growth of comprehensive and targeted sanctions over time.">
-  <figcaption>Figure 7.3: Active U.S. sanctions programs by type, showing the growth of comprehensive and targeted sanctions over time.</figcaption>
+  <img src="../figures/fig_07_03_sanctions_programs.png" alt="Selected bank enforcement settlements involving sanctions, shown by institution, year, and estimated sanctioned-country allocation.">
+  <figcaption>Figure 7.3: Selected bank enforcement settlements involving sanctions, shown by institution, year, and estimated sanctioned-country allocation. These totals include other violations: HSBC's 2012 settlement combined sanctions and anti-money-laundering enforcement, rather than $1.9 billion of OFAC sanctions penalties alone. Country allocations remain unreconciled. The script labels are corrected pending image regeneration.</figcaption>
 </figure>
 
 OFAC administers multiple sanctions program types:
@@ -320,7 +320,7 @@ Sanctions laws provide humanitarian exceptions, yet implementation faces challen
 
 **Statutory Humanitarian Exceptions**
 
-- **Food and medicine**: IEEPA exempts donations of food, clothing, and medicine from prohibition (50 U.S.C. § 1702(b)(2))
+- **Food and medicine**: IEEPA generally exempts humanitarian donations of food, clothing, and medicine, subject to specified presidential exceptions (50 U.S.C. § 1702(b)(2))
 - **Informational materials**: Protected by First Amendment and statutory exemption (§ 1702(b)(3))
 
 **Practical Barriers**
@@ -512,7 +512,7 @@ Reserve currency status requires confidence in legal institutions protecting pro
 - Government interventions in markets (trading halts, capital flight restrictions, property confiscations)
 - Zero-COVID lockdowns (2020-2022) and abrupt regulatory crackdowns (tech, education, gaming sectors 2021-2022) demonstrated policy unpredictability
 
-Freezing Russia's central bank reserves highlighted U.S. willingness to confiscate for political reasons, but China's record of domestic asset confiscations and capital controls raises even greater concerns for foreign holders.
+Freezing Russia's central bank reserves highlighted U.S. willingness to immobilize reserves for political reasons, but China's record of domestic asset confiscations and capital controls raises even greater concerns for foreign holders.
 
 **Network Effects**
 
@@ -617,7 +617,7 @@ Some sanctioned actors use cryptocurrencies to evade restrictions:
 - **Traceability**: Blockchain transactions pseudo-anonymous but traceable; U.S. sanctions authorities increasingly effective at tracking illicit crypto flows
 - **Adoption**: No major economy accepts cryptocurrency for taxes or official transactions; limited utility for state-level commerce
 
-**Stablecoins**: Dollar-pegged cryptocurrencies (USDT, USDC) are the largest crypto by volume—but these reinforce dollar dominance by creating digital dollars, not alternatives. U.S. policy has since embraced this logic explicitly. The GENIUS Act (Guiding and Establishing National Innovation for U.S. Stablecoins Act), signed into law in July 2025, requires payment stablecoins to be fully backed one-for-one by U.S. dollars and short-term Treasuries—turning every dollar of stablecoin issuance into new demand for U.S. government debt. Framed by its sponsors as a way to "extend the dollar's dominance" into digital finance, the statute is best read as a deliberate dollar-extension strategy: rather than resisting crypto, Washington is channeling it into instruments that deepen, not dilute, dollar centrality. This is the mirror image of the de-dollarization efforts surveyed above, and it is a live counterargument to forecasts of dollar decline (see Chapter 10's de-dollarization scenarios).
+**Stablecoins**: Dollar-pegged cryptocurrencies (USDT, USDC) are the largest crypto by volume—but these reinforce dollar dominance by creating digital dollars, not alternatives. U.S. policy has since embraced this logic explicitly. The GENIUS Act (Guiding and Establishing National Innovation for U.S. Stablecoins Act), signed into law in July 2025, sets an at-least-one-for-one reserve requirement for permitted issuers, allowing cash, deposits, short-term Treasuries, and other specified liquid assets—potentially increasing demand for U.S. government debt. Framed by its sponsors as a way to "extend the dollar's dominance" into digital finance, the statute is best read as a deliberate dollar-extension strategy: rather than resisting crypto, Washington is channeling it into instruments that deepen, not dilute, dollar centrality. This is the mirror image of the de-dollarization efforts surveyed above, and it is a live counterargument to forecasts of dollar decline (see Chapter 10's de-dollarization scenarios).
 
 **Assessment**: Cryptocurrencies enable marginal sanctions evasion for small transactions and illicit actors but cannot support large-scale international trade or serve as reserve currency. More likely to complement than replace dollar.
 
@@ -751,7 +751,7 @@ Chinese Foreign Ministry statements routinely condemn U.S. "long-arm jurisdictio
 - **Capital account control**: Managing cross-border capital flows to prevent destabilizing speculation or capital flight
 - **Systemic stability**: Preventing external shocks (sanctions, financial crises) from destabilizing domestic financial system
 
-Russia's frozen reserves ($300+ billion, 2022) validated Chinese concerns: Even central bank reserves considered sacrosanct can be confiscated. This accelerated Chinese efforts to reduce dollar exposure and build alternatives.
+Russia's frozen reserves ($300+ billion, 2022) validated Chinese concerns: Even central bank reserves considered sacrosanct can be immobilized. This accelerated Chinese efforts to reduce dollar exposure and build alternatives.
 
 **Financial Opening with Chinese Characteristics (有中国特色的金融开放, yǒu zhōngguó tèsè de jīnróng kāifàng)**
 
@@ -847,7 +847,7 @@ China's **Rules on Counteracting Unjustified Extra-territorial Application of Fo
 - Recovery of damages from entities complying with foreign sanctions
 - Retaliatory measures against foreign entities enforcing extraterritorial rules
 
-**Unreliable Entity List (不可靠实体清单, bù kě kào shítǐ qīngdān)**: Announced in 2019 and implemented in 2021 as a mirror of the U.S. Entity List, it designates foreign entities "endangering China's sovereignty, security, development interests" and exposes them to restrictions on trade, investment, and entry into China. Its principal use is deterrent—raising the cost of foreign compliance with U.S. sanctions against Chinese firms—and Chapter 6 examines its design and application in detail.
+**Unreliable Entity List (不可靠实体清单, bù kě kào shítǐ qīngdān)**: Announced in 2019 and implemented in September 2020 as a mirror of the U.S. Entity List, it designates foreign entities "endangering China's sovereignty, security, development interests" and exposes them to restrictions on trade, investment, and entry into China. Its principal use is deterrent—raising the cost of foreign compliance with U.S. sanctions against Chinese firms—and Chapter 6 examines its design and application in detail.
 
 **Anti-Foreign Sanctions Law (反外国制裁法, fǎn wàiguó zhìcái fǎ)** (2021): Authorizes counter-measures against foreign sanctions—asset freezes against the foreign individuals and entities that impose them, a prohibition on Chinese persons complying with them, and visa denials for the officials involved. Chapter 6 gives the fuller account; in the financial domain the statute's distinctive instrument is the asset freeze, a reciprocal blocking tool aimed at sanctioning parties.
 

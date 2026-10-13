@@ -1,4 +1,4 @@
-# Figure 7.3: Major OFAC Sanctions Penalties by Institution
+# Figure 7.3: Major Bank Enforcement Settlements Involving Sanctions
 # Purpose: Visualize largest financial penalties for sanctions violations
 # Author: Laurence Wilse-Samson
 
@@ -78,8 +78,8 @@ p1 <- ggplot(penalties_data, aes(x = Penalty_Billions, y = Institution)) +
                      breaks = seq(0, 10, 2)) +
 
   labs(
-    title = "Largest OFAC Sanctions Penalties",
-    subtitle = "Financial institutions face billions in penalties for sanctions violations",
+    title = "Selected Bank Enforcement Settlements",
+    subtitle = "Combined settlements involving sanctions; some also include anti-money-laundering violations",
     x = "Penalty Amount (Billions USD)",
     y = NULL
   ) +
@@ -157,12 +157,12 @@ p3 <- ggplot(violation_summary, aes(x = Total_Penalties, y = Sanctioned_Country)
 combined <- p1 / (p2 + p3) +
   plot_layout(heights = c(1.5, 1)) +
   plot_annotation(
-    title = "Major OFAC Sanctions Penalties by Institution",
+    title = "Major Bank Enforcement Settlements Involving Sanctions",
     subtitle = paste0("Financial institutions paid over $", round(total_penalties, 1),
-                      " billion in sanctions penalties (2009-2019)"),
+                      " billion in combined settlements involving sanctions (2009-2019)"),
     caption = paste0(
       "Source: U.S. Treasury Office of Foreign Assets Control (OFAC), Department of Justice.\n",
-      "Note: Penalties include settlements with OFAC, DOJ, and state regulators. BNP Paribas penalty\n",
+      "Note: Totals combine sanctions and, in some cases, anti-money-laundering penalties. BNP Paribas penalty\n",
       "included guilty plea to criminal charges and temporary dollar-clearing suspension."
     ),
     theme = theme(

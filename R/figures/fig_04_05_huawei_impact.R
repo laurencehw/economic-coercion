@@ -60,7 +60,7 @@ p1 <- ggplot(huawei_long, aes(x = year, y = revenue, fill = segment)) +
     subtitle = "Impact of US export controls on China's leading technology company",
     x = "Year",
     y = "Revenue (USD Billions)",
-    caption = "Source: Huawei Annual Reports\nNote: Shaded areas indicate sanction periods"
+    caption = "Source: Compiled estimates; segment series not reconciled to Huawei annual-report classifications\nNote: Shaded areas indicate restriction periods"
   ) +
   theme_econ_textbook() +
   theme(legend.position = "right")
