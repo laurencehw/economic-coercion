@@ -463,9 +463,9 @@ Chapter 10 explores scenarios for how US-China economic competition might evolve
 - Block assets of foreign countries, nationals, or entities
 - Prohibit or regulate imports and exports
 - Investigate, regulate, or prohibit foreign exchange transactions
-- Seize property subject to US jurisdiction
+- Confiscate specified foreign property under the statutory armed-hostilities or attack conditions
 
-**Limitations:** IEEPA prohibits regulation of personal communications, donations of articles (food, clothing, medicine) for humanitarian relief, and informational materials. It requires the President to consult with Congress "in every possible instance" before exercising authorities and to report to Congress on actions taken. Authorities lapse if the national emergency is not renewed annually.
+**Limitations:** IEEPA protects personal communications involving no transfer of value, humanitarian donations subject to specified presidential exceptions, and informational materials subject to statutory exceptions. It requires the President to consult with Congress "in every possible instance" before exercising authorities and to report to Congress on actions taken. Authorities lapse if the national emergency is not renewed annually.
 
 ### Implementing Agency
 
@@ -576,7 +576,7 @@ Effectiveness decreases when:
 
 **Statute:** 50 U.S.C. §§ 1601-1651 (enacted 1976)
 
-The National Emergencies Act provides the procedural framework through which IEEPA is activated. It does not itself grant emergency powers but requires presidential declarations specifying which statutory authorities are being invoked, Congressional notification via Federal Register publication, and annual renewal (emergencies automatically terminate after one year unless renewed). As of 2024, the United States maintains over 40 active national emergencies—including Iran (since 1995), terrorism (since 2001), Russia/Ukraine (since 2014, dramatically escalated 2022), and multiple China-related emergencies (Hong Kong 2020, military-industrial complex 2021, semiconductors 2022).
+The National Emergencies Act provides the procedural framework through which IEEPA is activated. It does not itself grant emergency powers but requires presidential declarations specifying which statutory authorities are being invoked, Congressional notification via Federal Register publication, and annual renewal (emergencies automatically terminate after one year unless renewed). As of 2024, the United States maintains over 40 active national emergencies—including Iran (since 1995), terrorism (since 2001), Russia/Ukraine (since 2014, dramatically escalated 2022), and multiple China-related emergencies (Hong Kong 2020, military-industrial complex 2021).
 
 **Key limitation:** Congressional termination of a presidential emergency requires a 2/3 supermajority to override a veto—a bar never achieved. The proliferation of decades-old "emergencies" has effectively normalized what was designed as exceptional executive authority, raising constitutional concerns about unchecked presidential power in economic statecraft.
 

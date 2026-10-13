@@ -81,7 +81,7 @@ The Foreign Investment Risk Review Modernization Act (FIRRMA), enacted August 13
 
 Traditional CFIUS jurisdiction covered only transactions resulting in foreign "control" of U.S. businesses, typically defined as acquiring majority ownership or board control. FIRRMA expanded jurisdiction to cover non-controlling investments in specific sectors:
 
-- **Non-controlling investments in TID sectors**: Foreign investments in U.S. businesses dealing with critical **Technology**, **Infrastructure**, or **Data** ("TID") now fall under CFIUS jurisdiction even without control. This captures minority stake investments, venture capital funding, and strategic partnerships previously beyond CFIUS reach.
+- **Non-controlling investments in TID sectors**: Certain foreign investments in U.S. businesses dealing with critical **Technology**, **Infrastructure**, or **Data** ("TID") now fall under CFIUS jurisdiction even without control, when they afford the access or rights described below. This captures minority stake investments, venture capital funding, and strategic partnerships previously beyond CFIUS reach.
 
 {% hint style="warning" %}
 **TID Sectors: The New Red Lines**
@@ -92,7 +92,7 @@ FIRRMA's "TID" framework—Technology, Infrastructure, Data—defines the new re
   - Export-controlled items (including emerging and foundational technologies under Export Control Reform Act)
   - Nuclear facilities and materials
   - Select agents and toxins
-  - Emerging technologies not yet subject to export controls but determined critical to national security (AI, quantum computing, biotechnology, hypersonics, robotics, brain-computer interfaces)
+  - Emerging and foundational technologies controlled under section 1758 of the Export Control Reform Act
 
 - **Critical infrastructure**: Investments in 28 infrastructure sectors (energy, telecommunications, transportation, water systems, healthcare, financial services) within the United States face heightened scrutiny.
 
@@ -103,7 +103,7 @@ FIRRMA's "TID" framework—Technology, Infrastructure, Data—defines the new re
 Previously, CFIUS filings were voluntary; parties could choose whether to notify. FIRRMA introduced mandatory declarations for certain transactions:
 
 - Foreign government-controlled investors acquiring substantial interest (25%+ voting rights) in TID businesses must file
-- Transactions involving critical technologies subject to export controls require declarations
+- Certain critical-technology transactions requiring U.S. export authorization for relevant foreign persons require a declaration or full notice, subject to regulatory exceptions
 - Failure to file carries penalties and potential forced divestment even years after transaction completion
 
 Mandatory declarations create a "short-form" filing (5 pages vs. 50-100 page full notices), with CFIUS responding within 30 days: cleared, request for full notice, or unilateral initiation of review. This mechanism forces disclosure of investments previously hidden from CFIUS.
@@ -175,8 +175,8 @@ Beyond blocking prospective deals, CFIUS gained aggressive enforcement of existi
 - **Multiple smaller divestitures**: CFIUS identified and unwound dozens of unreported transactions closed before FIRRMA, forcing retroactive review and divestment.
 
 {% hint style="info" %}
-**Retroactive Power: No Deal is Ever "Final"**
-One of CFIUS's most powerful tools is retroactive review. Transactions completed years ago—even those never notified to CFIUS—can be reopened if security concerns emerge. Chinese investors who acquired U.S. companies before FIRRMA's passage found themselves forced to divest years later. This creates permanent uncertainty: there is no statute of limitations, no "safe harbor" after closing. For foreign investors, especially Chinese ones, this means no deal involving sensitive technology or data is ever truly final.
+**Retroactive Power: Closing Does Not End Review**
+One of CFIUS's most powerful tools is retroactive review. Transactions completed years ago—even those never notified to CFIUS—can be reopened if security concerns emerge. Chinese investors who acquired U.S. companies before FIRRMA's passage found themselves forced to divest years later. Closing alone provides no safe harbor for an unreviewed transaction. A notified transaction on which CFIUS concludes all action normally receives safe harbor from renewed review, subject to exceptions such as material misstatements or mitigation violations.
 {% endhint %}
 
 ### Allied Investment Screening: Coordination and Divergence
@@ -201,7 +201,7 @@ Germany and France, the EU's largest economies and leading industrial powers, ha
 
 Germany has steadily widened its net. Successive amendments to the Foreign Trade and Payments Act (2017, 2020, and 2023) extended screening well beyond defense to reach critical infrastructure, media, healthcare, and food supply, and lowered the threshold for mandatory review from 25% to 10% ownership in critical sectors. Berlin has blocked Chinese acquisitions of the semiconductor-equipment maker Aixtron (2016), the machine-tool specialist Leifeld Metal Spinning (2018), and the power-grid operator 50Hertz (2018). Yet it has waved others through—Geely's minority stake in Daimler, Midea's purchase of the robotics firm Kuka, and deals across other sectors—demonstrating selective rather than blanket restriction.
 
-France moved in parallel. Its 2019 PACTE law widened the screened sectors to take in AI, robotics, semiconductors, data storage, and cybersecurity. Paris blocked the Chinese acquisition of Photonis, a night-vision technology firm, in 2021, though that decision was later partially reversed on appeal. France otherwise balances extensive screening against a continued commitment to economic openness, having approved Chinese battery investments such as Envision AESC for its electric-vehicle supply chains.
+France moved in parallel. Its 2019 PACTE law widened the screened sectors to take in AI, robotics, semiconductors, data storage, and cybersecurity. Paris blocked the proposed acquisition of Photonis, a night-vision technology firm, by the American company Teledyne in 2020. France otherwise balances extensive screening against a continued commitment to economic openness, having approved Chinese battery investments such as Envision AESC for its electric-vehicle supply chains.
 
 **United Kingdom: National Security and Investment Act (2022)**
 
@@ -211,13 +211,13 @@ The UK's NSI Act, effective January 2022, represents a post-Brexit recalibration
 
 Australia, geographically close to China and economically dependent on Chinese trade, faces acute tension between economic interest and security. Working through the Foreign Investment Review Board (FIRB), its 2021 reforms lowered review thresholds—particularly for investments by foreign government entities, state-owned enterprises included—and broadened the definition of a national-security business to cover critical infrastructure, defense, telecommunications, and data. The Critical Infrastructure Act (2021) went further still, empowering the government to direct operators of ports, energy, telecommunications, and data centers to mitigate security risks even absent any change of ownership. Beijing decried the measures as discriminatory, a grievance that fed the broader bilateral tensions this chapter examines in its account of China's coercion campaign against Australia.
 
-**Japan: Strengthened FISC Reviews**
+**Japan: Strengthened FEFTA Reviews**
 
-Japan screens through its Foreign Investment Screening Committee (FISC), operating under the Foreign Exchange and Foreign Trade Act (FEFTA). Amendments in 2019 expanded the covered sectors from 12 to 20—adding semiconductors, pharmaceuticals, and software—and sharply lowered the notification threshold from 10% to 1% for sensitive sectors and foreign-government-linked investors. A streamlined "pre-clearance" process eases the way for trusted investors from allied countries, so that Tokyo scrutinizes Chinese investment while facilitating Western capital, its screening tracking its geopolitical alignment.
+Under the FEFTA framework implemented in May 2020, Japan screens through the Ministry of Finance and the ministries responsible for the relevant business sectors, operating under the Foreign Exchange and Foreign Trade Act (FEFTA). Amendments in 2019 expanded the covered sectors from 12 to 20—adding semiconductors, pharmaceuticals, and software—and sharply lowered the notification threshold from 10% to 1% for sensitive sectors and foreign-government-linked investors. A conditional exemption from prior notification eases the way for qualifying passive investors, so that Tokyo scrutinizes Chinese investment while facilitating Western capital, its screening tracking its geopolitical alignment.
 
 **South Korea: Balancing Act**
 
-South Korea confronts the sharpest version of this dilemma, balancing its alliance with the United States against economic dependence on China, its largest trading partner. Its National Security Investigation Act covers acquisitions in defense, dual-use technologies, and critical infrastructure, but Seoul applies it selectively—blocking or mitigating the most concerning Chinese investments while stopping short of comprehensive restriction. The exemptions that Samsung and SK Hynix secured from U.S. semiconductor-equipment export controls (Chapter 4) create reciprocal pressure to avoid overly restrictive screening of its own, and Korea maintains a substantially more open posture toward Chinese investment than the United States or Europe.
+South Korea confronts the sharpest version of this dilemma, balancing its alliance with the United States against economic dependence on China, its largest trading partner. Its Foreign Investment Promotion Act and implementing decree provide national-security review of covered foreign investments, but Seoul applies it selectively—blocking or mitigating the most concerning Chinese investments while stopping short of comprehensive restriction. The exemptions that Samsung and SK Hynix secured from U.S. semiconductor-equipment export controls (Chapter 4) create reciprocal pressure to avoid overly restrictive screening of its own, and Korea maintains a substantially more open posture toward Chinese investment than the United States or Europe.
 
 **Coordination Challenges**
 
@@ -304,7 +304,7 @@ Figure 8.3 puts the screening regime's whole trajectory in one view. Filings ros
 
 <figure class="book-figure">
   <img src="../figures/fig_08_03_cfius_reviews.png" alt="CFIUS review activity 2010-2024, with enforcement outcomes and the Chinese share of reviews.">
-  <figcaption>Figure 8.3: CFIUS review activity, 2010-2024: filings by type, enforcement outcomes, and the share of reviews involving Chinese investors.</figcaption>
+  <figcaption>Figure 8.3: CFIUS review activity, 2010-2024: filings by type, enforcement outcomes, and the estimated share of reviews involving Chinese investors. The existing image retains unreconciled inputs: the corrected source table records 20 declarations in 2018 and mitigation-measure/condition counts of 29 (2018), 33 (2019), 23 (2020), 31 (2021), 52 (2022), 43 (2023), and 25 (2024). The 2018 mitigation point counts cleared notices; the 2019-2024 totals also include measures on withdrawn transactions and, where reported, interim conditions. Earlier mitigation counts remain unreconciled. Withdrawn notices are not necessarily abandoned deals: 42 of the 49 withdrawals in 2024 were refiled. Corrected inputs await image regeneration.</figcaption>
 </figure>
 
 ## Industrial Policy Competition - The Return of the State
@@ -358,7 +358,7 @@ Announced in 2015, Made in China 2025 targets ten strategic industries for Chine
 9. New materials (rare earths, composites)
 10. Biopharmaceuticals and medical devices
 
-The plan set **explicit self-sufficiency targets**: 40% domestic content by 2020, 70% domestic content by 2025, and global leadership in key sectors by 2049, the 100th anniversary of the People's Republic of China (State Council of the People's Republic of China 2015).
+The plan set **explicit self-sufficiency targets**: 40% self-sufficiency in core basic components and key basic materials by 2020, 70% by 2025, and global leadership in key sectors by 2049, the 100th anniversary of the People's Republic of China (State Council of the People's Republic of China 2015).
 
 The program operates through several reinforcing **mechanisms**. Central and local governments provide **subsidies** in the form of grants, below-market-rate loans, and tax incentives totaling hundreds of billions of dollars. **Government procurement** policies mandate preferential purchasing from domestic suppliers. **Technology transfer requirements** compel foreign firms seeking Chinese market access to partner with Chinese companies and share proprietary technology. **State-owned enterprises** are directed to invest in strategic sectors regardless of short-term profitability. Government-backed **venture capital** funds channel investment into startups in target sectors. And the **"Thousand Talents Plan"** actively recruits foreign scientists and engineers to bring expertise into Chinese institutions.
 

@@ -19,12 +19,12 @@ world <- ne_countries(scale = "medium", returnclass = "sf")
 
 # Define Chokepoints Data
 chokepoints <- tibble(
-  name = c("Strait of Hormuz", "Strait of Malacca", "Suez Canal",
+  name = c("Strait of Hormuz", "Strait of Malacca", "Suez Canal / SUMED",
            "Bab el-Mandeb", "Panama Canal", "Turkish Straits",
            "Danish Straits", "Cape of Good Hope"),
   lat = c(26.57, 4.0, 30.59, 12.58, 9.08, 40.70, 55.50, -34.35),
   lon = c(56.25, 100.0, 32.27, 43.33, -79.68, 28.50, 11.00, 18.50),
-  oil_volume = c(21.0, 16.0, 5.5, 6.2, 1.0, 2.4, 3.2, 6.0),
+  oil_volume = c(20.9, 23.7, 8.8, 8.6, 2.1, 3.4, 4.9, 6.0),
   importance = c("Critical", "Critical", "Critical", "Critical",
                  "Major", "Major", "Major", "Major"),
   type = c("Strait", "Strait", "Canal", "Strait",
@@ -107,7 +107,7 @@ tm_shape(chokepoints_sf) +
   ) +
 
   tm_credits(
-    "Source: U.S. Energy Information Administration (EIA)\nWorld Oil Transit Chokepoints, 2023",
+    "Source: U.S. Energy Information Administration (EIA)\nWorld Oil Transit Chokepoints, June 2024, Table 1 (2023 volumes)",
     position = c("left", "bottom"),
     size = 0.6
   )

@@ -1141,7 +1141,7 @@ Chinese Foreign Ministry spokesman suggests Taiwan "provoked this crisis with re
 Military proposes:
 - Increased naval patrols near critical cable routes
 - Classified retaliatory cyber operations against Chinese infrastructure
-- Public designation of cable sabotage as "armed attack" triggering Taiwan Relations Act obligations
+- Public assessment of cable sabotage as a threat under the Taiwan Relations Act, with appropriate U.S. action determined by the President and Congress through constitutional processes
 
 State Department proposes:
 - International investigation through UN or specialized agency

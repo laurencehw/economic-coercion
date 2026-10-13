@@ -114,7 +114,7 @@ p2 <- ggplot(dep_chart, aes(x = country, y = us_tech_dependency, fill = exposure
     subtitle = "Estimated share of production requiring US-origin technology",
     x = NULL,
     y = "US Technology Dependency (%)",
-    caption = "Source: BIS, SIA, industry analysis\nNote: FDPR applies when products are made using US-origin software, technology, or equipment"
+    caption = "Source: BIS, SIA, industry analysis\nNote: FDP jurisdiction requires the applicable product scope and destination or end-user scope"
   ) +
   theme_econ_textbook() +
   theme(panel.grid.major.y = element_blank())

@@ -13,24 +13,24 @@ cfius <- read.csv(here::here("data", "sources", "cfius_reviews.csv"), stringsAsF
 
 # Reshape for stacked area
 cfius_long <- cfius %>%
-  select(year, declarations, notices, withdrawals, mitigation_agreements) %>%
+  select(year, declarations, notices, withdrawals, mitigation_measures_conditions) %>%
   pivot_longer(cols = -year, names_to = "metric", values_to = "count") %>%
   mutate(
     metric = case_when(
       metric == "declarations" ~ "Short-Form Declarations",
       metric == "notices" ~ "Full Notices",
-      metric == "withdrawals" ~ "Withdrawals (abandoned)",
-      metric == "mitigation_agreements" ~ "Mitigation Required"
+      metric == "withdrawals" ~ "Withdrawn Notices",
+      metric == "mitigation_measures_conditions" ~ "Mitigation Required"
     ),
     metric = factor(metric, levels = c("Full Notices", "Short-Form Declarations",
-                                        "Withdrawals (abandoned)", "Mitigation Required"))
+                                        "Withdrawn Notices", "Mitigation Required"))
   )
 
 # Colors
 metric_colors <- c(
   "Full Notices" = "#1f77b4",
   "Short-Form Declarations" = "#2ca02c",
-  "Withdrawals (abandoned)" = "#d62728",
+  "Withdrawn Notices" = "#d62728",
   "Mitigation Required" = "#ff7f0e"
 )
 
@@ -57,12 +57,12 @@ p1 <- ggplot(cfius_long %>% filter(metric %in% c("Full Notices", "Short-Form Dec
 p2 <- ggplot(cfius, aes(x = year)) +
   geom_col(aes(y = withdrawals), fill = "#d62728", alpha = 0.7, width = 0.4,
            position = position_nudge(x = -0.2)) +
-  geom_col(aes(y = mitigation_agreements), fill = "#ff7f0e", alpha = 0.7, width = 0.4,
+  geom_col(aes(y = mitigation_measures_conditions), fill = "#ff7f0e", alpha = 0.7, width = 0.4,
            position = position_nudge(x = 0.2)) +
   scale_x_continuous(breaks = seq(2010, 2024, 2)) +
   labs(
     title = "CFIUS Enforcement Outcomes",
-    subtitle = "Withdrawals (red) and mitigation agreements (orange)",
+    subtitle = "Withdrawals (red) and mitigation measures/conditions (orange)",
     x = "Year",
     y = "Number of Cases"
   ) +
