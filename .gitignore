@@ -53,7 +53,7 @@ Thumbs.db
 # Repomix output
 repomix-output.xml
 
-# Node.js (HonKit local testing)
+# Node.js (local GitBook/HonKit experiments; not used to publish)
 node_modules/
 package.json
 package-lock.json

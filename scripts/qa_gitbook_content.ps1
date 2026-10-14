@@ -3,7 +3,6 @@ $ErrorActionPreference = "Stop"
 $repoRoot = (Resolve-Path ".").Path
 $chaptersDir = Join-Path $repoRoot "chapters"
 $figuresDir = Join-Path $repoRoot "figures"
-$workflowPath = Join-Path $repoRoot ".github/workflows/deploy-gitbook.yml"
 
 $errors = New-Object System.Collections.Generic.List[string]
 
