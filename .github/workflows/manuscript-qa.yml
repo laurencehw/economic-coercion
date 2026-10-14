@@ -5,6 +5,8 @@
 # charts contradicted the text. Every defect in that class was mechanically
 # detectable. This workflow runs those checks before a change can merge, rather than
 # after it has shipped.
+#
+# Publishing the live book is GitBook Git Sync (see .gitbook.yaml), not GitHub Actions.
 name: Manuscript QA
 
 on:

@@ -21,9 +21,9 @@ Rscript R/figures/fig_01_02_us_china_trade.R
 python3 scripts/qa_manuscript.py
 ```
 
-These checks also run in CI — on every pull request via `.github/workflows/manuscript-qa.yml`,
-and again before the GitBook deploy. They exit non-zero on failure, so drift between the prose,
-the canonical statistics, and the figures cannot merge unnoticed. Run them locally before pushing.
+These checks also run in CI on every pull request via `.github/workflows/manuscript-qa.yml`.
+They exit non-zero on failure, so drift between the prose, the canonical statistics, and
+the figures cannot merge unnoticed. Run them locally before pushing.
 
 **Prerequisites:** R, Pandoc, LaTeX.
 
