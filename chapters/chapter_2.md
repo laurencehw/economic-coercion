@@ -385,6 +385,8 @@ None of these strategies provides complete solutions; each involves tradeoffs be
 
 The pattern is consistent: complete independence is neither achievable nor economically rational, but reduced dependence and maintained alternatives enhance resilience. Whether democratic political systems can sustain such commitment across multiple election cycles—withstanding industry pressure and resisting premature declarations of victory—remains the central political question.
 
+The macroeconomic record suggests these buffers work, but at a price. Recent Bank for International Settlements analysis finds that substitution and inventories have helped limit output losses from chokepoint disruptions, often at the cost of higher input prices, so the burden shifts from lost production to inflation pressure (Alshehri et al. 2026). The right policy response therefore depends on what caused the disruption, how central the chokepoint is, and how much room firms have to substitute and draw on buffers. That is the same set of variables that determines a chokepoint's coercive value.
+
 ---
 
 ## Perspective Box: Chinese Views on Supply Chain Security
@@ -753,6 +755,9 @@ U.S. Geological Survey. *Mineral Commodity Summaries 2025*. Reston, VA: USGS, 20
 China Ministry of Commerce (MOFCOM). Export-control announcements on gallium and germanium (Aug. 2023), antimony and graphite items (2024), the gallium/germanium/antimony ban on exports to the United States (Dec. 3, 2024), and rare-earth-related items (Announcement No. 18 of April 2025; Announcement No. 61 of October 2025).
 
 ### Academic Articles and Reports
+
+Alshehri, Ibrahim, Ryan Niladri Banerjee, Michael Chui, Anna Maddux, Ko Munakata, and Fabrizio Zampolli. 2026. "Chokepoint Disruptions and Their Macroeconomic Consequences." *BIS Bulletin* No. 138, October. https://www.bis.org/publications/bulletin-138-chokepoint-disruptions-and-their-macroeconomic-consequences
+  - Central-bank analysis of how chokepoint disruptions pass through to output and prices, and how policy should respond.
 
 Khan, Saif M., and Carrick Flynn. 2020. "Maintaining China's Dependence on Democracies for Advanced Computer Chips." Brookings Institution, April.
 
