@@ -19,6 +19,8 @@ This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 Int
 ## AI Disclosure
 
 > The manuscript was prepared with substantial assistance from AI language models, principally Claude (Anthropic), used for drafting, editing, research, R figure code, tabletop exercises, consistency checking and citation verification. The framework, the argument, the selection of material and the judgments throughout are mine, as is the responsibility for what remains wrong. While effort has been made to ensure accuracy, the rapidly evolving nature of economic policy and international relations means that some details may become dated. Readers should consult current sources for the latest developments.
+>
+> The text has not been checked line by line. Checking was targeted at the claims most likely to go wrong: direct quotations, the reported results of studies, and figures and tables built from published numbers. Each was compared with its source, then corrected or cut where it failed. Errors surely remain. Please report them on the book's [GitHub Issues page](https://github.com/laurencehw/economic-coercion/issues) or by email to lw3387@nyu.edu.
 
 ---
 
