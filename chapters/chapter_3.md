@@ -418,7 +418,7 @@ The underlying challenge is that both the United States and China view resource 
 
 - **Resource nationalism is accelerating as countries treat commodities as weapons:** Indonesia's nickel export ban, China's rare earth and gallium restrictions, Russia's energy cutoffs, and "lithium triangle" coordination all reflect a growing trend of states leveraging resource positions for strategic advantage rather than treating commodities as neutral items of commerce.
 
-- **Maritime chokepoints amplify energy vulnerability far beyond producing countries:** The Strait of Hormuz (21% of global oil), Strait of Malacca (23.7 million barrels per day in 2023), and Suez Canal concentrate energy transit through narrow passages vulnerable to blockade, accident, or military action. Closure of any single chokepoint would trigger immediate global price shocks and potential recession.
+- **Maritime chokepoints amplify energy vulnerability far beyond producing countries:** The Strait of Hormuz (21% of global oil), Strait of Malacca (23.7 million barrels per day in 2023), and Suez Canal concentrate energy transit through narrow passages vulnerable to blockade, accident, or military action. Closure of any single chokepoint would trigger immediate global price shocks and potential recession; BIS evidence finds that disruptions to Hormuz traffic are followed by lower global output, higher consumer prices, and tighter financial conditions (Kharroubi 2026).
 
 - **Fertilizer dependencies create hidden food security vulnerabilities:** Modern agriculture depends on nitrogen, phosphate, and potassium fertilizers that dramatically increase yields, and production is concentrated in Russia, Belarus, Morocco, and China. The 2021-2022 fertilizer crisis demonstrated that disrupting agricultural inputs can reduce food production as effectively as restricting grain exports.
 
@@ -475,6 +475,8 @@ Bellemare, Marc F. 2015. "Rising Food Prices, Food Price Volatility, and Social 
 Organization of the Petroleum Exporting Countries (OPEC). *Annual Statistical Bulletin*. Various years.
 
 U.S. Energy Information Administration (EIA). "World Oil Transit Chokepoints" and international energy statistics. Various years.
+
+Kharroubi, Enisse. 2026. "Maritime Chokepoints and the Global Economy: Evidence from the Strait of Hormuz." BIS Working Papers No. 1378, September. https://www.bis.org/publications/working-paper-1378-maritime-chokepoints-and-the-global-economy-evidence-strait-hormuz
 
 Bachmann, Rüdiger, David Baqaee, Christian Bayer, Moritz Kuhn, Andreas Löschel, Benjamin Moll, Andreas Peichl, Karen Pittel, and Moritz Schularick. "What if? The Economic Effects for Germany of a Stop of Energy Imports from Russia." ECONtribute Policy Brief No. 028, 2022. (Revised version published in *Economica*, 2024.)
 
