@@ -1,0 +1,41 @@
+# .github/workflows/update-cover-date.yml
+# Rewrites the cover "Last updated" line from the last human content commit.
+# Per-repo: set COVER_FILE and CONTENT_PATHS below; copy scripts/update_cover_date.py.
+name: Update cover date
+on:
+  push:
+    branches: [main]          # use [master] for master-default repos
+    paths-ignore:
+      - ".github/**"
+      - "scripts/update_cover_date.py"
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: cover-date
+  cancel-in-progress: true
+env:
+  COVER_FILE: INTRODUCTION.md         # e.g. INTRODUCTION.md, README.md
+  CONTENT_PATHS: "chapters INTRODUCTION.md front_matter appendices SUMMARY.md"              # space-separated; "." for whole repo
+jobs:
+  update:
+    # loop guards: never react to our own bot or our own marker commit
+    if: >-
+      github.actor != 'github-actions[bot]' &&
+      !startsWith(github.event.head_commit.message, 'chore(cover-date)')
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Rewrite date line
+        run: |
+          args=""; for p in $CONTENT_PATHS; do args="$args --content-path $p"; done
+          python3 scripts/update_cover_date.py "$COVER_FILE" $args
+      - name: Commit if changed
+        run: |
+          git diff --quiet && { echo "no change"; exit 0; }
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898733+github-actions[bot]@users.noreply.github.com"
+          git commit -am "chore(cover-date): update cover date [skip ci]"
+          git push
