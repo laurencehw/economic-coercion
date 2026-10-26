@@ -27,69 +27,28 @@ cyber_data <- cyber_data %>%
     coercion_label = ifelse(economic_coercion_link == "Yes", "State-linked coercion", "Criminal/Espionage")
   )
 
-# Category colors
-category_colors <- c(
-  "Sabotage/Destructive" = "#d62728",
-  "Ransomware" = "#ff7f0e",
-  "Espionage" = "#1f77b4",
-  "Financial Theft" = "#2ca02c"
-)
+# One highlight: state-linked coercive operations (red triangles); everything else in ink circles.
+# Marker size is not used: the vertical position already carries the damage estimate.
+cyber_data <- cyber_data %>% filter(damage_billions > 0)  # the DNC hack has no damage estimate and cannot sit on a log axis
 
-# Create timeline visualization
 p <- ggplot(cyber_data, aes(x = year, y = damage_billions)) +
-  # Add points sized by damage
-  geom_point(
-    aes(color = incident_category,
-        size = damage_billions,
-        shape = coercion_label),
-    alpha = 0.8
-  ) +
-  # Add labels for major incidents using ggrepel to avoid overlap
+  geom_point(aes(colour = coercion_label, shape = coercion_label), size = 2.4, alpha = 0.9) +
   geom_text_repel(
-    data = cyber_data %>% filter(damage_billions > 1),
+    data = cyber_data %>% filter(damage_billions >= 1),
     aes(label = incident_name),
-    size = 3,
-    box.padding = 0.5,
-    point.padding = 0.3,
-    max.overlaps = 15
+    size = book_text_size, colour = lws_colors[["ink"]],
+    box.padding = 0.4, point.padding = 0.25, max.overlaps = 20,
+    segment.colour = lws_colors[["fade"]], seed = 7
   ) +
-  # Scales
-  scale_color_manual(values = category_colors, name = "Incident Type") +
-  scale_size_continuous(
-    range = c(3, 15),
-    name = "Estimated Damage",
-    labels = function(x) paste0("$", x, "B"),
-    breaks = c(1, 5, 10, 50, 100)
-  ) +
-  scale_shape_manual(
-    values = c("State-linked coercion" = 17, "Criminal/Espionage" = 16),
-    name = "Attribution"
-  ) +
-  scale_y_log10(
-    labels = function(x) paste0("$", x, "B"),
-    breaks = c(0.01, 0.1, 1, 10, 100)
-  ) +
-  scale_x_continuous(breaks = seq(2010, 2024, 2)) +
-  # Labels
-  labs(
-    title = "Major Cyber-Economic Incidents (2010-2024)",
-    subtitle = "Estimated economic damage by incident type and state attribution",
-    x = "Year",
-    y = "Estimated Damage (Log Scale)",
-    caption = "Source: CSIS Significant Cyber Incidents, industry reports\nNote: Triangles indicate state-linked coercive operations; circles indicate criminal/espionage activity"
-  ) +
+  scale_colour_manual(values = c("State-linked coercion" = lws_colors[["red"]], "Criminal/Espionage" = lws_colors[["text"]]), name = NULL) +
+  scale_shape_manual(values = c("State-linked coercion" = 17, "Criminal/Espionage" = 16), name = NULL) +
+  scale_y_log10(labels = function(x) paste0("$", x, "B"), breaks = c(0.001, 0.01, 0.1, 1, 10, 100)) +
+  scale_x_continuous(breaks = seq(2010, 2024, 2), limits = c(2009.5, 2024.5)) +
+  labs(x = NULL, y = "Estimated damage (log scale)") +
+  book_source("Source: CSIS Significant Cyber Incidents and industry reports. Damage estimates differ widely by method. Incidents of $1 billion or more are labelled; the 2016 DNC hack has no damage estimate and is omitted.") +
   theme_econ_textbook() +
-  theme(
-    legend.position = "right",
-    legend.box = "vertical"
-  ) +
-  guides(
-    color = guide_legend(order = 1),
-    shape = guide_legend(order = 2),
-    size = guide_legend(order = 3)
-  )
+  theme(legend.position = "top")
 
-# Save the figure
-save_econ_figure(here::here("figures", "fig_05_03_cyber_incidents.png"), plot = p, width = 12, height = 8)
+save_econ_figure(here::here("figures", "fig_05_03_cyber_incidents.png"), plot = p, width = 6, height = 4.4)
 
 cat("Figure 5.3 created: Cyber-Economic Incidents Timeline\n")
