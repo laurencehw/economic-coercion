@@ -54,90 +54,42 @@ toolbox <- data.frame(
   )
 )
 
-# Assign colors by domain
+# Domain colours: four house hues
+domain_order <- c("Trade", "Finance", "Technology", "Investment")
 domain_colors <- c(
-  "Trade" = "#1f77b4",
-  "Finance" = "#2ca02c",
-  "Technology" = "#d62728",
-  "Investment" = "#ff7f0e"
+  "Trade" = lws_colors[["blue"]],
+  "Finance" = lws_colors[["green"]],
+  "Technology" = lws_colors[["red"]],
+  "Investment" = lws_colors[["orange"]]
 )
 
-# Calculate positions for hierarchical layout
 toolbox <- toolbox %>%
+  mutate(domain_idx = match(domain, domain_order)) %>%
   group_by(domain) %>%
-  mutate(
-    domain_idx = cur_group_id(),
-    instrument_idx = row_number(),
-    n_instruments = n()
-  ) %>%
+  mutate(instrument_idx = row_number()) %>%
   ungroup() %>%
-  mutate(
-    x = domain_idx,
-    y = -instrument_idx
-  )
+  mutate(x = domain_idx, y = -instrument_idx * 1.1)
 
-# Domain labels positioning
-domain_labels <- toolbox %>%
-  group_by(domain) %>%
-  summarise(
-    x = first(domain_idx),
-    y = 0.5,
-    .groups = "drop"
-  )
+domain_labels <- tibble(domain = domain_order, x = seq_along(domain_order), y = 0.2)
 
-# Create the diagram
 p <- ggplot(toolbox) +
-  # Domain header boxes
-  geom_tile(
-    data = domain_labels,
-    aes(x = x, y = y, fill = domain),
-    width = 0.9, height = 0.8,
-    color = "white", linewidth = 2
-  ) +
-  geom_text(
-    data = domain_labels,
-    aes(x = x, y = y, label = domain),
-    color = "white", fontface = "bold", size = 5
-  ) +
-  # Instrument boxes
-  geom_tile(
-    aes(x = x, y = y, fill = domain),
-    width = 0.85, height = 0.85,
-    alpha = 0.7, color = "white", linewidth = 1
-  ) +
-  geom_text(
-    aes(x = x, y = y, label = instrument),
-    size = 3.5, fontface = "bold", color = "gray10"
-  ) +
-  geom_text(
-    aes(x = x, y = y - 0.28, label = stringr::str_wrap(example, 20)),
-    size = 2.3, color = "gray40", lineheight = 0.9
-  ) +
-  # Connecting lines from domain to instruments
-  geom_segment(
-    aes(x = x, xend = x, y = 0.1, yend = -0.4),
-    color = "gray50", linewidth = 0.5
-  ) +
-  # Styling
+  geom_tile(aes(x = x, y = y), width = 0.94, height = 1.0, fill = "#F5F5F5", colour = NA) +
+  geom_tile(aes(x = x - 0.47 + 0.012, y = y, fill = domain), width = 0.024, height = 1.0) +
+  geom_tile(data = domain_labels, aes(x = x, y = y, fill = domain), width = 0.94, height = 0.7) +
+  geom_text(data = domain_labels, aes(x = x, y = y, label = domain),
+            colour = "white", fontface = "bold", size = 3.2) +
+  geom_text(aes(x = x - 0.43, y = y + 0.18, label = instrument),
+            hjust = 0, fontface = "bold", size = 2.45, colour = lws_colors[["ink"]]) +
+  geom_text(aes(x = x - 0.43, y = y - 0.2, label = stringr::str_wrap(example, 24)),
+            hjust = 0, vjust = 0.5, size = 2.45, colour = lws_colors[["text"]], lineheight = 0.9) +
   scale_fill_manual(values = domain_colors, guide = "none") +
-  scale_x_continuous(expand = expansion(mult = 0.1)) +
-  scale_y_continuous(expand = expansion(mult = 0.05)) +
-  labs(
-    title = "The Economic Statecraft Toolbox",
-    subtitle = "Four domains of economic coercion with key instruments and recent examples",
-    caption = "Source: Author's compilation\nNote: Examples drawn from US policy actions 2018-2024"
-  ) +
-  theme_econ_textbook() +
-  theme(
-    axis.text = element_blank(),
-    axis.ticks = element_blank(),
-    axis.title = element_blank(),
-    panel.grid = element_blank(),
-    plot.title = element_text(hjust = 0.5),
-    plot.subtitle = element_text(hjust = 0.5)
-  )
+  labs(caption = "Source: Author's compilation. Examples drawn from US policy actions, 2018-2024.") +
+  theme_void(base_size = 9, base_family = lws_family) +
+  theme(plot.background = element_rect(fill = "white", colour = NA),
+        plot.caption = element_text(hjust = 0, size = 7, colour = lws_colors[["text"]], margin = margin(t = 4)),
+        plot.caption.position = "plot",
+        plot.margin = margin(4, 6, 6, 6))
 
-# Save the figure
-save_econ_figure(here::here("figures", "fig_01_05_toolbox_diagram.png"), plot = p, width = 12, height = 10)
+save_econ_figure(here::here("figures", "fig_01_05_toolbox_diagram.png"), plot = p, width = 6, height = 4.8)
 
 cat("Figure 1.5 created: Economic Statecraft Toolbox\n")

@@ -1,208 +1,51 @@
-# Figure 1.2: U.S.-China Trade Flows (1990-2024)
-# Author: Laurence Wilse-Samson
-# Description: Multi-panel visualization of U.S.-China bilateral trade
+# Figure 1.2: U.S.-China goods trade, 1990-2025
+# Two stacked panels: A. exports and imports; B. two-way total.
+# (The trade-balance panel of the earlier dashboard is dropped: it is exports minus imports, panel A.)
 
-# Load custom theme and packages
 source(here::here("R", "setup_theme.R"))
 library(tidyverse)
 library(patchwork)
 library(scales)
 
-# ============================================================================
-# LOAD DATA
-# ============================================================================
+trade_data <- read_csv(here::here("data", "sources", "us_china_trade.csv"), show_col_types = FALSE)
 
-trade_data <- read_csv(here::here("data", "sources", "us_china_trade.csv"))
+xs <- scale_x_continuous(breaks = seq(1990, 2025, 5), limits = c(1990, 2031), expand = c(0, 0))
+last <- trade_data %>% filter(Year == max(Year))
 
-# Prepare data for plotting
-trade_long <- trade_data %>%
-  select(Year, US_Exports_to_China, US_Imports_from_China) %>%
-  pivot_longer(
-    cols = c(US_Exports_to_China, US_Imports_from_China),
-    names_to = "Flow",
-    values_to = "Value"
-  ) %>%
-  mutate(
-    Flow = case_when(
-      Flow == "US_Exports_to_China" ~ "U.S. Exports to China",
-      Flow == "US_Imports_from_China" ~ "U.S. Imports from China"
-    )
-  )
+panel_a <- ggplot(trade_data, aes(x = Year)) +
+  geom_line(aes(y = US_Imports_from_China), colour = lws_colors[["red"]], linewidth = 0.8) +
+  geom_line(aes(y = US_Exports_to_China), colour = lws_colors[["blue"]], linewidth = 0.8) +
+  geom_ref_vline(2018) +
+  annotate("text", x = 2017.5, y = 20, label = "Trade war begins (2018)", hjust = 1, colour = lws_colors[["text"]]) +
+  annotate("text", x = 2025.6, y = last$US_Imports_from_China, label = "U.S. imports\nfrom China", hjust = 0,
+           colour = lws_colors[["red"]], lineheight = 0.9) +
+  annotate("text", x = 2025.6, y = last$US_Exports_to_China, label = "U.S. exports\nto China", hjust = 0,
+           colour = lws_colors[["blue"]], lineheight = 0.9) +
+  scale_y_continuous(labels = label_dollar(suffix = "B"), limits = c(0, 600), breaks = seq(0, 600, 200)) +
+  xs + coord_cartesian(clip = "off") +
+  labs(title = "A. U.S. exports to and imports from China", x = NULL, y = "Billions of US dollars") +
+  theme_econ_textbook() + theme(plot.margin = margin(4, 8, 2, 4))
 
-# ============================================================================
-# PANEL A: BILATERAL TRADE FLOWS
-# ============================================================================
+peak <- trade_data %>% slice_max(Total_Trade, n = 1)
+panel_b <- ggplot(trade_data, aes(x = Year, y = Total_Trade)) +
+  geom_line(colour = lws_colors[["ink"]], linewidth = 0.9) +
+  geom_ref_vline(2001) +
+  annotate("text", x = 2001.6, y = 640, label = "China joins WTO (2001)", hjust = 0, colour = lws_colors[["text"]]) +
+  annotate("text", x = peak$Year, y = peak$Total_Trade + 45,
+           label = paste0("Record: $", round(peak$Total_Trade), "B (", peak$Year, ")"), colour = lws_colors[["ink"]]) +
+  scale_y_continuous(labels = label_dollar(suffix = "B"), limits = c(0, 750), breaks = seq(0, 700, 200)) +
+  xs +
+  labs(title = "B. Two-way goods trade", x = NULL, y = "Billions of US dollars") +
+  theme_econ_textbook() + theme(plot.margin = margin(4, 8, 2, 4))
 
-panel_a <- ggplot(trade_long, aes(x = Year, y = Value, color = Flow, linetype = Flow)) +
-  geom_line(linewidth = 1.2) +
-  geom_point(size = 2, alpha = 0.7) +
-  scale_y_continuous(
-    labels = label_dollar(suffix = "B"),
-    breaks = seq(0, 600, 100),
-    limits = c(0, 600)
-  ) +
-  scale_x_continuous(
-    breaks = seq(1990, 2024, 5)
-  ) +
-  scale_color_manual(
-    values = c("U.S. Exports to China" = econ_colors[["USA"]],
-               "U.S. Imports from China" = econ_colors[["China"]])
-  ) +
-  scale_linetype_manual(
-    values = c("U.S. Exports to China" = "solid",
-               "U.S. Imports from China" = "dashed")
-  ) +
-  labs(
-    title = "Bilateral Trade Flows",
-    subtitle = "U.S. exports to and imports from China",
-    x = "Year",
-    y = "Trade Value (Billions USD)",
-    color = NULL,
-    linetype = NULL
-  ) +
-  theme_econ_textbook() +
-  theme(
-    legend.position = "bottom",
-    legend.direction = "vertical",
-    panel.grid.minor = element_blank()
-  ) +
-  annotate(
-    "text",
-    x = 2018,
-    y = 550,
-    label = "Trade War\n(2018-2020)",
-    size = 3.5,
-    color = "gray30",
-    fontface = "italic"
-  ) +
-  annotate(
-    "segment",
-    x = 2018,
-    xend = 2018,
-    y = 0,
-    yend = 530,
-    linetype = "dotted",
-    color = "gray50",
-    alpha = 0.7
-  )
-
-# ============================================================================
-# PANEL B: TRADE BALANCE
-# ============================================================================
-
-panel_b <- ggplot(trade_data, aes(x = Year, y = Trade_Balance)) +
-  geom_area(fill = econ_colors[["China"]], alpha = 0.3) +
-  geom_line(color = econ_colors[["China"]], linewidth = 1.2) +
-  geom_hline(yintercept = 0, linetype = "solid", color = "gray30", linewidth = 0.5) +
-  scale_y_continuous(
-    labels = label_dollar(suffix = "B"),
-    breaks = seq(-450, 0, 50)
-  ) +
-  scale_x_continuous(
-    breaks = seq(1990, 2024, 5)
-  ) +
-  labs(
-    title = "U.S. Trade Deficit with China",
-    subtitle = "Negative values indicate U.S. deficit",
-    x = "Year",
-    y = "Trade Balance (Billions USD)"
-  ) +
-  theme_econ_textbook() +
-  theme(
-    panel.grid.minor = element_blank()
-  ) +
-  annotate(
-    "text",
-    x = 2018,
-    y = -50,
-    label = "Peak Deficit:\n$419.2B (2018)",
-    size = 3.5,
-    color = "gray30",
-    fontface = "bold"
-  )
-
-# ============================================================================
-# PANEL C: TOTAL TRADE VOLUME
-# ============================================================================
-
-panel_c <- ggplot(trade_data, aes(x = Year, y = Total_Trade)) +
-  geom_col(fill = econ_colors[["USA"]], alpha = 0.7) +
-  scale_y_continuous(
-    labels = label_dollar(suffix = "B"),
-    breaks = seq(0, 700, 100),
-    limits = c(0, 750)
-  ) +
-  scale_x_continuous(
-    breaks = seq(1990, 2024, 5)
-  ) +
-  labs(
-    title = "Total Bilateral Trade",
-    subtitle = "Sum of exports and imports",
-    x = "Year",
-    y = "Total Trade (Billions USD)"
-  ) +
-  theme_econ_textbook() +
-  theme(
-    panel.grid.minor = element_blank()
-  ) +
-  annotate(
-    "text",
-    x = 2000,
-    y = 650,
-    label = "China joins WTO (2001)",
-    size = 3.5,
-    color = "gray30",
-    fontface = "italic"
-  ) +
-  annotate(
-    "segment",
-    x = 2001,
-    xend = 2001,
-    y = 0,
-    yend = 620,
-    linetype = "dotted",
-    color = "gray50",
-    alpha = 0.7
-  )
-
-# ============================================================================
-# COMBINE PANELS
-# ============================================================================
-
-combined_plot <- (panel_a / panel_b / panel_c) +
+combined_plot <- panel_a / panel_b +
   plot_annotation(
-    title = "U.S.-China Bilateral Trade Flows (1990-2025)",
-    subtitle = "The evolution of the world's most economically significant bilateral relationship",
-    caption = "Source: U.S. Census Bureau, Foreign Trade Statistics",
+    caption = "Sources: U.S. Census Bureau, Foreign Trade Statistics (goods only, nominal, not seasonally adjusted).",
     theme = theme_econ_textbook()
   )
 
-# ============================================================================
-# DISPLAY AND SAVE
-# ============================================================================
-
-print(combined_plot)
-
-# Save figure
 save_econ_figure(
   filename = here::here("figures", "fig_01_02_us_china_trade.png"),
-  plot = combined_plot,
-  width = 10,
-  height = 12,
-  dpi = 300
+  plot = combined_plot, width = 6, height = 5.4
 )
-
-cat("\n")
-cat("========================================\n")
-cat("Figure 1.2 created successfully!\n")
-cat("========================================\n")
-cat("Location: figures/fig_01_02_us_china_trade.png\n")
-cat("          figures/fig_01_02_us_china_trade.pdf\n")
-cat("\n")
-cat("Key insights:\n")
-cat("  - Peak trade deficit of $419.2B in 2018\n")
-cat("  - Trade war impact visible in 2018-2020\n")
-cat("  - China WTO accession (2001) marked inflection point\n")
-cat("  - Recent decline in bilateral trade volume\n")
-cat("========================================\n")
-cat("\n")
+cat("Figure 1.2 created\n")

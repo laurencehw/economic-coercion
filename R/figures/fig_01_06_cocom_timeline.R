@@ -40,83 +40,40 @@ cocom_events <- data.frame(
   significance = c(3, 2, 2, 2, 2, 2, 2, 2, 3, 2, 3, 2, 2, 3, 3, 3, 3)
 )
 
-# Category colors
+# Category colours: house hues, then ink and grey
 category_colors <- c(
-  "Institutional" = "#1f77b4",
-  "Legislative" = "#2ca02c",
-  "Tightening" = "#d62728",
-  "Relaxation" = "#ff7f0e",
-  "Crisis" = "#9467bd",
-  "Alliance Tension" = "#e377c2",
-  "Enforcement" = "#8c564b",
-  "Geopolitical" = "#7f7f7f"
+  "Institutional" = lws_colors[["blue"]],
+  "Legislative" = lws_colors[["purple"]],
+  "Tightening" = lws_colors[["red"]],
+  "Relaxation" = lws_colors[["green"]],
+  "Crisis" = lws_colors[["orange"]],
+  "Alliance Tension" = lws_colors[["gold"]],
+  "Enforcement" = lws_colors[["ink"]],
+  "Geopolitical" = lws_colors[["fade"]]
 )
 
-# Create alternating y positions for labels
+# One row per event, in date order (rows are evenly spaced, not to scale)
 cocom_events <- cocom_events %>%
-  mutate(
-    y_pos = ifelse(row_number() %% 2 == 0, 1, -1),
-    label_y = y_pos * (0.5 + significance * 0.15)
-  )
+  mutate(row = -row_number(), category = factor(category, levels = names(category_colors)))
 
-# Create timeline plot
 p <- ggplot(cocom_events) +
-  # Timeline base
-  geom_hline(yintercept = 0, color = "gray30", linewidth = 1) +
-  # Event points
-  geom_point(
-    aes(x = year, y = 0, color = category, size = significance),
-    show.legend = TRUE
-  ) +
-  # Vertical connectors to labels
-  geom_segment(
-    aes(x = year, xend = year, y = 0, yend = label_y * 0.7, color = category),
-    linewidth = 0.5, alpha = 0.7
-  ) +
-  # Event labels
-  geom_label(
-    aes(x = year, y = label_y, label = stringr::str_wrap(event, 18), fill = category),
-    size = 2.5, color = "white", fontface = "bold",
-    label.padding = unit(0.2, "lines"),
-    label.r = unit(0.15, "lines")
-  ) +
-  # Year labels on timeline
-  geom_text(
-    aes(x = year, y = y_pos * 0.15, label = year),
-    size = 2.8, color = "gray30", fontface = "bold"
-  ) +
-  # Cold War period annotations
-  annotate("rect", xmin = 1947, xmax = 1991, ymin = -2.5, ymax = 2.5,
-           fill = "gray90", alpha = 0.3) +
-  annotate("text", x = 1969, y = 2.3, label = "Cold War Era",
-           size = 4, fontface = "italic", color = "gray50") +
-  # Styling
-  scale_color_manual(values = category_colors, name = "Event Type") +
-  scale_fill_manual(values = category_colors, guide = "none") +
-  scale_size_continuous(range = c(3, 8), guide = "none") +
-  scale_x_continuous(
-    breaks = seq(1950, 1995, 5),
-    limits = c(1947, 1998),
-    expand = expansion(mult = 0.02)
-  ) +
-  scale_y_continuous(limits = c(-2.5, 2.5)) +
-  labs(
-    title = "CoCom: Cold War Export Control Regime (1949-1994)",
-    subtitle = "Key events in multilateral technology denial to Communist bloc",
-    caption = "Source: Mastanduno (1992), CRS Reports, historical archives\nNote: Point size indicates historical significance"
-  ) +
+  geom_segment(aes(x = 0.5, xend = 0.5, y = -0.5, yend = min(row) - 0.5),
+               colour = lws_colors[["fade"]], linewidth = 0.4) +
+  geom_text(aes(x = 0.2, y = row, label = year), hjust = 1, colour = lws_colors[["text"]]) +
+  geom_point(aes(x = 0.5, y = row, colour = category, size = factor(significance))) +
+  geom_text(aes(x = 0.8, y = row, label = event), hjust = 0, colour = lws_colors[["ink"]]) +
+  scale_colour_manual(values = category_colors, name = NULL) +
+  scale_size_manual(values = c("2" = 1.6, "3" = 2.8), labels = c("2" = "Notable", "3" = "Major"), name = NULL) +
+  scale_x_continuous(limits = c(-0.1, 5.6), expand = c(0, 0)) +
+  scale_y_continuous(expand = expansion(add = 0.6)) +
+  labs(x = NULL, y = NULL, caption = "Source: Mastanduno (1992); Congressional Research Service reports; historical archives. Rows are evenly spaced, not to scale.") +
   theme_econ_textbook() +
-  theme(
-    axis.text.y = element_blank(),
-    axis.ticks.y = element_blank(),
-    axis.title = element_blank(),
-    panel.grid = element_blank(),
-    legend.position = "bottom",
-    legend.box = "horizontal"
-  ) +
-  guides(color = guide_legend(nrow = 2, override.aes = list(size = 4)))
+  theme(axis.text = element_blank(), axis.ticks = element_blank(), axis.ticks.x = element_blank(), axis.title = element_blank(),
+        panel.grid = element_blank(), panel.grid.major.y = element_blank(), legend.position = "top", legend.box = "vertical",
+        legend.spacing.y = unit(0, "pt"), legend.margin = margin(0, 0, 0, 0)) +
+  guides(colour = guide_legend(nrow = 2, order = 1, override.aes = list(size = 2.4)),
+         size = guide_legend(nrow = 1, order = 2))
 
-# Save the figure
-save_econ_figure(here::here("figures", "fig_01_06_cocom_timeline.png"), plot = p, width = 14, height = 9)
+save_econ_figure(here::here("figures", "fig_01_06_cocom_timeline.png"), plot = p, width = 6, height = 5)
 
 cat("Figure 1.6 created: CoCom Timeline\n")
