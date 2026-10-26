@@ -33,99 +33,41 @@ df_shares <- df %>%
 # 2. PANEL A: STACKED AREA - IMPORTS BY SOURCE
 # ============================================================================
 
-country_colors <- c(
-  "USA" = "#1f77b4",
-  "Canada" = "#ff7f0e",
-  "Argentina" = "#2ca02c",
-  "Australia" = "#d62728",
-  "EU" = "#9467bd",
-  "Others" = "#8c564b"
-)
+cols <- c("USA" = lws_colors[["red"]], "Canada" = "#4D4D4D", "Argentina" = "#7A7A7A", "Australia" = "#9E9E9E", "EU" = "#BDBDBD", "Others" = "#DCDCDC")
 
 p1 <- ggplot(df_long, aes(x = Year, y = Imports, fill = Country)) +
-  geom_area(alpha = 0.85, color = "white", linewidth = 0.3) +
-  geom_vline(xintercept = 1980, linetype = "dashed", color = "black", linewidth = 1.2) +
-  annotate("label", x = 1980, y = 55,
-           label = "1980: U.S. Grain Embargo\n(Afghanistan Invasion)",
-           size = 3.5, fill = "yellow", alpha = 0.9, fontface = "bold",
-           label.size = 0.5) +
-  scale_fill_manual(values = country_colors) +
+  geom_col(width = 0.75, colour = "white", linewidth = 0.2) +
+  geom_text(data = df, aes(x = Year, y = Total, label = Total), inherit.aes = FALSE, vjust = -0.5,
+            colour = lws_colors[["ink"]], size = book_text_size) +
+  annotate("segment", x = 1979.5, xend = 1979.5, y = 0, yend = 48, linetype = "dashed", colour = lws_colors[["ref"]]) +
+  annotate("text", x = 1979.4, y = 50, label = "1980 U.S. grain embargo", hjust = 1, colour = lws_colors[["text"]]) +
+  scale_fill_manual(values = cols, breaks = rev(levels(df_long$Country)), name = NULL) +
   scale_x_continuous(breaks = 1975:1985) +
-  scale_y_continuous(expand = expansion(mult = c(0, 0.05))) +
-  labs(
-    title = "Soviet Grain Imports by Source Country",
-    subtitle = "Million metric tons, 1975-1985",
-    x = "Year",
-    y = "Grain Imports (million metric tons)",
-    fill = "Source Country"
-  ) +
-  theme_econ_textbook() +
-  theme(legend.position = "right")
-
-# ============================================================================
-# 3. PANEL B: U.S. VS NON-U.S. COMPARISON
-# ============================================================================
+  scale_y_continuous(expand = expansion(mult = c(0, 0.1))) +
+  labs(title = "A. Soviet grain imports by source", x = NULL, y = "Million metric tons") +
+  theme_econ_textbook() + theme(legend.position = "top", legend.justification = "left") +
+  guides(fill = guide_legend(nrow = 1))
 
 df_comparison <- df_shares %>%
   select(Year, USA, Non_US) %>%
   pivot_longer(cols = c(USA, Non_US), names_to = "Source", values_to = "Imports") %>%
-  mutate(Source = ifelse(Source == "Non_US", "Non-U.S. Sources", "U.S. Exports"))
+  mutate(Source = ifelse(Source == "Non_US", "Non-U.S. sources", "U.S."))
+end_lab <- df_comparison %>% filter(Year == max(Year))
 
-p2 <- ggplot(df_comparison, aes(x = Year, y = Imports, color = Source)) +
-  geom_line(linewidth = 2) +
-  geom_point(size = 4, shape = 21, fill = "white", stroke = 2) +
-  geom_vline(xintercept = 1980, linetype = "dashed", color = "black", linewidth = 1) +
-  annotate("rect", xmin = 1980, xmax = 1981, ymin = -Inf, ymax = Inf,
-           alpha = 0.2, fill = "red") +
-  annotate("text", x = 1980.5, y = 5, label = "Embargo\nPeriod",
-           size = 3, fontface = "italic", color = "darkred") +
-  scale_color_manual(values = c("U.S. Exports" = "#1f77b4", "Non-U.S. Sources" = "#d62728")) +
-  scale_x_continuous(breaks = 1975:1985) +
-  labs(
-    title = "Impact of 1980 U.S. Grain Embargo",
-    subtitle = "U.S. exports vs. alternative suppliers to USSR",
-    x = "Year",
-    y = "Grain Imports (million metric tons)",
-    color = "Source"
-  ) +
-  theme_econ_textbook() +
-  theme(legend.position = "bottom")
+p2 <- ggplot(df_comparison, aes(x = Year, y = Imports, colour = Source)) +
+  annotate("rect", xmin = 1979.5, xmax = 1981.5, ymin = -Inf, ymax = Inf, fill = "#F2F2F2") +
+  geom_line(linewidth = 0.9) + geom_point(size = 1.4) +
+  geom_text(data = end_lab, aes(label = Source), hjust = -0.1, size = book_text_size, show.legend = FALSE) +
+  scale_colour_manual(values = c("U.S." = lws_colors[["red"]], "Non-U.S. sources" = lws_colors[["text"]]), guide = "none") +
+  scale_x_continuous(breaks = 1975:1985, limits = c(1975, 1988.5)) +
+  labs(title = "B. U.S. against all other suppliers (shading: embargo years in the data)", x = NULL, y = "Million metric tons") +
+  theme_econ_textbook()
 
-# Add annotation box for impact statistics
-impact_text <- paste0(
-  "Embargo Impact:\n",
-  "U.S. share dropped: ", round(df_shares$US_Share[df_shares$Year == 1979], 1),
-  "% → ", round(df_shares$US_Share[df_shares$Year == 1981], 1), "%\n",
-  "Others filled gap: ", round(df_shares$Non_US[df_shares$Year == 1979], 1),
-  "M → ", round(df_shares$Non_US[df_shares$Year == 1981], 1), "M tons\n",
-  "Lesson: Alternative suppliers available"
-)
-
-p2 <- p2 +
-  annotate("label", x = 1984, y = max(df_comparison$Imports) * 0.4,
-           label = impact_text, hjust = 1, size = 3,
-           fill = "lightcoral", alpha = 0.8, label.size = 0.5)
-
-# ============================================================================
-# 4. COMBINE PANELS
-# ============================================================================
-
-combined <- p1 / p2 +
+combined <- p1 / p2 + plot_layout(heights = c(1.2, 1)) +
   plot_annotation(
-    title = "The 1980 Soviet Grain Embargo",
-    subtitle = "A case study in the limits of food as a coercive weapon",
-    caption = "Sources: USDA Foreign Agricultural Service, FAO Trade Statistics.\nNote: The embargo was imposed in January 1980 following the Soviet invasion of Afghanistan.",
-    theme = theme(
-      plot.title = element_text(size = 16, face = "bold"),
-      plot.subtitle = element_text(size = 12, color = "gray30"),
-      plot.caption = element_text(size = 9, color = "gray50", hjust = 0)
-    )
-  )
+    caption = paste(strwrap("Sources: USDA Foreign Agricultural Service and FAO trade statistics. The embargo was announced in January 1980 after the Soviet invasion of Afghanistan.", 105), collapse = "\n"),
+    theme = theme_econ_textbook())
 
-# ============================================================================
-# 5. SAVE OUTPUT
-# ============================================================================
-
-save_econ_figure(here("figures", "fig_09_01_soviet_grain.png"), combined, width = 12, height = 10)
+save_econ_figure(here("figures", "fig_09_01_soviet_grain.png"), combined, width = 6, height = 5.8)
 
 cat("\nFigure 9.1 created successfully!\n")

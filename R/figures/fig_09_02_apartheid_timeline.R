@@ -48,164 +48,49 @@ economic_data <- tibble(
 # ============================================================================
 
 # Event colors by category
-event_colors <- c(
-  "Trigger" = "#d62728",
-  "Multilateral" = "#1f77b4",
-  "Financial" = "#2ca02c",
-  "US Policy" = "#9467bd",
-  "SA Response" = "#ff7f0e",
-  "Sanctions Relief" = "#17becf",
-  "Resolution" = "#2ca02c"
-)
-
-# --- Panel A: Timeline with Events ---
 events_data <- events_data %>%
-  mutate(
-    y_position = rep(c(1.5, -1.5), length.out = n()),  # Alternate above/below
-    label_y = ifelse(y_position > 0, 2.2, -2.2)
-  )
+  mutate(row = rev(seq_len(n())),
+         lab = paste0(Year, ": ", gsub("\n", " ", Event)),
+         key = Category %in% c("Financial", "US Policy"),
+         right = Year < 1980)
 
-p1 <- ggplot(events_data) +
-  # Central timeline
-  geom_hline(yintercept = 0, color = "gray30", linewidth = 1.5) +
-
-  # Vertical connectors
-  geom_segment(aes(x = Year, xend = Year, y = 0, yend = y_position, color = Category),
-               linewidth = 1.2) +
-
-  # Event points
-  geom_point(aes(x = Year, y = 0, size = Importance, fill = Category),
-             shape = 21, color = "black", stroke = 1) +
-
-  # Event labels
-  geom_label(aes(x = Year, y = y_position * 1.3, label = Event, fill = Category),
-             size = 2.8, color = "white", fontface = "bold",
-             label.padding = unit(0.3, "lines"), label.size = 0.3) +
-
-  # Year labels
-  geom_text(aes(x = Year, y = y_position * 0.4, label = Year),
-            size = 3, fontface = "bold") +
-
-  # Key period annotations
-  annotate("rect", xmin = 1985, xmax = 1991, ymin = -0.3, ymax = 0.3,
-           fill = "#d62728", alpha = 0.2) +
-  annotate("text", x = 1988, y = 0, label = "Peak\nSanctions",
-           size = 2.5, color = "#d62728", fontface = "bold") +
-
-  scale_fill_manual(values = event_colors, name = "Category") +
-  scale_color_manual(values = event_colors, guide = "none") +
-  scale_size_continuous(range = c(3, 8), guide = "none") +
+p1 <- ggplot(events_data, aes(x = Year, y = row)) +
+  geom_segment(aes(x = 1958, xend = Year, yend = row), colour = lws_colors[["grid"]], linewidth = 0.4) +
+  geom_point(aes(colour = key), size = 2.2) +
+  geom_text(aes(label = lab, colour = key, hjust = ifelse(right, -0.06, 1.06), x = ifelse(right, Year, Year)),
+            size = book_text_size) +
+  scale_colour_manual(values = c("TRUE" = lws_colors[["red"]], "FALSE" = lws_colors[["text"]]), guide = "none") +
   scale_x_continuous(limits = c(1958, 1996), breaks = seq(1960, 1995, 5)) +
-  scale_y_continuous(limits = c(-3, 3)) +
+  labs(title = "A. Sanctions timeline (red: financial and U.S. measures)", x = NULL, y = NULL) +
+  theme_econ_textbook() +
+  theme(axis.text.y = element_blank(), axis.ticks.y = element_blank(), panel.grid.major.y = element_blank(),
+        panel.grid.minor = element_blank())
 
-  labs(
-    title = "Anti-Apartheid Sanctions Timeline (1960-1994)",
-    subtitle = "From Sharpeville to democratic elections: 34 years of escalating pressure",
-    x = NULL
-  ) +
-  theme_void() +
-  theme(
-    plot.title = element_text(size = 14, face = "bold", hjust = 0, margin = margin(b = 5)),
-    plot.subtitle = element_text(size = 11, hjust = 0, color = "gray30", margin = margin(b = 10)),
-    legend.position = "bottom",
-    legend.title = element_text(face = "bold"),
-    plot.background = element_rect(fill = "white", color = NA),
-    axis.text.x = element_text(size = 10)
-  ) +
-  guides(fill = guide_legend(nrow = 1))
-
-# --- Panel B: Economic Indicators ---
-# Reshape for plotting
-econ_long <- economic_data %>%
-  select(Year, GDP_Growth, FDI_Billions) %>%
-  pivot_longer(cols = -Year, names_to = "Indicator", values_to = "Value") %>%
-  mutate(
-    Indicator = case_when(
-      Indicator == "GDP_Growth" ~ "GDP Growth (%)",
-      Indicator == "FDI_Billions" ~ "FDI ($ Billions)"
-    )
-  )
-
-p2 <- ggplot(economic_data, aes(x = Year)) +
-  # GDP growth as area
-  geom_area(aes(y = GDP_Growth), fill = "#1f77b4", alpha = 0.4) +
-  geom_line(aes(y = GDP_Growth), color = "#1f77b4", linewidth = 1.2) +
-  geom_hline(yintercept = 0, color = "gray50", linetype = "dashed") +
-
-  # Key event markers
-  geom_vline(xintercept = 1985, color = "#d62728", linetype = "dotted", linewidth = 0.8) +
-  geom_vline(xintercept = 1986, color = "#9467bd", linetype = "dotted", linewidth = 0.8) +
-  geom_vline(xintercept = 1990, color = "#ff7f0e", linetype = "dotted", linewidth = 0.8) +
-
-  annotate("text", x = 1985.3, y = 6, label = "Bank\nwithdrawals",
-           size = 2.5, hjust = 0, color = "#d62728") +
-  annotate("text", x = 1986.3, y = 4, label = "CAAA",
-           size = 2.5, hjust = 0, color = "#9467bd") +
-  annotate("text", x = 1990.3, y = 5, label = "Mandela\nreleased",
-           size = 2.5, hjust = 0, color = "#ff7f0e") +
-
-  scale_x_continuous(breaks = seq(1980, 1994, 2)) +
-  scale_y_continuous(labels = function(x) paste0(x, "%")) +
-
-  labs(
-    title = "South African GDP Growth",
-    subtitle = "Economic impact of sanctions period (1980-1994)",
-    x = "Year",
-    y = "GDP Growth (%)"
-  ) +
+p2 <- ggplot(economic_data, aes(x = Year, y = GDP_Growth)) +
+  geom_col(fill = lws_colors[["fade"]], width = 0.7) +
+  geom_col(data = economic_data %>% filter(Year == 1985), fill = lws_colors[["red"]], width = 0.7) +
+  geom_hline(yintercept = 0, colour = lws_colors[["ink"]], linewidth = 0.3) +
+  annotate("text", x = 1985, y = 6.2, label = "1985: banks\nstop rolling\nover debt", colour = lws_colors[["red"]], size = book_text_size, lineheight = 0.9, vjust = 0) +
+  scale_x_continuous(breaks = seq(1980, 1994, 4)) +
+  scale_y_continuous(labels = function(x) paste0(x, "%"), limits = c(-3, 10)) +
+  labs(title = "B. South African GDP growth", x = NULL, y = "Real GDP growth (%)") +
   theme_econ_textbook()
 
-# --- Panel C: Rand Exchange Rate ---
 p3 <- ggplot(economic_data, aes(x = Year, y = Rand_USD)) +
-  geom_area(fill = "#2ca02c", alpha = 0.4) +
-  geom_line(color = "#2ca02c", linewidth = 1.2) +
-
-  # Key event markers
-  geom_vline(xintercept = 1985, color = "#d62728", linetype = "dotted", linewidth = 0.8) +
-
-  annotate("label", x = 1985, y = 1.05,
-           label = "1985 Debt Crisis\nRand collapses 35%",
-           size = 2.8, fill = "lightyellow", label.size = 0.2) +
-
-  scale_x_continuous(breaks = seq(1980, 1994, 2)) +
-  scale_y_continuous(labels = function(x) paste0("$", x)) +
-
-  labs(
-    title = "South African Rand vs USD",
-    subtitle = "Currency depreciation during sanctions",
-    x = "Year",
-    y = "USD per rand"
-  ) +
+  geom_line(colour = lws_colors[["ink"]], linewidth = 0.9) +
+  geom_point(colour = lws_colors[["ink"]], size = 1.2) +
+  geom_vline(xintercept = 1985, colour = lws_colors[["red"]], linetype = "dashed") +
+  annotate("text", x = 1985.3, y = 1.2, label = "1985", hjust = 0, colour = lws_colors[["red"]], size = book_text_size) +
+  scale_x_continuous(breaks = seq(1980, 1994, 4)) +
+  scale_y_continuous(labels = function(x) paste0("$", x), limits = c(0, 1.4), expand = c(0, 0)) +
+  labs(title = "C. U.S. dollars per rand", x = NULL, y = "USD per rand, annual average") +
   theme_econ_textbook()
 
-# ============================================================================
-# 3. COMPOSE AND SAVE
-# ============================================================================
-
-# Combine plots
-combined <- p1 / (p2 + p3) +
-  plot_layout(heights = c(1.5, 1)) +
+combined <- p1 / (p2 | p3) + plot_layout(heights = c(1.1, 1.1)) +
   plot_annotation(
-    title = "Anti-Apartheid Sanctions Timeline (1960-1994)",
-    subtitle = "Multi-decade sanctions campaign combining UN embargoes, financial pressure, and US legislation",
-    caption = paste0(
-      "Sources: UN Security Council Resolutions, Hufbauer et al. Sanctions Database, World Bank, IMF.\n",
-      "Note: CAAA = Comprehensive Anti-Apartheid Act of 1986. Exchange rate shown as U.S. dollars per rand, annual averages (SARB).\n",
-      "GDP growth data from South African Reserve Bank historical series."
-    ),
-    theme = theme(
-      plot.title = element_text(size = 16, face = "bold"),
-      plot.subtitle = element_text(size = 12, color = "gray30"),
-      plot.caption = element_text(size = 9, color = "gray50", hjust = 0)
-    )
-  )
+    caption = paste(strwrap("Sources: UN Security Council resolutions, Hufbauer et al. sanctions database, World Bank, IMF and South African Reserve Bank. CAAA = Comprehensive Anti-Apartheid Act of 1986. Series in panels B and C are compiled in the book's source tables and have not been re-verified against the SARB releases.", 105), collapse = "\n"),
+    theme = theme_econ_textbook())
 
-# Save
-save_econ_figure(here("figures", "fig_09_02_apartheid_timeline.png"), combined, width = 14, height = 12)
+save_econ_figure(here("figures", "fig_09_02_apartheid_timeline.png"), combined, width = 6, height = 6)
 
-# Print summary
-cat("\nFigure 9.2 Summary:\n")
-cat("  Timeline span: 1960-1994 (34 years)\n")
-cat("  Key milestones: 10 major events\n")
-cat("  Rand depreciation 1980-1994: 78%\n")
-cat("  GDP growth average 1985-1991: -0.3%\n")
+cat("\nFigure 9.2 created\n")

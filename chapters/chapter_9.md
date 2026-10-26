@@ -61,8 +61,8 @@ Despite limitations, scholarly consensus holds CoCom meaningfully degraded Sovie
 Figure 9.1 shows why the embargo failed. Soviet grain imports barely dipped; the volumes simply changed flag, with Argentine and Canadian sellers absorbing the business American farmers gave up. Few cases in this book illustrate a wide substitution margin so cleanly.
 
 <figure class="book-figure">
-  <img src="../figures/fig_09_01_soviet_grain.png" alt="Soviet grain imports by source country from 1975-1985, showing how alternative suppliers filled the gap left by the U.S. embargo.">
-  <figcaption>Figure 9.1: Soviet grain imports by source country from 1975-1985, showing how alternative suppliers filled the gap left by the U.S. embargo.</figcaption>
+  <img src="../figures/fig_09_01_soviet_grain.png" alt="Panel A: stacked bars of Soviet grain imports by source country. Panel B: lines of imports from each supplier.">
+  <figcaption>Figure 9.1: Soviet grain imports by source country, 1975-1985 (panel A) and the trends by supplier (panel B), showing how alternative suppliers filled the gap left by the U.S. embargo, announced in January 1980. Sources: USDA Foreign Agricultural Service and FAO trade statistics.</figcaption>
 </figure>
 
 **Background and Implementation**
@@ -157,8 +157,8 @@ The European Community imposed its own investment restrictions and bans on steel
 Figure 9.2 sets the sanctions measures against South African financial indicators. The 1985 inflection is the one to note: the decisive pressure came not from the trade measures but from the refusal of foreign banks to roll over short-term debt, which is a mechanism the trade-focused literature on this case tends to under-weight.
 
 <figure class="book-figure">
-  <img src="../figures/fig_09_02_apartheid_timeline.png" alt="Timeline of anti-apartheid sanctions from 1960 to 1994 with panels showing South African GDP growth and the rand's depreciation against the dollar over the sanctions period.">
-  <figcaption>Figure 9.2: The anti-apartheid sanctions campaign, 1960-1994 — escalation timeline with the economic toll visible in GDP growth and the rand's slide against the dollar.</figcaption>
+  <img src="../figures/fig_09_02_apartheid_timeline.png" alt="Panel A: timeline of anti-apartheid sanctions measures. Panel B: bars of South African GDP growth. Panel C: line of the rand against the dollar.">
+  <figcaption>Figure 9.2: The anti-apartheid sanctions campaign, 1960-1994: an ordered timeline of measures (panel A), South African GDP growth (panel B) and the rand's exchange rate against the dollar (panel C). CAAA is the Comprehensive Anti-Apartheid Act of 1986. Series in panels B and C are compiled from the book's source tables and have not been re-verified against South African Reserve Bank releases. Sources: UN Security Council resolutions, Hufbauer et al., World Bank, IMF and SARB.</figcaption>
 </figure>
 
 ### Economic Impact on South Africa
