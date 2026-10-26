@@ -90,57 +90,49 @@ stage_summary <- supply_chain %>%
     )
   )
 
-# Region colors
+# Region colours (house hues; light fills carry dark labels)
 region_colors <- c(
-  "USA" = "#1f77b4",
-  "Taiwan" = "#aec7e8",
-  "South Korea" = "#8c564b",
-  "China" = "#d62728",
-  "Japan" = "#9467bd",
-  "Netherlands" = "#2ca02c",
-  "Europe" = "#2ca02c",
-  "Malaysia" = "#ffbb78",
-  "Other" = "#c7c7c7",
-  "Mixed" = "#e7e7e7"
+  "USA" = lws_colors[["blue"]],
+  "Taiwan" = lws_colors[["gold"]],
+  "South Korea" = "#595959",
+  "China" = lws_colors[["red"]],
+  "Japan" = lws_colors[["purple"]],
+  "Netherlands" = "#1F4A37",
+  "Europe" = lws_colors[["green"]],
+  "Malaysia" = "#9E9E9E",
+  "Other" = "#E0E0E0",
+  "Mixed" = "#E0E0E0"
 )
+light_regions <- c("Taiwan", "Other", "Mixed", "Malaysia")
+stage_summary <- stage_summary %>% mutate(light = region %in% light_regions)
 
-# Create the stacked bar chart
 p <- ggplot(stage_summary, aes(x = factor(stage_order), y = value, fill = region)) +
-  geom_col(width = 0.7, color = "white", linewidth = 0.3) +
+  geom_col(width = 0.7, colour = "white", linewidth = 0.3) +
   geom_text(
-    aes(label = ifelse(value >= 10, paste0(value, "%"), "")),
-    position = position_stack(vjust = 0.5),
-    color = "white", fontface = "bold", size = 3.5
+    aes(label = ifelse(value >= 10, paste0(value, "%"), ""), colour = light, group = region),
+    position = position_stack(vjust = 0.5), size = book_text_size, show.legend = FALSE
   ) +
-  scale_fill_manual(values = region_colors, name = "Country/Region") +
+  scale_colour_manual(values = c("TRUE" = lws_colors[["ink"]], "FALSE" = "white")) +
+  scale_fill_manual(values = region_colors, name = NULL,
+                    breaks = c("USA", "Europe", "Netherlands", "Japan", "Taiwan", "South Korea", "China", "Malaysia", "Other")) +
   scale_x_discrete(
     labels = c(
-      "1" = "Design Software\n(EDA)",
-      "2" = "Manufacturing\nEquipment",
-      "3" = "Chip\nDesign",
-      "4" = "Wafer\nFabrication",
-      "5" = "Assembly\nTest & Pack"
+      "1" = "Design software\n(EDA)",
+      "2" = "Manufacturing\nequipment",
+      "3" = "Chip\ndesign",
+      "4" = "Wafer\nfabrication",
+      "5" = "Assembly,\ntest and pack"
     )
   ) +
-  scale_y_continuous(labels = function(x) paste0(x, "%"), expand = expansion(mult = c(0, 0.05))) +
-  # Add chokepoint indicators
-  annotate("text", x = 1, y = 105, label = "US Chokepoint", color = "#1f77b4", fontface = "bold", size = 3.5) +
-  annotate("text", x = 2, y = 105, label = "Allied Chokepoint", color = "#2ca02c", fontface = "bold", size = 3.5) +
-  annotate("text", x = 4, y = 105, label = "Taiwan Risk", color = "#ff7f0e", fontface = "bold", size = 3.5) +
-  labs(
-    title = "Global Semiconductor Supply Chain: Regional Market Shares",
-    subtitle = "Chokepoints in the chip value chain exploitable for economic coercion",
-    x = "Supply Chain Stage",
-    y = "Market Share (%)",
-    caption = "Source: SIA, BCG, company reports (2023-2024)\nNote: Leading-edge manufacturing (7nm and below) shows even higher Taiwan concentration (~90%)"
-  ) +
+  scale_y_continuous(labels = function(x) paste0(x, "%"), breaks = seq(0, 100, 25), expand = expansion(mult = c(0, 0.08))) +
+  annotate("text", x = 1, y = 104, label = "U.S. chokepoint", colour = lws_colors[["text"]]) +
+  annotate("text", x = 2, y = 104, label = "Allied chokepoint", colour = lws_colors[["text"]]) +
+  annotate("text", x = 4, y = 104, label = "Taiwan risk", colour = lws_colors[["text"]]) +
+  labs(x = NULL, y = "Share of global market") +
+  book_source("Sources: SIA; BCG; company reports (2023-2024). Leading-edge manufacturing (7nm and below) shows higher Taiwan concentration (about 90%).") +
   theme_econ_textbook() +
-  theme(
-    panel.grid.major.x = element_blank(),
-    legend.position = "right"
-  )
+  theme(panel.grid.major.x = element_blank(), legend.position = "top")
 
-# Save the figure
-save_econ_figure(here::here("figures", "fig_04_01_chip_supply_chain.png"), plot = p, width = 12, height = 8)
+save_econ_figure(here::here("figures", "fig_04_01_chip_supply_chain.png"), plot = p, width = 6, height = 4.2)
 
 cat("Figure 4.1 created: Semiconductor Supply Chain\n")

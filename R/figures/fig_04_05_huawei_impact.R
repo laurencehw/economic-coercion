@@ -28,67 +28,33 @@ huawei_long <- huawei %>%
     segment = factor(segment, levels = c("Consumer (Smartphones)", "Carrier (Telecom Equipment)", "Enterprise Solutions"))
   )
 
-# Segment colors
+# Segment colours: consumer (the segment most exposed) in red
 segment_colors <- c(
-  "Consumer (Smartphones)" = "#d62728",
-  "Carrier (Telecom Equipment)" = "#1f77b4",
-  "Enterprise Solutions" = "#2ca02c"
+  "Consumer (Smartphones)" = lws_colors[["red"]],
+  "Carrier (Telecom Equipment)" = lws_colors[["blue"]],
+  "Enterprise Solutions" = lws_colors[["fade"]]
 )
 
-# Create the main chart
-p1 <- ggplot(huawei_long, aes(x = year, y = revenue, fill = segment)) +
-  # Sanction phase background
-  annotate("rect", xmin = 2018.5, xmax = 2019.5, ymin = 0, ymax = 150,
-           fill = "#ffcccc", alpha = 0.3) +
-  annotate("rect", xmin = 2019.5, xmax = 2024.5, ymin = 0, ymax = 150,
-           fill = "#ffaaaa", alpha = 0.3) +
-  # Stacked area
-  geom_area(alpha = 0.8, color = "white", linewidth = 0.3) +
-  # Key event annotations
-  geom_vline(xintercept = 2019, linetype = "dashed", color = "gray40") +
-  geom_vline(xintercept = 2020, linetype = "dashed", color = "gray40") +
-  annotate("text", x = 2019, y = 145, label = "Entity List\n(May 2019)",
-           size = 3, hjust = 0.5, color = "gray30") +
-  annotate("text", x = 2020, y = 145, label = "FDPR Expansion\n(2020)",
-           size = 3, hjust = 0.5, color = "gray30") +
-  # Styling
-  scale_fill_manual(values = segment_colors, name = "Business Segment") +
+totals <- huawei %>% select(year, total_revenue_billions)
+
+# One panel: stacked bars by year (ten annual observations). The year-over-year growth panel of the
+# earlier dashboard is dropped; growth is implied by the totals printed above the bars.
+combined <- ggplot(huawei_long, aes(x = year, y = revenue, fill = segment)) +
+  annotate("rect", xmin = 2018.5, xmax = 2024.5, ymin = 0, ymax = 160, fill = "#F2F2F2") +
+  geom_col(width = 0.7) +
+  geom_text(data = totals, aes(x = year, y = total_revenue_billions, label = paste0("$", round(total_revenue_billions), "B")),
+            inherit.aes = FALSE, vjust = -0.5, colour = lws_colors[["ink"]], size = book_text_size) +
+  annotate("text", x = 2018.6, y = 158, label = "Entity List\n(May 2019)", hjust = 0, vjust = 1, lineheight = 0.9,
+           colour = lws_colors[["text"]]) +
+  annotate("text", x = 2020.6, y = 158, label = "Entity List and expanded\nforeign direct product rule (2020)", hjust = 0, vjust = 1,
+           lineheight = 0.9, colour = lws_colors[["text"]]) +
+  scale_fill_manual(values = segment_colors, name = NULL) +
   scale_x_continuous(breaks = 2015:2024) +
-  scale_y_continuous(labels = function(x) paste0("$", x, "B"), expand = expansion(mult = c(0, 0.05))) +
-  labs(
-    title = "Huawei Revenue by Business Segment (2015-2024)",
-    subtitle = "Impact of US export controls on China's leading technology company",
-    x = "Year",
-    y = "Revenue (USD Billions)",
-    caption = "Source: Compiled estimates; segment series not reconciled to Huawei annual-report classifications\nNote: Shaded areas indicate restriction periods"
-  ) +
-  theme_econ_textbook() +
-  theme(legend.position = "right")
+  scale_y_continuous(labels = function(x) paste0("$", x, "B"), limits = c(0, 160), expand = c(0, 0)) +
+  labs(x = NULL, y = "Revenue, billions of US dollars") +
+  book_source("Source: Compiled estimates; segment series not reconciled to Huawei annual-report classifications. Shading marks the period of U.S. restrictions.") +
+  theme_econ_textbook()
 
-# Year-over-year growth chart
-p2 <- ggplot(huawei, aes(x = year, y = yoy_growth)) +
-  geom_hline(yintercept = 0, color = "gray50", linewidth = 0.5) +
-  geom_col(aes(fill = yoy_growth > 0), width = 0.6, show.legend = FALSE) +
-  geom_text(aes(label = paste0(yoy_growth, "%"),
-                vjust = ifelse(yoy_growth > 0, -0.5, 1.5)),
-            size = 3.5, color = "gray30") +
-  scale_fill_manual(values = c("TRUE" = "#2ca02c", "FALSE" = "#d62728")) +
-  scale_x_continuous(breaks = 2015:2024) +
-  scale_y_continuous(labels = function(x) paste0(x, "%")) +
-  labs(
-    title = "Year-over-Year Revenue Growth",
-    subtitle = "Sanctions triggered first-ever decline in 2021",
-    x = "Year",
-    y = "YoY Growth (%)"
-  ) +
-  theme_econ_textbook() +
-  theme(panel.grid.major.x = element_blank())
+save_econ_figure(here::here("figures", "fig_04_05_huawei_impact.png"), plot = combined, width = 6, height = 4)
 
-# Combine plots
-library(patchwork)
-combined <- p1 / p2 + plot_layout(heights = c(2, 1))
-
-# Save the figure
-save_econ_figure(here::here("figures", "fig_04_05_huawei_impact.png"), plot = combined, width = 12, height = 11)
-
-cat("Figure 4.4 created: Huawei Sanctions Impact\n")
+cat("Figure 4.5 created: Huawei Sanctions Impact\n")
