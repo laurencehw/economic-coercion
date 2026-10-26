@@ -41,151 +41,45 @@ us_share <- sum(equipment_data$Market_Share[equipment_data$Country == "USA"])
 alliance_share <- sum(equipment_data$Market_Share[equipment_data$Country %in% c("USA", "Japan", "Netherlands")])
 
 # ============================================================================
-# 2. CREATE VISUALIZATIONS
+# 2. TWO PANELS: A. company shares (trilateral firms highlighted); B. leader share by equipment type.
+# The donut of the earlier version repeated panel A and is dropped; the chokepoint heat-tile is now bars.
 # ============================================================================
 
-# Define colors by country
-country_colors <- c(
-  "Netherlands" = "#ff7f0e",  # Orange for Netherlands
-  "USA" = "#1f77b4",          # Blue for USA
-  "Japan" = "#9467bd",        # Purple for Japan
-  "Various" = "#7f7f7f"       # Gray for others
-)
+equipment_data <- equipment_data %>%
+  mutate(grp = ifelse(Country == "Various", "Other firms", "Firms in the U.S., Japan or Netherlands"),
+         Company = factor(Company, levels = rev(c("ASML", "Applied Materials", "Tokyo Electron", "Lam Research", "KLA", "Others"))))
+grp_cols <- c("Firms in the U.S., Japan or Netherlands" = lws_colors[["blue"]], "Other firms" = lws_colors[["fade"]])
 
-# --- Panel A: Horizontal Bar Chart ---
-p1 <- ggplot(equipment_data, aes(x = Market_Share, y = Company, fill = Country)) +
-  geom_col(alpha = 0.9, color = "white", linewidth = 0.5, width = 0.75) +
+p1 <- ggplot(equipment_data, aes(x = Market_Share, y = Company, fill = grp)) +
+  geom_col(width = 0.7) +
+  geom_text(aes(label = paste0(Market_Share, "%  ", Country)), hjust = -0.1, colour = lws_colors[["ink"]], size = book_text_size) +
+  scale_fill_manual(values = grp_cols, name = NULL) +
+  scale_x_continuous(expand = expansion(mult = c(0, 0.35)), labels = function(x) paste0(x, "%")) +
+  labs(title = paste0("A. Share of global equipment sales, 2023 (the three countries hold ", alliance_share, "%)"),
+       x = "Global market share (%)", y = NULL) +
+  theme_book_h() + theme(legend.position = "top")
 
-  # Add percentage labels
-  geom_text(aes(label = paste0(Market_Share, "%")),
-            hjust = -0.2, fontface = "bold", size = 4) +
-
-  # Add segment labels
-  geom_text(aes(label = Segment, x = 1),
-            hjust = 0, size = 3, color = "white", fontface = "italic") +
-
-  scale_fill_manual(values = country_colors, name = "Country") +
-  scale_x_continuous(expand = expansion(mult = c(0, 0.2)),
-                     labels = function(x) paste0(x, "%")) +
-
-  labs(
-    title = "Market Share by Company",
-    subtitle = "Equipment market concentration (2023)",
-    x = "Global Market Share (%)",
-    y = NULL
-  ) +
-  theme_econ_textbook() +
-  theme(
-    legend.position = "right",
-    panel.grid.major.y = element_blank()
-  )
-
-# --- Panel B: Pie Chart showing Alliance Control ---
-alliance_summary <- tibble(
-  Group = c("USA", "Japan", "Netherlands", "Others"),
-  Share = c(40, 15, 30, 15),
-  Country_Group = c("USA (40%)", "Japan (15%)", "Netherlands (30%)", "Others (15%)")
-)
-
-alliance_summary <- alliance_summary %>%
-  mutate(
-    ymax = cumsum(Share),
-    ymin = lag(ymax, default = 0),
-    label_pos = (ymax + ymin) / 2
-  )
-
-p2 <- ggplot(alliance_summary, aes(ymax = ymax, ymin = ymin, xmax = 4, xmin = 2, fill = Group)) +
-  geom_rect(color = "white", linewidth = 1) +
-  geom_text(aes(x = 3.2, y = label_pos, label = Country_Group),
-            size = 3.5, fontface = "bold", color = "white") +
-  coord_polar(theta = "y") +
-  xlim(c(0, 4)) +
-  scale_fill_manual(values = c(
-    "USA" = "#1f77b4",
-    "Japan" = "#9467bd",
-    "Netherlands" = "#ff7f0e",
-    "Others" = "#7f7f7f"
-  ), guide = "none") +
-
-  # Add center annotation
-  annotate("text", x = 0, y = 0,
-           label = paste0("Trilateral\nAlliance\n", alliance_share, "%"),
-           size = 5, fontface = "bold", color = "#2ca02c") +
-
-  labs(
-    title = "Trilateral Export Control Coalition",
-    subtitle = "US + Japan + Netherlands = 85% of market"
-  ) +
-  theme_void() +
-  theme(
-    plot.title = element_text(size = 14, face = "bold", hjust = 0.5),
-    plot.subtitle = element_text(size = 11, hjust = 0.5, color = "gray30"),
-    plot.background = element_rect(fill = "white", color = NA)
-  )
-
-# --- Panel C: Chokepoint Summary ---
 chokepoint_data <- tibble(
-  Equipment_Type = c("EUV Lithography", "DUV Lithography", "Etch Systems",
-                     "Deposition", "Metrology/Inspection"),
-  Leader = c("ASML (100%)", "ASML (>80%)", "Lam Research (50%)",
-             "Applied Materials (40%)", "KLA (55%)"),
-  Country = c("Netherlands", "Netherlands", "USA", "USA", "USA"),
-  Criticality = c("Extreme", "Very High", "High", "High", "High")
-)
+  Equipment_Type = c("EUV lithography", "DUV lithography", "Etch systems", "Deposition", "Metrology and inspection"),
+  Leader = c("ASML", "ASML", "Lam Research", "Applied Materials", "KLA"),
+  Share = c(100, 80, 50, 40, 55),
+  lab = c("100%", "over 80%", "50%", "40%", "55%")
+) %>% mutate(Equipment_Type = reorder(Equipment_Type, Share))
 
-chokepoint_data <- chokepoint_data %>%
-  mutate(Equipment_Type = factor(Equipment_Type, levels = rev(Equipment_Type)))
+p3 <- ggplot(chokepoint_data, aes(y = Equipment_Type, x = Share)) +
+  geom_col(fill = lws_colors[["blue"]], width = 0.7) +
+  geom_text(aes(label = paste0(lab, "  ", Leader)), hjust = -0.1, colour = lws_colors[["ink"]], size = book_text_size) +
+  scale_x_continuous(limits = c(0, 150), breaks = seq(0, 100, 25), labels = function(x) paste0(x, "%")) +
+  labs(title = "B. Share held by the leading firm, by equipment type", x = "Leader's share of segment (%)", y = NULL) +
+  theme_book_h()
 
-p3 <- ggplot(chokepoint_data, aes(y = Equipment_Type, x = 1)) +
-  geom_tile(aes(fill = Criticality), color = "white", width = 0.9, height = 0.85) +
-  geom_text(aes(label = Leader), size = 3.5, fontface = "bold", color = "white") +
-  scale_fill_manual(values = c(
-    "Extreme" = "#d62728",
-    "Very High" = "#ff7f0e",
-    "High" = "#ffbb78"
-  ), name = "Chokepoint\nCriticality") +
-  scale_x_continuous(expand = c(0, 0)) +
-  labs(
-    title = "Equipment Chokepoints",
-    subtitle = "Market leaders by segment",
-    x = NULL,
-    y = NULL
-  ) +
-  theme_econ_textbook() +
-  theme(
-    axis.text.x = element_blank(),
-    axis.ticks.x = element_blank(),
-    panel.grid = element_blank(),
-    legend.position = "right"
-  )
-
-# ============================================================================
-# 3. COMPOSE AND SAVE
-# ============================================================================
-
-# Combine plots
-combined <- (p1 | p2) / p3 +
-  plot_layout(heights = c(1.2, 0.8)) +
+combined <- p1 / p3 + plot_layout(heights = c(1.1, 0.9)) +
   plot_annotation(
-    title = "Semiconductor Manufacturing Equipment Market Share",
-    subtitle = "Semiconductor equipment market concentration enables trilateral export control coordination",
-    caption = paste0(
-      "Source: SEMI, VLSI Research, company filings (2023).\n",
-      "Note: ASML holds monopoly on EUV lithography critical for advanced chips (<7nm).\n",
-      "October 2022 US export controls coordinated with Japan (March 2023) and Netherlands (June 2023)."
-    ),
-    theme = theme(
-      plot.title = element_text(size = 16, face = "bold"),
-      plot.subtitle = element_text(size = 12, color = "gray30"),
-      plot.caption = element_text(size = 9, color = "gray50", hjust = 0)
-    )
-  )
+    caption = paste(strwrap("Source: SEMI, VLSI Research and company filings, 2023; shares are approximate. ASML is the sole supplier of EUV lithography, needed for chips below 7 nm. 'Over 80%' for DUV is plotted at 80%.", 105), collapse = "\n"),
+    theme = theme_econ_textbook())
 
-# Save
-save_econ_figure(here("figures", "fig_06_05_equipment_market_share.png"), combined, width = 12, height = 10)
+save_econ_figure(here("figures", "fig_06_05_equipment_market_share.png"), combined, width = 6, height = 5.8)
 
-# Print summary
 cat("\nFigure 6.5 Summary:\n")
 cat(sprintf("  US companies market share: %d%%\n", us_share))
 cat(sprintf("  Trilateral alliance (US+Japan+Netherlands): %d%%\n", alliance_share))
-cat("  ASML EUV monopoly: 100% of advanced lithography\n")
