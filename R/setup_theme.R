@@ -6,144 +6,64 @@
 library(ggplot2)
 library(scales)
 
-# Check and load optional packages
-has_hrbrthemes <- requireNamespace("hrbrthemes", quietly = TRUE)
-has_extrafont <- requireNamespace("extrafont", quietly = TRUE)
+# House chart style (shared across the author's books): theme, palette, 6 in canvas.
+source(here::here("R", "theme_book.R"))
 has_viridis <- requireNamespace("viridis", quietly = TRUE)
 
-if (has_hrbrthemes) library(hrbrthemes)
-if (has_extrafont) library(extrafont)
-if (has_viridis) library(viridis)
-
 # ============================================================================
-# CUSTOM THEME DEFINITION
+# THEME
 # ============================================================================
 
-theme_econ_textbook <- function(base_size = 12, base_family = "sans") {
-  
-  # Base theme selection
-  if (has_hrbrthemes) {
-    t <- theme_ipsum(base_size = base_size, base_family = base_family)
-  } else {
-    # Fallback to theme_minimal if hrbrthemes is missing
-    t <- theme_minimal(base_size = base_size, base_family = base_family)
-  }
-  
-  t +
-    theme(
-      # Plot titles
-      plot.title = element_text(
-        size = base_size + 4,
-        face = "bold",
-        hjust = 0,
-        margin = margin(b = 10)
-      ),
-      plot.subtitle = element_text(
-        size = base_size,
-        color = "gray30",
-        hjust = 0,
-        margin = margin(b = 15)
-      ),
-      plot.caption = element_text(
-        size = base_size - 2,
-        color = "gray50",
-        hjust = 0,
-        margin = margin(t = 10)
-      ),
-
-      # Axes
-      axis.title = element_text(
-        size = base_size,
-        face = "bold",
-        color = "gray20"
-      ),
-      axis.title.x = element_text(margin = margin(t = 10)),
-      axis.title.y = element_text(margin = margin(r = 10)),
-      axis.text = element_text(
-        size = base_size - 1,
-        color = "gray30"
-      ),
-      axis.line = element_line(color = "gray50", linewidth = 0.5),
-      axis.ticks = element_line(color = "gray50", linewidth = 0.5),
-
-      # Grid
-      panel.grid.major = element_line(color = "gray85", linewidth = 0.5),
-      panel.grid.minor = element_line(color = "gray90", linewidth = 0.25),
-      panel.background = element_rect(fill = "white", color = NA),
-
-      # Legend
-      legend.title = element_text(
-        size = base_size,
-        face = "bold",
-        color = "gray20"
-      ),
-      legend.text = element_text(
-        size = base_size - 1,
-        color = "gray30"
-      ),
-      legend.position = "bottom",
-      legend.box = "horizontal",
-      legend.background = element_rect(fill = "white", color = NA),
-      legend.key = element_rect(fill = "white", color = NA),
-      legend.spacing.x = unit(0.5, "cm"),
-
-      # Facets
-      strip.background = element_rect(fill = "gray90", color = NA),
-      strip.text = element_text(
-        size = base_size,
-        face = "bold",
-        color = "gray20",
-        margin = margin(5, 5, 5, 5)
-      ),
-
-      # Overall plot
-      plot.background = element_rect(fill = "white", color = NA),
-      plot.margin = margin(15, 15, 15, 15)
-    )
+# The textbook theme is the house theme. Scripts that still pass a base_size
+# get the house 9 pt base; titles and subtitles are carried by the chapter
+# caption, so any that remain in a script are suppressed here.
+theme_econ_textbook <- function(base_size = 9, base_family = NULL) {
+  theme_lws(base_size = 9, base_family = base_family) +
+    theme(plot.subtitle = element_blank())
 }
 
 # ============================================================================
 # COLOR PALETTES
 # ============================================================================
 
-# Primary country/region colors
+# Country/region colors: five hues at most, the rest in greys.
 econ_colors <- c(
-  "USA" = "#1f77b4",           # Blue
-  "China" = "#d62728",          # Red
-  "EU" = "#2ca02c",             # Green
-  "Russia" = "#ff7f0e",         # Orange
-  "Japan" = "#9467bd",          # Purple
-  "South Korea" = "#8c564b",    # Brown
-  "India" = "#e377c2",          # Pink
-  "UK" = "#7f7f7f",             # Gray
-  "Canada" = "#bcbd22",         # Yellow-green
-  "Australia" = "#17becf",      # Cyan
-  "Taiwan" = "#aec7e8",         # Light blue
-  "ASEAN" = "#ffbb78",          # Light orange
-  "Middle East" = "#98df8a",    # Light green
-  "Africa" = "#ff9896",         # Light red
-  "Latin America" = "#c5b0d5"   # Light purple
+  "USA" = "#1B6CA8",            # blue
+  "China" = "#C1292E",          # red
+  "EU" = "#2D6A4F",             # green
+  "Russia" = "#E07A2F",         # orange
+  "Japan" = "#7B5EA7",          # purple
+  "South Korea" = "#7F7F7F",
+  "India" = "#D4A843",          # gold
+  "UK" = "#9E9E9E",
+  "Canada" = "#BDBDBD",
+  "Australia" = "#595959",
+  "Taiwan" = "#D4A843",
+  "ASEAN" = "#BDBDBD",
+  "Middle East" = "#BDBDBD",
+  "Africa" = "#BDBDBD",
+  "Latin America" = "#BDBDBD"
 )
 
-# Sector colors
+# Sector colors (five hues, then ink and grey)
 sector_colors <- c(
-  "Semiconductors" = "#1f77b4",
-  "Rare Earths" = "#ff7f0e",
-  "Energy" = "#2ca02c",
-  "Defense" = "#d62728",
-  "Telecommunications" = "#9467bd",
-  "Financial Services" = "#8c564b",
-  "Pharmaceuticals" = "#e377c2",
-  "Agriculture" = "#7f7f7f"
+  "Semiconductors" = "#1B6CA8",
+  "Rare Earths" = "#E07A2F",
+  "Energy" = "#2D6A4F",
+  "Defense" = "#C1292E",
+  "Telecommunications" = "#7B5EA7",
+  "Financial Services" = "#1F2A37",
+  "Pharmaceuticals" = "#D4A843",
+  "Agriculture" = "#9E9E9E"
 )
 
-# Sequential color scales for continuous data
-econ_seq_blue <- c("#f7fbff", "#deebf7", "#c6dbef", "#9ecae1", "#6baed6", "#4292c6", "#2171b5", "#08519c", "#08306b")
-econ_seq_red <- c("#fff5f0", "#fee0d2", "#fcbba1", "#fc9272", "#fb6a4a", "#ef3b2c", "#cb181d", "#a50f15", "#67000d")
-econ_seq_green <- c("#f7fcf5", "#e5f5e0", "#c7e9c0", "#a1d99b", "#74c476", "#41ab5d", "#238b45", "#006d2c", "#00441b")
+# Single-hue sequential ramps (light to dark)
+econ_seq_blue <- c("#EAF1F8", "#C9DBEC", "#A3C3DE", "#78A6CC", "#4D89B9", "#1B6CA8", "#175A8C", "#124A73", "#0D3A5A")
+econ_seq_red <- c("#FBEBEB", "#F4CBCC", "#EBA3A5", "#E0797C", "#D24F53", "#C1292E", "#A12226", "#821B1E", "#631417")
+econ_seq_green <- c("#E9F2EE", "#C8DFD5", "#A0C8B7", "#76AF98", "#4C917A", "#2D6A4F", "#265A43", "#1F4A37", "#183A2B")
 
-# Diverging color scale for positive/negative values
-econ_div_colors <- c("#d73027", "#f46d43", "#fdae61", "#fee090", "#ffffbf", "#e0f3f8", "#abd9e9", "#74add1", "#4575b4")
+# Diverging colors around a true midpoint
+econ_div_colors <- c("#C1292E", "#D4605F", "#E49A98", "#F1CCCA", "#F2F2F2", "#C6D9EA", "#8DB6D5", "#4F8FBF", "#1B6CA8")
 
 # ============================================================================
 # HELPER FUNCTIONS
@@ -153,7 +73,7 @@ econ_div_colors <- c("#d73027", "#f46d43", "#fdae61", "#fee090", "#ffffbf", "#e0
 # NOTE: For reliable path handling, callers should use here::here() to construct
 # absolute paths, e.g.: save_econ_figure(here("figures", "fig_01_01_name.png"), ...)
 # This ensures scripts work correctly from any working directory.
-save_econ_figure <- function(filename, plot = last_plot(), width = 10, height = 6, dpi = 300) {
+save_econ_figure <- function(filename, plot = last_plot(), width = 6, height = 4, dpi = 300) {
   ggsave(
     filename = filename,
     plot = plot,
@@ -217,27 +137,5 @@ scale_fill_sectors <- function() {
 # SET DEFAULT THEME
 # ============================================================================
 
-# Set the custom theme as default for all plots
+# Set the house theme as default
 theme_set(theme_econ_textbook())
-
-# Set default discrete color scale
-options(
-  ggplot2.discrete.colour = econ_colors,
-  ggplot2.discrete.fill = econ_colors
-)
-
-# ============================================================================
-# PRINT CONFIRMATION
-# ============================================================================
-
-cat("\n")
-cat("========================================\n")
-cat("  Economic Coercion Textbook Theme\n")
-cat("========================================\n")
-if (has_hrbrthemes) {
-  cat("Status: hrbrthemes loaded successfully.\n")
-} else {
-  cat("Status: hrbrthemes NOT found. Using fallback theme.\n")
-}
-cat("========================================\n")
-cat("\n")

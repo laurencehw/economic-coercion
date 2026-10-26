@@ -71,7 +71,7 @@ All visualizations use R/ggplot2 with a custom theme:
 ```r
 source("R/setup_theme.R")  # Loads theme_econ_textbook() and color palettes
 # ... create plot ...
-save_econ_figure("figures/fig_XX_YY_name.png", width = 10, height = 6)
+save_econ_figure("figures/fig_XX_YY_name.png", p, width = 6, height = 4)
 ```
 
 **Color palettes in setup_theme.R:**
@@ -85,7 +85,7 @@ save_econ_figure("figures/fig_XX_YY_name.png", width = 10, height = 6)
 
 - **Figure naming:** `fig_CC_NN_description.R` (CC = chapter, NN = figure number)
 - **Output formats:** PNG (300 DPI) + PDF for each figure
-- **Width:** 10 inches standard, 6 inches for single-column
+- **Width:** 6 inches for every figure, saved at 300 dpi; drawn at print size with a base text size of 9 pt and nothing under 7 pt. No in-image titles (panels are labelled "A.", "B."); put the title in the manuscript caption. See `R/theme_book.R` and `scripts/book_style.py`
 - **Math in Markdown:** Use `$$...$$` on own lines for GitBook KaTeX compatibility
 - **Citations:** Author-date format (Smith 2020)
 
