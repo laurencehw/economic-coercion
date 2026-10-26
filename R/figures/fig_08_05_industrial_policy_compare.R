@@ -44,77 +44,30 @@ industrial_policy <- data.frame(
 )
 
 # Country colors
-country_colors <- c("USA" = "#1f77b4", "China" = "#d62728", "EU" = "#2ca02c")
+country_colors <- c("USA" = lws_colors[["fade"]], "China" = lws_colors[["red"]], "EU" = lws_colors[["text"]])
+bloc_lab <- c("USA" = "United States", "China" = "China", "EU" = "European Union")
 
-# Panel 1: Total by country
-country_totals <- industrial_policy %>%
-  group_by(country) %>%
-  summarise(total = sum(amount_billions), .groups = "drop") %>%
-  mutate(country = factor(country, levels = c("USA", "China", "EU")))
+# One panel: programmes sorted within bloc, announced totals; bloc totals in the strip labels.
+bloc_tot <- industrial_policy %>% group_by(country) %>% summarise(total = sum(amount_billions), .groups = "drop")
+strip_lab <- setNames(paste0(bloc_lab[bloc_tot$country], " (sum $", bloc_tot$total, "B)"), bloc_tot$country)
+ip <- industrial_policy %>%
+  mutate(country = factor(country, levels = c("USA", "China", "EU")),
+         key = paste(country, program, sep = "___"),
+         key = fct_reorder(key, amount_billions))
 
-p1 <- ggplot(country_totals, aes(x = country, y = total, fill = country)) +
-  geom_col(width = 0.6) +
-  geom_text(aes(label = paste0("$", total, "B")), vjust = -0.3, size = 5, fontface = "bold") +
-  scale_fill_manual(values = country_colors, guide = "none") +
-  scale_y_continuous(expand = expansion(mult = c(0, 0.15))) +
-  labs(
-    title = "Total Industrial Policy Spending (Recent Programs)",
-    subtitle = "Sum of major programs 2014-2030",
-    x = NULL,
-    y = "Total Spending (USD Billions)"
-  ) +
-  theme_econ_textbook() +
-  theme(panel.grid.major.x = element_blank())
-
-# Panel 2: By program
-industrial_policy <- industrial_policy %>%
-  mutate(program = fct_reorder(program, amount_billions))
-
-p2 <- ggplot(industrial_policy, aes(x = program, y = amount_billions, fill = country)) +
+combined <- ggplot(ip, aes(x = key, y = amount_billions, fill = country)) +
   geom_col(width = 0.7) +
-  geom_text(aes(label = paste0("$", amount_billions, "B")), hjust = -0.1, size = 3.5) +
+  geom_text(aes(label = paste0("$", amount_billions, "B  ", timeframe)), hjust = -0.08, colour = lws_colors[["ink"]], size = book_text_size) +
+  scale_x_discrete(labels = function(x) sub("^.*___", "", x)) +
+  scale_fill_manual(values = country_colors, guide = "none") +
+  scale_y_continuous(expand = expansion(mult = c(0, 0.75)), labels = function(x) paste0("$", x, "B")) +
+  facet_grid(country ~ ., scales = "free_y", space = "free_y", labeller = labeller(country = strip_lab)) +
   coord_flip() +
-  scale_fill_manual(values = country_colors, name = "Country") +
-  scale_y_continuous(expand = expansion(mult = c(0, 0.15))) +
-  labs(
-    title = "Major Industrial Policy Programs",
-    subtitle = "Announced funding levels by program",
-    x = NULL,
-    y = "Funding (USD Billions)"
-  ) +
-  theme_econ_textbook() +
-  theme(panel.grid.major.y = element_blank())
+  labs(x = NULL, y = "Announced funding (billions of US dollars)") +
+  book_source("Source: Government announcements, budget documents and PIIE analysis. Amounts are announced totals over each programme's stated years; actual spending may differ. The totals add programmes of different length and scope and are not like-for-like.") +
+  theme_book_h() +
+  theme(strip.text.y = element_text(angle = 0, hjust = 0, face = "bold", colour = lws_colors[["ink"]]))
 
-# Panel 3: Focus areas radar chart (simplified as grouped bars)
-focus_summary <- industrial_policy %>%
-  mutate(
-    sector = case_when(
-      grepl("Semiconductor|Chips", focus) ~ "Semiconductors",
-      grepl("Clean|Green", focus) ~ "Clean Energy",
-      TRUE ~ "Other"
-    )
-  ) %>%
-  group_by(country, sector) %>%
-  summarise(total = sum(amount_billions), .groups = "drop")
-
-p3 <- ggplot(focus_summary, aes(x = sector, y = total, fill = country)) +
-  geom_col(position = position_dodge(width = 0.8), width = 0.7) +
-  scale_fill_manual(values = country_colors, name = "Country") +
-  labs(
-    title = "Spending by Strategic Focus",
-    subtitle = "How each bloc prioritizes different sectors",
-    x = NULL,
-    y = "Funding (USD Billions)",
-    caption = "Source: Government announcements, budget documents, PIIE analysis\nNote: Amounts are announced totals; actual spending may differ"
-  ) +
-  theme_econ_textbook() +
-  theme(panel.grid.major.x = element_blank())
-
-# Combine
-library(patchwork)
-combined <- (p1 + p3) / p2 + plot_layout(heights = c(1, 1.5))
-
-# Save the figure
-save_econ_figure(here::here("figures", "fig_08_05_industrial_policy_compare.png"), plot = combined, width = 13, height = 11)
+save_econ_figure(here::here("figures", "fig_08_05_industrial_policy_compare.png"), plot = combined, width = 6, height = 5)
 
 cat("Figure 8.5 created: Industrial Policy Comparison\n")

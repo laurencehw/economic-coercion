@@ -12,83 +12,52 @@ library(tidyr)
 cfius <- read.csv(here::here("data", "sources", "cfius_reviews.csv"), stringsAsFactors = FALSE)
 
 # Reshape for stacked area
-cfius_long <- cfius %>%
-  select(year, declarations, notices, withdrawals, mitigation_measures_conditions) %>%
-  pivot_longer(cols = -year, names_to = "metric", values_to = "count") %>%
-  mutate(
-    metric = case_when(
-      metric == "declarations" ~ "Short-Form Declarations",
-      metric == "notices" ~ "Full Notices",
-      metric == "withdrawals" ~ "Withdrawn Notices",
-      metric == "mitigation_measures_conditions" ~ "Mitigation Required"
-    ),
-    metric = factor(metric, levels = c("Full Notices", "Short-Form Declarations",
-                                        "Withdrawn Notices", "Mitigation Required"))
-  )
-
-# Colors
-metric_colors <- c(
-  "Full Notices" = "#1f77b4",
-  "Short-Form Declarations" = "#2ca02c",
-  "Withdrawn Notices" = "#d62728",
-  "Mitigation Required" = "#ff7f0e"
-)
-
-# Panel 1: Activity over time
-p1 <- ggplot(cfius_long %>% filter(metric %in% c("Full Notices", "Short-Form Declarations")),
-             aes(x = year, y = count, fill = metric)) +
-  geom_area(alpha = 0.8, color = "white", linewidth = 0.3) +
-  geom_vline(xintercept = 2018, linetype = "dashed", color = "gray40") +
-  annotate("text", x = 2018.2, y = 400, label = "FIRRMA\nEnacted",
-           hjust = 0, size = 3.5, color = "gray40") +
-  scale_fill_manual(values = metric_colors, name = "Filing Type") +
-  scale_x_continuous(breaks = seq(2010, 2024, 2)) +
-  scale_y_continuous(expand = expansion(mult = c(0, 0.05))) +
-  labs(
-    title = "CFIUS Review Activity (2010-2024)",
-    subtitle = "Filings surged after FIRRMA (2018), then eased from the 2022 peak",
-    x = "Year",
-    y = "Number of Filings"
-  ) +
-  theme_econ_textbook() +
-  theme(legend.position = "right")
-
-# Panel 2: Outcomes
-p2 <- ggplot(cfius, aes(x = year)) +
-  geom_col(aes(y = withdrawals), fill = "#d62728", alpha = 0.7, width = 0.4,
-           position = position_nudge(x = -0.2)) +
-  geom_col(aes(y = mitigation_measures_conditions), fill = "#ff7f0e", alpha = 0.7, width = 0.4,
-           position = position_nudge(x = 0.2)) +
-  scale_x_continuous(breaks = seq(2010, 2024, 2)) +
-  labs(
-    title = "CFIUS Enforcement Outcomes",
-    subtitle = "Withdrawals (red) and mitigation measures/conditions (orange)",
-    x = "Year",
-    y = "Number of Cases"
-  ) +
-  theme_econ_textbook()
-
-# Panel 3: China-related percentage
-p3 <- ggplot(cfius, aes(x = year, y = china_related_pct)) +
-  geom_line(color = "#d62728", linewidth = 1.2) +
-  geom_point(color = "#d62728", size = 3) +
-  geom_area(fill = "#d62728", alpha = 0.2) +
-  scale_x_continuous(breaks = seq(2010, 2024, 2)) +
-  scale_y_continuous(labels = function(x) paste0(x, "%"), limits = c(0, 50)) +
-  labs(
-    title = "China-Related CFIUS Cases",
-    subtitle = "Estimated share of reviews involving Chinese investors",
-    x = "Year",
-    y = "Share of Reviews (%)",
-    caption = "Source: CFIUS Annual Reports to Congress, author estimates\nNote: FIRRMA = Foreign Investment Risk Review Modernization Act"
-  ) +
-  theme_econ_textbook()
-
-# Combine
 library(patchwork)
-combined <- p1 / (p2 + p3) + plot_layout(heights = c(1.2, 1))
+library(ggplot2)
 
-# Save the figure
-save_econ_figure(here::here("figures", "fig_08_03_cfius_reviews.png"), plot = combined, width = 13, height = 11)
+# A. covered transactions by filing type (stacked bars: notices below, declarations above)
+filings <- cfius %>% select(year, Notices = notices, Declarations = declarations) %>%
+  pivot_longer(-year, names_to = "type", values_to = "n") %>%
+  mutate(type = factor(type, levels = c("Declarations", "Notices")))
+
+p1 <- ggplot(filings, aes(x = year, y = n, fill = type)) +
+  geom_col(width = 0.7) +
+  geom_text(data = cfius, aes(x = year, y = covered_transactions, label = covered_transactions), inherit.aes = FALSE,
+            vjust = -0.5, colour = lws_colors[["ink"]], size = book_text_size) +
+  annotate("segment", x = 2018, xend = 2018, y = 0, yend = 430, linetype = "dashed", colour = lws_colors[["ref"]]) +
+  annotate("text", x = 2017.8, y = 430, label = "FIRRMA enacted, 2018", hjust = 1, colour = lws_colors[["text"]]) +
+  scale_fill_manual(values = c("Notices" = lws_colors[["text"]], "Declarations" = lws_colors[["fade"]]), breaks = c("Notices", "Declarations"), name = NULL) +
+  scale_x_continuous(breaks = seq(2010, 2024, 2)) +
+  scale_y_continuous(expand = expansion(mult = c(0, 0.12))) +
+  labs(title = "A. Covered transactions by filing type", x = NULL, y = "Number of filings") +
+  theme_econ_textbook() + theme(legend.position = "top", legend.justification = "left")
+
+# B. outcomes (two series, direct end labels)
+outc <- cfius %>% select(year, Withdrawals = withdrawals, `Mitigation measures` = mitigation_measures_conditions) %>%
+  pivot_longer(-year, names_to = "k", values_to = "n")
+outc_last <- outc %>% filter(year == max(year))
+p2 <- ggplot(outc, aes(x = year, y = n, colour = k)) +
+  geom_line(linewidth = 0.9) + geom_point(size = 1.2) +
+  scale_colour_manual(values = c("Withdrawals" = lws_colors[["text"]], "Mitigation measures" = lws_colors[["red"]]), name = NULL) +
+  scale_x_continuous(breaks = seq(2010, 2024, 4)) +
+  scale_y_continuous(limits = c(0, 100), expand = c(0, 0)) +
+  labs(title = "B. Enforcement outcomes", x = NULL, y = "Number of cases") +
+  theme_econ_textbook() + theme(legend.position = "top", legend.justification = "left", legend.text = element_text(size = 7.5))
+
+# C. China-related share
+p3 <- ggplot(cfius, aes(x = year, y = china_related_pct)) +
+  geom_line(colour = lws_colors[["red"]], linewidth = 0.9) +
+  geom_point(colour = lws_colors[["red"]], size = 1.2) +
+  scale_x_continuous(breaks = seq(2010, 2024, 4)) +
+  scale_y_continuous(labels = function(x) paste0(x, "%"), limits = c(0, 40), expand = c(0, 0)) +
+  labs(title = "C. China-related share of reviews", x = NULL, y = "Share of reviews (%)") +
+  theme_econ_textbook()
+
+combined <- p1 / (p2 | p3) + plot_layout(heights = c(1.3, 1)) +
+  plot_annotation(
+    caption = paste(strwrap("Source: CFIUS Annual Reports to Congress; the China-related share is the author's estimate. FIRRMA = Foreign Investment Risk Review Modernization Act. Withdrawn notices are not necessarily abandoned deals.", 105), collapse = "\n"),
+    theme = theme_econ_textbook())
+
+save_econ_figure(here::here("figures", "fig_08_03_cfius_reviews.png"), plot = combined, width = 6, height = 6)
 
 cat("Figure 8.3 created: CFIUS Reviews\n")

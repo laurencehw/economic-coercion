@@ -49,59 +49,26 @@ eu_decline <- (eu_current / eu_peak) - 1
 # ============================================================================
 
 # Main Line Plot
-p1 <- ggplot(fdi_long, aes(x = Year, y = Amount, color = Region)) + 
-  # Add vertical line for CFIUS reform
-  annotate("segment", x = 2018, xend = 2018, y = 0, yend = 50, 
-           linetype = "dashed", color = "gray50", alpha = 0.5) + 
-  annotate("text", x = 2018.2, y = 48, label = "CFIUS Reform (FIRRMA)", 
-           hjust = 0, size = 3.5, color = "gray40", fontface = "italic") + 
-  
-  # Lines and points
-  geom_line(linewidth = 1.2) + 
-  geom_point(size = 3) + 
-  
-  # Labels for ends of lines
-  geom_text(aes(label = label), hjust = -0.2, na.rm = TRUE, fontface = "bold") + 
-  
-  # Peak annotations
-  annotate("text", x = us_peak_year, y = us_peak + 2, 
-           label = paste0("U.S. Peak: $", us_peak, "B"), 
-           color = econ_colors[["USA"]], fontface = "bold", size = 3.5) + 
-  annotate("text", x = eu_peak_year, y = eu_peak + 2, 
-           label = paste0("Europe Peak: $", eu_peak, "B"), 
-           color = econ_colors[["EU"]], fontface = "bold", size = 3.5) + 
-  
-  # Scales
-  scale_color_manual(values = c("United States" = econ_colors[["USA"]], 
-                                "Europe" = econ_colors[["EU"]])) +
-  scale_y_continuous(labels = scales::dollar_format(suffix = "B"), limits = c(0, 55)) + 
-  scale_x_continuous(breaks = seq(2008, 2024, 2)) + 
-  
-  # Labels
-  labs(
-    title = "Collapse of Chinese Foreign Direct Investment (2008-2024)",
-    subtitle = "Annual FDI flows show dramatic decline following increased scrutiny and restrictions",
-    x = NULL,
-    y = "Annual Flows (Billions USD)",
-    color = NULL
-  ) + 
-  theme_econ_textbook() +
-  theme(legend.position = "top")
+last <- fdi_long %>% filter(Year == max(Year))
+reg_cols <- c("United States" = lws_colors[["red"]], "Europe" = lws_colors[["text"]])
 
-# ============================================================================
-# 3. SAVE OUTPUT
-# ============================================================================
+p1 <- ggplot(fdi_long, aes(x = Year, y = Amount, colour = Region)) +
+  annotate("segment", x = 2018, xend = 2018, y = 0, yend = 40, linetype = "dashed", colour = lws_colors[["ref"]]) +
+  annotate("text", x = 2018.2, y = 34, label = "CFIUS reform\n(FIRRMA), 2018", lineheight = 0.9, hjust = 0, colour = lws_colors[["text"]]) +
+  geom_line(linewidth = 0.9) +
+  geom_point(size = 1.5) +
+  geom_text(data = last, aes(label = paste0(Region, " $", round(Amount, 1), "B")), hjust = -0.1, size = book_text_size, show.legend = FALSE) +
+  annotate("text", x = us_peak_year - 0.3, y = us_peak + 2, hjust = 1, label = paste0("U.S. peak $", us_peak, "B"), colour = lws_colors[["red"]], size = book_text_size) +
+  annotate("text", x = eu_peak_year + 0.3, y = eu_peak + 4, hjust = 0, label = paste0("Europe peak $", eu_peak, "B"), colour = lws_colors[["text"]], size = book_text_size) +
+  scale_colour_manual(values = reg_cols, guide = "none") +
+  scale_y_continuous(labels = scales::dollar_format(suffix = "B"), limits = c(0, 55), expand = c(0, 0)) +
+  scale_x_continuous(breaks = seq(2008, 2024, 4), limits = c(2008, 2030)) +
+  labs(x = NULL, y = "Annual flows (billions of US dollars)") +
+  book_source("Source: Rhodium Group, AEI China Investment Tracker and Eurostat. Includes mergers and acquisitions and greenfield investment.") +
+  theme_econ_textbook()
 
-# Combine (single panel figure in this case)
-final_plot <- p1 +
-  add_source_note("Rhodium Group, AEI China Investment Tracker, Eurostat. Note: Includes M&A and greenfield investment.")
+save_econ_figure(here("figures", "fig_08_02_chinese_fdi.png"), p1, width = 6, height = 3.8)
 
-# Save
-save_econ_figure(here("figures", "fig_08_02_chinese_fdi.png"), final_plot, height = 6)
-
-# Print summary stats to console
 cat("\nFigure 8.2 Summary Stats:\n")
-cat(sprintf("USA Peak: $%sB (%d) -> Current: $%sB (Decline: %.1f%%)\n", 
-            us_peak, us_peak_year, us_current, us_decline * 100))
-cat(sprintf("Europe Peak: $%sB (%d) -> Current: $%sB (Decline: %.1f%%)\n", 
-            eu_peak, eu_peak_year, eu_current, eu_decline * 100))
+cat(sprintf("USA Peak: $%sB (%d) -> Current: $%sB (Decline: %.1f%%)\n", us_peak, us_peak_year, us_current, us_decline * 100))
+cat(sprintf("Europe Peak: $%sB (%d) -> Current: $%sB (Decline: %.1f%%)\n", eu_peak, eu_peak_year, eu_current, eu_decline * 100))

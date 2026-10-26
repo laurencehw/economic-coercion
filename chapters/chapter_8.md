@@ -139,7 +139,7 @@ Figure 8.2 shows how completely that flow reversed. The collapse from the 2016 p
 
 <figure class="book-figure">
   <img src="../figures/fig_08_02_chinese_fdi.png" alt="Chinese foreign direct investment in U.S. and Europe from 2008-2024, showing the dramatic collapse after FIRRMA.">
-  <figcaption>Figure 8.2: Chinese foreign direct investment in U.S. and Europe from 2008-2024, showing the dramatic collapse after FIRRMA.</figcaption>
+  <figcaption>Figure 8.2: Chinese foreign direct investment in the United States and Europe, 2008-2024, including mergers and acquisitions and greenfield investment, showing the sharp fall after FIRRMA. Sources: Rhodium Group, AEI China Investment Tracker and Eurostat.</figcaption>
 </figure>
 
 FIRRMA's impact was immediate and severe. Chinese direct investment in the United States peaked at $45.6 billion in 2016, fell to $29.4 billion in 2017 as political sentiment shifted, and then dropped to $5.4 billion in 2018, the year FIRRMA was enacted. It has not recovered: annual flows have run between $2.5 billion and $5.1 billion every year since, with 2024 estimated at about $2.5 billion. That is a 95 percent decline from the peak, and it returns Chinese investment to a level last seen in 2004, before China emerged as a major global investor (Rhodium Group 2024). The collapse extends across sectors but concentrates in technology.
@@ -304,7 +304,7 @@ Figure 8.3 puts the screening regime's whole trajectory in one view. Filings ros
 
 <figure class="book-figure">
   <img src="../figures/fig_08_03_cfius_reviews.png" alt="CFIUS review activity 2010-2024, with enforcement outcomes and the Chinese share of reviews.">
-  <figcaption>Figure 8.3: CFIUS review activity, 2010-2024: filings by type, enforcement outcomes, and the estimated share of reviews involving Chinese investors. The existing image retains unreconciled inputs: the corrected source table records 20 declarations in 2018 and mitigation-measure/condition counts of 29 (2018), 33 (2019), 23 (2020), 31 (2021), 52 (2022), 43 (2023), and 25 (2024). The 2018 mitigation point counts cleared notices; the 2019-2024 totals also include measures on withdrawn transactions and, where reported, interim conditions. Earlier mitigation counts remain unreconciled. Withdrawn notices are not necessarily abandoned deals: 42 of the 49 withdrawals in 2024 were refiled. Corrected inputs await image regeneration.</figcaption>
+  <figcaption>Figure 8.3: CFIUS review activity, 2010-2024. Panel A shows filings by type (declarations and notices), panel B shows withdrawals and mitigation measures or conditions, and panel C shows the estimated share of reviews involving Chinese investors. The 2018 mitigation point counts cleared notices; the 2019-2024 totals also include measures on withdrawn transactions and, where reported, interim conditions. Withdrawn notices are not necessarily abandoned deals: 42 of the 49 withdrawals in 2024 were refiled. Sources: CFIUS Annual Reports to Congress; the China-related share is the author's estimate.</figcaption>
 </figure>
 
 ## Industrial Policy Competition - The Return of the State
@@ -375,8 +375,8 @@ The **results** of these investments have been mixed. The Chinese semiconductor 
 Figure 8.4 sets the recent programs side by side. The comparison should be read with care — the entries differ in duration, in the mix of grants, loans, and tax credits, and in how much was appropriated versus disbursed — but even after those caveats the convergence is the point: the distinction between market-driven and state-directed approaches has narrowed considerably from the American side.
 
 <figure class="book-figure">
-  <img src="../figures/fig_08_04_industrial_policy.png" alt="Industrial policy spending comparison between the U.S. and China across key technology sectors.">
-  <figcaption>Figure 8.4: Industrial policy spending comparison between the U.S. and China across key technology sectors.</figcaption>
+  <img src="../figures/fig_08_04_industrial_policy.png" alt="Panel A: sorted bars of announced industrial-policy program totals by country. Panel B: stylized even-spread annual spending by program.">
+  <figcaption>Figure 8.4: Announced industrial-policy programs of the United States and China. Panel A ranks the program totals by country; panel B spreads each announced total evenly across its stated years and is the author's illustration (stylized, not data). Sources: CHIPS and Science Act (2022), Inflation Reduction Act (2022), Infrastructure Investment and Jobs Act (2021), China National IC Industry Investment Fund and government announcements.</figcaption>
 </figure>
 
 **U.S. Model: Strategic Industrial Policy within Market Framework**
@@ -419,7 +419,7 @@ Figure 8.5 sets the headline commitments side by side, and the comparison should
 
 <figure class="book-figure">
   <img src="../figures/fig_08_05_industrial_policy_compare.png" alt="Headline spending under recent U.S., Chinese, and European industrial policy programs.">
-  <figcaption>Figure 8.5: Headline commitments under recent U.S., Chinese, and European industrial policy programs.</figcaption>
+  <figcaption>Figure 8.5: Headline commitments under recent U.S., Chinese and European industrial-policy programs, by region. Amounts are announced totals over each program's stated years and are not like-for-like. Sources: government announcements, budget documents and PIIE analysis.</figcaption>
 </figure>
 
 ## Informal Economic Coercion - The Australia Case
@@ -463,8 +463,8 @@ One sector was conspicuously untouched. Iron ore, by far the largest single comp
 Figure 8.6 shows the campaign's selectivity better than any narrative can. Wine, barley, lobster, and coal fall by 94 to 98 percent; iron ore rises. The restricted goods are the ones China could buy elsewhere, and the single commodity it could not replace was left untouched throughout — which tells you the measures were designed to be affordable to the coercer, not merely painful to the target.
 
 <figure class="book-figure">
-  <img src="../figures/fig_08_06_australia_china.png" alt="Australian exports to China by product, comparing 2019 with 2021 and the partial recovery by 2023.">
-  <figcaption>Figure 8.6: Australian exports to China by product: 2019, 2021, and the partial recovery by 2023.</figcaption>
+  <img src="../figures/fig_08_06_australia_china.png" alt="Panel A: bars of the percentage change in Australian exports to China by product, 2019 to 2021. Panel B: small multiples of each product's exports in 2019, 2021 and 2023.">
+  <figcaption>Figure 8.6: Change in Australian exports to China by product between 2019 and 2021 (panel A), and the 2019, 2021 and 2023 values for each product (panel B), showing the partial recovery by 2023. Iron ore, which China could not readily replace, was left untouched. Values are in Australian dollars as recorded in the source table. Sources: Australian Bureau of Statistics, DFAT and news reports.</figcaption>
 </figure>
 
 ### Australian Responses and Economic Impact
