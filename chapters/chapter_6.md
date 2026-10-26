@@ -51,8 +51,8 @@ The Trump administration's broad interpretation of "national security" under Sec
 Figure 6.1 tracks average applied tariff rates through the successive rounds. The stepwise shape matters for the argument that follows: tariffs escalated in discrete, announced increments and came down only partially, so that each truce reset the level rather than the instrument.
 
 <figure class="book-figure">
-  <img src="../figures/fig_06_01_us_china_tariffs.png" alt="U.S.-China tariff rates and trade flows from 2018-2024, showing the escalation of the trade war.">
-  <figcaption>Figure 6.1: U.S.-China tariff rates and trade flows from 2018-2024, showing the escalation of the trade war.</figcaption>
+  <img src="../figures/fig_06_01_us_china_tariffs.png" alt="Panel A: bars of U.S. tariff rates on Chinese imports by round of the trade war. Panel B: bars of the share of goods covered by each round.">
+  <figcaption>Figure 6.1: U.S. tariff rates on Chinese imports (panel A) and the share of goods covered (panel B) across the successive rounds of the trade war, 2018-2025. Chinese retaliatory tariffs on U.S. goods are not shown. Sources: U.S. International Trade Commission, Peterson Institute for International Economics and USTR.</figcaption>
 </figure>
 
 The 2018-present U.S.-China trade war illustrates the dynamics of modern tariff-based coercion. What began as targeted technology-sector tariffs escalated through tit-for-tat retaliation into economy-wide restrictions affecting consumer goods, agricultural products, and industrial inputs.
@@ -259,8 +259,8 @@ The United States maintains the world's most extensive unilateral export control
 Figure 6.3 shows how quickly that list has grown. The trend line is more informative than any single designation: what began as a targeted proliferation tool has become a general-purpose instrument of technology policy, and the volume alone raises the administrative capacity questions taken up later in this chapter.
 
 <figure class="book-figure">
-  <img src="../figures/fig_06_03_entity_list.png" alt="Entity List additions by administration, showing the growth of export control restrictions.">
-  <figcaption>Figure 6.3: Entity List additions by administration, showing the growth of export control restrictions.</figcaption>
+  <img src="../figures/fig_06_03_entity_list.png" alt="Stacked bars of annual Chinese additions to the U.S. Entity List by sector, with semiconductors highlighted, showing growth in export-control restrictions.">
+  <figcaption>Figure 6.3: Additions of Chinese entities to the U.S. Entity List by year, with semiconductors highlighted and other sectors in grey. Sector assignment is as coded in the dataset. Source: U.S. Bureau of Industry and Security, Federal Register.</figcaption>
 </figure>
 
 **Scope of EAR Jurisdiction**
@@ -362,8 +362,8 @@ The controls have also spawned novel enforcement hybrids. After the administrati
 Figure 6.5 shows why the foreign direct product rule works at all. Equipment supply is concentrated in five firms across three jurisdictions — the United States, Japan, and the Netherlands — and that concentration, rather than any American monopoly, is what makes coordinated denial feasible. It also identifies the arrangement's weak point: the rule depends on all three continuing to agree, and any one of them defecting would leave the others holding controls that no longer bind.
 
 <figure class="book-figure">
-  <img src="../figures/fig_06_05_equipment_market_share.png" alt="Semiconductor manufacturing equipment market share by company and by country.">
-  <figcaption>Figure 6.5: Semiconductor manufacturing equipment market share, by company and by supplier country.</figcaption>
+  <img src="../figures/fig_06_05_equipment_market_share.png" alt="Panel A: bars of equipment market share by company. Panel B: bars of the leading company's share in each equipment type.">
+  <figcaption>Figure 6.5: Semiconductor manufacturing equipment market share by company (panel A) and the leading company's share by equipment type (panel B). Shares are approximate and for 2023; ASML is the sole supplier of EUV lithography, needed for chips below 7 nm, and 'over 80%' for DUV is plotted at 80%. Sources: SEMI, VLSI Research and company filings.</figcaption>
 </figure>
 
 ### Lessons from Cold War Export Controls: CoCom
@@ -527,8 +527,8 @@ China enacted Export Control Law (2020) establishing authority to:
 Figure 6.6 places China's rare-earth measures against the American actions that preceded them. The sequencing rewards attention: Beijing's instruments arrived later and were narrower in scope, but they were aimed at the stage of the supply chain where substitution takes longest, which is why their announcement moved prices that tariff rounds did not.
 
 <figure class="book-figure">
-  <img src="../figures/fig_06_06_rare_earth_retaliation.png" alt="Chinese critical-mineral and rare-earth export retaliation measures 2010-2025, showing targeted controls on gallium, germanium, graphite, and antimony alongside global production shares.">
-  <figcaption>Figure 6.6: Chinese critical-mineral export restrictions and retaliation, 2010–2025.</figcaption>
+  <img src="../figures/fig_06_06_rare_earth_retaliation.png" alt="Panel A: timeline of Chinese export restrictions on rare earths, gallium, germanium, graphite and antimony. Panel B: bars of China's share of global production of those minerals.">
+  <figcaption>Figure 6.6: Chinese critical-mineral export restrictions and retaliation, 2010-2025 (panel A), and China's share of global production of the affected minerals with the control status of each (panel B). The shares in panel B are as compiled for the book and are not reconciled to a single year. Sources: USGS, Benchmark Mineral Intelligence and MOFCOM announcements.</figcaption>
 </figure>
 
 **Unreliable Entity List (不可靠实体清单, bù kě kào shítǐ qīngdān)**
@@ -853,8 +853,8 @@ The central European dilemma is how to coordinate with the United States on Chin
 Figure 6.7 summarises the Section 301 actions and their coverage. The breadth is the striking feature: a statute drafted to remedy specific unfair trade practices has carried the legal weight of a general tariff program, which is the background to the constitutional questions raised by the later IEEPA litigation.
 
 <figure class="book-figure">
-  <img src="../figures/fig_06_07_section_301.png" alt="Section 301 tariff coverage by product category and administration, showing the expansion of coverage across Trump and Biden administrations.">
-  <figcaption>Figure 6.7: Section 301 tariff coverage by product category and administration (2018–2025).</figcaption>
+  <img src="../figures/fig_06_07_section_301.png" alt="Sorted bars of Section 301 tariff coverage by product category, grouped by tariff list.">
+  <figcaption>Figure 6.7: Section 301 tariff coverage by product category, 2018-2025, in sorted bars grouped by tariff list. The split of each list into sectors is illustrative, since the source gives only list totals. Sources: USTR and Federal Register notices.</figcaption>
 </figure>
 
 **Strengths**: Broad scope and flexible remedies; product-specific targeting with exclusion processes; bipartisan sustainability (both Trump and Biden maintained tariffs); negotiating leverage through calibrated escalation. **Limitations**: Likely WTO-illegal (unilateral remedies rather than dispute settlement); U.S. consumers bear nearly 100% of tariff costs through higher prices (Amiti, Redding, and Weinstein 2019); Chinese retaliation targeting politically sensitive U.S. sectors (agriculture, energy); limited compellence success despite massive tariff coverage; and escalation dynamics creating a "tariff trap" where domestic political costs prevent de-escalation even when both sides face net losses.

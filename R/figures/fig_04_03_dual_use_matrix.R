@@ -76,74 +76,47 @@ dual_use <- dual_use %>%
     )
   )
 
-# Category colors
-category_colors <- c(
-  "Critical Dual-Use" = "#d62728",
-  "Significant Dual-Use" = "#ff7f0e",
-  "Moderate Dual-Use" = "#2ca02c"
-)
-
-# Create scatter plot
+# Highlight the critical dual-use technologies; the rest in ink
 p1 <- ggplot(dual_use, aes(x = commercial_intensity, y = military_intensity)) +
-  # Quadrant backgrounds
-  annotate("rect", xmin = 7, xmax = 10.5, ymin = 7, ymax = 10.5,
-           fill = "#ffcccc", alpha = 0.3) +
-  annotate("text", x = 8.7, y = 8.45, label = "CRITICAL\nDUAL-USE",
-           color = "#d62728", fontface = "bold", size = 3.5) +
-  # Points
-  geom_point(aes(size = dual_use_score, color = category), alpha = 0.8) +
-  geom_text_repel(aes(label = technology), size = 3, seed = 42,
-                  box.padding = 0.5, point.padding = 0.4,
-                  min.segment.length = 0.2, segment.color = "gray55") +
-  # Styling
-  scale_color_manual(values = category_colors, name = "Category") +
-  scale_size_continuous(range = c(4, 15), name = "Dual-Use\nScore", guide = "none") +
+  annotate("rect", xmin = 7.5, xmax = 10.6, ymin = 7.5, ymax = 10.6, fill = lws_colors[["red"]], alpha = 0.07) +
+  annotate("text", x = 10.5, y = 7.8, label = "Critical dual-use", hjust = 1, colour = lws_colors[["red"]]) +
+  geom_point(aes(colour = category == "Critical Dual-Use"), size = 2.2, show.legend = FALSE) +
+  scale_colour_manual(values = c("TRUE" = lws_colors[["red"]], "FALSE" = lws_colors[["ink"]])) +
+  geom_text_repel(aes(label = technology), seed = 42, box.padding = 0.45, point.padding = 0.25,
+                  min.segment.length = 0.2, segment.colour = lws_colors[["fade"]], segment.size = 0.3) +
   scale_x_continuous(limits = c(2, 11), breaks = seq(2, 10, 2)) +
-  scale_y_continuous(limits = c(2, 11), breaks = seq(2, 10, 2)) +
-  labs(
-    title = "Dual-Use Technology Assessment Matrix",
-    subtitle = "Commercial vs. military application intensity (author's ordinal assessment, 1-10)",
-    x = "Commercial Application Intensity",
-    y = "Military Application Intensity"
-  ) +
+  scale_y_continuous(limits = c(6, 11), breaks = seq(6, 10, 1)) +
+  labs(title = "A. Commercial and military application intensity",
+       x = "Commercial application intensity (1 to 10)", y = "Military intensity (1 to 10)") +
   theme_econ_textbook() +
-  theme(legend.position = "right")
+  theme(panel.grid.major.x = element_line(colour = lws_colors[["grid"]], linewidth = 0.4))
 
-# US vs China leadership comparison
+# US vs China leadership comparison (dumbbell, technologies sorted by dual-use score)
 leadership <- dual_use %>%
-  select(technology, us_lead, china_lead) %>%
+  select(technology, us_lead, china_lead, dual_use_score) %>%
+  mutate(technology = factor(technology, levels = technology[order(dual_use_score)]))
+leadership_long <- leadership %>%
   pivot_longer(cols = c(us_lead, china_lead), names_to = "country", values_to = "score") %>%
-  mutate(
-    country = ifelse(country == "us_lead", "United States", "China"),
-    technology = factor(technology, levels = rev(dual_use$technology[order(dual_use$dual_use_score)]))
-  )
+  mutate(country = ifelse(country == "us_lead", "United States", "China"))
 
-p2 <- ggplot(leadership, aes(x = technology, y = score, fill = country)) +
-  geom_col(position = position_dodge(width = 0.7), width = 0.6) +
-  coord_flip() +
-  scale_fill_manual(
-    values = c("United States" = "#1f77b4", "China" = "#d62728"),
-    name = NULL
-  ) +
-  scale_y_continuous(limits = c(0, 10), breaks = seq(0, 10, 2)) +
-  labs(
-    title = "Technology Leadership Assessment",
-    subtitle = "Relative capability (scale 1-10)",
-    x = NULL,
-    y = "Leadership Score",
-    caption = "Source: Author's assessment based on industry reports, government assessments\nNote: Scores reflect current (2024) relative capabilities"
-  ) +
-  theme_econ_textbook() +
-  theme(
-    panel.grid.major.y = element_blank(),
-    legend.position = "bottom"
-  )
+p2 <- ggplot() +
+  geom_segment(data = leadership, aes(x = us_lead, xend = china_lead, y = technology, yend = technology),
+               colour = lws_colors[["fade"]], linewidth = 0.7) +
+  geom_point(data = leadership_long, aes(x = score, y = technology, colour = country, size = country)) +
+  scale_size_manual(values = c("United States" = 3.4, "China" = 1.9), guide = "none") +
+  scale_colour_manual(values = c("United States" = lws_colors[["blue"]], "China" = lws_colors[["red"]]),
+                      breaks = c("United States", "China"), name = NULL) +
+  scale_x_continuous(limits = c(4, 10), breaks = 4:10) +
+  labs(title = "B. Relative U.S. and Chinese capability", x = "Capability score (1 to 10)", y = NULL) +
+  theme_book_h() +
+  theme(legend.position = "top")
 
-# Combine plots
 library(patchwork)
-combined <- p1 / p2 + plot_layout(heights = c(1.2, 1))
+combined <- p1 / p2 + plot_layout(heights = c(1, 1.1)) +
+  plot_annotation(
+    caption = paste(strwrap("Source: Author's ordinal assessment (scores are judgments, not measurements), based on industry reports and government assessments; 2024. Advanced semiconductors and AI share the same position in panel A.", 105), collapse = "\n"),
+    theme = theme_econ_textbook())
 
-# Save the figure
-save_econ_figure(here::here("figures", "fig_04_03_dual_use_matrix.png"), plot = combined, width = 12, height = 12)
+save_econ_figure(here::here("figures", "fig_04_03_dual_use_matrix.png"), plot = combined, width = 6, height = 7)
 
-cat("Figure 4.6 created: Dual-Use Technology Matrix\n")
+cat("Figure 4.3 created: Dual-Use Technology Matrix\n")

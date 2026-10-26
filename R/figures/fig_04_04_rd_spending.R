@@ -36,245 +36,30 @@ rd_long <- rd_data %>%
   )
 
 # ============================================================================
-# PANEL A: ABSOLUTE R&D SPENDING
+# One panel: R&D spending by economy, end-labelled. (The share-of-global and growth-index
+# panels of the earlier dashboard restate these series and are dropped.)
 # ============================================================================
 
-panel_a <- ggplot(rd_long, aes(x = Year, y = RD_Spending, color = Country, linetype = Country)) +
-  geom_line(linewidth = 1.3) +
-  geom_point(size = 2, alpha = 0.6) +
-  scale_color_manual(
-    values = c(
-      "USA" = econ_colors[["USA"]],
-      "China" = econ_colors[["China"]],
-      "EU" = econ_colors[["EU"]],
-      "Japan" = econ_colors[["Japan"]],
-      "South Korea" = econ_colors[["South Korea"]]
-    )
-  ) +
-  scale_linetype_manual(
-    values = c("USA" = "solid", "China" = "solid", "EU" = "solid",
-               "Japan" = "dashed", "South Korea" = "dotted")
-  ) +
-  scale_y_continuous(
-    labels = label_dollar(suffix = "B"),
-    breaks = seq(0, 1200, 200),
-    limits = c(0, 1200)
-  ) +
-  scale_x_continuous(
-    breaks = seq(1990, 2024, 5),
-    limits = c(1988, 2026)
-  ) +
-  labs(
-    title = "Absolute R&D Spending",
-    subtitle = "China's ascent from minimal investment to within reach of U.S. levels",
-    x = "Year",
-    y = "R&D Spending (Billions USD, PPP)",
-    color = "Country/Region",
-    linetype = "Country/Region"
-  ) +
-  theme_econ_textbook() +
-  theme(
-    legend.position = "right",
-    panel.grid.minor = element_blank()
-  ) +
-  # Annotate China surpassing EU
-  annotate(
-    "text",
-    x = 2016,
-    y = 360,
-    label = "China\nsurpasses EU",
-    size = 3,
-    color = econ_colors[["China"]],
-    fontface = "bold"
-  ) +
-  annotate(
-    "segment",
-    x = 2016,
-    xend = 2016,
-    y = 320,
-    yend = 340,
-    arrow = arrow(length = unit(0.2, "cm"), type = "closed"),
-    color = econ_colors[["China"]],
-    linewidth = 0.6
-  ) +
-  # Annotate 2024 values
-  annotate(
-    "text",
-    x = 2026,
-    y = rd_data$USA[rd_data$Year == 2024],
-    label = paste0("$", rd_data$USA[rd_data$Year == 2024], "B"),
-    size = 3,
-    color = econ_colors[["USA"]],
-    fontface = "bold",
-    hjust = 0
-  ) +
-  annotate(
-    "text",
-    x = 2026,
-    y = rd_data$China[rd_data$Year == 2024],
-    label = paste0("$", rd_data$China[rd_data$Year == 2024], "B"),
-    size = 3,
-    color = econ_colors[["China"]],
-    fontface = "bold",
-    hjust = 0
-  )
+line_cols <- c("USA" = lws_colors[["blue"]], "China" = lws_colors[["red"]], "EU" = lws_colors[["green"]],
+               "Japan" = lws_colors[["purple"]], "South_Korea" = lws_colors[["fade"]])
+line_labs <- c("USA" = "United States", "China" = "China", "EU" = "EU", "Japan" = "Japan", "South_Korea" = "South Korea")
+end_pts <- rd_long %>% filter(Year == max(Year))
 
-# ============================================================================
-# PANEL B: GLOBAL SHARE OF R&D
-# ============================================================================
+combined_plot <- ggplot(rd_long, aes(x = Year, y = RD_Spending, colour = Country)) +
+  geom_line(linewidth = 0.9) +
+  geom_text(data = end_pts, aes(label = line_labs[as.character(Country)]), hjust = 0, nudge_x = 0.6, size = book_text_size) +
+  scale_colour_manual(values = line_cols, guide = "none") +
+  scale_y_continuous(labels = label_dollar(suffix = "B"), breaks = seq(0, 1000, 250), limits = c(0, 1050)) +
+  scale_x_continuous(breaks = seq(1990, 2020, 10), limits = c(1990, 2032)) +
+  labs(x = NULL, y = "Billions of US dollars (PPP)") +
+  book_source("Sources: OECD Main Science and Technology Indicators; NSF Science and Engineering Indicators; Chinese National Bureau of Statistics. Gross domestic expenditure on R&D, current PPP dollars; 2024 estimated. At market exchange rates the U.S.-China gap is roughly twice as wide.") +
+  theme_econ_textbook()
 
-share_long <- rd_data %>%
-  select(Year, USA_Share, China_Share, EU_Share) %>%
-  pivot_longer(
-    cols = -Year,
-    names_to = "Country",
-    values_to = "Share"
-  ) %>%
-  mutate(
-    Country = recode(Country,
-                    "USA_Share" = "USA",
-                    "China_Share" = "China",
-                    "EU_Share" = "EU")
-  )
-
-panel_b <- ggplot(share_long, aes(x = Year, y = Share, color = Country, fill = Country)) +
-  geom_area(alpha = 0.3, position = "identity") +
-  geom_line(linewidth = 1.2) +
-  geom_point(size = 1.5, alpha = 0.7) +
-  scale_color_manual(
-    values = c("USA" = econ_colors[["USA"]],
-               "China" = econ_colors[["China"]],
-               "EU" = econ_colors[["EU"]])
-  ) +
-  scale_fill_manual(
-    values = c("USA" = econ_colors[["USA"]],
-               "China" = econ_colors[["China"]],
-               "EU" = econ_colors[["EU"]])
-  ) +
-  scale_y_continuous(
-    labels = label_percent(scale = 1),
-    breaks = seq(0, 40, 10),
-    limits = c(0, 40)
-  ) +
-  scale_x_continuous(
-    breaks = seq(1990, 2024, 5)
-  ) +
-  labs(
-    title = "Share of Global R&D Spending",
-    subtitle = "U.S. share declining as China's rises dramatically",
-    x = "Year",
-    y = "Share of Global R&D (%)",
-    color = "Country/Region",
-    fill = "Country/Region"
-  ) +
-  theme_econ_textbook() +
-  theme(
-    legend.position = "right",
-    panel.grid.minor = element_blank()
-  )
-
-# ============================================================================
-# PANEL C: GROWTH COMPARISON (1990 = 100)
-# ============================================================================
-
-# Calculate indexed growth (1990 = 100)
-rd_growth <- rd_long %>%
-  group_by(Country) %>%
-  mutate(
-    Base_Value = RD_Spending[Year == 1990],
-    Growth_Index = (RD_Spending / Base_Value) * 100
-  ) %>%
-  ungroup()
-
-panel_c <- ggplot(rd_growth, aes(x = Year, y = Growth_Index, color = Country)) +
-  geom_line(linewidth = 1.3) +
-  geom_point(size = 2, alpha = 0.6) +
-  geom_hline(yintercept = 100, linetype = "dashed", color = "gray50", linewidth = 0.8) +
-  scale_color_manual(
-    values = c(
-      "USA" = econ_colors[["USA"]],
-      "China" = econ_colors[["China"]],
-      "EU" = econ_colors[["EU"]],
-      "Japan" = econ_colors[["Japan"]],
-      "South Korea" = econ_colors[["South Korea"]]
-    )
-  ) +
-  scale_y_continuous(
-    labels = label_number(),
-    breaks = seq(0, 9000, 1500)
-  ) +
-  scale_x_continuous(
-    breaks = seq(1990, 2024, 5)
-  ) +
-  labs(
-    title = "R&D Spending Growth Index (1990 = 100)",
-    subtitle = paste0("China's ",
-                    format(round(100 * (rd_data$China[rd_data$Year == 2024] /
-                                        rd_data$China[rd_data$Year == 1990] - 1)),
-                           big.mark = ","),
-                    "% growth far outpaces all competitors"),
-    x = "Year",
-    y = "Index (1990 = 100)",
-    color = "Country/Region"
-  ) +
-  theme_econ_textbook() +
-  theme(
-    legend.position = "right",
-    panel.grid.minor = element_blank()
-  ) +
-  # Annotate China's extreme growth
-  annotate(
-    "text",
-    x = 2010,
-    y = 7000,
-    label = paste0("China: ",
-                   format(round(100 * (rd_data$China[rd_data$Year == 2024] /
-                                       rd_data$China[rd_data$Year == 1990] - 1)),
-                          big.mark = ","), "% growth\n(",
-                   rd_data$China[rd_data$Year == 1990], "B → ",
-                   rd_data$China[rd_data$Year == 2024], "B)"),
-    size = 3.5,
-    color = econ_colors[["China"]],
-    fontface = "bold"
-  )
-
-# ============================================================================
-# COMBINE PANELS
-# ============================================================================
-
-combined_plot <- (panel_a / (panel_b | panel_c)) +
-  plot_annotation(
-    title = "Global R&D Spending by Country (1990-2024)",
-    subtitle = "China's rapid rise from minimal investment to challenging U.S. technological leadership",
-    caption = paste0(
-      "Source: OECD Main Science and Technology Indicators, NSF Science & Engineering Indicators, Chinese National Bureau of Statistics\n",
-      "Note: Gross domestic expenditure on R&D (GERD) in current purchasing-power-parity billions USD, OECD MSTI basis; 2024 estimated.\nAt market exchange rates the U.S.-China gap is roughly twice as wide. Includes government, higher education, business, and non-profit R&D."
-    ),
-    theme = theme_econ_textbook()
-  ) +
-  plot_layout(heights = c(2, 1))
-
-# ============================================================================
-# DISPLAY AND SAVE
-# ============================================================================
-
-print(combined_plot)
-
-# Save figure
 save_econ_figure(
   filename = here::here("figures", "fig_04_04_rd_spending.png"),
-  plot = combined_plot,
-  width = 14,
-  height = 12,
-  dpi = 300
+  plot = combined_plot, width = 6, height = 3.8
 )
 
-cat("\n")
-cat("========================================\n")
-cat("Figure 4.3 created successfully!\n")
-cat("========================================\n")
-cat("Location: figures/fig_04_04_rd_spending.png\n")
-cat("          figures/fig_04_04_rd_spending.pdf\n")
 cat("\n")
 cat("R&D Spending Comparison:\n")
 cat("------------------------\n")

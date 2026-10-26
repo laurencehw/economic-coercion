@@ -63,183 +63,29 @@ china_processing <- minerals_data %>%
 # ============================================================================
 
 # Country colors
-country_colors <- c(
-  "China" = "#d62728",
-  "DRC" = "#ff7f0e",
-  "Australia" = "#17becf",
-  "Chile" = "#2ca02c",
-  "Others" = "#7f7f7f"
-)
+mineral_order <- c("Rare Earths", "Graphite", "Cobalt", "Lithium", "Nickel")
+share_cols <- c("China" = lws_colors[["red"]], "DRC" = "#4D4D4D", "Australia" = "#7A7A7A", "Chile" = "#A8A8A8", "Others" = "#D4D4D4")
 
-# --- Panel A: Grouped Bar Chart - Processing Share ---
-p1 <- ggplot(processing_data, aes(x = Mineral, y = Processing_Share, fill = Country)) +
-  geom_col(position = position_dodge(width = 0.8), width = 0.7,
-           alpha = 0.9, color = "white", linewidth = 0.3) +
+stage_long <- minerals_data %>%
+  pivot_longer(c(Processing_Share, Mining_Share), names_to = "Stage", values_to = "Share") %>%
+  mutate(Stage = ifelse(Stage == "Processing_Share", "A. Processing (refining)", "B. Mining"),
+         Mineral = factor(Mineral, levels = rev(mineral_order)),
+         Country = factor(Country, levels = rev(c("China", "DRC", "Australia", "Chile", "Others"))))
 
-  # Add value labels for China
-  geom_text(data = processing_data %>% filter(Country == "China"),
-            aes(label = paste0(Processing_Share, "%")),
-            position = position_dodge(width = 0.8),
-            vjust = -0.5, size = 3.5, fontface = "bold", color = "#d62728") +
+p <- ggplot(stage_long, aes(x = Mineral, y = Share, fill = Country)) +
+  geom_col(width = 0.7, colour = "white", linewidth = 0.2) +
+  geom_text(data = stage_long %>% filter(Country == "China", Share >= 10), aes(label = paste0(Share, "%")),
+            position = position_stack(vjust = 0.5), colour = "white", size = book_text_size, fontface = "bold") +
+  coord_flip() +
+  facet_wrap(~Stage) +
+  scale_fill_manual(values = share_cols, breaks = c("China", "DRC", "Australia", "Chile", "Others"), name = NULL) +
+  scale_y_continuous(labels = function(x) paste0(x, "%"), breaks = seq(0, 100, 25), expand = c(0, 0)) +
+  labs(x = NULL, y = "Share of global total (%)") +
+  book_source("Source: IEA Critical Minerals Report 2023, USGS and Benchmark Mineral Intelligence. Processing is refining and chemical processing of mined ores; rare-earth processing includes separation and oxide production. 'Others' includes Indonesia, the dominant nickel miner. Shares are as compiled for the book.") +
+  theme_book_h() +
+  theme(legend.position = "top", legend.justification = "left", strip.text = element_text(face = "bold", hjust = 0, colour = lws_colors[["ink"]]), panel.spacing.x = unit(1.2, "lines"))
 
-  # China dominance annotation
-  annotate("rect", xmin = 2.5, xmax = 4.5, ymin = 75, ymax = 92,
-           fill = "#d62728", alpha = 0.1) +
-  annotate("text", x = 3.5, y = 83,
-           label = "China controls\n>70% processing",
-           size = 3.5, color = "#d62728", fontface = "bold") +
+save_econ_figure(here("figures", "fig_10_03_critical_minerals.png"), p, width = 6, height = 4.2)
 
-  scale_fill_manual(values = country_colors, name = "Country") +
-  scale_y_continuous(expand = expansion(mult = c(0, 0.1)),
-                     labels = function(x) paste0(x, "%"),
-                     breaks = seq(0, 100, 20)) +
-
-  labs(
-    title = "Critical Mineral Processing Share by Country",
-    subtitle = "China dominates refining and processing across key energy transition minerals",
-    x = NULL,
-    y = "Share of Global Processing (%)"
-  ) +
-  theme_econ_textbook() +
-  theme(
-    legend.position = "bottom",
-    panel.grid.major.x = element_blank()
-  ) +
-  guides(fill = guide_legend(nrow = 1))
-
-# --- Panel B: Mining vs Processing Comparison (China) ---
-china_comparison <- minerals_data %>%
-  filter(Country == "China") %>%
-  select(Mineral, Processing_Share, Mining_Share) %>%
-  pivot_longer(cols = c(Processing_Share, Mining_Share),
-               names_to = "Stage", values_to = "Share") %>%
-  mutate(
-    Stage = ifelse(Stage == "Processing_Share", "Processing", "Mining"),
-    Mineral = factor(Mineral, levels = c("Rare Earths", "Graphite", "Cobalt", "Lithium", "Nickel"))
-  )
-
-# Widest mining-to-processing gap, computed so the callout cannot drift from the data
-gap_row   <- china_comparison %>%
-  tidyr::pivot_wider(names_from = Stage, values_from = Share) %>%
-  dplyr::mutate(gap = Processing - Mining) %>%
-  dplyr::slice_max(gap, n = 1)
-gap_x     <- match(as.character(gap_row$Mineral[1]), levels(china_comparison$Mineral))
-gap_mine  <- gap_row$Mining[1]
-gap_proc  <- gap_row$Processing[1]
-
-p2 <- ggplot(china_comparison, aes(x = Mineral, y = Share, fill = Stage)) +
-  geom_col(position = position_dodge(width = 0.7), width = 0.6,
-           alpha = 0.85, color = "black", linewidth = 0.3) +
-
-  # Add labels
-  geom_text(aes(label = paste0(Share, "%")),
-            position = position_dodge(width = 0.7),
-            vjust = -0.3, size = 3, fontface = "bold") +
-
-  # Value-add annotation
-  annotate("segment", x = gap_x, xend = gap_x, y = gap_proc, yend = gap_mine,
-           arrow = arrow(length = unit(0.2, "cm"), ends = "both"),
-           color = "#d62728", linewidth = 0.8) +
-  annotate("text", x = gap_x + 0.3, y = (gap_proc + gap_mine) / 2,
-           label = paste0(round(gap_proc - gap_mine), " pp\ngap"),
-           size = 3, color = "#d62728", fontface = "bold") +
-
-  scale_fill_manual(values = c("Mining" = "#1f77b4", "Processing" = "#d62728"),
-                    name = "Value Chain Stage") +
-  scale_y_continuous(expand = expansion(mult = c(0, 0.15)),
-                     labels = function(x) paste0(x, "%")) +
-
-  labs(
-    title = "China: Mining vs Processing Share",
-    subtitle = "Processing dominance exceeds mining share",
-    x = NULL,
-    y = "China's Global Share (%)"
-  ) +
-  theme_econ_textbook() +
-  theme(
-    legend.position = "bottom",
-    panel.grid.major.x = element_blank()
-  )
-
-# --- Panel C: Strategic Vulnerability Scorecard ---
-vulnerability_data <- tibble(
-  Mineral = c("Rare Earths", "Cobalt", "Graphite", "Nickel", "Lithium"),
-  China_Processing = c(90, 80, 80, 65, 60),
-  EV_Importance = c("High", "Critical", "Critical", "High", "Critical"),
-  Supply_Risk = c("Extreme", "Very High", "Very High", "High", "High"),
-  Risk_Score = c(5, 4, 4, 3, 3)
-)
-
-vulnerability_data <- vulnerability_data %>%
-  mutate(Mineral = factor(Mineral, levels = c("Rare Earths", "Cobalt", "Graphite", "Nickel", "Lithium")))
-
-p3 <- ggplot(vulnerability_data, aes(y = Mineral)) +
-  # China processing bars
-  geom_col(aes(x = China_Processing), fill = "#d62728", alpha = 0.8, width = 0.6) +
-
-  # Risk level indicator
-  geom_point(aes(x = 95, color = Supply_Risk, size = Risk_Score),
-             shape = 18) +
-
-  # Labels
-  geom_text(aes(x = China_Processing + 2, label = paste0(China_Processing, "%")),
-            hjust = 0, size = 3.5, fontface = "bold") +
-
-  scale_color_manual(values = c(
-    "Extreme" = "#d62728",
-    "Very High" = "#ff7f0e",
-    "High" = "#ffbb78",
-    "Moderate" = "#2ca02c",
-    "Low" = "#1f77b4"
-  ), name = "Supply Risk") +
-  scale_size_continuous(range = c(4, 10), guide = "none") +
-  scale_x_continuous(limits = c(0, 105), labels = function(x) paste0(x, "%")) +
-
-  labs(
-    title = "Strategic Vulnerability Assessment",
-    subtitle = "China processing share and supply risk rating",
-    x = "China's Processing Share (%)",
-    y = NULL
-  ) +
-  theme_econ_textbook() +
-  theme(
-    legend.position = "right",
-    panel.grid.major.y = element_blank()
-  )
-
-# ============================================================================
-# 3. COMPOSE AND SAVE
-# ============================================================================
-
-# Combine plots
-combined <- p1 / (p2 + p3) +
-  plot_layout(heights = c(1.2, 1)) +
-  plot_annotation(
-    title = "Critical Mineral Processing Concentration",
-    subtitle = paste0("China controls ~", round(china_processing),
-                      "% of critical mineral processing on average, creating strategic vulnerability"),
-    caption = paste0(
-      "Sources: IEA Critical Minerals Report 2023, USGS, Benchmark Mineral Intelligence.\n",
-      "Note: Processing includes refining and chemical processing of mined ores.\n",
-      "Rare earths processing includes separation and oxide production stages."
-    ),
-    theme = theme(
-      plot.title = element_text(size = 16, face = "bold"),
-      plot.subtitle = element_text(size = 12, color = "gray30"),
-      plot.caption = element_text(size = 9, color = "gray50", hjust = 0)
-    )
-  )
-
-# Save
-save_econ_figure(here("figures", "fig_10_03_critical_minerals.png"), combined, width = 13, height = 12)
-
-# Print summary
 cat("\nFigure 10.3 Summary:\n")
 cat(sprintf("  Average China processing share: %.0f%%\n", china_processing))
-cat(sprintf("  Highest concentration: %s (%.0f%%)\n",
-            vulnerability_data$Mineral[which.max(vulnerability_data$China_Processing)],
-            max(vulnerability_data$China_Processing)))
-cat(sprintf("  Lowest concentration: %s (%.0f%%)\n",
-            vulnerability_data$Mineral[which.min(vulnerability_data$China_Processing)],
-            min(vulnerability_data$China_Processing)))
-cat("  Key finding: Processing dominance exceeds mining share\n")

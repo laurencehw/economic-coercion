@@ -267,8 +267,8 @@ Domestic technology ecosystems substituting for American platforms create compre
 Cloud infrastructure captures the split concretely. Globally, U.S. hyperscalers—Amazon Web Services, Microsoft Azure, and Google Cloud—still command roughly two-thirds of the market, while Chinese providers led by Alibaba, Huawei, and Tencent remain in the single digits worldwide. Inside China, the ranking inverts: Alibaba and Huawei lead, and the American incumbents are marginal (Figure 5.5). The result is two largely self-contained ecosystems rather than one integrated market—the splinternet rendered in server farms.
 
 <figure class="book-figure">
-  <img src="../figures/fig_05_05_cloud_market.png" alt="Bar and line charts of global cloud infrastructure market share in 2024 and a comparison of the Chinese and US domestic cloud markets, showing US providers dominant globally and Chinese providers dominant within China.">
-  <figcaption>Figure 5.5: Global cloud-infrastructure market share (2024) and the bifurcation of the U.S. and Chinese cloud markets. U.S. providers dominate globally and at home; Alibaba, Huawei, and Tencent lead inside China—a concrete instance of the splinternet in commercial infrastructure. Source: Synergy Research, Canalys, and company reports.</figcaption>
+  <img src="../figures/fig_05_05_cloud_market.png" alt="Panel A: bars of global cloud infrastructure market share by provider in 2024. Panel B: bars of the leading providers' shares in the Chinese and U.S. domestic markets, showing U.S. providers dominant in the United States and Chinese providers dominant in China.">
+  <figcaption>Figure 5.5: Global cloud-infrastructure market share in 2024 (panel A) and the shares of the leading providers inside China and inside the United States (panel B). U.S. providers dominate globally and at home; Alibaba, Huawei and Tencent lead inside China, a concrete instance of the splinternet in commercial infrastructure. Source: Synergy Research, Canalys, and company reports.</figcaption>
 </figure>
 
 ### Strategic Implications: Resilience or Inefficiency?

@@ -55,55 +55,33 @@ supply_risks <- supply_risks %>%
     )
   )
 
-# Category colors
+# Category colours (house hues)
 category_colors <- c(
-  "Semiconductors" = "#1f77b4",
-  "Materials" = "#ff7f0e",
-  "Pharmaceuticals" = "#2ca02c",
-  "Telecommunications" = "#9467bd",
-  "Energy" = "#d62728"
+  "Semiconductors" = lws_colors[["blue"]],
+  "Materials" = lws_colors[["orange"]],
+  "Pharmaceuticals" = lws_colors[["green"]],
+  "Telecommunications" = lws_colors[["purple"]],
+  "Energy" = lws_colors[["red"]]
 )
 
-# Create risk matrix
+# Risk matrix: the critical-risk quadrant is the only shaded zone
 p <- ggplot(supply_risks, aes(x = concentration, y = criticality)) +
-  # Risk zone backgrounds
-  annotate("rect", xmin = 70, xmax = 105, ymin = 70, ymax = 105,
-           fill = "#d62728", alpha = 0.15) +
-  annotate("rect", xmin = 50, xmax = 70, ymin = 70, ymax = 105,
-           fill = "#ff7f0e", alpha = 0.15) +
-  annotate("rect", xmin = 70, xmax = 105, ymin = 50, ymax = 70,
-           fill = "#ff7f0e", alpha = 0.15) +
-  annotate("text", x = 87, y = 100, label = "CRITICAL RISK",
-           color = "#d62728", fontface = "bold", size = 4) +
-  # Points
-  geom_point(aes(color = category, size = risk_score), alpha = 0.8) +
-  geom_text_repel(
-    aes(label = input),
-    size = 3, max.overlaps = 15,
-    box.padding = 0.4, point.padding = 0.3
-  ) +
-  # Reference lines
-  geom_hline(yintercept = 70, linetype = "dashed", color = "gray50", alpha = 0.5) +
-  geom_vline(xintercept = 70, linetype = "dashed", color = "gray50", alpha = 0.5) +
-  # Annotations
-  annotate("text", x = 52, y = 50, label = "Lower Risk\nQuadrant",
-           color = "gray50", size = 3.5) +
-  # Styling
-  scale_color_manual(values = category_colors, name = "Category") +
-  scale_size_continuous(range = c(3, 12), name = "Risk Score", guide = "none") +
-  scale_x_continuous(labels = function(x) paste0(x, "%"), limits = c(15, 105)) +
-  scale_y_continuous(labels = function(x) paste0(x, "%"), limits = c(45, 105)) +
-  labs(
-    title = "Supply Chain Risk Matrix",
-    subtitle = "Critical inputs plotted by supply concentration and strategic importance",
-    x = "Supply Concentration (Top Producer Share %)",
-    y = "Strategic Criticality (%)",
-    caption = "Source: Author's assessment; concentration shares from USGS Mineral Commodity Summaries 2025, IEA, TrendForce, and FDA facility data\nNote: Bubble size reflects combined risk score (concentration x criticality). API concentration is stated on the FDA registered-facility basis (China ~20%),\nnot the widely repeated but unsourced \"80% from China\" figure."
-  ) +
+  annotate("rect", xmin = 70, xmax = 105, ymin = 70, ymax = 105, fill = lws_colors[["red"]], alpha = 0.08) +
+  annotate("text", x = 104, y = 104, label = "Critical-risk quadrant", hjust = 1, vjust = 1,
+           colour = lws_colors[["red"]]) +
+  geom_hline(yintercept = 70, colour = lws_colors[["ref"]], linewidth = 0.4, linetype = "22") +
+  geom_vline(xintercept = 70, colour = lws_colors[["ref"]], linewidth = 0.4, linetype = "22") +
+  geom_point(aes(colour = category), size = 2.2) +
+  geom_text_repel(aes(label = input), max.overlaps = 20, box.padding = 0.35, point.padding = 0.2,
+                  segment.colour = lws_colors[["fade"]], segment.size = 0.3, seed = 7) +
+  scale_colour_manual(values = category_colors, name = NULL) +
+  scale_x_continuous(labels = function(x) paste0(x, "%"), limits = c(15, 105), breaks = seq(20, 100, 20)) +
+  scale_y_continuous(limits = c(55, 105), breaks = seq(60, 100, 10)) +
+  labs(x = "Supply concentration (top producer's share)", y = "Strategic criticality (author's ordinal score, 0 to 100)") +
+  book_source("Sources: Author's assessment (criticality); concentration from USGS Mineral Commodity Summaries 2025, IEA, TrendForce and FDA facility data. API is on the FDA registered-facility basis (China about 20%).") +
   theme_econ_textbook() +
-  theme(legend.position = "right")
+  theme(panel.grid.major.x = element_line(colour = lws_colors[["grid"]], linewidth = 0.4))
 
-# Save the figure
-save_econ_figure(here::here("figures", "fig_02_04_supply_chain_risk.png"), plot = p, width = 12, height = 10)
+save_econ_figure(here::here("figures", "fig_02_04_supply_chain_risk.png"), plot = p, width = 6, height = 4.4)
 
 cat("Figure 2.4 created: Supply Chain Risk Matrix\n")

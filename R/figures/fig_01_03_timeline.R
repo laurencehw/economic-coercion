@@ -25,96 +25,40 @@ key_events <- tibble(
     "Russia SWIFT Cutoff",
     "Semiconductor Controls"
   ),
-  Era = c(
-    "Cold War", "Cold War", "Post-Cold War",
-    "War on Terror", "Great Power Competition",
-    "Great Power Competition", "Great Power Competition", "Great Power Competition"
-  ),
-  y_pos = c(1, -1, 1, -1, 1, -1, 1, -0.5)  # Alternating positions, offset last two
+  y_pos = c(1, -1, 1, -1.5, 1, -2.2, 2, -3),   # label level: staggered so labels do not collide
+  hj = c(0, 0, 1, 1, 1, 1, 1, 1)           # label extends right (0) or left (1) of its stem
 )
 
-# Define era boundaries
+# Era boundaries (alternating light grey bands)
 eras <- tibble(
   era = c("Cold War", "Post-Cold War", "War on Terror", "Great Power Competition"),
   start = c(1945, 1991, 2001, 2014),
-  end = c(1991, 2001, 2014, 2025),
-  fill = c("#cce5ff", "#d4edda", "#fff3cd", "#f8d7da")
-)
-
-# ============================================================================
-# 2. CREATE SIMPLIFIED VISUALIZATION
-# ============================================================================
+  end = c(1991, 2001, 2014, 2025)
+) %>% mutate(shade = c("a", "b", "a", "b"))
 
 p <- ggplot() +
-  # Era backgrounds
-  geom_rect(data = eras,
-            aes(xmin = start, xmax = end, ymin = -2, ymax = 2, fill = era),
-            alpha = 0.4, show.legend = FALSE) +
-  scale_fill_manual(values = setNames(eras$fill, eras$era)) +
+  geom_rect(data = eras, aes(xmin = start, xmax = end, ymin = -3.6, ymax = 3.0, fill = shade),
+            show.legend = FALSE) +
+  scale_fill_manual(values = c(a = "#F2F2F2", b = "#FFFFFF")) +
+  geom_text(data = eras %>% mutate(lx = c(start[1] + 0.8, start[2] + 0.8, start[3] + 0.8, end[4] - 0.8),
+                                    ly = c(2.85, 2.85, 2.35, 2.85), hj = c(0, 0, 0, 1)),
+            aes(x = lx, y = ly, label = era, hjust = hj),
+            vjust = 1, colour = lws_colors[["text"]], fontface = "italic") +
+  geom_hline(yintercept = 0, colour = lws_colors[["ink"]], linewidth = 0.6) +
+  geom_segment(data = key_events, aes(x = Year, xend = Year, y = 0, yend = y_pos),
+               colour = lws_colors[["fade"]], linewidth = 0.4) +
+  geom_point(data = key_events, aes(x = Year, y = 0), size = 2, colour = lws_colors[["red"]]) +
+  geom_text(data = key_events,
+            aes(x = Year + ifelse(hj == 0, 0.8, -0.8), y = y_pos, label = paste0(Year, "  ", Event), hjust = hj),
+            colour = lws_colors[["ink"]]) +
+  scale_x_continuous(limits = c(1945, 2025), breaks = seq(1950, 2020, 10), expand = c(0, 0)) +
+  scale_y_continuous(limits = c(-3.6, 3.0), expand = c(0, 0)) +
+  labs(x = NULL, y = NULL,
+       caption = "Source: Author's compilation. Events selected for historical significance and impact on economic statecraft.") +
+  theme_econ_textbook() +
+  theme(axis.text.y = element_blank(), panel.grid = element_blank(),
+        axis.ticks.x = element_line(colour = lws_colors[["ref"]], linewidth = 0.3))
 
-  # Main timeline axis
-  geom_hline(yintercept = 0, color = "black", linewidth = 1.5) +
+save_econ_figure(here("figures", "fig_01_03_timeline.png"), p, width = 6, height = 3.2)
 
-  # Decade markers
-
-  geom_segment(data = tibble(x = seq(1950, 2020, 10)),
-               aes(x = x, xend = x, y = -0.15, yend = 0.15),
-               color = "black", linewidth = 1) +
-  geom_text(data = tibble(x = seq(1950, 2020, 10)),
-            aes(x = x, y = -0.35, label = x),
-            size = 4, fontface = "bold") +
-
-  # Event markers on timeline
-  geom_point(data = key_events,
-             aes(x = Year, y = 0),
-             size = 5, color = "#d62728", shape = 16) +
-
-  # Connecting lines
-  geom_segment(data = key_events,
-               aes(x = Year, xend = Year, y = 0, yend = y_pos * 0.7),
-               color = "gray40", linewidth = 0.8, linetype = "solid") +
-
-  # Event labels - large, readable text
-  geom_label(data = key_events,
-             aes(x = Year, y = y_pos, label = paste0(Year, "\n", Event)),
-             size = 3.5, fontface = "bold", lineheight = 0.9,
-             fill = "white", label.size = 0.3,
-             label.padding = unit(0.3, "lines")) +
-
-  # Era labels at bottom
-  geom_text(data = eras,
-            aes(x = (start + end) / 2, y = -1.7, label = era),
-            size = 4, fontface = "bold", color = "gray30") +
-
-  # Scales and limits
-  scale_x_continuous(limits = c(1945, 2026), breaks = seq(1950, 2020, 10)) +
-  scale_y_continuous(limits = c(-2, 1.8)) +
-
-  # Labels
-  labs(
-    title = "Timeline of Major Economic Coercion Events",
-    subtitle = "Key milestones in the evolution of economic statecraft (1948-2024)",
-    caption = "Source: Author compilation. Events selected for historical significance and impact on economic statecraft.",
-    x = NULL, y = NULL
-  ) +
-
-  # Clean theme
-  theme_econ_textbook(base_size = 14) +
-  theme(
-    axis.text = element_blank(),
-    axis.ticks = element_blank(),
-    panel.grid = element_blank(),
-    plot.title = element_text(size = 18, face = "bold", hjust = 0.5),
-    plot.subtitle = element_text(size = 14, hjust = 0.5, color = "gray40"),
-    plot.caption = element_text(size = 10, hjust = 0),
-    plot.background = element_rect(fill = "white", color = NA),
-    panel.background = element_rect(fill = "white", color = NA)
-  )
-
-# ============================================================================
-# 3. SAVE OUTPUT
-# ============================================================================
-
-save_econ_figure(here("figures", "fig_01_03_timeline.png"), p, width = 14, height = 6)
-
-cat("\nFigure 1.3 Timeline (simplified) created successfully!\n")
+cat("\nFigure 1.3 Timeline created\n")

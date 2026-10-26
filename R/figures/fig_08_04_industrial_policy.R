@@ -58,118 +58,50 @@ label_data <- all_programs %>%
   ) %>%
   ungroup()
 
-p1 <- ggplot(label_data, aes(x = Country, y = Amount, fill = Program)) +
-  geom_col(color = "white", linewidth = 0.5, width = 0.7) +
-  geom_text(aes(y = midpoint, label = ifelse(Amount > 40,
-                                              paste0("$", round(Amount), "B\n", Program),
-                                              "")),
-            color = "white", fontface = "bold", size = 3.5, lineheight = 0.9) +
-  geom_text(data = totals, aes(x = Country, y = Total, label = paste0("Total: $", round(Total), "B")),
-            inherit.aes = FALSE, vjust = -0.5, fontface = "bold", size = 4) +
-  scale_fill_manual(values = c(
-    "CHIPS Act" = "#1f77b4",
-    "IRA (Clean Energy)" = "#2ca02c",
-    "Infrastructure" = "#ff7f0e",
-    "Big Fund I+II+III" = "#1f77b4",
-    "Made in China 2025" = "#9467bd",
-    "New Infrastructure" = "#ff7f0e",
-    "EV Subsidies" = "#d62728",
-    "Solar Subsidies" = "#2ca02c"
-  )) +
-  scale_y_continuous(labels = scales::dollar_format(suffix = "B"), expand = expansion(mult = c(0, 0.15))) +
-  labs(
-    title = "Major Industrial Policy Programs",
-    subtitle = "Total Committed Spending by Country",
-    x = NULL,
-    y = "Total Spending (Billions USD)"
-  ) +
-  theme_econ_textbook() +
-  theme(legend.position = "none")
+# Panel A: commitments by programme, sorted bars within country (replaces stacked bars)
+prog <- all_programs %>% mutate(key = paste(Country, Program, sep = "___"),
+                                key = fct_reorder(key, Amount))
+strip_lab <- setNames(paste0(totals$Country, " (total $", round(totals$Total), "B)"), totals$Country)
 
-# ============================================================================
-# 3. PANEL B: ANNUAL SPENDING OVER TIME
-# ============================================================================
+p1 <- ggplot(prog, aes(x = key, y = Amount, fill = Country)) +
+  geom_col(width = 0.7) +
+  geom_text(aes(label = paste0("$", round(Amount, 1), "B")), hjust = -0.1, colour = lws_colors[["ink"]], size = book_text_size) +
+  scale_x_discrete(labels = function(x) sub("^.*___", "", x)) +
+  scale_fill_manual(values = c("USA" = lws_colors[["fade"]], "China" = lws_colors[["red"]]), guide = "none") +
+  scale_y_continuous(labels = scales::dollar_format(suffix = "B"), expand = expansion(mult = c(0, 0.2))) +
+  facet_grid(Country ~ ., scales = "free_y", space = "free_y", labeller = labeller(Country = strip_lab)) +
+  coord_flip() +
+  labs(title = "A. Committed spending by programme", x = NULL, y = "Committed spending (billions of US dollars)") +
+  theme_book_h() +
+  theme(strip.text.y = element_text(angle = 0, hjust = 0, face = "bold", colour = lws_colors[["ink"]]))
 
-# Create annual spending data
+# Panel B: STYLIZED. Each programme's committed total is spread evenly over its stated years;
+# these are not reported annual disbursements.
 years <- 2014:2032
+spread <- function(total, from, to) ifelse(years >= from & years <= to, total / (to - from + 1), 0)
+annual_data <- tibble(
+  Year = years,
+  USA = spread(52.7, 2022, 2027) + spread(369, 2022, 2032) + spread(550, 2021, 2026),
+  China = spread(98.2, 2014, 2029) + spread(300, 2015, 2025) + spread(411, 2020, 2025) + spread(58.5, 2015, 2028) + spread(42.3, 2011, 2024)
+) %>% pivot_longer(c(USA, China), names_to = "Country", values_to = "Spending")
+ann_last <- annual_data %>% filter(Year == max(Year))
 
-# Calculate annual spending based on program timelines
-annual_data <- tibble(Year = years) %>%
-  mutate(
-    # USA programs (CHIPS 2022-2027, IRA 2022-2032, Infrastructure 2021-2026)
-    USA = case_when(
-      Year >= 2022 & Year <= 2027 ~ 52.7/6,  # CHIPS
-      TRUE ~ 0
-    ) + case_when(
-      Year >= 2022 & Year <= 2032 ~ 369/11,  # IRA
-      TRUE ~ 0
-    ) + case_when(
-      Year >= 2021 & Year <= 2026 ~ 550/6,   # Infrastructure
-      TRUE ~ 0
-    ),
-    # China programs (Big Fund 2014-2029, MIC2025 2015-2025, New Infra 2020-2025, etc.)
-    China = case_when(
-      Year >= 2014 & Year <= 2029 ~ 98.2/16,  # Big Fund
-      TRUE ~ 0
-    ) + case_when(
-      Year >= 2015 & Year <= 2025 ~ 300/11,   # MIC2025
-      TRUE ~ 0
-    ) + case_when(
-      Year >= 2020 & Year <= 2025 ~ 411/6,    # New Infrastructure
-      TRUE ~ 0
-    ) + case_when(
-      Year >= 2015 & Year <= 2028 ~ 58.5/14,  # EV Subsidies
-      TRUE ~ 0
-    ) + case_when(
-      Year >= 2011 & Year <= 2024 ~ 42.3/14,  # Solar
-      TRUE ~ 0
-    )
-  ) %>%
-  pivot_longer(cols = c(USA, China), names_to = "Country", values_to = "Spending")
+p2 <- ggplot(annual_data, aes(x = Year, y = Spending, colour = Country)) +
+  geom_line(linewidth = 0.9) +
+  geom_vline(xintercept = 2022, linetype = "dashed", colour = lws_colors[["ref"]]) +
+  annotate("text", x = 2021.8, y = max(annual_data$Spending) * 1.04, label = "CHIPS and IRA passed, 2022", hjust = 1, colour = lws_colors[["text"]]) +
+  annotate("text", x = 2031.5, y = 40, label = "USA", hjust = 1, colour = lws_colors[["text"]], size = book_text_size) +
+  annotate("text", x = 2031.5, y = 9, label = "China", hjust = 1, colour = lws_colors[["red"]], size = book_text_size) +
+  scale_colour_manual(values = c("USA" = lws_colors[["text"]], "China" = lws_colors[["red"]]), guide = "none") +
+  scale_y_continuous(labels = scales::dollar_format(suffix = "B"), limits = c(0, 150)) +
+  labs(title = "B. Committed totals spread evenly over programme years", x = NULL, y = "Implied per year (billions of US dollars)") +
+  theme_econ_textbook()
 
-p2 <- ggplot(annual_data, aes(x = Year, y = Spending, color = Country, fill = Country)) +
-  geom_area(alpha = 0.2, position = "identity") +
-  geom_line(linewidth = 1.5) +
-  geom_point(size = 2) +
-  geom_vline(xintercept = 2022, linetype = "dashed", color = "gray40", linewidth = 1) +
-  annotate("label", x = 2022, y = max(annual_data$Spending) * 0.95,
-           label = "CHIPS & IRA\nPassed", size = 3, fill = "lightyellow",
-           label.size = 0.5) +
-  scale_color_manual(values = c("USA" = "#1f77b4", "China" = "#d62728")) +
-  scale_fill_manual(values = c("USA" = "#1f77b4", "China" = "#d62728")) +
-  scale_y_continuous(labels = scales::dollar_format(suffix = "B")) +
-  labs(
-    title = "Annual Industrial Policy Spending",
-    subtitle = "Estimated annual disbursements over time",
-    x = "Year",
-    y = "Annual Spending (Billions USD)",
-    color = "Country",
-    fill = "Country"
-  ) +
-  theme_econ_textbook() +
-  theme(legend.position = "bottom")
-
-# ============================================================================
-# 4. COMBINE PANELS
-# ============================================================================
-
-combined <- p1 + p2 +
-  plot_layout(widths = c(1, 1.5)) +
+combined <- p1 / p2 + plot_layout(heights = c(1.2, 1)) +
   plot_annotation(
-    title = "Industrial Policy Spending Comparison",
-    subtitle = "U.S. vs. China major government programs in strategic sectors",
-    caption = "Sources: CHIPS and Science Act (2022), Inflation Reduction Act (2022), Infrastructure Investment and Jobs Act (2021),\nChina National IC Industry Investment Fund, Made in China 2025, Chinese government announcements.",
-    theme = theme(
-      plot.title = element_text(size = 16, face = "bold"),
-      plot.subtitle = element_text(size = 12, color = "gray30"),
-      plot.caption = element_text(size = 9, color = "gray50", hjust = 0)
-    )
-  )
+    caption = paste(strwrap("Sources: CHIPS and Science Act (2022), Inflation Reduction Act (2022), Infrastructure Investment and Jobs Act (2021), China National IC Industry Investment Fund and government announcements. Panel B is the author's illustration (stylized, not data): each programme's announced total divided evenly across its stated years, not reported disbursements.", 105), collapse = "\n"),
+    theme = theme_econ_textbook())
 
-# ============================================================================
-# 5. SAVE OUTPUT
-# ============================================================================
-
-save_econ_figure(here("figures", "fig_08_04_industrial_policy.png"), combined, width = 14, height = 7)
+save_econ_figure(here("figures", "fig_08_04_industrial_policy.png"), combined, width = 6, height = 6.4)
 
 cat("\nFigure 8.4 created successfully!\n")

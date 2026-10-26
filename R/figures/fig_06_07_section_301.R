@@ -7,7 +7,7 @@ library(here)
 source(here::here("R", "setup_theme.R"))
 library(dplyr)
 library(tidyr)
-library(treemapify)
+library(forcats)
 
 # Section 301 tariff data by sector
 section_301 <- data.frame(
@@ -45,61 +45,33 @@ section_301 <- data.frame(
   )
 )
 
-# Calculate totals by list
+# Totals by list (these match the published list values: $34B, $16B, $200B, $112B)
 list_totals <- section_301 %>%
   group_by(list) %>%
   summarise(total = sum(value_billions), rate = first(tariff_rate), .groups = "drop")
 
-# Create treemap
-p1 <- ggplot(section_301, aes(area = value_billions, fill = list, subgroup = list, label = sector)) +
-  geom_treemap(color = "white", linewidth = 2) +
-  geom_treemap_subgroup_border(color = "gray30", linewidth = 3) +
-  geom_treemap_text(
-    aes(label = paste0(sector, "\n$", value_billions, "B")),
-    color = "white", place = "centre", grow = FALSE, reflow = TRUE,
-    size = 10
-  ) +
-  geom_treemap_subgroup_text(
-    place = "bottomleft", color = "white", alpha = 0.7,
-    fontface = "bold", size = 14
-  ) +
-  scale_fill_manual(
-    values = c("List 1" = "#1f77b4", "List 2" = "#ff7f0e",
-               "List 3" = "#d62728", "List 4A" = "#2ca02c"),
-    name = "Tariff List"
-  ) +
-  labs(
-    title = "Section 301 Tariffs: Affected Imports by Sector",
-    subtitle = "US tariffs on Chinese goods by list and product category (as of 2024)"
-  ) +
-  theme_econ_textbook() +
-  theme(legend.position = "right")
+# Treemap replaced by sorted horizontal bars, one block per list; list totals sit in the strip labels.
+strip_lab <- setNames(paste0(list_totals$list, ": $", list_totals$total, "B at ", list_totals$rate, "%"), list_totals$list)
 
-# Summary bar chart
-p2 <- ggplot(list_totals, aes(x = list, y = total, fill = list)) +
-  geom_col(width = 0.6) +
-  geom_text(aes(label = paste0("$", total, "B\n(", rate, "% tariff)")),
-            vjust = -0.2, size = 4, fontface = "bold") +
-  scale_fill_manual(
-    values = c("List 1" = "#1f77b4", "List 2" = "#ff7f0e",
-               "List 3" = "#d62728", "List 4A" = "#2ca02c"),
-    guide = "none"
-  ) +
-  scale_y_continuous(expand = expansion(mult = c(0, 0.2))) +
-  labs(
-    title = "Total Value by Tariff List",
-    x = NULL,
-    y = "Value of Affected Imports ($ Billions)",
-    caption = "Source: USTR, Peterson Institute for International Economics\nNote: List 4B ($160B) was announced but suspended during Phase One negotiations"
-  ) +
-  theme_econ_textbook() +
-  theme(panel.grid.major.x = element_blank())
+bars <- section_301 %>%
+  mutate(is_other = sector == "Other",
+         key = paste(list, sector, sep = "___"),
+         key = fct_reorder(key, ifelse(is_other, -1, value_billions)))
 
-# Combine
-library(patchwork)
-combined <- p1 / p2 + plot_layout(heights = c(2, 1))
+combined <- ggplot(bars, aes(x = key, y = value_billions, fill = list)) +
+  geom_col(width = 0.7) +
+  geom_text(aes(label = paste0("$", value_billions, "B")), hjust = -0.15, colour = lws_colors[["ink"]], size = book_text_size) +
+  scale_x_discrete(labels = function(x) sub("^.*___", "", x)) +
+  scale_fill_manual(values = c("List 1" = lws_colors[["fade"]], "List 2" = lws_colors[["fade"]],
+                               "List 3" = lws_colors[["red"]], "List 4A" = lws_colors[["fade"]]), guide = "none") +
+  scale_y_continuous(expand = expansion(mult = c(0, 0.15))) +
+  facet_grid(list ~ ., scales = "free_y", space = "free_y", labeller = labeller(list = strip_lab)) +
+  coord_flip() +
+  labs(x = NULL, y = "Value of affected imports (billions of US dollars)") +
+  book_source("Source: USTR and Peterson Institute for International Economics for list totals and tariff rates. Author's illustration (stylized, not data): the split of each list into sectors is approximate and could not be traced to a source table. List 4B ($160B) was announced but suspended.") +
+  theme_book_h() +
+  theme(strip.text.y = element_text(angle = 0, hjust = 0, face = "bold", colour = lws_colors[["ink"]]))
 
-# Save the figure
-save_econ_figure(here::here("figures", "fig_06_07_section_301.png"), plot = combined, width = 12, height = 12)
+save_econ_figure(here::here("figures", "fig_06_07_section_301.png"), plot = combined, width = 6, height = 6.4)
 
-cat("Figure 6.7 created: Section 301 Tariffs Treemap\n")
+cat("Figure 6.7 created: Section 301 Tariffs by sector (bars)\n")

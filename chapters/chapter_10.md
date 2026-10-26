@@ -38,7 +38,7 @@ The U.S. dollar's role as global reserve currency and dominant medium of exchang
 Figure 10.1 separates an observed reserve share from three illustrative paths. All paths begin at the same 2025Q3 dollar share, 56.92%, and differ only in assumed future diversification. They are sensitivity cases, not fitted forecasts or estimates of the effect of sanctions. The chart does not project euro or renminbi shares; a falling dollar share does not tell us which currencies gain.
 
 <figure class="book-figure">
-  <img src="../figures/fig_10_01_dollar_reserves.png" alt="Dollar reserve-share paths all beginning at the observed 2025Q3 share of 56.92%, then diverging to illustrative 2050 endpoints of 50.5%, 38%, and 30%.">
+  <img src="../figures/fig_10_01_dollar_reserves.png" alt="Lines of dollar reserve-share paths from the observed 2025Q3 share of 56.92%, diverging to illustrative 2050 endpoints of 50.5% (baseline), 38% (greater diversification) and 30% (disruption).">
   <figcaption>Figure 10.1: Dollar reserve-share sensitivity paths from a common 2025Q3 anchor through 2050. Source for the observed anchor: IMF COFER, December 19, 2025, as recorded in Chapter 7. Future values are illustrative assumptions, with no assigned probabilities or confidence interval; the shaded span is the range of those assumptions.</figcaption>
 </figure>
 
@@ -114,8 +114,8 @@ Decarbonization demands massive increases in the production of a handful of spec
 Figure 10.2 visualizes the relocation of strategic dependencies: legacy hydrocarbon exposure concentrated in OPEC and Russia shifts toward critical-mineral processing concentrated overwhelmingly in the People's Republic of China.
 
 <figure class="book-figure">
-  <img src="../figures/fig_10_02_new_dependencies.png" alt="Shift in strategic dependencies from hydrocarbons to critical minerals, comparing OPEC's historical oil share with China's current processing share of lithium, cobalt, and rare earths.">
-  <figcaption>Figure 10.2: From oil to minerals — the relocation of strategic dependencies in the energy transition.</figcaption>
+  <img src="../figures/fig_10_02_new_dependencies.png" alt="Panel A: bars of projected demand growth by material. Panel B: bars of China's processing share by material. Panel C: bars of supply concentration for fossil-fuel and clean-energy dependencies, with China's exposure marked.">
+  <figcaption>Figure 10.2: Projected demand growth for critical materials, 2024-2040 (panel A), China's share of global processing of each (panel B), and the supply concentration of fossil-fuel-era and clean-energy-era dependencies, with China's exposure marked by diamonds (panel C). Panels A and B are as compiled for the book; the concentration and China-exposure figures in panel C are the author's rough estimates, not a published series. Sources: IEA Critical Minerals Report, BloombergNEF and author calculations.</figcaption>
 </figure>
 
 Transitioning from fossil fuels to renewables does not eliminate strategic dependencies so much as relocate them, from oil producers to mineral processors, and the concentration is if anything more acute. Where OPEC produced roughly 40% of the world's oil, China processes 60 to 90% of the key minerals—a tighter chokepoint than the one that defined the twentieth century. Mining itself remains dispersed across the globe, but refining has pooled in China, drawn there by economies of scale, a willingness to externalize environmental costs, and tightly integrated supply chains. The same concentration extends downstream into manufacturing, with battery production, solar panels, and wind-turbine assembly all commanding a 60 to 80% Chinese share of the global market.
@@ -136,8 +136,8 @@ Western nations are pursuing diversification through investments in alternative 
 Figure 10.3 separates mining from processing for the minerals the energy transition depends on, and the gap between the two is the whole argument of this section. Mining is spread across Australia, Chile, Indonesia, and the Democratic Republic of the Congo; refining is not. The chokepoint the transition creates sits downstream, where capital is patient, permitting is hardest, and China has spent two decades building.
 
 <figure class="book-figure">
-  <img src="../figures/fig_10_03_critical_minerals.png" alt="Processing and mining shares for critical minerals by country.">
-  <figcaption>Figure 10.3: Critical mineral processing and mining shares by country, showing the concentration of refining capacity.</figcaption>
+  <img src="../figures/fig_10_03_critical_minerals.png" alt="Two panels of stacked bars showing each country's share of global processing and mining for five critical minerals, with China highlighted.">
+  <figcaption>Figure 10.3: Critical-mineral processing (panel A) and mining (panel B) shares by country for rare earths, graphite, cobalt, lithium and nickel, with China highlighted. Processing is refining and chemical processing of mined ores; 'Others' includes Indonesia, the dominant nickel miner. Shares are as compiled for the book. Sources: IEA Critical Minerals Report 2023, USGS and Benchmark Mineral Intelligence.</figcaption>
 </figure>
 
 ### Water Scarcity and Agricultural Leverage
@@ -180,8 +180,8 @@ Artificial intelligence, quantum computing, biotechnology, and space systems mar
 Figure 10.4 revisits the AI indicators introduced in Chapter 4, now as inputs to the scenarios below. Their divergence is what makes the technology competition hard to score in advance, and it is a reason to test policies across scenarios rather than rely on a single forecast.
 
 <figure class="book-figure">
-  <img src="../figures/fig_10_04_ai_indicators.png" alt="AI development indicators comparing U.S. and China across research, talent, compute, and applications.">
-  <figcaption>Figure 10.4: AI development indicators comparing U.S. and China across research, talent, compute, and applications.</figcaption>
+  <img src="../figures/fig_10_04_ai_indicators.png" alt="Eight small bar panels comparing China, the United States and the EU on AI publications, patents, researchers, startups, venture capital, government spending, supercomputer performance and conference share.">
+  <figcaption>Figure 10.4: AI development indicators for the United States, China and the European Union, 2024: publications, patents, researchers, startups, venture capital, government spending, supercomputer performance and share of top AI conferences. Each panel has its own scale. Sources: Stanford AI Index 2024, OECD AI Policy Observatory, Top500 list and CB Insights.</figcaption>
 </figure>
 
 **AI Strategic Significance**
