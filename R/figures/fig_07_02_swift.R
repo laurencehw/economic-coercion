@@ -26,278 +26,47 @@ swift_long <- swift_data %>%
   )
 
 # ============================================================================
-# PANEL A: TIME SERIES OF MAJOR CURRENCIES
+# PANELS: A. five currencies over time (USD ink, CNY highlight); B. the yuan alone.
+# The stacked area (incl. 'Others'), the repeated yuan area and the 2025 donut are dropped.
 # ============================================================================
 
-# Define currency colors
-currency_colors <- c(
-  "USD" = econ_colors[["USA"]],
-  "EUR" = econ_colors[["EU"]],
-  "GBP" = econ_colors[["UK"]],
-  "JPY" = econ_colors[["Japan"]],
-  "CNY" = econ_colors[["China"]],
-  "Others" = "#8c564b"
-)
+cur_cols <- c("USD" = lws_colors[["ink"]], "EUR" = "#6E6E6E", "GBP" = "#9A9A9A", "JPY" = "#BDBDBD", "CNY" = lws_colors[["red"]])
+cur_lt <- c("USD" = "solid", "EUR" = "solid", "GBP" = "dashed", "JPY" = "dotted", "CNY" = "solid")
+sw5 <- swift_long %>% filter(Currency != "Others") %>% mutate(Currency = droplevels(Currency))
 
-panel_a <- ggplot(swift_long %>% filter(Currency != "Others"),
-                  aes(x = Year, y = Share, color = Currency, linetype = Currency)) +
-  geom_line(linewidth = 1.5) +
-  geom_point(size = 2.5, alpha = 0.7) +
-  scale_color_manual(values = currency_colors) +
-  scale_linetype_manual(
-    values = c("USD" = "solid", "EUR" = "solid", "GBP" = "dashed",
-               "JPY" = "dotted", "CNY" = "solid")
-  ) +
-  scale_y_continuous(
-    labels = label_percent(scale = 1),
-    breaks = seq(0, 60, 10),
-    limits = c(0, 60)
-  ) +
-  scale_x_continuous(
-    breaks = seq(2010, 2024, 2),
-    limits = c(2010, 2027)
-  ) +
-  labs(
-    title = "Currency Share of SWIFT Payments Over Time",
-    subtitle = "The dollar's share has risen since 2022, not fallen",
-    x = "Year",
-    y = "Share of Global Payments by Value (%)",
-    color = "Currency",
-    linetype = "Currency"
-  ) +
+panel_a <- ggplot(sw5, aes(x = Year, y = Share, colour = Currency, linetype = Currency)) +
+  geom_line(linewidth = 0.9) +
+  scale_colour_manual(values = cur_cols, name = NULL) +
+  scale_linetype_manual(values = cur_lt, name = NULL) +
+  scale_y_continuous(labels = label_percent(scale = 1), breaks = seq(0, 60, 20), limits = c(0, 60), expand = c(0, 0)) +
+  scale_x_continuous(breaks = seq(2010, 2025, 5)) +
+  labs(title = "A. Currency shares of SWIFT payments by value", x = NULL, y = "Share of payments (%)") +
   theme_econ_textbook() +
-  theme(
-    legend.position = "right",
-    panel.grid.minor = element_blank()
-  ) +
-  # Annotate latest-year values
-  annotate(
-    "text",
-    x = 2025,
-    y = swift_data$USD[swift_data$Year == 2025],
-    label = "50.5%",
-    size = 3,
-    color = currency_colors["USD"],
-    fontface = "bold",
-    hjust = 0
-  ) +
-  annotate(
-    "text",
-    x = 2025,
-    y = swift_data$EUR[swift_data$Year == 2025],
-    label = "21.9%",
-    size = 3,
-    color = currency_colors["EUR"],
-    fontface = "bold",
-    hjust = 0
-  ) +
-  # Highlight CNY growth
-  annotate(
-    "segment",
-    x = 2010,
-    xend = 2025,
-    y = swift_data$CNY[swift_data$Year == 2010],
-    yend = swift_data$CNY[swift_data$Year == 2025],
-    color = currency_colors["CNY"],
-    linewidth = 0.8,
-    arrow = arrow(length = unit(0.2, "cm"), type = "closed"),
-    alpha = 0.3
-  ) +
-  annotate(
-    "text",
-    x = 2014.5,
-    y = 7.5,
-    label = "CNY: 2023 peak,
-then retreat",
-    size = 3,
-    color = currency_colors["CNY"],
-    fontface = "italic"
-  )
+  theme(legend.position = "top", legend.justification = "left")
 
-# ============================================================================
-# PANEL B: STACKED AREA CHART
-# ============================================================================
+cny <- swift_data %>% select(Year, CNY)
+panel_c <- ggplot(cny, aes(x = Year, y = CNY)) +
+  geom_line(colour = lws_colors[["red"]], linewidth = 0.9) +
+  geom_point(colour = lws_colors[["red"]], size = 1.6) +
+  geom_text(data = cny %>% filter(Year %in% c(2010, 2014, 2023, 2025)), aes(label = paste0(CNY, "%")),
+            vjust = -1, hjust = c(0.5, 0.5, 0.5, 1), colour = lws_colors[["red"]], size = book_text_size) +
+  scale_y_continuous(labels = label_percent(scale = 1), breaks = 0:5, limits = c(0, 5), expand = c(0, 0)) +
+  scale_x_continuous(breaks = seq(2010, 2025, 5)) +
+  labs(title = "B. The yuan: a 2023 peak, then retreat", x = NULL, y = "Yuan share (%)") +
+  theme_econ_textbook()
 
-panel_b <- ggplot(swift_long, aes(x = Year, y = Share, fill = Currency)) +
-  geom_area(alpha = 0.8, position = "stack") +
-  scale_fill_manual(values = currency_colors) +
-  scale_y_continuous(
-    labels = label_percent(scale = 1),
-    breaks = seq(0, 100, 20),
-    limits = c(0, 100),
-    expand = c(0, 0)
-  ) +
-  scale_x_continuous(
-    breaks = seq(2010, 2024, 2)
-  ) +
-  labs(
-    title = "Composition of Global Payment System",
-    subtitle = "Relative shares of major currencies in SWIFT transactions",
-    x = "Year",
-    y = "Share of Global Payments by Value (%)",
-    fill = "Currency"
-  ) +
-  theme_econ_textbook() +
-  theme(
-    legend.position = "right",
-    panel.grid.minor = element_blank()
-  )
-
-# ============================================================================
-# PANEL C: CNY GROWTH TRAJECTORY
-# ============================================================================
-
-cny_data <- swift_data %>%
-  select(Year, CNY) %>%
-  mutate(
-    CNY_Index = (CNY / CNY[Year == 2010]) * 100,
-    Milestone = case_when(
-      Year == 2015 ~ "CIPS Launch",
-      Year == 2016 ~ "SDR Inclusion",
-      Year == 2021 ~ "Digital Yuan",
-      TRUE ~ NA_character_
-    )
-  )
-
-panel_c <- ggplot(cny_data, aes(x = Year, y = CNY)) +
-  geom_area(fill = currency_colors["CNY"], alpha = 0.3) +
-  geom_line(color = currency_colors["CNY"], linewidth = 1.5) +
-  geom_point(size = 3, color = currency_colors["CNY"]) +
-  geom_text(
-    aes(label = paste0(CNY, "%")),
-    vjust = -1,
-    size = 3,
-    color = currency_colors["CNY"],
-    fontface = "bold"
-  ) +
-  scale_y_continuous(
-    labels = label_percent(scale = 1),
-    breaks = seq(0, 6, 1),
-    limits = c(0, 7),
-    expand = c(0, 0)
-  ) +
-  scale_x_continuous(
-    breaks = seq(2010, 2024, 2)
-  ) +
-  labs(
-    title = "Chinese Yuan (CNY/RMB) Growth Trajectory",
-    subtitle = "A 2023 peak of 4.1%, then retreat to 2.7% by 2025",
-    x = "Year",
-    y = "CNY Share of Global Payments by Value (%)"
-  ) +
-  theme_econ_textbook() +
-  theme(
-    panel.grid.minor = element_blank()
-  ) +
-  # Add milestone annotations
-  annotate(
-    "segment",
-    x = 2015,
-    xend = 2015,
-    y = 0,
-    yend = cny_data$CNY[cny_data$Year == 2015] - 0.3,
-    linetype = "dotted",
-    color = "gray30"
-  ) +
-  annotate(
-    "text",
-    x = 2015,
-    y = 6.5,
-    label = "CIPS\nLaunch",
-    size = 2.5,
-    color = "gray30",
-    fontface = "italic"
-  ) +
-  annotate(
-    "segment",
-    x = 2016,
-    xend = 2016,
-    y = 0,
-    yend = cny_data$CNY[cny_data$Year == 2016] - 0.3,
-    linetype = "dotted",
-    color = "gray30"
-  ) +
-  annotate(
-    "text",
-    x = 2016,
-    y = 5.8,
-    label = "SDR\nInclusion",
-    size = 2.5,
-    color = "gray30",
-    fontface = "italic"
-  )
-
-# ============================================================================
-# PANEL D: 2024 CURRENCY BREAKDOWN
-# ============================================================================
-
-latest_data <- swift_data %>%
-  filter(Year == 2025) %>%
-  select(-Year) %>%
-  pivot_longer(
-    cols = everything(),
-    names_to = "Currency",
-    values_to = "Share"
-  ) %>%
-  mutate(
-    Currency = factor(Currency, levels = c("USD", "EUR", "GBP", "JPY", "CNY", "Others")),
-    Label = paste0(Currency, "\n", Share, "%")
-  )
-
-panel_d <- ggplot(latest_data, aes(x = "", y = Share, fill = Currency)) +
-  geom_col(width = 1, color = "white", linewidth = 1.5) +
-  coord_polar(theta = "y") +
-  scale_fill_manual(values = currency_colors) +
-  geom_text(
-    aes(label = paste0(Share, "%")),
-    position = position_stack(vjust = 0.5),
-    color = "white",
-    fontface = "bold",
-    size = 4
-  ) +
-  labs(
-    title = "2025 Currency Breakdown",
-    subtitle = "Share of global payments by value",
-    fill = "Currency"
-  ) +
-  theme_econ_textbook() +
-  theme(
-    axis.text = element_blank(),
-    axis.ticks = element_blank(),
-    axis.title = element_blank(),
-    panel.grid = element_blank(),
-    legend.position = "right"
-  )
-
-# ============================================================================
-# COMBINE PANELS
-# ============================================================================
-
-combined_plot <- ((panel_a / panel_b) | (panel_c / panel_d)) +
+combined_plot <- (panel_a / panel_c) + plot_layout(heights = c(1.2, 1)) +
   plot_annotation(
-    title = "SWIFT Payment Shares by Currency (2010-2025)",
-    subtitle = "Dollar dominance has deepened since 2022; the yuan peaked in 2023 and has since receded",
-    caption = paste0(
-      "Source: SWIFT RMB Tracker, Bank for International Settlements (BIS)\n",
-      "Note: Share of global customer and institutional payment value carried over SWIFT, December print of each year. SWIFT = Society for Worldwide Interbank Financial Telecommunication.\n",
-      "CNY (Chinese yuan/renminbi) rose from 0.3% (2010) to a 4.1% peak (2023) before easing to 2.7% (2025). CIPS = Cross-Border Interbank Payment System; SDR = Special Drawing Rights."
-    ),
-    theme = theme_econ_textbook()
-  ) +
-  plot_layout(widths = c(1.2, 1))
+    caption = paste(strwrap("Source: SWIFT RMB Tracker and BIS. Share of global payment value carried over SWIFT, December print of each year.", 105), collapse = "\n"),
+    theme = theme_econ_textbook())
 
-# ============================================================================
-# DISPLAY AND SAVE
-# ============================================================================
-
-print(combined_plot)
 
 # Save figure
 save_econ_figure(
   filename = here::here("figures", "fig_07_02_swift_currencies.png"),
   plot = combined_plot,
-  width = 16,
-  height = 12,
+  width = 6,
+  height = 5.6,
   dpi = 300
 )
 

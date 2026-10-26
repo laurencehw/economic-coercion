@@ -37,8 +37,8 @@ Financial sanctions' effectiveness derives from the U.S. dollar's dominant posit
 Figure 7.1 shows the holdings that give this section its subject. The detail worth noting is China's trajectory: down by nearly half from its 2014 peak and, since the March 2025 TIC release, behind both Japan and the United Kingdom. Whatever leverage a large Treasury position was once thought to confer, Beijing has spent a decade reducing its exposure to it.
 
 <figure class="book-figure">
-  <img src="../figures/fig_07_01_treasury_holdings.png" alt="Foreign holdings of U.S. Treasury securities by country, showing the scale of dollar-denominated asset accumulation.">
-  <figcaption>Figure 7.1: Foreign holdings of U.S. Treasury securities by country, showing the scale of dollar-denominated asset accumulation.</figcaption>
+  <img src="../figures/fig_07_01_treasury_holdings.png" alt="Panel A: lines of Treasury holdings by China, Japan and the United Kingdom. Panel B: bars of the ten largest foreign holders.">
+  <figcaption>Figure 7.1: Foreign holdings of U.S. Treasury securities. Panel A shows holdings of China, Japan and the United Kingdom over time; panel B ranks the ten largest holders. Years are biennial before 2024. Source: U.S. Treasury International Capital (TIC) data and Federal Reserve.</figcaption>
 </figure>
 
 **Reserve Currency Status**
@@ -95,8 +95,8 @@ Dollar-denominated debt owed by borrowers outside the United States totaled roug
 Figure 7.2 records what has actually happened to currency shares over the period in which de-dollarization has been most discussed. The dollar's share of payment value rose after 2022 rather than falling, and the renminbi peaked in 2023 before receding — a pattern worth holding in mind through the sections that follow, which take the alternatives seriously without assuming they are winning.
 
 <figure class="book-figure">
-  <img src="../figures/fig_07_02_swift_currencies.png" alt="Currency share of global payments via SWIFT, demonstrating dollar and euro dominance in international transactions.">
-  <figcaption>Figure 7.2: Currency share of global payments via SWIFT, demonstrating dollar and euro dominance in international transactions.</figcaption>
+  <img src="../figures/fig_07_02_swift_currencies.png" alt="Panel A: lines of currency shares of SWIFT payments, with the dollar and euro leading. Panel B: line of the Chinese yuan's share.">
+  <figcaption>Figure 7.2: Share of global payment value carried over SWIFT by currency (panel A) and the Chinese yuan's share alone (panel B), December print of each year. Source: SWIFT RMB Tracker and BIS.</figcaption>
 </figure>
 
 SWIFT is not a payment system but a secure messaging network transmitting payment instructions between 11,000+ financial institutions in 200+ countries. Key characteristics:
@@ -252,7 +252,7 @@ Figure 7.3 illustrates the scale of selected bank enforcement settlements involv
 
 <figure class="book-figure">
   <img src="../figures/fig_07_03_sanctions_programs.png" alt="Selected bank enforcement settlements involving sanctions, shown by institution, year, and estimated sanctioned-country allocation.">
-  <figcaption>Figure 7.3: Selected bank enforcement settlements involving sanctions, shown by institution, year, and estimated sanctioned-country allocation. These totals include other violations: HSBC's 2012 settlement combined sanctions and anti-money-laundering enforcement, rather than $1.9 billion of OFAC sanctions penalties alone. Country allocations remain unreconciled. The script labels are corrected pending image regeneration.</figcaption>
+  <figcaption>Figure 7.3: Selected bank enforcement settlements involving sanctions, shown by institution, year, and estimated sanctioned-country allocation. These totals include other violations: HSBC's 2012 settlement combined sanctions and anti-money-laundering enforcement, rather than $1.9 billion of OFAC sanctions penalties alone. Panel A shows settlements by institution and panel B the estimated allocation by sanctioned country, which is not reconciled to panel A. Sources: U.S. Treasury Office of Foreign Assets Control and Department of Justice.</figcaption>
 </figure>
 
 OFAC administers multiple sanctions program types:
@@ -414,8 +414,8 @@ This is the substitution margin of Chapter 1 operating in the financial domain. 
 Figure 7.4 shows where the Russian central bank's reserves were held when they were frozen, and the distribution explains why the freeze worked. Reserves are not stored domestically; they sit as claims on foreign institutions, which means the jurisdictions hosting those claims can immobilise them without moving anything at all.
 
 <figure class="book-figure">
-  <img src="../figures/fig_07_04_russian_frozen_assets.png" alt="Russian central bank assets frozen in 2022, showing the geographic distribution of $300+ billion in immobilized reserves.">
-  <figcaption>Figure 7.4: Russian central bank assets frozen in 2022, showing the geographic distribution of $300+ billion in immobilized reserves.</figcaption>
+  <img src="../figures/fig_07_04_russian_frozen_assets.png" alt="Stacked bars of Russian assets frozen in 2022 by jurisdiction.">
+  <figcaption>Figure 7.4: Russian central bank and other assets frozen after the invasion of Ukraine on 24 February 2022, by holder jurisdiction. Includes central bank reserves and assets of sanctioned oligarchs and state-owned entities; data as of Q4 2022. Sources: European Commission, U.S. Treasury, Bank of Russia, IMF and CSIS estimates.</figcaption>
 </figure>
 
 States facing sanctions or anticipating future sanctions seek alternatives to dollar-denominated transactions and U.S.-connected financial infrastructure:
