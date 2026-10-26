@@ -30,98 +30,48 @@ new_deps <- data.frame(
 )
 
 # Application colors
-app_colors <- c(
-  "Batteries" = "#ff7f0e",
-  "Motors/Turbines" = "#1f77b4",
-  "Wiring/EVs" = "#2ca02c",
-  "Solar Panels" = "#9467bd"
-)
+new_deps <- new_deps %>% mutate(material = fct_reorder(material, growth_multiple))
 
-# Panel 1: Demand growth
-new_deps <- new_deps %>%
-  mutate(material = fct_reorder(material, growth_multiple))
-
-p1 <- ggplot(new_deps, aes(x = material, y = growth_multiple, fill = application)) +
-  geom_col(width = 0.7) +
-  geom_text(aes(label = paste0(growth_multiple, "x")), hjust = -0.1, size = 4, fontface = "bold") +
+p1 <- ggplot(new_deps, aes(x = material, y = growth_multiple)) +
+  geom_col(fill = lws_colors[["fade"]], width = 0.7) +
+  geom_text(aes(label = paste0(growth_multiple, "x")), hjust = -0.1, colour = lws_colors[["ink"]], size = book_text_size) +
   coord_flip() +
-  scale_fill_manual(values = app_colors, name = "Primary Use") +
-  scale_y_continuous(expand = expansion(mult = c(0, 0.15))) +
-  labs(
-    title = "Critical Mineral Demand Growth (2024-2040)",
-    subtitle = "Projected increase driven by energy transition",
-    x = NULL,
-    y = "Growth Multiple"
-  ) +
-  theme_econ_textbook() +
-  theme(panel.grid.major.y = element_blank())
+  scale_y_continuous(expand = expansion(mult = c(0, 0.2))) +
+  labs(title = "A. Projected demand growth, 2024-2040", x = NULL, y = "Growth multiple") +
+  theme_book_h()
 
-# Panel 2: China processing dominance
-p2 <- ggplot(new_deps, aes(x = reorder(material, -china_processing_share),
-                           y = china_processing_share, fill = application)) +
-  geom_col(width = 0.7) +
-  geom_hline(yintercept = 50, linetype = "dashed", color = "gray40") +
-  geom_text(aes(label = paste0(china_processing_share, "%")), vjust = -0.3, size = 3.5) +
-  annotate("text", x = 7.5, y = 53, label = "Concentration threshold",
-           size = 3, color = "gray40") +
-  scale_fill_manual(values = app_colors, guide = "none") +
-  scale_y_continuous(expand = expansion(mult = c(0, 0.1))) +
-  labs(
-    title = "China's Processing Dominance",
-    subtitle = "Share of global refining/processing capacity",
-    x = NULL,
-    y = "China Processing Share (%)"
-  ) +
-  theme_econ_textbook() +
-  theme(
-    panel.grid.major.x = element_blank(),
-    axis.text.x = element_text(angle = 45, hjust = 1)
-  )
+p2 <- ggplot(new_deps, aes(x = material, y = china_processing_share)) +
+  geom_col(fill = lws_colors[["red"]], width = 0.7) +
+  geom_hline(yintercept = 50, linetype = "dashed", colour = lws_colors[["ref"]]) +
+  geom_text(aes(label = paste0(china_processing_share, "%")), hjust = -0.1, colour = lws_colors[["ink"]], size = book_text_size) +
+  coord_flip() +
+  scale_y_continuous(limits = c(0, 115), breaks = c(0, 50, 100), expand = c(0, 0)) +
+  labs(title = "B. China's processing share", x = NULL, y = "Share of global processing (%)") +
+  theme_book_h() + theme(axis.text.y = element_blank())
 
-# Panel 3: Old vs New dependencies comparison
 dep_comparison <- data.frame(
-  era = c(rep("Fossil Fuel Era", 4), rep("Clean Energy Era", 4)),
-  dependency = c(
-    "Oil (Middle East)", "Natural Gas (Russia)", "Coal", "Uranium",
-    "Lithium", "Rare Earths", "Cobalt", "Solar Manufacturing"
-  ),
-  concentration = c(
-    65, 40, 25, 30,
-    75, 90, 70, 95
-  ),
-  china_exposure = c(
-    15, 10, 20, 5,
-    65, 90, 72, 95
-  )
-)
-
-dep_comparison <- dep_comparison %>%
-  mutate(dependency = fct_reorder(dependency, concentration))
+  era = factor(c(rep("Fossil fuel era", 4), rep("Clean energy era", 4)), levels = c("Fossil fuel era", "Clean energy era")),
+  dependency = c("Oil (Middle East)", "Natural gas (Russia)", "Coal", "Uranium", "Lithium", "Rare earths", "Cobalt", "Solar manufacturing"),
+  concentration = c(65, 40, 25, 30, 75, 90, 70, 95),
+  china_exposure = c(15, 10, 20, 5, 65, 90, 72, 95)
+) %>% mutate(dependency = fct_reorder(dependency, concentration))
 
 p3 <- ggplot(dep_comparison, aes(x = dependency, y = concentration)) +
-  geom_col(aes(fill = era), width = 0.6) +
-  geom_point(aes(y = china_exposure), color = "#d62728", size = 4, shape = 18) +
+  geom_col(fill = lws_colors[["fade"]], width = 0.6) +
+  geom_point(aes(y = china_exposure), colour = lws_colors[["red"]], size = 2.4, shape = 18) +
+  geom_text(aes(y = pmax(concentration, china_exposure), label = paste0(concentration, "%")), hjust = -0.6, colour = lws_colors[["ink"]], size = book_text_size) +
   coord_flip() +
   facet_wrap(~era, scales = "free_y") +
-  scale_fill_manual(
-    values = c("Fossil Fuel Era" = "#7f7f7f", "Clean Energy Era" = "#2ca02c"),
-    guide = "none"
-  ) +
-  labs(
-    title = "Changing Dependencies: Fossil Fuels vs Clean Energy",
-    subtitle = "Supply concentration (bars) and China exposure (red diamonds)",
-    x = NULL,
-    y = "Supply Concentration (%)",
-    caption = "Source: IEA Critical Minerals Report, BloombergNEF, author calculations\nNote: Red diamonds show China's control over supply chain"
-  ) +
-  theme_econ_textbook() +
-  theme(panel.grid.major.y = element_blank())
+  scale_y_continuous(limits = c(0, 115), breaks = c(0, 50, 100)) +
+  labs(title = "C. Supply concentration (bars) and China's share of the supply chain (red diamonds)", x = NULL, y = "Share (%)") +
+  theme_book_h() + theme(strip.text = element_text(face = "bold", colour = lws_colors[["ink"]]))
 
-# Combine
 library(patchwork)
-combined <- (p1 + p2) / p3 + plot_layout(heights = c(1, 1))
+combined <- (p1 + p2) / p3 + plot_layout(heights = c(1, 0.8)) +
+  plot_annotation(
+    caption = paste(strwrap("Source: IEA Critical Minerals Report, BloombergNEF and author calculations. Demand and processing shares in panels A and B are as compiled for the book; the concentration and China-exposure figures in panel C are the author's rough estimates, not a published series.", 105), collapse = "\n"),
+    theme = theme_econ_textbook())
 
-# Save the figure
-save_econ_figure(here::here("figures", "fig_10_02_new_dependencies.png"), plot = combined, width = 14, height = 12)
+save_econ_figure(here::here("figures", "fig_10_02_new_dependencies.png"), plot = combined, width = 6, height = 6.4)
 
 cat("Figure 10.2 created: New Dependencies\n")
