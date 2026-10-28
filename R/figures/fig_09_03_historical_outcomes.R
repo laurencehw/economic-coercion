@@ -1,6 +1,10 @@
 # Figure 9.3: Historical Economic Coercion Outcomes
 # Chapter 9: Historical Cases
-# Scatter plot of economic cost vs political success across historical cases
+# Scatter plot of economic cost vs political success across historical cases.
+# AUTHOR'S ILLUSTRATION (stylized, not data): the target-GDP-impact values and the success scores are the author's rough
+# estimates and judgments, entered by hand; none is a measurement or a coding of a published dataset. The sender_cost and
+# duration_years columns are not plotted. Where the chapter cites a measured figure for a case, the two can differ
+# (the chapter gives an estimated 50-60% GDP contraction for Iraq 1990-96; the point here is plotted at 48%).
 
 # Load required packages and theme
 library(here)
@@ -60,7 +64,7 @@ p <- ggplot(historical_cases, aes(x = -target_gdp_impact, y = success_score)) +
   scale_x_continuous(labels = function(x) paste0(x, "%"), limits = c(0, 50)) +
   scale_y_continuous(labels = function(x) paste0(x, "%"), limits = c(0, 100)) +
   labs(x = "Estimated target GDP impact (% decline)", y = "Success score (author's judgment, 0-100)") +
-  book_source("Source: Author's compilation based on Hufbauer et al. and the PIIE sanctions database. Both axes are the author's rough estimates and judgments, not measurements; the success score combines policy change achieved and durability. Marker shape shows international coordination.") +
+  book_source("Author's illustration (stylized, not data): both axes are the author's rough estimates and judgments, informed by the sanctions literature but not drawn from or coded against any dataset; the success score combines policy change achieved and durability. Marker shape shows international coordination.") +
   theme_econ_textbook() +
   theme(legend.position = "top", legend.justification = "left")
 

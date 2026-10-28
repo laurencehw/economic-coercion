@@ -1,58 +1,45 @@
 # Figure 5.5: Cloud Infrastructure Market Share
 # Chapter 5: Information, Cyber, and Intelligence
-# Shows US vs Chinese dominance in global cloud infrastructure
+# Data: data/sources/synergy_cloud_share_2024q4.csv, the Q4 2024 worldwide shares in Synergy Research Group's release
+# on the 2024 cloud infrastructure market. Synergy publishes only the named providers' shares; the release does not
+# report Huawei Cloud, and no public source gives each provider's share inside China or the United States.
+# The earlier version of this figure plotted a table of 2019-2024 shares, including domestic-market panels, whose values
+# could not be traced to a source; that table (cloud_market_share.csv) has been retired.
 
-# Load required packages and theme
 library(here)
 source(here::here("R", "setup_theme.R"))
 library(dplyr)
-library(tidyr)
 
-# Load data
-cloud_data <- read.csv(here::here("data", "sources", "cloud_market_share.csv"), stringsAsFactors = FALSE)
+cloud <- read.csv(here::here("data", "sources", "synergy_cloud_share_2024q4.csv"), stringsAsFactors = FALSE, encoding = "UTF-8")
 
-# Filter to 2024 data for main comparison
-cloud_2024 <- cloud_data %>%
-  filter(year == 2024, provider != "Others")
+# Checks against aggregates the release states: the three leaders' shares are 30, 21 and 12 percent, and the named
+# providers cannot exceed the whole market.
+stopifnot(
+  all(cloud$share_pct[cloud$provider %in% c("Amazon", "Microsoft", "Google")] == c(30, 21, 12)),
+  sum(cloud$share_pct) <= 100, nrow(cloud) == 8,
+  all(cloud$headquarters[cloud$provider %in% c("Alibaba", "Tencent")] == "China")
+)
+top3 <- sum(cloud$share_pct[cloud$provider %in% c("Amazon", "Microsoft", "Google")])
+cn_named <- sum(cloud$share_pct[cloud$headquarters == "China"])
 
-# One highlight colour: Chinese providers in red, U.S. and other providers in ink-grey
-cn <- c("Alibaba Cloud", "Tencent Cloud", "Huawei Cloud")
+cloud <- cloud %>%
+  mutate(origin = ifelse(headquarters == "China", "Chinese provider", "Other provider"),
+         provider = reorder(provider, share_pct))
 origin_cols <- c("Chinese provider" = lws_colors[["red"]], "Other provider" = lws_colors[["text"]])
-cloud_2024 <- cloud_2024 %>% mutate(origin = ifelse(provider %in% cn, "Chinese provider", "Other provider"))
 
-p1 <- ggplot(cloud_2024, aes(x = reorder(provider, global_share), y = global_share, fill = origin)) +
+p <- ggplot(cloud, aes(x = provider, y = share_pct, fill = origin)) +
   geom_col(width = 0.7) +
-  geom_text(aes(label = paste0(global_share, "%")), hjust = -0.15, colour = lws_colors[["ink"]], size = book_text_size) +
+  geom_text(aes(label = paste0(share_pct, "%")), hjust = -0.15, colour = lws_colors[["ink"]], size = book_text_size) +
+  annotate("text", x = 2.2, y = 29, hjust = 1, vjust = 0.5, colour = lws_colors[["ink"]], size = book_text_size, lineheight = 0.95,
+           label = sprintf("The three U.S. leaders: %d%%\nChinese providers shown: %d%%\nHuawei Cloud is not reported\nseparately in the release", top3, cn_named)) +
   scale_fill_manual(values = origin_cols, name = NULL) +
-  scale_y_continuous(expand = expansion(mult = c(0, 0.15))) +
+  scale_y_continuous(expand = expansion(mult = c(0, 0.12)), labels = function(x) paste0(x, "%")) +
   coord_flip() +
-  labs(title = "A. Global market share, 2024", x = NULL, y = "Market share (%)") +
-  theme_book_h() + theme(legend.position = "top")
+  labs(x = NULL, y = "Share of worldwide cloud infrastructure services revenue, Q4 2024 (%)") +
+  book_source("Source: Synergy Research Group, worldwide cloud infrastructure services market share, Q4 2024 (release on the $330 billion 2024 market; read via press-release copies, 28 October 2026). Providers named in the release only; the remaining 24% is spread across other providers. The copies of the release read give no breakdown by country of customer.") +
+  theme_book_h() + theme(legend.position = "top", legend.justification = "left")
 
-regional_data <- cloud_2024 %>%
-  select(provider, origin, us_share, china_share) %>%
-  pivot_longer(cols = c(us_share, china_share), names_to = "market", values_to = "share") %>%
-  mutate(market = ifelse(market == "us_share", "U.S. market", "China market")) %>%
-  filter(share > 0.5) %>%
-  mutate(provider_m = paste(provider, market, sep = "___"),
-         provider_m = reorder(provider_m, share))
-
-p2 <- ggplot(regional_data, aes(x = provider_m, y = share, fill = origin)) +
-  geom_col(width = 0.7) +
-  geom_text(aes(label = paste0(round(share, 1), "%")), hjust = -0.15, colour = lws_colors[["ink"]], size = book_text_size) +
-  scale_fill_manual(values = origin_cols, guide = "none") +
-  scale_x_discrete(labels = function(x) sub("___.*$", "", x)) +
-  scale_y_continuous(expand = expansion(mult = c(0, 0.3))) +
-  facet_wrap(~market, scales = "free_y") +
-  coord_flip() +
-  labs(title = "B. Domestic market shares, 2024", x = NULL, y = "Market share (%)") +
-  theme_book_h()
-
-library(patchwork)
-combined <- p1 / p2 + plot_layout(heights = c(1.1, 1)) +
-  plot_annotation(caption = paste(strwrap("Source: Synergy Research, Canalys and company reports, 2024. Shares of providers shown; 'Others' omitted, so shares do not sum to 100.", 105), collapse = "\n"),
-                  theme = theme_econ_textbook())
-
-save_econ_figure(here::here("figures", "fig_05_05_cloud_market.png"), plot = combined, width = 6, height = 6.2)
+save_econ_figure(here::here("figures", "fig_05_05_cloud_market.png"), plot = p, width = 6, height = 3.8)
 
 cat("Figure 5.5 created: Cloud Infrastructure Market Share\n")
+cat(sprintf("  Named providers sum to %d%%; top three %d%%; Chinese providers shown %d%%\n", sum(cloud$share_pct), top3, cn_named))

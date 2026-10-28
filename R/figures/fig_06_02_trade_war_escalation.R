@@ -1,6 +1,9 @@
 # Figure 6.2: US-China Trade War Escalation Ladder
 # Chapter 6: Trade Controls
 # Stepped visualization of tit-for-tat measures 2018-2024
+# Data: data/sources/trade_war_timeline.csv. Each row carries its date basis, source and a verification note;
+# US dates were read in the Federal Register (USTR, BIS and presidential documents), Chinese dates come from
+# secondary timelines. The vertical position is the author's ordinal judgment, not a measurement.
 
 # Load required packages and theme
 library(here)
@@ -22,13 +25,6 @@ trade_war <- trade_war %>%
       side == "US/Allies" ~ escalation_level,
       side == "China" ~ -escalation_level,
       TRUE ~ 0
-    ),
-    action_short = case_when(
-      action_type == "Tariff" ~ paste0("Tariff: $", value_billions, "B"),
-      action_type == "Export Control" ~ "Export Control",
-      action_type == "Industrial Policy" ~ "Industrial Policy",
-      action_type == "Designation" ~ "Designation",
-      TRUE ~ action_type
     )
   )
 
@@ -37,6 +33,7 @@ side_cols <- c("US/Allies" = lws_colors[["blue"]], "China" = lws_colors[["red"]]
 key_events <- c("List 3 tariffs imposed", "Huawei Entity List", "Phase One agreement", "CHIPS Act signed",
                 "October 7 semiconductor rules", "China gallium germanium controls", "EV tariffs 100%",
                 "China retaliates - Round 6", "Truce at G20")
+stopifnot(all(key_events %in% trade_war$event), !anyNA(trade_war$date), all(trade_war$escalation_level %in% 1:10))
 labs_df <- trade_war %>% filter(event %in% key_events) %>%
   mutate(label = sub("China retaliates - Round 6", "China retaliation, round 6", event))
 
@@ -57,7 +54,9 @@ p <- ggplot(trade_war, aes(x = date, y = y_offset)) +
   scale_x_date(date_breaks = "1 year", date_labels = "%Y", expand = expansion(mult = c(0.01, 0.03))) +
   scale_y_continuous(breaks = c(-10, -5, 0, 5, 10), labels = c("10", "5", "0", "5", "10"), limits = c(-11, 11)) +
   labs(x = NULL, y = "Escalation level (author's 1-10 judgment)") +
-  book_source("Source: USTR, MOFCOM and BIS Federal Register announcements. Dates and tariff rates are sourced; the escalation level is the author's ordinal assessment, not a measurement.") +
+  book_source(paste("Sources: Federal Register notices of USTR, BIS and the President for US actions; Chinese measures dated from",
+                    "contemporaneous timelines (State Council Tariff Commission and MOFCOM announcements). Dates are announcement,",
+                    "signing or in-force dates as listed in the data file. The vertical position is the author's ordinal judgment, not a measurement.")) +
   theme_econ_textbook()
 
 save_econ_figure(here::here("figures", "fig_06_02_trade_war_escalation.png"), plot = p, width = 6, height = 4.6)

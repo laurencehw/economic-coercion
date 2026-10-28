@@ -95,11 +95,11 @@ Every figure below was reconciled on 2026-07-11 against primary sources to resol
 **Retrieval Date:** March 2026
 **Notes:** Covers 2015-2024; includes FIRRMA implementation from 2020
 
-### 6. **cloud_market_share.csv**
-**Variables:** year, provider, headquarters, global_share, china_share, europe_share, us_share, revenue_billions
-**Source:** Synergy Research Group, Canalys
-**Retrieval Date:** January 2026
-**Notes:** Global and regional market share by provider; IaaS, PaaS, SaaS segments
+### 6. **synergy_cloud_share_2024q4.csv**
+**Variables:** period, provider, headquarters, share_pct, source, vintage
+**Source:** Synergy Research Group (Q4 2024 worldwide cloud infrastructure services shares, via press-release copies)
+**Retrieval Date:** October 2026
+**Notes:** Replaces the retired cloud_market_share.csv. Named providers only (76% of the market); Huawei Cloud is not reported; no public by-country shares.
 
 ### 7. **critical_minerals_data.csv**
 **Variables:** Mineral, China_Processing_Share, China_Mining_Share, Top_Other_Processors, Strategic_Use
@@ -198,10 +198,10 @@ Every figure below was reconciled on 2026-07-11 against primary sources to resol
 **Notes:** Annual currency share of SWIFT payments (%)
 
 ### 23. **trade_war_timeline.csv**
-**Variables:** date, event, actor, action_type, value_billions, tariff_rate, products_affected, escalation_level
-**Source:** USTR, Chinese Ministry of Commerce, Bown and Kolb 2021
-**Retrieval Date:** March 2026
-**Notes:** March 2018 - December 2025 escalation events
+**Variables:** date, event, actor, action_type, value_billions, tariff_rate, products_affected, escalation_level, date_basis, source, verification
+**Source:** Federal Register (USTR, BIS, presidential documents) for U.S. rows; secondary timelines for Chinese rows; see the verification column
+**Retrieval Date:** October 2026
+**Notes:** January 2018 - May 2024 events; escalation_level is the author's ordinal judgment; unverified value and rate cells are blank
 
 ### 24. **tsmc_market_share.csv**
 **Variables:** Technology_Node, TSMC, Samsung, Intel, SMIC, Others

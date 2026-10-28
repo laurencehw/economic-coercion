@@ -12,7 +12,7 @@ This file documents the source, coverage, and known limitations of each dataset 
 
 **`us_china_tariffs.csv`** — Peterson Institute for International Economics (PIIE) *Trade War Tariff Tracker*, Chad P. Bown, supplemented by USTR Section 301 determinations. Accessed 2026-01. Average effective ad-valorem rates by product tranche.
 
-**`trade_war_timeline.csv`** — Compiled from USTR announcements, MOFCOM press releases, and PIIE *Trade War Tariff Tracker*. Accessed 2026-01. Event-level data, 2018–2025.
+**`trade_war_timeline.csv`** — Event-level timeline, January 2018 to May 2024; the vertical position in Figure 6.2 (`escalation_level`) is the author's ordinal judgment. Re-checked 2026-10-28: U.S. rows against the Federal Register (USTR notices, BIS rules, presidential documents) and the Government of the Netherlands release; Chinese rows against secondary timelines (California Research Bureau chronology; Business Insider timeline), cross-read with USTR notices. Each row carries `date_basis` (announced, signed or in force), `source` and a `verification` note; value and rate cells that could not be verified were left blank. Rows relabelled in this pass: 2021-06-03 (EO 14032 investment ban, formerly called an Entity List expansion), 2023-03-08 (Dutch lithography controls, formerly 2023-01-27 and bundled with Japan), 2020-05-15 (Huawei foreign direct product rule, formerly "TSMC restrictions").
 
 ## Technology, Supply Chains, and R&D
 
@@ -54,7 +54,7 @@ This file documents the source, coverage, and known limitations of each dataset 
 
 **`internet_exchange_points.csv`** — PeeringDB (peeringdb.com); Packet Clearing House. Accessed 2025-11.
 
-**`cloud_market_share.csv`** — Synergy Research Group quarterly cloud infrastructure reports; Gartner. Accessed 2025-12.
+**`synergy_cloud_share_2024q4.csv`** — Synergy Research Group, worldwide cloud infrastructure services shares for Q4 2024 (release on the $330 billion 2024 market), read via press-release copies (kalkinemedia.com for Amazon, Microsoft and Google; techpartner.news for the full list) on 2026-10-28; the srgresearch.com original was not read. Providers named in the release only; Huawei Cloud is not reported. Replaces the retired `cloud_market_share.csv` (2019–2024 shares and domestic-market columns that could not be traced to a source and disagreed with Synergy for Microsoft Azure, 25% against 21%). To refresh, read Synergy's latest release and edit the CSV; the script asserts the three leaders' shares.
 
 **`cyber_economic_incidents.csv`** — CSIS *Significant Cyber Incidents Timeline*; ENISA *Threat Landscape*; authorial coding of economic dimension. Accessed 2025-12.
 
@@ -73,6 +73,22 @@ This file documents the source, coverage, and known limitations of each dataset 
 **`renewable_energy_manufacturing.csv`** — IEA *Renewables 2024*; BloombergNEF. Accessed 2025-10.
 
 **`australia_china_trade.csv`** — DFAT *Composition of Trade* series; ABS. Accessed 2025-09.
+
+## Sourced extracts added 28 October 2026
+
+Each file below carries a `source` column and a `vintage` (and, where relevant, `series`) column. Where a refresh script exists it compares the fetched values with the committed extract and exits non-zero on any difference (`--check`); none falls back to stored values.
+
+**`ofac_penalties_by_year.csv`, `ofac_settlements_150m.csv`** — U.S. Treasury, OFAC, *Civil Penalties and Enforcement Information* year pages (`ofac.treasury.gov/civil-penalties-and-enforcement-information/<year>-enforcement-information`), 2006 to 27 October 2026. OFAC's own amounts only; global resolutions that also involved the Justice Department, the Federal Reserve or state regulators are larger than the OFAC figure. Refresh: `python3 scripts/fetch_ofac_penalties.py`. Figure 7.3.
+
+**`section_301_lists.csv`, `section_301_rate_steps.csv`** — USTR notices in the Federal Register (83 FR 28710, 83 FR 40823, 83 FR 47974, 84 FR 20459, 84 FR 43304, 84 FR 45821, 84 FR 69447, 85 FR 3741), read through the Federal Register API on 2026-10-28; each row has its citation and document number. The notices give list totals only; there is no sector split and no 4A/4B split of List 4's $300 billion. Figure 6.7.
+
+**`usgs_mcs2026_world_production_2024.csv`** — USGS *Mineral Commodity Summaries 2026* data release (ScienceBase item, file `MCS2026_Commodities_Data.csv`, section "World Mine Production and Reserves"), 2024 world mine production by country for copper (mine and refinery), lithium, nickel, cobalt, graphite and rare earths. "W" (withheld) rows are flagged and excluded from the sums; the lithium world total excludes U.S. output. Figure 10.2.
+
+**`iea_gcmo2025_refined_shares.csv`** — IEA, *Global Critical Minerals Outlook 2025*, refined production shares by country for 2024 and the 2035 base case (CC BY 4.0; read from the chart pages' embedded CSV). Graphite is battery-grade and rare earths are magnet elements only. Figure 10.2.
+
+**`energy_fossil_production_2024.csv`** — Energy Institute *Statistical Review of World Energy*, via the Our World in Data energy dataset (`owid-energy-data.csv`), 2024 production of coal, oil and gas in TWh by country. Figure 10.2.
+
+**`south_africa_gdp_rand_1980_1994.csv`** — World Bank, *World Development Indicators*, South Africa: `NY.GDP.MKTP.KD.ZG` (real GDP growth, annual %) and `PA.NUS.FCRF` (official exchange rate, rand per US dollar, period average), last updated 2026-10-08. Refresh: `python3 scripts/fetch_worldbank_south_africa.py`. Figure 9.2.
 
 ## Notes on Reproducibility
 

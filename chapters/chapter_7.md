@@ -248,11 +248,11 @@ OFAC operates under multiple statutory authorities. The primary basis is **IEEPA
 
 ### Types of Sanctions Programs
 
-Figure 7.3 illustrates the scale of selected bank enforcement settlements involving sanctions. The growth is less a series of discrete decisions than an accumulation: programs are added far more readily than they are retired, which is one reason the question of off-ramps recurs throughout this chapter.
+Figure 7.3 shows how large OFAC's own enforcement settlements have been, and how unevenly they fall across years. The growth is less a series of discrete decisions than an accumulation: programs are added far more readily than they are retired, which is one reason the question of off-ramps recurs throughout this chapter.
 
 <figure class="book-figure">
-  <img src="../figures/fig_07_03_sanctions_programs.png" alt="Selected bank enforcement settlements involving sanctions, shown by institution, year, and estimated sanctioned-country allocation.">
-  <figcaption>Figure 7.3: Selected bank enforcement settlements involving sanctions, shown by institution, year, and estimated sanctioned-country allocation. These totals include other violations: HSBC's 2012 settlement combined sanctions and anti-money-laundering enforcement, rather than $1.9 billion of OFAC sanctions penalties alone. Panel A shows settlements by institution and panel B the estimated allocation by sanctioned country, which is not reconciled to panel A. Sources: U.S. Treasury Office of Foreign Assets Control and Department of Justice.</figcaption>
+  <img src="../figures/fig_07_03_sanctions_programs.png" alt="Two panels of OFAC enforcement data. A: bars for the 15 OFAC settlements of $150 million or more, 2009 to 2026, 11 of them with banks and led by Binance and BNP Paribas. B: annual totals of OFAC penalties and settlements, 2006 to 2026, concentrated in a few years with very large cases.">
+  <figcaption>Figure 7.3: OFAC civil penalties and settlements, 2006–2026. Panel A shows every settlement of $150 million or more (11 of the 15 with banks). Panel B sums all penalties and settlements OFAC lists for each year; 2026 runs to October 27. Amounts are OFAC's own settlement figures. Combined resolutions that also involved the Justice Department, the Federal Reserve or state regulators were larger, so the totals quoted in the text for individual banks differ from the OFAC amounts shown here. Source: U.S. Treasury, Office of Foreign Assets Control, Civil Penalties and Enforcement Information (year pages, retrieved 28 October 2026).</figcaption>
 </figure>
 
 OFAC administers multiple sanctions program types:

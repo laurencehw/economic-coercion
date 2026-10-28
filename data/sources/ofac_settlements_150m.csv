@@ -1,0 +1,16 @@
+date,entity,n_penalties,amount_usd,sector,source,series,vintage
+2009-12-16,Credit Suisse AG,1,536000000,bank,OFAC Civil Penalties and Enforcement Information (year pages),Penalties/Settlements Total in USD,retrieved 2026-10-28
+2009-12-22,"Lloyds TSB Bank, plc",1,217000000,bank,OFAC Civil Penalties and Enforcement Information (year pages),Penalties/Settlements Total in USD,retrieved 2026-10-28
+2010-08-18,Barclays Bank PLC,1,176000000,bank,OFAC Civil Penalties and Enforcement Information (year pages),Penalties/Settlements Total in USD,retrieved 2026-10-28
+2012-06-12,ING Bank N.V.,1,619000000,bank,OFAC Civil Penalties and Enforcement Information (year pages),Penalties/Settlements Total in USD,retrieved 2026-10-28
+2012-12-11,HSBC Holdings plc,1,375000000,bank,OFAC Civil Penalties and Enforcement Information (year pages),Penalties/Settlements Total in USD,retrieved 2026-10-28
+2014-01-23,"Clearstream Banking, S.A.",1,151902000,bank,OFAC Civil Penalties and Enforcement Information (year pages),Penalties/Settlements Total in USD,retrieved 2026-10-28
+2014-06-30,BNP Paribas SA,1,963619900,bank,OFAC Civil Penalties and Enforcement Information (year pages),Penalties/Settlements Total in USD,retrieved 2026-10-28
+2015-03-12,Commerzbank AG,1,258660796,bank,OFAC Civil Penalties and Enforcement Information (year pages),Penalties/Settlements Total in USD,retrieved 2026-10-28
+2015-10-20,Crédit Agricole Corporate and Investment Bank,1,329593585,bank,OFAC Civil Penalties and Enforcement Information (year pages),Penalties/Settlements Total in USD,retrieved 2026-10-28
+2019-04-09,Standard Chartered Bank,2,657040033,bank,OFAC Civil Penalties and Enforcement Information (year pages),Penalties/Settlements Total in USD,retrieved 2026-10-28
+2019-04-15,UniCredit Bank,3,611023421,bank,OFAC Civil Penalties and Enforcement Information (year pages),Penalties/Settlements Total in USD,retrieved 2026-10-28
+2023-04-25,British American Tobacco p.l.c.,1,508612492,other,OFAC Civil Penalties and Enforcement Information (year pages),Penalties/Settlements Total in USD,retrieved 2026-10-28
+2023-11-21,Binance,1,968618825,other,OFAC Civil Penalties and Enforcement Information (year pages),Penalties/Settlements Total in USD,retrieved 2026-10-28
+2025-06-12,GVA Capital Ltd.,1,215988868,other,OFAC Civil Penalties and Enforcement Information (year pages),Penalties/Settlements Total in USD,retrieved 2026-10-28
+2026-05-18,Adani Enterprises Limited,1,275000000,other,OFAC Civil Penalties and Enforcement Information (year pages),Penalties/Settlements Total in USD,retrieved 2026-10-28

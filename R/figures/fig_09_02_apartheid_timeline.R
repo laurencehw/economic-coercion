@@ -35,13 +35,15 @@ events_data <- tibble(
   Importance = c(3, 1, 2, 3, 3, 3, 2, 3, 2, 3)
 )
 
-# Economic indicator data for South Africa
-economic_data <- tibble(
-  Year = 1980:1994,
-  GDP_Growth = c(6.6, 5.4, -0.4, -1.8, 5.1, -1.2, 0.0, 2.1, 4.2, 0.3, -0.3, -1.0, -2.1, 1.2, 3.2),
-  Rand_USD = c(1.28, 1.14, 0.92, 0.90, 0.69, 0.45, 0.44, 0.49, 0.44, 0.38, 0.39, 0.36, 0.35, 0.31, 0.28),
-  FDI_Billions = c(0.8, 0.6, 0.4, 0.3, 0.4, -0.2, -0.5, -0.3, 0.1, 0.2, 0.3, 0.4, 0.6, 1.2, 1.5)
-)
+# Economic indicators: World Bank WDI extract written by scripts/fetch_worldbank_south_africa.py
+# (data/sources/south_africa_gdp_rand_1980_1994.csv; GDP growth NY.GDP.MKTP.KD.ZG, exchange rate PA.NUS.FCRF).
+# The timeline in panel A is the author's compilation of dated events; it carries no data values.
+sa <- read.csv(here("data", "sources", "south_africa_gdp_rand_1980_1994.csv"), stringsAsFactors = FALSE, encoding = "UTF-8")
+stopifnot(identical(sa$year, 1980:1994), !anyNA(sa$gdp_growth_pct), !anyNA(sa$zar_per_usd))
+economic_data <- tibble(Year = sa$year, GDP_Growth = sa$gdp_growth_pct, Rand_USD = 1 / sa$zar_per_usd)
+# Published aggregate the extract must reproduce: the rand lost more than two-thirds of its dollar value between
+# 1980 and 1994 in annual-average terms (1.284 -> 0.282 dollars per rand).
+stopifnot(abs(economic_data$Rand_USD[1] - 1.284) < 0.001, abs(economic_data$Rand_USD[15] - 0.282) < 0.001)
 
 # ============================================================================
 # 2. CREATE VISUALIZATIONS
@@ -88,9 +90,20 @@ p3 <- ggplot(economic_data, aes(x = Year, y = Rand_USD)) +
 
 combined <- p1 / (p2 | p3) + plot_layout(heights = c(1.1, 1.1)) +
   plot_annotation(
-    caption = paste(strwrap("Sources: UN Security Council resolutions, Hufbauer et al. sanctions database, World Bank, IMF and South African Reserve Bank. CAAA = Comprehensive Anti-Apartheid Act of 1986. Series in panels B and C are compiled in the book's source tables and have not been re-verified against the SARB releases.", 105), collapse = "\n"),
+    caption = paste(strwrap("Sources: panels B and C, World Bank, World Development Indicators (GDP growth; official exchange rate, annual average; retrieved 28 October 2026). Panel A is the author's chronology of the measures named in the chapter (UN General Assembly and Security Council resolutions, the Comprehensive Anti-Apartheid Act of 1986) and is not data.", 105), collapse = "\n"),
     theme = theme_econ_textbook())
 
 save_econ_figure(here("figures", "fig_09_02_apartheid_timeline.png"), combined, width = 6, height = 6)
 
 cat("\nFigure 9.2 created\n")
+
+# Render log: values typed into the earlier version of this script against the World Bank series
+old_gdp <- c(6.6, 5.4, -0.4, -1.8, 5.1, -1.2, 0.0, 2.1, 4.2, 0.3, -0.3, -1.0, -2.1, 1.2, 3.2)
+old_rand <- c(1.28, 1.14, 0.92, 0.90, 0.69, 0.45, 0.44, 0.49, 0.44, 0.38, 0.39, 0.36, 0.35, 0.31, 0.28)
+cmp <- data.frame(year = economic_data$Year, old_gdp, wdi_gdp = round(economic_data$GDP_Growth, 2),
+                  old_usd_per_rand = old_rand, wdi_usd_per_rand = round(economic_data$Rand_USD, 2))
+cat("\nFigure 9.2: earlier typed values against World Bank WDI (rows that differ by more than 0.05):\n")
+print(cmp[abs(cmp$old_gdp - cmp$wdi_gdp) > 0.05 | abs(cmp$old_usd_per_rand - cmp$wdi_usd_per_rand) > 0.011, ], row.names = FALSE)
+cat(sprintf("\nWDI mean real GDP growth: 1980-89 %.2f%%, 1985-93 %.2f%%\n",
+            mean(economic_data$GDP_Growth[economic_data$Year %in% 1980:1989]),
+            mean(economic_data$GDP_Growth[economic_data$Year %in% 1985:1993])))

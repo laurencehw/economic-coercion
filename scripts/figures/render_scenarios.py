@@ -49,7 +49,7 @@ def reserve_figure():
     ax.yaxis.set_major_formatter(PercentFormatter(100))
     save(fig, "fig_10_01_dollar_reserves.png",
          "Sources: observed anchor from IMF COFER 2025Q3, released 19 December 2025 (Chapter 7). Paths to 2050: "
-         + ILLUSTRATION + " Shading spans the paths and is not a confidence interval; no probabilities are assigned.",
+         "author scenarios. " + ILLUSTRATION + " Shading spans the paths and is not a confidence interval; no probabilities are assigned.",
          left=0.11, right=0.72, top=0.96)
 
 
