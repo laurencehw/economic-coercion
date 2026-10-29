@@ -2,7 +2,7 @@
 
 **Date:** 2026-07-11
 **Baseline review:** `full_book_review_2026-07-11.md` (rated 7.0/10, roadmap to 9.5)
-**Decisions locked:** Title = *Economic Coercion in the 21st Century: Tools, Strategies, and Great Power Competition*; affiliation = NYU Wagner (lw3387@nyu.edu); license = CC BY-NC 4.0; part structure = SUMMARY.md's four parts + standalone Conclusion.
+**Decisions locked:** Title = *Economic Coercion in the 21st Century: Tools, Strategies, and Great Power Competition*; affiliation = NYU Wagner (laurence@lwilsesamson.com); license = CC BY-NC 4.0; part structure = SUMMARY.md's four parts + standalone Conclusion.
 
 ## Completed (working tree, NOT yet committed)
 

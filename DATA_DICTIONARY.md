@@ -287,4 +287,4 @@ source("R/figures/fig_XX_YY_description.R")
 
 ---
 
-**Questions about data sources?** Contact: lw3387@nyu.edu
+**Questions about data sources?** Contact: laurence@lwilsesamson.com
