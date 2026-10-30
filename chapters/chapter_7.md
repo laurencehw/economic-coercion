@@ -331,7 +331,7 @@ Sanctions laws provide humanitarian exceptions, yet implementation faces challen
 
 **Licensing delays**: While general licenses cover many humanitarian activities, complex projects may require specific licenses. Approval delays (months) hamper time-sensitive humanitarian response.
 
-**Chilling effect**: Even authorized activities face challenges when suppliers, shippers, insurers refuse involvement due to sanctions concerns. Comprehensive sanctions (Iran, Syria, North Korea) create environments where humanitarian aid becomes very difficult despite legal exemptions.
+**Chilling effect**: Even authorized activities face challenges when suppliers, shippers, insurers refuse involvement due to sanctions concerns. Comprehensive sanctions (Iran, North Korea, and Syria until mid-2025) create environments where humanitarian aid becomes very difficult despite legal exemptions.
 
 {% hint style="warning" %}
 **The De-Risking Problem**
