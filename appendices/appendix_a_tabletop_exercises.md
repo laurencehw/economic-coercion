@@ -34,7 +34,7 @@ Each exercise ends with an **"→ EconWar variant"** pointer to a complementary 
 
 Taiwan's newly elected president has announced plans to pursue formal constitutional changes that Beijing views as steps toward de jure independence. In response, the People's Liberation Army (PLA) has initiated large-scale military exercises encircling Taiwan, including a partial naval blockade that disrupts commercial shipping. China has not declared war but characterizes the exercises as "internal law enforcement operations."
 
-The United States faces pressure from Taiwan, Japan, and other Indo-Pacific allies to respond with both security guarantees and economic measures. The U.S.-China economic relationship remains closely intertwined, though: China holds roughly $680 billion in U.S. Treasury securities (the third-largest foreign holder, behind Japan and the United Kingdom), two-way goods trade still runs well over $500 billion annually, and U.S. firms depend on Chinese supply chains for critical inputs. China, meanwhile, remains dependent on Taiwan for advanced semiconductors, U.S. semiconductor equipment, and access to Western financial systems.
+The United States faces pressure from Taiwan, Japan, and other Indo-Pacific allies to respond with both security guarantees and economic measures. The U.S.-China economic relationship remains closely intertwined, though: China holds roughly $680 billion in U.S. Treasury securities (the third-largest foreign holder, behind Japan and the United Kingdom), two-way goods trade still runs roughly $415 billion a year (2025, Census goods basis), and U.S. firms depend on Chinese supply chains for critical inputs. China, meanwhile, remains dependent on Taiwan for advanced semiconductors, U.S. semiconductor equipment, and access to Western financial systems.
 
 You are members of the National Security Council Deputies Committee convened to develop economic response options for the President. The crisis is escalating, and decisions in the next 48-72 hours will determine whether it resolves diplomatically, escalates to comprehensive economic conflict, or moves toward military confrontation.
 
@@ -269,7 +269,7 @@ Replay this crisis from Beijing's seat: in **EconWar**, select the **Chinese** p
 
 **Date: March 2027**
 
-A major earthquake measuring 7.8 on the Richter scale strikes central Taiwan, causing significant damage to infrastructure in Hsinchu Science Park, home to Taiwan Semiconductor Manufacturing Company (TSMC) and dozens of supporting firms. While TSMC's advanced fabs have earthquake protection, several critical facilities suffer damage that will take 4-6 months to fully repair. TSMC announces that production of advanced 3nm and 5nm chips will be reduced by approximately 40% for at least four months.
+A major earthquake measuring 7.8 in moment magnitude strikes central Taiwan, causing significant damage to infrastructure in Hsinchu Science Park, home to Taiwan Semiconductor Manufacturing Company (TSMC) and dozens of supporting firms. While TSMC's advanced fabs have earthquake protection, several critical facilities suffer damage that will take 4-6 months to fully repair. TSMC announces that production of advanced 3nm and 5nm chips will be reduced by approximately 40% for at least four months.
 
 Markets react sharply. Within 48 hours, major automotive manufacturers announce production slowdowns in anticipation of chip shortages. Apple, NVIDIA, AMD, and Qualcomm stocks drop 15-20%. The White House receives urgent calls from industry leaders requesting government intervention.
 
@@ -1163,7 +1163,7 @@ The cable damage has global ripple effects:
 - Cloud services routing through Taiwan face degraded performance
 - Several Southeast Asian countries experience partial outages
 
-Countries with Chinese cable investments (Pakistan, Myanmar, several African nations) experience no disruptions, raising questions about whether they would be targeted or leverage.
+Countries with Chinese cable investments (Pakistan, Myanmar, several African nations) experience no disruptions, raising questions about whether they were deliberately spared and whether that gives China leverage over them.
 
 **Decision Required:**
 1. Public attribution and messaging strategy

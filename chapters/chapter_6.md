@@ -91,7 +91,7 @@ In exchange:
 - U.S. reduced September 2019 tariff tranche from 15% to 7.5%
 - U.S. maintained 25% tariffs on $250 billion in Chinese goods
 
-COVID-19 pandemic derailed implementation. China purchased only 58% of committed goods in 2020 and 71% over 2020-2021 combined, a $140 billion shortfall (Bown 2022). Neither side invoked enforcement provisions, effectively rendering the agreement dormant by 2022.
+COVID-19 pandemic derailed implementation. China purchased only 57% of its committed goods and services targets in 2020 and 58% in 2021, a combined shortfall of about $212 billion against the 2020-2021 targets (Bown 2022). Neither side invoked enforcement provisions, effectively rendering the agreement dormant by 2022.
 
 **Phase 4: Biden Continuity and Expansion (2021-2024)**
 
@@ -338,7 +338,7 @@ EAR violations carry the following penalties:
 - **Denial orders**: Prohibition on export privileges (receiving U.S. exports or participating in export transactions)
 
 Major recent enforcement actions:
-- **ZTE Corporation (2017)**: $1.19 billion penalty for violating Iran/North Korea sanctions, plus seven-year suspended denial order; later imposed (2018) before negotiated settlement
+- **ZTE Corporation (2017)**: $1.19 billion penalty for violating Iran/North Korea sanctions, plus a seven-year suspended denial order that Commerce activated in April 2018 and then lifted under a negotiated settlement
 - **Huawei (2020-present)**: Indictments for sanctions evasion, trade secret theft; effective export denial through Entity List
 - **Fujian Jinhua (2018)**: Entity List addition for DRAM technology theft; company operations suspended
 
@@ -883,7 +883,7 @@ The main trade-war section above already narrates the conflict phase by phase, f
 
 ### Effectiveness Assessment
 
-**Target Compliance: LOW.** The trade war failed to achieve structural reforms. Forced technology transfer, IP enforcement, and market access saw minimal improvement. Chinese subsidies increased (Big Fund III, EV subsidies). Phase One purchase commitments went $288 billion below target with no enforcement (Bown 2022). China assessed that tolerating tariff costs was preferable to compromising its state-directed economic model.
+**Target Compliance: LOW.** The trade war failed to achieve structural reforms. Forced technology transfer, IP enforcement, and market access saw minimal improvement. Chinese subsidies increased (Big Fund III, EV subsidies). Phase One purchase commitments went about $212 billion below the 2020-2021 targets with no enforcement (Bown 2022). China assessed that tolerating tariff costs was preferable to compromising its state-directed economic model.
 
 **Capability Degradation: MODERATE.** Tariffs contributed to supply chain reconfiguration: Chinese export share to the U.S. fell from 21.6% (2017) to 16.5% (2023), with Vietnam ($49 billion to $115 billion in U.S. exports) and Mexico capturing share (U.S. Census Bureau 2024). Combined with semiconductor export controls, tariffs accelerated technology ecosystem bifurcation. However, China's $17 trillion domestic market, 28% share of global manufacturing, and increased dominance in critical sectors (solar, batteries, rare earths) limit the effect.
 
