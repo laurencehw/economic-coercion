@@ -89,3 +89,6 @@ minimal_test.*
 __pycache__/
 *.pyc
 
+
+# Crossref/OpenAlex response cache for scripts/lookup_citations.py
+data/citation_lookups/cache.json
