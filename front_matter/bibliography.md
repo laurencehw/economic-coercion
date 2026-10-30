@@ -468,3 +468,78 @@ TechInsights. 2022. “SMIC 7nm Technology Found in MinerVa Bitcoin Miner.” Ju
 Mazzucato, Mariana. 2013. *The Entrepreneurial State: Debunking Public vs. Private Sector Myths*. Anthem Press.
 
 Farrell, Joseph, and Garth Saloner. 1985. “Standardization, Compatibility, and Innovation.” *RAND Journal of Economics* 16 (1): 70–83.
+
+
+## Sources Added in the October 2026 Claims Audit
+
+Amiti, Mary, Stephen J. Redding, and David E. Weinstein. 2019. "New China Tariffs Increase Costs to U.S. Households." Federal Reserve Bank of New York, *Liberty Street Economics*, May.
+
+Anadolu Agency. 2022. "All Eyes Turn to Russia's Share of EU's Gas Imports." July 28 (citing Bruegel and IEA data).
+
+Atlantic Council. n.d. "Why the US Cannot Afford to Lose Dollar Dominance." Atlantic Council Strategy Paper Series.
+
+Bown, Chad P. 2022. "China Bought None of the Extra $200 Billion of US Exports in Trump's Trade Deal." Peterson Institute for International Economics (PIIE), February.
+
+BRICS Brazil Presidency. 2025. "BRICS Data." brics.br.
+
+Center for Strategic and International Studies (CSIS). 2026. "Rare Earth Export Restrictions One Year Later." April 27. Washington, DC: CSIS.
+
+Christian Science Monitor. 1991. "US Firms Still Reluctant to Reinvest in South Africa." September 10.
+
+Clean Energy Wire. 2022. "Ukraine War Pushes Germany to Build LNG Terminals." Factsheet.
+
+CNBC. 2017. "China's Biggest Banks Ban New North Korean Accounts." September 11.
+
+CNN Business. 2025. "Nvidia Says It Will Restart Sales of a Key AI Chip to China, in a Reversal of US Restrictions" (July 15) and "Nvidia and AMD Will Give US 15% of China Sales" (August 11).
+
+Congressional Budget Office (CBO). 2019. "The Effects of Tariffs and Trade Barriers in CBO's Projections." Washington, DC.
+
+Congressional Research Service (CRS). 2019. "Retaliatory Tariffs and U.S. Agriculture." CRS Report R45903.
+
+Counterpoint Technology Market Research. 2024. "Top 5 Wafer Fab Equipment Makers' Revenue Declined 1% YoY in 2023; ASML on Top."
+
+European Commission. 2025. *Fifth Annual Report on the Screening of Foreign Direct Investments into the Union (2024)*. COM(2025) 632 final.
+
+Fortune. 2024. "Nvidia Earnings: China Drops to Mid-Single-Digit Share of Data Center Revenue." *Fortune Asia*, February 22.
+
+Gidney, Craig. 2025. "How to Factor 2048 Bit RSA Integers with Less Than a Million Noisy Qubits." arXiv:2505.15917.
+
+Hagerty, Bill, and Kirsten Gillibrand. 2025. "Hagerty, Gillibrand Statement on GENIUS Act." Press release, May 16.
+
+Institute for Energy Economics and Financial Analysis (IEEFA). n.d. "As the U.S. Builds New LNG Terminals, Europe Reduces Gas Demand and Diversifies Energy Sources" (citing Kpler data).
+
+International Energy Agency (IEA). 2022. *A 10-Point Plan to Reduce the European Union's Reliance on Russian Natural Gas*. Paris: IEA.
+
+International Energy Agency (IEA). 2024. *Global Critical Minerals Outlook 2024*. Paris: IEA.
+
+International Energy Agency (IEA). 2025. *Global Critical Minerals Outlook 2025*. Paris: IEA.
+
+Levy, Philip I. 1999. "Sanctions on South Africa: What Did They Do?" *American Economic Review* 89 (2): 415–420.
+
+Maslej, Nestor, et al. 2025. *The AI Index 2025 Annual Report*. Stanford, CA: Stanford Institute for Human-Centered Artificial Intelligence.
+
+Orrick. 2026. "EU AI Act Update: Digital Omnibus Finalizes 8 Compliance Changes." Orrick Insights, July.
+
+Our World in Data. n.d. "How Many People Does Synthetic Fertilizer Feed?" (summarizing Smil 2004 and Erisman et al. 2008).
+
+PBS NewsHour. 2010. "Russia Export Ban Pushes Wheat Prices Near Two-Year High." August 5.
+
+SIFMA (Securities Industry and Financial Markets Association). 2025. *2025 Capital Markets Fact Book*.
+
+TrendForce. 2025. Global foundry revenue ranking, second quarter 2025 (TSMC 70.2%, Samsung 7.3%). Reported by I-Connect007, September.
+
+U.S. Department of Agriculture, Foreign Agricultural Service (USDA FAS). 2023. *Grain: World Markets and Trade*. August.
+
+U.S. Energy Information Administration (EIA). 2021. "Iran's Crude Oil Production Fell to an Almost 40-Year Low in 2020." *Today in Energy*. https://www.eia.gov/todayinenergy/detail.php?id=49116
+
+U.S. Energy Information Administration (EIA). 2023. "Europe Ended Winter 2022–23 with the Most Natural Gas in Storage on Record." *Today in Energy*.
+
+U.S. Geological Survey (USGS). 2026. *Mineral Commodity Summaries 2026*.
+
+U.S. International Trade Commission (USITC). 2020. "Trade Shifts in 2019: China." Trade Shifts series.
+
+World Economic Forum (WEF). 2024. "The Water Challenge for Semiconductor Manufacturing." July.
+
+World Meteorological Organization (WMO). 2021. *2021 State of Climate Services: Water*. October.
+
+Yicai Global. 2024. "Nvidia's AI Chip Sales in China to Reach About USD12 Billion in 2024, SemiAnalysis Predicts." July.

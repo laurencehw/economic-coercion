@@ -1073,7 +1073,7 @@ Wendy Cutler and Aidan Arasasingham. 2020. "The U.S. Section 301 Investigation i
 
 Chad P. Bown, "US-China Trade War Tariffs: An Up-to-Date Chart," *Peterson Institute for International Economics* (2019, regularly updated) — tariff coverage, affected trade values, and retaliation tracking.
 
-Center for Strategic and International Studies, "Rare Earth Export Restrictions One Year Later" (CSIS, 2025) — China's April and October 2025 rare-earth and magnet export-licensing regimes.
+Center for Strategic and International Studies, "Rare Earth Export Restrictions One Year Later" (CSIS, 2026) — China's April and October 2025 rare-earth and magnet export-licensing regimes.
 
 TrendForce, EDA market-share estimates for 2024 (Taipei: TrendForce, 2024) — Synopsys, Cadence, and Siemens EDA combined and leading-edge shares.
 
