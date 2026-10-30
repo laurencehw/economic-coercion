@@ -351,9 +351,9 @@ Ministry of Commerce of the People's Republic of China (MOFCOM). 2022. *White Pa
 
 Ministry of Finance of the People's Republic of China. 2024. "Announcement on the Establishment of the National Integrated Circuit Industry Investment Fund Phase III" (关于国家集成电路产业投资基金三期成立的公告). May 24.
 
-National Development and Reform Commission (NDRC). 2015. "Made in China 2025." May.
-
 State Council Information Office, PRC. 2021. "China's International Development Cooperation in the New Era." White Paper, January.
+
+State Council of the People's Republic of China. 2015. "Made in China 2025" (中国制造2025). Guofa [2015] No. 28. May.
 
 State Council of the People's Republic of China. 2024–2025. *Central Economic Work Conference Communiqué* (中央经济工作会议公报). Xinhua News Agency releases, December 2024 and December 2025.
 
