@@ -12,7 +12,7 @@ After completing this chapter, you will be able to:
 
 ## Executive Summary
 
-Financial coercion rests on an unusual fact: a single national currency, together with the plumbing that moves it, sits at the center of the world economy, and the state with jurisdiction over that plumbing can deny others access to it. The reach of that power was on display on February 26, 2022, two days after Russia’s full-scale invasion of Ukraine, when the United States, European Union, United Kingdom, and Canada announced financial sanctions on Russia: freezing Russian Central Bank reserves held in Western financial institutions (an estimated $300+ billion) (U.S. Treasury 2022), removing major Russian banks from the SWIFT international payments messaging system, and imposing comprehensive restrictions on transactions with Russian entities. Within days the ruble collapsed 30%, Russian stock markets plunged, and Western firms moved to unwind Russian exposure. French Finance Minister Bruno Le Maire declared that the West was "waging an all-out economic and financial war on Russia," a phrasing he walked back days later as incompatible with de-escalation (Le Maire, France Info, March 1, 2022). The action was the culmination of decades spent building a U.S.-centered financial architecture, and it turned the same infrastructure that facilitates global liquidity into the primary conduit for coercion.
+Financial coercion rests on an unusual fact: a single national currency, together with the plumbing that moves it, sits at the center of the world economy, and the state with jurisdiction over that plumbing can deny others access to it. The reach of that power was on display on February 26, 2022, two days after Russia’s full-scale invasion of Ukraine, when the United States, European Union, United Kingdom, and Canada announced financial sanctions on Russia: freezing Russian Central Bank reserves held in Western financial institutions (an estimated $300+ billion) (U.S. Treasury 2022), removing major Russian banks from the SWIFT international payments messaging system, and imposing comprehensive restrictions on transactions with Russian entities. Within days the ruble collapsed 30%, Russian stock markets plunged, and Western firms moved to unwind Russian exposure. French Finance Minister Bruno Le Maire declared that the West was "waging an all-out economic and financial war on Russia," a phrasing he soon walked back as incompatible with de-escalation (Le Maire, France Info, March 1, 2022). The action was the culmination of decades spent building a U.S.-centered financial architecture, and it turned the same infrastructure that facilitates global liquidity into the primary conduit for coercion.
 
 Financial sanctions operate through money and payments rather than physical destruction. They do not destroy factories or blockade ports, but a firm cut off from dollar-denominated payments, or a state cut off from global banking, can face acute crisis. Three dynamics explain how this power works and how it might unravel.
 
@@ -34,7 +34,7 @@ Financial sanctions' effectiveness derives from the U.S. dollar's dominant posit
 
 ### The Dollar's Privileged Position
 
-Figure 7.1 shows the holdings that give this section its subject. China's trajectory stands out: down by nearly half from its 2014 peak and, since the March 2025 TIC release, behind both Japan and the United Kingdom. Whatever leverage a large Treasury position was once thought to confer, Beijing has spent a decade reducing its exposure to it.
+Figure 7.1 shows the holdings that give this section its subject. China's trajectory stands out: down by nearly half from its 2013–14 peak and, since the March 2025 TIC release, behind both Japan and the United Kingdom. Whatever leverage a large Treasury position was once thought to confer, Beijing has spent a decade reducing its exposure to it.
 
 <figure class="book-figure">
   <img src="../figures/fig_07_01_treasury_holdings.png" alt="Panel A: lines of Treasury holdings by China, Japan and the United Kingdom. Panel B: bars of the ten largest foreign holders.">
@@ -71,7 +71,7 @@ China's renminbi remains a distant third despite China's 18% of global GDP (Worl
 Beyond reserves, the dollar dominates international trade invoicing and settlement:
 
 - **SWIFT RMB Tracker (January 2026, reporting December 2025)**: Global payments by value were 50.49% USD, 21.90% EUR, and 2.73% CNY; excluding euro-area internal payments, shares were 58.62% USD, 13.68% EUR, and 2.13% CNY
-- **Trade invoicing**: Estimated 40% of global trade invoiced in dollars, including trade not involving U.S. parties (Gopinath et al. 2020)
+- **Trade invoicing**: A share of world trade far larger than the U.S. share of it is invoiced in dollars, including trade not involving U.S. parties (Gopinath et al. 2020)
 - **Commodities**: Oil, gas, metals, agricultural products predominantly priced in dollars (the "petrodollar" system)
 
 **Why dollar invoicing matters for sanctions**: When trade is invoiced in dollars, payments flow through U.S. financial system or correspondent banks with U.S. connections. This creates jurisdiction for U.S. sanctions enforcement. A Chinese firm buying Brazilian soybeans in dollars must clear payment through U.S.-connected banks, giving Treasury visibility and control.
@@ -80,7 +80,7 @@ Beyond reserves, the dollar dominates international trade invoicing and settleme
 
 **Debt Denomination**
 
-Dollar-denominated debt owed by borrowers outside the United States totaled roughly $14 trillion in 2025, meaning debt issued by non-U.S. entities in dollars (BIS 2026):
+Dollar-denominated credit (bank loans and international bonds) to non-bank borrowers outside the United States totaled $14.3 trillion at end-2025, meaning debt issued by non-U.S. entities in dollars (BIS 2026):
 
 - **Emerging market sovereigns**: Many governments borrow in dollars, creating currency mismatches (borrow in dollars, earn revenue in local currency)
 - **Corporations**: Multinational firms issue dollar bonds to access deep U.S. capital markets
@@ -92,7 +92,7 @@ Dollar-denominated debt owed by borrowers outside the United States totaled roug
 
 **Society for Worldwide Interbank Financial Telecommunication (SWIFT)**
 
-Figure 7.2 records what has actually happened to currency shares over the period in which de-dollarization has been most discussed. The dollar's share of payment value rose after 2022 rather than falling, and the renminbi peaked in 2023 before receding. The sections that follow take the alternatives seriously without assuming they are winning.
+Figure 7.2 records what has actually happened to currency shares over the period in which de-dollarization has been most discussed. On the series SWIFT has published since 2023, the dollar's share of payment value rose rather than fell, and the renminbi peaked in 2023 before receding; SWIFT changed its data collection, so comparisons with earlier years should be read with care. The sections that follow take the alternatives seriously without assuming they are winning.
 
 <figure class="book-figure">
   <img src="../figures/fig_07_02_swift_currencies.png" alt="Panel A: lines of currency shares of SWIFT payments, with the dollar and euro leading. Panel B: line of the Chinese yuan's share.">
@@ -134,26 +134,26 @@ Most banks cannot directly clear international payments; instead they use corres
 
 **Sanctions mechanism**: Treasury can pressure correspondent banks to terminate relationships with sanctioned entities. If Bank B faces choice between access to U.S. financial system (profitable) or servicing sanctioned Bank A (risky, low-profit), Bank B terminates relationship. This "de-risking" cascades through banking system, effectively excluding sanctioned entities even from non-dollar transactions.
 
-**Example - North Korea isolation**: Following 2016-2017 nuclear tests, U.S. Treasury systematically pressured Chinese banks maintaining North Korean accounts (Zarate 2013). Bank of China, China Construction Bank, Agricultural Bank of China all terminated North Korean relationships. Combined with SWIFT access restrictions, North Korea became largely excluded from international banking and had to rely on cash couriers, shell companies, and cryptocurrency.
+**Example - North Korea isolation**: Following the 2016-2017 nuclear tests, Bank of China, China Construction Bank, and Agricultural Bank of China stopped opening accounts for North Koreans and began closing existing ones (CNBC, September 2017). Combined with SWIFT access restrictions, North Korea became largely excluded from international banking and had to rely on cash couriers, shell companies, and cryptocurrency.
 
 ### Financial Market Depth and Liquidity
 
 The depth and liquidity of U.S. financial markets add to the dollar's appeal:
 
 **U.S. Treasury Market**:
-- $27 trillion outstanding (2024) (U.S. Treasury), most liquid bond market globally
+- The largest and most liquid government bond market globally
 - Benchmark for global risk-free rate
 - Unmatched secondary market liquidity (can buy/sell billions instantly)
 - No viable alternative offers comparable scale, liquidity, and safety
 
 **Corporate Bond Markets**:
-- U.S. corporate bond market ~$10 trillion
-- European corporate bond market ~$4 trillion (fragmented across jurisdictions)
+- U.S. corporate bond market is the world's deepest
+- European corporate bond markets are smaller (fragmented across jurisdictions)
 - Asian corporate bond markets smaller, less liquid, more restricted
 
 **Equity Markets**:
-- U.S. stock market capitalization ~$50 trillion (40% of global)
-- Depth enables large capital raising (Apple $3 trillion market cap; Saudi Aramco IPO raised $29 billion in 2019 but still listed on Tadawul, not NYSE)
+- U.S. stock market capitalization is nearly half of the global total (SIFMA 2025)
+- Depth enables large capital raising (Apple's multi-trillion-dollar market cap; Saudi Aramco IPO raised $29 billion in 2019 but still listed on Tadawul, not NYSE)
 
 **Foreign Exchange Market**:
 - 89.2% of foreign exchange transactions involve the dollar (April 2025 BIS Triennial Survey)
@@ -210,7 +210,7 @@ Despite formidable advantages, U.S. financial power faces vulnerabilities:
 Expanding sanctions use creates incentives for alternatives:
 - As of 2024, over 30 countries face some form of U.S. sanctions (comprehensive or targeted) (OFAC 2024)
 - More than 12,000 individuals and entities on OFAC's SDN List (OFAC 2026)
-- Estimated 30% of global GDP in countries under some U.S. sanctions (Atlantic Council 2022)
+- A large and growing share of world output is produced in countries under U.S., EU or UN sanctions
 
 Widespread sanctions motivate targets and even neutral parties to develop alternatives, potentially eroding long-term U.S. leverage.
 
@@ -218,7 +218,7 @@ Widespread sanctions motivate targets and even neutral parties to develop altern
 
 Russia-China alignment creates critical mass for alternative systems:
 - Combined 20% of global GDP (World Bank WDI)
-- 40% of global population (World Bank WDI)
+- A large share of the world's population (World Bank WDI)
 - Significant commodity production (oil, gas, minerals)
 
 If Russia-China-led bloc develops interoperable payment systems and trades in national currencies, could create parallel financial infrastructure reducing dollar centrality.
@@ -263,7 +263,7 @@ Prohibit nearly all transactions with entire countries, requiring licenses for h
 
 - **Cuba**: Comprehensive embargo since 1962 (TWEA)
 - **North Korea**: Comprehensive sanctions since 2008, tightened repeatedly
-- **Syria**: Comprehensive sanctions since 2011
+- **Syria**: Comprehensive sanctions from 2011 until the program's termination by executive order on June 30, 2025
 - **Iran**: Comprehensive sanctions (1979-2015, reimposed 2018-present)
 
 Comprehensive sanctions effectively cut targets from U.S. economy and, through secondary sanctions and correspondent banking pressures, much of global financial system.
@@ -331,7 +331,7 @@ Sanctions laws provide humanitarian exceptions, yet implementation faces challen
 
 **Licensing delays**: While general licenses cover many humanitarian activities, complex projects may require specific licenses. Approval delays (months) hamper time-sensitive humanitarian response.
 
-**Chilling effect**: Even authorized activities face challenges when suppliers, shippers, insurers refuse involvement due to sanctions concerns. Comprehensive sanctions (Iran, Syria, North Korea) create environments where humanitarian aid becomes very difficult despite legal exemptions.
+**Chilling effect**: Even authorized activities face challenges when suppliers, shippers, insurers refuse involvement due to sanctions concerns. Comprehensive sanctions (Iran, North Korea, and Syria until mid-2025) create environments where humanitarian aid becomes very difficult despite legal exemptions.
 
 {% hint style="warning" %}
 **The De-Risking Problem**
@@ -377,13 +377,13 @@ Secondary sanctions force foreign companies to choose between the U.S. market an
 
 Iran secondary sanctions evolved through CISADA (2010, targeting foreign financial institutions conducting petroleum transactions), the NDAA (2012, expanding to Central Bank transactions), and additional Executive Orders, then suspended under the JCPOA (2015) before reimposition following U.S. withdrawal (2018). The mechanism forces foreign banks to choose between U.S. correspondent banking access and Iran business. "Significant transaction" is intentionally left vague, incentivizing maximum compliance through uncertainty.
 
-**Impact**: Iran's oil exports fell from ~2.5 million barrels/day (2017) to approximately 300,000-500,000 barrels/day (2019-2020), a reduction of roughly 80% (IEA 2020; Kpler 2021). Major global banks (HSBC, Standard Chartered, Deutsche Bank, BNP Paribas) ceased Iran transactions; SWIFT disconnected Iranian banks (2012, 2018); Iran could not access $100+ billion in frozen oil revenue. GDP fell approximately 8% cumulatively (2018-2020) (World Bank estimates). European companies (Total, Shell, Peugeot, Siemens, Airbus) withdrew from Iranian projects post-2018 despite EU opposition and the European Blocking Statute. Companies universally prioritized U.S. market access. China continued purchases at discounted prices under covert arrangements, but even Chinese banks were constrained by their correspondent banking relationships requiring U.S. access.
+**Impact**: Iran's oil exports fell from more than 2.5 million barrels/day (2017) to less than 0.4 million barrels/day (2020), a reduction of more than 80% (U.S. EIA). Major global banks (HSBC, Standard Chartered, Deutsche Bank, BNP Paribas) ceased Iran transactions; SWIFT disconnected Iranian banks (2012, 2018); Iran could not access $100+ billion in frozen oil revenue. GDP shrank an estimated 4.9% in 2018 and as much as 8.7% in 2019 (World Bank estimates). European companies (Total, Shell, Peugeot, Siemens, Airbus) withdrew from Iranian projects post-2018 despite EU opposition and the European Blocking Statute. Companies universally prioritized U.S. market access. China continued purchases at discounted prices under covert arrangements, but even Chinese banks were constrained by their correspondent banking relationships requiring U.S. access.
 
 ### Russia Secondary Sanctions (CAATSA)
 
 The **Countering America's Adversaries Through Sanctions Act (CAATSA, 2017)** mandates secondary sanctions on foreign persons engaging in "significant transactions" with Russian defense/intelligence sectors (Section 231) and energy pipeline construction (Section 232, targeting Nord Stream 2).
 
-Application revealed the political constraints on secondary sanctions against major powers. India's $5.4 billion S-400 purchase met CAATSA's criteria for mandatory sanctions, but the United States never imposed them (and never issued a formal waiver), choosing instead to let the matter lie given India's strategic importance. Turkey's S-400 acquisition led to CAATSA sanctions on Turkey's defense procurement agency (2020), a rare case of sanctioning a NATO ally; Turkey was also removed from the F-35 program. China-Russia arms sanctions had limited impact given minimal U.S. exposure. On Nord Stream 2, sanctions forced Dutch-Swiss pipelay company Allseas to withdraw (delaying construction), but the Biden administration ultimately waived sanctions to repair EU relations before reimposing them after Ukraine's invasion.
+Application revealed the political constraints on secondary sanctions against major powers. India's $5.4 billion S-400 purchase met CAATSA's criteria for mandatory sanctions, but the United States never imposed them, choosing instead to let the matter lie given India's strategic importance. Turkey's S-400 acquisition led to CAATSA sanctions on Turkey's defense procurement agency (2020), a rare case of sanctioning a NATO ally; Turkey was also removed from the F-35 program. China-Russia arms sanctions had limited impact given minimal U.S. exposure. On Nord Stream 2, sanctions forced Dutch-Swiss pipelay company Allseas to withdraw (delaying construction), but the Biden administration ultimately waived sanctions to repair EU relations before reimposing them after Ukraine's invasion.
 
 Compared to Iran, Russia secondary sanctions were narrower (defense/intelligence sectors vs. economy-wide), more constrained by geopolitical considerations, and implemented inconsistently through frequent waivers.
 
@@ -477,9 +477,9 @@ China has made measured progress internationalizing the renminbi:
 
 **Trade settlement**: ~25% of China's trade settled in RMB (2024), up from ~10% (2015) (PBOC; SWIFT RMB Tracker). China-Russia bilateral trade increasingly in local currencies (50%+ in RMB/ruble).
 
-**Bond issuance**: "Panda bonds" (RMB bonds issued in China by foreign entities) and "Dim Sum bonds" (RMB bonds issued offshore) provide debt markets. However, combined issuance ~$100 billion, small compared to the $27 trillion U.S. Treasury market.
+**Bond issuance**: "Panda bonds" (RMB bonds issued in China by foreign entities) and "Dim Sum bonds" (RMB bonds issued offshore) provide debt markets. However, combined issuance ~$100 billion, small compared to the U.S. Treasury market.
 
-**Currency swap agreements**: People's Bank of China established currency swap lines with 40+ central banks totaling ~$550 billion, enabling RMB liquidity provision (PBOC).
+**Currency swap agreements**: People's Bank of China established currency swap lines with 40+ central banks, about 4.2 trillion yuan in force in early 2024, enabling RMB liquidity provision (PBOC).
 
 **Belt and Road Initiative**: China encourages BRI project financing in RMB, expanding currency use among developing countries.
 
@@ -535,7 +535,7 @@ BRICS (Brazil, Russia, India, China, South Africa; expanded 2024 to include Iran
 **Challenges**:
 
 **Divergent Interests**:
-- **China** dominates BRICS economically (70%+ of combined GDP, per World Bank WDI); RMB-centric system serves Chinese interests
+- **China** dominates BRICS economically (by far the largest economy in the group); RMB-centric system serves Chinese interests
 - **India** wary of Chinese dominance; reluctant to embrace Chinese-led financial infrastructure
 - **Russia** needs alternatives urgently but peripheral economic player
 - **Brazil, South Africa** have closer economic ties to U.S./West than to China
@@ -568,7 +568,7 @@ Currency backed by these economies unlikely to inspire confidence as reserve ass
 
 Over 100 countries (representing 95%+ of global GDP) exploring CBDCs (Atlantic Council CBDC Tracker 2024); several operational:
 
-- **China e-CNY (Digital Yuan)**: Pilot program since 2020; used by 260+ million people domestically (PBOC 2024). Cross-border pilots with Hong Kong, Thailand, UAE testing international CBDC transactions.
+- **China e-CNY (Digital Yuan)**: Pilot program since 2020; 261 million individual wallets opened by January 2022 (PBOC), though active use is far smaller. Cross-border pilots with Hong Kong, Thailand, UAE testing international CBDC transactions.
 - **Russia Digital Ruble**: Pilot launched 2023; aims to reduce sanctions vulnerability by enabling domestic and cross-border transactions outside U.S.-dominated infrastructure.
 - **EU Digital Euro**: Development phase; goals include efficiency, financial inclusion, and euro sovereignty (reducing dependence on U.S. payment providers like Visa, Mastercard).
 - **India e-Rupee**: Pilot since 2022; focuses on financial inclusion and domestic payment efficiency.
@@ -589,7 +589,7 @@ Over 100 countries (representing 95%+ of global GDP) exploring CBDCs (Atlantic C
 
 Some states increased gold reserves to diversify away from dollars:
 - **Russia**: Accumulated gold reserves (over 20% of total reserves before the 2022 invasion); the central bank's monetary gold holdings then stayed roughly flat through 2022–2024, with net drawdowns beginning only in 2025 as budget and currency pressures mounted (World Gold Council; Bank of Russia)
-- **China**: Steady gold purchases; officially 4% of reserves but potentially underreported (World Gold Council)
+- **China**: Steady gold purchases; officially a single-digit share of reserves by value but potentially underreported (World Gold Council)
 - **Central banks globally**: Net purchasers since 2010 after decades of selling
 
 **Limitations**: Gold generates no yield, volatile, difficult to transact for modern commerce. Useful for value storage but not medium of exchange or unit of account. Can't build financial system on gold without returning to gold standard constraints (fixed exchange rates, monetary policy inflexibility).
@@ -605,7 +605,7 @@ Proposals to back BRICS currency with commodities (oil, gas, minerals) face simi
 **Bitcoin and Cryptocurrencies**
 
 Some sanctioned actors use cryptocurrencies to evade restrictions:
-- **North Korea**: Estimated $6+ billion stolen through cryptocurrency hacking/theft since 2017. The thefts include the roughly $1.5 billion Bybit heist of February 2025, the largest crypto theft on record, which the FBI attributed to the Lazarus Group (FBI 2025; TRM Labs 2025). Proceeds were used for regime and weapons financing
+- **North Korea**: Billions of dollars stolen through cryptocurrency hacking/theft in recent years. The thefts include the roughly $1.5 billion Bybit heist of February 2025, the largest crypto theft on record, which the FBI attributed to North Korea (its "TraderTraitor" activity) (FBI 2025; TRM Labs 2025). Proceeds were used for regime and weapons financing
 - **Iran**: Some oil sales conducted in cryptocurrency
 - **Russia**: Limited cryptocurrency use for sanctions evasion (most trade still requires traditional finance)
 
@@ -615,7 +615,7 @@ Some sanctioned actors use cryptocurrencies to evade restrictions:
 - **Traceability**: Blockchain transactions pseudo-anonymous but traceable; U.S. sanctions authorities increasingly effective at tracking illicit crypto flows
 - **Adoption**: No major economy accepts cryptocurrency for taxes or official transactions; limited utility for state-level commerce
 
-**Stablecoins**: Dollar-pegged cryptocurrencies (USDT, USDC) are the largest crypto by volume, but they reinforce dollar dominance by creating digital dollars rather than alternatives. U.S. policy has since embraced this logic explicitly. The GENIUS Act (Guiding and Establishing National Innovation for U.S. Stablecoins Act), signed into law in July 2025, sets an at-least-one-for-one reserve requirement for permitted issuers, allowing cash, deposits, short-term Treasuries, and other specified liquid assets, potentially increasing demand for U.S. government debt. Framed by its sponsors as a way to "extend the dollar's dominance" into digital finance, the statute is best read as a deliberate dollar-extension strategy: Washington is channeling crypto into instruments that deepen dollar centrality. This is the mirror image of the de-dollarization efforts surveyed above, and it is a live counterargument to forecasts of dollar decline (see Chapter 10's de-dollarization scenarios).
+**Stablecoins**: Dollar-pegged cryptocurrencies (USDT, USDC) are the largest crypto by volume, but they reinforce dollar dominance by creating digital dollars rather than alternatives. U.S. policy has since embraced this logic explicitly. The GENIUS Act (Guiding and Establishing National Innovation for U.S. Stablecoins Act), signed into law in July 2025, sets an at-least-one-for-one reserve requirement for permitted issuers, allowing cash, deposits, short-term Treasuries, and other specified liquid assets, potentially increasing demand for U.S. government debt. Its Senate sponsor, Bill Hagerty, said it would "cement US dollar dominance" (Hagerty-Gillibrand statement, May 16, 2025); the statute is best read as a deliberate dollar-extension strategy: Washington is channeling crypto into instruments that deepen dollar centrality. This is the mirror image of the de-dollarization efforts surveyed above, and it is a live counterargument to forecasts of dollar decline (see Chapter 10's de-dollarization scenarios).
 
 **Assessment**: Cryptocurrencies enable marginal sanctions evasion for small transactions and illicit actors but cannot support large-scale international trade or serve as reserve currency. More likely to complement than replace dollar.
 
@@ -745,7 +745,7 @@ Chinese Foreign Ministry statements routinely condemn U.S. "long-arm jurisdictio
 **Financial security** represents core Chinese national security priority alongside military, food, and energy security. Key dimensions:
 
 - **Payment system independence**: Ability to conduct international transactions without U.S./Western infrastructure dependencies
-- **Reserve safety**: Protecting foreign exchange reserves ($3.2 trillion, world's largest) from confiscation or freezing (PBOC)
+- **Reserve safety**: Protecting foreign exchange reserves (over $3 trillion, world's largest) from confiscation or freezing (PBOC)
 - **Capital account control**: Managing cross-border capital flows to prevent destabilizing speculation or capital flight
 - **Systemic stability**: Preventing external shocks (sanctions, financial crises) from destabilizing domestic financial system
 
@@ -815,24 +815,24 @@ China systematically developing alternatives to U.S.-dominated financial systems
 **Cross-Border Interbank Payment System (CIPS)**: China's RMB cross-border payments network, launched in 2015 and aiming eventually for full independence from SWIFT messaging; its scale, participant base, and volume are detailed in this chapter's earlier de-dollarization discussion.
 
 **Digital Yuan (e-CNY)**:
-- CBDC pilot since 2020; 260+ million users domestically
+- CBDC pilot since 2020; 261 million individual wallets opened by January 2022 (PBOC)
 - Cross-border pilots (mBridge) with Hong Kong, Thailand, UAE, Saudi Arabia
 - Enables direct central bank settlements bypassing correspondent banking
 - Potential for sanctions-resistant transactions in digital currency
 
 {% hint style="success" %}
 **The e-CNY's Potential**
-China's digital yuan (e-CNY) is the most ambitious central bank digital currency project globally, and with 260+ million domestic users it is no longer experimental. The cross-border applications matter more: the mBridge project with Hong Kong, Thailand, UAE, and Saudi Arabia shows how CBDCs could enable direct central-bank-to-central-bank settlements, bypassing SWIFT and the correspondent banking system entirely. If successful, this could provide sanctioned countries a viable alternative to the dollar-based system.
+China's digital yuan (e-CNY) is the most ambitious central bank digital currency project globally, and with 261 million individual wallets opened by early 2022 it is no longer a laboratory exercise. The cross-border applications matter more: the mBridge project with Hong Kong, Thailand, UAE, and Saudi Arabia shows how CBDCs could enable direct central-bank-to-central-bank settlements, bypassing SWIFT and the correspondent banking system entirely. If successful, this could provide sanctioned countries a viable alternative to the dollar-based system.
 {% endhint %}
 
 **RMB Internationalization**:
-- Bilateral currency swap agreements with 40+ central banks ($550+ billion)
+- Bilateral currency swap agreements with 40+ central banks (about 4.2 trillion yuan in force, early 2024)
 - Encouraging BRI countries to use RMB for trade and investment
 - Shanghai-Hong Kong Stock Connect, Bond Connect increasing foreign access to RMB assets
 - RMB now ~1.93% of global reserves (2025Q3), ~25% of China's trade settlement (IMF COFER; SWIFT RMB Tracker)
 
 **Gold Reserves and Commodities**:
-- Steady gold accumulation (officially ~4% of reserves, potentially more)
+- Steady gold accumulation (officially a single-digit share of reserves by value, potentially more)
 - Shanghai Gold Exchange (largest physical gold market globally)
 - Commodity trading in RMB (Shanghai oil futures, iron ore, LNG contracts)
 
@@ -845,7 +845,7 @@ China's **Rules on Counteracting Unjustified Extra-territorial Application of Fo
 - Recovery of damages from entities complying with foreign sanctions
 - Retaliatory measures against foreign entities enforcing extraterritorial rules
 
-**Unreliable Entity List (不可靠实体清单, bù kě kào shítǐ qīngdān)**: Announced in 2019 and implemented in September 2020 as a mirror of the U.S. Entity List, it designates foreign entities "endangering China's sovereignty, security, development interests" and exposes them to restrictions on trade, investment, and entry into China. Its principal use is deterrent, raising the cost of foreign compliance with U.S. sanctions against Chinese firms—and Chapter 6 examines its design and application in detail.
+**Unreliable Entity List (不可靠实体清单, bù kě kào shítǐ qīngdān)**: Announced in 2019 and implemented in September 2020 as a mirror of the U.S. Entity List, it designates foreign entities that "endanger the national sovereignty, national security or development interests of China" and exposes them to restrictions on trade, investment, and entry into China. Its principal use is deterrent, raising the cost of foreign compliance with U.S. sanctions against Chinese firms—and Chapter 6 examines its design and application in detail.
 
 **Anti-Foreign Sanctions Law (反外国制裁法, fǎn wàiguó zhìcái fǎ)** (2021): Authorizes counter-measures against foreign sanctions: asset freezes against the foreign individuals and entities that impose them, a prohibition on Chinese persons complying with them, and visa denials for the officials involved. Chapter 6 gives the fuller account; in the financial domain the statute's distinctive instrument is the asset freeze, a reciprocal blocking tool aimed at sanctioning parties.
 
@@ -867,7 +867,7 @@ China faces strategic tension:
 - Policy constraints (capital controls limit monetary policy independence; opening creates instability risks)
 
 **Chinese Approach: Hedged Integration**:
-- Maintain substantial dollar reserves ($3.2 trillion total reserves) but gradually diversify (gold, euros, RMB assets)
+- Maintain substantial dollar reserves (over $3 trillion in total reserves) but gradually diversify (gold, euros, RMB assets)
 - Participate in U.S.-centered system (SWIFT member, dollar transactions) while building alternatives (CIPS, digital yuan)
 - Open selected markets to foreign capital (bonds, some equities) while maintaining capital controls and state oversight
 - Engage in international institutions (IMF, BIS) while supporting alternatives (BRICS NDB, Asian Infrastructure Investment Bank)
@@ -892,13 +892,13 @@ Chinese perspectives reflect different historical experiences, political system,
 
 ### The View from the "New Neutrals"
 
-For much of the Global South, the 101 countries that Bloomberg (2024) identified as "new neutrals," the weaponization of the dollar and Western financial infrastructure is a lived experience of constrained sovereignty. Countries that depend on dollar-denominated trade, SWIFT-based payments, and IMF-conditioned lending experience financial sanctions as assertions of a hierarchical international order in which their policy autonomy is contingent on Western approval. This perspective, rooted in the Non-Aligned Movement's legacy and articulated with increasing sophistication through BRICS+, represents the fastest-growing challenge to U.S. financial primacy. The Global South cannot replace the dollar, but collective resistance is eroding the political legitimacy that underpins dollar dominance.
+For much of the Global South, the more than 100 countries that Bloomberg (2024) described as benefiting from the shifting landscape as "new neutrals," the weaponization of the dollar and Western financial infrastructure is a lived experience of constrained sovereignty. Countries that depend on dollar-denominated trade, SWIFT-based payments, and IMF-conditioned lending experience financial sanctions as assertions of a hierarchical international order in which their policy autonomy is contingent on Western approval. This perspective, rooted in the Non-Aligned Movement's legacy and articulated with increasing sophistication through BRICS+, represents the fastest-growing challenge to U.S. financial primacy. The Global South cannot replace the dollar, but collective resistance is eroding the political legitimacy that underpins dollar dominance.
 
 ### Historical Context: From Non-Alignment to Multi-Alignment
 
 The Non-Aligned Movement (NAM), born at the 1955 Bandung Conference and formally established in 1961, represented the first collective effort by developing nations to resist being instrumentalized in great-power competition. Its founding principle, that newly independent states should not be forced to choose sides, reflected hard experience: colonial powers had leveraged economic dependence to maintain political control long after formal independence.
 
-Contemporary scholars distinguish today's Global South strategy from Cold War non-alignment. Jorge Heine (2025) describes **active non-alignment** (*no alineamiento activo*) as strategic engagement with all major powers simultaneously to maximize national advantage, in contrast to passive equidistance between blocs. India purchases discounted Russian oil while deepening defense ties with Washington through the Quad. Brazil settles 40% of its trade with China in yuan while maintaining its status as a Major Non-NATO Ally. Saudi Arabia engages BRICS+ (invited in 2023, though it has never formalized membership) while hosting U.S. military facilities. Turkey, a NATO member, becomes Russia's third-largest fossil fuel customer while mediating the Black Sea Grain Initiative. The common thread is pragmatism rather than ideology. Amitav Acharya calls the result a "multiplex world" in which consequential middle powers refuse the binary choices that great-power competition demands.
+Contemporary scholars distinguish today's Global South strategy from Cold War non-alignment. Jorge Heine (2025) describes **active non-alignment** (*no alineamiento activo*) as strategic engagement with all major powers simultaneously to maximize national advantage, in contrast to passive equidistance between blocs. India purchases discounted Russian oil while deepening defense ties with Washington through the Quad. Brazil has agreed a yuan swap line with China while maintaining its status as a Major Non-NATO Ally. Saudi Arabia engages BRICS+ (invited in 2023, though it has never formalized membership) while hosting U.S. military facilities. Turkey, a NATO member, becomes Russia's third-largest fossil fuel customer while mediating the Black Sea Grain Initiative. The common thread is pragmatism rather than ideology. Amitav Acharya calls the result a "multiplex world" in which consequential middle powers refuse the binary choices that great-power competition demands.
 
 ### Key Global South Concepts
 
@@ -915,7 +915,7 @@ These bilateral arrangements remain small relative to global dollar flows. Their
 
 **South-South Cooperation and Institutional Alternatives**
 
-The Global South's response to perceived financial hegemony has been institutional as well as bilateral. The BRICS New Development Bank (NDB), headquartered in Shanghai and led since 2023 by former Brazilian President Dilma Rousseff, has approved $40 billion across 122 projects (NDB Annual Report 2024), with approximately 25% of lending denominated in local currencies rather than dollars, which challenges the dollar-denominated lending model of the World Bank and regional development banks. The Asian Infrastructure Investment Bank (AIIB), with 110 member nations including major European states, approved $8.4 billion in 2024 alone, with cumulative approvals exceeding $60 billion (AIIB Annual Report 2024).
+The Global South's response to perceived financial hegemony has been institutional as well as bilateral. The BRICS New Development Bank (NDB), headquartered in Shanghai and led since 2023 by former Brazilian President Dilma Rousseff, had a portfolio of about $35 billion across 105 projects at the end of 2024 (NDB Annual Report 2024), with roughly a quarter of it denominated in local currencies rather than dollars, which challenges the dollar-denominated lending model of the World Bank and regional development banks. The Asian Infrastructure Investment Bank (AIIB), with 110 member nations including major European states, approved $8.4 billion in 2024 alone, with cumulative approvals exceeding $60 billion (AIIB Annual Report 2024).
 
 The World Bank lent approximately $73 billion in FY2024 (World Bank Annual Report 2024), so these institutions do not yet rival the Bretton Woods incumbents in scale. They do offer something those institutions often cannot: lending without Washington Consensus conditionality. For governments that experienced IMF structural adjustment programs as instruments of ideological discipline (privatization requirements, fiscal austerity mandates, market liberalization conditions), the NDB and AIIB represent alternative development philosophies as well as alternative funding sources.
 
@@ -960,7 +960,7 @@ The Western response to Russia's 2022 invasion of Ukraine has been the single mo
 - Seizing private assets on the basis of nationality
 - Imposing secondary sanctions forcing third countries to choose sides
 
-India, with $660 billion in foreign exchange reserves (Reserve Bank of India) held substantially in Western institutions, drew immediate lessons. So did Saudi Arabia ($450 billion), Brazil ($350 billion) (IMF data), and dozens of smaller nations. The rational response (diversify reserves, build alternative payment channels, reduce dollar exposure) is prudent risk management in a world where financial infrastructure has been weaponized.
+India, with foreign exchange reserves of several hundred billion dollars (Reserve Bank of India) held substantially in Western institutions, drew immediate lessons. So did Saudi Arabia, Brazil, and dozens of smaller nations. The rational response (diversify reserves, build alternative payment channels, reduce dollar exposure) is prudent risk management in a world where financial infrastructure has been weaponized.
 
 ### The Limits of Global South Resistance
 
@@ -985,7 +985,7 @@ The Global South perspective suggests several strategic considerations:
 
 4. **Humanitarian consequences undermine moral authority**: The Global South's strongest rhetorical weapon against sanctions is their humanitarian impact. Demonstrating that sanctions are carefully targeted, time-limited, and include humanitarian exceptions would not eliminate Global South opposition but would reduce its political potency
 
-5. **The "coalitions of the aggrieved" are real**: When 101 countries identify as "new neutrals" and BRICS+ membership applications multiply, this is a market signal that the political cost of dollar weaponization is rising. Prudent strategy would seek to lower this cost rather than dismiss the signal
+5. **The "coalitions of the aggrieved" are real**: When more than 100 countries are counted as "new neutrals" and BRICS+ membership applications multiply, this is a market signal that the political cost of dollar weaponization is rising. Prudent strategy would seek to lower this cost rather than dismiss the signal
 
 Global South perspectives on financial sanctions are neither uniformly hostile nor uniformly coherent. They range from India's pragmatic hedging to Iran's ideological opposition to Brazil's principled multilateralism. What unites them is a shared conviction that the international financial architecture should serve all participants, not function as a coercive instrument of any single power, and an increasing willingness to build alternatives when it does.
 
@@ -1011,7 +1011,7 @@ Secondary sanctions threaten penalties against **non-U.S. persons** that transac
 
 The mechanism operates through cascading compliance: Congress specifies triggering transactions, the President selects from a menu of consequences (blocking property, prohibiting correspondent banking, denying export licenses), and foreign banks rationally terminate target relationships to preserve U.S. market access. As major banks comply, smaller banks lose correspondent access, isolating them alongside targets.
 
-**Demonstrated effectiveness**: Pre-JCPOA Iran isolation (2012-2015) remains the paradigm case. SWIFT disconnected Iranian banks, CISADA caused virtually all major banks to terminate Iranian relationships, oil exports fell from 2.5 million to ~1 million barrels/day, the rial lost 80% of its value, and inflation exceeded 40%, pressures that contributed to Iran's decision to negotiate (Nephew 2017).
+**Demonstrated effectiveness**: Pre-JCPOA Iran isolation (2012-2015) remains the paradigm case. SWIFT disconnected Iranian banks, CISADA caused virtually all major banks to terminate Iranian relationships, oil exports fell from 2.5 million to ~1 million barrels/day, the rial lost roughly 60% of its value against the dollar, and inflation was rampant, pressures that contributed to Iran's decision to negotiate (Nephew 2017).
 
 **Strengths**: Force-multiplier effect (single determination triggers hundreds of bank compliance decisions), leverages structural dollar dominance, overcomes free-rider problems. **Limitations**: Sovereignty backlash and alliance strain (EU Blocking Statute, India/Turkey friction); de-dollarization incentive (CIPS, BRICS alternatives); diminishing marginal returns as programs multiply; and humanitarian harm from over-compliance chilling legitimate transactions
 
@@ -1115,5 +1115,13 @@ U.S. Department of the Treasury. 2022. "Treasury Prohibits Transactions with Cen
 U.S. Department of the Treasury. 2021. "Sanctions Review." October.
 
 OFAC Sanctions Programs: https://home.treasury.gov/policy-issues/financial-sanctions
+
+CNBC. 2017. "China's Biggest Banks Ban New North Korean Accounts." September 11.
+
+Hagerty, Bill, and Kirsten Gillibrand. 2025. "Hagerty, Gillibrand Statement on GENIUS Act." Press release, May 16. https://www.hagerty.senate.gov
+
+SIFMA. 2025. *2025 Capital Markets Fact Book*. Securities Industry and Financial Markets Association.
+
+U.S. Energy Information Administration (EIA). 2021. "Iran's Crude Oil Production Fell to an Almost 40-Year Low in 2020." *Today in Energy*. https://www.eia.gov/todayinenergy/detail.php?id=49116
 
 Council of the European Union. 2022. Council Regulation (EU) 2022/345, March 1. Restrictions on specialized financial messaging services to listed Russian banks. https://eur-lex.europa.eu/eli/reg/2022/345/oj
