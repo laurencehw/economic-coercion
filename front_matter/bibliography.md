@@ -347,11 +347,11 @@ General Administration of Customs of the People's Republic of China (GACC). 2020
 
 Ministry of Commerce of the People's Republic of China (MOFCOM). 2020. Announcements No. 14 of 2020 (barley) and No. 55 of 2020 (wine).
 
-Ministry of Commerce of the People's Republic of China (MOFCOM). 2022. *White Paper on China's Export Controls* (中国的出口管制). State Council Information Office, December.
-
 Ministry of Finance of the People's Republic of China. 2024. "Announcement on the Establishment of the National Integrated Circuit Industry Investment Fund Phase III" (关于国家集成电路产业投资基金三期成立的公告). May 24.
 
 State Council Information Office, PRC. 2021. "China's International Development Cooperation in the New Era." White Paper, January.
+
+State Council Information Office, PRC. 2021. *China's Export Controls* (中国的出口管制). White Paper, December.
 
 State Council of the People's Republic of China. 2015. "Made in China 2025" (中国制造2025). Guofa [2015] No. 28. May.
 

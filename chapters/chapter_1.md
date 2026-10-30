@@ -41,7 +41,7 @@ The resulting measures, announced on October 7, 2022, were broad in scope (Allen
 
 The measures also reached people rather than products. Under the new "U.S. person" rule, American citizens and green card holders were prohibited from supporting the development or production of advanced chips at Chinese facilities, including facilities not otherwise subject to U.S. jurisdiction. Here economic statecraft targeted individual engineers and their career choices, not rival governments or firms.
 
-Beijing's response combined public protest with a concerted domestic effort. Foreign Ministry spokespeople denounced "technological hegemony" and "economic bullying," and the Ministry of Commerce pledged to "resolutely safeguard the legitimate rights and interests of Chinese companies." The more consequential response came from policy and industry. Beijing accelerated its "dual circulation" strategy and directed substantial resources toward domestic semiconductor development despite formidable technical obstacles. It opened antitrust and data-security investigations into American firms such as Micron. And in July 2023 it imposed export controls on gallium and germanium, metals critical to semiconductors and defense applications, demonstrating that chokepoint leverage runs in both directions.
+Beijing's response combined public protest with a concerted domestic effort. Foreign Ministry spokesperson Mao Ning denounced the measures as an abuse of trade measures meant to preserve American "technological hegemony," and the Ministry of Commerce called the U.S. escalation "technology bullying." The more consequential response came from policy and industry. Beijing accelerated its "dual circulation" strategy and directed substantial resources toward domestic semiconductor development despite formidable technical obstacles. It opened antitrust and data-security investigations into American firms such as Micron. And in July 2023 it imposed export controls on gallium and germanium, metals critical to semiconductors and defense applications, demonstrating that chokepoint leverage runs in both directions.
 
 The United States and China are engaged in a struggle over the leading technologies of the twenty-first century, and economic tools have become its primary instruments. Neither side launched missiles or moved troops; each manipulated supply chain dependencies, restricted access to critical inputs, and used regulatory authority to reshape global commerce.
 
@@ -132,7 +132,7 @@ Economic coercion involves three elements. First, **an economic measure** that i
 
 Economic coercion operates through two mechanisms. **Denial** seeks to prevent the target from accessing resources, technologies, or markets necessary for objectionable activities. Export controls on semiconductor manufacturing equipment aim to prevent China from developing cutting-edge AI capabilities by denying access to necessary inputs. This does not require the target to choose compliance; it physically prevents the unwanted activity. **Punishment** inflicts costs to change the target's cost-benefit calculation, making continued defiance more painful than compliance. Financial sanctions on Russia following its invasion of Ukraine aim to impose sufficient economic pain that Moscow reassesses the costs of continuing the war. This requires the target to choose compliance in response to pain.
 
-Effectiveness is contingent and contested. Economic coercion succeeds when targets comply at acceptable cost to the coercer. But success rates are modest. The most-cited dataset finds that sanctions achieve at least partial success in roughly a third of cases, about 34% across 174 case studies (Hufbauer, Schott, Elliott, and Oegg 2007). Effectiveness varies widely with objective (modest policy changes easier than regime change), target regime type (democracies more vulnerable to economic pain than autocracies), and duration (effectiveness often declines over time as targets adapt). Export controls can effectively deny capabilities if the denied input is critical and cannot be substituted, but targets often find workarounds or develop indigenous alternatives over time.
+Effectiveness is contingent and contested. Economic coercion succeeds when targets comply at acceptable cost to the coercer. But success rates are modest. The most-cited dataset finds that sanctions achieve at least partial success in roughly a third of cases, about 34% across 204 sanctions episodes (Hufbauer, Schott, Elliott, and Oegg 2007). Effectiveness varies widely with objective (modest policy changes easier than regime change), target regime type (democracies more vulnerable to economic pain than autocracies), and duration (effectiveness often declines over time as targets adapt). Export controls can effectively deny capabilities if the denied input is critical and cannot be substituted, but targets often find workarounds or develop indigenous alternatives over time.
 
 Economic coercion also generates strategic costs. It may damage commercial interests in the coercing state, alienate allies who bear costs without seeing benefits, provoke retaliation, accelerate target efforts to reduce dependency, or undermine the coercer's long-term leverage by encouraging development of alternative systems. The challenge is achieving objectives before these second-order costs become prohibitive.
 
@@ -163,19 +163,19 @@ Figure 1.2 traces that relationship from 2000 to 2024. Two features deserve atte
   <figcaption>Figure 1.2: US-China Trade Volume and Key Events (2000-2024)</figcaption>
 </figure>
 
-But integration also created structural dependencies and distributional consequences that would later fuel tensions. American manufacturing employment declined sharply. Research by Autor, Dorn, and Hanson estimated that competition from Chinese imports eliminated 2.4 million U.S. jobs between 1999 and 2011 (Autor, Dorn, and Hanson 2016), though the overall role of trade versus automation remains contested (some researchers attribute a smaller share of manufacturing decline to trade, with automation and other factors explaining the remainder). China accumulated large foreign exchange reserves ($2 trillion by 2008, per IMF data) and became the largest foreign holder of U.S. Treasury securities, creating mutual financial dependencies. Technology transfer accelerated China's industrial upgrading; it was sometimes voluntary through joint ventures, sometimes coerced through requirements for market access, and sometimes illicit through cyber espionage.
+But integration also created structural dependencies and distributional consequences that would later fuel tensions. American manufacturing employment declined sharply. Research by Autor, Dorn, and Hanson estimated that competition from Chinese imports eliminated 2.4 million U.S. jobs between 1999 and 2011 (Autor, Dorn, and Hanson 2016), though the overall role of trade versus automation remains contested (some researchers attribute a smaller share of manufacturing decline to trade, with automation and other factors explaining the remainder). China accumulated large foreign exchange reserves (nearly $2 trillion by the end of 2008) and became the largest foreign holder of U.S. Treasury securities, creating mutual financial dependencies. Technology transfer accelerated China's industrial upgrading; it was sometimes voluntary through joint ventures, sometimes coerced through requirements for market access, and sometimes illicit through cyber espionage.
 
-For China, this period represented a strategic opportunity. Deng Xiaoping's guidance to "hide capabilities and bide time" (韬光养晦, tāoguāng yǎnghuì) meant avoiding confrontation while building comprehensive national power. Economic growth became the foundation for eventual great power status. The strategy worked: China sustained average annual GDP growth above 10%, lifting hundreds of millions out of poverty while building infrastructure and industrial capacity on a very large scale.
+For China, this period represented a strategic opportunity. Deng Xiaoping's guidance to "hide capabilities and bide time" (韬光养晦, tāoguāng yǎnghuì) meant avoiding confrontation while building comprehensive national power. Economic growth became the foundation for eventual great power status. The strategy worked: China sustained average annual real GDP growth of nearly 10% (9.5% from 1979 to 2018), lifting hundreds of millions out of poverty while building infrastructure and industrial capacity on a very large scale.
 
 #### Phase 2: Growing Tensions (2008-2016)
 
-The 2008 financial crisis was the inflection point. China maintained growth through massive fiscal stimulus while Western economies struggled, breeding confidence that the "East is rising, West is declining" (东升西降, dōng shēng xī jiàng). This manifested in more assertive economic statecraft: informal rare earth export restrictions against Japan (2010), retaliatory investigations against EU wine imports (2012), and growing state-backed cyber espionage campaigns (exposed by the 2013 Mandiant report on PLA Unit 61398).
+The 2008 financial crisis was the inflection point. China maintained growth through massive fiscal stimulus while Western economies struggled, breeding confidence that the "East is rising, West is declining" (东升西降, dōng shēng xī jiàng). This manifested in more assertive economic statecraft: informal rare earth export restrictions against Japan (2010), retaliatory investigations against EU wine imports (2013), and growing state-backed cyber espionage campaigns (exposed by the 2013 Mandiant report on PLA Unit 61398).
 
 American concerns intensified around IP theft, forced technology transfer, industrial subsidies creating overcapacity (steel, aluminum, solar), and currency manipulation. "Made in China 2025" (2015), which targeted Chinese leadership in ten strategic sectors, crystallized Western anxieties by making explicit China's intention to reduce dependence on Western technology. By 2016, two-way goods trade approached $580 billion annually (U.S. Census Bureau), but the political consensus supporting engagement had fractured.
 
 #### Phase 3: Strategic Competition (2017-Present)
 
-The 2017 National Security Strategy designated China a "strategic competitor" seeking to "erode American security and prosperity" (White House 2017), a reframing from partner to rival. Economic statecraft became the primary domain of competition.
+The 2017 National Security Strategy named China, with Russia, a "revisionist power" attempting to "erode American security and prosperity" (White House 2017), a reframing from partner to rival. Economic statecraft became the primary domain of competition.
 
 Figure 1.3 arranges the principal episodes chronologically. The clustering is the point: the density of events after 2017 reflects the maturation of instruments (entity lists, foreign direct product rules, investment screening) that barely existed in usable form a decade earlier, as well as more assertive policy.
 
@@ -184,7 +184,7 @@ Figure 1.3 arranges the principal episodes chronologically. The clustering is th
   <figcaption>Figure 1.3: Timeline of Major Economic Coercion Events</figcaption>
 </figure>
 
-The Trump administration imposed tariffs covering ~$370 billion in Chinese imports; China retaliated against American agriculture and industrial goods. But tariffs were the most visible, not the most consequential, component. The 2018 ECRA and FIRRMA expanded technology export controls and investment screening. Entity List additions blocked Huawei, ZTE, SMIC, and YMTC from American technology. The October 2022 semiconductor controls represented the culmination: comprehensive capability-based restrictions analyzed in Chapter 4.
+The Trump administration imposed tariffs covering ~$360 billion in Chinese imports; China retaliated against American agriculture and industrial goods. But tariffs were the most visible, not the most consequential, component. The 2018 ECRA and FIRRMA expanded technology export controls and investment screening. Entity List additions blocked Huawei, ZTE, SMIC, and YMTC from American technology. The October 2022 semiconductor controls represented the culmination: comprehensive capability-based restrictions analyzed in Chapter 4.
 
 The Biden administration maintained technology competition while shifting toward proactively building advantages: the CHIPS Act ($52 billion for domestic semiconductors), the Inflation Reduction Act (clean energy subsidies with Chinese content restrictions), and expanded controls on quantum computing, AI chips, and biotech. China responded with its own "dual circulation" strategy, counter-legislation (Export Control Law 2020, Anti-Foreign Sanctions Law 2021), critical mineral export restrictions (gallium, germanium), and massive semiconductor self-sufficiency investment.
 
@@ -234,7 +234,7 @@ The resulting U.S. approach is asymmetric restriction: comprehensive controls on
 
 Europe's central strategic dilemma is captured in the phrase "economic China, security America" (*Wirtschaftlich China, sicherheitspolitisch Amerika*). European economies are deeply integrated with China:
 
-- **Germany**: Has exported €87-123 billion annually to China in recent years (peaking around 2021-2022); automotive sector (Volkswagen, BMW, Mercedes) derives 25-35% of profits from Chinese sales; chemical industry (BASF) operates massive Chinese production facilities.
+- **Germany**: Exported about €107 billion to China in 2022, its recent peak; automotive sector (Volkswagen, BMW, Mercedes) derives 25-35% of profits from Chinese sales; chemical industry (BASF) operates massive Chinese production facilities.
 - **France**: Luxury goods (LVMH, Kering, Hermès) derive 30-40% of revenue from Chinese consumers; aerospace (Airbus) counts China as largest market.
 - **Netherlands**: ASML (sole EUV lithography producer) derives a substantial share of revenue from China (29% in 2023, surging higher in 2024 as customers stockpiled DUV machines before restrictions tightened); agricultural exports depend on Chinese demand.
 
@@ -250,7 +250,7 @@ This creates Europe's dilemma: economic interests push toward engagement with Ch
 The European Union has emphasized "strategic autonomy" since 2019, building capacity for independent action in trade, technology, and defense:
 
 **Economic resilience:**
-- **European Chips Act (2023)**: €43 billion to double EU semiconductor production to 20% of global output by 2030
+- **European Chips Act (2023)**: at least €43 billion in public investment, aimed at doubling the EU's share of the global semiconductor market to 20% by 2030
 - **Critical Raw Materials Act (2023)**: Reducing dependencies on single-country imports for strategic materials
 - **Net-Zero Industry Act**: Supporting clean energy manufacturing
 
@@ -289,7 +289,7 @@ For roughly three decades after 1978, Chinese foreign-economic strategy operated
 
 ### Three Framing Concepts
 
-**1. Economic coercion as "bullying" (经济霸凌, jīngjì bàlíng).** Chinese official and academic commentary frames Western sanctions, export controls, and investment screening as a coordinated effort to "contain" (遏制, èzhì) China's legitimate development rather than as neutral regulatory tools. The Ministry of Commerce's 2022 *White Paper on China's Export Controls* and subsequent statements position the Entity List, FDPR, and ICTS restrictions as discriminatory protectionism dressed in national-security language. This framing shapes Chinese counter-measures, namely the Unreliable Entity List, the Anti-Foreign Sanctions Law (2021), and rare-earth/gallium/germanium/graphite/antimony export controls (2023–2024), which Beijing presents as mirror-image responses rather than escalation.
+**1. Economic coercion as "bullying" (经济霸凌, jīngjì bàlíng).** Chinese official and academic commentary frames Western sanctions, export controls, and investment screening as a coordinated effort to "contain" (遏制, èzhì) China's legitimate development rather than as neutral regulatory tools. The State Council Information Office's December 2021 white paper *China's Export Controls*, which warns against the "abuse of export control measures" without naming the United States, and subsequent Ministry of Commerce statements position the Entity List, FDPR, and ICTS restrictions as discriminatory protectionism dressed in national-security language. This framing shapes Chinese counter-measures, namely the Unreliable Entity List, the Anti-Foreign Sanctions Law (2021), and rare-earth/gallium/germanium/graphite/antimony export controls (2023–2024), which Beijing presents as mirror-image responses rather than escalation.
 
 **2. Self-reliance as strategic imperative (科技自立自强, kējì zìlì zìqiáng).** Chinese strategic thinking treats dependency on Western technology as a survival-level risk and not only an efficiency problem. The lesson drawn from the 1960 Soviet withdrawal of technical advisors, the post-1989 arms embargo, and the 2019–2024 U.S. semiconductor controls is the same: foreign suppliers will condition access on political compliance when stakes are high enough. The response combines massive state investment through the "Big Fund" (国家集成电路产业投资基金), Made in China 2025 sectoral targets, and the post-2023 "new productive forces" (新质生产力, xīn zhì shēngchǎnlì) framework, and it treats indigenous capability as a form of strategic insurance whose value justifies substantial economic inefficiency.
 
@@ -500,7 +500,7 @@ Chapter 10 explores scenarios for how US-China economic competition might evolve
 - **Target:** Russian financial system, energy sector, oligarchs, defense industry
 - **Rationale:** Responding to "unusual and extraordinary threat" posed by Russian aggression against Ukraine
 - **Specific Measures:** Blocked major Russian banks (Sberbank, VTB) from accessing U.S. financial system; prohibited new investment in Russian energy sector; designated hundreds of oligarchs and government officials; restricted export of advanced technology to Russia
-- **Outcome:** Ruble collapsed initially (recovered somewhat); Russian economy contracted ~2-3%; coordination with EU/G7 amplified impact; Russia adapted through alternative payment systems and trade redirection to China/India
+- **Outcome:** Ruble collapsed initially (recovered somewhat); Russian economy contracted ~1.2% in 2022 (Rosstat's revised figure); coordination with EU/G7 amplified impact; Russia adapted through alternative payment systems and trade redirection to China/India
 
 **Example 2: What IEEPA Does *Not* Cover — the October 2022 Semiconductor Controls**
 
@@ -576,7 +576,7 @@ Effectiveness decreases when:
 
 **Statute:** 50 U.S.C. §§ 1601-1651 (enacted 1976)
 
-The National Emergencies Act provides the procedural framework through which IEEPA is activated. It does not itself grant emergency powers but requires presidential declarations specifying which statutory authorities are being invoked, Congressional notification via Federal Register publication, and annual renewal (emergencies automatically terminate after one year unless renewed). As of 2024, the United States maintains over 40 active national emergencies, including Iran (since 1995), terrorism (since 2001), Russia/Ukraine (since 2014, escalated 2022), and multiple China-related emergencies (Hong Kong 2020, military-industrial complex 2021).
+The National Emergencies Act provides the procedural framework through which IEEPA is activated. It does not itself grant emergency powers but requires presidential declarations specifying which statutory authorities are being invoked, Congressional notification via Federal Register publication, and annual renewal (emergencies automatically terminate after one year unless renewed). As of October 2026, the Brennan Center counts 51 declared national emergencies in effect, including Iran (since 1995), terrorism (since 2001), Russia/Ukraine (since 2014, escalated 2022), and multiple China-related emergencies (Hong Kong 2020, Chinese military companies 2020, expanded 2021).
 
 **Key limitation:** Congressional termination of a presidential emergency requires a 2/3 supermajority to override a veto, a bar never achieved. The proliferation of decades-old "emergencies" has effectively normalized what was designed as exceptional executive authority, raising constitutional concerns about unchecked presidential power in economic statecraft.
 
@@ -718,7 +718,7 @@ Simultaneously, allies imposed:
 
 ### Effectiveness Assessment
 
-**Cost Imposition: Severe Immediate Impact.** Russian economy contracted ~2.1% in 2022 (World Bank WDI), ruble initially collapsed (40% decline), stock market closed for weeks, inflation spiked to ~17%, capital flight accelerated, foreign investment ceased. Russia was effectively cut off from Western financial system and technology imports. The psychological shock was large: financial isolation at this level had never been imposed on a major economy.
+**Cost Imposition: Severe Immediate Impact.** Russian economy contracted ~1.2% in 2022 (Rosstat's revised figure; the first estimate was 2.1%), ruble initially collapsed (40% decline), stock market closed for weeks, inflation spiked to ~17%, capital flight accelerated, foreign investment ceased. Russia was effectively cut off from Western financial system and technology imports. The psychological shock was large: financial isolation at this level had never been imposed on a major economy.
 
 **Target Compliance: Failed.** Russia did not withdraw from Ukraine, end the war, or change fundamental policy. If the objective was compelling Russian withdrawal, sanctions failed. Some analysts argue sanctions prevented escalation (use of WMDs, attacks on NATO supply lines), but this is impossible to verify.
 
@@ -757,7 +757,7 @@ The Russia case has direct relevance for Taiwan contingency planning. If China m
 - Chinese economy more dependent on exports, imports, and foreign technology than Russia
 
 **Arguments for Limitations:**
-- US-China economic interdependence far exceeds US-Russia: bilateral goods trade peaking near $690 billion (2022) vs. ~$30 billion with Russia. Decoupling costs would be catastrophic for both sides.
+- US-China economic interdependence far exceeds US-Russia: bilateral goods trade peaking near $690 billion (2022) vs. ~$16 billion with Russia in 2022 (~$36 billion in 2021). Decoupling costs would be catastrophic for both sides.
 - China has prepared financial alternatives (CIPS, digital yuan, bilateral arrangements) more systematically than Russia
 - China is a critical node in global supply chains: sanctioning China disrupts global economy more than sanctioning Russia
 - Allied coordination harder: Japan, South Korea, EU face much greater China dependencies than Russia dependencies
@@ -874,7 +874,7 @@ Understanding economic coercion requires access to reliable data on sanctions, t
 
 1. The "paradox of interdependence" suggests that economic integration both promotes peace and enables coercion. Under what conditions does interdependence tip from stabilizing force to strategic vulnerability? Can policymakers design economic relationships that capture the benefits of integration while minimizing coercive risk?
 
-2. The October 2022 semiconductor controls represented a shift from maintaining a "relative" technology lead over China to seeking "as large a lead as possible." What are the strategic risks of this shift? Could aggressive denial accelerate rather than prevent Chinese technological self-sufficiency?
+2. The October 2022 semiconductor controls represented a shift from maintaining a "relative" technology lead over China to seeking "as large of a lead as possible." What are the strategic risks of this shift? Could aggressive denial accelerate rather than prevent Chinese technological self-sufficiency?
 
 3. Evaluate the claim that IEEPA's broad presidential authority is essential for effective economic statecraft. Should Congress play a larger role in authorizing economic coercion, even if this reduces speed and flexibility? How should democratic accountability apply to tools that can badly damage foreign economies?
 
