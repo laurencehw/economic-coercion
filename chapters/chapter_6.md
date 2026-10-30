@@ -74,7 +74,7 @@ By year-end, U.S. tariffs affected $250 billion in Chinese imports; Chinese reta
 - **August 2019**: China allows yuan to depreciate below 7.0 per dollar; U.S. Treasury designates China a "currency manipulator"
 - **September 2019**: U.S. imposes 15% tariffs on $112 billion (consumer electronics, apparel, footwear); delays tariffs on remainder
 
-Peak U.S. tariff levels: 25% on $250 billion in imports, 15% on $112 billion, affecting $362 billion total (66% of U.S. imports from China) at an effective average rate of about 19.3%. China retaliated with tariffs ranging from 5% to 25% (averaging near 21%), covering roughly $90–110 billion of U.S. exports, about 58% of U.S. exports to China at 2017 levels, rising toward two-thirds of product lines by late 2019 (Bown 2019; Bown and Kolb 2021). (Total U.S. goods exports to China were only about $130 billion in 2017, so Chinese retaliation could not have reached the $185 billion sometimes cited.)
+Peak U.S. tariff levels: 25% on $250 billion in imports and 15% on $112 billion, affecting $362 billion in listed trade. By February 2020, after the 15% tranche was cut to 7.5%, the tariffs covered 66.6% of U.S. imports from China at an average rate of 19.3%. China retaliated with tariffs ranging from 5% to 25% (averaging near 21%), covering roughly $90–110 billion of U.S. exports, about 58% of U.S. exports to China at 2017 levels, rising toward two-thirds of product lines by late 2019 (Bown 2019; Bown and Kolb 2021). (Total U.S. goods exports to China were only about $130 billion in 2017, so Chinese retaliation could not have reached the $185 billion sometimes cited.)
 
 **Phase 3: "Phase One" Agreement (2020)**
 
@@ -91,16 +91,16 @@ In exchange:
 - U.S. reduced September 2019 tariff tranche from 15% to 7.5%
 - U.S. maintained 25% tariffs on $250 billion in Chinese goods
 
-COVID-19 pandemic derailed implementation. China purchased only 57% of its committed goods and services targets in 2020 and 58% in 2021, a combined shortfall of about $212 billion against the 2020-2021 targets (Bown 2022). Neither side invoked enforcement provisions, effectively rendering the agreement dormant by 2022.
+COVID-19 pandemic derailed implementation. China purchased only 59% of its committed goods and services targets in 2020 and 57% in 2021 (58% over the two years), a combined shortfall of about $212 billion against the $502.4 billion target for 2020-2021 (Bown 2022). Neither side invoked enforcement provisions, effectively rendering the agreement dormant by 2022.
 
 **Phase 4: Biden Continuity and Expansion (2021-2024)**
 
 The Biden administration conducted a Section 301 tariff review in 2021-2022, maintained nearly all Trump-era tariffs, and implemented targeted escalations:
 
-- **May 2022**: Removed tariffs on 352 excluded product categories (mainly inputs for U.S. manufacturers)
-- **September 2022**: Initiated a new Section 301 investigation into China's semiconductor, maritime, and logistics policies
+- **March 2022**: Reinstated 352 of 549 eligible product exclusions, retroactive to October 12, 2021
+- **April and December 2024**: Initiated new Section 301 investigations into China's maritime, logistics, and shipbuilding sectors (April) and its semiconductor industry (December)
 - **May 2024**: Announced major tariff increases for strategic sectors (EVs to 100%, solar cells to 50%, plus batteries, steel/aluminum, and selected medical products)
-- **September 27, 2024**: Finalized staged Section 301 rate increases, with some increases scheduled to take effect on January 1, 2025
+- **September 2024**: Finalized staged Section 301 rate increases (notice published September 18, first increases in force September 27), with some increases scheduled to take effect on January 1, 2025
 
 **Phase 5: The IEEPA Tariff Regime and Its Unraveling (2025-2026)**
 
@@ -122,15 +122,15 @@ Trade war impacts divide into direct effects (tariff incidence) and indirect eff
 
 **Trade Flow Changes**
 
-U.S. imports from China fell from $539.5 billion (2018) to $452.2 billion (2019), a 16.2% decline (U.S. Census Bureau 2020). However:
-- Much trade diverted through third countries: U.S. imports from Vietnam surged 36% (2018-2019), from Mexico 10%, from Taiwan 25% (U.S. Census Bureau 2020; UN Comtrade 2020)
+U.S. imports from China fell from $538.5 billion (2018) to $449.1 billion (2019), a 16.6% decline (U.S. Census Bureau, Trade in Goods with China). However:
+- Much trade diverted through third countries: U.S. imports from Vietnam surged 35% (2018-2019), from Mexico 4%, from Taiwan 19% (U.S. Census Bureau)
 - Some products (furniture, electronics) saw minimal import decline despite 25% tariffs, suggesting Chinese exporters absorbed costs through price cuts or U.S. importers accepted higher prices
-- Total U.S. imports declined only 1.7% (2018-2019), indicating trade diversion rather than import reduction
+- Total U.S. imports declined only 1.8% (2018-2019), indicating trade diversion rather than import reduction
 
-Chinese imports from U.S. fell from $134 billion (2017) to $107 billion (2019), a 20% decline concentrated in agriculture:
+U.S. exports to China fell from $130.0 billion (2017) to $106.5 billion (2019), an 18% decline concentrated in agriculture:
 - U.S. soybean exports to China fell 75% (2017-2018) as China sourced from Brazil, with partial recovery in 2019 (USDA Foreign Agricultural Service 2020; U.S. Census Bureau 2020)
-- Aircraft deliveries fell 47% (U.S. Census Bureau 2020)
-- Energy product exports fell 54% (U.S. Energy Information Administration 2020)
+- Aircraft exports fell 42.5% in 2019 (U.S. International Trade Commission 2020)
+- Crude petroleum exports fell 46.6% in 2019 (U.S. International Trade Commission 2020)
 
 **Incidence: Who Paid the Tariffs?**
 
@@ -138,14 +138,14 @@ Economic theory predicts tariff incidence depends on elasticities of demand and 
 
 - **Amiti, Redding, and Weinstein (2019, JEP)**: U.S. tariffs had complete pass-through to U.S. import prices; negligible reduction in Chinese export prices. U.S. consumers and firms bore nearly 100% of tariff costs.
 - **Fajgelbaum et al. (2020, QJE)**: Aggregate U.S. real income fell 0.04% from tariffs and Chinese retaliation combined. Costs distributed unevenly: import-competing industries gained; import-using industries and consumers lost.
-- **Flaaen and Pierce (2019, Fed Working Paper)**: Manufacturing employment in tariff-protected industries showed no significant increase; employment in tariff-affected input-using industries declined.
+- **Flaaen and Pierce (2019, Fed Working Paper)**: Manufacturing industries more exposed to the tariffs saw relative employment declines; the negative effects of higher input costs and retaliation outweighed the benefit of protection.
 - **Cavallo et al. (2021, AER: Insights)**: Tariff pass-through was nearly complete at the border, but retail-price increases were limited, implying that retailers absorbed part of the cost through lower margins.
 
 The studies agree: U.S. tariffs functioned as a domestic tax on U.S. consumers and firms rather than as costs imposed on China, and Chinese tariffs similarly fell on Chinese consumers. Each country largely bore the cost of its own measures while expecting the other to concede.
 
 {% hint style="info" %}
 **Who Actually Pays Tariffs?**
-Contrary to political rhetoric suggesting tariffs "punish" foreign exporters, economic research consistently finds that U.S. consumers and businesses bear nearly 100% of tariff costs. Chinese exporters did not lower their prices to absorb the tariffs. Instead, American importers paid the full tariff amount, passing costs to consumers through higher retail prices. Published estimates put the added cost to the average U.S. household at roughly $800–1,300 per year; the New York Fed's own calculation of the 2019 escalation came to about $831 annually (Amiti, Redding, and Weinstein 2019).
+Contrary to political rhetoric suggesting tariffs "punish" foreign exporters, economic research consistently finds that U.S. consumers and businesses bear nearly 100% of tariff costs. Chinese exporters did not lower their prices to absorb the tariffs. Instead, American importers paid the full tariff amount, passing costs to consumers through higher retail prices. The New York Fed's own calculation of the cost of the 2019 escalation came to about $831 per typical household annually (Amiti, Redding, and Weinstein, Liberty Street Economics, May 2019).
 {% endhint %}
 
 **Supply Chain Reconfiguration**
@@ -157,11 +157,11 @@ Figure 6.2 traces the escalation ladder from January 2018 to May 2024, superimpo
   <figcaption>Figure 6.2: U.S.–China trade war escalation ladder, January 2018 to May 2024. Sources: Federal Register notices of USTR, BIS and the President for U.S. actions; Chinese measures dated from contemporaneous timelines of State Council Tariff Commission and MOFCOM announcements (data/sources/trade_war_timeline.csv records the source and verification status of each row). Dates are announcement, signing or in-force dates. The vertical position is the author's 1–10 ordinal judgment, not a measurement.</figcaption>
 </figure>
 
-Beyond static trade impacts, tariffs accelerated supply chain reconfiguration. Multinational firms adopted **"China+1" strategies**, diversifying production to Vietnam, Thailand, India, and Mexico to avoid tariffs. Apple, Samsung, Intel, Dell, and HP all announced production shifts. Many of these moves proved durable: once firms incur the sunk costs of relocating production, they are unlikely to reverse those decisions even if tariffs are later reduced or removed. Vietnam's exports to the U.S. surged from $49 billion (2017) to $115 billion (2023), making it the 8th largest U.S. trade partner (U.S. Census Bureau 2024), while Mexico became the largest U.S. trade partner in 2023 (U.S. Census Bureau 2024), partly from Chinese firms routing production through Mexican plants. Chinese manufacturing employment growth slowed, and sectors such as furniture and electronics lost global market share permanently.
+Beyond static trade impacts, tariffs accelerated supply chain reconfiguration. Multinational firms adopted **"China+1" strategies**, diversifying production to Vietnam, Thailand, India, and Mexico to avoid tariffs. Apple, Samsung, Intel, Dell, and HP all announced production shifts. Many of these moves proved durable: once firms incur the sunk costs of relocating production, they are unlikely to reverse those decisions even if tariffs are later reduced or removed. Vietnam's exports to the U.S. surged from $46 billion (2017) to $114 billion (2023), making it the 9th largest U.S. trade partner in goods (U.S. Census Bureau 2024), while Mexico became the largest U.S. trade partner in 2023 (U.S. Census Bureau 2024), partly from Chinese firms routing production through Mexican plants. Chinese manufacturing employment growth slowed, and sectors such as furniture and electronics lost global market share permanently.
 
 **Aggregate Economic Impacts**
 
-The macroeconomic costs were substantial across all parties. Studies estimate aggregate real income losses of approximately 0.04% from tariffs directly (Amiti, Redding, and Weinstein 2019; Fajgelbaum et al. 2020), with broader macroeconomic models suggesting total GDP effects of 0.3-0.5% when accounting for uncertainty, investment, and retaliation (Oxford Economics; Tax Foundation), with the agricultural sector suffering $27 billion in lost exports partially offset by $23 billion in government subsidies (USDA 2020; Congressional Research Service 2021) while manufacturing employment gains remained negligible. China experienced an estimated 0.5-0.8% GDP reduction, though its simultaneous growth slowdown from debt deleveraging and COVID-19 makes trade war effects difficult to isolate. Globally, the IMF (2019) estimated the trade war could reduce world GDP by 0.8% by 2020 through trade disruptions, uncertainty, and financial market impacts.
+The macroeconomic costs were substantial across all parties. Studies estimate aggregate real income losses of approximately 0.04% from tariffs directly (Amiti, Redding, and Weinstein 2019; Fajgelbaum et al. 2020), with the Congressional Budget Office projecting that the tariffs and trade barriers then in place would lower the level of U.S. real GDP by roughly 0.3% by 2020 (CBO 2019). U.S. agricultural exports to China fell by about half in 2018, from $19.5 billion to $9.2 billion, and USDA announced $28 billion in trade-aid packages across 2018 and 2019 (Congressional Research Service 2019), while manufacturing employment gains remained negligible. China's simultaneous growth slowdown from debt deleveraging and COVID-19 makes trade war effects on its GDP difficult to isolate. Globally, the IMF (2019) estimated the trade war could reduce world GDP by 0.8% by 2020 through trade disruptions, uncertainty, and financial market impacts.
 
 ### Political Economy of Tariff-Based Coercion
 
@@ -207,7 +207,7 @@ Applying our four-dimension framework:
 
 **Capability Degradation (Moderate)**: Supply chain shifts reduced China's market share in some sectors (furniture, textiles, some electronics). Accelerated "China+1" diversification reduced Western dependence on Chinese manufacturing. However, China retained dominance in critical industries (rare earth processing, solar panels, batteries, APIs).
 
-**Cost Imposition (Moderate)**: Tariffs imposed direct costs (~0.5-0.8% GDP for China, 0.3-0.5% for U.S.), but China tolerated these costs without major policy concessions. Agricultural sector losses ($27 billion) created political pressure but were offset by government subsidies.
+**Cost Imposition (Moderate)**: Tariffs imposed direct costs (about 0.3% of U.S. GDP by 2020 per CBO; effects on China's GDP are hard to isolate), but China tolerated these costs without major policy concessions. Agricultural export losses (U.S. farm exports to China roughly halved in 2018) created political pressure but were partly offset by trade-aid payments.
 
 **Sustainability (Moderate)**: Both sides have sustained tariffs for roughly eight years (2018-early 2026) with no structural resolution. However, U.S. inflation (2021-2023) created pressure to remove tariffs as an anti-inflationary measure, and China's growth slowdown (2023-2025) created pressure for trade normalization.
 
@@ -227,7 +227,7 @@ After World War II, Western states recognized that unilateral export controls co
 
 **Wassenaar Arrangement on Export Controls for Conventional Arms and Dual-Use Goods and Technologies**
 
-Established in 1996 as successor to the Cold War-era CoCom (Coordinating Committee for Multilateral Export Controls), the Wassenaar Arrangement coordinates the national export-control policies of its forty-two participating states (among them the United States, EU members, Japan, Korea, Australia, and, since December 2017, India, while China and Israel remain outside) for conventional weapons and dual-use goods. Members maintain their own control systems built on common lists: a Munitions List of nine categories of conventional arms (aircraft, missiles, explosives, and the like) and a Dual-Use List of nine categories of sensitive technologies (materials, electronics, computers, telecommunications, sensors, navigation, aerospace, and propulsion). They report the licenses they grant and deny to specific destinations and update the lists by consensus, controlling exports through individual case-by-case licensing for sensitive destinations and end-users, general licenses pre-approved for low-risk destinations, and catch-all authority to block unlisted items whenever weapons use is suspected. The arrangement's defining weakness is built into its design: it imposes no binding obligation, so any member may grant a license others would deny.
+Established in 1996 as successor to the Cold War-era CoCom (Coordinating Committee for Multilateral Export Controls), the Wassenaar Arrangement coordinates the national export-control policies of its forty-two participating states (among them the United States, EU members, Japan, Korea, Australia, and, since December 2017, India, while China and Israel remain outside) for conventional weapons and dual-use goods. Members maintain their own control systems built on common lists: a Munitions List of twenty-two categories of conventional arms (aircraft, missiles, explosives, and the like) and a Dual-Use List of nine categories of sensitive technologies (materials, electronics, computers, telecommunications, sensors, navigation, aerospace, and propulsion). They report the licenses they grant and deny to specific destinations and update the lists by consensus, controlling exports through individual case-by-case licensing for sensitive destinations and end-users, general licenses pre-approved for low-risk destinations, and catch-all authority to block unlisted items whenever weapons use is suspected. The arrangement's defining weakness is built into its design: it imposes no binding obligation, so any member may grant a license others would deny.
 
 By harmonizing national control lists, Wassenaar reduces the competitive disadvantage borne by compliant firms; by sharing information on denied licenses, it keeps exporters from shopping the same sale around multiple jurisdictions; and it lends political cover to sensitive denials, which can be presented as "required by international obligations" rather than as national preference. But the consensus requirement drags standards toward the lowest common denominator, since any member can block a list addition, and the non-binding structure lets members approve sales their partners oppose. Major producers outside the regime—China, Israel, Brazil—are bound by none of it, and the very definition of dual-use grows more ambiguous each year as digitalization erases the boundary between civilian and military applications.
 
@@ -242,7 +242,7 @@ Founded in 1987, the MTCR restricts exports of missiles, unmanned aerial vehicle
 
 **Nuclear Suppliers Group (NSG)**
 
-Created in 1975 after India's nuclear test, the NSG coordinates export controls on nuclear materials, equipment, and technology across forty-eight members, including the nuclear-weapon states and major suppliers. Its controls divide into a Part 1 Trigger List of materials and equipment especially designed for nuclear use (enrichment, reprocessing, heavy water) and a Part 2 Dual-Use List of materials, equipment, and technology with both nuclear and non-nuclear applications. Operating by consensus, the group has been effective in isolating North Korea's nuclear program and in placing substantial constraints on Iran's; yet China's admission in 2004 and Russia's participation create complications whenever proliferation concerns collide with strategic interests, as in Chinese nuclear cooperation with Pakistan or Russian cooperation with Iran.
+Created in the wake of India's 1974 nuclear test (it first met in 1975), the NSG coordinates export controls on nuclear materials, equipment, and technology across forty-eight members, including the nuclear-weapon states and major suppliers. Its controls divide into a Part 1 Trigger List of materials and equipment especially designed for nuclear use (enrichment, reprocessing, heavy water) and a Part 2 Dual-Use List of materials, equipment, and technology with both nuclear and non-nuclear applications. Operating by consensus, the group has been effective in isolating North Korea's nuclear program and in placing substantial constraints on Iran's; yet China's admission in 2004 and Russia's participation create complications whenever proliferation concerns collide with strategic interests, as in Chinese nuclear cooperation with Pakistan or Russian cooperation with Iran.
 
 **Australia Group (AG)**
 
@@ -325,9 +325,9 @@ The FDP Rule traditionally applied narrowly to items directly produced by U.S. t
 1. Chips designed by Huawei using U.S. software (e.g., Electronic Design Automation tools from Synopsys, Cadence)
 2. Chips manufactured using U.S.-origin equipment (e.g., Applied Materials deposition tools, Lam Research etch systems, and KLA process-control and inspection equipment; the leading-edge lithography itself comes from the Netherlands' ASML and Japan's Nikon and Canon)
 
-This expansion effectively cut Huawei off from Taiwan's TSMC (which uses U.S. equipment) despite TSMC being a foreign company selling foreign-made products. TSMC immediately ceased accepting new Huawei orders.
+This expansion effectively cut Huawei off from Taiwan's TSMC (which uses U.S. equipment) despite TSMC being a foreign company selling foreign-made products. TSMC reportedly stopped accepting new Huawei orders within days.
 
-October 2022 semiconductor export controls extended FDP principles broadly: Foreign fabs using U.S. equipment cannot produce advanced chips (< 16nm) for Chinese customers without licenses (presumption of denial). This assertion of control over foreign production marked a significant expansion of export control jurisdiction.
+October 2022 semiconductor export controls extended the EAR's reach broadly: they added license requirements (presumption of denial for Chinese-owned fabs) for equipment bound for fabs in China making logic chips at 16/14nm or below, DRAM at 18nm half-pitch or less, or NAND with 128 or more layers, and extended EAR jurisdiction over certain foreign-produced advanced computing items. This assertion of control over foreign production marked a significant expansion of export control jurisdiction.
 
 **Penalties and Enforcement**
 
@@ -384,8 +384,8 @@ The Coordinating Committee for Multilateral Export Controls (CoCom, 1949-1994) c
 
 **Effectiveness**:
 
-Soviet assessments after Cold War revealed CoCom imposed substantial costs:
-- Delayed Soviet capabilities 5-10 years in computing, semiconductors, telecommunications
+Assessments of CoCom's effect are contested, but suggest it imposed costs and delays:
+- Slowed Soviet capabilities in computing, semiconductors, telecommunications
 - Forced inefficient indigenous development at high cost
 - Created technological lag perpetuating Soviet economic weakness
 
@@ -411,15 +411,13 @@ Export controls pose a dilemma: unilateral measures risk competitive disadvantag
 
 ### The Case for Multilateral Coordination
 
-For export controls to meaningfully constrain adversary capabilities, they must cover sufficient market share that substitutes are unavailable. In semiconductor equipment, the U.S. holds ~40% market share, Japan ~30%, and the Netherlands controls 100% of EUV lithography. Unilateral U.S. controls leave 60% of the equipment market accessible; coordinated controls close access to ~85%.
+For export controls to meaningfully constrain adversary capabilities, they must cover sufficient market share that substitutes are unavailable. Semiconductor equipment supply is concentrated in five firms in the United States, Japan, and the Netherlands (combined 2023 revenue $93.5 billion, per Counterpoint), and the Netherlands' ASML is the sole supplier of EUV lithography. Unilateral U.S. controls leave the non-U.S. suppliers' share of the equipment market accessible; coordinated controls with Japan and the Netherlands close access to most of it.
 
-Multilateral coordination also reduces commercial disadvantage (all suppliers face the same restrictions, leveling the playing field), enhances political sustainability (firms cannot circumvent by relocating), and signals shared threat assessment rather than unilateral American action. By industry and analyst estimates, U.S. semiconductor equipment firms forwent on the order of $10–15 billion in annual China sales (2022–2024) as a result of the controls. The losses are reflected in the individual guidance of Applied Materials, Lam Research, and KLA and, absent allied burden-sharing, are a source of lobbying for exemptions.
+Multilateral coordination also reduces commercial disadvantage (all suppliers face the same restrictions, leveling the playing field), enhances political sustainability (firms cannot circumvent by relocating), and signals shared threat assessment rather than unilateral American action. U.S. semiconductor equipment firms forwent substantial China sales as a result of the controls, a cost that, absent allied burden-sharing, is a source of lobbying for exemptions.
 
 ### Challenges to Multilateral Coordination
 
 Coordination nonetheless faces obstacles. Threat perceptions diverge: European allies prioritize Russia, Asian allies prioritize China, and Germany's deep economic integration with China produces a different cost-benefit calculus. Commercial lobbying complicates agreement, with ASML opposing broad lithography restrictions, Samsung and SK Hynix securing exemptions for their China fabs, and Tokyo Electron advocating narrow controls that preserved most sales. Lobbying is more effective in smaller countries where individual firms represent a larger share of the economy. Consensus regimes such as Wassenaar and the MTCR can only adopt controls acceptable to all members, which creates delay, ambiguity, and exploitable loopholes.
-
-Example: Wassenaar took three years (2013-2016) to add intrusion software and surveillance technology controls, and final language contained exemptions enabling continued sales to authoritarian regimes.
 
 **Free-Riding and Enforcement**
 
@@ -482,19 +480,7 @@ Proposed U.S.-Japan-Korea-Taiwan semiconductor coordination to:
 - Build resilience through diversified production
 - Share threat intelligence on Chinese acquisition attempts
 
-Status: Informal discussions ongoing; formal alliance resisted by Korea and Taiwan fearing Chinese economic retaliation.
-
-**Technology 7 (T-7)**
-
-U.S., Japan, Korea, Netherlands, Taiwan, and key EU members coordinating on export controls for critical technologies:
-- Semiconductor manufacturing equipment
-- Advanced computing
-- AI systems
-- Quantum technologies
-
-Advantage over formal regimes: Smaller group enables faster decision-making and tighter coordination. Excludes members unlikely to support strict controls (Germany initially resistant).
-
-Disadvantage: Lack of institutional structure reduces sustainability; dependent on aligned political leadership across members.
+Status: Informal discussions ongoing; a formal alliance has stalled, with South Korea wary of Chinese economic retaliation.
 
 **Limits of Coalitions**
 
@@ -519,8 +505,8 @@ China enacted Export Control Law (2020) establishing authority to:
 **Specific Controls**:
 
 - **Gallium and germanium licensing** (August 2023): Export-licensing controls on gallium and germanium (used in semiconductors, solar cells, fiber optics). China accounts for roughly 98% of global low-purity (primary) gallium production and about 60% of germanium (USGS 2025). Restrictions raised prices and forced Western firms to stockpile.
-- **Graphite restrictions** (2023): Controls on certain graphite materials essential for lithium-ion battery anodes. China controls 65% of global graphite mining, 90% of processing (USGS 2024).
-- **Antimony restrictions** (2024): Controls on antimony (used in semiconductors, solar panels, batteries, ammunition). China produces 48% globally, processes 63% (USGS 2024).
+- **Graphite restrictions** (2023): Controls on certain graphite materials essential for lithium-ion battery anodes. China accounted for about 82% of global natural graphite mine production in 2024 (USGS 2026).
+- **Antimony restrictions** (2024): Controls on antimony (used in semiconductors, solar panels, batteries, ammunition). China accounted for about 60% of global mine production in 2024 (USGS 2025).
 - **Outright ban on exports to the United States** (December 2024): Responding to a fresh round of U.S. semiconductor controls, China banned exports of gallium, germanium, antimony, and superhard materials to the United States specifically, rather than merely licensing them. It was the first time Beijing singled out one country for a critical-mineral embargo (China Ministry of Commerce 2024).
 - **Rare-earth and magnet licensing** (April and October 2025): During the 2025 tariff escalation (see Case Study 1), China placed seven medium and heavy rare-earth elements and permanent-magnet products under export licensing (April 2025), then in October 2025 broadened the regime with extraterritorial provisions reaching specified foreign-made rare-earth items with at least 0.1% by value of listed Chinese-origin inputs, or produced using specified Chinese-origin rare-earth technology, a mirror image of the U.S. Foreign Direct Product Rule. The controls were suspended for one year under the October 30 Busan truce (CSIS 2025).
 
@@ -554,7 +540,7 @@ Chinese retaliation less effective than U.S. controls due to:
 2. **Limited technology monopolies**: China lacks monopoly position in critical enabling technologies comparable to U.S./Allied position in semiconductors, AI, aerospace
 3. **Autarky costs**: Restricting exports harms Chinese producers and creates incentives for foreign firms to develop alternatives, reducing long-term leverage
 
-However, near-term disruptions real: Gallium/germanium restrictions caused 6-12 month supply disruptions and 20-30% price increases. For firms with thin margins or just-in-time inventory, temporary disruptions can be severe.
+However, near-term disruptions real: Gallium/germanium restrictions caused supply disruptions and sharp price increases. For firms with thin margins or just-in-time inventory, temporary disruptions can be severe.
 
 ---
 
@@ -571,23 +557,23 @@ GATT Article XI prohibits "prohibitions or restrictions other than duties, taxes
 **Article XXI: Security Exception**
 
 GATT Article XXI allows states to take actions "necessary for the protection of [essential security interests]" including:
-- (a) Preventing disclosure of information contrary to essential security interests
-- (b) Relating to fissionable materials or materials from which they are derived
-- (c) Taken in time of war or other emergency in international relations
+- (a) Requiring disclosure of information contrary to essential security interests
+- (b)(i) Relating to fissionable materials or materials from which they are derived
+- (b)(iii) Taken in time of war or other emergency in international relations
 
 Article XXI is self-judging: states determine what constitutes "essential security interests." This creates a broad opening, since any trade restriction can be justified as a national security measure.
 
-States long exercised restraint in invoking Article XXI to avoid undermining the trading system. U.S. Section 232 steel/aluminum tariffs (2018) expansively defined "national security" to include economic security, breaking this norm. Other states followed: India invoked Article XXI for information technology controls, Russia for transit restrictions, UAE for Qatar blockade.
+States long exercised restraint in invoking Article XXI to avoid undermining the trading system. U.S. Section 232 steel/aluminum tariffs (2018) expansively defined "national security" to include economic security, breaking this norm. Others had invoked it earlier: Russia in the Traffic in Transit dispute (begun in 2016) and the UAE against Qatar's 2017 challenge to the blockade.
 
 **Article XX: General Exceptions**
 
-GATT Article XX permits restrictions "necessary to protect public morals," "protect human, animal or plant life or health," or "relating to conservation of exhaustible natural resources." States invoked Article XX to justify:
+GATT Article XX permits restrictions "necessary to protect public morals," "protect human, animal or plant life or health," or "relating to the conservation of exhaustible natural resources." States invoked Article XX to justify:
 
 - Environmental regulations restricting hazardous material imports
 - Public health measures (e.g., COVID-19 medical equipment export restrictions)
 - Sanctions on goods produced with forced labor
 
-However, Article XX requires restrictions be "not applied in a manner which would constitute... arbitrary or unjustifiable discrimination" and "not a disguised restriction on international trade." Proving necessity and non-discrimination proves difficult; many measures struck down.
+However, Article XX requires restrictions be "not applied in a manner which would constitute... arbitrary or unjustifiable discrimination" and not "a disguised restriction on international trade." Proving necessity and non-discrimination proves difficult; many measures struck down.
 
 ### Dispute Resolution Breakdown
 
@@ -616,7 +602,6 @@ The collapse of the WTO Appellate Body is one of the most consequential developm
 
 EU, China, Canada, and 25+ other members created alternative arbitration mechanism (2020) using WTO arbitration provisions. However:
 - U.S. refuses to participate
-- China participates selectively
 - Limited to disputes among MPIA members
 - Lacks legitimacy and enforcement power of formal Appellate Body
 
@@ -656,8 +641,8 @@ U.S., EU, and Japan filed multiple WTO cases against Chinese:
 - Lack of intellectual property protection
 
 Some cases succeeded:
-- **China—Intellectual Property Rights** (2009): Panel ruled China must provide criminal enforcement for commercial-scale copyright piracy
-- **China—Auto Parts** (2009): Panel ruled China cannot impose higher tariffs on imported auto parts than finished vehicles
+- **China—Intellectual Property Rights** (2009): Panel found China's Copyright Law Article 4 and its customs disposal rules inconsistent with TRIPS, but rejected the U.S. challenge to China's criminal thresholds
+- **China—Auto Parts** (panel 2008, adopted 2009): Panel and Appellate Body found China's charges on imported auto parts were internal charges inconsistent with GATT Article III
 
 However, enforcement limited:
 - China often makes minimal compliance efforts
@@ -783,7 +768,7 @@ But this rules-based instinct has been tested. The Trump administration's Sectio
 
 **Strategic Autonomy (*autonomie stratégique*)**
 
-European strategic autonomy, a concept originally articulated by French President Macron and adopted in modified form by the European Commission, describes the EU's aspiration to act independently in defense of its economic interests without dependence on American security guarantees or vulnerability to Chinese leverage. In trade, strategic autonomy encompasses:
+European strategic autonomy, a concept that entered European Council discussions in December 2013 and the 2016 EU Global Strategy, and that French President Macron has since championed, describes the EU's aspiration to act independently in defense of its economic interests without dependence on American security guarantees or vulnerability to Chinese leverage. In trade, strategic autonomy encompasses:
 
 - **Reduced dependence on single suppliers**: Diversifying critical supply chains away from both Chinese and, in some cases, American dominance
 - **Defensive trade instruments**: Building the EU's own capacity to respond to economic coercion, rather than relying on American protection
@@ -838,9 +823,9 @@ The European dilemma is how to coordinate with the United States on China (where
 
 **Section 232 of the Trade Expansion Act of 1962** (19 U.S.C. § 1862) authorizes the President to restrict imports if the Secretary of Commerce determines they threaten U.S. national security. The statute provides no definition of "national security," giving Commerce and the President broad discretion. After Commerce conducts an investigation (within 270 days), the President has 90 days to impose tariffs, quotas, or other restrictions, with minimal judicial review.
 
-**Key application**: In March 2018, President Trump imposed 25% tariffs on steel imports and 10% on aluminum imports globally, citing declining domestic production capacity needed for defense and critical infrastructure. Subsequent investigations targeted automobiles (delayed indefinitely) and uranium (no restrictions imposed). The steel/aluminum tariffs generated approximately $10 billion in revenue (2018-2021).
+**Key application**: In March 2018, President Trump imposed 25% tariffs on steel imports and 10% on aluminum imports globally, citing declining domestic production capacity needed for defense and critical infrastructure. Subsequent investigations targeted automobiles (delayed indefinitely) and uranium (no restrictions imposed).
 
-**Strengths**: Executive autonomy (no congressional approval required), broad discretion enabling flexible application, and Article XXI WTO security exception providing legal basis (though contested). **Limitations**: Retaliation from targeted countries including allies (EU, Canada, Mexico all imposed counter-tariffs); domestic costs (estimates suggest $900,000 per job saved in steel production); strained ally relationships from applying national security justification to defense partners; norm erosion as other countries invoke security exceptions for their own trade restrictions; and WTO panels (2022) ruling the tariffs violated Article XXI standards.
+**Strengths**: Executive autonomy (no congressional approval required), broad discretion enabling flexible application, and Article XXI WTO security exception providing legal basis (though contested). **Limitations**: Retaliation from targeted countries including allies (EU, Canada, Mexico all imposed counter-tariffs); domestic costs (Peterson Institute estimates run from roughly $650,000 to $900,000 per job saved in steel production); strained ally relationships from applying national security justification to defense partners; norm erosion as other countries invoke security exceptions for their own trade restrictions; and WTO panels (2022) ruling the tariffs violated Article XXI standards.
 
 ---
 
@@ -865,11 +850,11 @@ Figure 6.7 summarizes the Section 301 actions and their coverage. The breadth st
 
 The **Export Administration Regulations (EAR)** (15 C.F.R. § 730-774), implementing the **Export Control Reform Act of 2018**, regulate exports of dual-use items from the United States. EAR's jurisdictional reach extends beyond U.S.-origin goods to foreign-made items incorporating U.S. content above de minimis thresholds, and to foreign-made items produced using U.S.-origin technology or equipment through the **Foreign Direct Product (FDP) Rule**, even if containing no U.S. components.
 
-The **Entity List** identifies foreign persons posing national security risks; designation requires exporters to obtain licenses (typically denied). As of early 2026, the list contains over 1,000 entities from 50+ countries, with China accounting for the largest share, including Huawei and SMIC (telecommunications/semiconductors), Hikvision and SenseTime (surveillance), and Sugon and Phytium (supercomputing). The Bureau of Industry and Security (BIS) administers the system, with interagency review involving State, Defense, Energy, and other departments.
+The **Entity List** identifies foreign persons posing national security risks; designation requires exporters to obtain licenses (typically denied). The list has contained more than 1,000 entities since at least 2021, with China accounting for the largest share, including Huawei and SMIC (telecommunications/semiconductors), Hikvision and SenseTime (surveillance), and Sugon and Phytium (supercomputing). The Bureau of Industry and Security (BIS) administers the system, with interagency review involving State, Defense, Energy, and other departments.
 
 **Notable enforcement actions**: ZTE paid $1.19 billion in penalties for Iran/North Korea sanctions violations (2017-2018); Huawei's 2019 Entity List designation was expanded in 2020 with FDP Rule application cutting off semiconductor access; Fujian Jinhua was effectively shut down for DRAM technology theft from Micron. Penalties reach up to $1 million per violation and 20 years imprisonment for willful violations.
 
-**Strengths**: Extraterritorial reach through FDP Rule, targeted precision via Entity List, rapid flexibility (30-day review process), severe deterrent penalties, and compatibility with multilateral regimes (Wassenaar, MTCR). **Limitations**: Circumvention through shell companies and transshipment; competitive disadvantage for U.S. firms losing sales to unrestricted foreign competitors; allied resistance to extraterritorial assertions; definitional challenges with rapidly evolving technologies (AI, quantum); Chinese counter-restrictions (Unreliable Entity List, rare earth/gallium/germanium export controls); and the reality that export controls delay but rarely prevent determined adversaries from eventually acquiring capabilities.
+**Strengths**: Extraterritorial reach through FDP Rule, targeted precision via Entity List, rapid flexibility, severe deterrent penalties, and compatibility with multilateral regimes (Wassenaar, MTCR). **Limitations**: Circumvention through shell companies and transshipment; competitive disadvantage for U.S. firms losing sales to unrestricted foreign competitors; allied resistance to extraterritorial assertions; definitional challenges with rapidly evolving technologies (AI, quantum); Chinese counter-restrictions (Unreliable Entity List, rare earth/gallium/germanium export controls); and the reality that export controls delay but rarely prevent determined adversaries from eventually acquiring capabilities.
 
 ---
 
@@ -883,11 +868,11 @@ The main trade-war section above already narrates the conflict phase by phase, f
 
 ### Effectiveness Assessment
 
-**Target Compliance: LOW.** The trade war failed to achieve structural reforms. Forced technology transfer, IP enforcement, and market access saw minimal improvement. Chinese subsidies increased (Big Fund III, EV subsidies). Phase One purchase commitments went about $212 billion below the 2020-2021 targets with no enforcement (Bown 2022). China assessed that tolerating tariff costs was preferable to compromising its state-directed economic model.
+**Target Compliance: LOW.** The trade war failed to achieve structural reforms. Forced technology transfer, IP enforcement, and market access saw minimal improvement. Chinese subsidies increased (Big Fund III, EV subsidies). Phase One purchases went about $212 billion below the 2020-2021 targets with no enforcement (Bown 2022). China assessed that tolerating tariff costs was preferable to compromising its state-directed economic model.
 
-**Capability Degradation: MODERATE.** Tariffs contributed to supply chain reconfiguration: Chinese export share to the U.S. fell from 21.6% (2017) to 16.5% (2023), with Vietnam ($49 billion to $115 billion in U.S. exports) and Mexico capturing share (U.S. Census Bureau 2024). Combined with semiconductor export controls, tariffs accelerated technology ecosystem bifurcation. However, China's $17 trillion domestic market, 28% share of global manufacturing, and increased dominance in critical sectors (solar, batteries, rare earths) limit the effect.
+**Capability Degradation: MODERATE.** Tariffs contributed to supply chain reconfiguration: China's share of U.S. goods imports fell from 21.6% (2017) to 13.9% (2023), with Vietnam ($46 billion to $114 billion in exports to the United States) and Mexico capturing share (U.S. Census Bureau 2024). Combined with semiconductor export controls, tariffs accelerated technology ecosystem bifurcation. However, China's $17 trillion domestic market, 28% share of global manufacturing, and increased dominance in critical sectors (solar, batteries, rare earths) limit the effect.
 
-**Cost Imposition: MODERATE.** Chinese GDP fell an estimated 0.5-0.8% ($65-100 billion), with 1-3 million manufacturing jobs lost. U.S. GDP fell 0.3-0.5% ($60-100 billion), with average households paying an estimated $800-1,300 annually in tariff costs (Amiti, Redding, and Weinstein 2019) and agriculture losing $27 billion in exports (partially offset by $23 billion in government subsidies). Neither side faced intolerable costs forcing capitulation.
+**Cost Imposition: MODERATE.** Effects on China's GDP and employment are hard to isolate from its debt deleveraging and COVID-19. U.S. GDP was roughly 0.3% lower by 2020 (CBO 2019), with the typical household paying an estimated $831 annually in tariff costs (Amiti, Redding, and Weinstein, Liberty Street Economics, May 2019) and U.S. agricultural exports to China falling by about half in 2018 (partially offset by $28 billion in announced trade aid). Neither side faced intolerable costs forcing capitulation.
 
 **Sustainability: MODERATE-HIGH.** Both sides sustained tariffs for roughly eight years without structural resolution. Bipartisan U.S. consensus, Chinese authoritarian insulation, and firm adaptation supported duration, though U.S. inflation and Chinese growth slowdown created de-escalation pressures.
 
@@ -909,7 +894,7 @@ Implementation faced persistent challenges: free-riding (France and Italy approv
 
 ### Effectiveness Assessment
 
-**Capability degradation: MODERATE-HIGH.** Post-Cold War assessments reveal substantial technology lags: Soviet computing 5-10 years behind, semiconductors 8-12 years, telecommunications 10-15 years. Forced indigenous development consumed massive R&D (3-4% of GDP versus 2-2.5% for the U.S.), much directed at replicating Western technologies rather than genuine innovation. Manufacturing efficiency reached only 40-50% of Western levels. Military impacts included submarine quieting gaps enabling Western ASW advantage and inferior avionics throughout the Cold War.
+**Capability degradation: MODERATE-HIGH.** Post-Cold War assessments point to substantial Soviet technology lags in computing, semiconductors, and telecommunications. Forced indigenous development consumed large R&D resources, much directed at replicating Western technologies rather than genuine innovation. Military impacts included submarine quieting gaps enabling Western ASW advantage and inferior avionics throughout the Cold War.
 
 **Cost imposition: MODERATE-HIGH.** Controls imposed substantial costs but didn't cripple the Soviet economy or military. The Soviet Union sustained competition for 45 years without capitulating to technology denial; systemic economic problems (central planning, political repression, Afghanistan) proved more significant than technology gaps.
 
@@ -972,9 +957,9 @@ For official Chinese government positions, the Ministry of Commerce (http://engl
 
 ## Discussion Questions
 
-1. The U.S.-China trade war imposed estimated GDP costs of 0.5-0.8% on China and 0.3-0.5% on the United States, yet produced minimal structural reform from Beijing. Under what circumstances can tariff-based coercion compel policy changes from a large economy with high pain tolerance? Are there alternative policy designs that could have been more effective?
+1. The U.S.-China trade war imposed an estimated GDP cost of roughly 0.3% on the United States (CBO), yet produced minimal structural reform from Beijing. Under what circumstances can tariff-based coercion compel policy changes from a large economy with high pain tolerance? Are there alternative policy designs that could have been more effective?
 
-2. Section 232 steel and aluminum tariffs were justified on national security grounds, but studies estimate they cost the U.S. economy $900,000 per job saved. How should policymakers weigh the economic costs of trade restrictions against their strategic benefits? Is there a principled framework for determining when "national security" justifications for trade restrictions are legitimate versus pretextual?
+2. Section 232 steel and aluminum tariffs were justified on national security grounds, but Peterson Institute estimates put the cost at roughly $650,000 to $900,000 per job saved. How should policymakers weigh the economic costs of trade restrictions against their strategic benefits? Is there a principled framework for determining when "national security" justifications for trade restrictions are legitimate versus pretextual?
 
 3. The Wassenaar Arrangement operates by consensus with no binding obligations, and its 42 members can grant export licenses that others would deny. Given these structural weaknesses, should the United States pursue a new, smaller export control alliance among like-minded technology producers (a "Tech 10" or "Chip 4"), or work to reform existing multilateral regimes? What are the trade-offs?
 
@@ -1059,6 +1044,20 @@ Congressional Research Service, "Presidential 2025 Tariff Actions: Timeline and 
 U.S. Geological Survey, *Mineral Commodity Summaries 2025* (Reston, VA: U.S. Geological Survey, 2025) [gallium, germanium, rare earths, graphite, antimony production shares].
 
 China Ministry of Commerce (MOFCOM), Announcement No. 46 of 2024, "Export Controls on Gallium, Germanium, Antimony, and Superhard Materials to the United States" (December 3, 2024).
+
+Bown, Chad P. 2022. "China Bought None of the Extra $200 Billion of US Exports in Trump's Trade Deal." Peterson Institute for International Economics, February.
+
+Congressional Budget Office. 2019. "The Effects of Tariffs and Trade Barriers in CBO's Projections."
+
+Congressional Research Service. 2019. "Retaliatory Tariffs and U.S. Agriculture." CRS Report R45903.
+
+Amiti, Mary, Stephen J. Redding, and David E. Weinstein. 2019. "New China Tariffs Increase Costs to U.S. Households." Federal Reserve Bank of New York, Liberty Street Economics, May.
+
+U.S. International Trade Commission. 2020. "Trade Shifts in 2019: China." (Trade Shifts series.)
+
+Counterpoint Technology Market Research. 2024. "Top 5 Wafer Fab Equipment Makers' Revenue Declined 1% YoY in 2023; ASML on Top."
+
+U.S. Geological Survey. 2026. *Mineral Commodity Summaries 2026* (graphite, world mine production tables).
 
 ### Think Tank and Policy Analysis
 
