@@ -12,22 +12,22 @@ description: "Tools, Strategies, and Great Power Competition — a textbook on e
 
 ---
 
-This textbook examines economic coercion by states in the context of strategic competition. Its primary focus is the US-China rivalry, with applications to other geographies, including US-Soviet Cold War cases and contemporary examples.
+This textbook examines economic coercion by states in the context of strategic competition. It focuses mainly on the US-China rivalry, with applications to other geographies, including US-Soviet Cold War cases and contemporary examples.
 
 ## Companion Game
 
-A companion browser-based strategy game, **EconWar**, lets readers play out economic-coercion scenarios from multiple national perspectives, including U.S., Chinese, European, and Global South decision-makers. It operationalizes the frameworks developed in this book.
+A companion browser-based strategy game, **EconWar**, lets readers play out economic-coercion scenarios from multiple national perspectives, including U.S., Chinese, European, and Global South decision-makers. It applies the frameworks developed in this book.
 
 Play the game: [econwar.vercel.app](https://econwar.vercel.app/)
 
-The game is designed to be used alongside the tabletop exercises in Appendix A, allowing readers to move from structured classroom simulations to open-ended solo play.
+The game is designed to be used alongside the tabletop exercises in Appendix A, so readers can move from structured classroom simulations to open-ended solo play.
 
 ## Purpose
 
 This book serves three audiences:
 
 1. **Policymakers and practitioners** - Practical reference for understanding tools and strategies
-2. **Students and educators** - Comprehensive textbook with exercises and teaching materials
+2. **Students and educators** - Textbook with exercises and teaching materials
 3. **Analysts and researchers** - Data sources, case studies, and analytical frameworks
 
 ## Special Features
