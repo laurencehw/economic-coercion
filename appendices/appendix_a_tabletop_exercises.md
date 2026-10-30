@@ -1,17 +1,17 @@
 # Appendix A: Tabletop Exercises {-}
 
 
-This appendix collects all ten tabletop exercises from the book. Each exercise is a self-contained 60-90 minute scenario designed for classroom use, policy workshops, or professional development. Exercises are listed in chapter order and cross-reference the analytical frameworks and case material from their corresponding chapters.
+This appendix collects all ten tabletop exercises from the book. Each is a self-contained 60-90 minute scenario for classroom use, policy workshops, or professional development. The exercises run in chapter order and draw on the frameworks and cases of the corresponding chapters.
 
 ## Companion Game: EconWar {-}
 
-A browser-based strategy game, **EconWar** ([econwar.vercel.app](https://econwar.vercel.app/)), extends the exercises in this appendix to solo and small-group play from multiple national perspectives: U.S., Chinese, European, and Global South. The game operationalizes the four-dimension framework (domain, target, objective, intensity) and the five effectiveness criteria from Chapter 1, and is useful for several purposes:
+A browser-based strategy game, **EconWar** ([econwar.vercel.app](https://econwar.vercel.app/)), extends the exercises in this appendix to solo and small-group play from four national perspectives: U.S., Chinese, European, and Global South. The game builds in the four-dimension framework (domain, target, objective, intensity) and the five effectiveness criteria from Chapter 1. I use it in three ways:
 
-- **Red-teaming the tabletops below.** After playing a U.S.-centered NSC tabletop, students can run the same scenario in EconWar from the PRC, EU, or Global South seat to surface blind spots in the centered American perspective.
-- **Asynchronous / flipped classroom use.** Instructors can assign a 30-minute EconWar session before class to prime students on constraints and trade-offs before a live tabletop.
-- **Comparative case analysis.** Playing multiple EconWar scenarios in sequence lets students compare how the same tool (e.g., secondary sanctions) performs under different targets, objectives, and coalition structures.
+- **Red-teaming the tabletops below.** After playing a U.S.-centered NSC tabletop, students can run the same scenario in EconWar from the PRC, EU, or Global South seat to surface blind spots in the U.S.-centered view.
+- **Asynchronous / flipped classroom use.** Instructors can assign a 30-minute EconWar session before class so students arrive knowing the constraints and trade-offs.
+- **Comparative case analysis.** Playing several EconWar scenarios in sequence lets students compare how the same tool (e.g., secondary sanctions) performs against different targets, with different objectives and coalition structures.
 
-Throughout this appendix, look for the **"→ EconWar variant"** pointer at the end of each exercise, which suggests a complementary scenario to run in the game.
+Each exercise ends with an **"→ EconWar variant"** pointer to a complementary scenario in the game.
 
 ---
 
@@ -34,9 +34,9 @@ Throughout this appendix, look for the **"→ EconWar variant"** pointer at the 
 
 Taiwan's newly elected president has announced plans to pursue formal constitutional changes that Beijing views as steps toward de jure independence. In response, the People's Liberation Army (PLA) has initiated large-scale military exercises encircling Taiwan, including a partial naval blockade that disrupts commercial shipping. China has not declared war but characterizes the exercises as "internal law enforcement operations."
 
-The United States faces pressure from Taiwan, Japan, and other Indo-Pacific allies to respond with both security guarantees and economic measures. However, the U.S.-China economic relationship remains deeply intertwined: China holds roughly $680 billion in U.S. Treasury securities (the third-largest foreign holder, behind Japan and the United Kingdom), two-way goods trade still runs well over $500 billion annually, and U.S. firms depend on Chinese supply chains for critical inputs. China, meanwhile, remains dependent on Taiwan for advanced semiconductors, U.S. semiconductor equipment, and access to Western financial systems.
+The United States faces pressure from Taiwan, Japan, and other Indo-Pacific allies to respond with both security guarantees and economic measures. The U.S.-China economic relationship remains closely intertwined, though: China holds roughly $680 billion in U.S. Treasury securities (the third-largest foreign holder, behind Japan and the United Kingdom), two-way goods trade still runs well over $500 billion annually, and U.S. firms depend on Chinese supply chains for critical inputs. China, meanwhile, remains dependent on Taiwan for advanced semiconductors, U.S. semiconductor equipment, and access to Western financial systems.
 
-You are members of the National Security Council Deputies Committee convened to develop economic response options for the President. The crisis is escalating, and decisions made in the next 48-72 hours will shape whether the situation resolves diplomatically, escalates to comprehensive economic conflict, or moves toward military confrontation.
+You are members of the National Security Council Deputies Committee convened to develop economic response options for the President. The crisis is escalating, and decisions in the next 48-72 hours will determine whether it resolves diplomatically, escalates to comprehensive economic conflict, or moves toward military confrontation.
 
 ### Participant Roles
 
@@ -78,7 +78,7 @@ You are members of the National Security Council Deputies Committee convened to 
 
 China announces that all vessels approaching Taiwan must receive approval from Chinese maritime authorities. Three commercial cargo ships are turned away. Taiwan reports that PLA Navy vessels are stopping and inspecting merchant ships in international waters. Japan and South Korea express concern that their trade with Taiwan (including critical semiconductor imports) is being disrupted.
 
-**Intelligence Assessment:** China appears to be implementing a "quarantine" rather than a full blockade, claiming authority to inspect vessels for military materials. However, the practical effect is severe disruption to Taiwan's trade. Beijing has mobilized economic ministries to implement potential counter-coercion against countries supporting Taiwan.
+**Intelligence Assessment:** China appears to be implementing a "quarantine" rather than a full blockade, claiming authority to inspect vessels for military materials. The practical effect is still severe disruption to Taiwan's trade. Beijing has mobilized economic ministries to implement potential counter-coercion against countries supporting Taiwan.
 
 **Key Questions:**
 1. Should the U.S. immediately announce economic sanctions, or wait to coordinate with allies?
@@ -222,7 +222,7 @@ After completing this exercise, participants should be able to:
 
 3. **Understand adversary perspectives** on how Chinese leaders might interpret different U.S. actions based on historical experiences and strategic objectives
 
-4. **Assess escalation risks** inherent in weaponizing economic interdependence in a crisis environment
+4. **Assess escalation risks** in weaponizing economic interdependence during a crisis
 
 5. **Recognize intelligence gaps and uncertainty** in crisis decision-making about adversary intentions and resolve
 
@@ -247,7 +247,7 @@ After completing this exercise, participants should be able to:
 
 ### → EconWar Variant
 
-Replay this crisis from Beijing's seat: in **EconWar**, select the **Chinese** perspective and run the Taiwan Strait blockade scenario, choosing between a "quarantine" and a full blockade while weighing U.S. and allied counter-coercion (Treasury holdings, semiconductor and rare-earth chokepoints). Then run it again from a **Global South** seat to see how non-aligned states price the cost of taking sides. Compare which coalition each seat can actually assemble - the coalitional margin the exercise turns on.
+Replay this crisis from Beijing's seat: in **EconWar**, select the **Chinese** perspective and run the Taiwan Strait blockade scenario, choosing between a "quarantine" and a full blockade while weighing U.S. and allied counter-coercion (Treasury holdings, semiconductor and rare-earth chokepoints). Then run it from a **Global South** seat to see how non-aligned states price the cost of taking sides. Compare which coalition each seat can assemble; the exercise turns on that coalitional margin.
 
 
 ---
@@ -271,7 +271,7 @@ Replay this crisis from Beijing's seat: in **EconWar**, select the **Chinese** p
 
 A major earthquake measuring 7.8 on the Richter scale strikes central Taiwan, causing significant damage to infrastructure in Hsinchu Science Park, home to Taiwan Semiconductor Manufacturing Company (TSMC) and dozens of supporting firms. While TSMC's advanced fabs have earthquake protection, several critical facilities suffer damage that will take 4-6 months to fully repair. TSMC announces that production of advanced 3nm and 5nm chips will be reduced by approximately 40% for at least four months.
 
-Global markets react sharply. Within 48 hours, major automotive manufacturers announce production slowdowns in anticipation of chip shortages. Apple, NVIDIA, AMD, and Qualcomm stocks drop 15-20%. The White House receives urgent calls from industry leaders requesting government intervention.
+Markets react sharply. Within 48 hours, major automotive manufacturers announce production slowdowns in anticipation of chip shortages. Apple, NVIDIA, AMD, and Qualcomm stocks drop 15-20%. The White House receives urgent calls from industry leaders requesting government intervention.
 
 Simultaneously, intelligence reports indicate that China is considering using this crisis as a "window of opportunity" to pressure Taiwan, potentially by offering emergency semiconductor supplies in exchange for political concessions. Chinese state media emphasizes that "the reunification of the motherland would prevent such vulnerabilities."
 
@@ -492,7 +492,7 @@ After completing this exercise, participants should be able to:
 
 ### → EconWar Variant
 
-Replay the chokepoint shock from the **Chinese** seat: in **EconWar**, decide whether to exploit the TSMC disruption as leverage (conditional "relief" offers to select markets) or to show restraint, and watch how U.S. reshoring and allied diversification respond over successive turns. Then run it from a **European** seat balancing the EU's own chip fund against U.S. "America First" pressure. The contrast exposes how the same disruption creates leverage for one player and dependency for another - the substitution margin in action.
+Replay the chokepoint shock from the **Chinese** seat: in **EconWar**, decide whether to exploit the TSMC disruption as leverage (conditional "relief" offers to select markets) or to show restraint, and watch how U.S. reshoring and allied diversification respond over successive turns. Then run it from a **European** seat, balancing the EU's own chip fund against U.S. "America First" pressure. The same disruption gives one player leverage and another dependency; that is the substitution margin at work.
 
 
 ---
@@ -658,7 +658,7 @@ Chinese state media declares that "those who seek to contain China will find the
    - Impact on clean energy transition if rare earths become scarce/expensive
    - Chinese response to U.S. efforts to reduce dependence
    - Environmental and indigenous community impacts of accelerated mining
-   - Precedent for future resource weapon ization
+   - Precedent for future resource weaponization
 
 8. **China's Perspective:** From Beijing's viewpoint, why use rare earths as leverage? What does this reveal about Chinese strategic thinking?
 
@@ -748,7 +748,7 @@ After completing this exercise, participants should be able to:
 
 ### → EconWar Variant
 
-Run this scenario from Beijing's seat: in **EconWar**, select the **Chinese** perspective and use rare-earth and gallium/germanium export licensing as coercive leverage, testing how quickly U.S. stockpiling, allied pooling, and substitution R&D erode your advantage. Then switch to a **Global South** resource-holder seat (a Lynas-style producer or an African deposit) courted by both Washington and Beijing, and price the risk of committing to either. The pairing shows why concentrated supply is powerful but wasting - the "use it and lose it" dynamic.
+Run this scenario from Beijing's seat: in **EconWar**, select the **Chinese** perspective and use rare-earth and gallium/germanium export licensing as coercive leverage, testing how quickly U.S. stockpiling, allied pooling, and substitution R&D erode your advantage. Then switch to a **Global South** resource-holder seat (a Lynas-style producer or an African deposit) courted by both Washington and Beijing, and price the risk of committing to either. Concentrated supply gives power that wastes with use: the "use it and lose it" dynamic.
 
 
 ---
@@ -1019,7 +1019,7 @@ After completing this exercise, participants should be able to:
 
 ### → EconWar Variant
 
-Replay the export-control dilemma from the **Chinese** seat: in **EconWar**, respond to U.S. chip controls by choosing among smuggling, indigenous fabrication, and algorithmic efficiency (the real-world DeepSeek-style substitution), and observe whether controls delay you or accelerate your self-reliance. Then take the **U.S.** seat and calibrate control scope against lost revenue and allied defection. The two runs dramatize the exercise's core question: whether denial buys a durable lead or merely a head start.
+Replay the export-control dilemma from the **Chinese** seat: in **EconWar**, respond to U.S. chip controls by choosing among smuggling, indigenous fabrication, and algorithmic efficiency (the real-world DeepSeek-style substitution), and observe whether controls delay you or accelerate your self-reliance. Then take the **U.S.** seat and calibrate control scope against lost revenue and allied defection. Together the runs test the exercise's core question: whether denial buys a durable lead or only a head start.
 
 
 ---
@@ -1045,9 +1045,9 @@ Multiple submarine fiber-optic cables connecting Taiwan to the global internet a
 
 Initial reports suggest the damage occurred near cable landing stations but deep underwater, making immediate repair impossible. Repair ships will require 4-6 weeks to fix all breaks. Commercial satellite capacity cannot fully compensate for the lost bandwidth.
 
-Intelligence suggests Chinese fishing vessels and a survey ship were operating near the cable routes shortly before the breaks occurred. However, attribution is uncertain - breaks could be sabotage, accidents, or natural causes (underwater landslides, earthquakes).
+Intelligence suggests Chinese fishing vessels and a survey ship were operating near the cable routes shortly before the breaks occurred. However, attribution is uncertain: the breaks could be sabotage, accidents, or natural causes (underwater landslides, earthquakes).
 
-Taiwan alleges deliberate Chinese sabotage as part of hybrid warfare strategy. China denies involvement and suggests Taiwan is fabricating claims to garner international sympathy. The crisis creates immediate impacts on Taiwan's economy, financial sector, and ability to coordinate with allies.
+Taiwan alleges deliberate Chinese sabotage as part of a hybrid warfare strategy. China denies involvement and says Taiwan is fabricating claims to win international sympathy. The outage immediately hits Taiwan's economy, its financial sector, and its ability to coordinate with allies.
 
 ### Participant Roles
 
@@ -1123,7 +1123,7 @@ Intelligence also reveals:
 **Inject 3: Expanding Targeting**
 
 New reports indicate:
-- Undersea cable damage detected between Japan and U.S. (Guam) - minor disruption, suspicious timing
+- Undersea cable damage detected between Japan and U.S. (Guam): minor disruption, suspicious timing
 - Increased Chinese drone and surface vessel activity near cable routes in South China Sea
 - Chinese state media publishes articles on "cable vulnerabilities" and how fragile global connectivity is
 
@@ -1265,7 +1265,7 @@ Countries with Chinese cable investments (Pakistan, Myanmar, several African nat
 
 ### → EconWar Variant
 
-Run the gray-zone contest from the **Chinese** seat: in **EconWar**, apply pressure through deniable infrastructure disruption while managing attribution risk and coalition backlash, and see what threshold finally triggers a hard Western response. Then play a **European** seat coping with the parallel Baltic cable incidents, weighing patrols, cable redundancy, and vessel interdiction. The exercise rewards resilience investments that never make headlines - the defensive half of chokepoint politics.
+Run the gray-zone contest from the **Chinese** seat: in **EconWar**, apply pressure through deniable infrastructure disruption while managing attribution risk and coalition backlash, and see what threshold finally triggers a hard Western response. Then play a **European** seat coping with the parallel Baltic cable incidents, weighing patrols, cable redundancy, and vessel interdiction. The exercise rewards resilience investments that rarely make headlines, the defensive half of chokepoint politics.
 
 
 ---
@@ -1298,7 +1298,7 @@ China retaliates within 48 hours with:
 - 30% tariffs on U.S. energy exports (LNG, crude oil)
 - Initiation of anti-dumping and anti-monopoly investigations against U.S. firms
 
-Both sides frame their actions as defensive responses to the other's unfair practices. Global markets turn volatile. U.S. allies express concern about the costs the dispute imposes on them.
+Both sides call their actions defensive responses to the other's unfair practices. Markets turn volatile, and U.S. allies voice concern about the costs the dispute imposes on them.
 
 You are convened as the Trade Policy Review Group to assess the situation and develop next steps as the trade conflict escalates.
 
@@ -1479,7 +1479,7 @@ Short of these demands, China offers modest concessions:
 
 ### → EconWar Variant
 
-Replay the trade war from the **Chinese** seat: in **EconWar**, calibrate retaliation to maximize U.S. political pain (soybeans, Boeing, rare earths) while minimizing self-harm, and test how long you can "endure longer" before a truce serves your interest. Then take the **U.S.** seat and try to define a "win" that justifies de-escalating. Compare your outcomes against the real 2025 escalation-and-truce cycle summarized in the precedents above.
+Replay the trade war from the **Chinese** seat: in **EconWar**, calibrate retaliation to maximize U.S. political pain (soybeans, Boeing, rare earths) while minimizing self-harm, and test how long you can "endure longer" before a truce serves your interest. Then take the **U.S.** seat and try to define a "win" that justifies de-escalating. Compare your outcomes with the 2025 escalation-and-truce cycle summarized in the precedents above.
 
 
 ---
@@ -1501,14 +1501,14 @@ Replay the trade war from the **Chinese** seat: in **EconWar**, calibrate retali
 
 **Date: April 2028**
 
-The military junta in Myanmar, which has ruled since the 2021 coup, intensifies its brutal crackdown on pro-democracy protesters, ethnic minorities, and civil society. Reports document:
+The military junta in Myanmar, which has ruled since the 2021 coup, intensifies its crackdown on pro-democracy protesters, ethnic minorities, and civil society. Reports document:
 - Mass killings of civilians by security forces
 - Widespread use of torture and arbitrary detention
 - Forced displacement of 500,000+ Rohingya and ethnic minorities
 - Blocking humanitarian aid access to conflict zones
 - Attacks on schools, hospitals, and religious sites
 
-International outrage grows following leaked videos of atrocities. Congress passes bipartisan legislation demanding the Administration impose "comprehensive sanctions" on Myanmar's military regime. Regional allies (India, Thailand, Japan) express concern about refugee flows and regional instability but are reluctant to isolate Myanmar, which could drive it deeper into Chinese orbit.
+Leaked videos of atrocities provoke international outrage. Congress passes bipartisan legislation demanding the Administration impose "comprehensive sanctions" on Myanmar's military regime. Regional allies (India, Thailand, Japan) express concern about refugee flows and regional instability but are reluctant to isolate Myanmar, which could drive it deeper into Chinese orbit.
 
 You are convened as the Sanctions Policy Coordination Committee to design a financial sanctions package that maximizes pressure on the junta while managing humanitarian, economic, and geopolitical complications.
 
@@ -1712,7 +1712,7 @@ Allies request U.S. provide:
 
 ### → EconWar Variant
 
-Run the sanctions design from a **Global South** seat: in **EconWar**, play a state weighing whether to enforce U.S. secondary sanctions (and keep dollar access) or accept China's CIPS-based alternative and cheaper trade, and watch the aggregate effect on dollar centrality. Then take the **European** seat balancing values, refugee exposure, and business interests. The pairing surfaces the exercise's paradox: each additional turn of the sanctions screw is also an advertisement for alternatives to it.
+Run the sanctions design from a **Global South** seat: in **EconWar**, play a state weighing whether to enforce U.S. secondary sanctions (and keep dollar access) or accept China's CIPS-based alternative and cheaper trade, and watch the aggregate effect on dollar centrality. Then take the **European** seat balancing values, refugee exposure, and business interests. The exercise's paradox shows up here: each added turn of the sanctions screw also advertises the alternatives to it.
 
 
 ---
@@ -1734,7 +1734,7 @@ Run the sanctions design from a **Global South** seat: in **EconWar**, play a st
 
 **Date: July 2028**
 
-The Committee on Foreign Investment in the United States (CFIUS) faces three simultaneous high-profile cases requiring urgent decisions. Each involves Chinese investment in U.S. companies with potential national security implications but also significant economic consequences:
+The Committee on Foreign Investment in the United States (CFIUS) faces three simultaneous high-profile cases that need urgent decisions. Each involves Chinese investment in a U.S. company, with potential national security implications and significant economic consequences:
 
 **Case 1:** Chinese semiconductor equipment firm seeks to acquire 40% stake in U.S. precision machinery company that supplies components used in advanced chip manufacturing
 
@@ -1742,7 +1742,7 @@ The Committee on Foreign Investment in the United States (CFIUS) faces three sim
 
 **Case 3:** Chinese electric vehicle battery company wants to build $5 billion manufacturing facility in Michigan, creating 2,000 jobs in economically distressed region
 
-All three transactions have been voluntarily filed with CFIUS. You must decide: approve, approve with mitigation measures, or block each transaction. Congressional and industry pressure is intense. Presidential decision required within 30 days.
+All three transactions have been voluntarily filed with CFIUS. You must decide: approve, approve with mitigation measures, or block each transaction. Congressional and industry pressure is intense, and the President must decide within 30 days.
 
 ### Participant Roles
 
@@ -1936,7 +1936,7 @@ Chinese private equity fund "Golden Harvest Capital" proposes $2 billion investm
 **Setup:**
 - Give each participant the three case files (Injects 1-3) ahead of time and ask them to pre-mark approve / mitigate / block
 - Provide a one-page CFIUS primer (covered transactions, mandatory vs. voluntary filings, mitigation agreements, presidential blocking authority)
-- Remind participants that CFIUS assesses national-security risk, not economic-competition harm - a discipline the cases are designed to test
+- Remind participants that CFIUS assesses national-security risk, not economic-competition harm; the cases are built to test that discipline
 
 **Time Management:**
 - Phases 1-3: ~25 minutes per case; keep each case moving and bank time for synthesis
@@ -1975,7 +1975,7 @@ Chinese private equity fund "Golden Harvest Capital" proposes $2 billion investm
 
 ### → EconWar Variant
 
-Replay investment screening from the **Chinese** seat: in **EconWar**, structure outbound investments to pass Western screening - minority stakes, greenfield builds, third-country vehicles - and see which strategies survive a toughening CFIUS regime. Then take the **U.S.** seat and tune screening strictness against the cost of deterring benign capital. The two runs reveal screening as a repeated game, not a one-shot verdict.
+Replay investment screening from the **Chinese** seat: in **EconWar**, structure outbound investments to pass Western screening - minority stakes, greenfield builds, third-country vehicles - and see which strategies survive a toughening CFIUS regime. Then take the **U.S.** seat and tune screening strictness against the cost of deterring benign capital. Screening turns out to be a repeated game, not a one-shot verdict.
 
 
 ---
@@ -2003,7 +2003,7 @@ Following a military coup in a strategically located country (fictional "Meridia
 2. **South African Apartheid Sanctions (1960s-1994):** Comprehensive sanctions contributing to regime change
 3. **Cuba Embargo (1960-present):** Long-running unilateral sanctions with limited effectiveness
 
-**Current Crisis:** Meridiana's military has overthrown democratically elected government, arrested opposition leaders, and declared martial law. The country sits at a critical geographic chokepoint for energy transit and hosts significant rare earth deposits. Both China and Russia have economic interests in Meridiana and are offering financial support to the junta.
+**Current Crisis:** Meridiana's military has overthrown democratically elected government, arrested opposition leaders, and declared martial law. The country sits at a geographic chokepoint for energy transit and hosts significant rare earth deposits. Both China and Russia have economic interests in Meridiana and are offering financial support to the junta.
 
 ### Participant Roles
 
@@ -2227,7 +2227,7 @@ Participants must design sanctions strategy addressing:
 
 ### → EconWar Variant
 
-Run the Meridiana problem from a **Global South** seat: in **EconWar**, play a strategically located, resource-rich state under coercion and decide how far to lean on Chinese and Russian lifelines versus accommodating Western demands - the target's-eye view the tabletop only imagines. Then take the **European** seat, where energy-transit dependence complicates coalition unity. The contrast makes concrete why external lifelines (the Cuba condition) so often defeat unilateral pressure.
+Run the Meridiana problem from a **Global South** seat: in **EconWar**, play a strategically located, resource-rich state under coercion and decide how far to lean on Chinese and Russian lifelines versus accommodating Western demands - the target's-eye view the tabletop can only imagine. Then take the **European** seat, where energy-transit dependence complicates coalition unity. The contrast shows why external lifelines (the Cuba condition) so often defeat unilateral pressure.
 
 
 ---
@@ -2249,7 +2249,7 @@ Run the Meridiana problem from a **Global South** seat: in **EconWar**, play a s
 
 **Date: June 2030**
 
-The United States faces a multi-domain crisis as tensions with China escalate across economic, technological, and environmental spheres. Where earlier crises tended to center on a single event or domain, this one involves simultaneous pressure across interconnected systems, which creates cascading risks and unfamiliar policy dilemmas.
+The United States faces a multi-domain crisis as tensions with China escalate across economic, technological, and environmental spheres. Earlier crises tended to center on a single event or domain; this one puts simultaneous pressure on interconnected systems, with cascading risks and unfamiliar policy dilemmas.
 
 The crisis unfolds across five interrelated dimensions:
 1. **Climate:** Extreme weather disrupts critical supply chains
@@ -2258,7 +2258,7 @@ The crisis unfolds across five interrelated dimensions:
 4. **Financial:** Digital currency warfare and payment system fragmentation
 5. **Biotech:** Synthetic biology enabling new forms of coercion
 
-You are convened as the Strategic Competition Policy Committee to manage escalating tensions and develop integrated response strategies for 21st century economic statecraft.
+You are convened as the Strategic Competition Policy Committee to manage the escalation and develop integrated response strategies.
 
 ### Participant Roles
 
@@ -2533,7 +2533,7 @@ China offers:
 
 ### → EconWar Variant
 
-This capstone scenario is best replayed across all four **EconWar** seats in sequence - **U.S.**, **Chinese**, **European**, and **Global South** - running the same multi-domain shock from each perspective. Note which "shocks" one seat experiences as leverage and another as cost (a Chinese green-tech halt hurts Beijing's own exporters; de-dollarization erodes a tool the U.S. relies on). Debrief on where the seats' interests unexpectedly align - climate, space debris, pandemic response - and whether those shared-fate domains can be walled off from the rivalry.
+I suggest replaying this capstone scenario across all four **EconWar** seats in sequence (**U.S.**, **Chinese**, **European**, and **Global South**), running the same multi-domain shock from each perspective. Note which shocks one seat experiences as leverage and another as cost (a Chinese green-tech halt hurts Beijing's own exporters; de-dollarization erodes a tool the U.S. relies on). Debrief on where the seats' interests unexpectedly align - climate, space debris, pandemic response - and whether those shared-fate domains can be walled off from the rivalry.
 
 
 ---
