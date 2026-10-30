@@ -4,37 +4,37 @@
 
 After completing this chapter, you will be able to:
 
-- Explain why financial coercion rests on structural features of the international monetary system—reserve-currency status, dollar clearing, and control of payments infrastructure—rather than on U.S. economic size alone.
+- Explain why financial coercion rests on structural features of the international monetary system (reserve-currency status, dollar clearing, and control of payments infrastructure) rather than on U.S. economic size alone.
 - Describe OFAC's sanctions architecture: its legal authorities, the SDN List and the 50% Rule, designation and licensing processes, and the compliance behavior (including over-compliance) it induces across the global financial system.
 - Distinguish primary from secondary sanctions and assess why extraterritorial measures are highly effective against firms but constrained against major powers such as China.
-- Evaluate the "self-undermining" logic of financial statecraft: how each conspicuous use of the dollar's centrality—above all the 2022 freeze of Russia's central bank reserves—raises the return to building alternatives.
-- Assess the substitution margin in the financial domain—CIPS, renminbi internationalization, BRICS proposals, CBDCs, gold, and stablecoins—and explain why network effects and collective-action problems make de-dollarization gradual rather than sudden.
+- Evaluate the "self-undermining" logic of financial statecraft: how each conspicuous use of the dollar's centrality, above all the 2022 freeze of Russia's central bank reserves, raises the return to building alternatives.
+- Assess the substitution margin in the financial domain (CIPS, renminbi internationalization, BRICS proposals, CBDCs, gold, and stablecoins) and explain why network effects and collective-action problems make de-dollarization gradual rather than sudden.
 
 ## Executive Summary
 
-Financial coercion rests on an unusual fact: a single national currency, together with the plumbing that moves it, sits at the center of the world economy, and the state with jurisdiction over that plumbing can deny others access to it. The reach of that power was on display on February 26, 2022, two days after Russia’s full-scale invasion of Ukraine, when the United States, European Union, United Kingdom, and Canada announced unprecedented financial sanctions: freezing Russian Central Bank reserves held in Western financial institutions (an estimated $300+ billion) (U.S. Treasury 2022), removing major Russian banks from the SWIFT international payments messaging system, and imposing comprehensive restrictions on transactions with Russian entities. Within days the ruble collapsed 30%, Russian stock markets plunged, and Western firms moved to unwind Russian exposure. French Finance Minister Bruno Le Maire declared that the West was "waging an all-out economic and financial war on Russia"—a phrasing he walked back days later as incompatible with de-escalation (Le Maire, France Info, March 1, 2022). The action was the culmination of decades spent building a U.S.-centered financial architecture, and it turned the same infrastructure that facilitates global liquidity into the primary conduit for coercion.
+Financial coercion rests on an unusual fact: a single national currency, together with the plumbing that moves it, sits at the center of the world economy, and the state with jurisdiction over that plumbing can deny others access to it. The reach of that power was on display on February 26, 2022, two days after Russia’s full-scale invasion of Ukraine, when the United States, European Union, United Kingdom, and Canada announced financial sanctions on Russia: freezing Russian Central Bank reserves held in Western financial institutions (an estimated $300+ billion) (U.S. Treasury 2022), removing major Russian banks from the SWIFT international payments messaging system, and imposing comprehensive restrictions on transactions with Russian entities. Within days the ruble collapsed 30%, Russian stock markets plunged, and Western firms moved to unwind Russian exposure. French Finance Minister Bruno Le Maire declared that the West was "waging an all-out economic and financial war on Russia," a phrasing he walked back days later as incompatible with de-escalation (Le Maire, France Info, March 1, 2022). The action was the culmination of decades spent building a U.S.-centered financial architecture, and it turned the same infrastructure that facilitates global liquidity into the primary conduit for coercion.
 
-Financial sanctions operate through money and payments rather than physical destruction. They do not destroy factories or blockade ports, but their effects can be severe. A firm cut off from dollar-denominated payments, or a state cut off from global banking, can face acute crisis. Understanding how this power works, and how it might unravel, requires attention to three dynamics.
+Financial sanctions operate through money and payments rather than physical destruction. They do not destroy factories or blockade ports, but a firm cut off from dollar-denominated payments, or a state cut off from global banking, can face acute crisis. Three dynamics explain how this power works and how it might unravel.
 
 The first is that U.S. financial power rests on structural advantages in the international monetary system, not simply economic size. The dollar's role as dominant reserve currency (56.92% of global foreign exchange reserves in 2025Q3), payment currency (50.49% of global SWIFT payments by value in December 2025; 58.62% excluding euro-area internal payments), and safe haven asset creates network effects (IMF COFER, December 19, 2025; SWIFT RMB Tracker, January 2026) and path dependencies that competitors cannot easily replicate. Jurisdiction over dollar clearing gives the United States particular leverage, while EU jurisdiction over SWIFT and Belgian jurisdiction over Euroclear make allied coordination consequential. Market centrality amplifies these legal authorities; it does not itself establish jurisdiction over every transaction.
 
 The second is that U.S. financial coercion has expanded in scope and ambition, moving from targeted individuals and entities to entire economies and financial systems. Traditional sanctions blocked specific terrorists, narcotics traffickers, or proliferators from U.S. financial system access. Modern sanctions include broad country restrictions (Iran and North Korea), government-blocking and sectoral measures (Venezuela), freeze central bank reserves (Russia, Afghanistan), and employ secondary sanctions forcing third parties to choose between U.S. and target markets. This escalation raises questions about sustainability and blowback.
 
-The third is that aggressive use of financial sanctions generates counter-balancing efforts that may erode long-term U.S. advantages. China's Cross-Border Interbank Payment System (CIPS), BRICS discussions of alternative currency arrangements, Russia-China bilateral settlement in national currencies, and central bank digital currency experiments all aim to reduce dollar dependence and create sanction-resistant alternatives. Whether these efforts succeed depends on network effects, trust, and the fundamental attributes making currencies attractive, questions the chapter explores throughout.
+The third is that aggressive use of financial sanctions generates counter-balancing efforts that may erode long-term U.S. advantages. China's Cross-Border Interbank Payment System (CIPS), BRICS discussions of alternative currency arrangements, Russia-China bilateral settlement in national currencies, and central bank digital currency experiments all aim to reduce dollar dependence and create sanction-resistant alternatives. Whether these efforts succeed depends on network effects, trust, and the attributes that make currencies attractive, questions taken up throughout the sections below.
 
-The analysis traces dollar privilege and financial infrastructure, OFAC's sanctions architecture, secondary sanctions and extraterritorial reach, and de-dollarization efforts. Government Tools Boxes detail OFAC's designation machinery and the SDN List, and examine secondary sanctions authorities (CISADA, CAATSA) that extend U.S. coercive reach to non-U.S. persons and transactions. Chinese and Global South perspectives on financial sovereignty and the sanctions backlash are integrated throughout.
+I trace dollar privilege and financial infrastructure, OFAC's sanctions architecture, secondary sanctions and extraterritorial reach, and de-dollarization efforts. Government Tools Boxes detail OFAC's designation machinery and the SDN List, and examine secondary sanctions authorities (CISADA, CAATSA) that extend U.S. coercive reach to non-U.S. persons and transactions. Chinese and Global South perspectives on financial sovereignty and the sanctions backlash appear throughout.
 
-Financial sanctions are the sharpest tool in the U.S. economic coercion arsenal, and also the most self-undermining. The more effective the sanction, the greater the incentive for system-wide exit. Used too sparingly, sanctions allow adversaries to act with little cost; used too aggressively, they erode the dollar's dominance. The middle ground is narrow.
+Financial sanctions are the sharpest tool in the U.S. economic coercion arsenal, and also the most self-undermining. The more effective the sanction, the greater the incentive for system-wide exit. Used too sparingly, sanctions allow adversaries to act with little cost; used too aggressively, they erode the dollar's dominance, and the middle ground is narrow.
 
 ---
 
 ## Dollar Privilege and Financial Infrastructure
 
-Financial sanctions' effectiveness derives from the U.S. dollar's dominant position in the international monetary system and U.S. control over critical financial infrastructure. This section maps these structural advantages, explaining how currency and payment system characteristics enable coercion.
+Financial sanctions' effectiveness derives from the U.S. dollar's dominant position in the international monetary system and U.S. control over critical financial infrastructure. I map these advantages below and show how currency and payment-system characteristics enable coercion.
 
 ### The Dollar's Privileged Position
 
-Figure 7.1 shows the holdings that give this section its subject. The detail worth noting is China's trajectory: down by nearly half from its 2014 peak and, since the March 2025 TIC release, behind both Japan and the United Kingdom. Whatever leverage a large Treasury position was once thought to confer, Beijing has spent a decade reducing its exposure to it.
+Figure 7.1 shows the holdings that give this section its subject. China's trajectory stands out: down by nearly half from its 2014 peak and, since the March 2025 TIC release, behind both Japan and the United Kingdom. Whatever leverage a large Treasury position was once thought to confer, Beijing has spent a decade reducing its exposure to it.
 
 <figure class="book-figure">
   <img src="../figures/fig_07_01_treasury_holdings.png" alt="Panel A: lines of Treasury holdings by China, Japan and the United Kingdom. Panel B: bars of the ten largest foreign holders.">
@@ -53,7 +53,7 @@ The U.S. dollar comprises 56.92% of global foreign exchange reserves (2025Q3) (I
 
 {% hint style="info" %}
 **The Self-Reinforcing Nature of Dollar Dominance**
-The dollar's dominance creates a powerful feedback loop: because everyone uses dollars, dollar markets are the most liquid; because they're the most liquid, transaction costs are lowest; because costs are lowest, everyone prefers dollars. This network effect means displacing the dollar requires not just a better alternative, but coordinated mass adoption—something like convincing everyone to switch from QWERTY keyboards simultaneously. Even countries hostile to U.S. policy find themselves trapped in dollar dependence by this logic.
+The dollar's dominance creates a feedback loop: because everyone uses dollars, dollar markets are the most liquid; because they're the most liquid, transaction costs are lowest; because costs are lowest, everyone prefers dollars. This network effect means displacing the dollar requires coordinated mass adoption of a better alternative, something like convincing everyone to switch from QWERTY keyboards simultaneously. Even countries hostile to U.S. policy find themselves trapped in dollar dependence by this logic.
 {% endhint %}
 
 **Reserve Currency Composition (2025Q3, IMF COFER)**:
@@ -64,7 +64,7 @@ The dollar's dominance creates a powerful feedback loop: because everyone uses d
 
 The euro's 20% share (representing EU's ~17% of global GDP, per World Bank WDI) suggests currency share can exceed GDP share if backed by deep financial markets and institutional credibility. Yet the euro faces structural challenges (lack of unified fiscal authority, fragmented bond markets) limiting its reserve currency appeal.
 
-China's renminbi remains distant third despite China's 18% of global GDP (World Bank WDI). Capital controls, limited currency convertibility, underdeveloped bond markets, and concerns about rule of law constrain international renminbi adoption, points the chapter explores in Section 4.
+China's renminbi remains a distant third despite China's 18% of global GDP (World Bank WDI). Capital controls, limited currency convertibility, underdeveloped bond markets, and concerns about rule of law constrain international renminbi adoption, points taken up in Section 4.
 
 **Invoicing and Trade Settlement**
 
@@ -76,23 +76,23 @@ Beyond reserves, the dollar dominates international trade invoicing and settleme
 
 **Why dollar invoicing matters for sanctions**: When trade is invoiced in dollars, payments flow through U.S. financial system or correspondent banks with U.S. connections. This creates jurisdiction for U.S. sanctions enforcement. A Chinese firm buying Brazilian soybeans in dollars must clear payment through U.S.-connected banks, giving Treasury visibility and control.
 
-**Dominant Currency Paradigm**: Research by Gopinath and others demonstrates exchange rate pass-through is asymmetric (Gopinath et al. 2020): when dollar strengthens, import prices in non-U.S. countries rise more than when local currencies weaken. This "dollar-invoicing" phenomenon means global trade volumes respond to dollar fluctuations, not only bilateral exchange rates, further entrenching dollar centrality.
+**Dominant Currency Paradigm**: Research by Gopinath and others shows that exchange rate pass-through is asymmetric (Gopinath et al. 2020): when dollar strengthens, import prices in non-U.S. countries rise more than when local currencies weaken. This "dollar-invoicing" phenomenon means global trade volumes respond to dollar fluctuations, not only bilateral exchange rates, further entrenching dollar centrality.
 
 **Debt Denomination**
 
-Dollar-denominated debt owed by borrowers outside the United States totaled roughly $14 trillion in 2025—debt issued by non-U.S. entities in dollars (BIS 2026):
+Dollar-denominated debt owed by borrowers outside the United States totaled roughly $14 trillion in 2025, meaning debt issued by non-U.S. entities in dollars (BIS 2026):
 
 - **Emerging market sovereigns**: Many governments borrow in dollars, creating currency mismatches (borrow in dollars, earn revenue in local currency)
 - **Corporations**: Multinational firms issue dollar bonds to access deep U.S. capital markets
 - **Financial institutions**: Banks worldwide maintain dollar funding to service international clients
 
-**Sanctions implications**: Entities with dollar debts require dollar access to service obligations. Sanctions blocking dollar access can trigger defaults, bankruptcies, and financial crises, amplifying coercive pressure.
+**Sanctions implications**: Entities with dollar debts need dollar access to service them, so sanctions blocking that access can trigger defaults, bankruptcies, and financial crises, amplifying coercive pressure.
 
 ### Payment System Infrastructure: SWIFT and Correspondent Banking
 
 **Society for Worldwide Interbank Financial Telecommunication (SWIFT)**
 
-Figure 7.2 records what has actually happened to currency shares over the period in which de-dollarization has been most discussed. The dollar's share of payment value rose after 2022 rather than falling, and the renminbi peaked in 2023 before receding — a pattern worth holding in mind through the sections that follow, which take the alternatives seriously without assuming they are winning.
+Figure 7.2 records what has actually happened to currency shares over the period in which de-dollarization has been most discussed. The dollar's share of payment value rose after 2022 rather than falling, and the renminbi peaked in 2023 before receding. The sections that follow take the alternatives seriously without assuming they are winning.
 
 <figure class="book-figure">
   <img src="../figures/fig_07_02_swift_currencies.png" alt="Panel A: lines of currency shares of SWIFT payments, with the dollar and euro leading. Panel B: line of the Chinese yuan's share.">
@@ -121,7 +121,7 @@ SWIFT disconnection removes access to a widely used messaging channel; it does n
 
 {% hint style="warning" %}
 **The Financial Nuclear Option**
-SWIFT disconnection is deliberately called the "financial nuclear option" because, like nuclear weapons, its power comes partly from the threat of its use. Access can be restored if legal restrictions are lifted, but the target’s incentive to build alternatives may persist after restoration. Iran, after its 2012 and 2018 SWIFT disconnections, accelerated development of alternative payment systems. Russia, after 2022, fast-tracked SPFS (its SWIFT alternative) and expanded bilateral settlement with China. Each use of the nuclear option motivates more countries to build fallout shelters.
+SWIFT disconnection is deliberately called the "financial nuclear option" because, like nuclear weapons, its power comes partly from the threat of its use. Access can be restored if legal restrictions are lifted, but the target’s incentive to build alternatives may persist after restoration. Iran, after its 2012 and 2018 SWIFT disconnections, accelerated development of alternative payment systems. Russia, after 2022, fast-tracked SPFS (its SWIFT alternative) and expanded bilateral settlement with China. Each use gives more countries a reason to build alternatives.
 {% endhint %}
 
 **Correspondent Banking**
@@ -134,11 +134,11 @@ Most banks cannot directly clear international payments; instead they use corres
 
 **Sanctions mechanism**: Treasury can pressure correspondent banks to terminate relationships with sanctioned entities. If Bank B faces choice between access to U.S. financial system (profitable) or servicing sanctioned Bank A (risky, low-profit), Bank B terminates relationship. This "de-risking" cascades through banking system, effectively excluding sanctioned entities even from non-dollar transactions.
 
-**Example - North Korea isolation**: Following 2016-2017 nuclear tests, U.S. Treasury systematically pressured Chinese banks maintaining North Korean accounts (Zarate 2013). Bank of China, China Construction Bank, Agricultural Bank of China all terminated North Korean relationships. Combined with SWIFT access restrictions, North Korea became largely excluded from international banking—forced to rely on cash couriers, shell companies, and cryptocurrency.
+**Example - North Korea isolation**: Following 2016-2017 nuclear tests, U.S. Treasury systematically pressured Chinese banks maintaining North Korean accounts (Zarate 2013). Bank of China, China Construction Bank, Agricultural Bank of China all terminated North Korean relationships. Combined with SWIFT access restrictions, North Korea became largely excluded from international banking and had to rely on cash couriers, shell companies, and cryptocurrency.
 
 ### Financial Market Depth and Liquidity
 
-U.S. financial markets' extraordinary depth and liquidity amplify dollar attractiveness:
+The depth and liquidity of U.S. financial markets add to the dollar's appeal:
 
 **U.S. Treasury Market**:
 - $27 trillion outstanding (2024) (U.S. Treasury), most liquid bond market globally
@@ -153,7 +153,7 @@ U.S. financial markets' extraordinary depth and liquidity amplify dollar attract
 
 **Equity Markets**:
 - U.S. stock market capitalization ~$50 trillion (40% of global)
-- Depth enables massive capital raising (Apple $3 trillion market cap; Saudi Aramco IPO raised $29 billion in 2019 but still listed on Tadawul, not NYSE)
+- Depth enables large capital raising (Apple $3 trillion market cap; Saudi Aramco IPO raised $29 billion in 2019 but still listed on Tadawul, not NYSE)
 
 **Foreign Exchange Market**:
 - 88% of foreign exchange transactions involve the dollar (2022 BIS Triennial Survey)
@@ -194,12 +194,12 @@ Multiple U.S. agencies enforce financial sanctions:
 - **State Department**: Diplomatic coordination; designates state sponsors of terrorism
 - **Commerce Department - Bureau of Industry and Security**: Export controls (overlapping with financial restrictions)
 
-**Penalties**: Civil penalties up to the greater of $377,700 per violation (the 2025 inflation-adjusted IEEPA maximum, re-indexed each January) or twice transaction value; criminal penalties up to $1 million and 20 years imprisonment for willful violations. Financial institutions face enormous fines for sanctions violations:
+**Penalties**: Civil penalties up to the greater of $377,700 per violation (the 2025 inflation-adjusted IEEPA maximum, re-indexed each January) or twice transaction value; criminal penalties up to $1 million and 20 years imprisonment for willful violations. Financial institutions face large fines for sanctions violations:
 - BNP Paribas: $8.9 billion (2014) for violating Cuba, Iran, Sudan sanctions (U.S. Department of Justice)
 - Standard Chartered: $1.1 billion (2019) for Iran sanctions violations (OFAC)
 - UniCredit: $1.3 billion (2019) for Iran, Syria, Libya sanctions violations (OFAC)
 
-These massive penalties incentivize over-compliance: banks often refuse transactions remotely related to sanctioned jurisdictions to avoid risk.
+These penalties incentivize over-compliance: banks often refuse transactions remotely related to sanctioned jurisdictions to avoid risk.
 
 ### Vulnerabilities and Limits
 
@@ -234,21 +234,21 @@ Digital currencies and blockchain technologies may enable sanctions circumventio
 
 Freezing Russia's central bank reserves (2022) called into question the safety of dollar reserves more broadly. If holding dollar reserves carries a risk of confiscation for geopolitical reasons, the incentive to hold them weakens. This "weaponization" concern motivates reserve diversification even among U.S. partners, and central bankers who once treated dollar reserves as the safest available asset now weigh the possibility that such reserves could be frozen.
 
-The concern deepened in 2024–25 as the G7 moved from immobilizing Russia's reserves to monetizing them. Rather than confiscate the roughly $300 billion in frozen assets outright—a step most jurisdictions judged legally fraught—the G7 agreed in October 2024 to lend Ukraine $50 billion through "Extraordinary Revenue Acceleration" (ERA) loans, to be serviced and repaid out of the windfall interest earned on the immobilized assets (the bulk held at Belgium's Euroclear). On the U.S. side, the REPO Act (Rebuilding Economic Prosperity and Opportunity for Ukrainians Act, April 2024) authorized the Treasury to tap these proceeds, and Washington disbursed its $20 billion tranche by late 2024 (G7 2024; U.S. Treasury 2024). For reserve managers watching from Beijing, Riyadh, or New Delhi, the ERA mechanism is a sharper signal than the freeze itself: even short of outright seizure, an issuing coalition can direct the earnings on another sovereign's reserves against that sovereign's interests.
+The concern deepened in 2024–25 as the G7 moved from immobilizing Russia's reserves to monetizing them. Rather than confiscate the roughly $300 billion in frozen assets outright (a step most jurisdictions judged legally fraught), the G7 agreed in October 2024 to lend Ukraine $50 billion through "Extraordinary Revenue Acceleration" (ERA) loans, to be serviced and repaid out of the windfall interest earned on the immobilized assets (the bulk held at Belgium's Euroclear). On the U.S. side, the REPO Act (Rebuilding Economic Prosperity and Opportunity for Ukrainians Act, April 2024) authorized the Treasury to tap these proceeds, and Washington disbursed its $20 billion tranche by late 2024 (G7 2024; U.S. Treasury 2024). For reserve managers watching from Beijing, Riyadh, or New Delhi, the ERA mechanism is a sharper signal than the freeze itself: even short of outright seizure, an issuing coalition can direct the earnings on another sovereign's reserves against that sovereign's interests.
 
 ---
 
 ## OFAC Sanctions Architecture
 
-The Office of Foreign Assets Control (OFAC) within the U.S. Department of Treasury administers and enforces economic sanctions against targeted foreign countries, entities, and individuals. With a staff of roughly 200, OFAC wields authority over trillions of dollars in transactions, maintaining sanctions programs affecting over 12,000 targets across 30+ countries. Understanding OFAC's structure, authorities, and mechanisms shows how financial sanctions translate from policy objectives into economic pressure.
+The Office of Foreign Assets Control (OFAC) within the U.S. Department of Treasury administers and enforces economic sanctions against targeted foreign countries, entities, and individuals. With a staff of roughly 200, OFAC has authority over trillions of dollars in transactions and maintains sanctions programs affecting over 12,000 targets across 30+ countries. Its structure, authorities, and mechanisms show how financial sanctions translate from policy objectives into economic pressure.
 
 ### Legal Authorities
 
-OFAC operates under multiple statutory authorities. The primary basis is **IEEPA** (detailed in Chapter 1's Government Tools Box), which grants the President broad power to block transactions, freeze assets, and regulate economic activity during declared national emergencies. Additional authorities include **TWEA** (Trading with the Enemy Act, now applicable only to Cuba), **country-specific statutes** (CISADA for Iran, CAATSA for Russia/Iran/North Korea, the Magnitsky Acts for human rights abusers), and **UN Security Council resolutions**. These statutes sometimes constrain presidential discretion by mandating specific sanctions or limiting waivers, but IEEPA provides broad residual authority for additional measures.
+OFAC operates under multiple statutory authorities. The primary basis is **IEEPA** (detailed in Chapter 1's Government Tools Box), which grants the President broad power to block transactions, freeze assets, and regulate economic activity during declared national emergencies. Additional authorities include **TWEA** (Trading with the Enemy Act, now applicable only to Cuba), country-specific statutes (CISADA for Iran, CAATSA for Russia/Iran/North Korea, the Magnitsky Acts for human rights abusers), and UN Security Council resolutions. These statutes sometimes constrain presidential discretion by mandating specific sanctions or limiting waivers, but IEEPA provides broad residual authority for additional measures.
 
 ### Types of Sanctions Programs
 
-Figure 7.3 shows how large OFAC's own enforcement settlements have been, and how unevenly they fall across years. The growth is less a series of discrete decisions than an accumulation: programs are added far more readily than they are retired, which is one reason the question of off-ramps recurs throughout this chapter.
+Figure 7.3 shows how large OFAC's own enforcement settlements have been, and how unevenly they fall across years. The growth is an accumulation: programs are added far more readily than they are retired, which is one reason the question of off-ramps recurs throughout this chapter.
 
 <figure class="book-figure">
   <img src="../figures/fig_07_03_sanctions_programs.png" alt="Two panels of OFAC enforcement data. A: bars for the 15 OFAC settlements of $150 million or more, 2009 to 2026, 11 of them with banks and led by Binance and BNP Paribas. B: annual totals of OFAC penalties and settlements, 2006 to 2026, concentrated in a few years with very large cases.">
@@ -275,7 +275,7 @@ Prohibit transactions with specific individuals, entities, vessels, or aircraft 
 - **Specially Designated Nationals and Blocked Persons (SDN) List**: Over 12,000 entries (individuals, companies, vessels, aircraft) whose assets are blocked and with whom U.S. persons cannot transact
 - **Non-SDN Lists**: Sectoral Sanctions Identifications List (SSI), Foreign Sanctions Evaders List (FSE), Non-SDN Menu-Based Sanctions List, etc. - varying restrictions
 
-Targeted sanctions enable surgical precision, blocking specific proliferators, terrorists, narcotics traffickers, or human rights abusers without comprehensive country-wide restrictions.
+Targeted sanctions block specific proliferators, terrorists, narcotics traffickers, or human rights abusers without comprehensive country-wide restrictions.
 
 **Sectoral Sanctions**
 
@@ -284,9 +284,9 @@ Prohibit specific transaction types with designated entities in targeted sectors
 - **Russia Sectoral Sanctions**: Restrictions on transactions involving debt/equity of major Russian banks (e.g., Sberbank, VTB), energy companies (Gazprom, Rosneft, Novatek), and defense firms (prohibiting specific financing, technology transfers, or services)
 - **Venezuela Sectoral Sanctions**: Restrictions on PdVSA (state oil company) transactions
 
-Sectoral sanctions impose targeted pain on strategic industries while permitting other economic activity. More calibrated than comprehensive sanctions but complex to administer and susceptible to circumvention.
+Sectoral sanctions impose costs on strategic industries while permitting other economic activity. More calibrated than comprehensive sanctions but complex to administer and susceptible to circumvention.
 
-Sectoral measures can also escalate into full blocking. On October 22, 2025, OFAC designated Rosneft and Lukoil—Russia's two largest oil producers, together roughly half of Russian crude output—as SDNs under Executive Order 14024, moving them from the calibrated sectoral regime into the comprehensive category and freezing their U.S.-jurisdiction property outright. These were the first Russia-related designations of the second Trump administration, timed to pressure Moscow toward a ceasefire and coordinated with the United Kingdom's asset freezes (October 15) and the European Union's nineteenth sanctions package (U.S. Treasury 2025). The move illustrates how the sectoral-versus-comprehensive boundary is a policy dial rather than a fixed line.
+Sectoral measures can also escalate into full blocking. On October 22, 2025, OFAC designated Rosneft and Lukoil (Russia's two largest oil producers, together roughly half of Russian crude output) as SDNs under Executive Order 14024, moving them from the calibrated sectoral regime into the comprehensive category and freezing their U.S.-jurisdiction property outright. These were the first Russia-related designations of the second Trump administration, timed to pressure Moscow toward a ceasefire and coordinated with the United Kingdom's asset freezes (October 15) and the European Union's nineteenth sanctions package (U.S. Treasury 2025). The move illustrates how the sectoral-versus-comprehensive boundary is a policy dial rather than a fixed line.
 
 **Secondary Sanctions**
 
@@ -303,16 +303,16 @@ OFAC adds individuals and entities to the SDN List through interagency review: i
 
 {% hint style="info" %}
 **The 50% Rule Explained**
-OFAC's "50% Rule" is a crucial anti-evasion mechanism. If a sanctioned entity owns 50% or more of a company—even a company not explicitly listed on any sanctions list—that company is automatically sanctioned too. The rule applies to chains of ownership: if Sanctioned Company A owns 60% of Company B, and Company B owns 80% of Company C, then Company C is also sanctioned (even though it's two steps removed). Banks must trace ownership structures carefully, which is why compliance costs are so high.
+OFAC's "50% Rule" is an anti-evasion mechanism. If a sanctioned entity owns 50% or more of a company, even one not explicitly listed on any sanctions list, that company is automatically sanctioned too. The rule applies to chains of ownership: if Sanctioned Company A owns 60% of Company B, and Company B owns 80% of Company C, then Company C is also sanctioned (even though it's two steps removed). Banks must trace ownership structures carefully, which is why compliance costs are so high.
 {% endhint %}
 
 Evidentiary standards are low (internal "administrative record," limited judicial review), enabling rapid designations but raising due process concerns. Delisting is difficult: designated parties bear the burden of proving changed circumstances, with no statutory review deadline.
 
 ### Licensing and Compliance
 
-OFAC manages sanctions flexibility through **general licenses** (authorizing categories of transactions without applications—humanitarian aid, personal remittances, diplomatic activities, telecommunications) and **specific licenses** (case-by-case approvals for compelling exceptions like medical treatment or contract wind-downs).
+OFAC manages sanctions flexibility through **general licenses** (authorizing categories of transactions without applications: humanitarian aid, personal remittances, diplomatic activities, telecommunications) and **specific licenses** (case-by-case approvals for compelling exceptions like medical treatment or contract wind-downs).
 
-U.S. financial institutions must screen all transactions against OFAC lists in real-time, immediately freeze designated parties' assets, and maintain comprehensive compliance programs (dedicated officers, training, audit, recordkeeping). The consequences of non-compliance are severe—the enforcement penalties detailed earlier—and drive the over-compliance ("de-risking") examined in this chapter's discussion of humanitarian exceptions below.
+U.S. financial institutions must screen all transactions against OFAC lists in real-time, immediately freeze designated parties' assets, and maintain comprehensive compliance programs (dedicated officers, training, audit, recordkeeping). The consequences of non-compliance are severe (the enforcement penalties detailed earlier) and drive the over-compliance ("de-risking") examined in this chapter's discussion of humanitarian exceptions below.
 
 ### Humanitarian Exceptions and Challenges
 
@@ -325,22 +325,20 @@ Sanctions laws provide humanitarian exceptions, yet implementation faces challen
 
 **Practical Barriers**
 
-Despite exemptions, humanitarian actors face obstacles:
-
 **Over-compliance**: Banks' sanctions compliance systems often flag humanitarian transactions to sanctioned countries (Iran, Syria, Yemen), leading to rejection even when legally permitted. Risk-averse banks avoid entire sanctioned jurisdictions.
 
-**Payment processing**: International NGOs struggle to pay local staff, suppliers, partners in sanctioned countries when banks refuse transactions. Forces reliance on cash couriers, local currency, informal value transfer (hawala)—inefficient and risky.
+**Payment processing**: International NGOs struggle to pay local staff, suppliers, partners in sanctioned countries when banks refuse transactions. Forces reliance on cash couriers, local currency, informal value transfer (hawala), which is inefficient and risky.
 
 **Licensing delays**: While general licenses cover many humanitarian activities, complex projects may require specific licenses. Approval delays (months) hamper time-sensitive humanitarian response.
 
-**Chilling effect**: Even authorized activities face challenges when suppliers, shippers, insurers refuse involvement due to sanctions concerns. Comprehensive sanctions (Iran, Syria, North Korea) create environments where humanitarian aid becomes extremely difficult despite legal exemptions.
+**Chilling effect**: Even authorized activities face challenges when suppliers, shippers, insurers refuse involvement due to sanctions concerns. Comprehensive sanctions (Iran, Syria, North Korea) create environments where humanitarian aid becomes very difficult despite legal exemptions.
 
 {% hint style="warning" %}
 **The De-Risking Problem**
-Banks don't just comply with sanctions—they over-comply. The threat of billion-dollar fines (BNP Paribas paid $8.9 billion) makes banks extremely risk-averse. Rather than carefully evaluate whether a transaction is permitted, many banks simply refuse all transactions with any connection to sanctioned countries. This "de-risking" behavior blocks legal humanitarian aid, prevents families from sending remittances, and makes it nearly impossible for NGOs to operate in sanctioned countries—even when their activities are explicitly permitted by law.
+Banks over-comply with sanctions. The threat of billion-dollar fines (BNP Paribas paid $8.9 billion) makes banks risk-averse. Rather than carefully evaluate whether a transaction is permitted, many banks simply refuse all transactions with any connection to sanctioned countries. This "de-risking" behavior blocks legal humanitarian aid, prevents families from sending remittances, and makes it nearly impossible for NGOs to operate in sanctioned countries, even when their activities are explicitly permitted by law.
 {% endhint %}
 
-**2019-2020 Examples**: U.S. humanitarian exports to Iran declined sharply during 2017-2019 despite formal exemptions, as pharmaceutical companies and banks avoided transactions. The 2012-2015 period, when secondary sanctions were most aggressively applied, saw similar de-risking behavior (Nephew 2017). COVID-19 pandemic exacerbated problems, with Iran facing difficulty importing medical equipment and medicine. Treasury eventually issued additional guidance and specific licenses, but damage to Iran's pandemic response occurred.
+**2019-2020 Examples**: U.S. humanitarian exports to Iran declined sharply during 2017-2019 despite formal exemptions, as pharmaceutical companies and banks avoided transactions. The 2012-2015 period, when secondary sanctions were most aggressively applied, saw similar de-risking behavior (Nephew 2017). The COVID-19 pandemic made matters worse, with Iran facing difficulty importing medical equipment and medicine. Treasury eventually issued additional guidance and specific licenses, but damage to Iran's pandemic response occurred.
 
 **Reform Efforts**: NGOs, humanitarian organizations, and some policymakers advocate for:
 - Enhanced general licenses for humanitarian transactions
@@ -354,7 +352,7 @@ However, concerns about sanctions evasion (disguising commercial transactions as
 
 ## Secondary Sanctions and Extraterritoriality
 
-Secondary sanctions represent the most controversial and powerful dimension of U.S. financial coercion: threatening sanctions on third parties—foreign persons outside U.S. jurisdiction—to compel them to cease business with primary sanctions targets. This section examines secondary sanctions' mechanics, effectiveness, and blowback.
+Secondary sanctions are the most controversial and powerful dimension of U.S. financial coercion. They threaten sanctions on third parties, meaning foreign persons outside U.S. jurisdiction, to compel them to cease business with primary sanctions targets. This section covers their mechanics, effectiveness, and blowback.
 
 ### Defining Secondary Sanctions
 
@@ -366,26 +364,26 @@ Secondary sanctions represent the most controversial and powerful dimension of U
 - Forcing third parties to choose: U.S. market or target market
 - Creating de facto global enforcement of U.S. policy preferences
 
-**Mechanism**: If Foreign Company A (non-U.S., outside U.S.) conducts business with Iran, U.S. may threaten to block Foreign Company A from U.S. financial system. Most foreign companies value U.S. market access more than Iran business, so they comply with U.S. demands—even absent legal obligation under their home country law.
+**Mechanism**: If Foreign Company A (non-U.S., outside U.S.) conducts business with Iran, U.S. may threaten to block Foreign Company A from U.S. financial system. Most foreign companies value U.S. market access more than Iran business, so they comply with U.S. demands, even absent legal obligation under their home country law.
 
 {% hint style="info" %}
 **The Impossible Choice**
-Secondary sanctions force foreign companies into an impossible choice: the U.S. market or the sanctioned market. For most global companies, this is no choice at all. Total (French oil company) had to abandon a $4.8 billion Iranian gas project because its exposure to U.S. capital markets ($10 billion in assets, dollar-denominated debt, American shareholders) made risking U.S. sanctions unthinkable. The sanctioned country's market simply cannot compete with access to the world's largest economy and financial system.
+Secondary sanctions force foreign companies to choose between the U.S. market and the sanctioned market, and for most global companies the choice is easy. Total (French oil company) had to abandon a $4.8 billion Iranian gas project because its exposure to U.S. capital markets ($10 billion in assets, dollar-denominated debt, American shareholders) made risking U.S. sanctions unthinkable. The sanctioned country's market cannot compete with access to the world's largest economy and financial system.
 {% endhint %}
 
 **Legal Basis**: Secondary sanctions typically authorized by specific statutes (CISADA, CAATSA, Hong Kong Autonomy Act) or Executive Orders. IEEPA alone generally insufficient; requires congressional authorization or specific presidential finding.
 
 ### Iran Secondary Sanctions: Case Study in Coercion
 
-Iran secondary sanctions evolved through CISADA (2010, targeting foreign financial institutions conducting petroleum transactions), the NDAA (2012, expanding to Central Bank transactions), and additional Executive Orders—then suspended under the JCPOA (2015) before reimposition following U.S. withdrawal (2018). The mechanism forces foreign banks to choose between U.S. correspondent banking access and Iran business. "Significant transaction" is intentionally left vague, incentivizing maximum compliance through uncertainty.
+Iran secondary sanctions evolved through CISADA (2010, targeting foreign financial institutions conducting petroleum transactions), the NDAA (2012, expanding to Central Bank transactions), and additional Executive Orders, then suspended under the JCPOA (2015) before reimposition following U.S. withdrawal (2018). The mechanism forces foreign banks to choose between U.S. correspondent banking access and Iran business. "Significant transaction" is intentionally left vague, incentivizing maximum compliance through uncertainty.
 
-**Impact**: Iran's oil exports fell from ~2.5 million barrels/day (2017) to approximately 300,000-500,000 barrels/day (2019-2020)—a reduction of roughly 80% (IEA 2020; Kpler 2021). Major global banks (HSBC, Standard Chartered, Deutsche Bank, BNP Paribas) ceased Iran transactions; SWIFT disconnected Iranian banks (2012, 2018); Iran could not access $100+ billion in frozen oil revenue. GDP fell approximately 8% cumulatively (2018-2020) (World Bank estimates). European companies (Total, Shell, Peugeot, Siemens, Airbus) withdrew from Iranian projects post-2018 despite EU opposition and the European Blocking Statute—companies universally prioritized U.S. market access. China continued purchases at discounted prices under covert arrangements, but even Chinese banks were constrained by their correspondent banking relationships requiring U.S. access.
+**Impact**: Iran's oil exports fell from ~2.5 million barrels/day (2017) to approximately 300,000-500,000 barrels/day (2019-2020), a reduction of roughly 80% (IEA 2020; Kpler 2021). Major global banks (HSBC, Standard Chartered, Deutsche Bank, BNP Paribas) ceased Iran transactions; SWIFT disconnected Iranian banks (2012, 2018); Iran could not access $100+ billion in frozen oil revenue. GDP fell approximately 8% cumulatively (2018-2020) (World Bank estimates). European companies (Total, Shell, Peugeot, Siemens, Airbus) withdrew from Iranian projects post-2018 despite EU opposition and the European Blocking Statute. Companies universally prioritized U.S. market access. China continued purchases at discounted prices under covert arrangements, but even Chinese banks were constrained by their correspondent banking relationships requiring U.S. access.
 
 ### Russia Secondary Sanctions (CAATSA)
 
 The **Countering America's Adversaries Through Sanctions Act (CAATSA, 2017)** mandates secondary sanctions on foreign persons engaging in "significant transactions" with Russian defense/intelligence sectors (Section 231) and energy pipeline construction (Section 232, targeting Nord Stream 2).
 
-Application revealed the political constraints on secondary sanctions against major powers. India's $5.4 billion S-400 purchase met CAATSA's criteria for mandatory sanctions, but the United States never imposed them—and never issued a formal waiver—choosing instead to let the matter lie given India's strategic importance. Turkey's S-400 acquisition led to CAATSA sanctions on Turkey's defense procurement agency (2020)—a rare case of sanctioning a NATO ally, also resulting in Turkey's removal from the F-35 program. China-Russia arms sanctions had limited impact given minimal U.S. exposure. On Nord Stream 2, sanctions forced Dutch-Swiss pipelay company Allseas to withdraw (delaying construction), but the Biden administration ultimately waived sanctions to repair EU relations before reimposing them after Ukraine's invasion.
+Application revealed the political constraints on secondary sanctions against major powers. India's $5.4 billion S-400 purchase met CAATSA's criteria for mandatory sanctions, but the United States never imposed them (and never issued a formal waiver), choosing instead to let the matter lie given India's strategic importance. Turkey's S-400 acquisition led to CAATSA sanctions on Turkey's defense procurement agency (2020), a rare case of sanctioning a NATO ally; Turkey was also removed from the F-35 program. China-Russia arms sanctions had limited impact given minimal U.S. exposure. On Nord Stream 2, sanctions forced Dutch-Swiss pipelay company Allseas to withdraw (delaying construction), but the Biden administration ultimately waived sanctions to repair EU relations before reimposing them after Ukraine's invasion.
 
 Compared to Iran, Russia secondary sanctions were narrower (defense/intelligence sectors vs. economy-wide), more constrained by geopolitical considerations, and implemented inconsistently through frequent waivers.
 
@@ -395,17 +393,17 @@ The **Hong Kong Autonomy Act (HKAA, 2020)** authorized secondary sanctions on fo
 
 ### Diplomatic and Legal Controversies
 
-Secondary sanctions coerce behavior by non-U.S. persons outside U.S. territory based on activity not illegal under their home country law, generating sharp sovereignty objections. The EU's **Blocking Statute** (updated 2018) prohibits EU companies from complying with U.S. extraterritorial sanctions, and the EU created INSTEX to facilitate Iran trade bypassing the U.S. financial system—but both proved ineffective because EU companies universally prioritized U.S. market access over EU legal compliance. Russia and China enacted similar counter-sanctions laws with equally limited practical effect.
+Secondary sanctions coerce behavior by non-U.S. persons outside U.S. territory based on activity not illegal under their home country law, generating sharp sovereignty objections. The EU's **Blocking Statute** (updated 2018) prohibits EU companies from complying with U.S. extraterritorial sanctions, and the EU created INSTEX to facilitate Iran trade bypassing the U.S. financial system, but both proved ineffective because EU companies universally prioritized U.S. market access over EU legal compliance. Russia and China enacted similar counter-sanctions laws with equally limited practical effect.
 
-The international legal question remains unresolved: the U.S. views secondary sanctions as exercises of sovereign authority to deny market access, while critics argue they violate norms against extraterritorial jurisdiction. The strategic tension is clear: secondary sanctions are highly effective in the near-term (isolating targets like Iran) but generate long-term costs—alliance strain, accelerated development of alternative payment systems (CIPS, BRICS initiatives), the "dollar weaponization" narrative, and overstretch risks as programs multiply. Balancing coercive power and system preservation constitutes the central strategic challenge.
+The international legal question remains unresolved: the U.S. views secondary sanctions as exercises of sovereign authority to deny market access, while critics argue they violate norms against extraterritorial jurisdiction. The strategic tension is clear: secondary sanctions are effective in the near-term (isolating targets like Iran) but generate long-term costs: alliance strain, accelerated development of alternative payment systems (CIPS, BRICS initiatives), the "dollar weaponization" narrative, and overstretch risks as programs multiply. The central strategic challenge is balancing coercive power against preservation of the system.
 
 ---
 
 ## De-dollarization and Alternative Financial Systems
 
-Aggressive U.S. use of financial sanctions—particularly freezing Russia's central bank reserves (2022)—accelerated efforts to reduce dollar dependence and build alternative financial infrastructure. This section examines de-dollarization initiatives, assessing whether challengers can create viable substitutes for dollar-dominated systems (see Chapter 10 for scenarios exploring de-dollarization trajectories and future financial system fragmentation).
+Aggressive U.S. use of financial sanctions, particularly freezing Russia's central bank reserves (2022), accelerated efforts to reduce dollar dependence and build alternative financial infrastructure. This section assesses whether challengers can create viable substitutes for dollar-dominated systems (see Chapter 10 for scenarios exploring de-dollarization trajectories and future financial system fragmentation).
 
-This is the substitution margin of Chapter 1 operating in the financial domain. The dollar's centrality is a chokepoint of unusual durability: network effects, deep and liquid markets, and the absence of a trusted alternative keep the replacement cost of dollar clearing very high, which is what gives the sanctions their bite. But that replacement cost is not fixed, and each conspicuous use of the dollar's centrality—above all the freezing of a G20 central bank's reserves—raises the return to building an escape route and lowers the political cost of being seen to do so. The result is the slow, partial construction of substitutes: CIPS for messaging and settlement, bilateral settlement in national currencies, reserve diversification, and central bank digital currencies. None is near displacing the dollar, and the substitution margin here is narrow and slow precisely because money runs on trust and scale rather than on a single piece of equipment that can be reverse-engineered. But the direction of travel is the one the lens predicts: coercion that works by exploiting a dependence also teaches the target, and everyone watching, to reduce it.
+This is the substitution margin of Chapter 1 operating in the financial domain. The dollar's centrality is a chokepoint of unusual durability: network effects, deep and liquid markets, and the absence of a trusted alternative keep the replacement cost of dollar clearing very high, which is what gives the sanctions their bite. But that replacement cost is not fixed, and each conspicuous use of the dollar's centrality, above all the freezing of a G20 central bank's reserves, raises the return to building an escape route and lowers the political cost of being seen to do so. The result is the slow, partial construction of substitutes: CIPS for messaging and settlement, bilateral settlement in national currencies, reserve diversification, and central bank digital currencies. None is near displacing the dollar, and the substitution margin here is narrow and slow because money runs on trust and scale, not on a single piece of equipment that can be reverse-engineered. The direction of travel is the one the lens predicts: coercion that works by exploiting a dependence also teaches the target, and everyone watching, to reduce it.
 
 ### Motivations for De-dollarization
 
@@ -455,7 +453,7 @@ Launched 2015, CIPS processes cross-border renminbi (RMB) payments, positioning 
 
 **Currency settlement**: Only RMB-denominated transactions. Cannot process dollar, euro, or multi-currency transactions like SWIFT.
 
-**Integration with SWIFT**: Many CIPS transactions still use SWIFT messaging protocols, creating continued dependence. Full independence requires adopting alternative messaging standards—work in progress.
+**Integration with SWIFT**: Many CIPS transactions still use SWIFT messaging protocols, creating continued dependence. Full independence requires adopting alternative messaging standards, which is work in progress.
 
 **Advantages**:
 - Reduces correspondent banking layers for RMB transactions
@@ -479,7 +477,7 @@ China has made measured progress internationalizing the renminbi:
 
 **Trade settlement**: ~25% of China's trade settled in RMB (2024), up from ~10% (2015) (PBOC; SWIFT RMB Tracker). China-Russia bilateral trade increasingly in local currencies (50%+ in RMB/ruble).
 
-**Bond issuance**: "Panda bonds" (RMB bonds issued in China by foreign entities) and "Dim Sum bonds" (RMB bonds issued offshore) provide debt markets. However, combined issuance ~$100 billion—minuscule compared to $27 trillion U.S. Treasury market.
+**Bond issuance**: "Panda bonds" (RMB bonds issued in China by foreign entities) and "Dim Sum bonds" (RMB bonds issued offshore) provide debt markets. However, combined issuance ~$100 billion, small compared to the $27 trillion U.S. Treasury market.
 
 **Currency swap agreements**: People's Bank of China established currency swap lines with 40+ central banks totaling ~$550 billion, enabling RMB liquidity provision (PBOC).
 
@@ -496,7 +494,7 @@ China maintains strict capital account restrictions:
 - Restrictions on Chinese residents moving capital offshore
 - Exchange rate managed by PBOC, not freely floating
 
-Capital controls prevent full convertibility—foreign holders cannot freely buy/sell RMB or RMB assets. This reduces RMB attractiveness for international reserves and transactions.
+Capital controls prevent full convertibility: foreign holders cannot freely buy/sell RMB or RMB assets. This reduces RMB attractiveness for international reserves and transactions.
 
 **Financial Market Depth**
 
@@ -512,13 +510,13 @@ Reserve currency status requires confidence in legal institutions protecting pro
 - Government interventions in markets (trading halts, capital flight restrictions, property confiscations)
 - Zero-COVID lockdowns (2020-2022) and abrupt regulatory crackdowns (tech, education, gaming sectors 2021-2022) demonstrated policy unpredictability
 
-Freezing Russia's central bank reserves highlighted U.S. willingness to immobilize reserves for political reasons, but China's record of domestic asset confiscations and capital controls raises even greater concerns for foreign holders.
+Freezing Russia's central bank reserves showed U.S. willingness to immobilize reserves for political reasons, but China's record of domestic asset confiscations and capital controls raises even greater concerns for foreign holders.
 
 **Network Effects**
 
 Dollar benefits from self-reinforcing network: because others use dollars, liquidity high, which encourages further use. RMB lacks critical mass to overcome this network advantage. Even if 25% of global trade settled in RMB, remaining 75% in dollars creates continued dollar necessity.
 
-**Assessment**: RMB will continue growing as trade settlement and regional reserve currency, especially in China-centric supply chains and BRI countries. But replacing dollar as dominant global reserve currency requires financial market liberalization, capital account opening, and institutional credibility—reforms conflicting with CCP's political control priorities.
+**Assessment**: RMB will continue growing as trade settlement and regional reserve currency, especially in China-centric supply chains and BRI countries. But replacing dollar as dominant global reserve currency requires financial market liberalization, capital account opening, and institutional credibility, reforms that conflict with the CCP's political control priorities.
 
 ### BRICS Currency Proposals
 
@@ -547,7 +545,7 @@ Lack of shared interests and trust makes coordination difficult.
 **Technical and Institutional Barriers**:
 
 Creating new currency requires:
-- Unified monetary policy or currency board (necessitating surrendering monetary sovereignty—politically impossible for major powers)
+- Unified monetary policy or currency board (which means surrendering monetary sovereignty, politically impossible for major powers)
 - Deep, liquid bond markets (requiring decades to build)
 - Credible institutions (BRICS New Development Bank is small; lacks capacity for global reserve currency management)
 - Widespread international adoption (network effects require critical mass)
@@ -562,7 +560,7 @@ Several BRICS members face economic challenges limiting currency attractiveness:
 
 Currency backed by these economies unlikely to inspire confidence as reserve asset.
 
-**Most Likely Outcome**: Incremental measures—bilateral currency swaps, local currency trade settlement, payment system integration—rather than comprehensive new currency. These reduce dollar use at margins but don't fundamentally challenge dollar dominance.
+**Most Likely Outcome**: Incremental measures (bilateral currency swaps, local currency trade settlement, payment system integration) rather than a comprehensive new currency. These reduce dollar use at the margins but do not challenge dollar dominance.
 
 ### Central Bank Digital Currencies (CBDCs)
 
@@ -583,7 +581,7 @@ Over 100 countries (representing 95%+ of global GDP) exploring CBDCs (Atlantic C
 
 **Current Evidence**: Early CBDC cross-border pilots (mBridge project: China, Thailand, Hong Kong, UAE) demonstrate technical feasibility but limited economic scale. Volumes tiny; participating countries still conduct vast majority of trade in dollars through traditional channels.
 
-**Assessment**: CBDCs may incrementally reduce correspondent banking dependence and enable sanctions evasion at margins. But fundamental currency attractiveness depends on economic size, financial market depth, capital openness, and institutional credibility—factors unchanged by digitalization.
+**Assessment**: CBDCs may incrementally reduce correspondent banking dependence and enable sanctions evasion at margins. But currency attractiveness depends on economic size, financial market depth, capital openness, and institutional credibility, factors that digitalization does not change.
 
 ### Gold, Commodities, and Bitcoin
 
@@ -607,17 +605,17 @@ Proposals to back BRICS currency with commodities (oil, gas, minerals) face simi
 **Bitcoin and Cryptocurrencies**
 
 Some sanctioned actors use cryptocurrencies to evade restrictions:
-- **North Korea**: Estimated $6+ billion stolen through cryptocurrency hacking/theft since 2017—including the roughly $1.5 billion Bybit heist of February 2025, the largest crypto theft on record, which the FBI attributed to the Lazarus Group (FBI 2025; TRM Labs 2025); proceeds used for regime and weapons financing
+- **North Korea**: Estimated $6+ billion stolen through cryptocurrency hacking/theft since 2017. The thefts include the roughly $1.5 billion Bybit heist of February 2025, the largest crypto theft on record, which the FBI attributed to the Lazarus Group (FBI 2025; TRM Labs 2025). Proceeds were used for regime and weapons financing
 - **Iran**: Some oil sales conducted in cryptocurrency
 - **Russia**: Limited cryptocurrency use for sanctions evasion (most trade still requires traditional finance)
 
 **Limitations for State Actors**:
 - **Volatility**: Bitcoin price fluctuations (50%+ swings common) make it unsuitable for reserves or large transactions
-- **Liquidity**: Converting large volumes to/from fiat currencies requires exchanges with banking connections—vulnerable to sanctions
+- **Liquidity**: Converting large volumes to/from fiat currencies requires exchanges with banking connections, which are vulnerable to sanctions
 - **Traceability**: Blockchain transactions pseudo-anonymous but traceable; U.S. sanctions authorities increasingly effective at tracking illicit crypto flows
 - **Adoption**: No major economy accepts cryptocurrency for taxes or official transactions; limited utility for state-level commerce
 
-**Stablecoins**: Dollar-pegged cryptocurrencies (USDT, USDC) are the largest crypto by volume—but these reinforce dollar dominance by creating digital dollars, not alternatives. U.S. policy has since embraced this logic explicitly. The GENIUS Act (Guiding and Establishing National Innovation for U.S. Stablecoins Act), signed into law in July 2025, sets an at-least-one-for-one reserve requirement for permitted issuers, allowing cash, deposits, short-term Treasuries, and other specified liquid assets—potentially increasing demand for U.S. government debt. Framed by its sponsors as a way to "extend the dollar's dominance" into digital finance, the statute is best read as a deliberate dollar-extension strategy: rather than resisting crypto, Washington is channeling it into instruments that deepen, not dilute, dollar centrality. This is the mirror image of the de-dollarization efforts surveyed above, and it is a live counterargument to forecasts of dollar decline (see Chapter 10's de-dollarization scenarios).
+**Stablecoins**: Dollar-pegged cryptocurrencies (USDT, USDC) are the largest crypto by volume, but they reinforce dollar dominance by creating digital dollars rather than alternatives. U.S. policy has since embraced this logic explicitly. The GENIUS Act (Guiding and Establishing National Innovation for U.S. Stablecoins Act), signed into law in July 2025, sets an at-least-one-for-one reserve requirement for permitted issuers, allowing cash, deposits, short-term Treasuries, and other specified liquid assets, potentially increasing demand for U.S. government debt. Framed by its sponsors as a way to "extend the dollar's dominance" into digital finance, the statute is best read as a deliberate dollar-extension strategy: Washington is channeling crypto into instruments that deepen dollar centrality. This is the mirror image of the de-dollarization efforts surveyed above, and it is a live counterargument to forecasts of dollar decline (see Chapter 10's de-dollarization scenarios).
 
 **Assessment**: Cryptocurrencies enable marginal sanctions evasion for small transactions and illicit actors but cannot support large-scale international trade or serve as reserve currency. More likely to complement than replace dollar.
 
@@ -635,26 +633,26 @@ Network effects mean collective action problem: Everyone benefits if all switch,
 
 {% hint style="info" %}
 **The Collective Action Problem of De-dollarization**
-De-dollarization faces a classic collective action problem: while many countries might benefit if everyone stopped using dollars, any individual country switching alone bears all the costs (higher transaction fees, reduced liquidity, exchange rate volatility) while gaining few benefits. It's like being trapped in a language everyone speaks—even if a "better" language existed, coordinating a global switch would be nearly impossible. This is why most realistic projections show gradual erosion of dollar dominance over decades, not sudden collapse.
+De-dollarization faces a classic collective action problem: while many countries might benefit if everyone stopped using dollars, any individual country switching alone bears all the costs (higher transaction fees, reduced liquidity, exchange rate volatility) while gaining few benefits. It's like being trapped in a language everyone speaks: even if a "better" language existed, coordinating a global switch would be nearly impossible. This is why most realistic projections show gradual erosion of dollar dominance over decades, not sudden collapse.
 {% endhint %}
 
-**Bottom Line**: The most likely trajectory is gradual erosion—not collapse—of dollar dominance, with no single challenger emerging. A multipolar currency system with the dollar as first among equals is plausible by 2040-2050, but requires decades to materialize given network effects and collective action problems. Chapter 10 develops detailed de-dollarization scenarios and their implications for U.S. economic statecraft.
+**Bottom Line**: The most likely trajectory is gradual erosion, not collapse, of dollar dominance, with no single challenger emerging. A multipolar currency system with the dollar as first among equals is plausible by 2040-2050, but requires decades to materialize given network effects and collective action problems. Chapter 10 develops detailed de-dollarization scenarios and their implications for U.S. economic statecraft.
 
 ---
 
 ## European Perspective Box: Euro, INSTEX, and the Limits of Financial Autonomy
 
-*European perspectives on financial sanctions and dollar dominance reflect a distinctive position: European economies suffer collateral damage from both U.S. extraterritorial sanctions and Chinese economic pressure, yet European financial markets lack the depth and liquidity to mount a credible alternative to the dollar. The euro's incomplete internationalization and INSTEX's failure demonstrate the gap between European aspirations to financial autonomy and structural realities of dollar dependence.*
+*European perspectives on financial sanctions and dollar dominance reflect a distinctive position: European economies suffer collateral damage from both U.S. extraterritorial sanctions and Chinese economic pressure, yet European financial markets lack the depth and liquidity to mount a credible alternative to the dollar. The euro's incomplete internationalization and INSTEX's failure show the gap between European aspirations to financial autonomy and structural realities of dollar dependence.*
 
 ### The Euro's Incomplete Internationalization
 
-The euro, launched in 1999, represented Europe's attempt to create a currency rivaling the dollar. However, twenty-five years later, the euro remains a regional rather than global currency:
+The euro, launched in 1999, represented Europe's attempt to create a currency rivaling the dollar. Twenty-five years later, the euro remains a regional rather than global currency:
 
-**Reserve currency status**: The euro accounts for approximately 20% of global foreign exchange reserves (IMF COFER 2024)—second to the dollar's 58%, but far from parity. This share has remained stable for a decade, suggesting the euro has reached its ceiling absent fundamental changes.
+**Reserve currency status**: The euro accounts for approximately 20% of global foreign exchange reserves (IMF COFER 2024), second to the dollar's 58% but far from parity. This share has remained stable for a decade, suggesting the euro has reached its ceiling absent major changes.
 
 **Trade invoicing**: Most eurozone trade is invoiced in euros, but global trade remains dollar-dominant. Even European firms conducting trade outside the eurozone typically use dollars.
 
-**Financial market depth**: Euro-denominated bond markets are smaller and less liquid than U.S. Treasury markets. During crises, investors still flock to dollar assets, not euros—demonstrating the euro hasn't achieved "safe haven" status comparable to the dollar.
+**Financial market depth**: Euro-denominated bond markets are smaller and less liquid than U.S. Treasury markets. During crises, investors still flock to dollar assets, not euros, which shows the euro hasn't achieved "safe haven" status comparable to the dollar.
 
 **Why the euro stalled**: Multiple factors constrain euro internationalization:
 - **Fiscal fragmentation**: 20+ eurozone members with different fiscal positions create uncertainty about euro stability
@@ -662,17 +660,17 @@ The euro, launched in 1999, represented Europe's attempt to create a currency ri
 - **Banking fragmentation**: European banking remains nationally segmented, reducing euro financial market depth
 - **ECB reluctance**: European Central Bank historically prioritized domestic monetary policy over international currency promotion
 
-The euro's limited internationalization means European firms remain dollar-dependent even within Europe—reducing European autonomy from U.S. financial pressure.
+The euro's limited internationalization means European firms remain dollar-dependent even within Europe, which reduces European autonomy from U.S. financial pressure.
 
 ### INSTEX and the Failure of European Financial Autonomy
 
-INSTEX (Instrument in Support of Trade Exchanges), established in 2019, represented Europe's boldest attempt to circumvent U.S. sanctions—specifically, maintaining humanitarian trade with Iran after Trump withdrew from the JCPOA and reimposed secondary sanctions.
+INSTEX (Instrument in Support of Trade Exchanges), established in 2019, represented Europe's boldest attempt to circumvent U.S. sanctions, specifically to maintain humanitarian trade with Iran after Trump withdrew from the JCPOA and reimposed secondary sanctions.
 
-**INSTEX's architecture**: A special purpose vehicle facilitating trade without using dollars or touching U.S. financial institutions—European firms could trade with Iran, INSTEX would net transactions, and no dollars would change hands. France, Germany, and UK jointly established it as a symbol of European sovereignty.
+**INSTEX's architecture**: A special purpose vehicle facilitating trade without using dollars or touching U.S. financial institutions: European firms could trade with Iran, INSTEX would net transactions, and no dollars would change hands. France, Germany, and UK jointly established it as a symbol of European sovereignty.
 
 **INSTEX's failure**: Before its dissolution in early 2023, INSTEX had processed negligible trade volumes. Why it failed:
-- **No major firms participated**: European companies (Total, Airbus, Daimler, Siemens) with U.S. market exposure feared losing access to American markets—dollar revenues mattered more than INSTEX-enabled Iranian sales
-- **Limited scope**: Initially restricted to humanitarian goods, later expanded to all goods, but still excluded oil—Iran's primary export
+- **No major firms participated**: European companies (Total, Airbus, Daimler, Siemens) with U.S. market exposure feared losing access to American markets; dollar revenues mattered more than INSTEX-enabled Iranian sales
+- **Limited scope**: Initially restricted to humanitarian goods, later expanded to all goods, but still excluded oil, Iran's primary export
 - **No Chinese or Russian participation**: For INSTEX to matter, major economies needed to join; they declined, preferring bilateral arrangements
 - **U.S. pressure**: Washington made clear INSTEX users faced potential sanctions, deterring participation
 
@@ -682,7 +680,7 @@ The INSTEX failure demonstrated European vulnerability: Europe lacked sufficient
 
 European attitudes toward dollar hegemony differ from both American and Chinese positions:
 
-**Resentment of extraterritoriality**: European governments and firms bitterly resent U.S. secondary sanctions extending American law to European territory, transactions, and persons. European leaders have repeatedly protested that U.S. sanctions violate international law by asserting jurisdiction over activities with no U.S. nexus.
+**Resentment of extraterritoriality**: European governments and firms resent U.S. secondary sanctions extending American law to European territory, transactions, and persons. European leaders have repeatedly protested that U.S. sanctions violate international law by asserting jurisdiction over activities with no U.S. nexus.
 
 **Pragmatic accommodation**: Despite resentment, European firms overwhelmingly comply with U.S. sanctions because losing dollar market access is commercially fatal. The BNP Paribas case ($8.9 billion fine for Iran sanctions violations) demonstrated that European legal challenges provide no protection.
 
@@ -700,7 +698,7 @@ European responses to U.S.-China financial competition thus remain pragmatic and
 - **Rhetorical euro-promotion** without sustained political commitment to market-building
 - **Quiet compliance** with U.S. sanctions while publicly protesting extraterritoriality
 
-The European perspective suggests that financial autonomy requires currency issuance together with unified fiscal capacity, deep financial markets, and willingness to accept the costs of confronting dominant currencies. Europe possesses the first but not yet the latter three. True financial autonomy remains aspirational rather than imminent.
+The European perspective suggests that financial autonomy requires currency issuance together with unified fiscal capacity, deep financial markets, and willingness to accept the costs of confronting dominant currencies. Europe possesses the first but not yet the latter three. Financial autonomy remains aspirational rather than imminent.
 
 ---
 
@@ -708,13 +706,13 @@ The European perspective suggests that financial autonomy requires currency issu
 
 ### Understanding Chinese Views on Financial Coercion
 
-Chinese perspectives on financial sanctions and dollar dominance reflect deep concerns about vulnerability to U.S. coercion, historical memories of Western financial imperialism, and determination to build independent financial infrastructure. Understanding these views explains China's strategic choices in financial system development and sanctions countermeasures.
+Chinese perspectives on financial sanctions and dollar dominance reflect concern about vulnerability to U.S. coercion, historical memories of Western financial imperialism, and determination to build independent financial infrastructure. These views explain China's strategic choices in financial system development and sanctions countermeasures.
 
 ### Historical Context and Financial Strategic Objectives
 
 **Historical Experience**
 
-Chinese financial sovereignty concerns reflect historical experiences with foreign financial control, including 19th-century foreign management of China's Maritime Customs Service and post-1949 exclusion from Bretton Woods institutions. These experiences reinforce the conviction that financial dependence creates political vulnerability—foreign control of financial infrastructure enables coercion.
+Chinese financial sovereignty concerns reflect historical experiences with foreign financial control, including 19th-century foreign management of China's Maritime Customs Service and post-1949 exclusion from Bretton Woods institutions. These experiences reinforce the conviction that financial dependence creates political vulnerability, because foreign control of financial infrastructure enables coercion.
 
 **Contemporary Financial Strategic Objectives**
 
@@ -726,7 +724,7 @@ China's financial strategy pursues several forward-looking goals:
 
 **Alternative financial architecture**: Developing institutions (AIIB, New Development Bank) and systems (CIPS, digital yuan) that reduce reliance on Western-dominated infrastructure while providing alternatives for countries seeking to reduce dollar dependence.
 
-**Capital account management**: Maintaining controls on cross-border capital flows to prevent destabilizing speculation while gradually opening to support RMB internationalization—balancing financial security against market access benefits.
+**Capital account management**: Maintaining controls on cross-border capital flows to prevent destabilizing speculation while gradually opening to support RMB internationalization, balancing financial security against market access benefits.
 
 **Financial technology leadership**: Achieving dominance in digital payments, central bank digital currencies (CBDC), and fintech to shape future global financial architecture.
 
@@ -736,7 +734,7 @@ China's financial strategy pursues several forward-looking goals:
 
 **Financial hegemony** describes U.S. exploitation of dollar dominance for coercive purposes. Chinese scholars and officials characterize this as:
 
-- **Illegitimate privilege**: Dollar reserve status grants U.S. "exorbitant privilege"—ability to borrow cheaply, run persistent deficits, and export inflation to others
+- **Illegitimate privilege**: Dollar reserve status grants U.S. "exorbitant privilege": the ability to borrow cheaply, run persistent deficits, and export inflation to others
 - **Weaponized interdependence**: U.S. transforms mutually beneficial financial integration into coercive tool, violating trust
 - **Extraterritorial overreach**: Secondary sanctions force third parties to comply with U.S. preferences, violating sovereignty
 
@@ -755,7 +753,7 @@ Russia's frozen reserves ($300+ billion, 2022) validated Chinese concerns: Even 
 
 **Financial Opening with Chinese Characteristics (有中国特色的金融开放, yǒu zhōngguó tèsè de jīnróng kāifàng)**
 
-China pursues **controlled financial opening**—expanding international RMB use while maintaining capital controls and financial system oversight:
+China pursues **controlled financial opening**, expanding international RMB use while maintaining capital controls and financial system oversight:
 
 - **Gradual liberalization**: Incrementally opening bond markets to foreign investors (Bond Connect, Stock Connect programs) while retaining capital account restrictions
 - **RMB internationalization**: Encouraging RMB trade settlement and reserves without full convertibility
@@ -790,13 +788,13 @@ From Chinese perspective, international financial system should be governed by m
 
 **Double Standards and Selective Application**
 
-Chinese scholars highlight U.S. sanctions inconsistency:
+Chinese scholars point to U.S. sanctions inconsistency:
 
 - **Allies exempted**: Israel, Saudi Arabia, India avoid sanctions despite behaviors (settlements, Yemen war, Kashmir) comparable to sanctioned states
 - **Geopolitical motives**: Sanctions target U.S. rivals (Russia, China, Iran, Venezuela) regardless of stated justifications (human rights, proliferation, democracy)
 - **Rules for thee**: U.S. violates international law (Iraq War, drone strikes, Guantanamo) without consequences while sanctioning others for lesser violations
 
-This selective application reveals sanctions as power politics, not principled enforcement of international norms.
+In this view, selective application reveals sanctions as power politics rather than principled enforcement of international norms.
 
 **Economic Warfare Disguised as Law Enforcement**
 
@@ -806,7 +804,7 @@ Chinese officials characterize broad sanctions, including comprehensive country 
 - **Regime resilience**: Authoritarian regimes often survive sanctions; populations suffer while elites adapt
 - **Collective punishment**: Comprehensive sanctions punish entire populations for government actions beyond their control
 
-China frames its opposition to unilateral sanctions as defending multilateralism, sovereignty, and humanitarian principles—positions resonating with Global South countries.
+China frames its opposition to unilateral sanctions as defending multilateralism, sovereignty, and humanitarian principles, positions that resonate with Global South countries.
 
 ### Chinese Counter-Strategies
 
@@ -824,7 +822,7 @@ China systematically developing alternatives to U.S.-dominated financial systems
 
 {% hint style="success" %}
 **The e-CNY's Potential**
-China's digital yuan (e-CNY) represents the most ambitious central bank digital currency project globally. With 260+ million domestic users already, it's no longer experimental. The real significance lies in cross-border applications: the mBridge project with Hong Kong, Thailand, UAE, and Saudi Arabia demonstrates how CBDCs could enable direct central-bank-to-central-bank settlements, bypassing SWIFT and the correspondent banking system entirely. If successful, this could provide sanctioned countries a viable alternative to the dollar-based system.
+China's digital yuan (e-CNY) is the most ambitious central bank digital currency project globally, and with 260+ million domestic users it is no longer experimental. The cross-border applications matter more: the mBridge project with Hong Kong, Thailand, UAE, and Saudi Arabia shows how CBDCs could enable direct central-bank-to-central-bank settlements, bypassing SWIFT and the correspondent banking system entirely. If successful, this could provide sanctioned countries a viable alternative to the dollar-based system.
 {% endhint %}
 
 **RMB Internationalization**:
@@ -847,11 +845,11 @@ China's **Rules on Counteracting Unjustified Extra-territorial Application of Fo
 - Recovery of damages from entities complying with foreign sanctions
 - Retaliatory measures against foreign entities enforcing extraterritorial rules
 
-**Unreliable Entity List (不可靠实体清单, bù kě kào shítǐ qīngdān)**: Announced in 2019 and implemented in September 2020 as a mirror of the U.S. Entity List, it designates foreign entities "endangering China's sovereignty, security, development interests" and exposes them to restrictions on trade, investment, and entry into China. Its principal use is deterrent—raising the cost of foreign compliance with U.S. sanctions against Chinese firms—and Chapter 6 examines its design and application in detail.
+**Unreliable Entity List (不可靠实体清单, bù kě kào shítǐ qīngdān)**: Announced in 2019 and implemented in September 2020 as a mirror of the U.S. Entity List, it designates foreign entities "endangering China's sovereignty, security, development interests" and exposes them to restrictions on trade, investment, and entry into China. Its principal use is deterrent, raising the cost of foreign compliance with U.S. sanctions against Chinese firms—and Chapter 6 examines its design and application in detail.
 
-**Anti-Foreign Sanctions Law (反外国制裁法, fǎn wàiguó zhìcái fǎ)** (2021): Authorizes counter-measures against foreign sanctions—asset freezes against the foreign individuals and entities that impose them, a prohibition on Chinese persons complying with them, and visa denials for the officials involved. Chapter 6 gives the fuller account; in the financial domain the statute's distinctive instrument is the asset freeze, a reciprocal blocking tool aimed at sanctioning parties.
+**Anti-Foreign Sanctions Law (反外国制裁法, fǎn wàiguó zhìcái fǎ)** (2021): Authorizes counter-measures against foreign sanctions: asset freezes against the foreign individuals and entities that impose them, a prohibition on Chinese persons complying with them, and visa denials for the officials involved. Chapter 6 gives the fuller account; in the financial domain the statute's distinctive instrument is the asset freeze, a reciprocal blocking tool aimed at sanctioning parties.
 
-**Effectiveness Questions**: Chinese counter-measures face enforcement challenges. Foreign entities valuing U.S. market access more than Chinese market access will comply with U.S. sanctions despite Chinese legal prohibitions. Chinese laws assert sovereignty but cannot override economic reality—similar to EU Blocking Statute's limited effectiveness.
+**Effectiveness Questions**: Chinese counter-measures face enforcement challenges. Foreign entities valuing U.S. market access more than Chinese market access will comply with U.S. sanctions despite Chinese legal prohibitions. Chinese laws assert sovereignty but cannot override economic reality, much like the EU Blocking Statute.
 
 ### Strategic Calculus: Balancing Integration and Independence
 
@@ -874,74 +872,74 @@ China faces strategic tension:
 - Open selected markets to foreign capital (bonds, some equities) while maintaining capital controls and state oversight
 - Engage in international institutions (IMF, BIS) while supporting alternatives (BRICS NDB, Asian Infrastructure Investment Bank)
 
-This hedging strategy seeks integration benefits while limiting vulnerability—similar to dual circulation's domestic/external balance.
+This hedging strategy seeks integration benefits while limiting vulnerability, similar to dual circulation's domestic/external balance.
 
 ### Implications for U.S. Strategy
 
-**Inevitability of Alternatives**: Chinese efforts to build parallel financial infrastructure are strategic imperative, not negotiable preference. Russia's frozen reserves demonstrated sanctions vulnerability; China will continue de-dollarization regardless of U.S. actions. Question is speed and scale, not direction.
+**Inevitability of Alternatives**: Chinese efforts to build parallel financial infrastructure are a strategic imperative for Beijing. Russia's frozen reserves demonstrated sanctions vulnerability; China will continue de-dollarization regardless of U.S. actions. The open question is speed and scale, not direction.
 
-**Network Effects Advantage**: Despite Chinese efforts, dollar network effects remain powerful. Most countries maintain dollar reserves and conduct dollar trade. Rapid shift to RMB would require Chinese financial market liberalization conflicting with CCP control priorities. U.S. retains substantial structural advantages if avoids undermining them through overuse.
+**Network Effects Advantage**: Despite Chinese efforts, dollar network effects remain powerful, and most countries maintain dollar reserves and conduct dollar trade. Rapid shift to RMB would require Chinese financial market liberalization conflicting with CCP control priorities. U.S. retains substantial structural advantages if avoids undermining them through overuse.
 
 **Fragmentation Risks**: Aggressive U.S. sanctions use accelerates financial system fragmentation into geopolitical blocs. China-led bloc (BRICS+, SCO, BRI countries) may develop parallel financial infrastructure serving 40-50% of global GDP. This reduces U.S. leverage and sanctions effectiveness long-term.
 
-**Calibration Imperative**: U.S. faces trade-off between near-term sanctions effectiveness and long-term system preservation. Freezing Russian reserves achieved immediate impact but provided powerful demonstration effect motivating de-dollarization. Future sanctions use requires weighing immediate gains against cumulative erosion of dollar privilege.
+**Calibration Imperative**: U.S. faces trade-off between near-term sanctions effectiveness and long-term system preservation. Freezing Russian reserves achieved immediate impact but gave a demonstration effect that motivates de-dollarization. Future sanctions use requires weighing immediate gains against cumulative erosion of dollar privilege.
 
 **Inadvertent Alliance Building**: U.S. secondary sanctions force choices: U.S. market or China/Russia markets. Countries resenting this coercion (India, Saudi Arabia, Turkey, Brazil) may cooperate with Chinese alternative systems even without ideological alignment. Overreach creates coalitions of the aggrieved.
 
-Chinese perspectives reflect different historical experiences, political system, and strategic position. While U.S. policymakers need not accept Chinese framing, understanding it enables more effective strategy—anticipating responses, avoiding counterproductive overreach, and preserving long-term U.S. financial advantages.
+Chinese perspectives reflect different historical experiences, political system, and strategic position. While U.S. policymakers need not accept Chinese framing, understanding it enables more effective strategy: anticipating responses, avoiding counterproductive overreach, and preserving long-term U.S. financial advantages.
 
 ## Global South Perspective Box: Multi-Alignment, Financial Sovereignty, and the Sanctions Backlash
 
 ### The View from the "New Neutrals"
 
-For much of the Global South — the 101 countries that Bloomberg (2024) identified as "new neutrals" — the weaponization of the dollar and Western financial infrastructure is not an abstract geopolitical debate but a lived experience of constrained sovereignty. Countries that depend on dollar-denominated trade, SWIFT-based payments, and IMF-conditioned lending experience financial sanctions not as targeted instruments of statecraft but as assertions of a hierarchical international order in which their policy autonomy is contingent on Western approval. This perspective, rooted in the Non-Aligned Movement's legacy and articulated with increasing sophistication through BRICS+, represents the fastest-growing challenge to U.S. financial primacy — not because the Global South can replace the dollar, but because collective resistance is eroding the political legitimacy that underpins dollar dominance.
+For much of the Global South, the 101 countries that Bloomberg (2024) identified as "new neutrals," the weaponization of the dollar and Western financial infrastructure is a lived experience of constrained sovereignty. Countries that depend on dollar-denominated trade, SWIFT-based payments, and IMF-conditioned lending experience financial sanctions as assertions of a hierarchical international order in which their policy autonomy is contingent on Western approval. This perspective, rooted in the Non-Aligned Movement's legacy and articulated with increasing sophistication through BRICS+, represents the fastest-growing challenge to U.S. financial primacy. The Global South cannot replace the dollar, but collective resistance is eroding the political legitimacy that underpins dollar dominance.
 
 ### Historical Context: From Non-Alignment to Multi-Alignment
 
-The Non-Aligned Movement (NAM), born at the 1955 Bandung Conference and formally established in 1961, represented the first collective effort by developing nations to resist being instrumentalized in great-power competition. Its founding principle — that newly independent states should not be forced to choose sides — reflected hard experience: colonial powers had leveraged economic dependence to maintain political control long after formal independence.
+The Non-Aligned Movement (NAM), born at the 1955 Bandung Conference and formally established in 1961, represented the first collective effort by developing nations to resist being instrumentalized in great-power competition. Its founding principle, that newly independent states should not be forced to choose sides, reflected hard experience: colonial powers had leveraged economic dependence to maintain political control long after formal independence.
 
-Contemporary scholars distinguish today's Global South strategy from Cold War non-alignment. Jorge Heine (2025) describes **active non-alignment** (*no alineamiento activo*) as a fundamentally different posture: not passive equidistance between blocs, but strategic engagement with all major powers simultaneously to maximize national advantage. India purchases discounted Russian oil while deepening defense ties with Washington through the Quad. Brazil settles 40% of its trade with China in yuan while maintaining its status as a Major Non-NATO Ally. Saudi Arabia engages BRICS+ (invited in 2023, though it has never formalized membership) while hosting U.S. military facilities. Turkey, a NATO member, becomes Russia's third-largest fossil fuel customer while mediating the Black Sea Grain Initiative. The common thread is not ideology but pragmatism — what Amitav Acharya calls a "multiplex world" in which consequential middle powers refuse the binary choices that great-power competition demands.
+Contemporary scholars distinguish today's Global South strategy from Cold War non-alignment. Jorge Heine (2025) describes **active non-alignment** (*no alineamiento activo*) as strategic engagement with all major powers simultaneously to maximize national advantage, in contrast to passive equidistance between blocs. India purchases discounted Russian oil while deepening defense ties with Washington through the Quad. Brazil settles 40% of its trade with China in yuan while maintaining its status as a Major Non-NATO Ally. Saudi Arabia engages BRICS+ (invited in 2023, though it has never formalized membership) while hosting U.S. military facilities. Turkey, a NATO member, becomes Russia's third-largest fossil fuel customer while mediating the Black Sea Grain Initiative. The common thread is pragmatism rather than ideology. Amitav Acharya calls the result a "multiplex world" in which consequential middle powers refuse the binary choices that great-power competition demands.
 
 ### Key Global South Concepts
 
 **Financial Sovereignty (*soberanía financiera*)**
 
-For developing nations, financial sovereignty means the capacity to conduct international trade and manage national reserves without vulnerability to unilateral foreign government decisions. The 2022 freezing of Russia's $300 billion in central bank reserves crystallized a concern that many Global South governments had long harbored: that dollar-denominated reserves, held in Western custodial institutions, are not truly sovereign wealth but conditional deposits subject to political seizure. This perception — whether fully justified or not — has driven concrete behavioral changes:
+For developing nations, financial sovereignty means the capacity to conduct international trade and manage national reserves without vulnerability to unilateral foreign government decisions. The 2022 freezing of Russia's $300 billion in central bank reserves sharpened a concern that many Global South governments had long harbored: that dollar-denominated reserves, held in Western custodial institutions, are not truly sovereign wealth but conditional deposits subject to political seizure. This perception, whether or not it is fully justified, has driven concrete behavioral changes:
 
 - Central bank gold purchases surged to record levels in 2022-2024 (World Gold Council), as physical gold held domestically cannot be frozen by foreign governments
 - India and Russia sought alternatives to dollar settlement, but local-currency use does not establish that trade settled specifically in rupees and rubles. A currency-by-currency breakdown is needed before assigning a share to that pair.
 - Brazil and China signed a R$157 billion ($27.7 billion) currency swap agreement in May 2025 (PBOC); the swap’s capacity is not evidence of the share of bilateral trade actually settled in yuan
 - China and Saudi Arabia signed a roughly $6.98 billion (RMB 50 billion) currency swap agreement in November 2023 and have publicly discussed pricing oil sales in yuan, though no completed yuan-denominated Saudi oil transaction has been publicly confirmed (S&P Global 2024)
 
-These bilateral arrangements remain small relative to global dollar flows. But their proliferation signals a systemic shift: countries are actively building the infrastructure for a post-dollar-dominant world, even if that world remains decades away.
+These bilateral arrangements remain small relative to global dollar flows. Their proliferation nonetheless points to countries building the infrastructure for a post-dollar-dominant world, even if that world remains decades away.
 
 **South-South Cooperation and Institutional Alternatives**
 
-The Global South's response to perceived financial hegemony has been institutional as well as bilateral. The BRICS New Development Bank (NDB), headquartered in Shanghai and led since 2023 by former Brazilian President Dilma Rousseff, has approved $40 billion across 122 projects (NDB Annual Report 2024), with approximately 25% of lending denominated in local currencies rather than dollars — a direct challenge to the dollar-denominated lending model of the World Bank and regional development banks. The Asian Infrastructure Investment Bank (AIIB), with 110 member nations including major European states, approved $8.4 billion in 2024 alone, with cumulative approvals exceeding $60 billion (AIIB Annual Report 2024).
+The Global South's response to perceived financial hegemony has been institutional as well as bilateral. The BRICS New Development Bank (NDB), headquartered in Shanghai and led since 2023 by former Brazilian President Dilma Rousseff, has approved $40 billion across 122 projects (NDB Annual Report 2024), with approximately 25% of lending denominated in local currencies rather than dollars, which challenges the dollar-denominated lending model of the World Bank and regional development banks. The Asian Infrastructure Investment Bank (AIIB), with 110 member nations including major European states, approved $8.4 billion in 2024 alone, with cumulative approvals exceeding $60 billion (AIIB Annual Report 2024).
 
-These institutions do not yet rival Bretton Woods incumbents in scale — the World Bank lent approximately $73 billion in FY2024 (World Bank Annual Report 2024) — but they offer something Bretton Woods institutions often cannot: lending without Washington Consensus conditionality. For governments that experienced IMF structural adjustment programs as instruments of ideological discipline (privatization requirements, fiscal austerity mandates, market liberalization conditions), the NDB and AIIB represent not just alternative funding sources but alternative development philosophies.
+The World Bank lent approximately $73 billion in FY2024 (World Bank Annual Report 2024), so these institutions do not yet rival the Bretton Woods incumbents in scale. They do offer something those institutions often cannot: lending without Washington Consensus conditionality. For governments that experienced IMF structural adjustment programs as instruments of ideological discipline (privatization requirements, fiscal austerity mandates, market liberalization conditions), the NDB and AIIB represent alternative development philosophies as well as alternative funding sources.
 
 **BRICS+ as Political Platform**
 
 BRICS has expanded rapidly from its original five members (Brazil, Russia, India, China, South Africa) to encompass Egypt, Ethiopia, Iran, the UAE, and Indonesia (joining January 2025), with nine additional partner nations (Belarus, Bolivia, Cuba, Kazakhstan, Malaysia, Nigeria, Thailand, Uganda, Uzbekistan) accepted at the October 2024 Kazan Summit. The expanded grouping encompasses roughly half the world's population and over 41% of global GDP (PPP) (IMF WEO 2024).
 
-BRICS+ is not a military alliance or even a coherent economic bloc — its members' interests diverge on almost every specific issue. But it serves three functions relevant to financial statecraft:
+BRICS+ is neither a military alliance nor a coherent economic bloc, and its members' interests diverge on almost every specific issue. It serves three functions relevant to financial statecraft:
 
 1. **Legitimacy platform**: BRICS communiqués characterizing unilateral sanctions as "incompatible with the UN Charter" provide diplomatic cover for non-compliance with Western sanctions regimes
 2. **Infrastructure coordination**: The BRICS Cross-Border Payment Initiative (BCBPI), BRICS Clear (financial instrument settlement), and discussions of interlinked payment systems create institutional architecture for de-dollarized transactions
-3. **Collective bargaining**: BRICS expansion signals to Washington that sanctions overreach has political costs — the more countries join an explicitly sanctions-skeptical grouping, the harder it becomes to maintain the fiction that sanctions represent "the international community"
+3. **Collective bargaining**: BRICS expansion signals to Washington that sanctions overreach has political costs; the more countries join an explicitly sanctions-skeptical grouping, the harder it becomes to maintain the fiction that sanctions represent "the international community"
 
-A common BRICS currency remains aspirational — the 2025 Rio de Janeiro summit made no mention of it, partly because Trump's threat of 100% tariffs on any BRICS country backing a dollar alternative concentrated minds. But the operative de-dollarization agenda is bilateral rather than multilateral: an expanding web of local-currency swap lines, settlement mechanisms, and payment platforms that gradually reduce dollar dependence transaction by transaction.
+A common BRICS currency remains aspirational: the 2025 Rio de Janeiro summit made no mention of it, partly because Trump's threat of 100% tariffs on any BRICS country backing a dollar alternative concentrated minds. The operative de-dollarization agenda is bilateral rather than multilateral: an expanding web of local-currency swap lines, settlement mechanisms, and payment platforms that gradually reduce dollar dependence transaction by transaction.
 
 ### Global South Critiques of Western Financial Sanctions
 
 **Sanctions as Financial Hegemony**
 
-The most fundamental Global South critique frames sanctions not as targeted policy instruments but as expressions of structural power in an asymmetric international order:
+The central Global South critique treats sanctions as expressions of structural power in an asymmetric international order:
 
-- **Unilateral authority**: U.S. sanctions are imposed by executive decision, administered by a single bureau (OFAC), and enforced through the threat of exclusion from the dollar clearing system — with no meaningful international oversight, no right of appeal for affected third parties, and no democratic accountability to the populations they devastate
-- **Extraterritorial reach**: Secondary sanctions extend U.S. jurisdiction to transactions involving no American persons, territory, or goods. For developing countries, this means that their sovereign right to trade with whichever partners they choose is contingent on American approval — a relationship that echoes colonial-era trade restrictions
-- **Collective punishment**: Broad sanctions regimes (including comprehensive country restrictions on Iran, Cuba, and the DPRK, and government and sectoral restrictions on Venezuela) impose devastating humanitarian costs on civilian populations — infant mortality, medical shortages, economic collapse — while elites maintain access through alternative channels. From the Global South, this looks less like "targeted pressure on decision-makers" and more like collective punishment of societies that lack the geopolitical weight to resist
+- **Unilateral authority**: U.S. sanctions are imposed by executive decision, administered by a single bureau (OFAC), and enforced through the threat of exclusion from the dollar clearing system, with no meaningful international oversight, no right of appeal for affected third parties, and no democratic accountability to the populations they affect
+- **Extraterritorial reach**: Secondary sanctions extend U.S. jurisdiction to transactions involving no American persons, territory, or goods. For developing countries, this means that their sovereign right to trade with whichever partners they choose is contingent on American approval, a relationship that echoes colonial-era trade restrictions
+- **Collective punishment**: Broad sanctions regimes (including comprehensive country restrictions on Iran, Cuba, and the DPRK, and government and sectoral restrictions on Venezuela) impose severe humanitarian costs on civilian populations (infant mortality, medical shortages, economic collapse) while elites maintain access through alternative channels. From the Global South, this looks less like "targeted pressure on decision-makers" and more like collective punishment of societies that lack the geopolitical weight to resist
 
 **Double Standards**
 
@@ -951,29 +949,29 @@ Global South governments consistently point to selective enforcement:
 - Iran faces comprehensive financial exclusion for nuclear enrichment; India and Pakistan (actual nuclear weapons states) face no financial sanctions
 - China faces escalating technology controls; Western allies receiving subsidized technology transfers face no restrictions
 
-Whether these comparisons are analytically sound is beside the point — they are politically potent, and they erode the moral authority on which sanctions' legitimacy ultimately depends.
+Whether these comparisons are analytically sound is beside the point: they are politically potent, and they erode the moral authority on which sanctions' legitimacy ultimately depends.
 
 **The Russia Sanctions as Demonstration Effect**
 
-The Western response to Russia's 2022 invasion of Ukraine has been the single most consequential event shaping Global South attitudes toward financial sanctions. Not because Global South governments support the invasion — most voted for UN General Assembly resolutions condemning it — but because the scale and speed of the Western response demonstrated capabilities that could, in principle, be directed at any country:
+The Western response to Russia's 2022 invasion of Ukraine has been the single most consequential event shaping Global South attitudes toward financial sanctions. Global South governments did not react this way because they support the invasion; most voted for UN General Assembly resolutions condemning it. They reacted to the scale and speed of the Western response, which demonstrated capabilities that could, in principle, be directed at any country:
 
 - Freezing sovereign reserves held in Western institutions
 - Disconnecting banks from SWIFT
 - Seizing private assets on the basis of nationality
 - Imposing secondary sanctions forcing third countries to choose sides
 
-India, with $660 billion in foreign exchange reserves (Reserve Bank of India) held substantially in Western institutions, drew immediate lessons. So did Saudi Arabia ($450 billion), Brazil ($350 billion) (IMF data), and dozens of smaller nations. The rational response — diversify reserves, build alternative payment channels, reduce dollar exposure — is not anti-American ideology but prudent risk management in a world where financial infrastructure has been weaponized.
+India, with $660 billion in foreign exchange reserves (Reserve Bank of India) held substantially in Western institutions, drew immediate lessons. So did Saudi Arabia ($450 billion), Brazil ($350 billion) (IMF data), and dozens of smaller nations. The rational response (diversify reserves, build alternative payment channels, reduce dollar exposure) is prudent risk management in a world where financial infrastructure has been weaponized.
 
 ### The Limits of Global South Resistance
 
-Global South de-dollarization rhetoric outpaces reality. The dollar still accounts for approximately 57% of global reserves, compared with 71% in 1999 (IMF COFER). The yuan’s share of SWIFT payment value was 2.73% in December 2025, while its share of reserves was 1.93% in 2025Q3: these are different denominators. CIPS processed about RMB 175 trillion in 2024 (PBOC), demonstrating growing RMB settlement capacity. That annual value cannot be compared directly with SWIFT’s daily message count or treated as a percentage of SWIFT’s traffic. Institutional alternatives remain substantial projects to evaluate on their own terms, rather than proof that a replacement financial system already exists.
+Global South de-dollarization rhetoric outpaces reality. The dollar still accounts for approximately 57% of global reserves, compared with 71% in 1999 (IMF COFER). The yuan’s share of SWIFT payment value was 2.73% in December 2025, while its share of reserves was 1.93% in 2025Q3: these are different denominators. CIPS processed about RMB 175 trillion in 2024 (PBOC), demonstrating growing RMB settlement capacity. That annual value cannot be compared directly with SWIFT’s daily message count or treated as a percentage of SWIFT’s traffic. Institutional alternatives are projects to evaluate on their own terms, not proof that a replacement financial system already exists.
 
-The structural barriers are formidable:
+The structural barriers are substantial:
 
 - **Capital market depth**: No alternative currency offers the deep, liquid, open capital markets that make the dollar attractive for reserve management. China's capital controls directly contradict reserve currency requirements
-- **Rule of law**: Foreign investors hold dollar assets partly because U.S. courts protect property rights through independent judicial review — a guarantee no alternative reserve currency issuer currently provides
-- **Network effects**: The dollar's dominance is self-reinforcing. Switching costs are enormous, and no individual country benefits from switching unilaterally
-- **Collective action problems**: BRICS+ members' interests diverge radically. India and China are strategic competitors; Saudi Arabia and Iran are regional rivals; Brazil's economic structure differs fundamentally from Russia's. Coordinated action against the dollar requires a level of trust and alignment that does not exist
+- **Rule of law**: Foreign investors hold dollar assets partly because U.S. courts protect property rights through independent judicial review, a guarantee no alternative reserve currency issuer currently provides
+- **Network effects**: The dollar's dominance is self-reinforcing. Switching costs are high, and no individual country benefits from switching unilaterally
+- **Collective action problems**: BRICS+ members' interests diverge widely. India and China are strategic competitors; Saudi Arabia and Iran are regional rivals; Brazil's economic structure differs from Russia's. Coordinated action against the dollar requires a level of trust and alignment that does not exist
 
 ### Implications for U.S. Strategy
 
@@ -981,15 +979,15 @@ The Global South perspective suggests several strategic considerations:
 
 1. **Legitimacy erosion is cumulative**: Each sanctions action faces a cost-benefit calculation not just for its immediate target but for its effect on the broader coalition of sanctions-compliant nations. The more countries that view sanctions as illegitimate, the higher the enforcement costs and the lower the effectiveness
 
-2. **Multi-alignment is structural, not opportunistic**: India, Brazil, Turkey, and Saudi Arabia are not "fence-sitting" — they are pursuing rational strategies in a multipolar world. Demanding alignment through secondary sanctions may produce short-term compliance but accelerates long-term infrastructure development that reduces U.S. leverage
+2. **Multi-alignment is structural, not opportunistic**: India, Brazil, Turkey, and Saudi Arabia are pursuing rational strategies in a multipolar world, not "fence-sitting." Demanding alignment through secondary sanctions may produce short-term compliance but accelerates long-term infrastructure development that reduces U.S. leverage
 
-3. **Alternative institutions compound**: The NDB, AIIB, CIPS, bilateral swaps, and BRICS+ coordination are individually insufficient to challenge dollar dominance. Collectively, over decades, they build the institutional infrastructure that makes de-dollarization feasible. The question for U.S. strategists is not whether alternatives will emerge but how fast — and how much U.S. behavior accelerates the timeline
+3. **Alternative institutions compound**: The NDB, AIIB, CIPS, bilateral swaps, and BRICS+ coordination are individually insufficient to challenge dollar dominance. Collectively, over decades, they build the institutional infrastructure that makes de-dollarization feasible. The question for U.S. strategists is how fast alternatives will emerge and how much U.S. behavior accelerates the timeline
 
 4. **Humanitarian consequences undermine moral authority**: The Global South's strongest rhetorical weapon against sanctions is their humanitarian impact. Demonstrating that sanctions are carefully targeted, time-limited, and include humanitarian exceptions would not eliminate Global South opposition but would reduce its political potency
 
-5. **The "coalitions of the aggrieved" are real**: When 101 countries identify as "new neutrals" and BRICS+ membership applications multiply, this represents not a conspiracy against the dollar but a market signal: the political cost of dollar weaponization is rising. Prudent strategy would seek to lower this cost rather than dismiss the signal
+5. **The "coalitions of the aggrieved" are real**: When 101 countries identify as "new neutrals" and BRICS+ membership applications multiply, this is a market signal that the political cost of dollar weaponization is rising. Prudent strategy would seek to lower this cost rather than dismiss the signal
 
-Global South perspectives on financial sanctions are neither uniformly hostile nor uniformly coherent. They range from India's pragmatic hedging to Iran's ideological opposition to Brazil's principled multilateralism. What unites them is a shared conviction that the international financial architecture should serve all participants, not function as a coercive instrument of any single power — and an increasing willingness to build alternatives when it does.
+Global South perspectives on financial sanctions are neither uniformly hostile nor uniformly coherent. They range from India's pragmatic hedging to Iran's ideological opposition to Brazil's principled multilateralism. What unites them is a shared conviction that the international financial architecture should serve all participants, not function as a coercive instrument of any single power, and an increasing willingness to build alternatives when it does.
 
 ---
 
@@ -997,23 +995,23 @@ Global South perspectives on financial sanctions are neither uniformly hostile n
 
 The **Office of Foreign Assets Control (OFAC)**, housed within the Treasury Department, administers over 30 active sanctions programs with a staff of roughly 200 (Treasury does not publish an exact headcount, citing "more than 200"). Its power derives less from direct enforcement than from the compliance infrastructure it compels across the global financial system: every institution touching U.S. finance must screen transactions against OFAC's lists. (For OFAC's legal authorities under IEEPA and TWEA, see Chapter 1, Government Tools Box 1.)
 
-**The SDN List** is OFAC's primary tool, containing 12,000+ designations as of 2026 (with a record 3,135 additions in 2024 alone). SDN designation immediately freezes all property within U.S. jurisdiction and prohibits U.S. persons from transacting with the target. The **50% Rule** extends blocking to any entity owned 50%+ by designated persons—even if not named on the list—capturing subsidiaries and shell companies. Additional lists target specific sectors (SSI List for Russia's financial/energy/defense sectors), sanctions evaders (FSE List), and secondary sanctions targets (NS-MBS List).
+**The SDN List** is OFAC's primary tool, containing 12,000+ designations as of 2026 (with a record 3,135 additions in 2024 alone). SDN designation immediately freezes all property within U.S. jurisdiction and prohibits U.S. persons from transacting with the target. The **50% Rule** extends blocking to any entity owned 50%+ by designated persons, even if not named on the list, which captures subsidiaries and shell companies. Additional lists target specific sectors (SSI List for Russia's financial/energy/defense sectors), sanctions evaders (FSE List), and secondary sanctions targets (NS-MBS List).
 
 Designations require only "reasonable basis to believe" criteria are met (far below criminal standards), with no prior notice to targets. OFAC administers general licenses (humanitarian trade, informational materials) and specific licenses (~2,000 applications annually) for otherwise-prohibited activities.
 
-**Enforcement**: Penalties reach $377,700 per violation (2025 inflation-adjusted IEEPA maximum) or twice the transaction value (civil) and $1 million/20 years imprisonment (criminal). Landmark settlements—BNP Paribas ($8.9 billion, 2014), Standard Chartered ($1.1 billion, 2019), Société Générale ($1.3 billion, 2018)—ensure the system is largely self-enforcing. However, these penalties incentivize **over-compliance** ("de-risking"), where institutions refuse even licensed humanitarian transactions to sanctioned jurisdictions.
+**Enforcement**: Penalties reach $377,700 per violation (2025 inflation-adjusted IEEPA maximum) or twice the transaction value (civil) and $1 million/20 years imprisonment (criminal). Landmark settlements ensure the system is largely self-enforcing: BNP Paribas ($8.9 billion, 2014), Standard Chartered ($1.1 billion, 2019), and Société Générale ($1.3 billion, 2018). However, these penalties incentivize **over-compliance** ("de-risking"), where institutions refuse even licensed humanitarian transactions to sanctioned jurisdictions.
 
-**Strengths**: Speed (designations within hours), global reach through dollar system intermediation, surgical precision compared to comprehensive embargoes, and deterrence through existential penalties. **Limitations**: Minimal due process, humanitarian harm from over-compliance, evasion through shell companies and cryptocurrency, and politicization risk as the SDN List doubles (from ~6,000 entries in 2016 to 12,000+ in 2024).
+**Strengths**: Speed (designations within hours), global reach through dollar system intermediation, surgical precision compared to comprehensive embargoes, and deterrence through very large penalties. **Limitations**: Minimal due process, humanitarian harm from over-compliance, evasion through shell companies and cryptocurrency, and politicization risk as the SDN List doubles (from ~6,000 entries in 2016 to 12,000+ in 2024).
 
 ---
 
 ## Government Tools Box 2: Secondary Sanctions Authorities
 
-Secondary sanctions threaten penalties against **non-U.S. persons** that transact with primary sanctions targets—extending U.S. sanctions reach globally by leveraging the asymmetry between U.S. financial system access and target-country market opportunity. Key authorities include CISADA (2010, Iran financial institutions), ITRSHRA (2012, Iran petroleum), CAATSA (2017, Russia defense/intelligence sectors and North Korea), and Executive Order 14024 (2021, Russia's military-industrial base).
+Secondary sanctions threaten penalties against **non-U.S. persons** that transact with primary sanctions targets, extending U.S. sanctions reach globally by leveraging the asymmetry between U.S. financial system access and target-country market opportunity. Key authorities include CISADA (2010, Iran financial institutions), ITRSHRA (2012, Iran petroleum), CAATSA (2017, Russia defense/intelligence sectors and North Korea), and Executive Order 14024 (2021, Russia's military-industrial base).
 
 The mechanism operates through cascading compliance: Congress specifies triggering transactions, the President selects from a menu of consequences (blocking property, prohibiting correspondent banking, denying export licenses), and foreign banks rationally terminate target relationships to preserve U.S. market access. As major banks comply, smaller banks lose correspondent access, isolating them alongside targets.
 
-**Demonstrated effectiveness**: Pre-JCPOA Iran isolation (2012-2015) remains the paradigm case. SWIFT disconnected Iranian banks, CISADA caused virtually all major banks to terminate Iranian relationships, oil exports fell from 2.5 million to ~1 million barrels/day, the rial lost 80% of its value, and inflation exceeded 40%—pressures contributing to Iran's decision to negotiate (Nephew 2017).
+**Demonstrated effectiveness**: Pre-JCPOA Iran isolation (2012-2015) remains the paradigm case. SWIFT disconnected Iranian banks, CISADA caused virtually all major banks to terminate Iranian relationships, oil exports fell from 2.5 million to ~1 million barrels/day, the rial lost 80% of its value, and inflation exceeded 40%, pressures that contributed to Iran's decision to negotiate (Nephew 2017).
 
 **Strengths**: Force-multiplier effect (single determination triggers hundreds of bank compliance decisions), leverages structural dollar dominance, overcomes free-rider problems. **Limitations**: Sovereignty backlash and alliance strain (EU Blocking Statute, India/Turkey friction); de-dollarization incentive (CIPS, BRICS alternatives); diminishing marginal returns as programs multiply; and humanitarian harm from over-compliance chilling legitimate transactions
 
@@ -1040,7 +1038,7 @@ The mechanism operates through cascading compliance: Congress specifies triggeri
 
 - **Dollar dominance rests on self-reinforcing network effects, not just economic size:** The dollar's share of global reserves (56.92% in 2025Q3) far exceeds the U.S. share of global GDP (25%) because liquidity, low transaction costs, and deep capital markets create a feedback loop that competitors cannot easily break. Displacing the dollar requires coordinated mass adoption of an alternative, which is difficult to achieve.
 
-- **Financial sanctions are the sharpest but most self-undermining tool in the U.S. economic coercion arsenal:** Each deployment -- freezing central bank reserves, excluding banks from SWIFT, imposing secondary sanctions -- demonstrates dollar vulnerability and incentivizes adversaries and even neutral parties to develop alternatives. The more effective the sanction, the greater the incentive for system-wide exit.
+- **Financial sanctions are the sharpest but most self-undermining tool in the U.S. economic coercion arsenal:** Each deployment (freezing central bank reserves, excluding banks from SWIFT, imposing secondary sanctions) demonstrates dollar vulnerability and incentivizes adversaries and even neutral parties to develop alternatives. The more effective the sanction, the greater the incentive for system-wide exit.
 
 - **The 2022 freezing of Russia's central bank reserves marked a turning point in financial statecraft:** Demonstrating willingness to confiscate a sovereign nation's reserves signaled that dollar reserves are held subject to the policy preferences of the issuing government. This prompted central bankers worldwide to reconsider reserve safety, motivating diversification and accelerating de-dollarization efforts even among countries not hostile to the United States.
 
@@ -1054,9 +1052,9 @@ The mechanism operates through cascading compliance: Congress specifies triggeri
 
 ## Discussion Questions
 
-1. The chapter argues that financial sanctions represent the most powerful tool available to the United States but also the most likely to destroy itself through overuse. How should U.S. policymakers determine the threshold for deploying financial sanctions -- should they be reserved for the most severe threats (invasion, WMD proliferation), or are lower-level uses (human rights abuses, democratic backsliding) justified despite erosion risks?
+1. The chapter argues that financial sanctions represent the most powerful tool available to the United States but also the most likely to destroy itself through overuse. How should U.S. policymakers determine the threshold for deploying financial sanctions? Should they be reserved for the most severe threats (invasion, WMD proliferation), or are lower-level uses (human rights abuses, democratic backsliding) justified despite erosion risks?
 
-2. Freezing $300 billion in Russian central bank reserves demonstrated devastating financial power but also motivated global de-dollarization efforts. Was this action strategically wise? Could the same deterrent effect have been achieved through less extreme measures that would not have alarmed neutral countries about the safety of their own dollar holdings?
+2. Freezing $300 billion in Russian central bank reserves demonstrated great financial power but also motivated global de-dollarization efforts. Was this action strategically wise? Could the same deterrent effect have been achieved through less extreme measures that would not have alarmed neutral countries about the safety of their own dollar holdings?
 
 3. CIPS, digital yuan, bilateral currency agreements, and BRICS discussions all aim to reduce dollar dependence. Assess the probability that these alternatives achieve critical mass within the next two decades. What conditions would accelerate or slow this transition? Is a multipolar currency system inevitable?
 
