@@ -322,6 +322,8 @@ United Nations World Water Development Report. 2023. "Water, Food, and Energy Ne
 
 White House. 2015. "U.S.-China Joint Presidential Statement on Climate Change." September 25.
 
+White House. 2015. "FACT SHEET: President Xi Jinping's State Visit to the United States." Office of the Press Secretary, September 25. https://obamawhitehouse.archives.gov/the-press-office/2015/09/25/fact-sheet-president-xi-jinpings-state-visit-united-states
+
 White House. 2017. *National Security Strategy of the United States of America*. December.
 
 White House. 2021. "Building Resilient Supply Chains, Revitalizing American Manufacturing, and Fostering Broad-Based Growth." June.

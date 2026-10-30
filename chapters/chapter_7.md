@@ -156,7 +156,7 @@ The depth and liquidity of U.S. financial markets add to the dollar's appeal:
 - Depth enables large capital raising (Apple $3 trillion market cap; Saudi Aramco IPO raised $29 billion in 2019 but still listed on Tadawul, not NYSE)
 
 **Foreign Exchange Market**:
-- 88% of foreign exchange transactions involve the dollar (2022 BIS Triennial Survey)
+- 89.2% of foreign exchange transactions involve the dollar (April 2025 BIS Triennial Survey)
 - Dollar-euro is most liquid currency pair
 - This liquidity enables low-cost currency conversion and hedging
 
@@ -579,7 +579,7 @@ Over 100 countries (representing 95%+ of global GDP) exploring CBDCs (Atlantic C
 
 **Skeptical Scenario**: CBDCs are domestic payment infrastructure improvements; international adoption faces same barriers as traditional currencies (capital controls, market depth, trust). Digital yuan remains subject to Chinese capital controls; digital dollar would strengthen, not weaken, U.S. financial dominance.
 
-**Current Evidence**: Early CBDC cross-border pilots (mBridge project: China, Thailand, Hong Kong, UAE) demonstrate technical feasibility but limited economic scale. Volumes tiny; participating countries still conduct vast majority of trade in dollars through traditional channels.
+**Current Evidence**: Early CBDC cross-border pilots (mBridge project: China, Thailand, Hong Kong, UAE, and Saudi Arabia, which joined in June 2024) demonstrate technical feasibility but limited economic scale. Volumes tiny; participating countries still conduct vast majority of trade in dollars through traditional channels.
 
 **Assessment**: CBDCs may incrementally reduce correspondent banking dependence and enable sanctions evasion at margins. But currency attractiveness depends on economic size, financial market depth, capital openness, and institutional credibility, factors that digitalization does not change.
 
@@ -648,7 +648,7 @@ De-dollarization faces a classic collective action problem: while many countries
 
 The euro, launched in 1999, represented Europe's attempt to create a currency rivaling the dollar. Twenty-five years later, the euro remains a regional rather than global currency:
 
-**Reserve currency status**: The euro accounts for approximately 20% of global foreign exchange reserves (IMF COFER 2024), second to the dollar's 58% but far from parity. This share has remained stable for a decade, suggesting the euro has reached its ceiling absent major changes.
+**Reserve currency status**: The euro accounts for 20.33% of global foreign exchange reserves (2025Q3, IMF COFER), second to the dollar's 56.92% but far from parity. This share has remained stable for a decade, suggesting the euro has reached its ceiling absent major changes.
 
 **Trade invoicing**: Most eurozone trade is invoiced in euros, but global trade remains dollar-dominant. Even European firms conducting trade outside the eurozone typically use dollars.
 
@@ -1040,7 +1040,7 @@ The mechanism operates through cascading compliance: Congress specifies triggeri
 
 - **Financial sanctions are the sharpest but most self-undermining tool in the U.S. economic coercion arsenal:** Each deployment (freezing central bank reserves, excluding banks from SWIFT, imposing secondary sanctions) demonstrates dollar vulnerability and incentivizes adversaries and even neutral parties to develop alternatives. The more effective the sanction, the greater the incentive for system-wide exit.
 
-- **The 2022 freezing of Russia's central bank reserves marked a turning point in financial statecraft:** Demonstrating willingness to confiscate a sovereign nation's reserves signaled that dollar reserves are held subject to the policy preferences of the issuing government. This prompted central bankers worldwide to reconsider reserve safety, motivating diversification and accelerating de-dollarization efforts even among countries not hostile to the United States.
+- **The 2022 freezing of Russia's central bank reserves marked a turning point in financial statecraft:** Demonstrating willingness to immobilize a sovereign nation's reserves signaled that dollar reserves are held subject to the policy preferences of the issuing government. This prompted central bankers worldwide to reconsider reserve safety, motivating diversification and accelerating de-dollarization efforts even among countries not hostile to the United States.
 
 - **Secondary sanctions force third countries into impossible choices, creating "coalitions of the aggrieved":** When the United States demands that India, Turkey, Brazil, or Saudi Arabia choose between U.S. markets and business with sanctioned countries, countries resenting this coercion may cooperate with Chinese alternative systems even without ideological alignment, ultimately weakening the financial architecture that enables sanctions.
 

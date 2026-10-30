@@ -68,7 +68,7 @@ Each chapter's "Key Insights" section summarizes the main takeaways, and its dat
 
 ## A Note on Data, Visualizations, and Currency
 
-This book includes more than 35 original data visualizations covering trade flows, technology competition metrics, sanctions effectiveness, supply chain dependencies, and future scenarios. All visualizations are built from publicly available data, documented in each chapter's "Data Sources" section and in the companion data repository.
+This book includes 49 original data visualizations covering trade flows, technology competition metrics, sanctions effectiveness, supply chain dependencies, and future scenarios. All visualizations are built from publicly available data, documented in each chapter's "Data Sources" section and in the companion data repository.
 
 Economic coercion changes quickly, and some statistics and policy details will become dated. I have used data current through early 2026, and the analytical framework should hold up as specific policies and numbers change.
 
