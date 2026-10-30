@@ -161,7 +161,7 @@ Taiwan's government indicates it is considering halting semiconductor exports to
 **Key Authorities:**
 - International Emergency Economic Powers Act (IEEPA), 50 U.S.C. §§ 1701-1708
 - National Emergencies Act (NEA), 50 U.S.C. §§ 1601-1651 (the companion statute that triggers IEEPA authorities)
-- Export Control Reform Act (ECRA), 50 U.S.C. § 4811 et seq.
+- Export Control Reform Act (ECRA), 50 U.S.C. § 4801 et seq.
 - Taiwan Relations Act (TRA), 22 U.S.C. § 3301 et seq.
 
 **Recent Precedents:**
@@ -173,15 +173,15 @@ Taiwan's government indicates it is considering halting semiconductor exports to
 **Economic Data:**
 - U.S.-China two-way goods trade: ~$584 billion (2024); record peak ~$690 billion in 2022, falling to ~$415 billion in 2025 after the tariff war (U.S. Census, goods basis; goods-plus-services runs ~$100-130 billion higher)
 - Chinese holdings of U.S. Treasuries: ~$680 billion (late 2025); third-largest foreign holder, behind Japan and the United Kingdom, down from a 2013 peak above $1.3 trillion (Treasury TIC)
-- Taiwan semiconductor exports to China: ~$140 billion annually
+- Taiwan's total exports to mainland China and Hong Kong: ~$151 billion (2024, Taiwan Ministry of Finance)
 - U.S. imports from China: ~$440 billion (2024); peaked at ~$536 billion in 2022
 - U.S. exports to China: ~$143 billion (2024)
 
 **Strategic Context:**
-- Taiwan Strait is world's most important semiconductor chokepoint (TSMC produces 90% of advanced chips)
+- Taiwan Strait is world's most important semiconductor chokepoint (Taiwan hosts roughly 90% of advanced logic capacity below 10nm, most of it TSMC's)
 - China depends on food imports (80%+ soybean import dependence) but has substantial domestic grain production and reserves
-- U.S. remains dependent on Chinese rare earths (80%+ for some critical elements)
-- Global shipping: 50%+ of container traffic passes through South China Sea
+- U.S. remains dependent on Chinese rare earths (about 80% of U.S. imports of rare-earth compounds and metals came from China in 2016-19, per USGS)
+- Global shipping: an estimated one-third of global shipping transits the South China Sea (CSIS ChinaPower)
 
 ### Facilitator Notes
 
@@ -353,7 +353,7 @@ Taiwan's government reports that Beijing has quietly communicated that "unnecess
 
 Intelligence assessment projects:
 - TSMC Taiwan recovery: 4-6 months to 80% capacity, 12-18 months to full capacity
-- China accelerating indigenous semiconductor development; may achieve 7nm production within 2 years
+- China accelerating indigenous semiconductor development; may achieve 5nm-class production within 2 years
 - U.S. domestic fab construction (CHIPS Act funded): Still 2-3 years from volume production
 
 Industry coalition proposes:
@@ -414,27 +414,26 @@ U.S. firms express concern that overly politicizing semiconductors will damage b
 **Key Authorities:**
 - CHIPS and Science Act of 2022, Pub. L. 117-167
 - Defense Production Act, 50 U.S.C. § 4501 et seq.
-- Export Control Reform Act (ECRA), 50 U.S.C. § 4811 et seq.
+- Export Control Reform Act (ECRA), 50 U.S.C. § 4801 et seq.
 - Foreign Direct Product Rule (FDPR) for semiconductors
 
 **Supply Chain Data:**
-- Taiwan market share: ~60% global semiconductor foundry capacity, 90% most advanced chips
-- U.S. dependencies: ~75% of U.S. semiconductor purchases from Asia
+- Taiwan market share: TSMC alone ~70% of global foundry revenue (TrendForce, 2Q25); Taiwan ~90% of advanced logic capacity below 10nm (BCG-SIA, 2021)
 - Defense systems: F-35, satellite systems, missile guidance all require advanced chips
-- China market: ~35% of global semiconductor consumption
+- China market: ~25% of global semiconductor consumption (BCG-SIA, 2019, end-demand basis)
 - Leading-edge fabs: TSMC (Taiwan), Samsung (Korea), Intel (U.S.)
 
 **Economic Impact:**
 - Semiconductor industry: $600 billion annually
 - Dependent industries: $8 trillion+ (electronics, auto, aerospace, medical devices)
-- 2021 chip shortage: Estimated $240 billion in lost auto industry revenue
+- 2021 chip shortage: Estimated $210 billion in lost global auto industry revenue (AlixPartners, Sept. 2021 forecast)
 - Average fab construction time: 3-5 years, $10-20 billion cost
 
 **Recent Precedents:**
 - 2021-2022 global chip shortage following COVID-19 disruptions
 - October 2022 U.S. semiconductor export controls on China
-- CHIPS Act $52 billion in subsidies for domestic semiconductor production
-- TSMC Arizona fab construction (2024-2025 target for production)
+- CHIPS Act $52.7 billion in subsidies for domestic semiconductor production
+- TSMC Arizona's first fab began N4 volume production in Q4 2024
 
 ### Facilitator Notes
 
@@ -672,14 +671,13 @@ Chinese state media declares that "those who seek to contain China will find the
 
 **Critical Mineral Data:**
 - Chinese rare earth production: about 70% of mining, about 90% of processing
-- U.S. imports: 80% of rare earth elements from China (2019)
-- Defense uses: $500 million+ annually in rare earths for weapons systems
-- Clean energy: Each wind turbine requires ~500 kg of rare earths; each EV motor ~1-2 kg
-- Price volatility: Previous Chinese restrictions (2010-2011) caused 10x price spikes
+- U.S. imports: about 80% of rare-earth compounds and metals from China (USGS, 2016-19)
+- Clean energy: permanent-magnet wind turbines and EV motors depend on rare-earth magnets
+- Price volatility: Previous Chinese restrictions (2010-2011) caused order-of-magnitude price spikes for some elements
 
 **Alternative Sources:**
 - U.S. domestic: Mountain Pass (California) only operating mine; several deposits in Alaska, Wyoming
-- Australia: Lynas Corporation, second-largest rare earth processor
+- Australia: Lynas Corporation, a leading rare earth processor outside China
 - Greenland: Kvanefjeld deposit, politically sensitive
 - Recycling: Currently <1% of rare earths recycled; technology improving
 
@@ -734,7 +732,7 @@ After completing this exercise, participants should be able to:
 - Leruth, Luc, Adnan Mazarei, Pierre Regibeau, and Luc Renneboog. "Green Energy Depends on Critical Minerals. Who Controls the Supply Chains?" PIIE Working Paper 22-12, 2022
 
 **On Rare Earth Supply Chains:**
-- Hurst, Cindy. "China's Rare Earth Elements Industry." TRADOC G-2, 2010
+- Hurst, Cindy. "China's Rare Earth Elements Industry." Institute for the Analysis of Global Security, 2010
 - Baskaran, Gracelin, and Meredith Schwartz. "The Consequences of China's New Rare Earths Export Restrictions." CSIS, 2025
 
 **Case Studies:**
@@ -936,7 +934,7 @@ Commerce Department reports export control violations are difficult to prove and
 ### Background Materials
 
 **Key Authorities:**
-- Export Control Reform Act (ECRA), 50 U.S.C. § 4811 et seq.
+- Export Control Reform Act (ECRA), 50 U.S.C. § 4801 et seq.
 - International Traffic in Arms Regulations (ITAR), 22 C.F.R. §§ 120-130
 - Commerce Control List (CCL) for emerging technologies
 - Executive Order 14179 (2025), "Removing Barriers to American Leadership in Artificial Intelligence," and the July 2025 *America's AI Action Plan* (the framework that replaced the rescinded EO 14110 on Safe, Secure, and Trustworthy AI)
@@ -948,8 +946,7 @@ Commerce Department reports export control violations are difficult to prove and
 - Military AI applications: Autonomous weapons, intelligence analysis, cyber operations, decision support
 
 **Economic Data:**
-- Global AI market: $200 billion (2023), projected $2 trillion by 2030
-- China AI market: ~25% of global market
+- Global AI market: roughly $200 billion (2023); one vendor forecast (Grand View Research) projects $1.8 trillion by 2030
 - U.S. AI industry: Leads globally but dependent on international talent and markets
 - Cost to train frontier AI model: $100 million - $1 billion
 
@@ -1006,7 +1003,6 @@ After completing this exercise, participants should be able to:
 
 **On Technology Export Controls:**
 - Mastanduno, Michael. "Economic Containment: CoCom and the Politics of East-West Trade." Cornell UP, 1992
-- Stokes, Jacob. "The Rise of Techno-Statecraft." Carnegie Endowment, 2023
 
 **On U.S.-China AI Competition:**
 - Lee, Kai-Fu. "AI Superpowers: China, Silicon Valley, and the New World Order." Houghton Mifflin, 2018
@@ -1210,7 +1206,7 @@ Countries with Chinese cable investments (Pakistan, Myanmar, several African nat
 
 **Infrastructure Data:**
 - 95%+ of intercontinental data travels via submarine cables
-- ~500 submarine cables globally, carrying ~$10 trillion in financial transactions daily
+- ~600 submarine cable systems in service or under construction (TeleGeography, 2025), carrying ~$10 trillion in financial transactions daily
 - Taiwan connected by multiple cables (majority land in northern Taiwan)
 - Average cable repair time: 2-6 weeks
 - Cable routes: Concentration in South China Sea, vulnerable chokepoints
@@ -1222,7 +1218,7 @@ Countries with Chinese cable investments (Pakistan, Myanmar, several African nat
 - February 2023: two cables to Taiwan's Matsu Islands severed by Chinese vessels, cutting the islands off for weeks
 - October 2023: the Balticconnector gas pipeline and adjacent data cables damaged in the Gulf of Finland (the containership *Newnew Polar Bear* dragging its anchor)
 - November 2024: the bulk carrier *Yi Peng 3* implicated in cutting cables linking Finland, Germany, Lithuania, and Sweden
-- December 2024: the tanker *Eagle S* dragged its anchor roughly 100 km, damaging the Estlink 2 power cable and telecom lines in the Gulf of Finland
+- December 2024: the tanker *Eagle S* dragged its anchor for several tens of kilometers, damaging the Estlink 2 power cable and telecom lines in the Gulf of Finland
 - January 2025: the Trans-Pacific Express cable off northern Taiwan damaged by a suspect vessel (*Shunxin 39*), part of a run of Taiwan-area incidents through early 2025
 - Ongoing Russian and Chinese seabed-mapping and cable-surveillance activity in the North Atlantic and around Taiwan
 
@@ -1256,7 +1252,7 @@ Countries with Chinese cable investments (Pakistan, Myanmar, several African nat
 ### Further Reading
 
 - Sechrist, Michael. "New Threats, Old Technology: Vulnerabilities in Undersea Cable Networks." *Belfer Center*, 2012
-- Sechrist, Michael. "Cyberspace in Deep Water: Protecting Undersea Communication Cables." *Joint Force Quarterly*, 2010
+- Sechrist, Michael. "Cyberspace in Deep Water: Protecting Undersea Communication Cables by Creating an International Public-Private Partnership." Harvard Kennedy School, 2010
 - Sherman, Justin. "Cyber Defense Across the Ocean Floor: The Geopolitics of Submarine Cable Security." Atlantic Council, 2021
 
 **Policy Documents:**
@@ -1430,7 +1426,7 @@ Short of these demands, China offers modest concessions:
 
 **Data:**
 - U.S.-China two-way goods trade: ~$584 billion (2024); record peak ~$690 billion in 2022, then ~$415 billion in 2025 amid the tariff war (U.S. Census, goods basis)
-- U.S. agricultural exports to China: $20-30 billion
+- U.S. agricultural exports to China: fell 66% to $8.3 billion in 2025 (Capital Press, Feb. 2026)
 - Tariff revenue vs. economic costs
 - Historical trade war precedents (Smoot-Hawley, 1930s)
 
@@ -2173,7 +2169,7 @@ Participants must design sanctions strategy addressing:
 
 **Historical Cases:**
 - Mastanduno, Michael. "Economic Containment: CoCom and the Politics of East-West Trade." Cornell UP, 1992
-- Crawford, Neta C., and Audie Klotz. "How Sanctions Work: South Africa." St. Martin's Press, 1999
+- Crawford, Neta C., and Audie Klotz. "How Sanctions Work: Lessons from South Africa." St. Martin's Press, 1999
 - Perez, Louis A. "Cuba and the United States: Ties of Singular Intimacy." Georgia UP, 2003
 
 **Sanctions Effectiveness Studies:**
@@ -2299,11 +2295,11 @@ You are convened as the Strategic Competition Policy Committee to manage the esc
 **Inject 1: Green Technology Chokepoint**
 
 A climate-amplified super-typhoon triggers catastrophic flooding across China's eastern and southern manufacturing belt (Jiangsu, Zhejiang, Anhui, and Guangdong), damaging critical infrastructure for:
-- ~85% of global solar module and cell assembly
+- ~85% of global solar module assembly
 - ~80% of global EV battery cell production
 - Major magnet and rare-earth processing facilities (China refines ~90% of the world's rare earths)
 
-The shock cascades upstream: the flooded coastal fabricators are cut off from their polysilicon feedstock in arid Xinjiang, which supplies ~40% of the world's solar-grade polysilicon. The global green energy transition faces 12-18 month delays, and prices for solar panels, batteries, and critical minerals spike 300-400%.
+The shock cascades upstream: the flooded coastal fabricators are cut off from their polysilicon feedstock in arid Xinjiang, which supplies nearly 45% of the world's solar-grade polysilicon. The global green energy transition faces 12-18 month delays, and prices for solar panels, batteries, and critical minerals spike 300-400%.
 
 **Chinese Response:**
 China announces "Climate Emergency Resource Allocation System":
@@ -2336,7 +2332,7 @@ Simultaneously:
 - Crypto-based payment systems gain traction for sanctions evasion
 
 **U.S. Financial System Impact:**
-- Dollar's share of global reserves declines from 58% to 50% in six months
+- Dollar's share of global reserves declines from about 57% to 50% in six months
 - Treasury market volatility as foreign holdings decline
 - Reduced effectiveness of financial sanctions as alternatives proliferate
 
@@ -2466,7 +2462,7 @@ China offers:
 - Climate geoengineering technologies
 
 **Future Trends:**
-- Climate change accelerating (4-6°C scenarios by 2100)
+- Climate change accelerating (up to 3.3-5.7°C by 2081-2100 under the highest-emissions IPCC scenario)
 - Technological change exponential (AI, biotech, quantum)
 - Geopolitical fragmentation (bloc formation, partial decoupling)
 - Demographic shifts (aging in developed world, youth bulges in developing world)
@@ -2519,7 +2515,6 @@ China offers:
 **On Emerging Technologies:**
 - Schmidt, Eric, et al. "National Security Commission on AI Final Report." 2021
 - Klare, Michael T. "The Race for What's Left." Metropolitan Books, 2012
-- Burrows, Mathew J., and Robert A. Manning. "How 5G, AI, and Quantum Computing Are About to Transform Warfare." *Atlantic Council*, 2020
 
 **On Future Scenarios:**
 - National Intelligence Council. "Global Trends 2040: A More Contested World." 2021

@@ -58,7 +58,7 @@ Investment in a screened sector falls from 10 to 4 units. Investment in a compar
 
 Higher scores below mean better outcomes after costs, in arbitrary units. Use A/B/C/D planning weights of 40/25/20/15.
 
-| Strategy | A: Managed competition | B: Economic cold war | C: Regional fragmentation | D: Renewed integration |
+| Strategy | A: Managed competition | B: Economic cold war | C: Crisis-driven fragmentation | D: Renewed integration |
 |---|---:|---:|---:|---:|
 | Concentrated sourcing | 8 | 1 | 2 | 10 |
 | Diversified sourcing | 6 | 6 | 5 | 7 |
