@@ -88,4 +88,5 @@ save_econ_figure("figures/fig_XX_YY_name.png", p, width = 6, height = 4)
 - **Width:** 6 inches for every figure, saved at 300 dpi; drawn at print size with a base text size of 9 pt and nothing under 7 pt. No in-image titles (panels are labelled "A.", "B."); put the title in the manuscript caption. See `R/theme_book.R` and `scripts/book_style.py`
 - **Math in Markdown:** Use `$$...$$` on own lines for GitBook KaTeX compatibility
 - **Citations:** Author-date format (Smith 2020)
+- **Prose edits** (de-AI, voice, citation checks): follow `AGENTS.md`; `scripts/lookup_citations.py` does the Crossref/OpenAlex lookups for the citation pass
 
