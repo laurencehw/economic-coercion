@@ -47,10 +47,17 @@ def last_content_date(paths, cover):
         files = [f for f in git("show", "--name-only", "--format=", sha).splitlines() if f]
         if files == [cover]:  # human commit that touched only the cover: still content unless only the date line changed
             diff = git("show", "--format=", "-U0", sha, "--", cover)
-            removed = sorted(mask(l[1:]) for l in diff.splitlines() if l.startswith("-") and not l.startswith("---"))
-            added = sorted(mask(l[1:]) for l in diff.splitlines() if l.startswith("+") and not l.startswith("+++"))
-            if added and removed == added:  # only date substrings changed
-                continue
+            body, in_hunk = [], False
+            for l in diff.splitlines():  # changed lines inside hunks only, so a deleted "---" rule still counts
+                if l.startswith("@@"):
+                    in_hunk = True
+                elif in_hunk and l[:1] in ("+", "-"):
+                    body.append(l)
+            removed = [l[1:] for l in body if l[0] == "-"]
+            added = [l[1:] for l in body if l[0] == "+"]
+            labels = all(BANNER.match(l) or LINE.match(l) for l in removed + added)
+            if added and labels and sorted(map(mask, removed)) == sorted(map(mask, added)):
+                continue  # every changed line is an update label and only its date changed
         return dt.datetime.fromisoformat(ci.replace("Z", "+00:00"))
     return None
 
