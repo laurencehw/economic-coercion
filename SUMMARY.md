@@ -1,6 +1,6 @@
 # Table of Contents
 
-* [Economic Coercion in the 21st Century](INTRODUCTION.md)
+* [Economic Coercion](INTRODUCTION.md)
 
 ## Front Matter
 
