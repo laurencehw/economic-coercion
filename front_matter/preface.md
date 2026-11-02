@@ -101,5 +101,5 @@ This book aims to provide that equipment: a systematic way to reason about the l
 ---
 
 **Laurence Wilse-Samson**
-New York University, Robert F. Wagner Graduate School of Public Service (NYU Wagner)
+NYU Wagner Graduate School of Public Service
 November 2025 (revised 2026)
