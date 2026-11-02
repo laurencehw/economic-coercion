@@ -30,6 +30,14 @@ MARK = "chore(cover-date)"
 def git(*a):
     return subprocess.run(["git", *a], check=True, capture_output=True, text=True).stdout
 
+def mask(line):
+    """Blank the date in an update label (LINE or BANNER match); leave dates in other prose alone."""
+    for rx in (BANNER, LINE):
+        m = rx.match(line)
+        if m:
+            return line[:m.start("date")] + "<date>" + line[m.end("date"):]
+    return line
+
 def last_content_date(paths, cover):
     log = git("log", "--format=%H%x1f%an%x1f%ae%x1f%cI%x1f%s", "--", *paths)
     for row in log.splitlines():
@@ -39,8 +47,8 @@ def last_content_date(paths, cover):
         files = [f for f in git("show", "--name-only", "--format=", sha).splitlines() if f]
         if files == [cover]:  # human commit that touched only the cover: still content unless only the date line changed
             diff = git("show", "--format=", "-U0", sha, "--", cover)
-            removed = sorted(re.sub(DATE, "<date>", l[1:]) for l in diff.splitlines() if l.startswith("-") and not l.startswith("---"))
-            added = sorted(re.sub(DATE, "<date>", l[1:]) for l in diff.splitlines() if l.startswith("+") and not l.startswith("+++"))
+            removed = sorted(mask(l[1:]) for l in diff.splitlines() if l.startswith("-") and not l.startswith("---"))
+            added = sorted(mask(l[1:]) for l in diff.splitlines() if l.startswith("+") and not l.startswith("+++"))
             if added and removed == added:  # only date substrings changed
                 continue
         return dt.datetime.fromisoformat(ci.replace("Z", "+00:00"))
